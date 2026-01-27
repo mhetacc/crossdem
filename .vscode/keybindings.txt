@@ -1,0 +1,23 @@
+    {    "key": "ctrl+alt+c",
+        "command": "macros.latex_code_word"
+    },
+    {
+        "key": "ctrl+i",
+        "command": "macros.italic_latex"
+    },
+    {
+        "key": "ctrl+alt+p",
+        "command": "macros.markdown_code_block"
+    },
+    {
+        "key": "ctrl+m",
+        "command": "macros.latex_math"
+    },
+    {
+        "key": "ctrl+shift+j",
+        "command": "editor.action.joinLines"
+    }
+    {
+        "key": "ctrl+shift+s",
+        "command": "macros.hmtl_sub"
+    }

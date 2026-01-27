@@ -1,0 +1,66 @@
+{
+    "macros": {
+        "italic_latex": [
+            {
+                "command": "type",
+                "args": {
+                    "text": "\\textit{}"
+                }
+            },
+            "cursorLeft"
+        ],
+        "color_text": [
+            {
+                "command": "type",
+                "args": {
+                    "text": "\\textcolor{changes}{}"
+                }
+            },
+            "cursorLeft"
+        ],
+        "markdown_code_block": [
+            {
+                "command": "type",
+                "args": {
+                    "text": "```python```"
+                }
+            },
+            "cursorLeft",
+            "cursorLeft",
+            "cursorLeft"
+        ],
+        "markdown_code_word": [
+            {
+                "command": "type",
+                "args": {
+                    "text": "``"
+                }
+            },
+            "cursorLeft"
+        ],
+        "html_sub": [
+            {
+                "command": "type",
+                "args": {
+                    "text": "<sub></sub>"
+                }
+            },
+            "cursorLeft",
+            "cursorLeft",
+            "cursorLeft",
+            "cursorLeft",
+            "cursorLeft",
+            "cursorLeft"
+        ]
+    },
+    "cSpell.words": [
+        "Convolutional",
+        "cyberbullied",
+        "cyberbullying",
+        "emisphere",
+        "hyperparameters",
+        "multimodal",
+        "virality"
+    ],
+    "editor.wordWrap": "on"
+}
