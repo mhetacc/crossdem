@@ -2,8 +2,31 @@
 
 Step 1: find text corpus:
 
-- Italian politicians' public speaks 
+- Italian politicians' public speeches
 - Limited time scope
+
+## What Corpus
+
+1. Public speeches
+   - official 
+     - press conference
+     - speeches to the nations
+     - radio
+     - tv
+     - etc
+   - unofficial
+     - social network?
+2. Parliament speeches
+   - Italy: Camera dei Deputati
+   - US: United States House of Representatives
+   - FR: Assemblée nationale 
+3. Presidential speeches
+   - [Discorsi dei Presienti della Repubblica](https://archivio.quirinale.it/aspr/discorsi/search/result)
+
+*At the 2005 UN World Summit, the speakers of parliament who came to United Nations Headquarters from every corner of the globe stated unequivocally that, within a democracy, parliament is the central institution through which the will of the people is expressed, laws are passed, and government is held to account* [...] *The fact that most parliaments have established their presence on the Web makes the legislative process and parliamentary proceedings more transparent and subject to public scrutiny.* [https://www.researchgate.net/profile/Cornelia-Ilie/publication/303459695_Parliamentary_Discourse/links/59d9dbdc458515a5bc2b1b17/Parliamentary-Discourse.pdf]
+
+### Social Networks
+*International survey data suggest online media audience members are largely passive consumers, while content creation is dominated by a small number of social users who post comments and write new content* [Tracking the future of news Reuters Institute digital news report 2013]
 
 ## Time Scope
 
@@ -14,6 +37,7 @@ Only politicians of national relevance -> no majors or regional representative a
 ## Corpus sources
 
 ### Accademia della crusca - Banca dati discorsi parlamentari
+https://leader.accademiadellacrusca.org/
 
 Filtered stenographic documents from 1948 to 2011
 
