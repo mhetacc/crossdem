@@ -19,7 +19,7 @@ Simplicity in visualization is a must: easy to read graphs are more usable -> re
 
 Taking opposing colours can incite polarization, even though the effects are limited [source?]
 
-## Politicians' Rhetoric  
+# Politicians' Rhetoric  
 
 2 Types:
 - **To institutions (inside)**
@@ -40,7 +40,100 @@ Two other **advantages** of **outside communications**:
 1. A lot of documents
 2. Easy automatization: take the social networks of politicians and track it
 
+## Social Media and Public Opinions
 
+### 2023, most used by europeans
+For 71% of respondents, TV was one of their most used media to access news in the past days. TV is followed by online press and/or news platforms (42%). Radio and social media platforms (both 37%) are on shared third position followed by the written press (21%). Important to note that social media grew by 11 points since the previous year. Younger respondents are much more likely to use social media platform (59% of 15-24 year-olds vs 24% of 55+ year-olds) [eurobarometer,2023].
+
+### 2024, most used by brits
+49% reported using television to follow election news this summer. That compared against 26% who used social media, 24% who said they used news apps, 24% who used radio, 19% newspaper websites, 17% news sites not associated with newspapers and 16% word of mouth [maher,2024].
+
+### Social Media as a Public Space for Politics: Cross-National Comparison of News Consumption and Participatory Behaviors in the United States and the United Kingdom
+[saldana,2015]
+
+#### Summary
+
+Evidence of social media role in promoting citizens’ political engagement (US and UK)
+
+#### Content
+
+news consumption is positively related to political participation in both countries. In other words, the more people consume news and political information, the more they participate in politics. 
+
+### Designing and validating the Social Media Political Participation Scale: An instrument to measure political participation on social media
+[waeterloos,2021]
+
+#### Summary
+
+Evaluate political participation through social media
+
+#### Content
+
+Instrument SMPPS: Social Media Political Participation Scale measure who is politically engaged and why, as well as how digital technologies are embedded in diverse forms of political action. -> that captures the complexity of political partici- pation through social media platforms
+
+#### Citations
+
+In this regard, Bennett and Segerberg [3] introduced the concept of connective action. According to the authors, *taking public action has increasingly become an act of personal expression*. Hereby, a new logic of participation has emerged where ‘sharing’ is the starting point of political participation, enabled by various personal communication technologies such as social media [Bennet,2012] [bennet&seger,2012]
+
+### Social media discourse and voting decisions influence: sentiment analysis in tweets during an electoral period
+[rita,2022]
+
+#### Summary
+
+Tweets sentiment analysis is not a reliable election result predictor.
+
+#### Content
+
+this study searches for a conclusion of the actual persuasion capacity of social media in the electors when they need to decide whom to vote for as their next government -> to achieve it, it compares the sentiment that Social Media users demonstrated during an electoral period with the actual results of those election
+
+Data were collected using R. The treatment and analysis were done with R and RapidMiner. Results show that tweets’ sentiment is not a reliable election results predictor. Additionally, results also show that it is impossible to state that social media impacts voting decisions. At least not from the polarity of the sentiment of opinions on social media
+
+#### Citations
+
+### Analyzing voter behavior on social media during the 2020 US presidential election campaign
+[belcastro,2022]
+
+#### Summary
+
+Use social media data to poll public opinion on 2020 US presidential elections.
+
+#### Content
+
+2020 US presidential elections: determine in the weeks preceding the Election Day which candidate or party public opinion is most in favor of by jointly applying topic discovery, opinion mining, and emotion analysis techniques on social media data
+
+Specifically, a real-time analysis was carried out during the 2020 US presidential election campaign using data gathered from Twitter, *correctly determining* Joe Biden’s lead over Donald Trump before the Election Day.
+
+The obtained results confirm the great effectiveness of our approach, which outperformed the average of the latest opinion polls by *correctly identifying* the leading candidate before the Election Day *in 10 out of 11 swing states*. 
+
+*One major drawback of this approach lies in different possible platform biases*, such as usage biases due to the distribution of users of a social media platform in terms of gender, age, culture and social status, as well as technical biases related to platform policies about data availability and restrictions imposed in some areas of the world
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
 
 # Exam Scope Limiting
 
