@@ -34,7 +34,7 @@ Taking opposing colours can incite polarization, even though the effects are lim
     - eg Tweets
     - eg Videos on facebook (eg il diario di giorgia)
 
-Social networks are at this point the main communication vehicle for politicians in the global north, therefore it is of greater interest to gauge the political temperature via *outside communications*. Moreover, stenographic documents preceding a certain period are not 1:1 transcriptions of the actual speeches, but rather "speak the language of the parliament" [Cortelazzo, 1985]  [Mohrhoff, 1987]
+Social networks are at this point the main communication vehicle for politicians in the global north [source?], therefore it is of greater interest to gauge the political temperature via *outside communications*. Moreover, stenographic documents preceding a certain period are not 1:1 transcriptions of the actual speeches, but rather "speak the language of the parliament" [Cortelazzo,1985]  [Mohrhoff,1987]
 
 Two other **advantages** of **outside communications**: 
 1. A lot of documents
