@@ -1,3 +1,52 @@
+# Goal
+
+![](imgs/goalthesis.jpg)
+
+Cross-compare:
+- **Politicians' rhetoric**
+  - complexity analysis
+  - lexical analysis
+  - hate speech detection
+  - sentiment analysis 
+  - etc
+- **Democracy levels**
+  - V-Dem dataset
+  - Free speech
+  - Separation of powers 
+  - etc
+
+Simplicity in visualization is a must: easy to read graphs are more usable -> reach bigger audience [soruce?]
+
+Taking opposing colours can incite polarization, even though the effects are limited [source?]
+
+## Politicians' Rhetoric  
+
+2 Types:
+- **To institutions (inside)**
+  - Parliamentary speeches
+  - Senate speeches
+  - etc
+- **To the people (outside)**
+  - Official messages to the nation
+  - Public speeches
+  - Interviews
+  - Social networks messages (video or textual)
+    - eg Tweets
+    - eg Videos on facebook (eg il diario di giorgia)
+
+Social networks are at this point the main communication vehicle for politicians in the global north, therefore it is of greater interest to gauge the political temperature via *outside communications*. Moreover, stenographic documents preceding a certain period are not 1:1 transcriptions of the actual speeches, but rather "speak the language of the parliament" [Cortelazzo, 1985]  [Mohrhoff, 1987]
+
+Two other **advantages** of **outside communications**: 
+1. A lot of documents
+2. Easy automatization: take the social networks of politicians and track it
+
+
+
+# Exam Scope Limiting
+
+One country: Italy
+
+
 # Text Corpus
 
 Step 1: find text corpus:
