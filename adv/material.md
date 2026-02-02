@@ -108,10 +108,12 @@ The obtained results confirm the great effectiveness of our approach, which outp
 
 #### Citations
 
-### Title
-[]
+### A systematic review of worldwide causal and correlational evidence on digital media and democracy
+[loren-spreen,2023]
 
 #### Summary
+
+Correlation between social media usage and 
 
 #### Content
 
