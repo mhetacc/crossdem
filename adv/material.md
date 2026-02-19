@@ -39,6 +39,46 @@ Social networks are at this point the main communication vehicle for politicians
 Two other **advantages** of **outside communications**: 
 1. A lot of documents
 2. Easy automatization: take the social networks of politicians and track it
+3. Less "political lingo" -> AIs are better trained on common language (greater amount of data) 
+
+## AIs: Political Lingo vs Common Language
+
+### Exploiting Vocabulary Frequency Imbalance in Language Model Pre-training
+[chung,exploit,2025]
+
+#### Summary
+
+Show evidence that common words are learned better by AI agents
+
+#### Content
+
+Large language models are trained with tokenizers, and the resulting token distribution is highly imbalanced.
+
+controlled study that scales the vocabulary of the language model from 24K to 196K while holding data, computation, and optimization unchanged: Above 24K, every common word is already tokenized as a single token, so enlarging vocabulary only deepens the relative token-frequency imbalance
+
+larger vocabularies reduce cross-entropy loss almost exclusively by lowering uncertainty on the 2,500 most frequent words, even though *loss on the rare tail rises*.
+
+I.E., *models are disproportionately optimized on* the part of language that appears most often, i.e., *common words and patterns* -> LLM training corpora are heavily skewed toward high‑frequency, everyday words and constructions
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
 
 ## Social Media and Public Opinions
 
@@ -113,11 +153,17 @@ The obtained results confirm the great effectiveness of our approach, which outp
 
 #### Summary
 
-Correlation between social media usage and 
+Correlation between social media usage and decline in democracy
 
 #### Content
 
+Alongside the positive effects of digital media for democracy, there is clear evidence of seri- ous threats to democracy.
+
 #### Citations
+
+Figure 1a confirms that the search query mainly returned articles concerned with the most relevant associations between digital media and political outcomes. Most of the articles were published in the last 5 years, *highlighting the fast growth of interest in the link between digital media and democracy*. Articles span a range of disciplines, including political science, psychology, computational science and communication science.
+
+Fig. 1d shows that many studies *focused* on political information online, and specifically *political information on social media*, in combination with political polarization and participation, 
 
 ### Title
 []
