@@ -266,4 +266,17 @@ Regno d'Italia: legislature VIII -> XXX
 
 https://www.senato.it/legislature/1/lavori/assemblea/resoconti-elenco-cronologico?year=1953
 
+# Models
 
+## Models Bias
+
+### What Is The Political Content in LLMs' Pre- and Post-Training Data?
+[ceron,2025]
+
+#### Summary
+
+Left-leaning documents predominate across training datasets
+
+### Section Ai bias of wnma
+
+Summary: AIs are left-leaning.
