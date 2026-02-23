@@ -41,6 +41,104 @@ Two other **advantages** of **outside communications**:
 2. Easy automatization: take the social networks of politicians and track it
 3. Less "political lingo" -> AIs are better trained on common language (greater amount of data) 
 
+
+## Parliamentary versus Public Speeches
+
+Parliamentary speeches are more technical and codified, while public speeches are addressed to the general public and contain stronger political and emotional messages.
+
+
+### Playing to the Gallery: Emotive Rhetoric in Parliaments
+[osnabrugge,2021]
+
+#### Summary
+
+Emotive rhetoric is more pronounced in high-profile legislative debates, such as Prime Minister’s Questions
+
+#### Content
+
+These findings contribute to the study of legislative speech and political representation by suggesting that emotive rhetoric is used by legislators to appeal directly to voters.
+
+#### Citations
+
+### The determinants of the media coverage of politicians: The role of parliamentary activities
+[yildirim,2026]
+
+#### Summary
+
+Speaking often in the parliament translates to higher media appearance
+
+#### Content
+
+#### Citations
+
+### European parliaments under scrutiny: discourse strategies and interaction practices
+[knezevic,2011]
+
+#### Summary
+
+Analyzes the "interpellation" (questioning) and "cut-and-thrust" of parliamentary debate as a unique genre that doesn't exist in public oratory.
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+
+
+
 ## AIs: Political Lingo vs Common Language
 
 ### Exploiting Vocabulary Frequency Imbalance in Language Model Pre-training
@@ -59,24 +157,6 @@ controlled study that scales the vocabulary of the language model from 24K to 19
 larger vocabularies reduce cross-entropy loss almost exclusively by lowering uncertainty on the 2,500 most frequent words, even though *loss on the rare tail rises*.
 
 I.E., *models are disproportionately optimized on* the part of language that appears most often, i.e., *common words and patterns* -> LLM training corpora are heavily skewed toward high‑frequency, everyday words and constructions
-
-#### Citations
-
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
-
-### Title
-[]
-
-#### Summary
-
-#### Content
 
 #### Citations
 
@@ -207,23 +287,42 @@ Citizens turn increasingly to social media to get their political information. H
 
 #### Citations
 
-### Title
-[]
+### ! Machine learning for predicting elections in Latin America based on social media engagement and polls
+[brito,2022]
 
 #### Summary
+
+Accurately predict elections results with machine learning on social networks data
+
+#### Content
+
+Performance of Candidates on SM may be measured by engagement on official profiles.
+
+We can use Machine Learning with SM data and polls to predict elections on a daily basis.
+
+Elections prediction with SM data was similar to or more accurate than polls in Argentina, Brazil, Colombia, and Mexico.
+
+#### Citations
+
+the present paper proposes SoMEN, the Social Media framework for Election Nowcasting, a framework composed of a process and an ML model for nowcasting election results based on SM performance as features and with offline polls as labeled data. It also defines SoMEN-DC, an execution strategy for SoMEN that enables continuous prediction during the campaign (DC). The proposed metrics and framework were applied to some of the main recent presidential elections in Latin America: Argentina (2019), Brazil (2018), Colombia (2018), and Mexico (2018). More than 65,000 posts were collected from the SM profiles of candidates on Facebook, Twitter, and Instagram with data from 195 presidential polls.
+
+the success of presidential campaigns is frequently attributed to being correlated with the SM performance of the candidates
+
+The usual process of this approach consists of (i) Twitter data collection by pre-selected keywords during a specific interval; (ii) data cleaning, by removing tweets not addressing elections, together with duplicates or retweets; (iii) sentiment analysis using lexicon-based approaches or ML approaches; (iv) prediction based on volume/sentiment counting analysis using a linear formula; and (v) performance evaluation.
+Current surveys have confirmed this low performance level: Brito et al. (Brito et al., 2021) reported that there was only a 55% success rate in the 64 studies that used the volume/sentiment approach.
+
+### The Impact of Social Media Use for Elected Parliamentarians: Evidence from Politicians' Use of Twitter During the Last Two Swiss Legislatures
+[reveilhac,2022]
+
+#### Summary
+
+Twitter-based activity moderately impacts politicians' political success, both in terms of political ranking and media coverage.
 
 #### Content
 
 #### Citations
 
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
+Campaigning on social media has become a core feature of political communication.1 Parties and politicians rely heavily on these platforms to promote their views, interact with citizens and actors close to politics, and generate traditional media attention.
 
 ### Title
 []
