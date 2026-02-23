@@ -165,6 +165,156 @@ Figure 1a confirms that the search query mainly returned articles concerned with
 
 Fig. 1d shows that many studies *focused* on political information online, and specifically *political information on social media*, in combination with political polarization and participation, 
 
+### ! Politicians unleashed? Political communication on Twitter and in parliament in Western Europe
+[silva,2021]
+
+#### Summary
+
+Sentiment on social network is a useful measure for politicians' opinions. 
+
+#### Content
+
+*MP: Member of Parliament*
+
+Match tweets against parliamentary speeches to measure politicians sentiment on topic X. 
+
+Using a *dataset containing tweets and parliamentary speeches* by members of parliament (MPs) in seven countries, we estimate politicians’ positions and intra-party dissent on European integration.
+
+They find that MPs’ sentiment about Europe on Twitter is a valid measure of their party's position, while also uncovering intra-party disagreements. 
+
+Most MPs amplify the partisan message, but MPs who participate less in parliamentary debate tend to have larger differences with their party on Twitter. Social media thus can free politicians from their party's grip.
+
+Moreover, in the fewer instances where they do speak in parliament, we find that these dissidents express positions which are different to those they themselves express on Twitter, suggesting that perhaps even a *certain level of self-censoring is taking place* in the parliamentary arena.
+
+Limitation: estimating a fine-grained measure of policy positioning at the individual MP level is substantially more difficult than doing so at the party level.
+
+#### Citations
+
+Social media allows politicians across Europe to directly communicate with the public. Such political communication stands in stark contrast to the regulated debates in parliaments, in which time constraints and procedural rules limit the ability of individual MPs to express views on all issues. Yet, despite the two different arenas, it is unclear how social media platforms actually change the way in which politicians communicate or interact with their voters, or what new incentives and opportunities they present. The lingering question is if, and how, the usage of social media by politicians is different from communication in parliaments
+
+MPs could therefore have an incentive to choose Twitter to personalize their message and enhance their personal profile in cases where there is internal disagreement with the party line
+
+### Do people learn about politics on social media? A meta-analysis of 76 studies 
+[amsalem,2022]
+
+#### Summary
+
+Citizen get political information from social media but they are not more informed.
+
+#### Content
+
+Citizens turn increasingly to social media to get their political information. However, it is currently unclear whether using these platforms actually makes them more politically knowledgeable.
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
 ### Title
 []
 
