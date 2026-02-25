@@ -326,117 +326,6 @@ Twitter-based activity moderately impacts politicians' political success, both i
 
 Campaigning on social media has become a core feature of political communication.1 Parties and politicians rely heavily on these platforms to promote their views, interact with citizens and actors close to politics, and generate traditional media attention.
 
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
-
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
-
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
-
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
-
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
-
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
-
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
-
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
-
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
-
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
-
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
-
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
-
-# Exam Scope Limiting
-
-One country: Italy
 
 
 # Text Corpus
@@ -445,6 +334,153 @@ Step 1: find text corpus:
 
 - Italian politicians' public speeches
 - Limited time scope
+
+## Countries to Compare
+
+First of all I need to identify which countries to gather corpus from, meaning which countries are the most meaningful to be compared.
+
+### FR vs IT vs USA
+
+The differences and similarities of these three countries make it so that it makes sense to compare them
+
+- Executive Model:
+  - USA: Full Presidential (President holds all power)
+  - France: Semi-Presidential (power split between President and Prime Minister)
+  - Italy: Parliamentary (Prime Minister holds the power but depends on Parliament)
+- Party System: 
+  - USA bipartisan system
+  - France and Italy multi-party systems
+- State System
+  - France unitary state
+  - Italy: unitary with strong regions
+  - US: Federation
+- Common background:
+  - Allies in 2WW
+  - Strong economical connection
+  - Cultural influence between each other
+- European context compared to American 
+- 
+
+### Italy's democratic quality and the role of political parties: comparative empirical patterns
+[Panzano,2025]
+
+#### Summary
+
+Italy is a political and social outlier 
+
+#### Content
+
+Italy represents both a positive/negative outlier or frontrunner/latecomer across different dimensions of democratic quality
+
+most of its democratic defects can be explained by the high personalization and low institutionalization of its political parties
+
+
+#### Citations
+
+Italy is considered a thorny case for comparativists, as its unique political and party system features often make it stand out among liberal democracies.
+
+### A Comparison of the French and Italian Parliaments 
+[mezzabotta,2023]
+
+#### Summary
+
+France and Italy present notable differences between their parliamentary systems
+
+#### Content
+
+In France the government must constantly maintain the support of the National Assembly, making it more vulnerable to changes in the political climate and power shifts. On the other hand, in Italy, the government is accountable to both chambers, which requires it to have the support of a parliamentary majority in both chambers to govern. This gives the government more stability but also makes it harder for it to push through controversial policies
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
+
+### Title
+[]
+
+#### Summary
+
+#### Content
+
+#### Citations
 
 ## What Corpus
 
