@@ -46,6 +46,8 @@ Two other **advantages** of **outside communications**:
 
 Parliamentary speeches are more technical and codified, while public speeches are addressed to the general public and contain stronger political and emotional messages.
 
+Until circa 1985 stenograph people changed things i.e., did not transcript word for word [holtus,1985]  [mohrhoff,1987].
+
 
 ### Playing to the Gallery: Emotive Rhetoric in Parliaments
 [osnabrugge,2021]
@@ -482,7 +484,7 @@ Filtered stenographic documents from 1948 to 2011
 
 Focus on leadership, on some highly representative leaders.
 
-Oss: until circa 1985 stenograph people changed things i.e., did not transcript word for word [Michele A. Cortelazzo, Dal parlato al (tra)scritto: i resoconti stenografici dei discorsi parlamentari, in Günter Holtus – Edgar Radtke (Hrsg.), Gesprochenes Italienisch in Geschichte und Gegenwart, Tübingen, Narr, 1985, pp. 86-118.]  [Aurelia Mohrhoff, Dalla lingua del Parlamento alla lingua del parlamentare, «Serie delle verifiche di professionalità dei consiglieri parlamentari», 1987, 1, p. 157.].
+Oss: until circa 1985 stenograph people changed things i.e., did not transcript word for word [holtus,1985]  [mohrhoff,1987].
 
 #### Elenco leader influenti
 
@@ -526,6 +528,6 @@ https://www.senato.it/legislature/1/lavori/assemblea/resoconti-elenco-cronologic
 
 Left-leaning documents predominate across training datasets
 
-### Section Ai bias of wnma
+### WNMA: AI Bias
 
 Summary: AIs are left-leaning.
