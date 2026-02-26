@@ -390,6 +390,12 @@ France and Italy present notable differences between their parliamentary systems
 
 In France the government must constantly maintain the support of the National Assembly, making it more vulnerable to changes in the political climate and power shifts. On the other hand, in Italy, the government is accountable to both chambers, which requires it to have the support of a parliamentary majority in both chambers to govern. This gives the government more stability but also makes it harder for it to push through controversial policies
 
+In Italy, the Senate has a more significant role, as it must also approve a motion of no confidence for the government to fall. 
+
+In France, the two-round majority system tends to favour larger parties and makes it difficult for smaller parties to gain representation in the National Assembly. (more similar to US) -> not anymore now its not bipartisan [ledet,2026]
+
+In Italy, the proportional system has led to a highly fragmented party system, with a large number of small parties gaining representation in the Chamber of Deputies and the Senate. This has resulted in unstable governments and frequent changes in coalitions.
+
 #### Citations
 
 ### Title
