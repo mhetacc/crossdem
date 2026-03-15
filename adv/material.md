@@ -325,15 +325,19 @@ Twitter-based activity moderately impacts politicians' political success, both i
 #### Citations
 
 Campaigning on social media has become a core feature of political communication.1 Parties and politicians rely heavily on these platforms to promote their views, interact with citizens and actors close to politics, and generate traditional media attention.
-
+Step 1: find text corpus.
 
 
 # Text Corpus
 
-Step 1: find text corpus:
+In order to execute any analysis at all I need to have a text corpora to work on.
 
-- Italian politicians' public speeches
-- Limited time scope
+1. Find which countries to compare
+2. Find politicians representative of their time period
+   1. how wide time period?
+   2. prime minister / presidents?
+   3. members of the opposition?
+3. find public speeches of said politicians 
 
 ## Countries to Compare
 
@@ -359,7 +363,10 @@ The differences and similarities of these three countries make it so that it mak
   - Strong economical connection
   - Cultural influence between each other
 - European context compared to American 
-- 
+
+US, Italy and France history is highly entertwined, such as how the US helped them in the mediterranea strategy [brogi,2006] or how the US fought with the two countries communist parties [brogi,2011]
+
+
 
 ### Italy's democratic quality and the role of political parties: comparative empirical patterns
 [Panzano,2025]
@@ -398,21 +405,31 @@ In Italy, the proportional system has led to a highly fragmented party system, w
 
 #### Citations
 
-### Title
-[]
+### Confronting America: The Cold War between the United States and the Communists in France and Italy
+[brogi,2011]
 
 #### Summary
 
+France and Italy's communist parties are superstrong and hate the US
+
 #### Content
+
+Throughout the Cold War, the United States encountered unexpected challenges from Italy and France, two countries with the strongest, and determinedly most anti-American, Communist Parties in Western Europe. 
+
+Brogi shows that the resistance to Americanization was a critical test for the French and Italian communists' own legitimacy and existence. Their anti-Americanism was mostly dogmatic and driven by the Soviet Union, but it was also, at crucial times, subtle and ambivalent, nurturing fascination with the American culture of dissent. The staunchly anticommunist United States, Brogi argues, found a successful balance to fighting the communist threat in France and Italy by employing diplomacy and fostering instances of mild dissent in both countries. 
 
 #### Citations
 
-### Title
-[]
+### "Competing Missions": France, Italy, and the Rise of American Hegemony in the Mediterranean
+[brogi,2006]
 
 #### Summary
 
+How France, Italy and the US cooperated in their Mediterranean strategies.
+
 #### Content
+
+France and Italy regarded the Mediterranean as the arena where they could most naturally wage a struggle for power and status, but their ultimate goals and designs remained primarily focused on the continent: a greater role in the Mediterranean could be their key to attain a better mastery of European integration and, consequently, a greater role in the Western alliance. Stressing the persistence of intra-European rivalries during the most crucial phase of continental integration, this perspective helps clarify the American role as well. Washington developed a keen perception of French and Italian designs and ambitions, and was thus able to use them to stabilize the two countries’ domestic politics as well as NATO's balance of power.
 
 #### Citations
 
