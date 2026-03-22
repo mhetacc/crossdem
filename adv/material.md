@@ -536,12 +536,20 @@ Oss: until circa 1985 stenograph people changed things i.e., did not transcript 
 
 https://www.paroladileader.com/p/blog-page_24.html
 
+A list of Italian influential politicians from 1945 to Monti
 
- GIORGIO ALMIRANTE
-	
- GIULIANO AMATO
-	
- GIULIO ANDREOTTI
+Governo 
+
+Opposizione
+- Giorgio Almirante: 	8 maggio 1948 –
+22 maggio 1988 (Camera dei Deputati)
+
+
+GIORGIO ALMIRANTE 
+
+GIULIANO AMATO
+
+GIULIO ANDREOTTI
 
 ENRICO BERLINGUER
 	
