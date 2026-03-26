@@ -523,6 +523,16 @@ France and Italy regarded the Mediterranean as the arena where they could most n
 1. Find a list of influential politicians over the time span
 2. Gather corpus i.e., public speeches (speeches, interviews, videos, open letters, etc)
 
+### Prime Ministers
+
+An obvious way to gather influential political figures is by taking the prime ministers.
+
+Presidents of the Italian Republic, on the other hand, represents national unity and guarantees that Italian politics comply with the Constitution but its role is more ceremonial.
+
+De Gasperi: 10 dicembre 1945 – 13 giugno 1946 "Presidente del Consiglio dei ministri del Regno d'Italia" since it was not yet the Italian Republic.
+
+[https://legislature.camera.it/organiparlamentariSM/241/4405/5342/documentotesto.ASP?cost=3] -> not complete
+
 ### Accademia della crusca - Banca dati discorsi parlamentari
 https://leader.accademiadellacrusca.org/
 
@@ -539,11 +549,11 @@ https://www.paroladileader.com/p/blog-page_24.html
 A list of Italian influential politicians from 1945 to Monti
 
 Governo 
+- Giuliano Amato
+  - 12 luglio 1983 – 14 aprile 1994
 
 Opposizione
-- Giorgio Almirante: 	8 maggio 1948 –
-22 maggio 1988 (Camera dei Deputati)
-
+- Giorgio Almirante: 	8 maggio 1948 – 22 maggio 1988 (Camera dei Deputati)
 
 GIORGIO ALMIRANTE 
 
