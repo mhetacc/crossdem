@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1774806005.35581 "/home/mhetac/Documents/GitHub/crossdem/misc/phd/cv/CVbellomarco.tex" "CVbellomarco.pdf" "CVbellomarco" 1774806006.54122 0
-  "/home/mhetac/Documents/GitHub/crossdem/misc/phd/cv/CVbellomarco.tex" 1774806003.90194 7198 17df815c633e63461548d17985c93bfb ""
+["pdflatex"] 1774814097.58052 "/home/mhetac/Documents/GitHub/crossdem/misc/phd/cv/CVbellomarco.tex" "CVbellomarco.pdf" "CVbellomarco" 1774814098.71855 0
+  "/home/mhetac/Documents/GitHub/crossdem/misc/phd/cv/CVbellomarco.tex" 1774814096.10722 7684 2bd4b920cb7e4aac3254b950f66abf4a ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc" 1651520503 2608 3139db8e1f9371a4f87c0715d17fa217 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1622837620 3083 a707712f77b073b3833e4b1334a30e99 ""
@@ -184,9 +184,9 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1770681600 40900 887e0dc8cac988a9e9c574af364cf837 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1771514209.38609 4547809 72a019b3ea2e5a9ca986a536dc67eb1c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1774263365 7759951 c42a1c6bc57885bb4aedf584baa23b63 ""
-  "CVbellomarco.aux" 1774806006.39193 883 d02f15c702ca2073e686ff9670195693 "pdflatex"
-  "CVbellomarco.out" 1774806006.39293 318 dcefc50179b093f85a3257cd870e711b "pdflatex"
-  "CVbellomarco.tex" 1774806003.90194 7198 17df815c633e63461548d17985c93bfb ""
+  "CVbellomarco.aux" 1774814098.59722 919 dad9d2d455fe4d4f50cd3925ddfd3ebc "pdflatex"
+  "CVbellomarco.out" 1774814098.59822 337 edc6048d17327337d75ae05903c06be1 "pdflatex"
+  "CVbellomarco.tex" 1774814096.10722 7684 2bd4b920cb7e4aac3254b950f66abf4a ""
   (generated)
   "CVbellomarco.aux"
   "CVbellomarco.log"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.3.23)  29 MAR 2026 19:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.3.23)  29 MAR 2026 21:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -660,7 +660,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 91.
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 93.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 94.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
@@ -669,21 +669,21 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}] (./CVbellomarco.aux)
 Package rerunfilecheck Info: File `CVbellomarco.out' has not changed.
-(rerunfilecheck)             Checksum: DCEFC50179B093F85A3257CD870E711B;318.
+(rerunfilecheck)             Checksum: EDC6048D17327337D75AE05903C06BE1;337.
  ) 
 Here is how much of TeX's memory you used:
- 25916 strings out of 476034
- 500782 string characters out of 5792864
- 1888388 words of memory out of 6000000
+ 25917 strings out of 476034
+ 500794 string characters out of 5792864
+ 1893388 words of memory out of 6000000
  45882 multiletter control sequences out of 15000+600000
  521598 words of font info for 87 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
  129i,12n,122p,1060b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CVbellomarco.pdf (1 page, 153185 bytes).
+Output written on CVbellomarco.pdf (1 page, 153526 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
- 74 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
- 31269 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 106 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 500000)
+ 31277 words of extra memory for PDF output out of 35830 (max. 10000000)
 
