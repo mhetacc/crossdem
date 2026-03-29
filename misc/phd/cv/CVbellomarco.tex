@@ -1,0 +1,161 @@
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% "ModernCV" CV and Cover Letter
+% LaTeX Template
+% Version 1.11 (19/6/14)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Xavier Danaux (xdanaux@gmail.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template requires the moderncv.cls and .sty files to be in the same 
+% directory as this .tex file. These files provide the resume style and themes 
+% used for structuring the document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt,a4paper,sans]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+
+\usepackage{fontawesome5}
+\usepackage{xcolor}
+
+
+\moderncvcolor{red} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+\moderncvstyle{classic} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\definecolor{venetianred}{HTML}{A42A04} 
+\colorlet{color1}{venetianred} % main accent color \colorlet{color2}{mycolor!70} % secondary (slightly lighter)
+
+
+%\colorlet{color2}{mycolor!70} % secondary (slightly lighter)
+
+%\definecolor{color1}{HTML}{434C98}
+
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={210mm,297mm},
+ left=10mm,
+ right=10mm,
+ top=20mm,
+ bottom=20mm,
+ }
+
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\firstname{Marco} % Your first name
+\familyname{Bellò} % Your last name
+
+
+\mobile{+393497617003}
+ % Phone number
+\email{marco.bello.vi@gmail.com} % Email ID
+
+
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge Marco Bellò} \\ \vspace{5pt}
+    \small \faMobile* +39 3497617003 \hspace{1pt} $|$
+    \hspace{1pt} \faEnvelope \hspace{2pt} \href{mailto:marco.bello.vi@gmail.com}{marco.bello.vi@gmail.com} \hspace{1pt} $|$ 
+    \hspace{1pt} \faGithub \hspace{2pt} \href{https://github.com/mhetacc}{github.com/mhetacc} \hspace{1pt} $|$
+    \hspace{1pt} \faTelegram \hspace{2pt} \href{https://t.me/mhetac}{t.me/mhetac}
+    \\ \vspace{-3pt}
+\end{center}
+\vspace{10pt} % adjust spacing as needed
+
+{\color{venetianred} \hrule height 0.8pt}
+
+\vspace{10pt}
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Education}
+
+\cventry{2023}{Bachelor in Computer Science}{\textit{University of Padua}}{Padua, Italy}{91/110}{}
+
+\cventry{2023-Current}{Master in Computer Science}{\textit{University of Padua}}{Padua, Italy}{}{}
+%\cvlistitem{}
+
+\cventry{2025}{Erasmus Exchange}{\textit{University of Helsinki}}{Helsinki, Finland}{}{}
+
+%----------------------------------------------------------------------------------------
+%	PROJECT SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Projects}
+
+\cventry{2024}{Social Network Analysis on TikTok}{}{}{}{The goal was to measure the presence of echo chambers in the US political landscape. Ten politically relevant TikTok accounts have been selected, respectively five left-leaning and five right-leaning. Then, data from said accounts were collected to measure their activity and perform a social network analysis on their followers.}
+\cvlistitem{\href{https://github.com/mhetacc/TikTok_SocialNetworkAnalysis}{Repository: \texttt{mhetacc/TikTok\_SocialNetworkAnalysis}}}
+\cvlistitem{\href{https://github.com/mhetacc/TikTok_SocialNetworkAnalysis/blob/8dda0499f91e5cfa76714df77f055aa0956abfd0/Report_BelloMorini.pdf}{PDF Report: \texttt{mhetacc/TikTok\_SocialNetworkAnalysis/report.pdf}}}
+
+\cventry{2025}{Interactive Data Visualizer}{}{}{}{Visualize Europe's political leaning by state from 2009 to 2024. All data were taken from Eurostat official databases. The visualization, made with Plotly, consists of a map of Europe where each state is coloured based on its election results (from far right to far left), and a line chart which shows three metrics: net earnings, immigration and poverty risk.}
+\cvlistitem{\href{https://github.com/mhetacc/HLSK_InteractiveVisualizer}{Repository: \texttt{mhetacc/HLSK\_InteractiveVisualizer}}}
+
+\cventry{2025}{Pygame Showcaser for Raft Consensus Algorithm}{}{}{}{Bare-bones Travian clone made in Pygame that showcases some of the Raft consenus algorithm's base functionality. The project leverages multithreading and remote procedure calls to achieve the desired results.}
+\cvlistitem{\href{https://github.com/mhetacc/Raftian}{Repository: \texttt{mhetacc/Raftian}}}
+\cvlistitem{\href{https://github.com/mhetacc/Raftian/blob/62ea393921eda52a92554dd10b958c9e5a53520d/docs/report/report.pdf}{PDF Report: \texttt{mhetacc/Raftian/.../report.pdf}}}
+
+
+\cventry{2026}{Regression and Classification Tasks in R}{}{}{}{Small-scale projects for both regression and classification tasks in R.}
+\cvlistitem{\href{https://github.com/mhetacc/UNIPD_DataMiningClassificationRegression}{Repository: \texttt{mhetacc/UNIPD\_DataMiningClassificationRegression}}}
+\cvlistitem{\href{https://github.com/mhetacc/UNIPD_DataMiningClassificationRegression/blob/0f0573f87e24efd75f3ae55be952e75852f156de/report/report.pdf}{PDF Report: \texttt{mhetacc/UNIPD\_DataMiningClassificationRegression/report.pdf}}}
+
+
+
+
+
+
+%----------------------------------------------------------------------------------------
+%	ACHIEVEMENTS SECTION
+%----------------------------------------------------------------------------------------
+
+
+%----------------------------------------------------------------------------------------
+%	PROFILE% SECTION
+%---------------------------------------------------------------------------------------%-%
+
+%\section{Profiles}
+
+%\cvitem{GitHub}{\url{https://github.com/sakshib}}
+%\cvitem{clubVA}{\url{https://www.clubva.com/public/employee/avatar/index/Sakshi}\newline{}}
+
+
+
+\section{Skills \& Experience}
+
+%\cvitem{Subjects}{Operating Systems, DBMS, Compiler Design, Computer Networks, Pattern Recognition, Software engineering, Graph Theory, Algorithms, Microprocessors, Data Structures, Computer graphics, Digital Logic, Electronic Ciruits}%
+\cvitem{Spoken languages}{Italian (native), English (C1 - TOEFL 108/120)}
+
+\vspace{1em}
+
+\cvitem{CS Skills}{Python, R, C++, Dart, Java, SQL, HTML, \LaTeX, Git, QML, GDScript.}
+
+\vspace{1em}
+
+\cvitem{Teaching skills}{I have been tutoring students aged eight to twenty-five for ten years, mainly in computer science but also in other subjects.}
+
+\vspace{1em}
+
+\cvitem{Operating Systems}{Windows, macOS, Linux. My current system runs Fedora Workstation 43.}
+
+
+\end{document}
