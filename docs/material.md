@@ -427,81 +427,97 @@ How France, Italy and the US cooperated in their Mediterranean strategies.
 
 France and Italy regarded the Mediterranean as the arena where they could most naturally wage a struggle for power and status, but their ultimate goals and designs remained primarily focused on the continent: a greater role in the Mediterranean could be their key to attain a better mastery of European integration and, consequently, a greater role in the Western alliance. Stressing the persistence of intra-European rivalries during the most crucial phase of continental integration, this perspective helps clarify the American role as well. Washington developed a keen perception of French and Italian designs and ambitions, and was thus able to use them to stabilize the two countries’ domestic politics as well as NATO's balance of power.
 
-#### Citations
+## Other Corpora
 
-### Title
-[]
+### ParlaMint
+https://github.com/clarin-eric/ParlaMint/
+> Comparable parliamentary corpora for a number of countries and languages.
 
-#### Summary
+#### Parties
+| Party_ID | Party_Name | Abbreviation | Gov_Role | Orientation |
+| :--- | :--- | :--- | :--- | :--- |
+| ORG-NDP | National Democratic Party | NDP | Coalition | Centre-Left |
+| ORG-CU | Conservative Union | CU | Opposition | Centre-Right |
 
-#### Content
+#### Speakers
+| Speaker_ID | First_Name | Last_Name | Gender | Status | Party_ID | Birth_Year |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| P-MillerS | Sarah | Miller | F | MP | ORG-NDP | 1975 |
+| P-ChenL | Lin | Chen | M | MP | ORG-CU | 1982 |
+| P-DavisJ | James | Davis | M | Minister | ORG-NDP | 1968 |
 
-#### Citations
+#### Speeches (transcripts)
+| Speech_ID | Date | Term | Session | Speaker_ID | Speaker_Role | Speech_Text | Incidents | Speech_Type | Addressee_ID |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| S_2026-03-30_001 | 2026-03-30 | 9 | 42 | P-MillerS | chair | The session is now open. We will begin with standard questions. I give the floor to Representative Chen. | | Statement | |
+| S_2026-03-30_002 | 2026-03-30 | 9 | 42 | P-ChenL | regular | Thank you, Madam Chair. My question is for the Minister of Energy. Why has the regional solar subsidy been delayed by three months? | incident: [Microphone feedback] | Question | P-DavisJ |
+| S_2026-03-30_003 | 2026-03-30 | 9 | 42 | P-DavisJ | regular | I thank the representative for the question. The delay was strictly due to a logistical hold-up in the treasury, which was resolved yesterday. | vocal: [Groans] \| kinesic: [Applause from the right] | Answer | P-ChenL |
 
-### Title
-[]
+##### Adapted
+| Speech_ID | Date | Event_Type | Venue_Channel | Speaker_ID | Speaker_Role | Speech_Text | Incidents | Speech_Type | Source_URL |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| S_2026-03-30_001 | 2026-03-30 | Interview | BBC_News | P-SmithJ | host | Welcome back. Minister, you stated yesterday that taxes would not rise. Is that still a guarantee? | | Question | https://link... |
+| S_2026-03-30_002 | 2026-03-30 | Interview | BBC_News | P-DavisJ | main_speaker | John, let me be crystal clear. We have absolutely no plans to— | | Answer | https://link... |
+| S_2026-03-30_003 | 2026-03-30 | Interview | BBC_News | P-SmithJ | host | But you didn't answer the question, Minister. Is it a guarantee? | kinesic: [Points finger] | Interruption | https://link... |
+| S_2026-03-31_001 | 2026-03-31 | Rally | Town_Square | P-MillerS | main_speaker | Thank you! Today, we stand together to build a better future for our region! | kinesic: [Wild applause] \| vocal: [Cheering] | Address | https://link... |
 
-#### Summary
+### IMPAQTS
+>Multimodal corpus of around 2.65 million tokens including 1,500 speeches uttered by 150 prominent politicians spanning from 1946 to 2023
 
-#### Content
+>For each speaker, the corpus contains 4 parliamentary speeches, 2 rallies, 1 party assembly, and 3 statements (in person or broadcasted)
 
-#### Citations
+### Parola di Leader
 
-### Title
-[]
+#### Vocabs Corpus
 
-#### Summary
+For each vocab:
+- total # occurrences
+- part of speech
+- lemma
+- count # occurences for:
+  - each politicians
+  - major party
+  - opposition
 
-#### Content
+- Imprinting: 
+  - s_m: singolare maschile
+  - indic_pres_s_3: indicativo presente singolare 3a persona
 
-#### Citations
+|Forma grafica|Occorrenze totali|CAT|CAT_AC|CAT_SEM|Imprinting|Lemma|Informazioni aggiuntive|COMUNICAZIONI|LEGGI|MOZIONI|ALMIRANTE|AMATO|ANDREOTTI|BERLINGUER|BERLUSCONI|BERSANI|BERTINOTTI|BINDI|BONINO|BOSSI|CASINI|COSSIGA|CRAXI|DALEMA|DEGASPERI|DEMITA|DIPIETRO|FANFANI|FINI|LAMALFA|MORO|NENNI|OCCHETTO|PANNELLA|PRODI|SARAGAT|SPADOLINI|TOGLIATTI|VELTRONI|VENDOLA|L01|L02|L03|L04|L05|L06|L07|L08|L09|L10|L11|L12|L13|L14|L15|L16|APPOGGIO|ASTENSIONE|MAGGIORANZA|OPPOSIZIONE|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|di|220319|J|N+PREP|||di|N/VB3;PREP/VB1|109204|53597|57518|36180|3748|13557|4672|5606|1526|3241|3271|11422|2608|3554|4191|7778|7507|3868|3878|2190|5611|6042|10902|10998|9295|3929|21782|3875|6332|3948|15135|2470|1203|21302|12244|19587|18044|14722|13054|22128|20808|15405|12430|10001|5541|16854|7923|4122|6154|4498|3642|85464|126715
+|che|170572|J|A+CONG+N+PRON|||che||80768|46604|43200|28857|3318|8521|3366|3586|1456|2207|2886|10958|2420|3088|2146|4834|5537|3383|2496|2520|3023|5834|9345|6703|6848|2822|19027|2645|5185|2346|12798|1710|707|19028|9513|14441|12809|11529|9022|17913|15097|11551|8958|8111|4325|13288|5818|3186|5983|3707|2577|57919|106369|
+|e|147524|CONG|CONG||inv|e|VB1|75297|34575|37652|24156|2437|7669|4285|4692|1178|1950|2276|6523|1910|2374|3142|5541|4732|3096|2282|1805|3800|3091|6653|7640|6646|2893|14760|3235|3189|2453|10914|1548|654|14973|8220|13126|11917|9824|8475|13922|13904|10360|7783|7126|3786|11149|5310|2596|5053|2833|2617|56953|85121|
+|il|103842|DET|DET||s_m|il|VB1|51808|25484|26550|17495|1627|5375|1897|2951|720|1505|1760|5306|1810|1887|1841|2992|3371|1943|1761|1248|2880|3355|5365|4615|5073|1655|9996|2134|3311|1708|6726|1121|414|11063|5841|9044|8441|6373|5709|9654|9508|6989|5649|4775|2848|8388|4039|2105|3416|2274|1631|38603|61334|
+|la|102973|J|DET+N+PRON|||la|VB1|51214|26215|25544|15367|1601|5349|2054|2754|700|1697|1689|5041|2098|1788|1809|3070|3277|2352|2000|1259|2625|2791|5308|5020|5403|1917|9655|1861|3596|1569|7753|1117|453|12500|6422|9314|7879|6062|5276|9752|8798|6816|5356|4545|2877|8105|3917|1970|3384|2088|1862|38685|60338|
+|non|89434|J|A+AVV||inv|non||41603|25081|22750|18205|1383|4442|1432|1565|911|1231|1564|6376|1159|1819|965|2033|2543|1488|1594|1355|1560|2817|4625|3030|3860|1481|10881|920|2281|1055|5838|690|331|10024|4831|6853|6651|6649|5218|10223|8214|5882|4660|4226|2195|6121|2920|1448|3319|1964|1279|26648|59543|
+|in|83769|J|A+PREP||inv|in||39796|22050|21923|15759|1471|4875|1514|1782|619|1171|1421|5053|1118|1528|1432|2438|2646|1451|1294|957|2012|2746|3865|4221|3290|1251|8097|1490|2376|1466|5150|955|321|8448|4461|7185|7167|5815|4844|8515|7674|5649|4558|3669|2061|6305|3024|1822|2572|1673|1183|30971|49942|
 
-### Title
-[]
+#### Silvio Berlusconi Corpus
 
-#### Summary
+Each line has metadata for one file which likely contains the speech itself.
 
-#### Content
+Most of this won't concern my corpus, except date.
 
-#### Citations
+| Leader | Ruolo | Posizionamento politico | N. Legislatura | N. Seduta | Data della seduta | Atti parl. pag. | Tipo di intervento | Argomento | Governo in carica | File-id |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Silvio BERLUSCONI | Presidente del Consiglio | Maggioranza | 12 | 5 | 16/05/1994 | 98 | Comunicazioni del governo | | I Berlusconi | BERLUSCONIXII5 |
+| Silvio BERLUSCONI | Presidente del Consiglio | Maggioranza | 12 | 7 | 20/05/1994 | 287 | Comunicazioni del governo | | I Berlusconi | BERLUSCONIXII7 |
+| Silvio BERLUSCONI | Deputato | Opposizione | 12 | 47 | 02/08/1994 | 2369 | Mozioni, interpellanze e interrogazioni | Interessi che si concentrano nella persona del Presidente del Consiglio dei ministri e sui rapporti tra potere esecutivo e potere giudiziario | Dini | BERLUSCONIXII47 |
+| Silvio BERLUSCONI | Presidente del Consiglio | Maggioranza | 12 | 119 | 21/12/1994 | 7304 | Comunicazioni del governo | | I Berlusconi | BERLUSCONIXII119 |
+| Silvio BERLUSCONI | Deputato | Opposizione | 12 | 126 | 24/01/1995 | 7608 | Comunicazioni del governo | | Dini | BERLUSCONIXII126 |
+| Silvio BERLUSCONI | Deputato | Opposizione | 12 | 157 | 16/03/1995 | 9320 | Attività legislativa | Misure urgenti per il risanamento della finanza pubblica | Dini | BERLUSCONIXII157 |
+| Silvio BERLUSCONI | Deputato | Opposizione | 12 | 230 | 02/08/1995 | 14388 | Attività legislativa | Revisione della parte seconda della Costituzione | Dini | BERLUSCONIXII230 |
+| Silvio BERLUSCONI | Deputato | Opposizione | 12 | 268 | 24/10/1995 | 16443 | Mozioni, interpellanze e interrogazioni | Sfiducia al governo | Dini | BERLUSCONIXII268 |
+| Silvio BERLUSCONI | Deputato | Opposizione | 12 | 310 | 10/01/1996 | 19392 | Comunicazioni del governo | | Dini | BERLUSCONIXII310 |
+| Silvio BERLUSCONI | Deputato | Opposizione | 13 | 5 | 30/05/1996 | 301 | Comunicazioni del governo | | I Prodi | BERLUSCONIXIII5 |
+| Silvio BERLUSCONI | Deputato | Opposizione | 13 | 34 | 17/07/1996 | 1709 | Mozioni, interpellanze e interrogazioni | Discussione di mozioni in tema di riforme istituzionali | I Prodi | BERLUSCONIXIII34 |
+| Silvio BERLUSCONI | Deputato | Opposizione | 13 | 75 | 16/10/1996 | 4334 | Mozioni, interpellanze e interrogazioni | Svolgimento di interpellanze e interrogazioni sulla tutela della riservatezza dei cittadini e sulla disciplina dell'uso degli strumenti intrusivi | I Prodi | BERLUSCONIXIII75 |
+| Silvio BERLUSCONI | Deputato | Opposizione | 13 | 94 | 11/11/1996 | 2372 | Attività legislativa | Misure di razzionalizzazione della finanza pubblica | I Prodi | BERLUSCONIXIII94 |
 
-### Title
-[]
 
-#### Summary
 
-#### Content
-
-#### Citations
-
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
-
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
-
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
-
-## Corpus: Italy
+## My Corpus: Italy
 
 1. Public speeches
    - official 
@@ -523,6 +539,7 @@ France and Italy regarded the Mediterranean as the arena where they could most n
 1. Find a list of influential politicians over the time span
 2. Gather corpus i.e., public speeches (speeches, interviews, videos, open letters, etc)
 
+
 ### Prime Ministers
 
 An obvious way to gather influential political figures is by taking the prime ministers.
@@ -532,6 +549,9 @@ Presidents of the Italian Republic, on the other hand, represents national unity
 De Gasperi: 10 dicembre 1945 – 13 giugno 1946 "Presidente del Consiglio dei ministri del Regno d'Italia" since it was not yet the Italian Republic.
 
 [https://legislature.camera.it/organiparlamentariSM/241/4405/5342/documentotesto.ASP?cost=3] -> not complete
+
+[Wikipedia](https://it.wikipedia.org/wiki/Presidenti_del_Consiglio_dei_ministri_della_Repubblica_Italiana) 
+![](imgs/italian_prime_ministers.jpg)
 
 ### Accademia della crusca - Banca dati discorsi parlamentari
 https://leader.accademiadellacrusca.org/
@@ -615,6 +635,11 @@ VALTER VELTRONI
 	
 NICHI VENDOLA
 
+# Tools
+
+## Stanza
+https://stanfordnlp.github.io/stanza/index.html
+Stanza is a collection of accurate and efficient tools for the linguistic analysis of **many human languages**. Starting from raw text, Stanza divides it into sentences and words, and then can recognize parts of speech and entities, do syntactic analysis, and more. Stanza brings state-of-the-art NLP models to languages of your choosing.
 
 # Models
 

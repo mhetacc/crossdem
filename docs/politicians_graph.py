@@ -1,4 +1,4 @@
-import datetime 
+import datetime
 
 politicians = [
     ("Alcide De Gasperi", [
@@ -111,25 +111,41 @@ politicians = [
 ]
 
 import matplotlib.pyplot as plt
-import datetime as dt
 
-# Example data: (name, [(start_date, end_date), ...])
+fig, ax = plt.subplots(figsize=(12, 8)) # Increased height slightly to fit names better
 
-fig, ax = plt.subplots(figsize=(10,6))
+# Generate a color palette
+colors = plt.cm.tab20.colors  
 
 for i, (name, terms) in enumerate(politicians):
-    for start, end in terms:
-        ax.barh(i, end - start, left=start, height=0.4)
+    color = colors[i % len(colors)] 
 
-# Y-axis labels
+    for start, end in terms:
+        ax.barh(i, end - start, left=start, height=0.4, color=color)
+        
+    # --- METHOD 1: Add Colored Dots ---
+    # Using get_yaxis_transform() maps X to the axis scale (0 is the y-axis line) 
+    # and Y to the data scale (the politician's row). 
+    # -0.015 pushes the dot slightly left of the y-axis.
+    ax.scatter(-0.015, i, color=color, transform=ax.get_yaxis_transform(), 
+               clip_on=False, s=80, zorder=10)
+
+# Labels
 ax.set_yticks(range(len(politicians)))
 ax.set_yticklabels([p[0] for p in politicians])
-
-# Format x-axis as dates
-ax.xaxis_date()
-
-ax.set_title("Political Timeline with Months")
 ax.set_xlabel("Year")
-ax.grid(axis='x', linestyle='--', alpha=0.5)
+ax.set_title("Italian Prime Ministers Timeline")
 
-plt.show()
+# Remove the little black y-tick marks so the dots look cleaner next to the text
+ax.tick_params(axis='y', length=0, pad=20) 
+
+# --- METHOD 2: Color the Text Directly (Optional) ---
+# If you prefer colored text instead of dots, comment out the ax.scatter line above
+# and uncomment the three lines below:
+# labels = ax.get_yticklabels()
+# for i, label in enumerate(labels):
+#     label.set_color(colors[i % len(colors)])
+
+plt.tight_layout() # Ensures labels don't get cut off at the edges
+plt.savefig("docs/imgs/italian_prime_ministers.jpg", format="jpg", dpi=300, bbox_inches="tight")
+#plt.show()
