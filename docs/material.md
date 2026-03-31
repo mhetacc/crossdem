@@ -433,6 +433,287 @@ France and Italy regarded the Mediterranean as the arena where they could most n
 https://github.com/clarin-eric/ParlaMint/
 > Comparable parliamentary corpora for a number of countries and languages.
 
+#### Attributes
+
+> ~/datasets/ParlaMint-IT/ParlaMint-IT.TEI/Schema/ParlaMint.rnc
+
+```py
+## The identification element identifies a corpus element with an URI, and specifies its type and subtype.
+idno =
+  element idno {
+    lang.att,
+    attribute type { "URI" | "VIAF" },
+    attribute subtype {
+      "business"
+      | "facebook"
+      | "government"
+      | "handle"
+      | "instagram"
+      | "ministry"
+      | "parliament"
+      | "personal"
+      | "politicalParty"
+      | "publicService"
+      | "tiktok"
+      | "twitter"
+      | "wikimedia"
+    }?,
+    xsd:anyURI { pattern = "https?://.+" }
+  }
+
+## Legal values of the affiliation/@role attribute.
+affiliationRole.val =
+  "member"
+  | "head"
+  | "deputyHead"
+  | 
+    ## The following used only by FR:
+    "minister"
+  | "associateMember"
+  | "nonAttachedMember"
+  | "ministerDelegate"
+  | 
+    ## The following used only by CZ:
+    "secretaryOfState"
+  | "observer"
+  | "verifier"
+  | "vicePublicDefenderOfRights"
+  | "publicDefenderOfRights"
+  | "alternateOfDelegation"
+  | "replacement"
+  | 
+    ## The following used only by BG:
+    "representative"
+  | "academician"
+  | "candidateChairman"
+  | "constitutionalJudge"
+  | "deputyMinister"
+  | "ombudsman"
+  | "prosecutorGeneral"
+  | "secretary"
+  | "secretaryGeneral"
+
+## Legal values of the kinesic/@type attribute.
+kinesicType.val =
+  "kinesic"
+  | "applause"
+  | "ringing"
+  | "signal"
+  | "playback"
+  | "gesture"
+  | "smiling"
+  | "laughter"
+  | "snapping"
+  | "noise"
+
+## Legal values of the incident/@type attribute.
+incidentType.val =
+  "action"
+  | "incident"
+  | "leaving"
+  | "entering"
+  | "break"
+  | "pause"
+  | "sound"
+  | "editorial"
+
+## Legal values of the vocal/@type attribute.
+vocalType.val =
+  "greeting"
+  | "question"
+  | "clarification"
+  | "speaking"
+  | "interruption"
+  | "exclamat"
+  | "laughter"
+  | "shouting"
+  | "murmuring"
+  | "noise"
+  | "signal"
+```
+#### Taxonomy
+> structure, terminology and classification of data
+> controlled vocabulary
+
+
+> ~/datasets/ParlaMint-IT/ParlaMint-IT.TEI/ParlaMint-taxonomy-topic.xml
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<taxonomy xmlns="http://www.tei-c.org/ns/1.0" xml:id="ParlaMint-taxonomy-topic" xml:lang="mul">
+   <desc xml:lang="en"><term>Topics</term>: Comparative Agendas Project <ref target="https://www.comparativeagendas.net/pages/master-codebook">CAP major topic labels</ref>
+   </desc>
+   <category xml:id="argic">
+      <catDesc xml:lang="en"><term>Agriculture</term></catDesc>
+   </category>
+   <category xml:id="civil">
+      <catDesc xml:lang="en"><term>Civil Rights</term></catDesc>
+   </category>
+   <category xml:id="cultu">
+      <catDesc xml:lang="en"><term>Culture</term></catDesc>
+   </category>
+   <category xml:id="defen">
+      <catDesc xml:lang="en"><term>Defense</term></catDesc>
+   </category>
+   <category xml:id="domes">
+      <catDesc xml:lang="en"><term>Domestic Commerce</term></catDesc>
+   </category>
+   <category xml:id="educa">
+      <catDesc xml:lang="en"><term>Education</term></catDesc>
+   </category>
+   <category xml:id="energ">
+      <catDesc xml:lang="en"><term>Energy</term></catDesc>
+   </category>
+   <category xml:id="envir">
+      <catDesc xml:lang="en"><term>Environment</term></catDesc>
+   </category>
+   <category xml:id="trade">
+      <catDesc xml:lang="en"><term>Foreign Trade</term></catDesc>
+   </category>
+   <category xml:id="gover">
+      <catDesc xml:lang="en"><term>Government Operations</term></catDesc>
+   </category>
+   <category xml:id="healt">
+      <catDesc xml:lang="en"><term>Health</term></catDesc>
+   </category>
+   <category xml:id="housi">
+      <catDesc xml:lang="en"><term>Housing</term></catDesc>
+   </category>
+   <category xml:id="immig">
+      <catDesc xml:lang="en"><term>Immigration</term></catDesc>
+   </category>
+   <category xml:id="inter">
+      <catDesc xml:lang="en"><term>International Affairs</term></catDesc>
+   </category>
+   <category xml:id="labor">
+      <catDesc xml:lang="en"><term>Labor</term></catDesc>
+   </category>
+   <category xml:id="lawcr">
+      <catDesc xml:lang="en"><term>Law and Crime</term></catDesc>
+   </category>
+   <category xml:id="macro">
+      <catDesc xml:lang="en"><term>Macroeconomics</term></catDesc>
+   </category>
+   <category xml:id="mixed">
+      <catDesc xml:lang="en"><term>Mix</term></catDesc>
+   </category>
+   <category xml:id="other">
+      <catDesc xml:lang="en"><term>Other</term></catDesc>
+   </category>
+   <category xml:id="lands">
+      <catDesc xml:lang="en"><term>Public Lands</term></catDesc>
+   </category>
+   <category xml:id="welfa">
+      <catDesc xml:lang="en"><term>Social Welfare</term></catDesc>
+   </category>
+   <category xml:id="techn">
+      <catDesc xml:lang="en"><term>Technology</term></catDesc>
+   </category>
+   <category xml:id="trans">
+      <catDesc xml:lang="en"><term>Transportation</term></catDesc>
+   </category>
+</taxonomy>
+```
+
+
+
+
+
+#### Adapted 
+>Must be clearly defined beforehand
+
+**Speeches**
+- Remove:
+  - Term
+  - Session
+- Add:
+  - Event_Type:
+    - `Interview`
+    - `Press_Conference`
+    - `Rally`
+    - `Debate`
+    - `Digital_Audio`
+    - `Digital_Video`
+    - etc
+  - Venue_Channel
+  - Source_URL
+- Modify:
+  - Speaker_Role:
+    - host
+    - moderator
+    - etc
+  - Speech_Type:
+    - monologue
+    - address
+    - keep interruption
+
+
+| Speech_ID | Date | Event_Type | Venue_Channel | Speaker_ID | Speaker_Role | Speech_Text | Incidents | Speech_Type | Source_URL |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| S_2026-03-30_001 | 2026-03-30 | Interview | BBC_News | P-SmithJ | host | Welcome back. Minister, you stated yesterday that taxes would not rise. Is that still a guarantee? | | Question | https://link... |
+| S_2026-03-30_002 | 2026-03-30 | Interview | BBC_News | P-DavisJ | main_speaker | John, let me be crystal clear. We have absolutely no plans to— | | Answer | https://link... |
+| S_2026-03-30_003 | 2026-03-30 | Interview | BBC_News | P-SmithJ | host | But you didn't answer the question, Minister. Is it a guarantee? | kinesic: [Points finger] | Interruption | https://link... |
+| S_2026-03-31_001 | 2026-03-31 | Rally | Town_Square | P-MillerS | main_speaker | Thank you! Today, we stand together to build a better future for our region! | kinesic: [Wild applause] \| vocal: [Cheering] | Address | https://link... |
+
+#### Example of transcript - seduta 392
+**xml**
+```xml
+      <body>
+         <div type="debateSection">
+            <note type="speaker" xml:id="ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.note1">Presidenza del vice presidente TAVERNA</note>
+            <note type="speaker" xml:id="ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.note2">PRESIDENTE</note>
+            <u ana="#chair topic:other" who="#TavernaPaola" xml:id="ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.u1">
+               <seg xml:id="ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.seg1">La seduta è aperta (ore 11). Si dia lettura del processo verbale. PUGLIA, segretario, dà lettura del processo verbale della seduta del 23 dicembre 2021. PRESIDENTE. Non essendovi osservazioni, il processo verbale è approvato.</seg>
+            </u>
+         </div>
+         <div type="debateSection">
+            <head xml:id="ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.head1">Comunicazioni della Presidenza</head>
+            <note type="speaker" xml:id="ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.note3">PRESIDENTE</note>
+            <u ana="#chair topic:other" who="#TavernaPaola" xml:id="ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.u2">
+               <seg xml:id="ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.seg2">L'elenco dei senatori in congedo e assenti per incarico ricevuto dal Senato, nonché ulteriori comunicazioni all'Assemblea saranno pubblicati nell'allegato B al Resoconto della seduta odierna.</seg>
+            </u>
+         </div>
+         <div type="debateSection">
+            <head xml:id="ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.head2">Comunicazione, ai sensi dell'articolo 77, secondo comma, della Costituzione, della presentazione di disegno di legge di conversione di decreto-legge</head>
+            <note type="time" xml:id="ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.note4">ore 11,10</note>
+            <note type="speaker" xml:id="ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.note5">PRESIDENTE</note>
+            <u ana="#chair topic:healt" who="#TavernaPaola" xml:id="ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.u3">
+               <seg xml:id="ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.seg3">L'ordine del giorno reca: «Comunicazione, ai sensi dell'articolo 77, secondo comma, della Costituzione, della presentazione di disegno di legge di conversione di decreto-legge».</seg>
+               <seg xml:id="ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.seg4">In data 30 dicembre 2021, è stato presentato il seguente disegno di legge: dal Presidente del Consiglio dei ministri e dal Ministro della salute: «Conversione in legge del decreto-legge 30 dicembre 2021, n. 229, recante misure urgenti per il contenimento della diffusione dell'epidemia da COVID-19 e disposizioni in materia di sorveglianza sanitaria» (2489).</seg>
+            </u>
+         </div>
+         <div type="debateSection">
+            <head xml:id="ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.head3">Disegni di legge, trasmissione dalla Camera dei deputati</head>
+            <note type="speaker" xml:id="ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.note6">PRESIDENTE</note>
+            <u ana="#chair topic:healt" who="#TavernaPaola" xml:id="ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.u4">
+               <seg xml:id="ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.seg5">Comunico che in data 28 dicembre 2021, è stato trasmesso dal Ministro per i rapporti con il Parlamento il seguente disegno di legge di iniziativa del Presidente del Consiglio dei ministri e del Ministro della salute: «Conversione in legge del decreto-legge 24 dicembre 2021, n. 221, recante proroga dello stato di emergenza nazionale e ulteriori misure per il contenimento della diffusione dell'epidemia da COVID-19» (2488), già presentato alla Camera dei deputati il 24 dicembre 2021.</seg>
+            </u>
+         </div>
+```
+
+**txt**
+```
+ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.u1	La seduta è aperta (ore 11). Si dia lettura del processo verbale. PUGLIA, segretario, dà lettura del processo verbale della seduta del 23 dicembre 2021. PRESIDENTE. Non essendovi osservazioni, il processo verbale è approvato.
+ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.u2	L'elenco dei senatori in congedo e assenti per incarico ricevuto dal Senato, nonché ulteriori comunicazioni all'Assemblea saranno pubblicati nell'allegato B al Resoconto della seduta odierna.
+ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.u3	L'ordine del giorno reca: «Comunicazione, ai sensi dell'articolo 77, secondo comma, della Costituzione, della presentazione di disegno di legge di conversione di decreto-legge». In data 30 dicembre 2021, è stato presentato il seguente disegno di legge: dal Presidente del Consiglio dei ministri e dal Ministro della salute: «Conversione in legge del decreto-legge 30 dicembre 2021, n. 229, recante misure urgenti per il contenimento della diffusione dell'epidemia da COVID-19 e disposizioni in materia di sorveglianza sanitaria» (2489).
+ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.u4	Comunico che in data 28 dicembre 2021, è stato trasmesso dal Ministro per i rapporti con il Parlamento il seguente disegno di legge di iniziativa del Presidente del Consiglio dei ministri e del Ministro della salute: «Conversione in legge del decreto-legge 24 dicembre 2021, n. 221, recante proroga dello stato di emergenza nazionale e ulteriori misure per il contenimento della diffusione dell'epidemia da COVID-19» (2488), già presentato alla Camera dei deputati il 24 dicembre 2021.
+ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.u5	Domando di parlare.
+ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.u6	Ne ha facoltà.
+ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.u7	LANNUTTI (Misto-IdV). Signor Presidente, nei giorni scorsi «Report» ha documentato la truffa dei diamanti (per 1,3 miliardi di euro), venduti a malcapitati correntisti al triplo del prezzo di mercato. Si tratta di una frode sulla quale hanno indagato l'Antitrust e nel 2017 la procura di Milano, con riferimento alle società Intermarket diamond business (IDB), poi fallita, Diamond private investment di Roma (DPI) e a diverse banche, tra le quali MPS. I diamanti [...]
+```
+
+**metadata**
+
+For each `<u>`
+| Text_ID | ID | Title | Date | Body | Term | Session | Meeting | Sitting | Agenda | Subcorpus | Lang | Speaker_role | Speaker_MP | Speaker_minister | Speaker_party | Speaker_party_name | Party_status | Party_orientation | Speaker_ID | Speaker_name | Speaker_gender | Speaker_birth | Topic |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392 | ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.u1 | Resoconto della seduta del Senato della Repubblica italiana, Legislatura 18, seduta 392, giorno (2022-01-03) | 2022-01-03 | Senato della Repubblica | 18 | Legislatura | - | - | 392 | Seduta | - | COVID | italiano | Presidente | MP | notMinister | M5S.2 | MoVimento 5 Stelle | Coalition | Pigliatutto | TavernaPaola | Taverna, Paola | F | 1969 | Other |
+| ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392 | ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.u2 | Resoconto della seduta del Senato della Repubblica italiana, Legislatura 18, seduta 392, giorno (2022-01-03) | 2022-01-03 | Senato della Repubblica | 18 | Legislatura | - | - | 392 | Seduta | - | COVID | italiano | Presidente | MP | notMinister | M5S.2 | MoVimento 5 Stelle | Coalition | Pigliatutto | TavernaPaola | Taverna, Paola | F | 1969 | Other |
+| ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392 | ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.u3 | Resoconto della seduta del Senato della Repubblica italiana, Legislatura 18, seduta 392, giorno (2022-01-03) | 2022-01-03 | Senato della Repubblica | 18 | Legislatura | - | - | 392 | Seduta | - | COVID | italiano | Presidente | MP | notMinister | M5S.2 | MoVimento 5 Stelle | Coalition | Pigliatutto | TavernaPaola | Taverna, Paola | F | 1969 | Health |
+| ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392 | ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.u4 | Resoconto della seduta del Senato della Repubblica italiana, Legislatura 18, seduta 392, giorno (2022-01-03) | 2022-01-03 | Senato della Repubblica | 18 | Legislatura | - | - | 392 | Seduta | - | COVID | italiano | Presidente | MP | notMinister | M5S.2 | MoVimento 5 Stelle | Coalition | Pigliatutto | TavernaPaola | Taverna, Paola | F | 1969 | Health |
+| ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392 | ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.u5 | Resoconto della seduta del Senato della Repubblica italiana, Legislatura 18, seduta 392, giorno (2022-01-03) | 2022-01-03 | Senato della Repubblica | 18 | Legislatura | - | - | 392 | Seduta | - | COVID | italiano | Membro | MP | notMinister | Misto | Misto | - | - | LannuttiElio | Lannutti, Elio | M | 1948 | Other |
+| ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392 | ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.u6 | Resoconto della seduta del Senato della Repubblica italiana, Legislatura 18, seduta 392, giorno (2022-01-03) | 2022-01-03 | Senato della Repubblica | 18 | Legislatura | - | - | 392 | Seduta | - | COVID | italiano | Presidente | MP | notMinister | M5S.2 | MoVimento 5 Stelle | Coalition | Pigliatutto | TavernaPaola | Taverna, Paola | F | 1969 | Other |
+| ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392 | ParlaMint-IT_2022-01-03-LEG18-Senato-sed-392.u7 | Resoconto della seduta del Senato della Repubblica italiana, Legislatura 18, seduta 392, giorno (2022-01-03) | 2022-01-03 | Senato della Repubblica | 18 | Legislatura | - | - | 392 | Seduta | - | COVID | italiano | Membro | MP | notMinister | Misto | Misto | - | - | LannuttiElio | Lannutti, Elio | M | 1948 | Domestic Commerce |
+
 #### Parties
 | Party_ID | Party_Name | Abbreviation | Gov_Role | Orientation |
 | :--- | :--- | :--- | :--- | :--- |
@@ -453,13 +734,33 @@ https://github.com/clarin-eric/ParlaMint/
 | S_2026-03-30_002 | 2026-03-30 | 9 | 42 | P-ChenL | regular | Thank you, Madam Chair. My question is for the Minister of Energy. Why has the regional solar subsidy been delayed by three months? | incident: [Microphone feedback] | Question | P-DavisJ |
 | S_2026-03-30_003 | 2026-03-30 | 9 | 42 | P-DavisJ | regular | I thank the representative for the question. The delay was strictly due to a logistical hold-up in the treasury, which was resolved yesterday. | vocal: [Groans] \| kinesic: [Applause from the right] | Answer | P-ChenL |
 
-##### Adapted
-| Speech_ID | Date | Event_Type | Venue_Channel | Speaker_ID | Speaker_Role | Speech_Text | Incidents | Speech_Type | Source_URL |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| S_2026-03-30_001 | 2026-03-30 | Interview | BBC_News | P-SmithJ | host | Welcome back. Minister, you stated yesterday that taxes would not rise. Is that still a guarantee? | | Question | https://link... |
-| S_2026-03-30_002 | 2026-03-30 | Interview | BBC_News | P-DavisJ | main_speaker | John, let me be crystal clear. We have absolutely no plans to— | | Answer | https://link... |
-| S_2026-03-30_003 | 2026-03-30 | Interview | BBC_News | P-SmithJ | host | But you didn't answer the question, Minister. Is it a guarantee? | kinesic: [Points finger] | Interruption | https://link... |
-| S_2026-03-31_001 | 2026-03-31 | Rally | Town_Square | P-MillerS | main_speaker | Thank you! Today, we stand together to build a better future for our region! | kinesic: [Wild applause] \| vocal: [Cheering] | Address | https://link... |
+
+### Europarl
+>plaintext with minimal tagging 
+
+```
+<CHAPTER ID=1>
+Approvazione del processo verbale della seduta precedente
+<SPEAKER ID=1 NAME="Presidente">
+Il processo verbale della seduta di ieri è stato distribuito.
+<P>
+Vi sono osservazioni?
+
+<SPEAKER ID=2 NAME="Speroni">
+Signor Presidente, ieri, al termine della votazione sul bilancio, c'è stato un momento particolare in quanto le tre Istituzioni coinvolte erano rappresentate da persone di sesso femminile e il Presidente ha concluso dicendo che il millennio termina bene. Volevo solo osservare, come di recente ha rilevato anche l'autorevole osservatorio di Greenwich, che il millennio terminerà il 31 dicembre dell'anno 2000.
+
+<SPEAKER ID=3 NAME="Presidente">
+Onorevole Speroni, sono consapevole del fatto che, da un punto di vista razionale e cartesiano, lei ha assolutamente ragione. Scientificamente lei ha ragione. Tuttavia, dal punto di vista delle credenze popolari, il millennio si conclude tra 14 giorni. Pertanto, la sua osservazione sarà messa a verbale, ma ritengo che ognuno celebrerà l' evento il 31 dicembre di quest' anno e forse per due volte.
+<P>
+```
+
+### ItaParlCorpus
+[Cova,2025]
+>comprehensive, annotated, and machine-readable database of Italy’s parliamentary speeches spanning from 1948 to 2022. 
+
+| date | doc_id | row_id | legislature | speaker | pageid_wiki | party_name | party_family | party_id_parlgov | party_id_itaparl | chair | cabinet | text | year |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2006-04-28 | 20060428 | 20060428 | 15 | PRESIDENTE | | Chair | PRESIDENTE | | 11 | TRUE | FALSE | , venerdì 28 aprile 2006, PRESIDENZA DEL PRESIDENTE, PROVVISORIO FABIO MUSSI, La seduta comincia alle 10,05., Sull'attentato terroristico di Nassiriya., PRESIDENTE, . (Si leva in piedi, e con lui l'intera Assemblea). Nicola Ciardelli, capitano dell'esercito, 34 anni: caduto; Franco Lattanzio, maresciallo capo dei carabinieri, 38 anni: caduto; Carlo De Trizio maresciallo capo dei carabinieri, 38 anni: caduto; Enrico Frassanito, maresciallo aiutante dei carabinieri, 41 anni: [...]| 2006 |
 
 ### IMPAQTS
 >Multimodal corpus of around 2.65 million tokens including 1,500 speeches uttered by 150 prominent politicians spanning from 1946 to 2023
