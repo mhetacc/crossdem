@@ -711,9 +711,16 @@ Onorevole Speroni, sono consapevole del fatto che, da un punto di vista razional
 | 2006-04-28 | 20060428 | 20060428 | 15 | PRESIDENTE | | Chair | PRESIDENTE | | 11 | TRUE | FALSE | , venerdì 28 aprile 2006, PRESIDENZA DEL PRESIDENTE, PROVVISORIO FABIO MUSSI, La seduta comincia alle 10,05., Sull'attentato terroristico di Nassiriya., PRESIDENTE, . (Si leva in piedi, e con lui l'intera Assemblea). Nicola Ciardelli, capitano dell'esercito, 34 anni: caduto; Franco Lattanzio, maresciallo capo dei carabinieri, 38 anni: caduto; Carlo De Trizio maresciallo capo dei carabinieri, 38 anni: caduto; Enrico Frassanito, maresciallo aiutante dei carabinieri, 41 anni: [...]| 2006 |
 
 ### IMPAQTS
+[cominetti,2024]
 >Multimodal corpus of around 2.65 million tokens including 1,500 speeches uttered by 150 prominent politicians spanning from 1946 to 2023
 
 >For each speaker, the corpus contains 4 parliamentary speeches, 2 rallies, 1 party assembly, and 3 statements (in person or broadcasted)
+
+Could be useful to integrate but the site doesnt work at the moment. https://impaqts.it/ 
+
+#### Paper's Extracts
+
+
 
 ### Parola di Leader
 
