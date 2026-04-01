@@ -161,4 +161,55 @@ Power save: on
 WoWLAN is disabled
 ```
 
-Nothing works so far.
+## Unloading kernel modules
+
+### Bluetooth
+All files in `usr/lib/systemd/system-sleep/` get called by the system before (for `pre`) and after (for `post`) sleep.
+
+```bash
+mhetac@fedora:~$ sudo tee /usr/lib/systemd/system-sleep/bt-unload.sh << 'EOF'
+#!/bin/bash
+case "$1" in
+  pre)  modprobe -r btusb ;;
+  post) modprobe btusb ;;
+esac
+EOF
+sudo chmod +x /usr/lib/systemd/system-sleep/bt-unload.sh
+#!/bin/bash
+case "$1" in
+  pre)  modprobe -r btusb ;;
+  post) modprobe btusb ;;
+esac
+```
+
+```bash
+mhetac@fedora:~$ cat /usr/lib/systemd/system-sleep/bt-unload.sh
+#!/bin/bash
+case "$1" in
+  pre)  modprobe -r btusb ;;
+  post) modprobe btusb ;;
+esac
+```
+
+### Network
+
+If 
+```
+Apr 01 14:14:04 fedora NetworkManager[1360]: <info>  [1775045644.8766] manager: sleep: wake requested (sleeping: yes  enabled: yes)
+```
+
+Then add
+
+```bash
+#!/bin/bash
+case "$1" in
+  pre)
+    modprobe -r btusb
+    iw dev wlo1 set power_save off
+    iw phy phy0 wowlan disable 2>/dev/null || true
+    ;;
+  post)
+    modprobe btusb
+    ;;
+esac
+```
