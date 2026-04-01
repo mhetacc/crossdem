@@ -1,5 +1,5 @@
     {    "key": "ctrl+alt+c",
-        "command": "macros.latex_code_word"
+        "command": "macros.markdown_code_word"
     },
     {
         "key": "ctrl+i",

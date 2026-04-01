@@ -795,6 +795,21 @@ Most of this won't concern my corpus, except date.
 1. Find a list of influential politicians over the time span
 2. Gather corpus i.e., public speeches (speeches, interviews, videos, open letters, etc)
 
+### Structure
+
+- italian_governments
+  - government
+    - `degasperi2` : "De Gasperi II"
+    - `spadolini1` : "Spadolini I"
+    - `forlani` : "Forlani" 
+  - primeMinister:
+    - `degasperi` : `prime_ministers.id==degasperi` 
+  - dateStart: ISO 8601 (YYYY-MM-DD)
+  - dateEnd: ISO 8601 (YYYY-MM-DD)
+  - legislature
+    - `1` : "I Legislatura"
+    - `15` : "XV Legislatura"
+- prime_ministers
 
 ### Prime Ministers
 
