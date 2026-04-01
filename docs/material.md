@@ -535,8 +535,11 @@ vocalType.val =
 > structure, terminology and classification of data
 > controlled vocabulary
 
-
+**Topic**
 > ~/datasets/ParlaMint-IT/ParlaMint-IT.TEI/ParlaMint-taxonomy-topic.xml
+
+*Obs: most utterances are labeled as topic:other*
+
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <taxonomy xmlns="http://www.tei-c.org/ns/1.0" xml:id="ParlaMint-taxonomy-topic" xml:lang="mul">
@@ -555,63 +558,8 @@ vocalType.val =
       <catDesc xml:lang="en"><term>Defense</term></catDesc>
    </category>
    <category xml:id="domes">
-      <catDesc xml:lang="en"><term>Domestic Commerce</term></catDesc>
-   </category>
-   <category xml:id="educa">
-      <catDesc xml:lang="en"><term>Education</term></catDesc>
-   </category>
-   <category xml:id="energ">
-      <catDesc xml:lang="en"><term>Energy</term></catDesc>
-   </category>
-   <category xml:id="envir">
-      <catDesc xml:lang="en"><term>Environment</term></catDesc>
-   </category>
-   <category xml:id="trade">
-      <catDesc xml:lang="en"><term>Foreign Trade</term></catDesc>
-   </category>
-   <category xml:id="gover">
-      <catDesc xml:lang="en"><term>Government Operations</term></catDesc>
-   </category>
-   <category xml:id="healt">
-      <catDesc xml:lang="en"><term>Health</term></catDesc>
-   </category>
-   <category xml:id="housi">
-      <catDesc xml:lang="en"><term>Housing</term></catDesc>
-   </category>
-   <category xml:id="immig">
-      <catDesc xml:lang="en"><term>Immigration</term></catDesc>
-   </category>
-   <category xml:id="inter">
-      <catDesc xml:lang="en"><term>International Affairs</term></catDesc>
-   </category>
-   <category xml:id="labor">
-      <catDesc xml:lang="en"><term>Labor</term></catDesc>
-   </category>
-   <category xml:id="lawcr">
-      <catDesc xml:lang="en"><term>Law and Crime</term></catDesc>
-   </category>
-   <category xml:id="macro">
-      <catDesc xml:lang="en"><term>Macroeconomics</term></catDesc>
-   </category>
-   <category xml:id="mixed">
-      <catDesc xml:lang="en"><term>Mix</term></catDesc>
-   </category>
-   <category xml:id="other">
-      <catDesc xml:lang="en"><term>Other</term></catDesc>
-   </category>
-   <category xml:id="lands">
-      <catDesc xml:lang="en"><term>Public Lands</term></catDesc>
-   </category>
-   <category xml:id="welfa">
-      <catDesc xml:lang="en"><term>Social Welfare</term></catDesc>
-   </category>
-   <category xml:id="techn">
-      <catDesc xml:lang="en"><term>Technology</term></catDesc>
-   </category>
-   <category xml:id="trans">
-      <catDesc xml:lang="en"><term>Transportation</term></catDesc>
-   </category>
-</taxonomy>
+      ...
+      ...
 ```
 
 
