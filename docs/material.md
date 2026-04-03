@@ -797,19 +797,34 @@ Most of this won't concern my corpus, except date.
 
 ### Structure
 
-- italian_governments
-  - government
+- **df:italian_governments**
+  - *col:government*
     - `degasperi2` : "De Gasperi II"
     - `spadolini1` : "Spadolini I"
     - `forlani` : "Forlani" 
-  - primeMinister:
+  - *col:primeMinister*
     - `degasperi` : `prime_ministers.id==degasperi` 
-  - dateStart: ISO 8601 (YYYY-MM-DD)
-  - dateEnd: ISO 8601 (YYYY-MM-DD)
-  - legislature
+  - *col:dateStart*
+    - ISO 8601 (YYYY-MM-DD)
+  - *col:dateEnd* 
+    - ISO 8601 (YYYY-MM-DD)
+  - *col:legislature*
     - `1` : "I Legislatura"
     - `15` : "XV Legislatura"
-- prime_ministers
+  - **
+- **df:prime_ministers**
+  - *col:pm_ID*
+    - `degasperi`
+    - `draghi`
+    - `meloni`
+  - *col:pm_name*
+    - `Alcide`
+    - `Mario`
+    - `Giorgia`
+  - *col:pm_familyName*
+    - `De Gasperi`
+    - `Draghi`
+    - `Meloni`
 
 ### Prime Ministers
 

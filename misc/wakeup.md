@@ -213,3 +213,79 @@ case "$1" in
     ;;
 esac
 ```
+
+Now: 
+
+```bash
+Apr 01 17:43:07 fedora kernel: rtc_cmos rtc_cmos: RTC can wake from S4
+Apr 01 15:43:12 fedora (udev-worker)[643]: 3-10:1.0: /etc/udev/rules.d/91-disable-bluetooth-wake.rules:1 ATTR{power/wakeup}="disabled": Could not chase sysfs attribute "/sys/devices/pci0000:00/0000:00:14.0/usb3/3-10/3-10:1.0/power/wakeup", ignoring: No such file or directory
+Apr 01 15:43:12 fedora (udev-worker)[629]: 3-10:1.1: /etc/udev/rules.d/91-disable-bluetooth-wake.rules:1 ATTR{power/wakeup}="disabled": Could not chase sysfs attribute "/sys/devices/pci0000:00/0000:00:14.0/usb3/3-10/3-10:1.1/power/wakeup", ignoring: No such file or directory
+Apr 01 15:43:13 fedora NetworkManager[1147]: <info>  [1775050993.6378] Read config: /etc/NetworkManager/NetworkManager.conf, /usr/lib/NetworkManager/conf.d/{20-connectivity-fedora.conf,22-wifi-mac-addr.conf,99-nvme-nbft-no-ignore-carrier.conf}, /etc/NetworkManager/conf.d/{disable-wake-on-wlan.conf,wgpia.conf,wifi-powersave.conf}
+Apr 01 15:43:13 fedora NetworkManager[1147]: <warn>  [1775050993.6378] config: unknown key 'wifi.wake-on-wlan' in section [device] of file '/etc/NetworkManager/conf.d/wifi-powersave.conf'
+Apr 01 15:43:24 fedora systemd[1]: Starting disable-peg1-wake.service - Disable PEG1 ACPI wake trigger...
+Apr 01 15:43:24 fedora systemd[1]: Finished disable-peg1-wake.service - Disable PEG1 ACPI wake trigger.
+Apr 01 15:43:24 fedora audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=disable-peg1-wake comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 18:51:34 fedora NetworkManager[1147]: <info>  [1775062294.8003] manager: sleep: wake requested (sleeping: yes  enabled: yes)
+Apr 01 19:30:56 fedora NetworkManager[1147]: <info>  [1775064656.7847] manager: sleep: wake requested (sleeping: yes  enabled: yes)
+Apr 01 20:04:30 fedora NetworkManager[1147]: <info>  [1775066670.7862] manager: sleep: wake requested (sleeping: yes  enabled: yes)
+Apr 01 20:37:18 fedora NetworkManager[1147]: <info>  [1775068638.7867] manager: sleep: wake requested (sleeping: yes  enabled: yes)
+Apr 01 21:11:05 fedora NetworkManager[1147]: <info>  [1775070665.7576] manager: sleep: wake requested (sleeping: yes  enabled: yes)
+Apr 01 21:43:32 fedora NetworkManager[1147]: <info>  [1775072612.2008] manager: sleep: wake requested (sleeping: yes  enabled: yes)
+```
+
+**Claude:** "The culprit is IRQ 9 = ACPI. This means the wakeup is coming from the ACPI subsystem itself — specifically the ASUS Embedded Controller firing an ACPI event on a timer. This is a known ASUS ROG hardware quirk and ec_no_wakeup=1 didn't fully stop it."
+
+```bash
+sudo grubby --update-kernel=ALL --args="acpi.ec_no_wakeup=1 ec_sys.write_support=1"
+sudo reboot
+```
+
+## Finding the Culprit
+
+```bash
+mhetac@192:~$ sudo acpi_listen
+button/lid LID close
+ac_adapter ACPI0003:00 00000000 00000000
+battery PNP0C0A:03 00000080 00000001
+battery PNP0C0A:03 00000081 00000001
+battery PNP0C0A:03 00000080 00000001
+ac_adapter ACPI0003:00 00000000 00000000
+battery PNP0C0A:03 00000080 00000001
+battery PNP0C0A:03 00000081 00000001
+battery PNP0C0A:03 00000080 00000001
+ac_adapter ACPI0003:00 00000000 00000000
+battery PNP0C0A:03 00000080 00000001
+battery PNP0C0A:03 00000081 00000001
+battery PNP0C0A:03 00000080 00000001
+ac_adapter ACPI0003:00 00000000 00000000
+battery PNP0C0A:03 00000080 00000001
+battery PNP0C0A:03 00000081 00000001
+battery PNP0C0A:03 00000080 00000001
+ac_adapter ACPI0003:00 00000000 00000000
+battery PNP0C0A:03 00000080 00000001
+battery PNP0C0A:03 00000081 00000001
+battery PNP0C0A:03 00000080 00000001
+ac_adapter ACPI0003:00 00000000 00000000
+battery PNP0C0A:03 00000080 00000001
+battery PNP0C0A:03 00000081 00000001
+battery PNP0C0A:03 00000080 00000001
+button/lid LID open
+```
+### Trying to Fix the Culprit
+
+```bash
+mhetac@192:~$ sudo sh -c 'echo disabled > /sys/devices/pci0000:00/0000:00:1f.0/ACPI0003:00/power_supply/ADP0/power/wakeup'
+sudo sh -c 'echo disabled > /sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:0a/PNP0C0A:03/power/wakeup'
+sudo sh -c 'echo disabled > /sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:0a/PNP0C0D:01/power/wakeup'
+[sudo] password for mhetac: 
+mhetac@192:~$ cat /sys/devices/pci0000:00/0000:00:1f.0/ACPI0003:00/power_supply/ADP0/power/wakeup
+cat /sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:0a/PNP0C0A:03/power/wakeup
+cat /sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:0a/PNP0C0D:01/power/wakeup
+disabled
+disabled
+disabled
+```
+
+## Updated BIOS
+
+### 1. All "enabled"
