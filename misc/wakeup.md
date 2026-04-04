@@ -289,3 +289,23 @@ disabled
 ## Updated BIOS
 
 ### 1. All "enabled"
+
+All fixed.
+
+```bash
+mhetac@fedora:~$ journalctl -b | grep -i "wake"
+Apr 03 13:19:44 fedora kernel: Command line: BOOT_IMAGE=(hd0,gpt2)/vmlinuz-6.19.9-cachyos1.fc43.x86_64 root=UUID=ae2aae0e-6186-4858-a816-23f6f4355aca ro rootflags=subvol=root rd.driver.blacklist=nouveau modprobe.blacklist=nouveau nvidia-drm.modeset=1 rhgb quiet acpi.ec_no_wakeup=1 ec_sys.write_support=1
+Apr 03 13:19:44 fedora kernel: Kernel command line: BOOT_IMAGE=(hd0,gpt2)/vmlinuz-6.19.9-cachyos1.fc43.x86_64 root=UUID=ae2aae0e-6186-4858-a816-23f6f4355aca ro rootflags=subvol=root rd.driver.blacklist=nouveau modprobe.blacklist=nouveau nvidia-drm.modeset=1 rhgb quiet acpi.ec_no_wakeup=1 ec_sys.write_support=1
+Apr 03 13:19:44 fedora kernel: rtc_cmos rtc_cmos: RTC can wake from S4
+Apr 03 13:19:44 fedora dracut-cmdline[258]: Using kernel command line parameters:  rd.driver.pre=btrfs   BOOT_IMAGE=(hd0,gpt2)/vmlinuz-6.19.9-cachyos1.fc43.x86_64 root=UUID=ae2aae0e-6186-4858-a816-23f6f4355aca ro rootflags=subvol=root rd.driver.blacklist=nouveau modprobe.blacklist=nouveau nvidia-drm.modeset=1 rhgb quiet acpi.ec_no_wakeup=1 ec_sys.write_support=1
+Apr 03 11:19:50 fedora NetworkManager[1148]: <info>  [1775207990.6932] Read config: /etc/NetworkManager/NetworkManager.conf, /usr/lib/NetworkManager/conf.d/{20-connectivity-fedora.conf,22-wifi-mac-addr.conf,99-nvme-nbft-no-ignore-carrier.conf}, /etc/NetworkManager/conf.d/{disable-wake-on-wlan.conf,wgpia.conf,wifi-powersave.conf}
+Apr 03 11:20:01 fedora systemd[1]: Starting disable-peg1-wake.service - Disable PEG1 ACPI wake trigger...
+Apr 03 11:20:01 fedora systemd[1]: Finished disable-peg1-wake.service - Disable PEG1 ACPI wake trigger.
+Apr 03 11:20:01 fedora audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=disable-peg1-wake comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 03 23:57:25 fedora NetworkManager[1148]: <info>  [1775253445.4009] manager: sleep: wake requested (sleeping: yes  enabled: yes)
+Apr 04 08:44:51 fedora NetworkManager[1148]: <info>  [1775285091.3671] manager: sleep: wake requested (sleeping: yes  enabled: yes)
+```
+
+00:00 -> 51% battery
+08:44 -> 38% battery
+ 
