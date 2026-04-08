@@ -15,7 +15,7 @@ Cross-compare:
   - Separation of powers 
   - etc
 
-Simplicity in visualization is a must: easy to read graphs are more usable -> reach bigger audience [soruce?]
+Simplicity in visualization is a must: easy to read graphs are more usable -> reach bigger audience [source?]
 
 Taking opposing colours can incite polarization, even though the effects are limited [source?]
 
@@ -795,7 +795,7 @@ Most of this won't concern my corpus, except date.
 1. Find a list of influential politicians over the time span
 2. Gather corpus i.e., public speeches (speeches, interviews, videos, open letters, etc)
 
-### Structure
+### Table Structure
 
 - **df:italian_governments**
   - *col:government*
@@ -811,7 +811,9 @@ Most of this won't concern my corpus, except date.
   - *col:legislature*
     - `1` : "I Legislatura"
     - `15` : "XV Legislatura"
-  - **
+  - *col:pm_party*
+  - *col:gov_leaning*
+    - the political leaning of the specific government
 - **df:prime_ministers**
   - *col:pm_ID*
     - `degasperi`
@@ -825,6 +827,27 @@ Most of this won't concern my corpus, except date.
     - `De Gasperi`
     - `Draghi`
     - `Meloni`
+  - *col:pm_birthDate*
+  - *col:pm_deathDate*
+  - 
+
+### Taxonomy
+
+- political leaning:
+  - `mixed`
+    - e.g., [CLN](https://en.wikipedia.org/wiki/National_Liberation_Committee)
+    - e.g., [Pentapartito](https://en.wikipedia.org/wiki/Pentapartito)
+  - Far-Right: `RR`
+  - Far-Left: `LL`
+  - Right: `right`
+  - Left: `left`
+  - Center: `center`
+  - Center-Right: `centerRight`
+  - Center-Left: `centerLeft` 
+  - 
+### Democrazia Cristiana
+ 
+Center? Center left? Center right? The DC party was famously characterized by the "Correnti" (factions) phenomenon, meaning different political groups, thus leanings, inside the party.  For example, "Vespisti" is a conservative right leaning faction, while the "Gronchiani" faction is more left leaning.
 
 ### Prime Ministers
 
@@ -923,9 +946,18 @@ NICHI VENDOLA
 
 # Tools
 
-## Stanza
+## Linguistic Analysis 
+
+### Stanza
 https://stanfordnlp.github.io/stanza/index.html
 Stanza is a collection of accurate and efficient tools for the linguistic analysis of **many human languages**. Starting from raw text, Stanza divides it into sentences and words, and then can recognize parts of speech and entities, do syntactic analysis, and more. Stanza brings state-of-the-art NLP models to languages of your choosing.
+
+## Text to Speech
+
+### gTTS
+https://pypi.org/project/gTTS/
+
+Google Text-to-Speech
 
 # Models
 

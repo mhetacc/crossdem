@@ -62,5 +62,6 @@
         "multimodal",
         "virality"
     ],
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+    "cSpell.enabled": true
 }
