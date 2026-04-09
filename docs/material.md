@@ -888,9 +888,7 @@ VALTER VELTRONI
 	
 NICHI VENDOLA
 
-# Tools
-
-## Linguistic Analysis 
+# Linguistic Analysis 
 
 What do we want to do?
 1. word frequency (lemmas?)
@@ -900,6 +898,9 @@ What do we want to do?
       - do so called populist change a lot
       - meloni versus craxi versus de gasperi
 2. hate speech detection
+3. complexity analysis 
+
+Likely best workflow: pre-process with spaCy and do the rest with HuggingFace transformers.
 
 [sawicki,2023] gives us a list of state of the art stuff. 
 Most popular languages (i.e., the ones with most training done on them). Italian is less represented than French and English but still manages to reach the top 10, so we should find plenty of models trained on it. Be mindful that since the authors analyzes english written papers there is a bias in these numbers.
@@ -909,6 +910,10 @@ Most cited papers: BERT introduction [48] and TensorFlow [49]
 
 For text embeddings: FastText
 
+## NLP Pre-Processing
+
+Tasks such as lemmatization, POS tagging, tokenization, etc.
+
 ### Stanza
 https://stanfordnlp.github.io/stanza/index.html
 
@@ -917,7 +922,64 @@ Stanza is a collection of accurate and efficient tools for the linguistic analys
 ### SpaCy
 https://spacy.io/
 
-Very good NLP python library.
+Very good NLP python library. Support multiple languages.
+
+#### Scattertext
+Spacy visualization tool.
+
+![](https://jasonkessler.github.io/2012conventions0.0.2.2.png)
+
+### NLTK
+
+Popular well documented linguistic analysis python library. Multiple languages supported.
+
+### simplelemma
+https://pypi.org/project/simplemma/
+
+Lightweight python lemmatizer.
+
+## Word Frequency & Text Complexity
+
+### textacy
+https://pypi.org/project/textacy/
+
+Build on spaCy, compare string and sequences with various metrics e.g., Flesch-Kincaid for assessing text complexity and  Type-Token Ratio to assess text diversity.
+
+Do also pre processing (before spaCy). And it do stuff after spaCy.
+
+### py-readability-metrics
+https://pypi.org/project/py-readability-metrics/
+
+Once again python text complexity metrics.
+
+### TRUNAJOD
+
+SpaCy based python library for text complexity metrics.
+
+- avg coherence between sentences
+- avg synonym overlap
+- sentiment analysis
+- type token ratio based metrics
+- etc
+
+## Populism & Hate Speech
+
+### Hugging Face
+
+There are a lot of transformers-based models for hugging face:
+- Hate speech:
+  - English: [Hate-speech-CNERG/dehatebert-mono-english](https://huggingface.co/Hate-speech-CNERG/dehatebert-mono-english)
+  - French: [Hate-speech-CNERG/dehatebert-mono-french](https://huggingface.co/Hate-speech-CNERG/dehatebert-mono-french)
+  - Italian: [Hate-speech-CNERG/dehatebert-mono-italian](https://huggingface.co/Hate-speech-CNERG/dehatebert-mono-italian)
+  - Or https://huggingface.co/facebook/roberta-hate-speech-dynabench-r4-target which is, for english, the most used one.
+- Populism
+  - [coastalcph/roberta-large-ft-trump-populism](https://huggingface.co/coastalcph/roberta-large-ft-trump-populism)
+  - [mradermacher/populism_english_bert_base_uncased-GGUF](https://huggingface.co/mradermacher/populism_english_bert_base_uncased-GGUF)
+
+### Hatesonar
+https://pypi.org/project/hatesonar/
+
+Hate speech library for python.
 
 ## Text to Speech
 
@@ -939,6 +1001,35 @@ Huggingface. Microsoft S-t-T pre-trained model. Can be run locally with transfor
 pip install --upgrade pip
 pip install --upgrade transformers sentencepiece datasets[audio]
 ```
+
+# Democracy Levels
+
+Once we have our linguistic analysis done (e.g., text complexity and hate speech metrics) we can compare such data with democracy levels (e.g., freedom of speech).
+
+## Our World in Data
+Aggregate data from various sources.
+
+### Democracy Index
+https://ourworldindata.org/democracy#all-charts 
+
+<iframe src="https://archive.ourworldindata.org/20260409-073749/grapher/political-regime-lexical.html?tab=map" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
+
+![](imgs/political-regime-lexical.png)
+
+It is easily obtainable trough python code.
+
+```python
+import pandas as pd
+import requests
+
+# Fetch the data.
+df = pd.read_csv("https://ourworldindata.org/grapher/political-regime-lexical.csv?v=1&csvType=full&useColumnShortNames=false", storage_options = {'User-Agent': 'Our World In Data data fetch/1.0'})
+
+# Fetch the metadata
+metadata = requests.get("https://ourworldindata.org/grapher/political-regime-lexical.metadata.json?v=1&csvType=full&useColumnShortNames=false").json()
+```
+
+## V-Dem
 
 # Models
 
