@@ -84,62 +84,6 @@ Analyzes the "interpellation" (questioning) and "cut-and-thrust" of parliamentar
 
 #### Citations
 
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
-
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
-
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
-
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
-
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
-
-### Title
-[]
-
-#### Summary
-
-#### Content
-
-#### Citations
-
-
-
 
 ## AIs: Political Lingo vs Common Language
 
@@ -948,16 +892,53 @@ NICHI VENDOLA
 
 ## Linguistic Analysis 
 
+What do we want to do?
+1. word frequency (lemmas?)
+   - per time period?
+   - per political leaning?
+   - per prime minister
+      - do so called populist change a lot
+      - meloni versus craxi versus de gasperi
+2. hate speech detection
+
+[sawicki,2023] gives us a list of state of the art stuff. 
+Most popular languages (i.e., the ones with most training done on them). Italian is less represented than French and English but still manages to reach the top 10, so we should find plenty of models trained on it. Be mindful that since the authors analyzes english written papers there is a bias in these numbers.
+![](imgs/sawicki_languagesPopularity.png)
+
+Most cited papers: BERT introduction [48] and TensorFlow [49]
+
+For text embeddings: FastText
+
 ### Stanza
 https://stanfordnlp.github.io/stanza/index.html
+
 Stanza is a collection of accurate and efficient tools for the linguistic analysis of **many human languages**. Starting from raw text, Stanza divides it into sentences and words, and then can recognize parts of speech and entities, do syntactic analysis, and more. Stanza brings state-of-the-art NLP models to languages of your choosing.
 
+### SpaCy
+https://spacy.io/
+
+Very good NLP python library.
+
 ## Text to Speech
+
+To reduce storage needs we could download only the audio.
 
 ### gTTS
 https://pypi.org/project/gTTS/
 
-Google Text-to-Speech
+`pip install gTTS`
+
+Google Text-to-Speech Python library + CLI tool interface. Works with mp3 files.
+
+### SpeechT5
+https://huggingface.co/microsoft/speecht5_tts
+
+Huggingface. Microsoft S-t-T pre-trained model. Can be run locally with transformers library.
+
+```bash
+pip install --upgrade pip
+pip install --upgrade transformers sentencepiece datasets[audio]
+```
 
 # Models
 
