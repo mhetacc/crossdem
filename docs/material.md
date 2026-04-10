@@ -1006,6 +1006,40 @@ pip install --upgrade transformers sentencepiece datasets[audio]
 
 Once we have our linguistic analysis done (e.g., text complexity and hate speech metrics) we can compare such data with democracy levels (e.g., freedom of speech).
 
+
+## Data Sources Comparison
+### Democracy data: how sources differ and when to use which one
+[herre,2025]
+
+They source data from several datasets:
+1. [V-Dem](https://www.v-dem.net/vdemds.html)
+2. [Lexical Index of Electoral Democracy (LIED) by Skaaning et al. (2015)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WPKNIT)
+3. [Freedom House’s (FH) Freedom in the World](https://freedomhouse.org/report/freedom-world)
+4. [Bertelsmann Transformation Index (BTI) by the Bertelsmann Foundation](https://bti-project.org/en/downloads)
+5. [Economist Intelligence Unit’s (EIU) Democracy Index](https://www.eiu.com/n/campaigns/democracy-index-2021/?utm_source=eiu-website&utm_medium=blog&utm_campaign=democracy-index-2021)
+6. [Polity by the Center for Systemic Peace](https://www.systemicpeace.org/inscrdata.html)
+
+V-Dem is one of the best and most recognized datasets on the the matter, thus the one chosen for this project.
+
+"Varieties of Democracy — true to its name — offers both narrow and broader characterizations, by separately adding liberal, participatory, deliberative, as well as egalitarian (economic and social resources are equally distributed) political institutions to electoral democracy.[...] V-Dem treats democracy as a spectrum (0 to 1), with some countries being scored as more democratic than others."[herre,2025]
+
+I need data between 1946 and 2025, and only V-Dem and Lexical Index fulfill this requirement.
+[herre,2025]
+
+Data is assessed as such:
+- V-Dem:
+  - Several experts per country, year, and characteristic used (usually 5 or more since 1900, often 25 per country)
+- Lexical Index:
+  - Characteristics easy to understand and observe; subjective evaluation therefore mostly unnecessary
+
+V-Dem vs Lexical Index:
+
+*Varieties of Democracy* data is best if you are interested in big and small differences in varieties of democracy, far into the past, and want to use country experts to measure *characteristics* of political systems that are *difficult to observe*.
+
+*Lexical Index* is best if you rather want to explore medium differences in political regimes, especially in the 19th and earlier 20th century, and want to rely more on *characteristics* that are *easier to observe*.
+
+[herre,2022]
+
 ## Our World in Data
 Aggregate data from various sources.
 
@@ -1031,7 +1065,77 @@ metadata = requests.get("https://ourworldindata.org/grapher/political-regime-lex
 
 ## V-Dem
 
-# Models
+All data are available for download at [V-Dem Datasets](https://v-dem.net/data/the-v-dem-dataset/) or directly as an [R-package at github](https://github.com/vdeminstitute/vdemdata).
+
+### How is Democracy Measured
+[herre,varieties,2025]
+
+At Our World in Data we primarily use V-Dem’s Electoral Democracy Index to measure democracy. The other aspects can therefore be thought of as measuring the quality of a democracy.
+
+V-Dem electoral democracy must have:
+- Elected political leaders (I presume either directly or trough representatives)
+- Universal suffrage
+- Free and fair elections
+- Freedom of association
+- Freedom of election
+
+V-Dem assesses the characteristics of democracy mostly through evaluations by experts.3
+
+These **anonymous experts** are primarily academics and members of the media and civil society. They are also often nationals or residents of the country they assess, and therefore know its political system well and can evaluate aspects that are difficult to observe.
+
+V-Dem’s own team of researchers supplements the expert evaluations. 
+
+**V-Dem releases a new version of the data each year in March.**
+
+#### Critiques 
+
+The index does not account for other characterizations, such as democracies as egalitarian political systems. This means that some of the most economically-unequal countries in the world, such as Brazil and South Africa, are classified as broadly democratic in recent years.
+
+The assessment of the Electoral Democracy Index remains to some extent subjective. Its index is built on difficult evaluations by experts that rely less on easier-to-observe characteristics, such as whether regular elections are held.
+
+Finally, the index’s aggregation remains to some extent arbitrary. It is unclear why these specific subindices were chosen; and why two subindices, elected officials and voting rights, are weighted less than the others.
+
+# Human Rights
+
+## V-Dem
+[herre,human,2024]
+V-Dem measures also other stuff like human rights.
+
+Civil liberties characterized as:
+- Physical integrity rights: people are free and protected from government torture and political killings
+- Private civil liberties: people are free from forced labor, have property rights, and enjoy freedoms of movement (move unrestricted within, to, and from the country) and religion (choose and practice their faith)
+- Political civil liberties: people enjoy freedoms of association (parties and civil society organizations can form and operate freely) and expression (they can voice their views, and the media can present different political perspectives)
+
+Once again in scale form zero(0) to one(1).
+
+# Modelling 
+
+Extra: fine-tune pre-trained transformers or train a new model altogether (less likely).
+
+This an be done either on labeled or unlabeled data.
+- Unlabeled:
+  - pick base model 
+    - RoBERTa
+    - BERT
+  - continue original pre-training task
+  - then needs labeled to train actual classification task
+- Labeled:
+  - task-specific fine-tuning on a trained model
+  - attach classification head to the model
+  - use it to predict
+
+One way to go about it is by leveraging Huggingface [trainer API](https://huggingface.co/docs/transformers/main_classes/trainer):
+- feed it dateset
+  - pre-processed 
+  - tokenized
+- define metrics 
+  - precision 
+  - recall
+  - F1-score
+- set hyperparameters:
+  - learning rate
+  - epochs
+- `Trainer.train()`
 
 ## Models Bias
 
