@@ -888,6 +888,135 @@ VALTER VELTRONI
 	
 NICHI VENDOLA
 
+
+## Data Augmentation
+
+Two techniques to increase sample size without manually finding more data:
+1. Data Augmentation
+2. Synthetic Data
+
+### Data Augmentation
+
+One remark on **data augmentation**: if the corpus is not big enough, generating synthetic labelled data with another LLM is a good option.
+Data augmentation uses pre-existing data to create new data samples that supplement so-called incomplete datasets by providing missing data points, improving machine learning model optimization and generalization. In other words, data augmentation can reduce overfitting and improve model robustness.
+Important notice: **augmented data $\neq$ synthetic data.**  Synthetic data refers to the automatic generation of entirely artificial data. By contrast, data augmentation copies existing data and transforms those copies to increase the diversity and amount of data in a given set.
+![](https://assets.ibm.com/is/image/ibm/data-augmentation-text-augment:16x9?fmt=png-alpha&dpr=on%2C2&wid=1152&hei=648)
+Rule-based approaches include relatively simple find-and-replace techniques, such as random deletion or insertion. Rule-based approaches also encompass synonym replacement. In this strategy, one or more words in a string are replaced with their respective synonyms as recorded in predefined thesaurus, such as WordNet or the Paraphrase Database.
+[kavlakoglu,2024]
+
+#### Common Techniques
+
+Synonym replacement is a common technique, using WordNet database to find synonyms for words in our dataset. To prevent swapping nouns with verbs and similar mistakes, spaCy POS tagging can be used to replace, for example, only adjectives ensures that the sentence structure remains intact.
+
+```python
+import spacy
+import random
+from nltk.corpus import wordnet
+
+# Load English tokenizer, tagger, parser, and NER
+# You need to install this model first: python -m spacy download en_core_web_sm
+nlp = spacy.load("en_core_web_sm")
+
+def spacy_adjective_replacement(sentence):
+    doc = nlp(sentence)
+    new_sentence = []
+    
+    for token in doc:
+        # Check if the word is an adjective (JJ)
+        if token.pos_ == "ADJ":
+            synonyms = []
+            for syn in wordnet.synsets(token.text, pos=wordnet.ADJ):
+                for lemma in syn.lemmas():
+                    if lemma.name() != token.text:
+                        synonyms.append(lemma.name().replace('_', ' '))
+            
+            if synonyms:
+                # Replace with a random synonym
+                new_sentence.append(random.choice(synonyms))
+            else:
+                new_sentence.append(token.text)
+        else:
+            new_sentence.append(token.text)
+            
+    # Rejoin preserving basic punctuation spacing
+    return ' '.join(new_sentence).replace(" .", ".")
+
+# Example
+original_text = "The brilliant student solved the difficult puzzle."
+augmented_text = spacy_adjective_replacement(original_text)
+
+print(f"Original: {original_text}")
+print(f"Augmented: {augmented_text}")
+# Output might be: "The smart student solved the hard puzzle."
+```
+
+Back-Translation is a technique were we translate the corpus to another language, then translate it back. This is especially relevant to a multi-language corpus such as ours.
+
+![kavlakoglu,2024](https://assets.ibm.com/is/image/ibm/data-augmentation-translate-augment:16x9?fmt=png-alpha&dpr=on%2C2&wid=1152&hei=648)
+
+An example, that uses Hugging Face `transformers` library and either PyTorch or TensorFlow follows.
+
+```python
+from transformers import MarianMTModel, MarianTokenizer
+
+# 1. Load English to French model
+en_to_fr_name = "Helsinki-NLP/opus-mt-en-fr"
+tokenizer_en_fr = MarianTokenizer.from_pretrained(en_to_fr_name)
+model_en_fr = MarianMTModel.from_pretrained(en_to_fr_name)
+
+# 2. Load French to English model
+fr_to_en_name = "Helsinki-NLP/opus-mt-fr-en"
+tokenizer_fr_en = MarianTokenizer.from_pretrained(fr_to_en_name)
+model_fr_en = MarianMTModel.from_pretrained(fr_to_en_name)
+
+def back_translate(text):
+    # Step 1: English to French
+    encoded_en = tokenizer_en_fr(text, return_tensors="pt", padding=True)
+    translated_fr_tokens = model_en_fr.generate(**encoded_en)
+    french_text = tokenizer_en_fr.decode(translated_fr_tokens[0], skip_special_tokens=True)
+    
+    # Step 2: French back to English
+    encoded_fr = tokenizer_fr_en(french_text, return_tensors="pt", padding=True)
+    translated_en_tokens = model_fr_en.generate(**encoded_fr)
+    augmented_english_text = tokenizer_fr_en.decode(translated_en_tokens[0], skip_special_tokens=True)
+    
+    return augmented_english_text
+
+# Example
+original_text = "I am extremely exhausted because I stayed up all night coding."
+augmented_text = back_translate(original_text)
+
+print(f"Original: {original_text}")
+print(f"Augmented: {augmented_text}")
+# Output might be: "I'm extremely tired because I stayed up all night to code."
+```
+
+### Synthetic Data
+
+Synthetic data is inherently privatized, since it cannot be ascribed to any real person. This makes it free from any GDPR control system and privacy concerns.
+It can be of two types.
+- Fully synthetic: entirely new data that doesn’t include any real-world information
+- Partially synthetic:  but replaces portions of the original dataset—typically those containing sensitive information—with artificial values
+
+It is usually generated with either GANs or Transformer models. Of course, since it is entirely generated, it comes with some challenges.
+- Bias: synthetic data can still exhibit the biases that might be present in the real-world data that it is based on. 
+- Model collapse: an AI model is repeatedly trained on AI-generated data, causing model performance to decline.
+
+
+
+[caballar,2023][riemann,2026][gdpradvisor,2025]
+
+### Comparison
+
+In data augmentation, labels are inherited directly from the original data. This makes augmentation fast and label-efficient. Synthetic data provides full control over label creation. You can generate perfectly balanced classes, simulate rare edge cases, or even create novel combinations not present in original datasets.
+Augmentation is typically lightweight and can be done in real-time during model training, using minimal resources. It’s especially efficient when added as part of a data pipeline in image or text tasks. Synthetic data generation is more resource-intensive. It often requires model training (e.g., for GANs), simulation environments, or prompt engineering in large language models. 
+Synthetic data is inherently more at risk of being unrepresentative of real-word scenarios.
+
+If the goal is to expand existing datasets and improve model generalization to unseen but related data, augmentation is the best choice. This is common in tasks like image recognition, sentiment analysis, or speech processing. If the goal is to simulate realistic scenarios or train on patterns not present in your current data, synthetic data provides the flexibility and scale to do so.
+[cubig,2025]
+
+
+
 # Linguistic Analysis 
 
 What do we want to do?
@@ -1110,7 +1239,7 @@ Once again in scale form zero(0) to one(1).
 
 # Modelling 
 
-Extra: fine-tune pre-trained transformers or train a new model altogether (less likely).
+Extra: fine-tune pre-trained transformers or train a new model altogether.
 
 This an be done either on labeled or unlabeled data.
 - Unlabeled:
@@ -1136,6 +1265,85 @@ One way to go about it is by leveraging Huggingface [trainer API](https://huggin
   - learning rate
   - epochs
 - `Trainer.train()`
+
+## Approaches
+
+Classification tasks can be done, broadly speaking, in two ways: one is leveraging common machine learning and statistical tools such as Logistic Regression; the other approach uses what we nowadays call "AI", meaning Transformer models.
+
+### Traditional
+
+An example could be using *TF-IDF* and *Logistic Regression* with *Scikit-Learn* library.
+
+```python
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.linear_model import LogisticRegression
+from sklearn.pipeline import Pipeline
+from sklearn.metrics import classification_report
+
+# 1. Load your data
+df = pd.read_csv("your_corpus.csv")
+
+# 2. Split into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(df['text'], df['label'], test_size=0.2)
+
+# 3. Create a pipeline: Vectorizer + Classifier
+text_clf = Pipeline([
+    ('tfidf', TfidfVectorizer(stop_words='english', ngram_range=(1, 2))),
+    ('clf', LogisticRegression())
+])
+
+# 4. Train
+text_clf.fit(X_train, y_train)
+
+# 5. Evaluate
+predictions = text_clf.predict(X_test)
+print(classification_report(y_test, predictions))
+```
+
+### Transformers
+
+Transformers are far superior in terms of accuracy for textual analysis. They are also much more demanding in terms of resources.
+
+An example would be using *Hugging Face*'s `transformers` library to fine-tune a pre-trained model.
+
+```python
+from transformers import AutoModelForSequenceClassification, AutoTokenizer, Trainer, TrainingArguments
+from datasets import Dataset
+
+# 1. Load model and tokenizer (e.g., DistilBERT is fast)
+model_name = "distilbert-base-uncased"
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+
+# 2. Tokenize your data
+def tokenize_function(examples):
+    return tokenizer(examples["text"], padding="max_length", truncation=True)
+
+# Convert your pandas dataframe to a Hugging Face Dataset
+dataset = Dataset.from_pandas(df)
+tokenized_datasets = dataset.map(tokenize_function, batched=True)
+
+# 3. Define Training Arguments
+training_args = TrainingArguments(
+    output_dir="./results",
+    evaluation_strategy="epoch",
+    learning_rate=2e-5,
+    per_device_train_batch_size=16,
+    num_train_epochs=3,
+)
+
+# 4. Initialize Trainer
+trainer = Trainer(
+    model=AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=2),
+    args=training_args,
+    train_dataset=tokenized_datasets["train"],
+    eval_dataset=tokenized_datasets["test"],
+)
+
+# 5. Train
+trainer.train()
+```
 
 ## Models Bias
 
