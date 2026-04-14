@@ -41,6 +41,11 @@ Two other **advantages** of **outside communications**:
 2. Easy automatization: take the social networks of politicians and track it
 3. Less "political lingo" -> AIs are better trained on common language (greater amount of data) 
 
+## Effect of Political Speeches 
+
+Before even beginning to define the scope and purposes of this project we should ask ourselves: can political speeches sway public opinion? By which degree? 
+
+If it turns out that this premise is not true, then everything that comes after will not be of any use.
 
 ## Parliamentary versus Public Speeches
 
