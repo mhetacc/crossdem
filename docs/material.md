@@ -1259,7 +1259,17 @@ There are **five high-level indices**, one of which is the Electoral Democracy I
 - alternative sources of information
 
 
+
 ### Dataset 
+
+Types:
+- Indices: aggregated high level 
+  - `v2x_`
+  - `v2xAB_`
+- Indicators: raw data that experts (i.e., the coders) use to produce indices
+  - *v2*
+  - *v2AB*
+- Historical V-Dem: from 1900 backwards [vdem cookbook v16, p266]
 
 Countries:
 - Italy:
@@ -1384,7 +1394,22 @@ Features:
       - e.g., "volete il nucleare?"
     - *cross-compare with populism?*
     - aggregates: *v2ddlexci v2ddsigpci v2ddsiglci v2ddsigdci v2ddpartci v2ddapprci v2ddspmci v2ddadmci v2ddyrci v2ddlexrf v2ddsigprf v2ddsigdrf v2ddpartrf v2ddapprrf v2ddspmrf v2ddadmrf v2ddyrrf v2ddpartpl v2ddapprpl v2ddspmpl v2ddadmpl v2ddlexpl v2ddyrpl v2ddlexor v2ddpartor v2ddappor v2ddspmor v2ddadmor v2ddyror v2ddthreor v2ddthrerf v2ddthrepl v2ddthreci*
-  - dde
+  - local powers:
+    - `v2xel_regelec`: regional governments
+      - aggregates *: v2elsrgel v2elrgpwr v2elreggov*
+    - `v2xel_locelec`: local governments
+      - aggregates: *v2ellocelc v2ellocpwr v2ellocgov*
+  - `v2xeg_eqprotec`
+    - rights, freedom and protection equal across different social groups
+    - low classes as safe as high classes
+    - aggregates *v2clacjust v2clsocgrp v2clsnlpct*
+  - `v2xeg_eqaccess`
+    - equality of accessing positions of power
+    - ability to serve in position of power distribution among social classes 
+    - aggregates *v2pepwrgen v2pepwrsoc v2pepwrses*
+  - `v2xeg_eqdr`
+    - equality of distribution of resources
+    - aggregates *v2dlencmps v2dlunivl v2peedueq v2pehealth*
 
 
 # Human Rights
