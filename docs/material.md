@@ -1224,6 +1224,169 @@ The assessment of the Electoral Democracy Index remains to some extent subjectiv
 
 Finally, the index’s aggregation remains to some extent arbitrary. It is unclear why these specific subindices were chosen; and why two subindices, elected officials and voting rights, are weighted less than the others.
 
+### Description
+
+Four datasets:
+- **Coder-Level:**
+  - raw data before V-Dem scoring
+  - 273 indicators
+- **CD Country Date:**
+  - day granularity
+    - e.g., *Italy, 07.10.1985*
+  - 531 indicators
+  - 95 indices
+- **CY Country Year:**
+  - year granularity
+    - e.g., *France, 2002*
+  - 5 indices
+  - 93 sub-indices
+  - 179 indicators
+- **CY Full + Others:**
+  - year granularity
+    - e.g., *France, 2002*
+  - 531 indicators
+  - 251 indices
+  - 62 extra indicators from other sources
+
+CY has a better temporal precision, while CY Full + Others has more indicators and stuff. Considering the italian governments we must use CD.
+
+There are **five high-level indices**, one of which is the Electoral Democracy Index. This index consists of five sub-components. Together, they capture Dahl's seven (six?) institutions of polyarchy:
+- freedom of association
+- suffrage
+- clean elections
+- elected executive
+- freedom of expression
+- alternative sources of information
+
+
+### Dataset 
+
+Countries:
+- Italy:
+  - ID: 82
+  - Years coverage: 1861-2025
+- France:
+  - ID: 76
+  - Years coverage: 1789-2025
+- USA:
+  - ID: 20
+  - Years coverage: 1789-2025
+
+Prefixes:
+- `v2`: vdem variable
+- `v3`: historical vdem var
+- `v2xAB_`: topic-specific area
+  - `AB==el`: election area
+  - `AB==cl`: civic liberty area
+  - `AB==reg`: regime area
+- `e_`: external variable (not vdem)
+
+Features:
+- **Identifiers:**
+  - `country_id`
+    - unique for each country
+  - `country_text_id`
+    - eg *FR* or *IT*
+  - `country_name`
+  - `historical_date`
+    - YYYY-MM-DD
+    - $\in$ CY datasets but has no meaning
+    - for election-date-specific variables
+      - $\forall$ other variables $=1_st$ january
+  - `gapstart` and `gapend`: time period with no data
+  - `gap_index`: interpolate only within same gap index
+- **Democracy Indices:**
+  - $1_st$ level indices
+  - $\forall scale=[1,0]$ unless otherwise specified
+  - `v2x_polyarchy`
+    - *electoral* democracy index
+    - aggregates:
+      - `v2x_elecoff`
+      - `v2xel_frefair`
+      - `v2x_frassoc_thick`
+      - `v2x_suffr`
+      - `v2x_freexp_altinf`
+  - `v2x_libdem`
+    - *liberal* democracy index
+    - aggregates: 
+      - `v2x_polyarchy`
+      - `v2x_liberal`
+  - `v2x_partipdem`
+    - *participatory* democracy index
+    - aggregates: 
+    - `v2x_polyarchy`
+    - `v2x_partip`
+  - `v2x_delibdem`
+    - *deliberative* democracy index
+    - focus on process by which decisions are reached
+      - respectful dialogue
+      - informed decisions
+      - common good motivated decisions
+    - aggregates: 
+    - `v2x_polyarchy`
+    - `v2xdl_delib`
+  - `v2x_egaldem`
+    - *egalitarian* democracy index
+    - consider social status
+      - monetary possibilities
+      - inequalities diminish ability of citizens to participate in democracy
+    - requires distribution of resources 
+    - aggregates 
+      - `v2x_polyarchy`
+      - `v2x_egal`
+- **Components of Democracy Indices** 
+  - $2_nd$ level indices
+  - subcomponents of Democracy Indices
+  - `v2x_freexp_altinf`
+    - freedom of expression
+    - alternative sources of information
+    - aggregates: *v2mecenefm v2meharjrn v2meslfcen v2xcl_disc v2clacfree v2mebias v2mecrit v2merange*
+  - `v2x_frassoc_thick`
+    - freedom of association
+      - parties
+        - creation
+        - participation in elections
+      - civil society organizations
+      - aggregates: *2psparban v2psbars v2psoppaut v2elmulpar v2cseeorgs v2csreprss* `v2x_elecreg`
+  - `v2x_suffr`
+    - percentage of adult suffrage (1=universal)
+    - aggregates: *v2elsuffrage*
+  - `v2xel_frefair`
+    - elections quality
+      - free
+      - fair
+    - aggregates: *v2elembaut v2elembcap v2elrgstry v2elvotbuy v2elirreg v2elintim v2elpeace v2elfrfair* `v2x_elecreg`
+  - `v2xcl_rol`
+    - laws transparency
+    - laws fair enforcement
+    - individual rights and liberties
+    - aggregates: *v2clrspct v2cltrnslw  v2cltort v2clkill v2clrelig v2clfmove* `v2xcl_dmove v2xcl_slave v2xcl_acjst v2xcl_prpty`
+  - `v2x_jucon`
+    - executive law compliance 
+    - judiciary independence
+    - aggregates: *v2exrescon v2jucomp v2juhccomp v2juhcind v2juncind*
+  - `v2xlg_legcon`
+    - executive external scrutiny
+    - aggregates: *2lgqstexp v2lgotovst v2lginvstp v2lgoppart*
+  - `v2x_partip`
+    - individual citizen participation in political processes
+    - takes suffrage for granted
+    - aggregates: `v2x_cspart v2xdd_dd v2xel_locelec v2xel_regelec`
+  - `v2x_cspart`
+    - citizen associations participation in political processes
+      - e.g., labor unions
+      - e.g., ONGs
+    - aggregates: *v2pscnslnl v2cscnsult v2csprtcpt v2csgender*
+  - `v2xdd_dd`
+    - direct vote index
+      - referendums 
+      - ballots
+      - e.g., "volete il nucleare?"
+    - *cross-compare with populism?*
+    - aggregates: *v2ddlexci v2ddsigpci v2ddsiglci v2ddsigdci v2ddpartci v2ddapprci v2ddspmci v2ddadmci v2ddyrci v2ddlexrf v2ddsigprf v2ddsigdrf v2ddpartrf v2ddapprrf v2ddspmrf v2ddadmrf v2ddyrrf v2ddpartpl v2ddapprpl v2ddspmpl v2ddadmpl v2ddlexpl v2ddyrpl v2ddlexor v2ddpartor v2ddappor v2ddspmor v2ddadmor v2ddyror v2ddthreor v2ddthrerf v2ddthrepl v2ddthreci*
+  - dde
+
+
 # Human Rights
 
 ## V-Dem
