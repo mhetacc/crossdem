@@ -8,7 +8,7 @@ Cross-compare:
   - lexical analysis
   - hate speech detection
   - sentiment analysis 
-  - etc
+  - register and rhetoric
 - **Democracy levels**
   - V-Dem dataset
   - Free speech
@@ -18,6 +18,12 @@ Cross-compare:
 Simplicity in visualization is a must: easy to read graphs are more usable -> reach bigger audience [source?]
 
 Taking opposing colours can incite polarization, even though the effects are limited [source?]
+
+Research Questions:
+1. RQ1: does the political colour influence the chosen words and/or tone and register of the conversation?
+2. RQ2: is there a relationship between hate speech in the political discourse and individuals liberties (e.g., freedom of speech and association).
+   1. RQ2.2: is this especially true for marginalized individuals?
+3. RQ3: do different rhetorics and registers effect democratic indicators(such as freedom of expression)?  
 
 # Politicians' Rhetoric  
 
@@ -43,9 +49,17 @@ Two other **advantages** of **outside communications**:
 
 ## Effect of Political Speeches 
 
-Before even beginning to define the scope and purposes of this project we should ask ourselves: can political speeches sway public opinion? By which degree? 
 
 If it turns out that this premise is not true, then everything that comes after will not be of any use.
+
+Leaders depend on the verbal power to persuade people of the profits that arise from their control in all kinds of political structures [Charteris-Black,2005]
+
+As societies become more democratic, the responsibility of the leaders becomes greater to convince potential followers to ensure that their policies can be trusted. Also, speeches play a vital role for politicians in declaring their policies and convince others to agree with them [Beard,2000]
+
+Political discourse and rhetoric is multifunctional which means: it may be used to perform a variety of speech acts (to protest, legitimize, intimidate, particularly to persuade) by leading us to a certain view of political reality and to act in a consistent way with this view (Woods, 2006). Woods, N. (2006). Describing discourse: A practical guide to discourse
+analysis. USA: Oxford University Press.
+
+Nearly all twentieth century Presidents of the U.S., from Theodore Roosevelt onward, have tried to lead public opinion. [...]  Scholars in the past have debated on the substance of this development; however, have not questioned its impact upon the public.  [...] The study concludes that the U.S. Presidents, who have been popular, have been able to affect public opinion. [Page,Shapiro,1984]
 
 ## Parliamentary versus Public Speeches
 
@@ -276,6 +290,10 @@ Twitter-based activity moderately impacts politicians' political success, both i
 Campaigning on social media has become a core feature of political communication.1 Parties and politicians rely heavily on these platforms to promote their views, interact with citizens and actors close to politics, and generate traditional media attention.
 Step 1: find text corpus.
 
+### The Polarizing Impact of Political Disinformation and Hate Speech: A Cross-country Configural Narrative
+[vasist,2023]
+
+Disinformation campaigns and hate speech in polarizing societies across 177 countries through a cross-country investigation. The results demonstrate the definitive role of disinformation and hate speech in polarizing societies. The findings also offer a balanced perspective on internet censorship and social media monitoring as necessary evils to combat the disinformation menace and control polarization, but suggest that such efforts may lend support to a milieu of hate speech that fuels polarization. 
 
 # Text Corpus
 
