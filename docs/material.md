@@ -47,10 +47,10 @@ Two other **advantages** of **outside communications**:
 2. Easy automatization: take the social networks of politicians and track it
 3. Less "political lingo" -> AIs are better trained on common language (greater amount of data) 
 
-## Effect of Political Speeches 
+Democratic stability depends on citizens on the losing side accepting election outcomes.Clayton et. al. 2021 study evaluate the effects of exposure to multiple statements from (at the time) former president Donald attacking the legitimacy of the 2020 US presidential election. They found no evidence indicate that elites can erode democratic norms easily or that the effects of norm violations are uniform across the entire population. However elite rhetoric can shape normative beliefs in core democratic values such as confidence in elections and support for peaceful transfers of power. This was especially evident amongst people who approved of Trump's performance in office.
+[clayton,2021]
 
-
-If it turns out that this premise is not true, then everything that comes after will not be of any use.
+## Why Political Speeches 
 
 Leaders depend on the verbal power to persuade people of the profits that arise from their control in all kinds of political structures [Charteris-Black,2005]
 
@@ -330,6 +330,9 @@ The differences and similarities of these three countries make it so that it mak
 US, Italy and France history is highly entertwined, such as how the US helped them in the mediterranea strategy [brogi,2006] or how the US fought with the two countries communist parties [brogi,2011]
 
 
+Why Italy? It is the country best known by the author, being italian and all, and it always has been an interesting case study, being often referred to as an "anomaly" or, by authors such as Marc Lazar, as a kind of ‘laboratory’ of a general change of European democracies. 
+Since the 1990s, the state of Italian democracy has raised numerous questions, stimulat- ing the curiosity of the international media, causing heated debates, providing material for seminars and conferences, and engendering academic and journal- istic publications by Italians and foreigners alike. Lazar's opion tho, is that rather than being an exception, Italy is at the same time an indicator of a more general democratic malaise and of the multiple attempts of invention of a new democratic order that are emerging all over the European Union. The actual specifics of Italy cannot hide the fact that similar (but not identical) phenomena affect, in their own ways, other European democracies, which makes it a meaningful case study. 
+[lazar,2013]
 
 ### Italy's democratic quality and the role of political parties: comparative empirical patterns
 [Panzano,2025]
