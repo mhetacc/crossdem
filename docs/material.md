@@ -1136,6 +1136,28 @@ https://pypi.org/project/hatesonar/
 
 Hate speech library for python.
 
+## Emotion Classification
+
+### EMPOLITICON: NLP and ML Based Approach for Context and Emotion Classification of Political Speeches From Transcripts
+[efat,2023]
+
+> PM speeches emotional classification task with 53% accuracy
+
+On presidents/prime ministers of China, Russia, the United Kingdom and the United States i.e., the permanent members of the United Nations Security Council.
+
+Emotion classification:
+- joy
+- optimism
+- upset
+- neutral
+
+Embeddings done with Longformer: attention scales linearly with sequence length. So good scalability?
+
+EMPOLITICON-Emotion which is a soft voting classifier with XGB Classifier, Cat Boost Classifier and Linear Discriminant Analysis as the baseline models.
+
+Comparing: We have trained a Bidirectional LSTM and a LSTM model with ELMO as an embedding layer without oversampling the data. However, the deep learning models did not perform well com- pared to our EMPOLITICON-Emotion model. 
+
+
 ## Text to Speech
 
 To reduce storage needs we could download only the audio.
