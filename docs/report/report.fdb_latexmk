@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex report"] 1776781485.42636 "report.aux" "report.bbl" "report" 1776781488.20547 0
+["bibtex report"] 1776788828.09705 "report.aux" "report.bbl" "report" 1776788831.13383 0
   "./report.bib" 1776781482.01046 86621 53de679e9e19d72fde2238ff10d8b556 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/acmart/ACM-Reference-Format.bst" 1653856601 90333 ccee583820c555b8fd3c6d1b9f362b14 ""
-  "report.aux" 1776781487.84072 9666 2f7b07fcb6fd71f4901e651006ccc5dc "pdflatex"
+  "report.aux" 1776788830.79554 9757 d16d7bff46f42aae6b19a5729ccd11ee "pdflatex"
   (generated)
   "report.bbl"
   "report.blg"
   (rewritten before read)
-["pdflatex"] 1776781485.53179 "/home/mhetac/Documents/GitHub/crossdem/docs/report/report.tex" "report.pdf" "report" 1776781488.2057 0
+["pdflatex"] 1776788828.25439 "/home/mhetac/Documents/GitHub/crossdem/docs/report/report.tex" "report.pdf" "report" 1776788831.13405 0
   "/home/mhetac/Documents/GitHub/crossdem/docs/report/report.tex" 1768562974.97999 8305 e29c78fd1ecdb17dd48b7ae11541f206 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc" 1490131464 2921 8ca0eb0831f9bc5da080d3697cfe67bf ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1490131464 2933 9ad527ce78d7c5fa0a642dead095f172 ""
@@ -39,7 +39,9 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineTI-tlf-t1--base.tfm" 1490131464 1932 54655639067fe21ae3b23b77173351a5 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinLibertineTI-tlf-t1.tfm" 1490131464 19920 63bb3db95807ffe45b0900d104896325 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/LibertineMathMI.tfm" 1569879884 1552 f91250a4f6e3f34d48dfc8f34aabc764 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/LibertineMathMI7.tfm" 1575323900 1576 8b8bb19fb7739a0ce82c1377e0e950fe ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/NewTXMI.tfm" 1572128992 1408 ef71a9098da4d5a1a85b5920860b6731 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/NewTXMI7.tfm" 1572128992 1556 4df22ac3e5cc03ff0898d83d8817c6cf ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxexa.tfm" 1589834365 760 e8ec875a87aa119f1af7ea4be48da9e8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxexx.tfm" 1621283831 1772 c3eb2dc3ad7612f6f7ffa1b18d45b0b9 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxsy.tfm" 1583272976 2000 33f20474c9fe1489d6907a37300dec5a ""
@@ -60,6 +62,7 @@
   "/usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb" 1354061736 538965 19c5c8b7f952ac97afb8565e9c21a82d ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb" 1354061736 490980 e27f1e217a0902faea22205f197918d4 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/newtx/LibertineMathMI.pfb" 1569879884 35829 268d1d114c9114e541f92817aec4230d ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/newtx/LibertineMathMI7.pfb" 1575323900 36894 0893e50696ed2a200373455c6aff080e ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/newtx/txsys.pfb" 1569879884 40320 53cb337366eff502cad8f44871c88e39 ""
   "/usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinBiolinumT-tlf-t1.vf" 1490131464 1728 e76e04a950024a95b620698b679c9810 ""
   "/usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinBiolinumTB-tlf-t1.vf" 1354061736 1728 4ae633ddccb76ba8d0a0906a5e2e8fdf ""
@@ -70,6 +73,7 @@
   "/usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinLibertineTI-tlf-t1.vf" 1490131464 1768 b3bfd8ed1fe2dce5fd19610abe4c3dbe ""
   "/usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxsy7.vf" 1634244313 1900 7edab28ff3dc70ba23d9121ff6e8e785 ""
   "/usr/share/texlive/texmf-dist/fonts/vf/public/newtx/nxlmi.vf" 1569879884 2744 3e5ba39e1559219ae379b7645e2f9524 ""
+  "/usr/share/texlive/texmf-dist/fonts/vf/public/newtx/nxlmi7.vf" 1575323900 2740 2574d1692bc06933fa73eb18c93daedb ""
   "/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1775001600 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
@@ -208,16 +212,16 @@
   "images/mezide_san.png" 1768475077.27524 1432729 4dc4a6b5864cc407856609722509e1db ""
   "images/rozando_manycolors.png" 1768424316.40199 777642 64ea3df4a809adfaee6a97701abc60ba ""
   "lstlisting_settings.tex" 1764001821.59337 923 6c327df865b68b4ddddc74a9f42a2ca7 ""
-  "report.aux" 1776781487.84072 9666 2f7b07fcb6fd71f4901e651006ccc5dc "pdflatex"
-  "report.bbl" 1776781485.52472 1785 8ed37e936ba16de73718c10d329b7108 "bibtex report"
-  "report.out" 1776781487.84172 1508 c6529a99e71ea26d579fba799950478c "pdflatex"
+  "report.aux" 1776788830.79554 9757 d16d7bff46f42aae6b19a5729ccd11ee "pdflatex"
+  "report.bbl" 1776788828.24554 10453 0dec5b3e8c12a306daa29b8eca75af64 "bibtex report"
+  "report.out" 1776788830.79654 1508 c6529a99e71ea26d579fba799950478c "pdflatex"
   "report.tex" 1768562974.97999 8305 e29c78fd1ecdb17dd48b7ae11541f206 ""
   "sections/aionfakenews.tex" 1768573329.69925 7252 1348c379b579dd35befcdc4d6c2a92d1 ""
   "sections/aionhumans.tex" 1768573463.28952 6335 f213b08d80b357fa3ae8bfb387fa4af3 ""
   "sections/aiownbias.tex" 1768572751.02224 5092 f6c3fdea5c0b71c6c3610439f0bb771b ""
   "sections/conclusion.tex" 1768494020.99116 711 3b361559bd5b515edb5a51d7575e42f4 ""
   "sections/ethicalai.tex" 1768573651.63944 2523 792376df080140a06b7a2f3ead3a59e0 ""
-  "sections/introduction.tex" 1768563155.27734 3611 cd9e4a7c7a414b765e4988b66c2f7f93 ""
+  "sections/introduction.tex" 1776788822.01679 2501 ebad6ce42ab81713b6e43aa11add23e2 ""
   (generated)
   "report.aux"
   "report.log"

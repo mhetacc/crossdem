@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{0}
+\begin{thebibliography}{6}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -36,5 +36,74 @@
 \providecommand\bibinfo[2]{#2}
 \providecommand\natexlab[1]{#1}
 \providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[Beard(2000)]%
+        {beard_language_2000}
+\bibfield{author}{\bibinfo{person}{Adrian Beard}.} \bibinfo{year}{2000}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{The {Language} of {Politics}}}.
+\newblock \bibinfo{publisher}{Routledge}.
+\newblock
+\showISBNx{978-0-415-20178-0}
+\newblock
+\shownote{Google-Books-ID: XpqSmh1pjsEC}.
+
+
+\bibitem[Charteris-Black(2011)]%
+        {charteris-black_persuasion_2011}
+\bibfield{author}{\bibinfo{person}{Jonathan Charteris-Black}.} \bibinfo{year}{2011}\natexlab{}.
+\newblock \showarticletitle{Persuasion, {Speech} {Making} and {Rhetoric}}.
+\newblock In \bibinfo{booktitle}{\emph{Politicians and {Rhetoric}: {The} {Persuasive} {Power} of {Metaphor}}}, \bibfield{editor}{\bibinfo{person}{Jonathan Charteris-Black}} (Ed.). \bibinfo{publisher}{Palgrave Macmillan UK}, \bibinfo{address}{London}, \bibinfo{pages}{1--27}.
+\newblock
+\showISBNx{978-0-230-31989-9}
+\urldef\tempurl%
+\url{https://doi.org/10.1057/9780230319899_1}
+\showDOI{\tempurl}
+
+
+\bibitem[Clayton et~al\mbox{.}(2021)]%
+        {clayton_elite_2021}
+\bibfield{author}{\bibinfo{person}{Katherine Clayton}, \bibinfo{person}{Nicholas~T. Davis}, \bibinfo{person}{Brendan Nyhan}, \bibinfo{person}{Ethan Porter}, \bibinfo{person}{Timothy~J. Ryan}, {and} \bibinfo{person}{Thomas~J. Wood}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Elite rhetoric can undermine democratic norms}.
+\newblock \bibinfo{journal}{\emph{Proceedings of the National Academy of Sciences}} \bibinfo{volume}{118}, \bibinfo{number}{23} (\bibinfo{date}{June} \bibinfo{year}{2021}), \bibinfo{pages}{e2024125118}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1073/pnas.2024125118}
+\showDOI{\tempurl}
+
+
+\bibitem[Holtus and Cortelazzo(1985)]%
+        {holtus_dal_1985}
+\bibfield{author}{\bibinfo{person}{Günter Holtus} {and} \bibinfo{person}{Michele Cortelazzo}.} \bibinfo{year}{1985}\natexlab{}.
+\newblock \showarticletitle{Dal parlato al (tra)scritto: i resoconti stenografici dei discorsi parlamentari}.
+\newblock In \bibinfo{booktitle}{\emph{Gesprochenes {Italienisch} in {Geschichte} und {Gegenwart}}}. \bibinfo{publisher}{G. Narr}, \bibinfo{pages}{86--118}.
+\newblock
+\showISBNx{978-3-87808-852-3}
+\newblock
+\shownote{Google-Books-ID: NfwlAAAAMAAJ}.
+
+
+\bibitem[Mohrhoff(1987)]%
+        {mohrhoff_dalla_1987}
+\bibfield{author}{\bibinfo{person}{Aurelia Mohrhoff}.} \bibinfo{year}{1987}\natexlab{}.
+\newblock \showarticletitle{Dalla lingua del {Parlamento} alla lingua del parlamentare}.
+\newblock In \bibinfo{booktitle}{\emph{Aurelia {Mohrhoff}, {Dalla} lingua del {Parlamento} alla lingua del parlamentare}}. \bibinfo{publisher}{Roma: Camera dei Deputati}, \bibinfo{pages}{145--156}.
+\newblock
+\urldef\tempurl%
+\url{https://www.google.com/search?client=firefox-b-d&q=Aurelia+Mohrhoff%2C+Dalla+lingua+del+Parlamento+alla+lingua+del+parlamentare%2C+%C2%ABSerie+delle+verifiche+di+professionalit%C3%A0+dei+consiglieri+parlamentari%C2%BB#sv=CBAS9x0Kzx0KBtrZ29IPABLEHQr6Agr3ArrZ29IP8AIKMmh0dHBzOi8vYnByLmNhbWVyYS5pdC9icHIvYWxsZWdhdGkvc2hvdy8zODE1XzgyOF90Ej1CaWJsaW9ncmFmaWEgZGVsIFBhcmxhbWVudG8gaXRhbGlhbm8gZSBkZWdsaSBzdHVkaSBlbGV0dG9yYWxpGvYBZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFCQUFBQUFRQWdNQUFBQmluUmZ5QUFBQURGQk1WRVVBQUFBZk0zY2lOM29qTjNvakprRHhBQUFBQW5SU1RsTUFRQUJQaktnQUFBQkhTVVJCVkhnQlkyRGNmSUNCZ2FHMkFFaVl5QUFKNi85QTRndjdCZ1oxRTNaNUJsNFRkaDhHVGhQMkF5Q1dCMGhNRGlMTFlML2VBYWhERnFqWU1nZElsSDFnWUdBRVlnQmIrUTdtSFROU1RnQUFBQUJKUlU1RXJrSmdnZz09IAE4AQqjAgqgAtLZ29IPmQIKPERhbCBsaW5ndWFnZ2lvIGRlbCBQYXJsYW1lbnRvIGFsIGxpbmd1YWdnaW8gZGVsIHBhcmxhbWVudGFyZRIyaHR0cHM6Ly9icHIuY2FtZXJhLml0L2Jwci9hbGxlZ2F0aS9zaG93LzM4MTVfODI4X3QapAEqIEF1cmVsaSogTW9ocmhvZmYgw6ggQ29uc2lnbGllcmUgc3Rlbm9ncmFmbyBkZWxsYSBDYW1lcmEgZGVpIGRlcHV0YXRpLiBQYWdlIDIuIDIwOC4gUHJvYmxlbWkgY29zdGl0dXppb25hbGkgZSBwYXJsYW1lbnRhcmkuIEdsaSBzdGVzc2kgbWVtYnJpIGRlbCBQYXJsYW1lbnRvIHNpIC4uLgr3CQr0CcLZ29IP7QkSPERhbCBsaW5ndWFnZ2lvIGRlbCBQYXJsYW1lbnRvIGFsIGxpbmd1YWdnaW8gZGVsIHBhcmxhbWVudGFyZRrAAwoyaHR0cHM6Ly9icHIuY2FtZXJhLml0L2Jwci9hbGxlZ2F0aS9zaG93LzM4MTVfODI4X3QSL0RhbCBsaW5ndWFnZ2lvIGRlbCBQYXJsYW1lbnRvIGFsIGxpbmd1YWdnaW8gLi4uGqQBKiBBdXJlbGkqIE1vaHJob2ZmIMOoIENvbnNpZ2xpZXJlIHN0ZW5vZ3JhZm8gZGVsbGEgQ2FtZXJhIGRlaSBkZXB1dGF0aS4gUGFnZSAyLiAyMDguIFByb2JsZW1pIGNvc3RpdHV6aW9uYWxpIGUgcGFybGFtZW50YXJpLiBHbGkgc3Rlc3NpIG1lbWJyaSBkZWwgUGFybGFtZW50byBzaSAuLi4gASoCZW4yAkhSOhYqFFNvZmFpZ2h0ZXJAZ21haWwuY29tQh8vcz90Ym09bWFwJmdzX3JpPW1hcHMmc3VnZ2VzdD1wSjBBS1BPcjFUaUxQSmVkQ1dqU2k2TjUwR3RaMmRSeXlFc1ZROjE3Njk2OTA2MzAzMzFSPUJpYmxpb2dyYWZpYSBkZWwgUGFybGFtZW50byBpdGFsaWFubyBlIGRlZ2xpIHN0dWRpIGVsZXR0b3JhbGlSdBgFKjxEYWwgbGluZ3VhZ2dpbyBkZWwgUGFybGFtZW50byBhbCBsaW5ndWFnZ2lvIGRlbCBwYXJsYW1lbnRhcmU6Mmh0dHBzOi8vYnByLmNhbWVyYS5pdC9icHIvYWxsZWdhdGkvc2hvdy8zODE1XzgyOF90cn0KMmh0dHBzOi8vYnByLmNhbWVyYS5pdC9icHIvYWxsZWdhdGkvc2hvdy8zODE1XzgyOF90KCMyRVNvdXJjZTogQmlibGlvZ3JhZmlhIGRlbCBQYXJsYW1lbnRvIGl0YWxpYW5vIGUgZGVnbGkgc3R1ZGkgZWxldHRvcmFsaXr0Axo8RGFsIGxpbmd1YWdnaW8gZGVsIFBhcmxhbWVudG8gYWwgbGluZ3VhZ2dpbyBkZWwgcGFybGFtZW50YXJlIhZ3ZWJyZXN1bHRfbkZWOUJtb0RROFlKMAFg7o8GagpNU0FGIC0gU1JQcv0CqgEQV0VCX1JFU1VMVF9JTk5FUrIBPQoyaHR0cHM6Ly9icHIuY2FtZXJhLml0L2Jwci9hbGxlZ2F0aS9zaG93LzM4MTVfODI4X3QSA09GRhgAIADiAaYCCtMBKiBBdXJlbGkqIDxiPk1vaHJob2ZmPC9iPiDDqCA8Yj5Db25zaWdsaWVyZTwvYj4gc3Rlbm9ncmFmbyA8Yj5kZWxsYTwvYj4gQ2FtZXJhIDxiPmRlaTwvYj4gZGVwdXRhdGkuIFBhZ2UgMi4gMjA4LiBQcm9ibGVtaSBjb3N0aXR1emlvbmFsaSBlIDxiPnBhcmxhbWVudGFyaTwvYj4uIEdsaSBzdGVzc2kgbWVtYnJpIDxiPmRlbCBQYXJsYW1lbnRvPC9iPiBzaSZuYnNwOy4uLhJKRGFsIGxpbmd1YWdnaW8gPGI-ZGVsIFBhcmxhbWVudG8gYWw8L2I-IGxpbmd1YWdnaW8gPGI-ZGVsIHBhcmxhbWVudGFyZTwvYj4YACARoAFiwAEB4AEB6AEBCqQOCqEOytnb0g-aDhL1DSLyDS9zZWFyY2gvYWJvdXQtdGhpcy1yZXN1bHQ_b3JpZ2luPXd3dy5nb29nbGUuY29tJnJlcT1DakpvZEhSd2N6b3ZMMkp3Y2k1allXMWxjbUV1YVhRdlluQnlMMkZzYkdWbllYUnBMM05vYjNjdk16Z3hOVjg0TWpoZmRCSUVHZ0lJQUJxOENSSUNDQUFhQUNJQUtnQXlCZ2dDRWdKb2Nqb0FRZ1FJQWhBQVNnQmFBSElBZWdDQ1FKWUpDQWNRQUJnQUlBQXFIQW9IWVhWeVpXeHBZUlVZUzBwQUdneHBkanR3TzJGMWNtVnNhV0VxSGdvSWJXOW9jbWh2Wm1ZVkxsQmRRQm9OYVhZN2NEdHRiMmh5YUc5bVppb3dDZ1ZrWVd4c1lSWHZlYWdfR2dKa1lSb0VaR0ZzYkJvRlpHVnNiR0VhQlc1bGJHeGhHZ3BwZGp0d08yUmhiR3hoS2lNS0JteHBibWQxWVJWeUowQV9HZ2RzdzYxdVozVmhHZ3RwZGp0d08yeHBibWQxWVNvYUNnTmtaV3dWTERTX1FCb0NaR1VhQldSbGJHeGhHZ056ZFd3cUlnb0tjR0Z5YkdGdFpXNTBieFd3Q1p0QUdnOXBkanR3TzNCaGNteGhiV1Z1ZEc4cUlRb0VZV3hzWVJXTWM4a19HZ0poYkJvRmMzVnNiR0VhQ1dsMk8zQTdZV3hzWVNvakNnWnNhVzVuZFdFVmNpZEFQeG9IYk1PdGJtZDFZUm9MYVhZN2NEdHNhVzVuZFdFcUdnb0RaR1ZzRlN3MHYwQWFBbVJsR2dWa1pXeHNZUm9EYzNWc0tqQUtESEJoY214aGJXVnVkR0Z5WlJVeHNvaEFHZ2hrWlhCMWRHRjBieG9SYVhZN2NEdHdZWEpzWVcxbGJuUmhjbVVxSUFvRmMyVnlhV1VWMjhkTVBob0djOE9wY21sbEdncHBkanR3TzNObGNtbGxLaVlLQldSbGJHeGxGVEpWbVQ4YUJXUmxaMnhwR2dWa1pXeHNZUm9LYVhZN2NEdGtaV3hzWlNvMUNnbDJaWEpwWm1samFHVVZBQUFBQUJvSWRtVnlhV1pwWTJFYURtbDJPM0E3ZG1WeWFXWnBZMmhsR2dsd2IyeHBkR2xqYUdVcUVBb0NaR2tWOEE3V1FCb0ZaR1ZzYkdFcWlnRUtFSEJ5YjJabGMzTnBiMjVoYkdsMHc2QVZBQUFBQUJvTmNISnZabVZ6YzJsdmJtRnNaUm9OY0hKdlptVnpjMmx2Ym1Gc2FSb1BjSEp2Wm1WemMybHZibUZzYVhSaEdndHdjbTltWlhOemFXOXVaUm9PY0hKdlptVnpjMmx2Ym1semRHRWFEbkJ5YjJabGMzTnBiMjVwYzNScEdoVnBkanR3TzNCeWIyWmxjM05wYjI1aGJHbDB3NkFxSWdvRFpHVnBGVFRrQ0VBYUJXUmxaMnhwR2dWa1pXeHNZUm9JYVhZN2NEdGtaV2txUFFvTFkyOXVjMmxuYkdsbGNta1ZBQUFBQUJvS1lYTnphWE4wWlc1MGFSb0xZMjl1YzJsbmJHbGxjbVVhRUdsMk8zQTdZMjl1YzJsbmJHbGxjbWtxSmdvTWNHRnliR0Z0Wlc1MFlYSnBGWURKWFQ4YUVXbDJPM0E3Y0dGeWJHRnRaVzUwWVhKcE1qSm9kSFJ3Y3pvdkwySndjaTVqWVcxbGNtRXVhWFF2WW5CeUwyRnNiR1ZuWVhScEwzTm9iM2N2TXpneE5WODRNamhmZERwS1JHRnNJR3hwYm1kMVlXZG5hVzhnUEdJLVpHVnNJRkJoY214aGJXVnVkRzhnWVd3OEwySS1JR3hwYm1kMVlXZG5hVzhnUEdJLVpHVnNJSEJoY214aGJXVnVkR0Z5WlR3dllqNUMwd0VxSUVGMWNtVnNhU29nUEdJLVRXOW9jbWh2Wm1ZOEwySS1JTU9vSUR4aVBrTnZibk5wWjJ4cFpYSmxQQzlpUGlCemRHVnViMmR5WVdadklEeGlQbVJsYkd4aFBDOWlQaUJEWVcxbGNtRWdQR0ktWkdWcFBDOWlQaUJrWlhCMWRHRjBhUzRnVUdGblpTQXlMaUF5TURndUlGQnliMkpzWlcxcElHTnZjM1JwZEhWNmFXOXVZV3hwSUdVZ1BHSS1jR0Z5YkdGdFpXNTBZWEpwUEM5aVBpNGdSMnhwSUhOMFpYTnphU0J0WlcxaWNta2dQR0ktWkdWc0lGQmhjbXhoYldWdWRHODhMMkktSUhOcEptNWljM0E3TGk0dVVnSmhiRklGWkdWc2JHRlNBbVJoVWdWdVpXeHNZVklGYzNWc2JHRlNBM04xYkNJQ0VBRklBRmdBYUFBJmhsPWVuLUhSJmdsPUhSGhZodHRwczovL3d3dy5nb29nbGUuY29tWgBgAWgBcAB4ABIjYXRyaXRlbS1fQlZaN2FkZkFPT245N19VUDhmelc2QW9fNDUYLyDonruXCTAC}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Page and Shapiro(1984)]%
+        {page_presidents_1984}
+\bibfield{author}{\bibinfo{person}{Benjamin~I. Page} {and} \bibinfo{person}{Robert~Y. Shapiro}.} \bibinfo{year}{1984}\natexlab{}.
+\newblock \showarticletitle{Presidents as {Opinion} {Leaders}: {Some} {New} {Evidence}}.
+\newblock \bibinfo{journal}{\emph{Policy Studies Journal}} \bibinfo{volume}{12}, \bibinfo{number}{4} (\bibinfo{date}{June} \bibinfo{year}{1984}), \bibinfo{pages}{649--662}.
+\newblock
+\showISSN{0190-292X}
+\urldef\tempurl%
+\url{https://doi.org/10.1111/j.1541-0072.1984.tb00480.x}
+\showDOI{\tempurl}
+
 
 \end{thebibliography}
