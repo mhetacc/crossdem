@@ -1,0 +1,80 @@
+\section{AI for Fake News Generation and Detection}
+\label{sec:ai_fkns}
+
+% intro
+
+Fake news has rapidly become a significant concern in the digital age, thanks to their virality and potential damages. 
+They spread faster and generate more engagement than truthful information \cite{kleinman_fake_2018,silverman_this_2016}, and can influence public opinion, manipulate elections and pose a threat to public health. For example, the World Economic Forum has identified the proliferation of false content as the leading short-term global risk in 2025 \cite{carson_fake_2025}, and a BBC investigation found Russian-funded fake news networks aiming to disrupt European elections \cite{marocico_how_2025}. 
+Moreover, fake news on health can cause psychological disorders such as panic, fear, depression, and fatigue \cite{rocha_impact_2023}, making the World Health Organization to call for development of international fact-checking organizations to combat this phenomenon \cite{world_health_organization_1st_nodate}.  
+
+% ai generation
+
+Adding to the problem, the recent advancements in generative artificial intelligence have made it significantly easier to propagate misinformation through the web: generated content is increasingly indistinguishable from human-written text, sometimes even perceived as more credible \cite{kreps_all_2020}, citing true evidence to support false claims \cite{feng_syntactic_2012}, and inducing the illusion of majority opinion thanks to the sheer volume of information produced \cite{diresta_ai-generated_2020}.
+
+That being said, not all findings are entirely negative: Drolsbach and Pröllochs \cite{drolsbach_characterizing_2025} shift their focus from potential societal consequences to real-world prevalence, conducting a large-scale analysis on the platform \textit{X}. 
+They analyzed a dataset comprising $91.452$ misleading posts, both human and AI-generated, flagged trough X's \textit{Community Notes} platform \footnote{Community Notes, formerly known as Birdwatch, is community-driven content moderation program on X (formerly Twitter), where contributors can add context such as fact-checks under a post, image or video. 
+GitHub repository: \url{https://github.com/twitter/communitynotes}}. 
+Their findings reveal that generated fake news are often centered on entertaining content rather than controversial or political subjects, and tends to exhibit a more positive sentiment than conventional forms of misinformation. 
+Unfortunately, it is also significantly more likely to go viral.
+
+Lastly, AI agents can produce more than just text: they can create realistic images, videos and sounds, allowing them to make digital copies of real or fictional people, known as \textit{deepfakes}. 
+In March 2019, this technology has been used to trick a UK-based energy firm's CEO into transferring $\mathdollar 243{.}000$ to a malicious party, disguised as an entirely AI-generated executive from their parent company \cite{ferrara_genai_2024}. 
+Deepfakes also increase the amount of conspiratorial videos on the internet, and they are especially vicious when targeting children, whose worldviews are easily swayed by deceptive, highly photorealistic content \cite{verma_one_2024}.
+
+% detection
+
+It follows that detecting and mitigating fake news is crucial. 
+From the foundational work by Devlin et al. on \textit{BERT} in 2018 \cite{devlin_bert_2019}, which revolutionized natural language processing through deep bidirectional transformers, to the application of said transformers in identifying automatically generated headlines \cite{maronikolakis_identifying_2021}; the landscape of automated fake news detection has significantly expanded.
+Vijjali et al. \cite{vijjali_two_2020} developed a two-stage transformer-based model for detecting COVID-19 related misinformation, combining fact-checking with textual entailment\footnote{In natural language processing, textual entailment is a directional relation between text fragments. If the first sentence is true and that makes the second sentence true as well, then the first sentence entails the second.} to verify claims. Their model performs significantly better than other baseline NLP approaches (table \ref{tab:vijjali}). 
+
+\begin{table}[h]
+    \centering
+    \caption{Precision metrics for two-stage transformer model for COVID-19 fake news detection. Vijjali et al \cite{vijjali_two_2020}}
+    \label{tab:vijjali}
+    \begin{tabular}{lccc}
+        \toprule
+        \textbf{Models} & \textbf{MRR} & \textbf{Recall@10} & \textbf{Accuracy} \\
+        \midrule
+        TF-IDF                  & 0.477 & 0.635 & 0.525 \\
+        GloVe                   & 0.182 & 0.410 & 0.579  \\
+        MobileBERT              & 0.561 & 0.735 & 0.710  \\
+        BERT                    & 0.632 & 0.795 & 0.810  \\
+        ALBERT                  & 0.582 & 0.675 & 0.825 \\
+        \textbf{BERT+ALBERT}    & 0.632 & 0.795 & 0.855  \\
+        \bottomrule
+    \end{tabular}
+\end{table}
+
+Jwa et al. \cite{jwa_exbake_2019} propose an improved \textit{exBAKE} model that leverages pre-training on a BERT model to accurately understand and assess articles' authenticity. They only analyzed the relationship between headlines and body text. 
+Results are shown in table \ref{tab:jwa_fakenews}.
+
+\begin{table}[h]
+    \centering
+    \caption{Precision metrics for exBAKE transformer model on fake news recognition. Jwa et al. \cite{jwa_exbake_2019}}
+    \label{tab:jwa_fakenews}
+    \begin{tabular}{lccccc}
+        \toprule
+        \textbf{Models} & \textbf{F1} & \textbf{AGR} & \textbf{DSG} & \textbf{DSC} & \textbf{UNR} \\
+        \midrule
+        Majority vote        & 0.210 & 0.000 & 0.000 & 0.000 & 0.839 \\
+        BERT                 & 0.656 & 0.651 & 0.145 & \textbf{0.839} & 0.989 \\
+        BAKE                 & 0.734 & 0.667 & 0.463 & 0.822 & 0.986 \\
+        exBAKE               & \textbf{0.746} & \textbf{0.684} & \textbf{0.501} & 0.813 & 0.988 \\
+        Upper bound          & 0.754 & 0.588 & 0.667 & 0.765 & 0.997 \\
+        \bottomrule
+    \end{tabular}
+\end{table}
+
+Schütz et al. \cite{schutz_automatic_2021} experimented on \textit{FakeNewsNet} dataset with  \textit{XLNet}, BERT, \textit{RoBERTa}, \textit{DistilBERT}, and \textit{ALBERT} and various combinations of hyperparameters. The evaluation shows that titles are enough to attain 85\% accuracy, while concatenating them with the body text increases it to 87\%.
+Lastly, on the matter of deepfakes, Bansal et al. \cite{bansal_deepfake_2023} use \textit{Convolutional Neural Networks} (CNN) and \textit{Deep Convolutional Generative Adversarial Networks} (GAN) to detect them with high accuracy, as shown in figure \ref{fig:bansal_deepfake}.
+
+These were just a small selection of the many research works in the field of AI-aided fake news generation and detection, which while being extremely relevant and proliferous, are but a fraction of the many potential uses for these technologies.
+
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=.7\linewidth]{images/bansal_deepfake.png}
+  \caption{Transformer models scores on deepfakes detection. Bansal et al. \cite{bansal_deepfake_2023}}
+  \Description{Graph shows precision metrics for different models}
+  \label{fig:bansal_deepfake}
+\end{figure}
