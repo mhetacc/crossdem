@@ -688,9 +688,29 @@ Onorevole Speroni, sono consapevole del fatto che, da un punto di vista razional
 
 Could be useful to integrate but the site doesnt work at the moment. https://impaqts.it/ 
 
-#### Paper's Extracts
+Annotazioni:
+- Implicatura
+  - convenzionale
+  - generalizzata
+  - etc
+- Presupposizione
+  - pragmatica
+  - etc
+- Vaghezza
+  - sintattica
+  - semantica
+  - metaforica
+- Topicalizzazione
+  - a matrice sintattica
+  - a matrice prosodica
 
+Esempio (in corsivo il *costrutto tendenzioso*):
+«Siamo sempre state in un ghetto della società, in due locali più servizi, in scuole solo per le donne, le scuole femminili, adesso ci danno anche un ghetto in Parlamento. *Così lo intitoliamo “uteri e affini”*, ci litighiamo magari tra di noi però non rompiamo gli accordi, in generale».
 
+Informazioni annotate:
+- tipo: implicatura conversazionale (impl_cvrs);
+- funzione: attacco (TT);
+- esplicitazione: implica che gli uomini politici italiani pensino che le donne possano occuparsi solo di questioni femminili.
 
 ### Parola di Leader
 
@@ -1063,7 +1083,7 @@ Most popular languages (i.e., the ones with most training done on them). Italian
 
 Most cited papers: BERT introduction [48] and TensorFlow [49]
 
-For text embeddings: FastText
+For text embeddings: FastText or LLM2Vec[BehnamGhader,2024]. 
 
 ## NLP Pre-Processing
 
@@ -1117,9 +1137,9 @@ SpaCy based python library for text complexity metrics.
 - type token ratio based metrics
 - etc
 
-## Populism & Hate Speech
+### Populism & Hate Speech
 
-### Hugging Face
+#### Hugging Face
 
 There are a lot of transformers-based models for hugging face:
 - Hate speech:
@@ -1131,32 +1151,10 @@ There are a lot of transformers-based models for hugging face:
   - [coastalcph/roberta-large-ft-trump-populism](https://huggingface.co/coastalcph/roberta-large-ft-trump-populism)
   - [mradermacher/populism_english_bert_base_uncased-GGUF](https://huggingface.co/mradermacher/populism_english_bert_base_uncased-GGUF)
 
-### Hatesonar
+#### Hatesonar
 https://pypi.org/project/hatesonar/
 
 Hate speech library for python.
-
-## Emotion Classification
-
-### EMPOLITICON: NLP and ML Based Approach for Context and Emotion Classification of Political Speeches From Transcripts
-[efat,2023]
-
-> PM speeches emotional classification task with 53% accuracy
-
-On presidents/prime ministers of China, Russia, the United Kingdom and the United States i.e., the permanent members of the United Nations Security Council.
-
-Emotion classification:
-- joy
-- optimism
-- upset
-- neutral
-
-Embeddings done with Longformer: attention scales linearly with sequence length. So good scalability?
-
-EMPOLITICON-Emotion which is a soft voting classifier with XGB Classifier, Cat Boost Classifier and Linear Discriminant Analysis as the baseline models.
-
-Comparing: We have trained a Bidirectional LSTM and a LSTM model with ELMO as an embedding layer without oversampling the data. However, the deep learning models did not perform well com- pared to our EMPOLITICON-Emotion model. 
-
 
 ## Text to Speech
 
@@ -1473,7 +1471,7 @@ Civil liberties characterized as:
 
 Once again in scale form zero(0) to one(1).
 
-# Modelling 
+# Classification Task Model Training
 
 Extra: fine-tune pre-trained transformers or train a new model altogether.
 
@@ -1580,6 +1578,160 @@ trainer = Trainer(
 # 5. Train
 trainer.train()
 ```
+
+#### Mistral
+
+Outperforms Llama 2 13B on all benchmark.
+
+Under the Apache 2.0 license, it can be used without restrictions.
+
+https://huggingface.co/mistralai
+
+![](https://cms.mistral.ai/assets/01c5ceab-a881-4b56-af40-82f0197bece3)
+
+## Examples
+
+### EMPOLITICON: NLP and ML Based Approach for Context and Emotion Classification of Political Speeches From Transcripts
+[efat,2023]
+
+> PM speeches emotional classification task with 53% accuracy
+
+*bachelors project, probably not very good*
+
+On presidents/prime ministers of China, Russia, the United Kingdom and the United States i.e., the permanent members of the United Nations Security Council.
+
+Emotion classification:
+- joy
+- optimism
+- upset
+- neutral
+
+Embeddings done with Longformer: attention scales linearly with sequence length. So good scalability?
+
+EMPOLITICON-Emotion which is a soft voting classifier with XGB Classifier, Cat Boost Classifier and Linear Discriminant Analysis as the baseline models.
+
+Comparing: We have trained a Bidirectional LSTM and a LSTM model with ELMO as an embedding layer without oversampling the data. However, the deep learning models did not perform well com- pared to our EMPOLITICON-Emotion model. 
+
+### Computational analysis of 140 years of US political speeches reveals more positive but increasingly polarized framing of immigration
+[card,2022]
+
+> classify immigration sentiment in political speeches (pro, anti, neutral)
+> 92 citations
+
+
+Pipeline:
+1. automated text classification based on extensive human annotations for tone (proimmigration, antiimmigration, or neutral)
+2. curate and apply a set of lexicons for analyzing relevant frames (i.e., ways of characterizing immigrants and immigration)
+3. neural contextual embedding models to quantify implicit dehumanizing metaphors
+
+Extreme polarization: today, Democrats are unprecedentedly positive about immigration, whereas Republicans are as negative as the average legislator was in the 1920s during the push for strict immigration quotas.
+
+
+#### How To
+
+1. Data: For presidential communications, we downloaded all available presidential documents from The American Presidency Project
+2. Classification
+   1. hired research assistants at Princeton University to label a random sample of speeches from the Congressional Record as 
+      1. being about immigration or not 
+      2. , being proimmigration, antiimmigration, or neutral
+   2.  team of five annotators provided judgements on a total of 7,626 segments 
+       1.  average Krippendorff’s alpha was 0.76 for relevance and 0.48 for tone
+   3. fine-tuned the pretrained  **RoBERTa** model to congressional speeches in a self-supervised fashion and then further fine-tuned it to be a classifier using our annotated examples
+      1. ∼90% accuracy on relevance
+      2. 65% accuracy on tone
+   4. used the trained classifiers to
+      1. identify relevant segments
+      2. predict tone
+      3.  aggregating predictions on segments into predictions on speeches
+3. Measuring words impact
+   1. trained L1 regularized logistic regression models to fit the predicted tone labels on all congressional segments classified as relevant
+   2. Shapley values were computed for each term using the shap Python package
+4. 
+
+**Oss: models trained on congressional speeches**
+
+### Sentiment Analysis of Twitter Data Using NLP Models: A Comprehensive Review
+[albladi,2025]
+
+> survey on sentiment analysis using NLP
+> 42 citations
+
+#### TL;DR
+
+RoBERTa consistently outperforms other methods in multi-classification tasks.
+
+#### Models
+
+Transformer-based models, such as BERT, RoBERTa, and GPT variations, consistently exhibit superior performance. **RoBERTa**, an optimized variant of BERT, often outperforms its predecessor, particularly in multi-class sentiment classification and domain-specific tasks.
+
+#### Benchmark Datasets
+
+1. **Sentiment140:** benchmark dataset that contains 1.6 million labeled tweets
+2. **SemEval series:** includes domain-specific tasks and multilingual sentiment datasets
+3. **COVID-19 Twitter datasets:** analyze public sentiment during crises
+4. **Reddit Comment Corpus:** enables sentiment analysis in informal, user-generated long-form text
+
+#### Pre-Processing
+
+1. **Noise Removal:** Elimination of URLs, mentions (e.g., @username), and retweets to reduce irrelevant features.
+2. **Tokenization:** Splitting text into smaller units, such as words or subwords, using methods like WordPiece or Byte Pair Encoding (BPE).
+3. **Stopword Removal:** Filtering out common words (e.g., and, the) that do not carry significant sentiment information.
+4. **Emoji and Hashtag Handling:** Converting emojis into textual equivalents (e.g., → happy) and splitting hashtags into component words (e.g., #HappyDay → Happy Day).
+5. **Normalization:** Lowercasing text, standardizing abbreviations, and handling elongated words (e.g., cooool → cool).
+6. **Data Balancing:** Techniques such as oversampling, undersampling, or synthetic data generation are used to address class imbalance issues.
+7. **Data Augmentation:** advanced techniques such as back-translation and synonym replacement are employed, enhancing model robustness.
+
+#### Hyper-Parameters
+
+HP for BERT/RoBERTa models which are still the go to.
+
+1. **Learning Rate:** Most studies use a small learning rate in the range of 2×10⁻⁵ to 5×10⁻⁵, which prevents overfitting during fine-tuning on domain-specific datasets.
+2. **Batch Size:** Common batch sizes include 16 or 32, balancing memory constraints and training efficiency.
+3. **Epochs:** Fine-tuning is often conducted over 3 to 5 epochs, as longer training can lead to overfitting on small datasets.
+4. **Optimizer:** The Adam optimizer, particularly its variant AdamW, is frequently used due to its adaptive learning rate and regularization capabilities.
+5. **Max Sequence Length:** Input sequences are typically truncated or padded to 128 or 256 tokens to fit within memory constraints while preserving sufficient context for sentiment classification.
+
+#### Evaluation Metrics
+
+1. **Accuracy:** A widely used metric for balanced datasets, indicating the proportion of correctly classified instances.
+2. **F1-Score:** Particularly important for imbalanced datasets, combining precision and recall into a single metric.
+3. **Cross-Entropy Loss:** Used during training to quantify the difference between predicted and true class probabilities.
+4. **Area Under the Curve (AUC):** Evaluates the model’s ability to distinguish between classes across different thresholds.
+
+### Towards Optimal NLP Solutions: Analyzing GPT and LLaMA-2 Models Across Model Scale, Dataset Size, and Task Diversity 
+[kumar,2024]
+
+> LLaMA and GPT models empirical comparison
+> Bigger models perform better
+> 26 citations
+
+Accuracy on SST-2 dataset:
+- BERT Single Task: 0.932
+- LLaMA-2 70B FT C: 0.9923
+- LLaMA-2 13B FT C: 0.9863
+- GPT-3.5 FT C: 0.9942
+
+
+The results revealed a clear correlation between the size of the dataset and the improvement in model performance, with larger datasets significantly increasing both accuracy and F1 scores across all models. For example, GPT-3.5 reached accuracies of 0.9694, 0.9784, 0.9797, and 0.9875 for dataset sizes 500, 1000, 2500.
+
+For instance, the smaller LLaMA-2 7B model achieved an accuracy of 0.9832, the medium-sized LLaMA-2 13B model achieved 0.9862, while the larger LLaMA-2 70B model reached 0.9866.
+
+**LLaMA-2 13B emerged as the most balanced option** for NLP tasks, striking an optimal balance between computational efficiency, performance, and adaptability. This model can be fine-tuned on freely available GPUs, such as T4 on Google Colab, with techniques like QLoRA, which renders it an attractive choice for researchers and developers in NLP
+
+### Label Supervised LLaMA Finetuning
+[li,2023]
+
+>LLaMA and RoBERTa comparison in text classification
+
+LS-LLaMA substantially outperforms LLMs ten times its size in scale and demonstrates consistent improvements compared to robust baselines like BERT-Large and RoBERTa-Large in text classification
+
+Accuracy on SST-2 dataset:
+- RoBERTa-Large: 0.9610
+- RoBERTa-Base: 0.9461
+- LS-LLaMA-2-13B : 0.9690
+- LS-unLLaMA-2-7B 0.9736
+
+tl;dr: LLaMA 7B is outstanding, going to 13B does not exhibit the expected linear scalability with an increase in model size.
 
 ## Models Bias
 
