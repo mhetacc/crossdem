@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.4.10)  21 APR 2026 18:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.4.10)  22 APR 2026 13:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -873,310 +873,31 @@ LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 3.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 9.0pt on input line 7.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 7.
-
-
-Package natbib Warning: Citation `madhani_farewell_2021' on page 1 undefined on input line 7.
-
-
-Package natbib Warning: Citation `vinci_meloni_2025' on page 1 undefined on input line 7.
-
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 6.0pt on input line 8.
-[1.1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}]) (./sections/aionfakenews.tex
-
-Package natbib Warning: Citation `kleinman_fake_2018' on page 2 undefined on input line 7.
-
-
-Package natbib Warning: Citation `silverman_this_2016' on page 2 undefined on input line 7.
-
-
-Package natbib Warning: Citation `carson_fake_2025' on page 2 undefined on input line 7.
-
-
-Package natbib Warning: Citation `marocico_how_2025' on page 2 undefined on input line 7.
-
-
-Package natbib Warning: Citation `rocha_impact_2023' on page 2 undefined on input line 8.
-
-
-Package natbib Warning: Citation `world_health_organization_1st_nodate' on page 2 undefined on input line 8.
-
-
-Package natbib Warning: Citation `kreps_all_2020' on page 2 undefined on input line 12.
-
-
-Package natbib Warning: Citation `feng_syntactic_2012' on page 2 undefined on input line 12.
-
-
-Package natbib Warning: Citation `diresta_ai-generated_2020' on page 2 undefined on input line 12.
-
-
-Package natbib Warning: Citation `drolsbach_characterizing_2025' on page 2 undefined on input line 14.
-
+ [1.1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}]) (./sections/socialnetworks.tex) (./sections/goal.tex
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 15.
+(Font)              scaled to size 7.3pt on input line 5.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 16.
-
-Package natbib Warning: Citation `ferrara_genai_2024' on page 2 undefined on input line 21.
-
-
-Package natbib Warning: Citation `verma_one_2024' on page 2 undefined on input line 22.
-
-
-Package natbib Warning: Citation `devlin_bert_2019' on page 2 undefined on input line 27.
-
-
-Package natbib Warning: Citation `maronikolakis_identifying_2021' on page 2 undefined on input line 27.
-
-
-Package natbib Warning: Citation `vijjali_two_2020' on page 2 undefined on input line 28.
-
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 32.
-
-Package natbib Warning: Citation `vijjali_two_2020' on page 2 undefined on input line 32.
-
-
-Package natbib Warning: Citation `vijjali_two_2020' on page 2 undefined on input line 32.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Package natbib Warning: Citation `jwa_exbake_2019' on page 2 undefined on input line 48.
-
-
-Package natbib Warning: Citation `jwa_exbake_2019' on page 2 undefined on input line 53.
-
-
-Package natbib Warning: Citation `jwa_exbake_2019' on page 2 undefined on input line 53.
-
-[2.2]
-
-Package natbib Warning: Citation `schutz_automatic_2021' on page 3 undefined on input line 68.
-
-
-Package natbib Warning: Citation `bansal_deepfake_2023' on page 3 undefined on input line 69.
-
-<images/bansal_deepfake.png, id=82, 2492.31125pt x 1248.665pt>
-File: images/bansal_deepfake.png Graphic file (type png)
-<use images/bansal_deepfake.png>
-Package pdftex.def Info: images/bansal_deepfake.png  used on input line 76.
-(pdftex.def)             Requested size: 301.00192pt x 150.80504pt.
-
-Package natbib Warning: Citation `bansal_deepfake_2023' on page 3 undefined on input line 77.
-
-
-Package natbib Warning: Citation `bansal_deepfake_2023' on page 3 undefined on input line 77.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (./sections/aionhumans.tex
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 7.0pt on input line 4.
-
-
-Package natbib Warning: Citation `un_trade__development_classifications_nodate' on page 3 undefined on input line 4.
-
-
-Package natbib Warning: Citation `howarth_how_2021' on page 3 undefined on input line 4.
-
-
-Package natbib Warning: Citation `schneider_humans_2020' on page 3 undefined on input line 4.
-
-
-Package natbib Warning: Citation `ueshima_simple_2024' on page 3 undefined on input line 4.
-
-
-Package natbib Warning: Citation `park_generative_2023' on page 3 undefined on input line 4.
-
-[3.3]
-
-Package natbib Warning: Citation `dos_santos_melicio_composite_2023' on page 4 undefined on input line 9.
-
-<images/dossantos.png, id=93, 2418.03375pt x 297.11pt>
-File: images/dossantos.png Graphic file (type png)
-<use images/dossantos.png>
-Package pdftex.def Info: images/dossantos.png  used on input line 14.
-(pdftex.def)             Requested size: 430.00462pt x 52.83372pt.
-
-Package natbib Warning: Citation `dos_santos_melicio_composite_2023' on page 4 undefined on input line 15.
-
-
-Package natbib Warning: Citation `dos_santos_melicio_composite_2023' on page 4 undefined on input line 15.
-
-
-Package natbib Warning: Citation `patchin_cyberbullying_2015' on page 4 undefined on input line 22.
-
-
-Package natbib Warning: Citation `chapagain_advancing_2025' on page 4 undefined on input line 24.
-
-
-Package natbib Warning: Citation `piot_metahate_2024' on page 4 undefined on input line 24.
-
-
-Package natbib Warning: Citation `chapagain_advancing_2025' on page 4 undefined on input line 28.
-
-
-Package natbib Warning: Citation `chapagain_advancing_2025' on page 4 undefined on input line 28.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Package natbib Warning: Citation `huq_ai-mediated_2025' on page 4 undefined on input line 52.
-
-[4.4 <./images/bansal_deepfake.png> <./images/dossantos.png>]
-
-Package natbib Warning: Citation `hohenstein_artificial_2023' on page 5 undefined on input line 58.
-
-
-Package natbib Warning: Citation `noy_experimental_2023' on page 5 undefined on input line 59.
-
-) (./sections/aiownbias.tex
-
-Package natbib Warning: Citation `roselli_managing_2019' on page 5 undefined on input line 4.
-
-
-Package natbib Warning: Citation `rozado_political_2023' on page 5 undefined on input line 4.
-
-
-Package natbib Warning: Citation `rozado_political_2024' on page 5 undefined on input line 4.
-
-
-Package natbib Warning: Citation `cheng_elephant_2025' on page 5 undefined on input line 4.
-
-
-Package natbib Warning: Citation `sclar_quantifying_2024' on page 5 undefined on input line 4.
-
-
-Package natbib Warning: Citation `salinas_butterfly_2024' on page 5 undefined on input line 4.
-
-
-Package natbib Warning: Citation `rosario_generative_1' on page 5 undefined on input line 4.
-
-
-Package natbib Warning: Citation `rozado_measuring_2025' on page 5 undefined on input line 8.
-
-<images/rozando_manycolors.png, id=105, 1812.7725pt x 1255.69125pt>
-File: images/rozando_manycolors.png Graphic file (type png)
-<use images/rozando_manycolors.png>
-Package pdftex.def Info: images/rozando_manycolors.png  used on input line 12.
-(pdftex.def)             Requested size: 430.00462pt x 297.84657pt.
-
-Package natbib Warning: Citation `rozado_measuring_2025' on page 5 undefined on input line 13.
-
-
-Package natbib Warning: Citation `rozado_measuring_2025' on page 5 undefined on input line 13.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Package natbib Warning: Citation `rozado_measuring_2025' on page 5 undefined on input line 21.
-
-
-Package natbib Warning: Citation `rozado_measuring_2025' on page 5 undefined on input line 21.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Package natbib Warning: Citation `mehdizadeh_when_2025' on page 5 undefined on input line 40.
-
-[5.5] [6.6 <./images/rozando_manycolors.png>]
-<images/mezide_san.png, id=121, 2478.25874pt x 992.70876pt>
-File: images/mezide_san.png Graphic file (type png)
-<use images/mezide_san.png>
-Package pdftex.def Info: images/mezide_san.png  used on input line 46.
-(pdftex.def)             Requested size: 430.00462pt x 172.24217pt.
-
-
-Package natbib Warning: Citation `mehdizadeh_when_2025' on page 7 undefined on input line 47.
-
-
-Package natbib Warning: Citation `mehdizadeh_when_2025' on page 7 undefined on input line 47.
-
-<images/mehdi_flcrt.png, id=122, 2498.33376pt x 410.53375pt>
-File: images/mehdi_flcrt.png Graphic file (type png)
-<use images/mehdi_flcrt.png>
-Package pdftex.def Info: images/mehdi_flcrt.png  used on input line 54.
-(pdftex.def)             Requested size: 430.00462pt x 70.65427pt.
-
-Package natbib Warning: Citation `mehdizadeh_when_2025' on page 7 undefined on input line 55.
-
-
-Package natbib Warning: Citation `mehdizadeh_when_2025' on page 7 undefined on input line 55.
-
-) (./sections/ethicalai.tex
-
-Package natbib Warning: Citation `webster_chinas_2017' on page 7 undefined on input line 4.
-
-
-Package natbib Warning: Citation `smith_microsoft_2025' on page 7 undefined on input line 4.
-
-
-Package natbib Warning: Citation `computing_community_consortium_artificial_2016' on page 7 undefined on input line 6.
-
-
-Package natbib Warning: Citation `baldassarre_social_2023' on page 7 undefined on input line 8.
-
-[7.7 <./images/mezide_san.png> <./images/mehdi_flcrt.png>]
-
-Package natbib Warning: Citation `tambe_next_2025' on page 8 undefined on input line 10.
-
-
-Package natbib Warning: Citation `hagerty_global_2019' on page 8 undefined on input line 12.
-
-) (./sections/conclusion.tex) (./report.bbl
+(Font)              scaled to size 5.5pt on input line 5.
+ [2.2]) (./report.bbl
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 7.0pt on input line 43.
-LaTeX Info: Redefining \tempurl on input line 70.
-LaTeX Info: Redefining \tempurl on input line 92.
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--95
-[]\T1/LinuxLibertineT-TLF/m/n/7 (+20) Aurelia Mohrhoff. 1987.  Dalla lin-gua del Par-la-mento alla lin-gua del par-la-mentare.  In \T1/LinuxLibertineT-TLF/m/it/7 (+20) Au-re-lia Mohrhoff,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--95
-\T1/LinuxLibertineT-TLF/m/it/7 (+20) Dalla lin-gua del Par-la-mento alla lin-gua del par-la-mentare\T1/LinuxLibertineT-TLF/m/n/7 (+20) . Roma: Cam-era dei Dep-u-tati, 145--156.   [][]$https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--95
-\T1/LinuxLibertineT-TLF/m/n/7 (+20) / / www . google . com / search ? client = ^^[refox -[] b -[] d & q = Aurelia + Mohrho^^] % 2C + Dalla + lingua + del + Parlamento + alla + lingua + del +
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--95
-\T1/LinuxLibertineT-TLF/m/n/7 (+20) parlamentare % 2C + %C2 % ABSerie + delle + veri^^[che + di + professionalit % C3 % A0 + dei + consiglieri + parlamentari % C2 % BB # sv =
- []
-
-
-Overfull \hbox (9027.11191pt too wide) in paragraph at lines 87--95
-\T1/LinuxLibertineT-TLF/m/n/7 (-20) CBAS9x0Kzx0KBtrZ29IPABLEHQr6Agr3ArrZ29IP8AIKMmh0dHBzOi8vYnByLmNhbWVyYS5pdC9icHIvYWxsZWdhdGkvc2hvdy8zODE1XzgyOF90Ej1CaWJsaW9ncmFmaWEgZGVsIFBhcmxhbWVudG8gaXRhbGlhbm8gZSBkZWdsaSBzdHVkaSBlbGV0dG9yYWxpGvYBZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFCQUFBQUFRQWdNQUFBQmluUmZ5QUFBQURGQk1WRVVBQUFBZk0zY2lOM29qTjNvakprRHhBQUFBQW5SU1RsTUFRQUJQaktnQUFBQkhTVVJCVkhnQlkyRGNmSUNCZ2FHMkFFaVl5QUFKNi85QTRndjdCZ1oxRTNaNUJsNFRkaDhHVGhQMkF5Q1dCMGhNRGlMTFlML2VBYWhERnFqWU1nZElsSDFnWUdBRVlnQmIrUTdtSFROU1RnQUFBQUJKUlU1RXJrSmdnZz09IAE4AQqjAgqgAtLZ29IPmQIKPERhbCBsaW5ndWFnZ2lvIGRlbCBQYXJsYW1lbnRvIGFsIGxpbmd1YWdnaW8gZGVsIHBhcmxhbWVudGFyZRIyaHR0cHM6Ly9icHIuY2FtZXJhLml0L2Jwci9hbGxlZ2F0aS9zaG93LzM4MTVfODI4X3QapAEqIEF1cmVsaSogTW9ocmhvZmYgw6ggQ29uc2lnbGllcmUgc3Rlbm9ncmFmbyBkZWxsYSBDYW1lcmEgZGVpIGRlcHV0YXRpLiBQYWdlIDIuIDIwOC4gUHJvYmxlbWkgY29zdGl0dXppb25hbGkgZSBwYXJsYW1lbnRhcmkuIEdsaSBzdGVzc2kgbWVtYnJpIGRlbCBQYXJsYW1lbnRvIHNpIC4uLgr3CQr0CcLZ29IP7QkSPERhbCBsaW5ndWFnZ2lvIGRlbCBQYXJsYW1lbnRvIGFsIGxpbmd1YWdnaW8gZGVsIHBhcmxhbWVudGFyZRrAAwoyaHR0cHM6Ly9icHIuY2FtZXJhLml0L2Jwci9hbGxlZ2F0aS9zaG93LzM4MTVfODI4X3QSL0RhbCBsaW5ndWFnZ2lvIGRlbCBQYXJsYW1lbnRvIGFsIGxpbmd1YWdnaW8gLi4uGqQBKiBBdXJlbGkqIE1vaHJob2ZmIMOoIENvbnNpZ2xpZXJlIHN0ZW5vZ3JhZm8gZGVsbGEgQ2FtZXJhIGRlaSBkZXB1dGF0aS4gUGFnZSAyLiAyMDguIFByb2JsZW1pIGNvc3RpdHV6aW9uYWxpIGUgcGFybGFtZW50YXJpLiBHbGkgc3Rlc3NpIG1lbWJyaSBkZWwgUGFybGFtZW50byBzaSAuLi4gASoCZW4yAkhSOhYqFFNvZmFpZ2h0ZXJAZ21haWwuY29tQh8vcz90Ym09bWFwJmdzX3JpPW1hcHMmc3VnZ2VzdD1wSjBBS1BPcjFUaUxQSmVkQ1dqU2k2TjUwR3RaMmRSeXlFc1ZROjE3Njk2OTA2MzAzMzFSPUJpYmxpb2dyYWZpYSBkZWwgUGFybGFtZW50byBpdGFsaWFubyBlIGRlZ2xpIHN0dWRpIGVsZXR0b3JhbGlSdBgFKjxEYWwgbGluZ3VhZ2dpbyBkZWwgUGFybGFtZW50byBhbCBsaW5ndWFnZ2lvIGRlbCBwYXJsYW1lbnRhcmU6Mmh0dHBzOi8vYnByLmNhbWVyYS5pdC9icHIvYWxsZWdhdGkvc2hvdy8zODE1XzgyOF90cn0KMmh0dHBzOi8vYnByLmNhbWVyYS5pdC9icHIvYWxsZWdhdGkvc2hvdy8zODE1XzgyOF90KCMyRVNvdXJjZTogQmlibGlvZ3JhZmlhIGRlbCBQYXJsYW1lbnRvIGl0YWxpYW5vIGUgZGVnbGkgc3R1ZGkgZWxldHRvcmFsaXr0Axo8RGFsIGxpbmd1YWdnaW8gZGVsIFBhcmxhbWVudG8gYWwgbGluZ3VhZ2dpbyBkZWwgcGFybGFtZW50YXJlIhZ3ZWJyZXN1bHRfbkZWOUJtb0RROFlKMAFg7o8GagpNU0FGIC0gU1JQcv0CqgEQV0VCX1JFU1VMVF9JTk5FUrIBPQoyaHR0cHM6Ly9icHIuY2FtZXJhLml0L2Jwci9hbGxlZ2F0aS9zaG93LzM4MTVfODI4X3QSA09GRhgAIADiAaYCCtMBKiBBdXJlbGkqIDxiPk1vaHJob2ZmPC9iPiDDqCA8Yj5Db25zaWdsaWVyZTwvYj4gc3Rlbm9ncmFmbyA8Yj5kZWxsYTwvYj4gQ2FtZXJhIDxiPmRlaTwvYj4gZGVwdXRhdGkuIFBhZ2UgMi4gMjA4LiBQcm9ibGVtaSBjb3N0aXR1emlvbmFsaSBlIDxiPnBhcmxhbWVudGFyaTwvYj4uIEdsaSBzdGVzc2kgbWVtYnJpIDxiPmRlbCBQYXJsYW1lbnRvPC9iPiBzaSZuYnNwOy4uLhJKRGFsIGxpbmd1YWdnaW8gPGI -[]
- []
-
-
-Overfull \hbox (8.46141pt too wide) in paragraph at lines 87--95
-\T1/LinuxLibertineT-TLF/m/n/7 (-20) ZGVsIFBhcmxhbWVudG8gYWw8L2I -[] IGxpbmd1YWdnaW8gPGI -[] ZGVsIHBhcmxhbWVudGFyZTwvYj4YACARoAFiwAEB4AEB6AEBCqQOCqEOytnb0g -[]
- []
-
-
-Overfull \hbox (9159.6822pt too wide) in paragraph at lines 87--95
-\T1/LinuxLibertineT-TLF/m/n/7 (-20) aDhL1DSLyDS9zZWFyY2gvYWJvdXQtdGhpcy1yZXN1bHQ _ b3JpZ2luPXd3dy5nb29nbGUuY29tJnJlcT1DakpvZEhSd2N6b3ZMMkp3Y2k1allXMWxjbUV1YVhRdlluQnlMMkZzYkdWbllYUnBMM05vYjNjdk16Z3hOVjg0TWpoZmRCSUVHZ0lJQUJxOENSSUNDQUFhQUNJQUtnQXlCZ2dDRWdKb2Nqb0FRZ1FJQWhBQVNnQmFBSElBZWdDQ1FKWUpDQWNRQUJnQUlBQXFIQW9IWVhWeVpXeHBZUlVZUzBwQUdneHBkanR3TzJGMWNtVnNhV0VxSGdvSWJXOW9jbWh2Wm1ZVkxsQmRRQm9OYVhZN2NEdHRiMmh5YUc5bVppb3dDZ1ZrWVd4c1lSWHZlYWdfR2dKa1lSb0VaR0ZzYkJvRlpHVnNiR0VhQlc1bGJHeGhHZ3BwZGp0d08yUmhiR3hoS2lNS0JteHBibWQxWVJWeUowQV9HZ2RzdzYxdVozVmhHZ3RwZGp0d08yeHBibWQxWVNvYUNnTmtaV3dWTERTX1FCb0NaR1VhQldSbGJHeGhHZ056ZFd3cUlnb0tjR0Z5YkdGdFpXNTBieFd3Q1p0QUdnOXBkanR3TzNCaGNteGhiV1Z1ZEc4cUlRb0VZV3hzWVJXTWM4a19HZ0poYkJvRmMzVnNiR0VhQ1dsMk8zQTdZV3hzWVNvakNnWnNhVzVuZFdFVmNpZEFQeG9IYk1PdGJtZDFZUm9MYVhZN2NEdHNhVzVuZFdFcUdnb0RaR1ZzRlN3MHYwQWFBbVJsR2dWa1pXeHNZUm9EYzNWc0tqQUtESEJoY214aGJXVnVkR0Z5WlJVeHNvaEFHZ2hrWlhCMWRHRjBieG9SYVhZN2NEdHdZWEpzWVcxbGJuUmhjbVVxSUFvRmMyVnlhV1VWMjhkTVBob0djOE9wY21sbEdncHBkanR3TzNObGNtbGxLaVlLQldSbGJHeGxGVEpWbVQ4YUJXUmxaMnhwR2dWa1pXeHNZUm9LYVhZN2NEdGtaV3hzWlNvMUNnbDJaWEpwWm1samFHVVZBQUFBQUJvSWRtVnlhV1pwWTJFYURtbDJPM0E3ZG1WeWFXWnBZMmhsR2dsd2IyeHBkR2xqYUdVcUVBb0NaR2tWOEE3V1FCb0ZaR1ZzYkdFcWlnRUtFSEJ5YjJabGMzTnBiMjVoYkdsMHc2QVZBQUFBQUJvTmNISnZabVZ6YzJsdmJtRnNaUm9OY0hKdlptVnpjMmx2Ym1Gc2FSb1BjSEp2Wm1WemMybHZibUZzYVhSaEdndHdjbTltWlhOemFXOXVaUm9PY0hKdlptVnpjMmx2Ym1semRHRWFEbkJ5YjJabGMzTnBiMjVwYzNScEdoVnBkanR3TzNCeWIyWmxjM05wYjI1aGJHbDB3NkFxSWdvRFpHVnBGVFRrQ0VBYUJXUmxaMnhwR2dWa1pXeHNZUm9JYVhZN2NEdGtaV2txUFFvTFkyOXVjMmxuYkdsbGNta1ZBQUFBQUJvS1lYTnphWE4wWlc1MGFSb0xZMjl1YzJsbmJHbGxjbVVhRUdsMk8zQTdZMjl1YzJsbmJHbGxjbWtxSmdvTWNHRnliR0Z0Wlc1MFlYSnBGWURKWFQ4YUVXbDJPM0E3Y0dGeWJHRnRaVzUwWVhKcE1qSm9kSFJ3Y3pvdkwySndjaTVqWVcxbGNtRXVhWFF2WW5CeUwyRnNiR1ZuWVhScEwzTm9iM2N2TXpneE5WODRNamhmZERwS1JHRnNJR3hwYm1kMVlXZG5hVzhnUEdJLVpHVnNJRkJoY214aGJXVnVkRzhnWVd3OEwySS1JR3hwYm1kMVlXZG5hVzhnUEdJLVpHVnNJSEJoY214aGJXVnVkR0Z5WlR3dllqNUMwd0VxSUVGMWNtVnNhU29nUEdJLVRXOW9jbWh2Wm1ZOEwySS1JTU9vSUR4aVBrTnZibk5wWjJ4cFpYSmxQQzlpUGlCemRHVnViMmR5WVdadklEeGlQbVJsYkd4aFBDOWlQaUJEWVcxbGNtRWdQR0ktWkdWcFBDOWlQaUJrWlhCMWRHRjBhUzRnVUdGblpTQXlMaUF5TURndUlGQnliMkpzWlcxcElHTnZjM1JwZEhWNmFXOXVZV3hwSUdVZ1BHSS1jR0Z5YkdGdFpXNTBZWEpwUEM5aVBpNGdSMnhwSUhOMFpYTnphU0J0WlcxaWNta2dQR0ktWkdWc0lGQmhjbXhoYldWdWRHODhMMkktSUhOcEptNWljM0E3TGk0dVVnSmhiRklGWkdWc2JHRlNBbVJoVWdWdVpXeHNZVklGYzNWc2JHRlNBM04xYkNJQ0VBRklBRmdBYUFBJmhsPWVuLUhSJmdsPUhSGhZodHRwczovL3d3dy5nb29nbGUuY29tWgBgAWgBcAB4ABIjYXRyaXRlbS1fQlZaN2FkZkFPT245N19VUDhmelc2QW9fNDUYLyDonruXCTAC$[][] 
- []
-
-LaTeX Info: Redefining \tempurl on input line 105.
+(Font)              scaled to size 7.0pt on input line 44.
+LaTeX Info: Redefining \tempurl on input line 60.
+LaTeX Info: Redefining \tempurl on input line 75.
+LaTeX Info: Redefining \tempurl on input line 87.
+LaTeX Info: Redefining \tempurl on input line 98.
+LaTeX Info: Redefining \tempurl on input line 111.
+LaTeX Info: Redefining \tempurl on input line 123.
+LaTeX Info: Redefining \tempurl on input line 146.
+LaTeX Info: Redefining \tempurl on input line 157.
+LaTeX Info: Redefining \tempurl on input line 169.
+LaTeX Info: Redefining \tempurl on input line 181.
+LaTeX Info: Redefining \tempurl on input line 194.
+LaTeX Info: Redefining \tempurl on input line 206.
+LaTeX Info: Redefining \tempurl on input line 218.
+LaTeX Info: Redefining \tempurl on input line 229.
 )
-
-Package natbib Warning: There were undefined citations.
-
 
 Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 236.
 
@@ -1184,23 +905,23 @@ Class acmart Warning: \vspace should only be used to provide space above/below s
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 ) (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-utf8.def
 File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
-) [8.8] (./report.aux)
+) [3.3] (./report.aux)
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: C6529A99E71EA26D579FBA799950478C;1508.
+(rerunfilecheck)             Checksum: AEFA980E6A64FF1820644C6C68A80799;547.
  ) 
 Here is how much of TeX's memory you used:
- 25931 strings out of 476034
- 439751 string characters out of 5792864
+ 25755 strings out of 476034
+ 435790 string characters out of 5792864
  1878388 words of memory out of 6000000
- 45288 multiletter control sequences out of 15000+600000
- 680681 words of font info for 380 fonts, out of 8000000 for 9000
+ 45252 multiletter control sequences out of 15000+600000
+ 655323 words of font info for 304 fonts, out of 8000000 for 9000
  1298 hyphenation exceptions out of 8191
- 85i,17n,131p,5459b,614s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 85i,17n,131p,1054b,614s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/newtx/LibertineMathMI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/LibertineMathMI7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on report.pdf (8 pages, 3134601 bytes).
+Output written on report.pdf (3 pages, 377058 bytes).
 PDF statistics:
- 200 PDF objects out of 1000 (max. 8388607)
- 156 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 500000)
- 92266 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 164 PDF objects out of 1000 (max. 8388607)
+ 135 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 79929 words of extra memory for PDF output out of 89155 (max. 10000000)
 

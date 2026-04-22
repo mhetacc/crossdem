@@ -6,53 +6,6 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: report.bib
-Warning--I didn't find a database entry for "madhani_farewell_2021"
-Warning--I didn't find a database entry for "vinci_meloni_2025"
-Warning--I didn't find a database entry for "kleinman_fake_2018"
-Warning--I didn't find a database entry for "silverman_this_2016"
-Warning--I didn't find a database entry for "carson_fake_2025"
-Warning--I didn't find a database entry for "marocico_how_2025"
-Warning--I didn't find a database entry for "rocha_impact_2023"
-Warning--I didn't find a database entry for "world_health_organization_1st_nodate"
-Warning--I didn't find a database entry for "kreps_all_2020"
-Warning--I didn't find a database entry for "feng_syntactic_2012"
-Warning--I didn't find a database entry for "diresta_ai-generated_2020"
-Warning--I didn't find a database entry for "drolsbach_characterizing_2025"
-Warning--I didn't find a database entry for "ferrara_genai_2024"
-Warning--I didn't find a database entry for "verma_one_2024"
-Warning--I didn't find a database entry for "devlin_bert_2019"
-Warning--I didn't find a database entry for "maronikolakis_identifying_2021"
-Warning--I didn't find a database entry for "vijjali_two_2020"
-Warning--I didn't find a database entry for "jwa_exbake_2019"
-Warning--I didn't find a database entry for "schutz_automatic_2021"
-Warning--I didn't find a database entry for "bansal_deepfake_2023"
-Warning--I didn't find a database entry for "un_trade__development_classifications_nodate"
-Warning--I didn't find a database entry for "howarth_how_2021"
-Warning--I didn't find a database entry for "schneider_humans_2020"
-Warning--I didn't find a database entry for "ueshima_simple_2024"
-Warning--I didn't find a database entry for "park_generative_2023"
-Warning--I didn't find a database entry for "dos_santos_melicio_composite_2023"
-Warning--I didn't find a database entry for "patchin_cyberbullying_2015"
-Warning--I didn't find a database entry for "chapagain_advancing_2025"
-Warning--I didn't find a database entry for "piot_metahate_2024"
-Warning--I didn't find a database entry for "huq_ai-mediated_2025"
-Warning--I didn't find a database entry for "hohenstein_artificial_2023"
-Warning--I didn't find a database entry for "noy_experimental_2023"
-Warning--I didn't find a database entry for "roselli_managing_2019"
-Warning--I didn't find a database entry for "rozado_political_2023"
-Warning--I didn't find a database entry for "rozado_political_2024"
-Warning--I didn't find a database entry for "cheng_elephant_2025"
-Warning--I didn't find a database entry for "sclar_quantifying_2024"
-Warning--I didn't find a database entry for "salinas_butterfly_2024"
-Warning--I didn't find a database entry for "rosario_generative_1"
-Warning--I didn't find a database entry for "rozado_measuring_2025"
-Warning--I didn't find a database entry for "mehdizadeh_when_2025"
-Warning--I didn't find a database entry for "webster_chinas_2017"
-Warning--I didn't find a database entry for "smith_microsoft_2025"
-Warning--I didn't find a database entry for "computing_community_consortium_artificial_2016"
-Warning--I didn't find a database entry for "baldassarre_social_2023"
-Warning--I didn't find a database entry for "tambe_next_2025"
-Warning--I didn't find a database entry for "hagerty_global_2019"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
@@ -61,45 +14,45 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty address in beard_language_2000
 Warning--empty address in holtus_dal_1985
 Warning--empty address in mohrhoff_dalla_1987
-You've used 6 entries,
+You've used 16 entries,
             5981 wiz_defined-function locations,
-            1574 strings with 25711 characters,
-and the built_in function-call counts, 6735 in all, are:
-= -- 893
-> -- 172
+            1604 strings with 22522 characters,
+and the built_in function-call counts, 16662 in all, are:
+= -- 2320
+> -- 472
 < -- 0
-+ -- 56
-- -- 68
-* -- 441
-:= -- 658
-add.period$ -- 36
-call.type$ -- 6
-change.case$ -- 37
-chr.to.int$ -- 6
-cite$ -- 9
-duplicate$ -- 600
-empty$ -- 408
-format.name$ -- 80
-if$ -- 1598
++ -- 158
+- -- 184
+* -- 1119
+:= -- 1633
+add.period$ -- 89
+call.type$ -- 16
+change.case$ -- 102
+chr.to.int$ -- 16
+cite$ -- 19
+duplicate$ -- 1412
+empty$ -- 986
+format.name$ -- 224
+if$ -- 4013
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 13
-newline$ -- 109
-num.names$ -- 44
-pop$ -- 181
+missing$ -- 33
+newline$ -- 236
+num.names$ -- 114
+pop$ -- 442
 preamble$ -- 1
-purify$ -- 85
+purify$ -- 229
 quote$ -- 0
-skip$ -- 241
+skip$ -- 547
 stack$ -- 0
-substring$ -- 539
-swap$ -- 81
+substring$ -- 1243
+swap$ -- 149
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 137
+type$ -- 367
 warning$ -- 3
-while$ -- 52
+while$ -- 121
 width$ -- 0
-write$ -- 178
-(There were 50 warnings)
+write$ -- 411
+(There were 3 warnings)

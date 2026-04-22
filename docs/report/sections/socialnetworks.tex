@@ -1,0 +1,13 @@
+\section{Social Networks}
+
+Broadly speaking, the goal of this project is to gather a corpus of politicians' speeches and perform linguistic analyses on it. The idea is to start from standard NLP tasks such as word frequency and text complexity, to then move to classification tasks such as hate speech recognition, and finally to fine-tuning a LLM.
+
+This objective is why I ultimately decided to gather a corpus of \textit{external speeches} rather than internals. Large language models are trained with tokenizers, and the resulting token distribution is highly imbalanced: Chung et. al. did a controlled study that scales the vocabulary of the language model from 24K to 196K while holding data, computation, and optimization unchanged. They discovered that models are disproportionately optimized on the part of language that appears most often, meaning they are way better at understanding common words and patterns \cite{chung_exploiting_2025}. This translates to the fact that internal speeches are less understandable for an AI agent. 
+
+As previously stated, external speeches include social networks communications. While television is still the first source of information for the majority of the population, online platforms are steadily growing and are already the preferred media for young people \cite{eurobarometer_media_2023,maher_twice_2024}. There are evidence of increase in political participation due to social media usage, as well as risks for the functioning of democracy \cite{lorenz-spreen_systematic_2023,amsalem_people_2023}, and there have been attempts to predict election results with social media data analyses. Rita et. al. measures sentiment polarity on Twitter, and concludes that tweets' sentiment is not a reliable election results predictor. Additionally, results also show that it is impossible to state that social media impacts voting decisions \cite{rita_social_2023}. 
+
+Opposite results can be seen in Belcastro et. al. 2022 study: a real-time analysis was carried out during the 2020 US presidential election campaign correctly identifying the leading candidate before the Election Day in 10 out of 11 swing states \cite{belcastro_analyzing_2022}. Similar results can be seen in Brito et. al.
+
+Silva et. al. managed to match tweets against parliamentary speeches to measure politicians sentiment on a specific topic. They find that parliament members who participate less in parliamentary debate tend to have larger differences with their party on Twitter, suggesting that a certain level of self-censoring is taking place in the parliamentary arena \cite{silva_politicians_2022}.
+
+Lastly, social networks opens the possibility of semi-automatized corpora building.
