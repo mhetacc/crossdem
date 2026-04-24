@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{16}
+\begin{thebibliography}{19}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -76,6 +76,32 @@
 \showDOI{\tempurl}
 
 
+\bibitem[Brogi(2006)]%
+        {brogi_competing_2006}
+\bibfield{author}{\bibinfo{person}{Alessandro Brogi}.} \bibinfo{year}{2006}\natexlab{}.
+\newblock \showarticletitle{"{Competing} {Missions}": {France}, {Italy}, and the {Rise} of {American} {Hegemony} in the {Mediterranean}}.
+\newblock \bibinfo{journal}{\emph{Diplomatic History}} \bibinfo{volume}{30}, \bibinfo{number}{4} (\bibinfo{year}{2006}), \bibinfo{pages}{741--770}.
+\newblock
+\showISSN{0145-2096}
+\urldef\tempurl%
+\url{https://www.jstor.org/stable/24915082}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Brogi(2011)]%
+        {brogi_confronting_2011}
+\bibfield{author}{\bibinfo{person}{Alessandro Brogi}.} \bibinfo{year}{2011}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Confronting {America}: {The} {Cold} {War} between the {United} {States} and the {Communists} in {France} and {Italy}}}.
+\newblock \bibinfo{publisher}{The University of North Carolina Press}, \bibinfo{address}{Chapel Hill}.
+\newblock
+\showISBNx{978-1-4696-0295-0}
+\urldef\tempurl%
+\url{https://muse.jhu.edu/pub/12/monograph/book/21196}
+\showURL{%
+\tempurl}
+
+
 \bibitem[Charteris-Black(2011)]%
         {charteris-black_persuasion_2011}
 \bibfield{author}{\bibinfo{person}{Jonathan Charteris-Black}.} \bibinfo{year}{2011}\natexlab{}.
@@ -133,6 +159,18 @@
 \showISBNx{978-3-87808-852-3}
 \newblock
 \shownote{Google-Books-ID: NfwlAAAAMAAJ}.
+
+
+\bibitem[Lazar(2013)]%
+        {lazar_testing_2013}
+\bibfield{author}{\bibinfo{person}{Marc Lazar}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Testing {Italian} democracy}.
+\newblock \bibinfo{journal}{\emph{Comparative European Politics}} \bibinfo{volume}{11}, \bibinfo{number}{3} (\bibinfo{date}{May} \bibinfo{year}{2013}), \bibinfo{pages}{317--336}.
+\newblock
+\showISSN{1740-388X}
+\urldef\tempurl%
+\url{https://doi.org/10.1057/cep.2012.40}
+\showDOI{\tempurl}
 
 
 \bibitem[Lorenz-Spreen et~al\mbox{.}(2023)]%

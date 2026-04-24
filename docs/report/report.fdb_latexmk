@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex report"] 1776858813.68346 "report.aux" "report.bbl" "report" 1776858973.0245 0
+["bibtex report"] 1777022955.84247 "report.aux" "report.bbl" "report" 1777030347.08445 0
   "./report.bib" 1776857818.20368 80550 439c20618da11c4d91c38f8615629ee3 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/acmart/ACM-Reference-Format.bst" 1653856601 90333 ccee583820c555b8fd3c6d1b9f362b14 ""
-  "report.aux" 1776858972.48072 2857 db66d54d419aa6288c20082e111b4b49 "pdflatex"
+  "report.aux" 1777030346.63113 3155 77a3ed3aae0814504174fd27facc0f82 "pdflatex"
   (generated)
   "report.bbl"
   "report.blg"
   (rewritten before read)
-["pdflatex"] 1776858971.3811 "/home/mhetac/Documents/GitHub/crossdem/docs/report/report.tex" "report.pdf" "report" 1776858973.02496 0
+["pdflatex"] 1777030345.32552 "/home/mhetac/Documents/GitHub/crossdem/docs/report/report.tex" "report.pdf" "report" 1777030347.08484 0
   "/home/mhetac/Documents/GitHub/crossdem/docs/report/report.tex" 1776857707.0611 8304 72a011e2c920f3e98ebe814a5513c417 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc" 1490131464 2921 8ca0eb0831f9bc5da080d3697cfe67bf ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1490131464 2933 9ad527ce78d7c5fa0a642dead095f172 ""
@@ -207,11 +207,11 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1775825595.13604 4547210 0b4d8bce3d83ee4f50b88a57a6a0d7ef ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1775825282 7759954 2e905753369464014d5d6615f296b3d8 ""
   "lstlisting_settings.tex" 1764001821.59337 923 6c327df865b68b4ddddc74a9f42a2ca7 ""
-  "report.aux" 1776858972.48072 2857 db66d54d419aa6288c20082e111b4b49 "pdflatex"
-  "report.bbl" 1776858813.78287 11135 31de56943d9f813d6509b900349172a6 "bibtex report"
-  "report.out" 1776858972.48072 547 aefa980e6a64ff1820644c6c68a80799 "pdflatex"
+  "report.aux" 1777030346.63113 3155 77a3ed3aae0814504174fd27facc0f82 "pdflatex"
+  "report.bbl" 1777022955.94096 12698 109258298164ffb9fc506497d276972c "bibtex report"
+  "report.out" 1777030346.63213 547 aefa980e6a64ff1820644c6c68a80799 "pdflatex"
   "report.tex" 1776857707.0611 8304 72a011e2c920f3e98ebe814a5513c417 ""
-  "sections/goal.tex" 1776858971.10566 765 6825107873ea8020016eff9672589f0e ""
+  "sections/goal.tex" 1777030345.03588 2954 f0c72470048f9250985bcb4f0efed34a ""
   "sections/introduction.tex" 1776858370.13097 2568 26f8c0787bf136b7b745ff8e459b6035 ""
   "sections/socialnetworks.tex" 1776857749.45104 2707 505b490a698d80f730f385ada2890c91 ""
   (generated)
