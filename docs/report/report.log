@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.4.10)  24 APR 2026 13:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.4.10)  26 APR 2026 17:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -887,20 +887,22 @@ LaTeX Info: Redefining \tempurl on input line 60.
 LaTeX Info: Redefining \tempurl on input line 75.
 LaTeX Info: Redefining \tempurl on input line 87.
 LaTeX Info: Redefining \tempurl on input line 100.
-LaTeX Info: Redefining \tempurl on input line 113.
+LaTeX Info: Redefining \tempurl on input line 111.
 LaTeX Info: Redefining \tempurl on input line 124.
-LaTeX Info: Redefining \tempurl on input line 137.
-LaTeX Info: Redefining \tempurl on input line 149.
-LaTeX Info: Redefining \tempurl on input line 172.
-LaTeX Info: Redefining \tempurl on input line 184.
+LaTeX Info: Redefining \tempurl on input line 136.
+
+Underfull \vbox (badness 5533) has occurred while \output is active []
+
  [3.3]
-LaTeX Info: Redefining \tempurl on input line 195.
-LaTeX Info: Redefining \tempurl on input line 207.
+LaTeX Info: Redefining \tempurl on input line 159.
+LaTeX Info: Redefining \tempurl on input line 171.
+LaTeX Info: Redefining \tempurl on input line 182.
+LaTeX Info: Redefining \tempurl on input line 194.
+LaTeX Info: Redefining \tempurl on input line 206.
 LaTeX Info: Redefining \tempurl on input line 219.
-LaTeX Info: Redefining \tempurl on input line 232.
-LaTeX Info: Redefining \tempurl on input line 244.
-LaTeX Info: Redefining \tempurl on input line 256.
-LaTeX Info: Redefining \tempurl on input line 267.
+LaTeX Info: Redefining \tempurl on input line 231.
+LaTeX Info: Redefining \tempurl on input line 243.
+LaTeX Info: Redefining \tempurl on input line 254.
 )
 
 Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 236.
@@ -911,21 +913,21 @@ File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
 ) [4.4] (./report.aux)
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: AEFA980E6A64FF1820644C6C68A80799;547.
+(rerunfilecheck)             Checksum: 713941A0262035DABD8C15C4F2A243B4;985.
  ) 
 Here is how much of TeX's memory you used:
- 25801 strings out of 476034
- 436942 string characters out of 5792864
+ 25792 strings out of 476034
+ 436677 string characters out of 5792864
  1874388 words of memory out of 6000000
- 45261 multiletter control sequences out of 15000+600000
- 658620 words of font info for 326 fonts, out of 8000000 for 9000
+ 45260 multiletter control sequences out of 15000+600000
+ 657703 words of font info for 320 fonts, out of 8000000 for 9000
  1298 hyphenation exceptions out of 8191
- 85i,16n,131p,1113b,714s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 85i,16n,131p,1113b,708s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/newtx/LibertineMathMI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/LibertineMathMI7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on report.pdf (4 pages, 381018 bytes).
+Output written on report.pdf (4 pages, 382307 bytes).
 PDF statistics:
- 179 PDF objects out of 1000 (max. 8388607)
- 149 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 500000)
- 79929 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 183 PDF objects out of 1000 (max. 8388607)
+ 153 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
+ 79945 words of extra memory for PDF output out of 89155 (max. 10000000)
 

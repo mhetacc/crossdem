@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{19}
+\begin{thebibliography}{18}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -74,19 +74,6 @@
 \urldef\tempurl%
 \url{https://doi.org/10.1007/s13278-022-00913-9}
 \showDOI{\tempurl}
-
-
-\bibitem[Brogi(2006)]%
-        {brogi_competing_2006}
-\bibfield{author}{\bibinfo{person}{Alessandro Brogi}.} \bibinfo{year}{2006}\natexlab{}.
-\newblock \showarticletitle{"{Competing} {Missions}": {France}, {Italy}, and the {Rise} of {American} {Hegemony} in the {Mediterranean}}.
-\newblock \bibinfo{journal}{\emph{Diplomatic History}} \bibinfo{volume}{30}, \bibinfo{number}{4} (\bibinfo{year}{2006}), \bibinfo{pages}{741--770}.
-\newblock
-\showISSN{0145-2096}
-\urldef\tempurl%
-\url{https://www.jstor.org/stable/24915082}
-\showURL{%
-\tempurl}
 
 
 \bibitem[Brogi(2011)]%
