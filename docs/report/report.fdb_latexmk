@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex report"] 1777219053.70394 "report.aux" "report.bbl" "report" 1777219055.46671 0
-  "./report.bib" 1776857818.20368 80550 439c20618da11c4d91c38f8615629ee3 ""
+["bibtex report"] 1777283907.17273 "report.aux" "report.bbl" "report" 1777285080.50079 0
+  "./report.bib" 1777281841.55089 81163 54aec5a06f31ae5a5e9794e07c1008b4 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/acmart/ACM-Reference-Format.bst" 1653856601 90333 ccee583820c555b8fd3c6d1b9f362b14 ""
-  "report.aux" 1777219055.07876 3306 c98bd489d8881d222e179b93f57b7ca9 "pdflatex"
+  "report.aux" 1777285080.03992 3597 3cc1a15ae4f4758bb98f9177ad3f7cd9 "pdflatex"
   (generated)
   "report.bbl"
   "report.blg"
   (rewritten before read)
-["pdflatex"] 1777219053.82694 "/home/mhetac/Documents/GitHub/crossdem/docs/report/report.tex" "report.pdf" "report" 1777219055.46695 0
-  "/home/mhetac/Documents/GitHub/crossdem/docs/report/report.tex" 1776857707.0611 8304 72a011e2c920f3e98ebe814a5513c417 ""
+["pdflatex"] 1777285078.83709 "/home/mhetac/Documents/GitHub/crossdem/docs/report/report.tex" "report.pdf" "report" 1777285080.50105 0
+  "/home/mhetac/Documents/GitHub/crossdem/docs/report/report.tex" 1777283905.19179 8334 5f04925323056df7af5ad494a61a9962 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc" 1490131464 2921 8ca0eb0831f9bc5da080d3697cfe67bf ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1490131464 2933 9ad527ce78d7c5fa0a642dead095f172 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc" 1490131464 2934 a4a9158faed2e9e89c771b4e3b7fc12f ""
@@ -207,13 +207,14 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1775825595.13604 4547210 0b4d8bce3d83ee4f50b88a57a6a0d7ef ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1775825282 7759954 2e905753369464014d5d6615f296b3d8 ""
   "lstlisting_settings.tex" 1764001821.59337 923 6c327df865b68b4ddddc74a9f42a2ca7 ""
-  "report.aux" 1777219055.07876 3306 c98bd489d8881d222e179b93f57b7ca9 "pdflatex"
-  "report.bbl" 1777219053.8217 12155 c3a7889dc10b615918f096451c7b6037 "bibtex report"
-  "report.out" 1777219055.07976 985 713941a0262035dabd8c15c4f2a243b4 "pdflatex"
-  "report.tex" 1776857707.0611 8304 72a011e2c920f3e98ebe814a5513c417 ""
-  "sections/goal.tex" 1777219051.5648 3039 9f94303fdd4afa45699ad6eeee954355 ""
-  "sections/introduction.tex" 1777211587.43648 2568 7ac665d96992582d54ab3a904299abc3 ""
-  "sections/socialnetworks.tex" 1777211661.40249 2660 574681d65023754486d88f0d58d9333b ""
+  "report.aux" 1777285080.03992 3597 3cc1a15ae4f4758bb98f9177ad3f7cd9 "pdflatex"
+  "report.bbl" 1777283907.34833 12893 c4a1df9f896b43a24ee5088ca4f9a1fd "bibtex report"
+  "report.out" 1777285080.03992 1099 f2bcdf55190a9d75bbd2db5eb1f23a74 "pdflatex"
+  "report.tex" 1777283905.19179 8334 5f04925323056df7af5ad494a61a9962 ""
+  "sections/corpora.tex" 1777283889.37401 30 f2fa008330eaf3603dd53e9a400361e8 ""
+  "sections/goal.tex" 1777285078.55492 5303 749d829bbe5a5eb0219cd6fbb8364eb9 ""
+  "sections/introduction.tex" 1777284848.65377 2567 17314195abf44aa97fabbbcdd99f849c ""
+  "sections/socialnetworks.tex" 1777284994.1165 2661 951b299d6bfea8fa0bc5d330ac53ef0f ""
   (generated)
   "report.aux"
   "report.log"

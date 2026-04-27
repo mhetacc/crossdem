@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{18}
+\begin{thebibliography}{20}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -148,6 +148,18 @@
 \shownote{Google-Books-ID: NfwlAAAAMAAJ}.
 
 
+\bibitem[Kavlakoglu(2024)]%
+        {kavlakoglu_what_2024}
+\bibfield{author}{\bibinfo{person}{Jacob Murel Ph~D. Kavlakoglu, Eda}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \bibinfo{title}{What is data augmentation? {\textbar} {IBM}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://www.ibm.com/think/topics/data-augmentation}
+\showURL{%
+\tempurl}
+
+
 \bibitem[Lazar(2013)]%
         {lazar_testing_2013}
 \bibfield{author}{\bibinfo{person}{Marc Lazar}.} \bibinfo{year}{2013}\natexlab{}.
@@ -204,6 +216,18 @@
 \newblock
 \urldef\tempurl%
 \url{https://bpr.camera.it/bpr/allegati/show/3815_828_t}
+\showURL{%
+\tempurl}
+
+
+\bibitem[North({[n.\,d.]})]%
+        {north_french_nodate}
+\bibfield{author}{\bibinfo{person}{North}.} \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \bibinfo{title}{French {President} vs {Prime} {Minister}: {Who} {Has} {More} {Power}? (2026)}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://politicahub.com/compare/french-president-vs-french-prime-minister}
 \showURL{%
 \tempurl}
 
