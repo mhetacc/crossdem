@@ -1,15 +1,14 @@
 # Fdb version 4
-["bibtex report"] 1777384483.6833 "report.aux" "report.bbl" "report" 1777384485.95071 0
+["bibtex report"] 1777389245.51577 "report.aux" "report.bbl" "report" 1777389249.13199 0
   "./report.bib" 1777383715.88491 87597 fcfd7f638b350fe07ecad32c6e1e15fe ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/acmart/ACM-Reference-Format.bst" 1653856601 90333 ccee583820c555b8fd3c6d1b9f362b14 ""
-  "report.aux" 1777384485.43591 4250 3cbed184198b1fbd6e2242913cbe4018 "pdflatex"
+  "report.aux" 1777389248.47188 4371 f99010411d59f8c8c8722637f947bc8d "pdflatex"
   (generated)
   "report.bbl"
   "report.blg"
   (rewritten before read)
-["pdflatex"] 1777384483.83621 "/home/mhetac/Documents/GitHub/crossdem/docs/report/report.tex" "report.pdf" "report" 1777384485.95096 0
+["pdflatex"] 1777389247.24615 "/home/mhetac/Documents/GitHub/crossdem/docs/report/report.tex" "report.pdf" "report" 1777389249.13246 0
   "/home/mhetac/Documents/GitHub/crossdem/docs/report/report.tex" 1777283905.19179 8334 5f04925323056df7af5ad494a61a9962 ""
-  "/usr/share/texlive/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-4.enc" 1558214095 7693 0f2dce6d313c82989ec3a67fc24df2a0 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc" 1490131464 2921 8ca0eb0831f9bc5da080d3697cfe67bf ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1490131464 2933 9ad527ce78d7c5fa0a642dead095f172 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc" 1490131464 2934 a4a9158faed2e9e89c771b4e3b7fc12f ""
@@ -25,7 +24,6 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1246382020 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1246382020 940 228d6584342e91276bf566bcf9716b83 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1136768653 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/inconsolata/t1-zi4r-4.tfm" 1558214095 1328 82f7955e88a105d8e5acd89cb6526b12 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinBiolinumT-tlf-t1--base.tfm" 1490131464 1744 9486ddc64e90094bbb83f53a83b0e415 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinBiolinumT-tlf-t1.tfm" 1490131464 19548 768852037f39958c435d71846b8877ea ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/libertine/LinBiolinumTB-tlf-t1--base.tfm" 1490131464 1768 23aace73e6def3193d6e0453af90487b ""
@@ -58,7 +56,6 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/stxscr.tfm" 1569879884 1836 3af1bb0996e7f6070b70151de6395c2c ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txex-bar.tfm" 1487028062 872 42a11c392ad05634fee0c67e353926cf ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txsys.tfm" 1569879884 1580 8da1d0227b68d95a2f0ea5709b29fc83 ""
-  "/usr/share/texlive/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb" 1558214095 55526 184de5d68af8c544d6d1653244a2b006 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb" 1354061736 548786 1e51d517556d29f2841d57da58668a69 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb" 1354061736 687959 b99c9f5a9b28f3dba077d1c078bceb3f ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb" 1354061736 614791 ea39341e4db76f25cb20c361802d3cd5 ""
@@ -74,7 +71,6 @@
   "/usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-ts1.vf" 1490131464 640 f2633b196ddbd644937d19e300a5024e ""
   "/usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf" 1490131464 1768 5d66dfd9709f1f38b8fb3cb38db46402 ""
   "/usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinLibertineTI-tlf-t1.vf" 1490131464 1768 b3bfd8ed1fe2dce5fd19610abe4c3dbe ""
-  "/usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxsy.vf" 1583272976 1772 98ec0ab31216e818611c784f60ef51a5 ""
   "/usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxsy7.vf" 1634244313 1900 7edab28ff3dc70ba23d9121ff6e8e785 ""
   "/usr/share/texlive/texmf-dist/fonts/vf/public/newtx/nxlmi.vf" 1569879884 2744 3e5ba39e1559219ae379b7645e2f9524 ""
   "/usr/share/texlive/texmf-dist/fonts/vf/public/newtx/nxlmi7.vf" 1575323900 2740 2574d1692bc06933fa73eb18c93daedb ""
@@ -159,7 +155,6 @@
   "/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def" 1675889938 117125 aa115cac3914abcf3769f370e6325117 ""
   "/usr/share/texlive/texmf-dist/tex/latex/hyperxmp/hyperxmp.sty" 1775001600 61831 d57f83bada10b905d8f965e2b2d9a9c0 ""
   "/usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty" 1525197427 318 019510c713feab56160631df4423d2aa ""
-  "/usr/share/texlive/texmf-dist/tex/latex/inconsolata/t1zi4.fd" 1516054831 1021 03341d1cf7f388bbac1915f944d5d128 ""
   "/usr/share/texlive/texmf-dist/tex/latex/inconsolata/zi4.sty" 1558214095 4319 14e5db0b68d045ed49e4ed232b58e93f ""
   "/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty" 1655478651 22555 6d8e155cfef6d82c3d5c742fea7c992e ""
   "/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty" 1665067230 13815 760b0c02f691ea230f5359c4e1de23a7 ""
@@ -212,11 +207,11 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1775825595.13604 4547210 0b4d8bce3d83ee4f50b88a57a6a0d7ef ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1775825282 7759954 2e905753369464014d5d6615f296b3d8 ""
   "lstlisting_settings.tex" 1764001821.59337 923 6c327df865b68b4ddddc74a9f42a2ca7 ""
-  "report.aux" 1777384485.43591 4250 3cbed184198b1fbd6e2242913cbe4018 "pdflatex"
-  "report.bbl" 1777384483.82945 19005 c408a5ecf68e16b96ab7b0d768f18071 "bibtex report"
-  "report.out" 1777384485.43691 1099 db489a0b62229f8bc6aea32ddb64d616 "pdflatex"
+  "report.aux" 1777389248.47188 4371 f99010411d59f8c8c8722637f947bc8d "pdflatex"
+  "report.bbl" 1777389245.63082 19005 c408a5ecf68e16b96ab7b0d768f18071 "bibtex report"
+  "report.out" 1777389248.47288 1255 c9d4308a08b9055ba6f7376490eacaeb "pdflatex"
   "report.tex" 1777283905.19179 8334 5f04925323056df7af5ad494a61a9962 ""
-  "sections/corpora.tex" 1777384480.5389 8957 7b980cce3cc553bec759f424c2c53bbf ""
+  "sections/corpora.tex" 1777389246.42526 7086 b2baa487db7d0fb375bed22890a1ecc0 ""
   "sections/goal.tex" 1777285078.55492 5303 749d829bbe5a5eb0219cd6fbb8364eb9 ""
   "sections/introduction.tex" 1777284848.65377 2567 17314195abf44aa97fabbbcdd99f849c ""
   "sections/socialnetworks.tex" 1777284994.1165 2661 951b299d6bfea8fa0bc5d330ac53ef0f ""

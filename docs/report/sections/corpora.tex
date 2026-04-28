@@ -18,34 +18,17 @@ There is also a corpus for the vocabulary that holds, for each word, the total n
 
 Lastly, \textbf{ParlaMint} \cite{erjavec_parlamint_2023,erjavec_parlamint_2025} is a compiled comparable parliamentary corpora for a number of countries and languages. ParlaMint corpora are interoperable, i.e. encoded to a very constrained common ParlaMint schema, a specialization of the Parla-CLARIN\footnote{Prla-CLARIN, a TEI schema for corpora of parliamentary proceedings: \url{https://clarin-eric.github.io/parla-clarin/}.} recommendations, which are a customization of the TEI Guidelines\footnote{P5 TEI Guidelines: \url{https://tei-c.org/guidelines/p5/}.}.
 
-%%% gemini
-The \textbf{ParlaMint} schema is exceptionally rigorous in its metadata categorization, providing a controlled vocabulary for both structural and semantic elements of parliamentary proceedings. This allows for deep, machine-readable analysis of not just what is said, but how it is delivered and by whom.
+It is a collection of parliamentary seating split into utterances. An example of two utterances could be \textit{Politician: "I ask permission to speak."}, \textit{President of the Senate: "Permission granted."}. For each utterance there are, among others, the following metadata: ID for both the whole seating and the utterance itself, a title of the seating, a date of the seating, the State Body that where it did take place (e.g., the Senate of the Republic), the name of the speaker and its affiliation, as well as the name of its coalition. 
 
-\subsection*{Speaker Identification and Affiliation}
-A core feature of the ParlaMint architecture is its robust identification system (\texttt{idno}). Speakers and entities are not merely named but are linked to external authority files (such as VIAF or specific URIs) and public profiles, including social media handles (e.g., Twitter, TikTok, Facebook) or government websites. Furthermore, the corpus tightly regulates the taxonomy of speaker affiliations and roles. Legal values for roles are highly specific to parliamentary functions, ranging from standard \textit{member} or \textit{head} to highly specific structural roles like \textit{ministerDelegate}, \textit{publicDefenderOfRights}, or \textit{constitutionalJudge}.
+Speeches are collected before splitting in their own dataset, and for each speech we have, among others, a unique ID and a date, the type of speech (e.g., \textit{Interview} or \textit{Rally}), the venue channel (e.g., \textit{BBC News}), the unique ID of the speaker and its role (e.g., \textit{host} or \textit{main speaker}), the text of the speech itself and its type (e.g., \textit{Question}, \textit{Answer}, \textit{Interruption}) and whether there have been some \textit{Incidents} and their type.
 
-\subsection*{Annotation of Non-Verbal Discourse}
-Unlike simpler plaintext corpora, ParlaMint excels at multimodal transcription by capturing the atmosphere and physical actions within the chamber. The schema specifically categorizes non-verbal events into three distinct types:
-\begin{itemize}
-    \item \textbf{Kinesic:} Physical movements and gestures, such as \textit{applause}, \textit{smiling}, \textit{snapping}, or general \textit{gestures}.
-    \item \textbf{Vocal:} Sounds made by individuals that are not standard speech, including \textit{laughter}, \textit{murmuring}, \textit{shouting}, or \textit{clarification} requests.
-    \item \textbf{Incident:} Broader situational occurrences in the venue, such as \textit{entering}, \textit{leaving}, \textit{pauses}, or external \textit{sounds}.
-\end{itemize}
+Incidents are breaks in the flow of the conversation, and they can be of different types\footnote{Full list of incident types: "action", "incident", "leaving", "entering", "break", "pause", "sound", "editorial".}, for example \textit{"leaving"} or \textit{"break"}. If an incident is of the kinesic type, it can be further subdivided ito different kinesic types, such as \textit{"applause"} or \textit{"laughter"}\footnote{Full list of kinesic types: "kinesic", "applause", "ringing", "signal", "playback", "gesture", "smiling", "laughter", "snapping", "noise".}. If the incident is of the vocal type, it can be further subdivided ito different vocal types, such as \textit{"question"} or \textit{"shouting"}\footnote{Full list of vocal types: "greeting", "question", "clarification", "speaking", "interruption", "exclamat", "laughter", "shouting", "murmuring", "noise", "signal".}.
 
-\subsection*{Topical Taxonomy}
-To facilitate thematic analysis, ParlaMint implements a controlled vocabulary for topics based on the Comparative Agendas Project (CAP) master codebook. Every utterance (\texttt{<u>}) can be tagged with a specific topic category (e.g., \textit{Agriculture}, \textit{Civil Rights}, \textit{Defense}, \textit{Health}). While highly useful for tracking political focus, it is worth noting that in standard parliamentary discourse, a significant portion of procedural or transitional utterances defaults to a generic \texttt{topic:other} tag.
+Speakers and Parties have also their own datasets, with unique IDs, names, affiliations, roles and the like.
 
-\subsection*{Schema Adaptations for Extended Discourse}
-While ParlaMint was natively designed for formal parliamentary sittings, its TEI XML foundation allows for systematic adaptation to broader political discourse. To capture modern political communication, the standard schema can be modified by:
-\begin{enumerate}
-    \item \textbf{Removing} strictly parliamentary constraints like \textit{Term} and \textit{Session}.
-    \item \textbf{Adding} context-aware metadata such as \textit{Event\_Type} (e.g., \textit{Interview}, \textit{Rally}, \textit{Press Conference}, \textit{Debate}), \textit{Venue\_Channel}, and direct \textit{Source\_URLs}.
-    \item \textbf{Modifying} existing constraints to include media-centric roles (e.g., \textit{host}, \textit{moderator}) and conversational speech types (e.g., \textit{monologue}, \textit{interruption}, \textit{address}).
-\end{enumerate}
+Overall the taxonomy of ParlaMint is strongly codified, which make the interpretation of the dataset easier and machine-readable. All data is saved also in XML format.
 
-These adaptations allow researchers to map highly dynamic exchanges---such as a television interview where a \textit{host} interrupts a \textit{minister}---while maintaining the strict relational integrity of the original ParlaMint framework.
+\subsection{My Own Corpora}
 
-\subsection*{Data Structure and Relational Mapping}
-At the document level, the corpus is structured in TEI XML, dividing transcripts into debate sections (\texttt{<div type="debateSection">}) containing speaker notes, timestamps, and segmented utterances (\texttt{<seg>}). However, because of the strict schema, this XML translates seamlessly into highly relational tabular metadata.
-
-For any given speech segment, the corpus can output a comprehensive relational matrix linking the \textbf{Speech} (text, incidents, event type) to the \textbf{Speaker} (gender, birth year, role) and their \textbf{Party} (orientation, government role, coalition status). This enables complex, multi-variable queries, such as analyzing the frequency of \textit{kinesic} interruptions against female speakers from opposition parties during specific \textit{Event\_Types}.
+Ultimately, I did not manage to find any corpus that I can directly integrate or use for my purposes, but I took inspiration from ParlaMint for the overall structure. 
+Of course at the time of writing I still have not started compiling it and therefore the structure may be subjected of minor changes.
