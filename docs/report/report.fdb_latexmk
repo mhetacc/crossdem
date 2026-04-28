@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex report"] 1777283907.17273 "report.aux" "report.bbl" "report" 1777285080.50079 0
-  "./report.bib" 1777281841.55089 81163 54aec5a06f31ae5a5e9794e07c1008b4 ""
+["bibtex report"] 1777376472.70846 "report.aux" "report.bbl" "report" 1777376656.67358 0
+  "./report.bib" 1777375320.36752 81621 49a367aef4210742d90dec3c1a69a663 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/acmart/ACM-Reference-Format.bst" 1653856601 90333 ccee583820c555b8fd3c6d1b9f362b14 ""
-  "report.aux" 1777285080.03992 3597 3cc1a15ae4f4758bb98f9177ad3f7cd9 "pdflatex"
+  "report.aux" 1777376656.3727 3951 1a8903cf66a3b078aca44b9b77603b2b "pdflatex"
   (generated)
   "report.bbl"
   "report.blg"
   (rewritten before read)
-["pdflatex"] 1777285078.83709 "/home/mhetac/Documents/GitHub/crossdem/docs/report/report.tex" "report.pdf" "report" 1777285080.50105 0
+["pdflatex"] 1777376655.70094 "/home/mhetac/Documents/GitHub/crossdem/docs/report/report.tex" "report.pdf" "report" 1777376656.67373 0
   "/home/mhetac/Documents/GitHub/crossdem/docs/report/report.tex" 1777283905.19179 8334 5f04925323056df7af5ad494a61a9962 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc" 1490131464 2921 8ca0eb0831f9bc5da080d3697cfe67bf ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1490131464 2933 9ad527ce78d7c5fa0a642dead095f172 ""
@@ -71,6 +71,7 @@
   "/usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinLibertineT-tlf-ts1.vf" 1490131464 640 f2633b196ddbd644937d19e300a5024e ""
   "/usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinLibertineTB-tlf-t1.vf" 1490131464 1768 5d66dfd9709f1f38b8fb3cb38db46402 ""
   "/usr/share/texlive/texmf-dist/fonts/vf/public/libertine/LinLibertineTI-tlf-t1.vf" 1490131464 1768 b3bfd8ed1fe2dce5fd19610abe4c3dbe ""
+  "/usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxsy.vf" 1583272976 1772 98ec0ab31216e818611c784f60ef51a5 ""
   "/usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxsy7.vf" 1634244313 1900 7edab28ff3dc70ba23d9121ff6e8e785 ""
   "/usr/share/texlive/texmf-dist/fonts/vf/public/newtx/nxlmi.vf" 1569879884 2744 3e5ba39e1559219ae379b7645e2f9524 ""
   "/usr/share/texlive/texmf-dist/fonts/vf/public/newtx/nxlmi7.vf" 1575323900 2740 2574d1692bc06933fa73eb18c93daedb ""
@@ -207,11 +208,11 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1775825595.13604 4547210 0b4d8bce3d83ee4f50b88a57a6a0d7ef ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1775825282 7759954 2e905753369464014d5d6615f296b3d8 ""
   "lstlisting_settings.tex" 1764001821.59337 923 6c327df865b68b4ddddc74a9f42a2ca7 ""
-  "report.aux" 1777285080.03992 3597 3cc1a15ae4f4758bb98f9177ad3f7cd9 "pdflatex"
-  "report.bbl" 1777283907.34833 12893 c4a1df9f896b43a24ee5088ca4f9a1fd "bibtex report"
-  "report.out" 1777285080.03992 1099 f2bcdf55190a9d75bbd2db5eb1f23a74 "pdflatex"
+  "report.aux" 1777376656.3727 3951 1a8903cf66a3b078aca44b9b77603b2b "pdflatex"
+  "report.bbl" 1777376472.79456 15276 faa720517921a79c221ba0086f2b5a82 "bibtex report"
+  "report.out" 1777376656.3737 1099 f2bcdf55190a9d75bbd2db5eb1f23a74 "pdflatex"
   "report.tex" 1777283905.19179 8334 5f04925323056df7af5ad494a61a9962 ""
-  "sections/corpora.tex" 1777283889.37401 30 f2fa008330eaf3603dd53e9a400361e8 ""
+  "sections/corpora.tex" 1777376655.48997 3230 23272ddb04adcd7675decb3809b1e8e3 ""
   "sections/goal.tex" 1777285078.55492 5303 749d829bbe5a5eb0219cd6fbb8364eb9 ""
   "sections/introduction.tex" 1777284848.65377 2567 17314195abf44aa97fabbbcdd99f849c ""
   "sections/socialnetworks.tex" 1777284994.1165 2661 951b299d6bfea8fa0bc5d330ac53ef0f ""

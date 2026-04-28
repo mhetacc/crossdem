@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{20}
+\begin{thebibliography}{24}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -125,6 +125,29 @@
 \showDOI{\tempurl}
 
 
+\bibitem[Cominetti et~al\mbox{.}(2024)]%
+        {cominetti_impaqts_2024}
+\bibfield{author}{\bibinfo{person}{Federica Cominetti}, \bibinfo{person}{Lorenzo Gregori}, \bibinfo{person}{Edoardo Lombardi~Vallauri}, {and} \bibinfo{person}{Alessandro Panunzi}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{{IMPAQTS}: a multimodal corpus of parliamentary and other political speeches in {Italy} (1946-2023), annotated with implicit strategies}. In \bibinfo{booktitle}{\emph{Proceedings of the {IV} {Workshop} on {Creating}, {Analysing}, and {Increasing} {Accessibility} of {Parliamentary} {Corpora} ({ParlaCLARIN}) @ {LREC}-{COLING} 2024}}, \bibfield{editor}{\bibinfo{person}{Darja Fiser}, \bibinfo{person}{Maria Eskevich}, {and} \bibinfo{person}{David Bordon}} (Eds.). \bibinfo{publisher}{ELRA and ICCL}, \bibinfo{address}{Torino, Italia}, \bibinfo{pages}{101--109}.
+\newblock
+\urldef\tempurl%
+\url{https://aclanthology.org/2024.parlaclarin-1.15/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Cova(2025)]%
+        {cova_new_2025}
+\bibfield{author}{\bibinfo{person}{Joshua Cova}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{A new database for {Italian} parliamentary speeches: introducing the \textit{{ItaParlCorpus}} dataset}.
+\newblock \bibinfo{journal}{\emph{Italian Political Science Review/Rivista Italiana di Scienza Politica}} \bibinfo{volume}{55}, \bibinfo{number}{1} (\bibinfo{date}{March} \bibinfo{year}{2025}), \bibinfo{pages}{77--86}.
+\newblock
+\showISSN{0048-8402, 2057-4908}
+\urldef\tempurl%
+\url{https://doi.org/10.1017/ipo.2025.6}
+\showDOI{\tempurl}
+
+
 \bibitem[Eurobarometer(2023)]%
         {eurobarometer_media_2023}
 \bibfield{author}{\bibinfo{person}{Eurobarometer}.} \bibinfo{year}{2023}\natexlab{}.
@@ -135,6 +158,18 @@
 \urldef\tempurl%
 \url{https://doi.org/10.2861/11595}
 \showDOI{\tempurl}
+
+
+\bibitem[Giuliano(2019)]%
+        {giuliano_il_2019}
+\bibfield{author}{\bibinfo{person}{Luca Giuliano}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \bibinfo{title}{Il corpus {LP}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://www.paroladileader.com/p/blog-page.html}
+\showURL{%
+\tempurl}
 
 
 \bibitem[Holtus and Cortelazzo(1985)]%
@@ -156,6 +191,17 @@
 \newblock
 \urldef\tempurl%
 \url{https://www.ibm.com/think/topics/data-augmentation}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Koehn(2005)]%
+        {koehn_europarl_2005}
+\bibfield{author}{\bibinfo{person}{Philipp Koehn}.} \bibinfo{year}{2005}\natexlab{}.
+\newblock \showarticletitle{Europarl: {A} {Parallel} {Corpus} for {Statistical} {Machine} {Translation}}. In \bibinfo{booktitle}{\emph{Proceedings of {Machine} {Translation} {Summit} {X}: {Papers}}}. \bibinfo{address}{Phuket, Thailand}, \bibinfo{pages}{79--86}.
+\newblock
+\urldef\tempurl%
+\url{https://aclanthology.org/2005.mtsummit-papers.11/}
 \showURL{%
 \tempurl}
 

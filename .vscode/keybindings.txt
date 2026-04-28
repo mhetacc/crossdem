@@ -6,6 +6,10 @@
         "command": "macros.italic_latex"
     },
     {
+        "key": "ctrl+b",
+        "command": "macros.bold_latex"
+    },
+    {
         "key": "ctrl+alt+p",
         "command": "macros.markdown_code_block"
     },

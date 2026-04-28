@@ -9,6 +9,15 @@
             },
             "cursorLeft"
         ],
+        "bold_latex": [
+            {
+                "command": "type",
+                "args": {
+                    "text": "\\textbf{}"
+                }
+            },
+            "cursorLeft"
+        ],
         "color_text": [
             {
                 "command": "type",
@@ -68,6 +77,7 @@
         "polyarchy",
         "pretrained",
         "subcomponents",
+        "topicalization",
         "virality"
     ],
     "editor.wordWrap": "on",

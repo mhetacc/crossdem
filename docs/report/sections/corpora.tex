@@ -1,1 +1,19 @@
 \section{Building The Corpora}
+
+The natural first step was to look at other corpora that aggregate similar data.  
+
+\textbf{Europarl} dataset \cite{koehn_europarl_2005} aggregates proceedings of the European Parliament in twenty one different European languages\footnote{All 21 Europarl languages: Romanic (French, Italian, Spanish, Portuguese, Romanian), Germanic (English, Dutch, German, Danish, Swedish), Slavik (Bulgarian, Czech, Polish, Slovak, Slovene), Finni-Ugric (Finnish, Hungarian, Estonian), Baltic (Latvian, Lithuanian), and Greek.} with the goal of generating sentence aligned text for statistical machine learning translation systems. The overall structure is akin to a collection of plaintext with minimal tagging.
+
+\textbf{ItaParlCorpus} \cite{cova_new_2025}, on the other hand, is a comprehensive, annotated, and machine-readable database of Italy's parliamentary speeches spanning from 1948 to 2022. Each speech is identified by a precise date, the role of the speaker and its party name and family, and by the legislature number.
+
+\textbf{IMPAQTS} \cite{cominetti_impaqts_2024} is a multimodal corpus of around 2.65 million tokens including 1,500 speeches uttered by 150 prominent politicians spanning from 1946 to 2023. For each speaker, the corpus contains 4 parliamentary speeches, 2 rallies, 1 party assembly, and 3 statements (in person or broadcasted). The goal is to annotate political rhetoric that hides a deeper meaning, for example by employing sarcasm. There are four main types of annotation: implication (conventional, generalized, etc), presupposition (e.g., pragmatic), vagueness (syntactic, semantic, metaphoric), and topicalization (either syntactic or prosodic).
+
+\textbf{Parola di Leader}, and specifically the corpus LP4 \cite{giuliano_il_2019}, is a corpus of more than five million occurrences taken from the stenographic archives of the Chamber of Deputies of Italy\footnote{Chamber of Deputies official online public archive: \url{https://legislatureprecedenti.camera.it/}.}, between 1948 (first legislature of the Italian Republic) and 2011 (excluding Monti Government, the $61^{st}$ legislature).
+
+They selected a list of thirty "highly influential politicians"\footnote{The full list of politicians follows: Giorgio Almirante, Giuliano Amato, Giulio Andreotti, Enrico Berlinguer, Silvio Berlusconi, Pier Luigi Bersani, Fausto Bertinotti, Rosy Bindi, Emma Bonino, Umberto Bossi, Pier Ferdinando Casini, Francesco Cossiga, Bettino Craxi, Massimo D'Alema, Alcide De Gasperi, Ciriaco De Mita, Antonio Di Pietro, Amintore Fanfani, Gianfranco Fini, Ugo La Malfa, Aldo Moro, Pietro Nenni, Achille Occhetto, Marco Pannella, Romano Prodi, Giuseppe Saragat, Giovanni Spadolini, Palmiro Togliatti, Valter Veltroni, Nichi Vendola.} and then for each of them they selected some speeches. Overall, they collected 1877 distinct speeches.
+
+The corpus could be considered a corpora made of thirty distinct corpus, one for each politician. Each of these is structured as follow: \textit{Leader} (name of the politician), \textit{Ruolo} (which role it has, for example Prime Minister), \textit{Posizionamento politico} 
+
+\begin{itemize}
+    \item \textbf{Leader:} name of the politician 
+\end{itemize}
