@@ -91,3 +91,34 @@ The dataset will have a structured taxonomy; for example, the political leaning 
     \item \texttt{centerRight}: Center-Right;
     \item \texttt{centerLeft}: Center-Left.
 \end{itemize}
+\subsection{Data Augmentation and Synthetic Data}
+
+It is likely that for older politicians there are fewer speeches available, i.e., the dataset becomes more sparse as we go back in time. Moreover, speeches will be in three languages, namely Italian, French and English. For this reason, data augmentation techniques may be useful (figure \ref{fig:augmentation}).
+
+Data augmentation uses pre-existing data to create new data samples that supplement so-called incomplete datasets by providing missing data points, improving machine learning model optimization and generalization. In other words, data augmentation can reduce overfitting and improve model robustness. This is different from generating synthetic data, which is entirely artificial: data augmentation copies existing data and transforms those copies to increase the diversity and amount of data in a given set. 
+
+Rule-based approaches include relatively simple find-and-replace techniques, such as random deletion or insertion. In this strategy, one or more words in a string are replaced with their respective synonyms as recorded in a predefined thesaurus, such as WordNet or the Paraphrase Database. Back-translation (figure \ref{fig:backtranslation}) is a technique where the corpus is translated into another language before being translated back to the original language \cite{kavlakoglu_what_2024}. 
+
+\begin{figure}[h]
+    \centering
+    \begin{subfigure}{0.4\textwidth}
+        \includegraphics[width=\linewidth]{images/augmentation.png}
+        \caption{Increasing data density.}
+        \label{fig:dataugtechniques}
+    \end{subfigure}
+    \hspace{.05\linewidth}
+    \begin{subfigure}{0.4\textwidth}
+        \includegraphics[width=\linewidth]{images/backtranslation.png}
+        \caption{Back-translation.}
+        \label{fig:backtranslation}
+    \end{subfigure}
+
+    \caption{Data augmentation techniques, such as synonym replacement and back-translation. Source: Kavlakoglu, IBM \cite{kavlakoglu_what_2024}.}
+    \Description{Different data augmentation techniques are shown in the picture.}
+    \label{fig:augmentation}
+\end{figure}
+
+Synthetic data is inherently privatized, since it cannot be ascribed to any real person. This makes it free from any GDPR control system and privacy concerns. It can be of two types: fully synthetic, which does not include any real-world information, or partially synthetic, where portions of the original dataset are replaced with artificial values.
+Usually, it is generated with either GANs or transformer models and comes with two main problems: bias and model collapse. Synthetic data can exhibit biases present in the real-world data that the model is based on, and when an AI model is repeatedly trained on AI-generated data, its performance declines quickly \cite{caballar_what_2023,riemann_synthetic_2026,infogdpr-advisorcom_gdpr_2025}.
+
+We probably will not need the enhanced privacy granted by synthetic data since the dataset will be compiled using public speeches from public figures.

@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{27}
+\begin{thebibliography}{30}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -85,6 +85,18 @@
 \showISBNx{978-1-4696-0295-0}
 \urldef\tempurl%
 \url{https://muse.jhu.edu/pub/12/monograph/book/21196}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Caballar(2023)]%
+        {caballar_what_2023}
+\bibfield{author}{\bibinfo{person}{Rina~Diane Caballar}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \bibinfo{title}{What {Is} {Synthetic} {Data}? {\textbar} {IBM}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://www.ibm.com/think/topics/synthetic-data}
 \showURL{%
 \tempurl}
 
@@ -207,6 +219,18 @@
 \shownote{Google-Books-ID: NfwlAAAAMAAJ}.
 
 
+\bibitem[info@gdpr advisor.com(2025)]%
+        {infogdpr-advisorcom_gdpr_2025}
+\bibfield{author}{\bibinfo{person}{info@gdpr advisor.com}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \bibinfo{title}{{GDPR} and {Synthetic} {Data}: {Balancing} {Privacy} and {AI} {Model} {Training}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://www.gdpr-advisor.com/gdpr-and-synthetic-data-balancing-privacy-and-ai-model-training/}
+\showURL{%
+\tempurl}
+
+
 \bibitem[Kavlakoglu(2024)]%
         {kavlakoglu_what_2024}
 \bibfield{author}{\bibinfo{person}{Jacob Murel Ph~D. Kavlakoglu, Eda}.} \bibinfo{year}{2024}\natexlab{}.
@@ -325,6 +349,18 @@
 \showDOI{\tempurl}
 \newblock
 \shownote{ISBN: 9780511805066}.
+
+
+\bibitem[Riemann(2026)]%
+        {riemann_synthetic_2026}
+\bibfield{author}{\bibinfo{person}{Robert Riemann}.} \bibinfo{year}{2026}\natexlab{}.
+\newblock \bibinfo{title}{Synthetic {Data} {\textbar} {European} {Data} {Protection} {Supervisor}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://www.edps.europa.eu/press-publications/publications/techsonar/synthetic-data}
+\showURL{%
+\tempurl}
 
 
 \bibitem[Rita et~al\mbox{.}(2023)]%
