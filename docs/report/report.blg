@@ -6,6 +6,8 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: report.bib
+Warning--I'm ignoring payne_describing_1997's extra "doi" field
+--line 942 of file report.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
@@ -16,45 +18,45 @@ Warning--empty address in holtus_dal_1985
 Warning--empty publisher in koehn_europarl_2005
 Warning--empty address in mohrhoff_dalla_1987
 Warning--empty year in north_french_nodate
-You've used 24 entries,
+You've used 27 entries,
             5981 wiz_defined-function locations,
-            1660 strings with 24488 characters,
-and the built_in function-call counts, 24201 in all, are:
-= -- 3266
-> -- 641
+            1685 strings with 26531 characters,
+and the built_in function-call counts, 30311 in all, are:
+= -- 3949
+> -- 1192
 < -- 0
-+ -- 204
-- -- 248
-* -- 1580
-:= -- 2363
-add.period$ -- 130
-call.type$ -- 24
-change.case$ -- 145
-chr.to.int$ -- 24
-cite$ -- 29
-duplicate$ -- 2129
-empty$ -- 1495
-format.name$ -- 292
-if$ -- 5824
++ -- 407
+- -- 450
+* -- 2270
+:= -- 3185
+add.period$ -- 146
+call.type$ -- 27
+change.case$ -- 223
+chr.to.int$ -- 27
+cite$ -- 32
+duplicate$ -- 2405
+empty$ -- 1690
+format.name$ -- 502
+if$ -- 7129
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 53
-newline$ -- 331
-num.names$ -- 172
-pop$ -- 710
+missing$ -- 61
+newline$ -- 368
+num.names$ -- 193
+pop$ -- 848
 preamble$ -- 1
-purify$ -- 331
+purify$ -- 433
 quote$ -- 0
-skip$ -- 811
+skip$ -- 913
 stack$ -- 0
-substring$ -- 1827
-swap$ -- 217
+substring$ -- 2109
+swap$ -- 247
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 564
+type$ -- 626
 warning$ -- 5
-while$ -- 186
+while$ -- 205
 width$ -- 0
-write$ -- 596
-(There were 5 warnings)
+write$ -- 665
+(There were 6 warnings)

@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{24}
+\begin{thebibliography}{27}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -148,6 +148,30 @@
 \showDOI{\tempurl}
 
 
+\bibitem[Erjavec et~al\mbox{.}(2025)]%
+        {erjavec_parlamint_2025}
+\bibfield{author}{\bibinfo{person}{Tomaž Erjavec}, \bibinfo{person}{Matyáš Kopp}, \bibinfo{person}{Nikola Ljubešić}, \bibinfo{person}{Taja Kuzman}, \bibinfo{person}{Paul Rayson}, \bibinfo{person}{Petya Osenova}, \bibinfo{person}{Maciej Ogrodniczuk}, \bibinfo{person}{Çağrı Çöltekin}, \bibinfo{person}{Danijel Koržinek}, \bibinfo{person}{Katja Meden}, \bibinfo{person}{Jure Skubic}, \bibinfo{person}{Peter Rupnik}, \bibinfo{person}{Tommaso Agnoloni}, \bibinfo{person}{José Aires}, \bibinfo{person}{Starkaður Barkarson}, \bibinfo{person}{Roberto Bartolini}, \bibinfo{person}{Núria Bel}, \bibinfo{person}{María Calzada~Pérez}, \bibinfo{person}{Roberts Darģis}, \bibinfo{person}{Sascha Diwersy}, \bibinfo{person}{Maria Gavriilidou}, \bibinfo{person}{Ruben van Heusden}, \bibinfo{person}{Mikel Iruskieta}, \bibinfo{person}{Neeme Kahusk}, \bibinfo{person}{Anna Kryvenko}, \bibinfo{person}{Noémi Ligeti-Nagy}, \bibinfo{person}{Carmen Magariños}, \bibinfo{person}{Martin Mölder}, \bibinfo{person}{Costanza Navarretta}, \bibinfo{person}{Kiril Simov}, \bibinfo{person}{Lars~Magne Tungland}, \bibinfo{person}{Jouni Tuominen}, \bibinfo{person}{John Vidler}, \bibinfo{person}{Adina~Ioana Vladu}, \bibinfo{person}{Tanja Wissik}, \bibinfo{person}{Väinö Yrjänäinen}, {and} \bibinfo{person}{Darja Fišer}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{ParlaMint} {II}: advancing comparable parliamentary corpora across {Europe}}.
+\newblock \bibinfo{journal}{\emph{Language Resources and Evaluation}} \bibinfo{volume}{59}, \bibinfo{number}{3} (\bibinfo{date}{Sept.} \bibinfo{year}{2025}), \bibinfo{pages}{2071--2102}.
+\newblock
+\showISSN{1574-0218}
+\urldef\tempurl%
+\url{https://doi.org/10.1007/s10579-024-09798-w}
+\showDOI{\tempurl}
+
+
+\bibitem[Erjavec et~al\mbox{.}(2023)]%
+        {erjavec_parlamint_2023}
+\bibfield{author}{\bibinfo{person}{Tomaž Erjavec}, \bibinfo{person}{Maciej Ogrodniczuk}, \bibinfo{person}{Petya Osenova}, \bibinfo{person}{Nikola Ljubešić}, \bibinfo{person}{Kiril Simov}, \bibinfo{person}{Andrej Pančur}, \bibinfo{person}{Michał Rudolf}, \bibinfo{person}{Matyáš Kopp}, \bibinfo{person}{Starkaður Barkarson}, \bibinfo{person}{Steinþór Steingrímsson}, \bibinfo{person}{Çağrı Çöltekin}, \bibinfo{person}{Jesse de Does}, \bibinfo{person}{Katrien Depuydt}, \bibinfo{person}{Tommaso Agnoloni}, \bibinfo{person}{Giulia Venturi}, \bibinfo{person}{María~Calzada Pérez}, \bibinfo{person}{Luciana~D. de Macedo}, \bibinfo{person}{Costanza Navarretta}, \bibinfo{person}{Giancarlo Luxardo}, \bibinfo{person}{Matthew Coole}, \bibinfo{person}{Paul Rayson}, \bibinfo{person}{Vaidas Morkevičius}, \bibinfo{person}{Tomas Krilavičius}, \bibinfo{person}{Roberts Darǵis}, \bibinfo{person}{Orsolya Ring}, \bibinfo{person}{Ruben van Heusden}, \bibinfo{person}{Maarten Marx}, {and} \bibinfo{person}{Darja Fišer}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{The {ParlaMint} corpora of parliamentary proceedings}.
+\newblock \bibinfo{journal}{\emph{Language Resources and Evaluation}} \bibinfo{volume}{57}, \bibinfo{number}{1} (\bibinfo{date}{March} \bibinfo{year}{2023}), \bibinfo{pages}{415--448}.
+\newblock
+\showISSN{1574-0218}
+\urldef\tempurl%
+\url{https://doi.org/10.1007/s10579-021-09574-0}
+\showDOI{\tempurl}
+
+
 \bibitem[Eurobarometer(2023)]%
         {eurobarometer_media_2023}
 \bibfield{author}{\bibinfo{person}{Eurobarometer}.} \bibinfo{year}{2023}\natexlab{}.
@@ -288,6 +312,19 @@
 \urldef\tempurl%
 \url{https://doi.org/10.1111/j.1541-0072.1984.tb00480.x}
 \showDOI{\tempurl}
+
+
+\bibitem[Payne(1997)]%
+        {payne_describing_1997}
+\bibfield{author}{\bibinfo{person}{Thomas~E. Payne}.} \bibinfo{year}{1997}\natexlab{}.
+\newblock \bibinfo{title}{Describing {Morphosyntax}: {A} {Guide} for {Field} {Linguists}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1017/CBO9780511805066}
+\showDOI{\tempurl}
+\newblock
+\shownote{ISBN: 9780511805066}.
 
 
 \bibitem[Rita et~al\mbox{.}(2023)]%
