@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.4.10)  29 APR 2026 18:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.4.10)  30 APR 2026 12:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -747,6 +747,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 Package hyperref Info: Link coloring ON on input line 119.
+ (./report.out) (./report.out)
 \@outlinefile=\write4
 \openout4 = `report.out'.
 
@@ -865,125 +866,29 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 8.0pt on input line 207.
-
-
-LaTeX Warning: Reference `TotPages' on page 1 undefined on input line 207.
-
-(./sections/introduction.tex
+ (./sections/introduction.tex
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
 (Font)              scaled to size 9.0pt on input line 1.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 3.
-
-
-Package natbib Warning: Citation `page_presidents_1984' on page 1 undefined on input line 3.
-
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 3.
-
-Package natbib Warning: Citation `beard_language_2000' on page 1 undefined on input line 3.
-
-
-Package natbib Warning: Citation `charteris-black_persuasion_2011' on page 1 undefined on input line 3.
-
-
-Package natbib Warning: Citation `clayton_elite_2021' on page 1 undefined on input line 5.
-
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 9.0pt on input line 7.
-
-Package natbib Warning: Citation `madhani_farewell_2021' on page 1 undefined on input line 7.
-
-
-Package natbib Warning: Citation `vinci_meloni_2025' on page 1 undefined on input line 7.
-
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 6.0pt on input line 9.
-(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
-File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
-) (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-utf8.def
-File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
-) [1.1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}]
-
-Package natbib Warning: Citation `holtus_dal_1985' on page 2 undefined on input line 9.
-
-
-Package natbib Warning: Citation `mohrhoff_dalla_1987' on page 2 undefined on input line 9.
-
-) (./sections/socialnetworks.tex
-
-Package natbib Warning: Citation `chung_exploiting_2025' on page 2 undefined on input line 5.
-
-
-Package natbib Warning: Citation `eurobarometer_media_2023' on page 2 undefined on input line 7.
-
-
-Package natbib Warning: Citation `maher_twice_2024' on page 2 undefined on input line 7.
-
-
-Package natbib Warning: Citation `lorenz-spreen_systematic_2023' on page 2 undefined on input line 7.
-
-
-Package natbib Warning: Citation `amsalem_people_2023' on page 2 undefined on input line 7.
-
-
-Package natbib Warning: Citation `rita_social_2023' on page 2 undefined on input line 7.
-
-
-Package natbib Warning: Citation `belcastro_analyzing_2022' on page 2 undefined on input line 9.
-
-
-Package natbib Warning: Citation `silva_politicians_2022' on page 2 undefined on input line 11.
-
-) (./sections/goal.tex
+ [1.1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}]) (./sections/socialnetworks.tex) (./sections/goal.tex
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 7.3pt on input line 5.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 5.5pt on input line 5.
-
-
-Package natbib Warning: Citation `lazar_testing_2013' on page 2 undefined on input line 9.
-
-[2.2]
-
-Package natbib Warning: Citation `brogi_confronting_2011' on page 3 undefined on input line 11.
-
-
-Package natbib Warning: Citation `north_french_nodate' on page 3 undefined on input line 19.
-
+ [2.2]
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 7.0pt on input line 23.
-
-Package natbib Warning: Citation `kavlakoglu_what_2024' on page 3 undefined on input line 23.
-
-[3.3]) (./sections/corpora.tex
-
-Package natbib Warning: Citation `koehn_europarl_2005' on page 4 undefined on input line 5.
-
-
-Package natbib Warning: Citation `cova_new_2025' on page 4 undefined on input line 7.
-
-
-Package natbib Warning: Citation `cominetti_impaqts_2024' on page 4 undefined on input line 9.
-
-
-Package natbib Warning: Citation `giuliano_il_2019' on page 4 undefined on input line 11.
-
-
-Package natbib Warning: Citation `payne_describing_1997' on page 4 undefined on input line 17.
-
-
+(Font)              scaled to size 9.0pt on input line 19.
+ [3.3]) (./sections/corpora.tex
 Underfull \vbox (badness 4899) has occurred while \output is active []
 
  [4.4]
-
-Package natbib Warning: Citation `erjavec_parlamint_2023' on page 5 undefined on input line 19.
-
-
-Package natbib Warning: Citation `erjavec_parlamint_2025' on page 5 undefined on input line 19.
-
 LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 40.
-(/usr/share/texlive/texmf-dist/tex/latex/inconsolata/t1zi4.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/inconsolata/t1zi4.fd
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
@@ -992,122 +897,92 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `zi4' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [5.5{/usr/share/texlive/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-4.enc}]
-
-LaTeX Warning: Reference `fig:augmentation' on page 6 undefined on input line 96.
-
-[6.6]
-
-LaTeX Warning: Reference `fig:backtranslation' on page 7 undefined on input line 100.
-
-
-Package natbib Warning: Citation `kavlakoglu_what_2024' on page 7 undefined on input line 100.
-
-<images/augmentation.png, id=87, 2312.64pt x 1300.86pt>
+ [5.5{/usr/share/texlive/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-4.enc}] [6.6]
+<images/augmentation.png, id=186, 2312.64pt x 1300.86pt>
 File: images/augmentation.png Graphic file (type png)
 <use images/augmentation.png>
 Package pdftex.def Info: images/augmentation.png  used on input line 105.
 (pdftex.def)             Requested size: 171.99922pt x 96.74646pt.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 106.
-<images/backtranslation.png, id=89, 2312.64pt x 1300.86pt>
+<images/backtranslation.png, id=188, 2312.64pt x 1300.86pt>
 File: images/backtranslation.png Graphic file (type png)
 <use images/backtranslation.png>
 Package pdftex.def Info: images/backtranslation.png  used on input line 111.
 (pdftex.def)             Requested size: 171.99922pt x 96.74646pt.
-
-Package natbib Warning: Citation `kavlakoglu_what_2024' on page 7 undefined on input line 116.
-
-
-Package natbib Warning: Citation `kavlakoglu_what_2024' on page 7 undefined on input line 116.
-
-
-Package natbib Warning: Citation `caballar_what_2023' on page 7 undefined on input line 122.
-
-
-Package natbib Warning: Citation `riemann_synthetic_2026' on page 7 undefined on input line 122.
-
-
-Package natbib Warning: Citation `infogdpr-advisorcom_gdpr_2025' on page 7 undefined on input line 122.
-
 ) (./sections/langanalysis.tex
-
-Package natbib Warning: Citation `sawicki_state_2023' on page 7 undefined on input line 3.
-
-
-LaTeX Warning: Reference `fig:lanpop' on page 7 undefined on input line 3.
-
-<images/sawicki_languagesPopularity.png, id=90, 642.4pt x 481.8pt>
+<images/sawicki_languagesPopularity.png, id=196, 642.4pt x 481.8pt>
 File: images/sawicki_languagesPopularity.png Graphic file (type png)
 <use images/sawicki_languagesPopularity.png>
 Package pdftex.def Info: images/sawicki_languagesPopularity.png  used on input line 7.
 (pdftex.def)             Requested size: 301.00192pt x 225.75496pt.
 
-Package natbib Warning: Citation `sawicki_state_2023' on page 7 undefined on input line 8.
-
-
-Package natbib Warning: Citation `sawicki_state_2023' on page 7 undefined on input line 8.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Package natbib Warning: Citation `behnamghader_llm2vec_2024' on page 7 undefined on input line 17.
 
 [7.7 <./images/augmentation.png> <./images/backtranslation.png>]
 Underfull \vbox (badness 1199) has occurred while \output is active []
 
- [8.8 <./images/sawicki_languagesPopularity.png>]
-./sections/langanalysis.tex:43: Undefined control sequence.
-l.43 \TODO
-          
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-) (./report.bbl)
-
-Package natbib Warning: There were undefined citations.
-
+ [8.8 <./images/sawicki_languagesPopularity.png>]) (./report.bbl
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 7.0pt on input line 44.
+LaTeX Info: Redefining \tempurl on input line 60.
+LaTeX Info: Redefining \tempurl on input line 74.
+LaTeX Info: Redefining \tempurl on input line 88.
+LaTeX Info: Redefining \tempurl on input line 100.
+LaTeX Info: Redefining \tempurl on input line 112.
+LaTeX Info: Redefining \tempurl on input line 125.
+LaTeX Info: Redefining \tempurl on input line 136.
+LaTeX Info: Redefining \tempurl on input line 149.
+ [9.9]
+LaTeX Info: Redefining \tempurl on input line 159.
+LaTeX Info: Redefining \tempurl on input line 172.
+LaTeX Info: Redefining \tempurl on input line 184.
+LaTeX Info: Redefining \tempurl on input line 196.
+LaTeX Info: Redefining \tempurl on input line 208.
+LaTeX Info: Redefining \tempurl on input line 219.
+LaTeX Info: Redefining \tempurl on input line 242.
+LaTeX Info: Redefining \tempurl on input line 254.
+LaTeX Info: Redefining \tempurl on input line 265.
+LaTeX Info: Redefining \tempurl on input line 278.
+LaTeX Info: Redefining \tempurl on input line 290.
+LaTeX Info: Redefining \tempurl on input line 301.
+LaTeX Info: Redefining \tempurl on input line 313.
+LaTeX Info: Redefining \tempurl on input line 325.
+LaTeX Info: Redefining \tempurl on input line 337.
+LaTeX Info: Redefining \tempurl on input line 350.
+LaTeX Info: Redefining \tempurl on input line 361.
+LaTeX Info: Redefining \tempurl on input line 374.
+LaTeX Info: Redefining \tempurl on input line 387.
+LaTeX Info: Redefining \tempurl on input line 400.
+LaTeX Info: Redefining \tempurl on input line 412.
+LaTeX Info: Redefining \tempurl on input line 424.
+LaTeX Info: Redefining \tempurl on input line 435.
+ [10.10])
 
 Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 240.
 
-[9.9]
-
-LaTeX Warning: Hook 'shipout/lastpage' executed on wrong page (1 not 9).
-               Rerun to correct this.
-
-(./report.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `report.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  82EC1A08948E46EE756B7B6EEE0F028E;1712.
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
+File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
+) (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-utf8.def
+File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
+) [11.11] (./report.aux)
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 7F511A34A279A8742D635A58998FE263;1807.
  ) 
 Here is how much of TeX's memory you used:
- 25867 strings out of 476034
- 438142 string characters out of 5792864
- 1874388 words of memory out of 6000000
- 45242 multiletter control sequences out of 15000+600000
- 673504 words of font info for 363 fonts, out of 8000000 for 9000
+ 26114 strings out of 476034
+ 444067 string characters out of 5792864
+ 1890388 words of memory out of 6000000
+ 45379 multiletter control sequences out of 15000+600000
+ 681106 words of font info for 409 fonts, out of 8000000 for 9000
  1298 hyphenation exceptions out of 8191
- 85i,17n,131p,1117b,773s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 85i,17n,131p,1472b,773s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/LibertineMathMI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/LibertineMathMI7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on report.pdf (9 pages, 734433 bytes).
+Output written on report.pdf (11 pages, 770077 bytes).
 PDF statistics:
- 207 PDF objects out of 1000 (max. 8388607)
- 166 compressed objects within 2 object streams
- 47 named destinations out of 1000 (max. 500000)
- 88608 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 384 PDF objects out of 1000 (max. 8388607)
+ 337 compressed objects within 4 object streams
+ 85 named destinations out of 1000 (max. 500000)
+ 88704 words of extra memory for PDF output out of 89155 (max. 10000000)
 
