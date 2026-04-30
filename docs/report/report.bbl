@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{35}
+\begin{thebibliography}{38}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -36,6 +36,18 @@
 \providecommand\bibinfo[2]{#2}
 \providecommand\natexlab[1]{#1}
 \providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[Albladi et~al\mbox{.}(2025)]%
+        {albladi_sentiment_2025}
+\bibfield{author}{\bibinfo{person}{Aish Albladi}, \bibinfo{person}{Minarul Islam}, {and} \bibinfo{person}{Cheryl Seals}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Sentiment {Analysis} of {Twitter} {Data} {Using} {NLP} {Models}: {A} {Comprehensive} {Review}}.
+\newblock \bibinfo{journal}{\emph{IEEE Access}}  \bibinfo{volume}{13} (\bibinfo{year}{2025}), \bibinfo{pages}{30444--30468}.
+\newblock
+\showISSN{2169-3536}
+\urldef\tempurl%
+\url{https://doi.org/10.1109/ACCESS.2025.3541494}
+\showDOI{\tempurl}
+
 
 \bibitem[Amsalem and Zoizner(2023)]%
         {amsalem_people_2023}
@@ -112,6 +124,17 @@
 \url{https://www.ibm.com/think/topics/synthetic-data}
 \showURL{%
 \tempurl}
+
+
+\bibitem[Card et~al\mbox{.}(2022)]%
+        {card_computational_2022}
+\bibfield{author}{\bibinfo{person}{Dallas Card}, \bibinfo{person}{Serina Chang}, \bibinfo{person}{Chris Becker}, \bibinfo{person}{Julia Mendelsohn}, \bibinfo{person}{Rob Voigt}, \bibinfo{person}{Leah Boustan}, \bibinfo{person}{Ran Abramitzky}, {and} \bibinfo{person}{Dan Jurafsky}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Computational analysis of 140 years of {US} political speeches reveals more positive but increasingly polarized framing of immigration}.
+\newblock \bibinfo{journal}{\emph{Proceedings of the National Academy of Sciences}} \bibinfo{volume}{119}, \bibinfo{number}{31} (\bibinfo{date}{Aug.} \bibinfo{year}{2022}), \bibinfo{pages}{e2120510119}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1073/pnas.2120510119}
+\showDOI{\tempurl}
 
 
 \bibitem[Charteris-Black(2011)]%
@@ -301,6 +324,19 @@
 \urldef\tempurl%
 \url{https://doi.org/10.1057/cep.2012.40}
 \showDOI{\tempurl}
+
+
+\bibitem[Li et~al\mbox{.}(2023)]%
+        {li_label_2023}
+\bibfield{author}{\bibinfo{person}{Zongxi Li}, \bibinfo{person}{Xianming Li}, \bibinfo{person}{Yuzhang Liu}, \bibinfo{person}{Haoran Xie}, \bibinfo{person}{Jing Li}, \bibinfo{person}{Fu-lee Wang}, \bibinfo{person}{Qing Li}, {and} \bibinfo{person}{Xiaoqin Zhong}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \bibinfo{title}{Label {Supervised} {LLaMA} {Finetuning}}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.48550/arXiv.2310.01208}
+\showDOI{\tempurl}
+\newblock
+\shownote{arXiv:2310.01208 [cs]}.
 
 
 \bibitem[Lorenz-Spreen et~al\mbox{.}(2023)]%

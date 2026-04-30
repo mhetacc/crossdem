@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.4.10)  30 APR 2026 15:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.4.10)  30 APR 2026 15:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -898,20 +898,20 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
  [5.5{/usr/share/texlive/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-4.enc}] [6.6]
-<images/augmentation.png, id=194, 2312.64pt x 1300.86pt>
+<images/augmentation.png, id=198, 2312.64pt x 1300.86pt>
 File: images/augmentation.png Graphic file (type png)
 <use images/augmentation.png>
 Package pdftex.def Info: images/augmentation.png  used on input line 105.
 (pdftex.def)             Requested size: 171.99922pt x 96.74646pt.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 106.
-<images/backtranslation.png, id=196, 2312.64pt x 1300.86pt>
+<images/backtranslation.png, id=200, 2312.64pt x 1300.86pt>
 File: images/backtranslation.png Graphic file (type png)
 <use images/backtranslation.png>
 Package pdftex.def Info: images/backtranslation.png  used on input line 111.
 (pdftex.def)             Requested size: 171.99922pt x 96.74646pt.
 ) (./sections/langanalysis.tex
-<images/sawicki_languagesPopularity.png, id=204, 642.4pt x 481.8pt>
+<images/sawicki_languagesPopularity.png, id=208, 642.4pt x 481.8pt>
 File: images/sawicki_languagesPopularity.png Graphic file (type png)
 <use images/sawicki_languagesPopularity.png>
 Package pdftex.def Info: images/sawicki_languagesPopularity.png  used on input line 7.
@@ -924,7 +924,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Underfull \vbox (badness 1199) has occurred while \output is active []
 
  [8.8 <./images/sawicki_languagesPopularity.png>]) (./sections/democracy.tex [9.9]
-<images/italian_prime_ministers.jpg, id=275, 859.2903pt x 569.7285pt>
+<images/italian_prime_ministers.jpg, id=279, 859.2903pt x 569.7285pt>
 File: images/italian_prime_ministers.jpg Graphic file (type jpg)
 <use images/italian_prime_ministers.jpg>
 Package pdftex.def Info: images/italian_prime_ministers.jpg  used on input line 19.
@@ -939,68 +939,22 @@ Overfull \hbox (2.41547pt too wide) in paragraph at lines 29--30
 \T1/zi4/m/n/9 v2x_suffr\T1/LinuxLibertineT-TLF/m/n/9 (-20) , \T1/zi4/m/n/9 v2x_freexp_altinf\T1/LinuxLibertineT-TLF/m/n/9 (-20) ); \T1/zi4/m/n/9 v2x_libdem\T1/LinuxLibertineT-TLF/m/n/9 (-20) , the \T1/LinuxLibertineT-TLF/m/it/9 (-20) lib-eral \T1/LinuxLibertineT-TLF/m/n/9 (-20) democ-racy in-dex (ag-gre-gates \T1/zi4/m/n/9 v2x_polyarchy\T1/LinuxLibertineT-TLF/m/n/9 (-20) , \T1/zi4/m/n/9 v2x_liberal\T1/LinuxLibertineT-TLF/m/n/9 (-20) );
  []
 
-[10.10 <./images/italian_prime_ministers.jpg>]) (./report.bbl
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 7.0pt on input line 44.
-LaTeX Info: Redefining \tempurl on input line 60.
-LaTeX Info: Redefining \tempurl on input line 74.
-LaTeX Info: Redefining \tempurl on input line 88.
-LaTeX Info: Redefining \tempurl on input line 100.
-LaTeX Info: Redefining \tempurl on input line 112.
-LaTeX Info: Redefining \tempurl on input line 125.
-LaTeX Info: Redefining \tempurl on input line 136.
-LaTeX Info: Redefining \tempurl on input line 149.
-LaTeX Info: Redefining \tempurl on input line 159.
-LaTeX Info: Redefining \tempurl on input line 172.
-LaTeX Info: Redefining \tempurl on input line 184.
-LaTeX Info: Redefining \tempurl on input line 196.
- [11.11]
-LaTeX Info: Redefining \tempurl on input line 208.
-LaTeX Info: Redefining \tempurl on input line 219.
-LaTeX Info: Redefining \tempurl on input line 231.
-LaTeX Info: Redefining \tempurl on input line 243.
-LaTeX Info: Redefining \tempurl on input line 266.
-LaTeX Info: Redefining \tempurl on input line 278.
-LaTeX Info: Redefining \tempurl on input line 289.
-LaTeX Info: Redefining \tempurl on input line 302.
-LaTeX Info: Redefining \tempurl on input line 314.
-LaTeX Info: Redefining \tempurl on input line 325.
-LaTeX Info: Redefining \tempurl on input line 337.
-LaTeX Info: Redefining \tempurl on input line 349.
-LaTeX Info: Redefining \tempurl on input line 361.
-LaTeX Info: Redefining \tempurl on input line 374.
-LaTeX Info: Redefining \tempurl on input line 385.
-LaTeX Info: Redefining \tempurl on input line 398.
-LaTeX Info: Redefining \tempurl on input line 411.
-LaTeX Info: Redefining \tempurl on input line 424.
-LaTeX Info: Redefining \tempurl on input line 436.
-LaTeX Info: Redefining \tempurl on input line 448.
-LaTeX Info: Redefining \tempurl on input line 459.
+) [10.10 <./images/italian_prime_ministers.jpg>] (./sections/finetuning.tex (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 242.
-
-(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
-File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
-) (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-utf8.def
-File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
-) [12.12] (./report.aux)
-Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 02BCF33D969910349F355E1FCC7336BA;2182.
- ) 
-Here is how much of TeX's memory you used:
- 26180 strings out of 476034
- 445724 string characters out of 5792864
- 1885388 words of memory out of 6000000
- 45397 multiletter control sequences out of 15000+600000
- 685427 words of font info for 434 fonts, out of 8000000 for 9000
- 1298 hyphenation exceptions out of 8191
- 85i,17n,131p,2542b,773s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/LibertineMathMI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/LibertineMathMI7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on report.pdf (12 pages, 1109127 bytes).
-PDF statistics:
- 409 PDF objects out of 1000 (max. 8388607)
- 360 compressed objects within 4 object streams
- 91 named destinations out of 1000 (max. 500000)
- 88725 words of extra memory for PDF output out of 89155 (max. 10000000)
-
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 5.
+LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
+(Font)              scaled to size 7.0pt on input line 5.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 5.0pt on input line 6.
+LaTeX Font Info:    Font shape `T1/zi4/b/n' will be
+(Font)              scaled to size 7.0pt on input line 6.
+LaTeX Font Info:    Trying to load font information for TS1+zi4 on input line 10.
+ (/usr/share/texlive/texmf-dist/tex/latex/inconsolata/ts1zi4.fd
+File: ts1zi4.fd 2018/01/14 TS1/zi4 (Inconsolata)
+)
+LaTeX Font Info:    Font shape `TS1/zi4/m/n' will be
+(Font)              scaled to size 7.0pt on input line 10.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `zi4' (encoding: TS1).
+(microtype)             For optimal results, create family-specifi

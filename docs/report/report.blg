@@ -22,45 +22,45 @@ Warning--empty address in holtus_dal_1985
 Warning--empty publisher in koehn_europarl_2005
 Warning--empty address in mohrhoff_dalla_1987
 Warning--empty year in north_french_nodate
-You've used 35 entries,
+You've used 38 entries,
             5981 wiz_defined-function locations,
-            1727 strings with 28303 characters,
-and the built_in function-call counts, 37443 in all, are:
-= -- 4903
-> -- 1416
+            1749 strings with 29213 characters,
+and the built_in function-call counts, 41384 in all, are:
+= -- 5461
+> -- 1589
 < -- 0
-+ -- 480
-- -- 529
-* -- 2742
-:= -- 3907
-add.period$ -- 188
-call.type$ -- 35
-change.case$ -- 275
-chr.to.int$ -- 34
-cite$ -- 44
-duplicate$ -- 3004
-empty$ -- 2123
-format.name$ -- 593
-if$ -- 8832
++ -- 540
+- -- 586
+* -- 3051
+:= -- 4299
+add.period$ -- 204
+call.type$ -- 38
+change.case$ -- 306
+chr.to.int$ -- 37
+cite$ -- 47
+duplicate$ -- 3298
+empty$ -- 2320
+format.name$ -- 662
+if$ -- 9802
 int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 73
-newline$ -- 466
-num.names$ -- 248
-pop$ -- 1064
+missing$ -- 81
+newline$ -- 502
+num.names$ -- 269
+pop$ -- 1159
 preamble$ -- 1
-purify$ -- 547
+purify$ -- 602
 quote$ -- 0
-skip$ -- 1135
+skip$ -- 1260
 stack$ -- 0
-substring$ -- 2588
-swap$ -- 287
+substring$ -- 2865
+swap$ -- 333
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 821
+type$ -- 883
 warning$ -- 9
-while$ -- 251
+while$ -- 264
 width$ -- 0
-write$ -- 844
+write$ -- 912
 (There were 10 warnings)
