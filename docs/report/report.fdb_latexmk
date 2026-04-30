@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex report"] 1777544189.79918 "report.aux" "report.bbl" "report" 1777544221.78509 0
+["bibtex report"] 1777555192.95378 "report.aux" "report.bbl" "report" 1777555197.4197 0
   "./report.bib" 1777543410.60512 89056 33ebc25e88b487bd2a713fe8dcc12e55 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/acmart/ACM-Reference-Format.bst" 1653856601 90333 ccee583820c555b8fd3c6d1b9f362b14 ""
-  "report.aux" 1777544221.37689 6775 1f02bb29f9b3ef33026011101a7a5ba3 "pdflatex"
+  "report.aux" 1777555197.06298 7581 4b78c1f3af3f505452358ce1b73cd833 "pdflatex"
   (generated)
   "report.bbl"
   "report.blg"
   (rewritten before read)
-["pdflatex"] 1777544219.56094 "/home/mhetac/Documents/GitHub/crossdem/docs/report/report.tex" "report.pdf" "report" 1777544221.78535 0
-  "/home/mhetac/Documents/GitHub/crossdem/docs/report/report.tex" 1777400354.41367 8361 c833f2c82bd63dc56d1428b3ff4d5ca7 ""
+["pdflatex"] 1777555195.20364 "/home/mhetac/Documents/GitHub/crossdem/docs/report/report.tex" "report.pdf" "report" 1777555197.4199 0
+  "/home/mhetac/Documents/GitHub/crossdem/docs/report/report.tex" 1777553424.51907 8389 32738c5d9edc6cc5c201755b28436d11 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-4.enc" 1558214095 7693 0f2dce6d313c82989ec3a67fc24df2a0 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc" 1490131464 2921 8ca0eb0831f9bc5da080d3697cfe67bf ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1490131464 2933 9ad527ce78d7c5fa0a642dead095f172 ""
@@ -213,13 +213,15 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1775825282 7759954 2e905753369464014d5d6615f296b3d8 ""
   "images/augmentation.png" 1777395883.7508 264958 44001cbf0c6ed0b2fe72db235aba5a47 ""
   "images/backtranslation.png" 1777395883.78405 131294 85883f07a0ea47f986b0e75fc0244135 ""
+  "images/italian_prime_ministers.jpg" 1777553047.63504 327085 74fd71912e6cfecfccef169bcce563f1 ""
   "images/sawicki_languagesPopularity.png" 1777469634.99595 25638 8d3544f55346195329ad0f559bb32271 ""
   "lstlisting_settings.tex" 1764001821.59337 923 6c327df865b68b4ddddc74a9f42a2ca7 ""
-  "report.aux" 1777544221.37689 6775 1f02bb29f9b3ef33026011101a7a5ba3 "pdflatex"
-  "report.bbl" 1777544189.94468 22047 123613bd74dc8fd465f274401cb77a75 "bibtex report"
-  "report.out" 1777544221.37756 1807 7f511a34a279a8742d635a58998fe263 "pdflatex"
-  "report.tex" 1777400354.41367 8361 c833f2c82bd63dc56d1428b3ff4d5ca7 ""
+  "report.aux" 1777555197.06298 7581 4b78c1f3af3f505452358ce1b73cd833 "pdflatex"
+  "report.bbl" 1777555193.06088 22949 c83df97765ea2a44d4fde9e8a9454148 "bibtex report"
+  "report.out" 1777555197.06398 2182 02bcf33d969910349f355e1fcc7336ba "pdflatex"
+  "report.tex" 1777553424.51907 8389 32738c5d9edc6cc5c201755b28436d11 ""
   "sections/corpora.tex" 1777479269.57309 13012 76056597f809caf64b41713dd9c4dd7e ""
+  "sections/democracy.tex" 1777555194.03598 6633 c4f2c12a3067f09a8b8720c699757808 ""
   "sections/goal.tex" 1777479305.84919 5267 16c41718f026e6ed36bfd8fdb41ebaeb ""
   "sections/introduction.tex" 1777284848.65377 2567 17314195abf44aa97fabbbcdd99f849c ""
   "sections/langanalysis.tex" 1777544219.22656 6326 43e071e518ec7e7d493a5428fc420bac ""

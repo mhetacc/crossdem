@@ -14,49 +14,53 @@ Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty address in beard_language_2000
+Warning--no number and no volume in herre_democracy_2025
+Warning--page numbers missing in both pages and numpages fields in herre_democracy_2025
+Warning--no number and no volume in herre_varieties_2025
+Warning--page numbers missing in both pages and numpages fields in herre_varieties_2025
 Warning--empty address in holtus_dal_1985
 Warning--empty publisher in koehn_europarl_2005
 Warning--empty address in mohrhoff_dalla_1987
 Warning--empty year in north_french_nodate
-You've used 33 entries,
+You've used 35 entries,
             5981 wiz_defined-function locations,
-            1719 strings with 27986 characters,
-and the built_in function-call counts, 35620 in all, are:
-= -- 4598
-> -- 1384
+            1727 strings with 28303 characters,
+and the built_in function-call counts, 37443 in all, are:
+= -- 4903
+> -- 1416
 < -- 0
-+ -- 469
-- -- 516
-* -- 2638
-:= -- 3754
-add.period$ -- 178
-call.type$ -- 33
-change.case$ -- 265
-chr.to.int$ -- 33
-cite$ -- 38
-duplicate$ -- 2845
-empty$ -- 2005
-format.name$ -- 580
-if$ -- 8332
-int.to.chr$ -- 2
++ -- 480
+- -- 529
+* -- 2742
+:= -- 3907
+add.period$ -- 188
+call.type$ -- 35
+change.case$ -- 275
+chr.to.int$ -- 34
+cite$ -- 44
+duplicate$ -- 3004
+empty$ -- 2123
+format.name$ -- 593
+if$ -- 8832
+int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 65
-newline$ -- 442
-num.names$ -- 235
-pop$ -- 995
+missing$ -- 73
+newline$ -- 466
+num.names$ -- 248
+pop$ -- 1064
 preamble$ -- 1
-purify$ -- 523
+purify$ -- 547
 quote$ -- 0
-skip$ -- 1093
+skip$ -- 1135
 stack$ -- 0
-substring$ -- 2481
-swap$ -- 279
+substring$ -- 2588
+swap$ -- 287
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 792
-warning$ -- 5
-while$ -- 238
+type$ -- 821
+warning$ -- 9
+while$ -- 251
 width$ -- 0
-write$ -- 800
-(There were 6 warnings)
+write$ -- 844
+(There were 10 warnings)
