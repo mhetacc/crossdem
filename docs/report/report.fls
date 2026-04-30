@@ -1407,6 +1407,13 @@ INPUT ./images/mistral7bLlama.png
 INPUT images/mistral7bLlama.png
 INPUT ./images/mistral7bLlama.png
 INPUT ./images/mistral7bLlama.png
+INPUT ./sections/feasability.tex
+INPUT ./sections/feasability.tex
+INPUT ./sections/feasability.tex
+INPUT sections/feasability.tex
+INPUT ./sections/feasability.tex
+INPUT ./sections/feasability.tex
+INPUT sections/feasability.tex
 INPUT ./report.bbl
 INPUT report.bbl
 INPUT ./report.bbl
