@@ -275,6 +275,10 @@
 \newblock In \bibinfo{booktitle}{\emph{Gesprochenes {Italienisch} in {Geschichte} und {Gegenwart}}}. \bibinfo{publisher}{G. Narr}, \bibinfo{pages}{86--118}.
 \newblock
 \showISBNx{978-3-87808-852-3}
+\urldef\tempurl%
+\url{https://www.uni-saarland.de/fileadmin/upload/fachrichtung/romanistik/W._Schweickard/Publikationen/Gesprochenes_Italienisch_in_Geschichte_und_Gegenwart.pdf}
+\showURL{%
+\tempurl}
 \newblock
 \shownote{Google-Books-ID: NfwlAAAAMAAJ}.
 

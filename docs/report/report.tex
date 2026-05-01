@@ -59,7 +59,7 @@
 \setcopyright{acmlicensed}
 \copyrightyear{2026}
 \acmYear{2026}
-\acmDOI{XXXXXXX.XXXXXXX}
+%\acmDOI{XXXXXXX.XXXXXXX}
 %% These commands are for a PROCEEDINGS abstract or paper.
 %\acmConference[Conference acronym 'XX]{Make sure to enter the correct
 %  conference title from your rights confirmation email}{June 03--05,
@@ -68,10 +68,9 @@
 %%  Uncomment \acmBooktitle if the title of the proceedings is different
 %%  from ``Proceedings of ...''!
 %%
- \acmBooktitle{AI Is Here To Stay: Misinformation and Human-Centric Models Between Risks
-and Opportunities,
-   January 16, 2026, Padua, IT}
- \acmISBN{978-1-4503-XXXX-X/2026/01}
+ \acmBooktitle{Crossdem: Comparing Politicians' Rhetoric With Democracy Indicators,
+   May 01, 2026, Padua, IT}
+% \acmISBN{978-1-4503-XXXX-X/2026/01}
 
 
 %%
@@ -121,7 +120,7 @@ and Opportunities,
 %%
 %% The "title" command has an optional parameter,
 %% allowing the author to define a "short title" to be used in page headers.
-\title{AI Is Here To Stay: Misinformation and Human-Centric Models Between Risks and Opportunities}
+\title{Crossdem: Comparing Politicians' Rhetoric With Democracy Indicators}
 
 %%
 %% The "author" command and its associated commands are used to define
@@ -130,7 +129,7 @@ and Opportunities,
 %% "authornote" and "authornotemark" commands
 %% used to denote shared contribution to the research.
 \author{Marco Bellò}
-\email{marco.bello.3@studenti.unipd.it}
+\email{marco.bello.vi@gmail.com}
 
 %\authornotemark[1]
 
@@ -152,9 +151,7 @@ and Opportunities,
 %%%% The abstract is a short summary of the work to be presented in the
 %%%% article.
 \begin{abstract}
-For more than half a century, artificial intelligence remained a matter of speculation for novelists and philosophers. This changed in 2017 due to the introduction of the transformer architecture, spearheading the AI boom whose effects are still scarcely understood.
-This paper explores potential risks and use cases of this technology, with a "human-centric" cut: 
-the first half showcases generation and detection of fake news and deepfakes, as well as how much LLMs can influence people's opinions and beliefs. The focus then shifts to the AIs themselves, about their own biases and their susceptibility to external stimuli, concluding with a quick overview on the state of research about AIs for positive social impact.
+Comparison between politicians' speeches and V-Dem democracy indices. After building a corpus of public speeches from Italian Prime Minister, U.S. Presidents and French Prime Ministers and Presidents, NLP analyses will be performed, from text complexity to hate speech recognition. The ensuing results will be compared with V-Dem democracy indices to shed light on possible correlations. Lastly, a transformer model will be fine-tuned to interpret political language and classify hate speech.
 \end{abstract}
 %%
 %%
@@ -165,39 +162,32 @@ the first half showcases generation and detection of fake news and deepfakes, as
 \begin{CCSXML}
 <ccs2012>
    <concept>
-       <concept_id>10002944.10011122.10002945</concept_id>
-       <concept_desc>General and reference~Surveys and overviews</concept_desc>
-       <concept_significance>500</concept_significance>
-       </concept>
-   <concept>
        <concept_id>10010147.10010178.10010179</concept_id>
        <concept_desc>Computing methodologies~Natural language processing</concept_desc>
        <concept_significance>500</concept_significance>
        </concept>
    <concept>
-       <concept_id>10010147.10010178.10010187.10010198</concept_id>
-       <concept_desc>Computing methodologies~Reasoning about belief and knowledge</concept_desc>
+       <concept_id>10003456.10003462.10003480.10003482</concept_id>
+       <concept_desc>Social and professional topics~Hate speech</concept_desc>
        <concept_significance>500</concept_significance>
        </concept>
    <concept>
-       <concept_id>10010147.10010178.10010216.10010217</concept_id>
-       <concept_desc>Computing methodologies~Cognitive science</concept_desc>
-       <concept_significance>100</concept_significance>
+       <concept_id>10003456.10003462.10003480.10003483</concept_id>
+       <concept_desc>Social and professional topics~Political speech</concept_desc>
+       <concept_significance>500</concept_significance>
        </concept>
  </ccs2012>
 \end{CCSXML}
 
-\ccsdesc[500]{General and reference~Surveys and overviews}
-\ccsdesc[500]{Computing methodologies~Aritificial intelligence}
 \ccsdesc[500]{Computing methodologies~Natural language processing}
-\ccsdesc[500]{Computing methodologies~Reasoning about belief and knowledge}
-\ccsdesc[100]{Computing methodologies~Cognitive science}
+\ccsdesc[500]{Social and professional topics~Hate speech}
+\ccsdesc[500]{Social and professional topics~Political speech}
 %%%%
 %%%% Keywords. The author(s) should pick words that accurately describe
 %%%% the work being presented. Separate the keywords with commas.
-\keywords{AI, NLP, Misinformation, Deepfakes, Opinions, Biases, AI4SI}
+\keywords{AI, NLP, Politics, Speeches}
 %%
-\received{16/01/2026}
+\received{01/05/2026}
 %%\received[revised]{18/09/2025}
 %%\received[accepted]{24/19/2025}
 
