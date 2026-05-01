@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.4.10)  1 MAY 2026 12:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.4.10)  1 MAY 2026 12:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -872,148 +872,35 @@ LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 3.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 7.
-)
+(Font)              scaled to size 9.0pt on input line 5.
+) (./sections/goal.tex
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 200.
- [1.1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}] (./sections/socialnetworks.tex) (./sections/goal.tex
+(Font)              scaled to size 7.3pt on input line 3.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 5.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 5.
-
-Underfull \vbox (badness 2310) has occurred while \output is active []
-
- [2.2]
+(Font)              scaled to size 5.5pt on input line 3.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 19.
- [3.3]) (./sections/corpora.tex
-Underfull \vbox (badness 4899) has occurred while \output is active []
-
- [4.4]
-LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 40.
+(Font)              scaled to size 9.0pt on input line 5.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 9.
+ [1.1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}]
+LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 9.
  (/usr/share/texlive/texmf-dist/tex/latex/inconsolata/t1zi4.fd
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 9.0pt on input line 40.
+(Font)              scaled to size 9.0pt on input line 9.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `zi4' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [5.5{/usr/share/texlive/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-4.enc}] [6.6]
-<images/augmentation.png, id=203, 2312.64pt x 1300.86pt>
-File: images/augmentation.png Graphic file (type png)
-<use images/augmentation.png>
-Package pdftex.def Info: images/augmentation.png  used on input line 105.
-(pdftex.def)             Requested size: 171.99922pt x 96.74646pt.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 106.
-<images/backtranslation.png, id=205, 2312.64pt x 1300.86pt>
-File: images/backtranslation.png Graphic file (type png)
-<use images/backtranslation.png>
-Package pdftex.def Info: images/backtranslation.png  used on input line 111.
-(pdftex.def)             Requested size: 171.99922pt x 96.74646pt.
-) (./sections/langanalysis.tex
-<images/sawicki_languagesPopularity.png, id=213, 642.4pt x 481.8pt>
-File: images/sawicki_languagesPopularity.png Graphic file (type png)
-<use images/sawicki_languagesPopularity.png>
-Package pdftex.def Info: images/sawicki_languagesPopularity.png  used on input line 7.
-(pdftex.def)             Requested size: 301.00192pt x 225.75496pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[7.7 <./images/augmentation.png> <./images/backtranslation.png>]
-Underfull \vbox (badness 1199) has occurred while \output is active []
-
- [8.8 <./images/sawicki_languagesPopularity.png>]) (./sections/democracy.tex [9.9]
-<images/italian_prime_ministers.jpg, id=284, 859.2903pt x 569.7285pt>
-File: images/italian_prime_ministers.jpg Graphic file (type jpg)
-<use images/italian_prime_ministers.jpg>
-Package pdftex.def Info: images/italian_prime_ministers.jpg  used on input line 19.
-(pdftex.def)             Requested size: 301.00192pt x 199.56444pt.
-
-Overfull \hbox (8.49184pt too wide) in paragraph at lines 29--30
-\T1/LinuxLibertineT-TLF/m/n/9 (-20) spec-i-fied: \T1/zi4/m/n/9 v2x_polyarchy\T1/LinuxLibertineT-TLF/m/n/9 (-20) , the \T1/LinuxLibertineT-TLF/m/it/9 (-20) elec-toral \T1/LinuxLibertineT-TLF/m/n/9 (-20) democ-racy in-dex (ag-gre-gates \T1/zi4/m/n/9 v2x_elecoff\T1/LinuxLibertineT-TLF/m/n/9 (-20) , \T1/zi4/m/n/9 v2xel_frefair\T1/LinuxLibertineT-TLF/m/n/9 (-20) , \T1/zi4/m/n/9 v2x_frassoc_thick\T1/LinuxLibertineT-TLF/m/n/9 (-20) ,
- []
-
-
-Overfull \hbox (2.41547pt too wide) in paragraph at lines 29--30
-\T1/zi4/m/n/9 v2x_suffr\T1/LinuxLibertineT-TLF/m/n/9 (-20) , \T1/zi4/m/n/9 v2x_freexp_altinf\T1/LinuxLibertineT-TLF/m/n/9 (-20) ); \T1/zi4/m/n/9 v2x_libdem\T1/LinuxLibertineT-TLF/m/n/9 (-20) , the \T1/LinuxLibertineT-TLF/m/it/9 (-20) lib-eral \T1/LinuxLibertineT-TLF/m/n/9 (-20) democ-racy in-dex (ag-gre-gates \T1/zi4/m/n/9 v2x_polyarchy\T1/LinuxLibertineT-TLF/m/n/9 (-20) , \T1/zi4/m/n/9 v2x_liberal\T1/LinuxLibertineT-TLF/m/n/9 (-20) );
- []
-
-) [10.10 <./images/italian_prime_ministers.jpg>] (./sections/finetuning.tex (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2023/02/27 1.9 listings language file
-)
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 5.
-LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 7.0pt on input line 5.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.0pt on input line 6.
-LaTeX Font Info:    Font shape `T1/zi4/b/n' will be
-(Font)              scaled to size 7.0pt on input line 6.
-LaTeX Font Info:    Trying to load font information for TS1+zi4 on input line 10.
- (/usr/share/texlive/texmf-dist/tex/latex/inconsolata/ts1zi4.fd
-File: ts1zi4.fd 2018/01/14 TS1/zi4 (Inconsolata)
-)
-LaTeX Font Info:    Font shape `TS1/zi4/m/n' will be
-(Font)              scaled to size 7.0pt on input line 10.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `zi4' (encoding: TS1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
- [11.11{/usr/share/texlive/texmf-dist/fonts/enc/dvips/inconsolata/i4-ts1.enc}]
-<images/mistral7bLlama.png, id=322, 11014.14874pt x 3583.3875pt>
-File: images/mistral7bLlama.png Graphic file (type png)
-<use images/mistral7bLlama.png>
-Package pdftex.def Info: images/mistral7bLlama.png  used on input line 43.
-(pdftex.def)             Requested size: 301.00192pt x 97.92833pt.
-) (./sections/feasability.tex) (./report.bbl
+) (./report.bbl
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 7.0pt on input line 44.
- [12.12 <./images/mistral7bLlama.png>]
-LaTeX Info: Redefining \tempurl on input line 60.
-LaTeX Info: Redefining \tempurl on input line 72.
-LaTeX Info: Redefining \tempurl on input line 86.
-LaTeX Info: Redefining \tempurl on input line 100.
-LaTeX Info: Redefining \tempurl on input line 112.
-LaTeX Info: Redefining \tempurl on input line 124.
-LaTeX Info: Redefining \tempurl on input line 136.
-LaTeX Info: Redefining \tempurl on input line 148.
-LaTeX Info: Redefining \tempurl on input line 159.
-LaTeX Info: Redefining \tempurl on input line 172.
-LaTeX Info: Redefining \tempurl on input line 182.
-LaTeX Info: Redefining \tempurl on input line 195.
-LaTeX Info: Redefining \tempurl on input line 207.
-LaTeX Info: Redefining \tempurl on input line 219.
-LaTeX Info: Redefining \tempurl on input line 231.
-LaTeX Info: Redefining \tempurl on input line 242.
-LaTeX Info: Redefining \tempurl on input line 254.
-LaTeX Info: Redefining \tempurl on input line 266.
-LaTeX Info: Redefining \tempurl on input line 279.
-LaTeX Info: Redefining \tempurl on input line 293.
-LaTeX Info: Redefining \tempurl on input line 305.
-LaTeX Info: Redefining \tempurl on input line 316.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [13.13]
-LaTeX Info: Redefining \tempurl on input line 329.
-LaTeX Info: Redefining \tempurl on input line 340.
-LaTeX Info: Redefining \tempurl on input line 354.
-LaTeX Info: Redefining \tempurl on input line 365.
-LaTeX Info: Redefining \tempurl on input line 377.
-LaTeX Info: Redefining \tempurl on input line 389.
-LaTeX Info: Redefining \tempurl on input line 401.
-LaTeX Info: Redefining \tempurl on input line 414.
-LaTeX Info: Redefining \tempurl on input line 425.
-LaTeX Info: Redefining \tempurl on input line 438.
-LaTeX Info: Redefining \tempurl on input line 451.
-LaTeX Info: Redefining \tempurl on input line 464.
-LaTeX Info: Redefining \tempurl on input line 476.
-LaTeX Info: Redefining \tempurl on input line 488.
-LaTeX Info: Redefining \tempurl on input line 499.
+LaTeX Info: Redefining \tempurl on input line 58.
+LaTeX Info: Redefining \tempurl on input line 71.
+ [2.2{/usr/share/texlive/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-4.enc}]
+LaTeX Info: Redefining \tempurl on input line 84.
+LaTeX Info: Redefining \tempurl on input line 96.
 )
 
 Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 236.
@@ -1022,23 +909,23 @@ Class acmart Warning: \vspace should only be used to provide space above/below s
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 ) (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-utf8.def
 File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
-) [14.14] (./report.aux)
+) [3.3] (./report.aux)
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 60B178D8984653B89D2A03ED6FE1DB40;2439.
+(rerunfilecheck)             Checksum: 2F8BBCBABB152E107CE45581DA83E3D4;329.
  ) 
 Here is how much of TeX's memory you used:
- 26748 strings out of 476034
- 452351 string characters out of 5792864
- 1890388 words of memory out of 6000000
- 45898 multiletter control sequences out of 15000+600000
- 693116 words of font info for 449 fonts, out of 8000000 for 9000
+ 25698 strings out of 476034
+ 434180 string characters out of 5792864
+ 1875388 words of memory out of 6000000
+ 45231 multiletter control sequences out of 15000+600000
+ 657123 words of font info for 286 fonts, out of 8000000 for 9000
  1298 hyphenation exceptions out of 8191
- 85i,17n,131p,2542b,2166s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4b.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/LibertineMathMI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/LibertineMathMI7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on report.pdf (14 pages, 3176674 bytes).
+ 85i,17n,131p,1054b,689s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/LibertineMathMI7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
+Output written on report.pdf (3 pages, 372178 bytes).
 PDF statistics:
- 481 PDF objects out of 1000 (max. 8388607)
- 425 compressed objects within 5 object streams
- 121 named destinations out of 1000 (max. 500000)
- 94378 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 115 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 500000)
+ 84521 words of extra memory for PDF output out of 89155 (max. 10000000)
 

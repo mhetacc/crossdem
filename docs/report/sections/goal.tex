@@ -1,27 +1,31 @@
 \section{Project Goal}
 
-Let's now define the project's goal.
-
 I want to compare politicians' speeches among three countries, namely Italy, France and the United States, between 1945 and 2025, and then cross-compare the resulting analyses with democracy level indicators taken from the V-Dem dataset\footnote{The V-Dem Dataset is a multidimensional and disaggregated dataset that reflects the complexity of the concept of democracy as a system of rule that goes beyond the simple presence of elections: \url{https://www.v-dem.net/data/the-v-dem-dataset/}.} and fine-tune an LLM to better interpret political speech and classify populism and hate speech.
-
-\subsection{Comparing Italy, France and the U.S.}
-
-Italy was a natural choice being the country I was born and raised in, therefore the one I am most knowledgeable about, but more than that, it has always been a fascinating research case study, being often referred to as an "anomaly" or, by authors such as Marc Lazar, as a kind of \textit{laboratory} of a general change of European democracies. Since the 1990s, the state of Italian democracy has raised numerous questions, stimulating the curiosity of the international media, causing heated debates, providing material for seminars and conferences, and engendering academic and journalistic publications by Italians and foreigners alike. Lazar's opinion is that Italy is "at the same time an indicator of a more general democratic malaise and of the multiple attempts of invention of a new democratic order that are emerging all over the European Union". Similar phenomena affect, in their own ways, other European democracies, making it a meaningful case study \cite{lazar_testing_2013}.
-
-Italian, French, and American histories intersected often during the past century: being at times allies, at times enemies during the Second World War, in the ensuing Cold War the United States encountered unexpected challenges from the Italian and French Communist Parties, the two strongest and most anti-American in Western Europe. Brogi \cite{brogi_confronting_2011} argues that the resistance to Americanization was necessary to legitimize the French and Italian Communist Parties' own existence.
-
-Moreover, each country illustrates a different approach to democratic governance. They use three different executive models: the U.S. opted for a full presidential, where the President holds all power, France uses a semi-presidential system where power is split between the President and the Prime Minister, and Italy a Parliamentary one where the Prime Minister holds the power but depends on the Parliament.
-The party system is also different, since France and Italy have multi-party systems while the U.S. is strongly bipartisan, being divided between Democrats and Republicans.
-Lastly, the state system employed is also quite different: France's state is unitary and vertical, while Italy's regions hold strong power and independence. The U.S., on the other hand, is a Federation.
-
-\subsection{Roadmap}
 
 \textbf{The first step} is building a corpus of politicians' speeches, one corpus for Italian speeches, one for French speeches and one for American speeches. To limit the scope, I decided to take only speeches from Italian Prime Ministers, U.S. Presidents, and either French Presidents when the President and the Prime Minister come from the same party, or French Prime Ministers when the President and Prime Minister are in opposition to each other. This is justified by the fact that when they are politically aligned, the President dominates. During cohabitation (opposing political camps), the Prime Minister gains real policy autonomy \cite{north_french_nodate}.
 
 Speeches can be taken from different sources, such as official speeches, interviews, or social network posts, and can be in different media formats, such as textual, audio or video. For the latter two, a translating tool will be needed (such as a speech-to-text library).
 
-\textbf{The second step} is using the corpus to perform linguistic analyses. The corpus can be subjected to data augmentation\footnote{In its most general sense, data augmentation denotes methods for supplementing so-called incomplete datasets by providing missing data points in order to increase the dataset’s analyzability \cite{kavlakoglu_what_2024}.}, since we can expect the density of speeches to decrease as we go back in time. Then, the corpus will be pre-processed, with procedures such as tokenization, stemming and lemmatization. We can then compute word frequency and text complexity measures, as well as hate speech and populism identification.
+The dataset will have a fixed, structured taxonomy inspired by ParlaMint. For example, the table for Italian government will have a \textit{government} column whose values will be \texttt{degasperi2} for "De Gasperi II" Government, \texttt{forlani} for "Forlani" government and so on.
+
+It is likely that for older politicians there are fewer speeches available, i.e., the dataset becomes more sparse as we go back in time. Moreover, speeches will be in three languages, namely Italian, French and English. For this reason, data augmentation techniques may be useful.
+
+For speech to text processing, OpenAI's Whisper library is a Transformer sequence-to-sequence model trained on various speech processing tasks, including multilingual speech recognition, speech translation, spoken language identification, and voice activity detection. 
+
+\textbf{The second step} is using the corpus to perform linguistic analyses. The corpus will be pre-processed, with procedures such as tokenization, stemming and lemmatization. We can then compute word frequency and text complexity measures, as well as hate speech and populism identification.
+
+This can be done with known libraries such as spaCy, or with transformers from the Hugging Face libraries. 
+
+Sawicki et al. 2023's survey \cite{sawicki_state_2023} tells us that English is by far the most represented language in the field of natural language processing. Fortunately, French and Italian are still in the top eight, so finding libraries already capable of handling them should be easy enough.
 
 \textbf{The third step} is cross-referencing the linguistic metrics with democratic indicators such as freedom of expression, freedom of association, transparency and fairness of law and other such metrics. All democracy metrics can be found in the V-Dem dataset.
 
-\textbf{The fourth step} is to fine-tune a pre-trained transformer model, for example Mistral 7B\footnote{Mistral 7B the most powerful language model for its size to date: \url{https://mistral.ai/news/announcing-mistral-7b}.}, to make it better understand political speeches in three different languages, and to train it in a classification task for hate speech and populism recognition.
+I must use the \textit{CD Country-Date} dataset (version 16, released in March 2026) since, to keep track of Italian governments, year-level granularity is not enough. 
+
+The dataset covers Italy between 1861 and 2025, France between 1789 and 2025, and the U.S. between 1789 and 2025.
+
+Some high level democracy indices (each normalized to a scale between zero and one): \texttt{v2x\_polyarchy}, the \textit{electoral} democracy index, \texttt{v2x\_libdem}, the \textit{liberal} democracy index, \texttt{v2x\_partipdem}, the \textit{participatory} democracy index, \texttt{v2x\_delibdem}, the \textit{deliberative} democracy index focusing on process, respectful dialogue, and the common good, and \texttt{v2x\_egaldem}, the \textit{egalitarian} democracy index considering social status, inequalities, and resource distribution.
+
+\textbf{The fourth step} is to fine-tune a pre-trained transformer model, to make it better understand political speeches in three different languages, and to train it in a classification task for hate speech and populism recognition.
+
+Card et al. \cite{card_computational_2022} fine-tuned a pre-trained RoBERTa model achieving 65\% accuracy in classifying Congressional Record entries as being pro-immigration, anti-immigration, or neutral, while Li et al. \cite{li_label_2023} found that LS-LLaMA substantially outperforms LLMs ten times its size in text classification tasks and demonstrates consistent improvements compared to robust baselines like BERT-Large and RoBERTa-Large.
