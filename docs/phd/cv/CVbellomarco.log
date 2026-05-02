@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.3.23)  29 MAR 2026 21:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.4.10)  1 MAY 2026 13:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/mhetac/Documents/GitHub/crossdem/misc/phd/cv/CVbellomarco.tex
-(/home/mhetac/Documents/GitHub/crossdem/misc/phd/cv/CVbellomarco.tex
+**/home/mhetac/Documents/GitHub/crossdem/docs/phd/cv/CVbellomarco.tex
+(/home/mhetac/Documents/GitHub/crossdem/docs/phd/cv/CVbellomarco.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncv.cls
 Document Class: moderncv 2022-02-21 v2.3.1 modern curriculum vitae and letter document class
@@ -673,14 +673,14 @@ Package rerunfilecheck Info: File `CVbellomarco.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  25917 strings out of 476034
- 500794 string characters out of 5792864
- 1893388 words of memory out of 6000000
+ 500792 string characters out of 5792864
+ 1896388 words of memory out of 6000000
  45882 multiletter control sequences out of 15000+600000
  521598 words of font info for 87 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
  129i,12n,122p,1060b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CVbellomarco.pdf (1 page, 153526 bytes).
+Output written on CVbellomarco.pdf (1 page, 153987 bytes).
 PDF statistics:
  106 PDF objects out of 1000 (max. 8388607)
  80 compressed objects within 1 object stream
