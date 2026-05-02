@@ -1,0 +1,158 @@
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% "ModernCV" CV and Cover Letter
+% LaTeX Template
+% Version 1.11 (19/6/14)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Xavier Danaux (xdanaux@gmail.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template requires the moderncv.cls and .sty files to be in the same 
+% directory as this .tex file. These files provide the resume style and themes 
+% used for structuring the document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[12pt,a4paper,sans]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+
+\usepackage{fontawesome5}
+\usepackage{xcolor}
+
+
+\moderncvcolor{red} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+\moderncvstyle{classic} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\definecolor{venetianred}{HTML}{A42A04} 
+\colorlet{color1}{venetianred} % main accent color \colorlet{color2}{mycolor!70} % secondary (slightly lighter)
+
+
+%\colorlet{color2}{mycolor!70} % secondary (slightly lighter)
+
+%\definecolor{color1}{HTML}{434C98}
+
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={210mm,297mm},
+ left=10mm,
+ right=10mm,
+ top=20mm,
+ bottom=20mm,
+ }
+
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\firstname{Marco} % Your first name
+\familyname{Bellò} % Your last name
+
+
+\mobile{+393497617003}
+ % Phone number
+\email{marco.bello.vi@gmail.com} % Email ID
+
+
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge Marco Bellò} \\ \vspace{5pt}
+    \small \faMobile* +39 3497617003 \hspace{1pt} $|$
+    \hspace{1pt} \faEnvelope \hspace{2pt} \href{mailto:marco.bello.vi@gmail.com}{marco.bello.vi@gmail.com} \hspace{1pt} $|$ 
+    \hspace{1pt} \faGithub \hspace{2pt} \href{https://github.com/mhetacc}{github.com/mhetacc} \hspace{1pt} $|$
+    \hspace{1pt} \faTelegram \hspace{2pt} \href{https://t.me/mhetac}{t.me/mhetac}
+    \\ \vspace{-3pt}
+\end{center}
+\vspace{10pt} % adjust spacing as needed
+
+{\color{venetianred} \hrule height 0.8pt}
+
+\vspace{10pt}
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Interests And Relevance}
+
+I am a Master Student in Computer Science at the University of Padua, and I plan to finish my studies by the second half of September 2026.
+
+Starting from a security and networking track, I kept finding myself leaning towards data analysis and machine learning projects, and since I always had a passion for linguistic, discourse and communication (especially when connected to political and social contests), I spent my last year specializing into the field of Artificial Intelligence, with special regard toward linguistic and social applications. 
+
+\vspace{2mm}
+
+I have extensive experience with the Python programming language, since I used it for both "common" applications (such as scripting and machine learning), and for less common ones: I did a project which mixed networking and multithreading to simulate a concurrent online-gaming scenario.
+
+I also used the R programming language to perform machine learning tasks and social network analysis.
+
+\vspace{2mm}
+
+My background and interest are especially \textbf{relevant to this project} and its directions: the Master Thesis I am doing right now (next section) requires me to do both data collection and data analysis using NLP tools and pipelines. Moreover, since I will be gathering political speeches, they can sometimes be purposely ambiguous to subtly manipulate the audience.
+
+
+
+
+%----------------------------------------------------------------------------------------
+%	PROJECT SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Master Thesis}
+
+I will compare politicians' speeches among three countries, namely Italy, France and the United States, between 1945 and 2025, and then cross-compare the resulting analyses with democracy level indicators taken from the V-Dem dataset and fine-tune an LLM to better interpret political speech and classify populism and hate speech.
+
+\vspace{2mm}
+
+\textbf{The first step} will be building a corpus of politicians' speeches, one corpus for Italian speeches, one for French speeches and one for American speeches. To limit the scope, I decided to take only speeches from Italian Prime Ministers, U.S. Presidents, and either French Presidents when the President and the Prime Minister come from the same party, or French Prime Ministers when the President and Prime Minister are in opposition to each other. 
+
+The dataset will have a fixed, structured taxonomy inspired by ParlaMint.
+
+It is likely that for older politicians there are fewer speeches available, i.e., the dataset becomes more sparse as we go back in time. Moreover, speeches will be in three languages, namely Italian, French and English. For this reason, data augmentation techniques such as back-translation may be useful.
+
+For video or audio speeches, speech to text processing will be performed. I will likely use OpenAI's Whisper library, a Transformer sequence-to-sequence model trained on various speech processing tasks. 
+
+\vspace{2mm}
+
+\textbf{The second step} is using the corpus to perform linguistic analyses. The corpus will be pre-processed, with procedures such as tokenization, stemming and lemmatization. I will then compute part-of-speech tagging, as well as word frequency and text complexity measures, following with hate speech and populism classification tasks. 
+
+The corpus will have to be translated into vectorial representation.
+
+All of the above can be done with known Python libraries such as Stanza, spaCy, FastText, LLM2Vec, and textacy, or with transformers-only libraries from Hugging Face. 
+
+\vspace{2mm}
+
+\textbf{The third step} is cross-referencing the linguistic metrics with democratic indicators such as freedom of expression, freedom of association, transparency and fairness of law and other such metrics. All democracy metrics can be found in the V-Dem dataset.
+
+
+
+
+
+%----------------------------------------------------------------------------------------
+%	ACHIEVEMENTS SECTION
+%----------------------------------------------------------------------------------------
+
+
+%----------------------------------------------------------------------------------------
+%	PROFILE% SECTION
+%---------------------------------------------------------------------------------------%-%
+
+%\section{Profiles}
+
+%\cvitem{GitHub}{\url{https://github.com/sakshib}}
+%\cvitem{clubVA}{\url{https://www.clubva.com/public/employee/avatar/index/Sakshi}\newline{}}
+
+\end{document}
