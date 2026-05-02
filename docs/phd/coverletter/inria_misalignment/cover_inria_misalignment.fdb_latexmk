@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1777740757.52591 "/home/mhetac/Documents/GitHub/crossdem/docs/phd/coverletter/inria_misalignment/cover_inria_misalignment.tex" "cover_inria_misalignment.pdf" "cover_inria_misalignment" 1777740758.10444 0
-  "/home/mhetac/Documents/GitHub/crossdem/docs/phd/coverletter/inria_misalignment/cover_inria_misalignment.tex" 1777740757.32462 7427 a46cd6aabef01437fbbcf5b4ac2d0487 ""
+["pdflatex"] 1777741412.40452 "/home/mhetac/Documents/GitHub/crossdem/docs/phd/coverletter/inria_misalignment/cover_inria_misalignment.tex" "cover_inria_misalignment.pdf" "cover_inria_misalignment" 1777741412.97761 0
+  "/home/mhetac/Documents/GitHub/crossdem/docs/phd/coverletter/inria_misalignment/cover_inria_misalignment.tex" 1777741412.21418 7431 ade738918ead2355c31bdaf387b8c4e3 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc" 1651520503 2608 3139db8e1f9371a4f87c0715d17fa217 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -180,9 +180,9 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1775001600 40900 887e0dc8cac988a9e9c574af364cf837 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1775825595.13604 4547210 0b4d8bce3d83ee4f50b88a57a6a0d7ef ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1775825282 7759954 2e905753369464014d5d6615f296b3d8 ""
-  "cover_inria_misalignment.aux" 1777740758.0389 799 c2ea55b9f765cc8fceafdba3c9445404 "pdflatex"
-  "cover_inria_misalignment.out" 1777740758.0399 275 3babd5c3857ca93b3c1186b8cf3c30be "pdflatex"
-  "cover_inria_misalignment.tex" 1777740757.32462 7427 a46cd6aabef01437fbbcf5b4ac2d0487 ""
+  "cover_inria_misalignment.aux" 1777741412.90318 799 c2ea55b9f765cc8fceafdba3c9445404 "pdflatex"
+  "cover_inria_misalignment.out" 1777741412.90318 275 3babd5c3857ca93b3c1186b8cf3c30be "pdflatex"
+  "cover_inria_misalignment.tex" 1777741412.21418 7431 ade738918ead2355c31bdaf387b8c4e3 ""
   (generated)
   "cover_inria_misalignment.aux"
   "cover_inria_misalignment.log"
