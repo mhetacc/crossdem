@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.4.10)  2 MAY 2026 19:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.4.10)  4 MAY 2026 14:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -661,18 +661,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc}] (./cover_inria_misalignment.aux)
 Package rerunfilecheck Info: File `cover_inria_misalignment.out' has not changed.
-(rerunfilecheck)             Checksum: 3BABD5C3857CA93B3C1186B8CF3C30BE;275.
+(rerunfilecheck)             Checksum: 00D6BCF6D42C04330D6B5D83B5A8CCF7;275.
  ) 
 Here is how much of TeX's memory you used:
- 25895 strings out of 476034
- 500573 string characters out of 5792864
- 1868388 words of memory out of 6000000
+ 25885 strings out of 476034
+ 500483 string characters out of 5792864
+ 1867388 words of memory out of 6000000
  45855 multiletter control sequences out of 15000+600000
- 521350 words of font info for 90 fonts, out of 8000000 for 9000
+ 521015 words of font info for 85 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
  129i,11n,122p,1100b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on cover_inria_misalignment.pdf (1 page, 116378 bytes).
+Output written on cover_inria_misalignment.pdf (1 page, 117322 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream

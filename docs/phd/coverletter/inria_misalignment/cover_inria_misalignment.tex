@@ -87,51 +87,47 @@
 %----------------------------------------------------------------------------------------
 %	EDUCATION SECTION
 %----------------------------------------------------------------------------------------
-\section{Interests And Relevance}
+\section{Interests and Relevance}
 
-I am a Master's student in Computer Science at the University of Padua, and I plan to finish my studies by the second half of September 2026.
+I am a Master's student in Computer Science at the University of Padua. I will graduate in the second half of September 2026.
 
-Starting from a security and networking track, I kept finding myself leaning towards data analysis and machine learning projects. Since I always had a passion for linguistics, discourse, and communication (especially when connected to political and social contexts), I spent my last year specializing in the field of Artificial Intelligence, with special regard toward linguistic and social applications. 
-
-\vspace{2mm}
-
-I have extensive experience with the Python programming language, since I used it for both "common" applications (such as scripting and machine learning) and for less common ones: I completed a project that combined networking and multithreading to simulate a concurrent online-gaming scenario.
-
-I also used the R programming language to perform machine learning tasks and social network analysis.
+Starting from a security and networking track, I kept finding myself leaning towards data analysis and machine learning-related projects. Since I always had a passion for linguistics, discourse, and communication, especially when connected to political and social contexts, I spent the last year specializing in the field of Artificial Intelligence, with special regard to linguistic and social applications. 
 
 \vspace{2mm}
 
-My background and interests are especially \textbf{relevant to this project} and its directions: the Master's Thesis I am doing right now (next section) requires me to do both data collection and data analysis using NLP tools and pipelines. Moreover, since I will be gathering political speeches, they can sometimes be purposely ambiguous to subtly manipulate the audience.
+I have extensive experience with the Python programming language, since I used it for both "common" applications, such as data visualization and machine learning, and for less common ones: I simulated a concurrent online-gaming scenario leveraging remote procedure calls and multithreading.
+
+I also used the R programming language to perform classification and regression tasks, and to study the presence of echo-chambers in social networks and the degree of their segregation.
+
+\vspace{2mm}
+
+\textbf{My background and research interests directly align with the project's objectives and directions:} the Master's Thesis I am working on (more details in the next section) requires me to do both data collection and data analysis using natural language processing tools and pipelines. I am compiling a corpus of political speeches, which are often ambiguous and open to different interpretations. This makes them a relevant case study to observe meaning-related misunderstandings.
 
 %----------------------------------------------------------------------------------------
 %	PROJECT SECTION
 %----------------------------------------------------------------------------------------
 
 \section{Master Thesis}
-
-I will compare politicians' speeches among three countries, namely Italy, France and the United States, between 1945 and 2025, and then cross-compare the resulting analyses with democracy level indicators taken from the V-Dem dataset and fine-tune an LLM to better interpret political speech and classify populism and hate speech.
+ 
+I am gathering a corpus of speeches from Italian Prime Ministers between 1945 and 2025. I will then analyze textual complexity and classify hate speech and populism, and cross-compare the results with democracy level indicators taken from the V-Dem dataset.
 
 \vspace{2mm}
 
-\textbf{The first step} will be building a corpus of politicians' speeches, one corpus for Italian speeches, one for French speeches and one for American speeches. To limit the scope, I decided to take only speeches from Italian Prime Ministers, U.S. Presidents, and either French Presidents when the President and the Prime Minister come from the same party, or French Prime Ministers when the President and Prime Minister are in opposition to each other. 
+\textbf{The first step} will be building a corpus of speeches. To limit the scope, I decided to take only speeches from Italian Prime Ministers. The dataset will have a fixed, structured taxonomy inspired by ParlaMint.
 
-The dataset will have a fixed, structured taxonomy inspired by ParlaMint.
-
-It is likely that for older politicians there are fewer speeches available, i.e., the dataset becomes more sparse as we go back in time. Moreover, speeches will be in three languages, namely Italian, French and English. For this reason, data augmentation techniques such as back-translation may be useful.
+It is likely that for older politicians there are fewer speeches available, i.e., the dataset becomes more sparse as we go back in time. For this reason, data augmentation techniques may be useful.
 
 For video or audio speeches, speech to text processing will be performed. I will likely use OpenAI's Whisper library, a Transformer sequence-to-sequence model trained on various speech processing tasks. 
 
 \vspace{2mm}
 
-\textbf{The second step} is using the corpus to perform linguistic analyses. The corpus will be pre-processed, with procedures such as tokenization, stemming and lemmatization. I will then compute part-of-speech tagging, as well as word frequency and text complexity measures, following with hate speech and populism classification tasks. 
+\textbf{The second step} is using the corpus to perform linguistic analyses. The corpus will be pre-processed, with procedures such as tokenization, stemming and lemmatization. I will then compute part-of-speech tagging, as well as word frequency and text complexity measures, following with hate speech and populism classification tasks. The corpus will have to be translated into vectorial representation.
 
-The corpus will have to be translated into vectorial representation.
-
-All of the above can be done with known Python libraries such as Stanza, spaCy, FastText, LLM2Vec, and textacy, or with transformers-only libraries from Hugging Face. 
+All of the above can be done with popular Python libraries such as Stanza, spaCy, FastText, LLM2Vec, and textacy, and with transformers-only libraries from Hugging Face. 
 
 \vspace{2mm}
 
-\textbf{The third step} is cross-referencing the linguistic metrics with democratic indicators such as freedom of expression, freedom of association, transparency and fairness of law and other such metrics. All democracy metrics can be found in the V-Dem dataset.
+\textbf{The last step} is cross-referencing the results with democratic indicators such as freedom of expression, freedom of association, transparency and fairness of law and other such metrics. All the democracy parameters can be found in the V-Dem dataset.
 
 
 
