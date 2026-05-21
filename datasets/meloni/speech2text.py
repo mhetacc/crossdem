@@ -10,7 +10,7 @@ BASE_DIR = Path(__file__).resolve().parent
 
 # ─── Config ───────────────────────────────────────────────────────────────────
 politician  = "meloni"
-model_name  = "tiny"
+model_name  = "tiny"            # TODO after testing phase put base or small or medium
 lang_code   = "Italian"
 # Use BASE_DIR to join paths
 #audio_file  = str(BASE_DIR / "audio.mp3")
@@ -32,7 +32,7 @@ def process_video(video_url):
         "--print-json",
         "-x",                             # Extract audio
         "--audio-format", "mp3",          # Specify format (mp3, m4a, wav, etc.)
-        "--cookies", "yt_cookies.txt",
+        "--cookies", "yt_cookies.txt",    # manual cookies, extract with browser extension
         # 2. Rate limiting & Human-like delays
         "--sleep-requests", "2",      # Sleep 2s between requests
         "--sleep-interval", "5",      # Sleep 5s between downloads
@@ -107,10 +107,24 @@ def process_video(video_url):
     return row
 
 urls = [
-    "https://youtu.be/A_pHRztwshY?si=XCFp-BbJXx0Hh8zV",
-    "https://youtu.be/iOFR7Ae9cHU?si=ayJkXKCef7HQVHu_",
-    "https://youtu.be/1tgNs_fr4w0?si=Ab48jlbcUs_im1rH"
+    "https://youtu.be/iOFR7Ae9cHU?si=0jxlIq30L1GWEz6v", 
+    "https://youtu.be/i4Dyv8CQ7VA?si=dmvMAn8kQ7L65bjC",
+    "https://youtu.be/F4-PR5iJv0E?si=xOoatF-_4Kz6rOAc",
+    "https://youtu.be/A_pHRztwshY?si=g12j2iNOGap5gm3A",
+    "https://youtu.be/RL-q9N7EtQE?si=gnA73YDdUye1GqzU",
+    "https://youtu.be/6gJWd0_AlTI?si=QEgiswzWpwDsMzNn",
+    "https://youtu.be/T6OsYCkszK0?si=yIzfFmLtlTHaD5q4",
+    "https://youtu.be/V9Tj0GjsG2I?si=fi303tNdgziDGS89",
+    "https://youtu.be/zw0Y88qmlns?si=_BgAaAB6mmI0tEB-",
+    "https://youtu.be/Brqc3jMuh0w?si=GkVqVWWRRUS7FZlV",
+    "https://youtu.be/kPoyF7qxgBU?si=dL7Qr8ucC_R0NQSz",
+    "https://youtu.be/3oUPE1mNUoM?si=5M7D9HgoU-q0yHzW",
+    "https://youtu.be/4Hgz1b3i6VE?si=aTKTU9uQgzKJFKzG",
+    "https://youtu.be/TFP7iXysQdY?si=9sS5a09YA4vqtub6",
+    "https://youtu.be/AXIGN6uR_CI?si=qAuLGhJ_4azyzIXy",
+    "https://youtu.be/yGP2Z1p9_eQ?si=j61iqqaKTOvfnZ67",
 ]
+#
 rows = []
 
 for url in urls:
