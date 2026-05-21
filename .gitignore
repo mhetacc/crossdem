@@ -1,2 +1,5 @@
 datasets/vdem
 datasets/degasperi/xml
+datasets/meloni/*
+!datasets/meloni/speech2text.py
+!datasets/meloni/meloni_speech2text.csv
