@@ -1,0 +1,66 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: atcs_miniproject.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: report.bib
+Warning--I'm ignoring payne_describing_1997's extra "doi" field
+--line 943 of file report.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty address in beard_language_2000
+Warning--no number and no volume in herre_democracy_2025
+Warning--page numbers missing in both pages and numpages fields in herre_democracy_2025
+Warning--no number and no volume in herre_varieties_2025
+Warning--page numbers missing in both pages and numpages fields in herre_varieties_2025
+Warning--empty address in holtus_dal_1985
+Warning--empty publisher in koehn_europarl_2005
+Warning--empty address in mohrhoff_dalla_1987
+Warning--empty year in north_french_nodate
+You've used 38 entries,
+            5981 wiz_defined-function locations,
+            1751 strings with 29393 characters,
+and the built_in function-call counts, 41401 in all, are:
+= -- 5462
+> -- 1589
+< -- 0
++ -- 540
+- -- 586
+* -- 3054
+:= -- 4299
+add.period$ -- 204
+call.type$ -- 38
+change.case$ -- 306
+chr.to.int$ -- 37
+cite$ -- 47
+duplicate$ -- 3299
+empty$ -- 2321
+format.name$ -- 662
+if$ -- 9804
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 81
+newline$ -- 506
+num.names$ -- 269
+pop$ -- 1159
+preamble$ -- 1
+purify$ -- 602
+quote$ -- 0
+skip$ -- 1260
+stack$ -- 0
+substring$ -- 2866
+swap$ -- 333
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 883
+warning$ -- 9
+while$ -- 264
+width$ -- 0
+write$ -- 916
+(There were 10 warnings)

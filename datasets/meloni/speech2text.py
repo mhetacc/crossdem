@@ -10,7 +10,7 @@ BASE_DIR = Path(__file__).resolve().parent
 
 # ─── Config ───────────────────────────────────────────────────────────────────
 politician  = "meloni"
-model_name  = "tiny"            # TODO after testing phase put base or small or medium
+model_name  = "medium"            # TODO after testing phase put base or small or medium
 lang_code   = "Italian"
 # Use BASE_DIR to join paths
 #audio_file  = str(BASE_DIR / "audio.mp3")
@@ -200,11 +200,11 @@ urls = [
     "https://youtu.be/OSMZN_ldJww?si=sIQbqvbVBqOrBHLJ"
 ]
 
-urls = [
-    "https://youtu.be/iOFR7Ae9cHU?si=0jxlIq30L1GWEz6v", 
-    "https://youtu.be/i4Dyv8CQ7VA?si=dmvMAn8kQ7L65bjC",
-    "https://youtu.be/F4-PR5iJv0E?si=xOoatF-_4Kz6rOAc",
-]
+#urls = [
+#    "https://youtu.be/iOFR7Ae9cHU?si=0jxlIq30L1GWEz6v", 
+#    "https://youtu.be/i4Dyv8CQ7VA?si=dmvMAn8kQ7L65bjC",
+#    "https://youtu.be/F4-PR5iJv0E?si=xOoatF-_4Kz6rOAc",
+#]
 #
 rows = []
 

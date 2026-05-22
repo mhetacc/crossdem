@@ -1,0 +1,47 @@
+\section{Model Fine-Tuning}
+
+Classification tasks can be performed, broadly speaking, in two ways: the first leverages common machine learning and statistical tools, such as logistic regression; the second approach uses Transformer models (commonly referred to today as "AI"). A traditional approach might involve using TF-IDF and logistic regression with the Scikit-Learn library (example code at \ref{code:sklearn_example}). 
+
+\begin{lstlisting}[language={Python},label={code:sklearn_example}, caption={Scikit-Learn Logistic Regression for classification task}]
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.linear_model import LogisticRegression
+from sklearn.pipeline import Pipeline
+
+X_train, X_test, y_train, y_test = train_test_split(df['text'], df['label'], test_size=0.2)
+
+text_clf = Pipeline([
+    ('tfidf', TfidfVectorizer(stop_words='english', ngram_range=(1, 2))),
+    ('clf', LogisticRegression())
+])
+\end{lstlisting}
+
+On the other hand, Transformers are far superior in terms of accuracy for textual analysis, although they are much more resource-demanding. An example would be using Hugging Face's \texttt{transformers} library to fine-tune a pre-trained model (example code at \ref{code:transformers_example}).
+
+\begin{lstlisting}[language={Python},label={code:transformers_example}, caption={Hugging Face Trainer for fine-tuning}]
+from transformers import AutoModelForSequenceClassification, AutoTokenizer, Trainer, TrainingArguments
+
+trainer = Trainer(
+    model=AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=2),
+    args=training_args,
+    train_dataset=tokenized_datasets["train"],
+    eval_dataset=tokenized_datasets["test"],
+)
+
+trainer.train()
+\end{lstlisting}
+
+Regarding the literature on the subject, Card et al. \cite{card_computational_2022} fine-tuned a pre-trained RoBERTa model on congressional speeches in a self-supervised fashion and then further fine-tuned it as a classifier using annotated examples. They achieved 65\% accuracy in classifying Congressional Record entries as being pro-immigration, anti-immigration, or neutral.
+
+Albladi et al. \cite{albladi_sentiment_2025} surveyed the field of NLP sentiment analysis and found that RoBERTa consistently outperforms other methods in multi-classification tasks. Their results revealed a clear correlation between dataset size and improved model performance, with larger datasets significantly increasing both accuracy and F1 scores across all models. For example, GPT-3.5 reached accuracies of 0.9694, 0.9784, 0.9797, and 0.9875 for various dataset sizes (e.g., 500, 1000, and 2500). However, LLaMA-2 13B emerged as the most balanced option for NLP tasks, striking an optimal balance between computational efficiency, performance, and adaptability. This model can be fine-tuned on freely available GPUs, such as the T4 on Google Colab, using techniques like QLoRA, which makes it an attractive choice for researchers and developers.
+
+Li et al. \cite{li_label_2023} found that LS-LLaMA substantially outperforms LLMs ten times its size in text classification tasks and demonstrates consistent improvements compared to robust baselines like BERT-Large and RoBERTa-Large.
+
+Considering all of this, it would be interesting to fine-tune a Mistral 7B model, which is claimed to perform better than LLaMA 7B and LLaMA 13B across all benchmarks (Figure \ref{fig:mistral7bLlama}).
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=.7\linewidth]{images/mistral7bLlama.png}
+  \caption{Mistral 7B consistently outperforms LLaMA on all tasks. Source: Mistral.}
+  \Description{Mistral is shown outperforming LLaMA across the board.}
+  \label{fig:mistral7bLlama}
+\end{figure}

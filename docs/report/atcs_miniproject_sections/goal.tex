@@ -1,0 +1,27 @@
+\section{Project Goal}
+
+Let's now define the project's goal.
+
+I want to compare politicians' speeches among three countries, namely Italy, France and the United States, between 1945 and 2025, and then cross-compare the resulting analyses with democracy level indicators taken from the V-Dem dataset\footnote{The V-Dem Dataset is a multidimensional and disaggregated dataset that reflects the complexity of the concept of democracy as a system of rule that goes beyond the simple presence of elections: \url{https://www.v-dem.net/data/the-v-dem-dataset/}.} and fine-tune an LLM to better interpret political speech and classify populism and hate speech.
+
+\subsection{Comparing Italy, France and the U.S.}
+
+Italy was a natural choice being the country I was born and raised in, therefore the one I am most knowledgeable about, but more than that, it has always been a fascinating research case study, being often referred to as an "anomaly" or, by authors such as Marc Lazar, as a kind of \textit{laboratory} of a general change of European democracies. Since the 1990s, the state of Italian democracy has raised numerous questions, stimulating the curiosity of the international media, causing heated debates, providing material for seminars and conferences, and engendering academic and journalistic publications by Italians and foreigners alike. Lazar's opinion is that Italy is "at the same time an indicator of a more general democratic malaise and of the multiple attempts of invention of a new democratic order that are emerging all over the European Union". Similar phenomena affect, in their own ways, other European democracies, making it a meaningful case study \cite{lazar_testing_2013}.
+
+Italian, French, and American histories intersected often during the past century: being at times allies, at times enemies during the Second World War, in the ensuing Cold War the United States encountered unexpected challenges from the Italian and French Communist Parties, the two strongest and most anti-American in Western Europe. Brogi \cite{brogi_confronting_2011} argues that the resistance to Americanization was necessary to legitimize the French and Italian Communist Parties' own existence.
+
+Moreover, each country illustrates a different approach to democratic governance. They use three different executive models: the U.S. opted for a full presidential, where the President holds all power, France uses a semi-presidential system where power is split between the President and the Prime Minister, and Italy a Parliamentary one where the Prime Minister holds the power but depends on the Parliament.
+The party system is also different, since France and Italy have multi-party systems while the U.S. is strongly bipartisan, being divided between Democrats and Republicans.
+Lastly, the state system employed is also quite different: France's state is unitary and vertical, while Italy's regions hold strong power and independence. The U.S., on the other hand, is a Federation.
+
+\subsection{Roadmap}
+
+\textbf{The first step} is building a corpus of politicians' speeches, one corpus for Italian speeches, one for French speeches and one for American speeches. To limit the scope, I decided to take only speeches from Italian Prime Ministers, U.S. Presidents, and either French Presidents when the President and the Prime Minister come from the same party, or French Prime Ministers when the President and Prime Minister are in opposition to each other. This is justified by the fact that when they are politically aligned, the President dominates. During cohabitation (opposing political camps), the Prime Minister gains real policy autonomy \cite{north_french_nodate}.
+
+Speeches can be taken from different sources, such as official speeches, interviews, or social network posts, and can be in different media formats, such as textual, audio or video. For the latter two, a translating tool will be needed (such as a speech-to-text library).
+
+\textbf{The second step} is using the corpus to perform linguistic analyses. The corpus can be subjected to data augmentation\footnote{In its most general sense, data augmentation denotes methods for supplementing so-called incomplete datasets by providing missing data points in order to increase the dataset’s analyzability \cite{kavlakoglu_what_2024}.}, since we can expect the density of speeches to decrease as we go back in time. Then, the corpus will be pre-processed, with procedures such as tokenization, stemming and lemmatization. We can then compute word frequency and text complexity measures, as well as hate speech and populism identification.
+
+\textbf{The third step} is cross-referencing the linguistic metrics with democratic indicators such as freedom of expression, freedom of association, transparency and fairness of law and other such metrics. All democracy metrics can be found in the V-Dem dataset.
+
+\textbf{The fourth step} is to fine-tune a pre-trained transformer model, for example Mistral 7B\footnote{Mistral 7B the most powerful language model for its size to date: \url{https://mistral.ai/news/announcing-mistral-7b}.}, to make it better understand political speeches in three different languages, and to train it in a classification task for hate speech and populism recognition.
