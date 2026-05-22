@@ -200,13 +200,49 @@ urls = [
     "https://youtu.be/OSMZN_ldJww?si=sIQbqvbVBqOrBHLJ"
 ]
 
-#urls = [
-#    "https://youtu.be/iOFR7Ae9cHU?si=0jxlIq30L1GWEz6v", 
-#    "https://youtu.be/i4Dyv8CQ7VA?si=dmvMAn8kQ7L65bjC",
-#    "https://youtu.be/F4-PR5iJv0E?si=xOoatF-_4Kz6rOAc",
-#]
-#
+urls = [
+    "https://youtu.be/2Mfvzoy11K4?si=5IuLQdtlWMp2J-Iu",
+    "https://youtu.be/XzSl714f39I?si=2YLHKeTIYfpSx04k",
+    "https://youtu.be/swgcqGD642U?si=df_sTYMHgnVCNjVx",
+    "https://youtu.be/fBgGSF2Fq4g?si=VYUXE52JbAyV34KU",
+    "https://youtu.be/V3N1ZCarPGI?si=jZ2KegGpNiFlpPWm",
+    "https://youtu.be/VRLtvz8IDEc?si=Ax2zjkTTAYBvuOfv",
+    "https://youtu.be/sQYKu-JcD_c?si=fFdnVYtnY6OHopjT",
+    "https://youtu.be/b8hmiUt9YYQ?si=-0D1RGvAw49eRssi",
+    "https://youtu.be/FpYtQrQeZPk?si=cHRPeIPtg3ulYIj9",
+    "https://youtu.be/Jqna2Io0xzY?si=IT5MJT4mvQAFUKxf",
+    "https://youtu.be/DtePssuz2j8?si=AiwxIkXZssGGrN2N",
+    "https://youtu.be/vgln19zUtZk?si=5H1xiTodCrhwAqnL",
+    "https://youtu.be/nvPC5cR-QAU?si=9MoRYktODePZJLj6",
+    "https://youtu.be/3_C4ZNAjGAw?si=yhQ2bMKQfIHO-050",
+    "https://youtu.be/0n1Es4IqJ7M?si=efeaXMDLzIz_DAzj",
+    "https://youtu.be/HuI1CNvBEp8?si=9LoPvWPofNPu9-LF",
+    "https://youtu.be/imvDL8rNLZg?si=R_Nkqhc8TEDbwykb",
+    "https://youtu.be/lgsLDA3vwvQ?si=i-tzCstTrfwXn00t",
+    "https://youtu.be/L_oqg8GNmyA?si=fUednrgWg8UmwUcQ",
+    "https://youtu.be/mzoMWe0akMI?si=zMbjgoHYMiXxd6jX",
+    "https://youtu.be/kyfQKqv8Frc?si=rFOSJIlBy8OpdbRy",
+    "https://youtu.be/GOx5k7gdH6M?si=YRAUv9e5qlXoP5W4",
+    "https://youtu.be/KmYVoawOVbU?si=svqGrT0c8oy6P4E-",
+    "https://youtu.be/BLQ1rjDCgpE?si=sUSk94QuAzoyfIjb",
+    "https://youtu.be/Wh97m1eNp88?si=ZJkjkeMEpcWs_jYV",
+    "https://youtu.be/81ydpm2Ygzg?si=Ugt2oKUBZveq--RZ",
+    "https://youtu.be/tl3XnAr_8Io?si=eP-xKrrACq8QYrdZ",
+    "https://youtu.be/BOK3ay68DPs?si=c8rn83GYDr4xVLbF",
+    "https://youtu.be/VZUZ74XMKH0?si=cvJDiASh5baj0_EA",
+    "https://youtu.be/saf_05yblDQ?si=dVjS5jmEsicWM4JD",
+    "https://youtu.be/FDy7fCsqbNs?si=1Zrl4cAKGLHSgM9q",
+    "https://youtu.be/huFE_0ZdeNM?si=1R3k5j6TVs4FCopn",
+    "https://youtu.be/Hxdq4eIW8WM?si=HwAxNN7zgZDvB7ut",
+    "https://youtu.be/k3A4GnyqgZs?si=vSq_aUWDRVwkV9Dq",
+    "https://youtu.be/kK3D1iJedgM?si=2IvWElX1Xt_tAq2v",
+    "https://youtu.be/OSMZN_ldJww?si=sIQbqvbVBqOrBHLJ"
+]
+
 rows = []
 
 for url in urls:
     process_video(url)
+
+
+# first try: loaded from start to 2Mfvzoy11K4?si=5IuLQdtlWMp2J-Iu (excluded)

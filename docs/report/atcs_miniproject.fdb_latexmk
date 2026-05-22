@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex atcs_miniproject"] 1779450989.79148 "atcs_miniproject.aux" "atcs_miniproject.bbl" "atcs_miniproject" 1779451047.5908 0
+["bibtex atcs_miniproject"] 1779454279.39151 "atcs_miniproject.aux" "atcs_miniproject.bbl" "atcs_miniproject" 1779454282.16281 0
   "./report.bib" 1777625187.99308 89221 1a41a121491813221e44cdef39bee65a ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/acmart/ACM-Reference-Format.bst" 1653856601 90333 ccee583820c555b8fd3c6d1b9f362b14 ""
-  "atcs_miniproject.aux" 1779451047.30776 8997 8b61b00dead42bb98a059b32b55c2613 "pdflatex"
+  "atcs_miniproject.aux" 1779454281.94817 8677 389d95dbddd6b9af5c6270afa1083a18 "pdflatex"
   (generated)
   "atcs_miniproject.bbl"
   "atcs_miniproject.blg"
   (rewritten before read)
-["pdflatex"] 1779451044.30785 "/home/mhetac/Documents/GitHub/crossdem/docs/report/atcs_miniproject.tex" "atcs_miniproject.pdf" "atcs_miniproject" 1779451047.59094 0
+["pdflatex"] 1779454279.44685 "/home/mhetac/Documents/GitHub/crossdem/docs/report/atcs_miniproject.tex" "atcs_miniproject.pdf" "atcs_miniproject" 1779454282.16294 0
   "/home/mhetac/Documents/GitHub/crossdem/docs/report/atcs_miniproject.tex" 1779448703.33064 7891 b575f7b159e2acd7c0d1143fbb3f5372 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-4.enc" 1558214095 7693 0f2dce6d313c82989ec3a67fc24df2a0 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/inconsolata/i4-ts1.enc" 1455745497 9446 fe5580ca6042a44427f18d450942e7d0 ""
@@ -217,18 +217,18 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1775001600 40900 887e0dc8cac988a9e9c574af364cf837 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1775825595.13604 4547210 0b4d8bce3d83ee4f50b88a57a6a0d7ef ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1775825282 7759954 2e905753369464014d5d6615f296b3d8 ""
-  "atcs_miniproject.aux" 1779451047.30776 8997 8b61b00dead42bb98a059b32b55c2613 "pdflatex"
-  "atcs_miniproject.bbl" 1779450989.85639 25164 490ecb2b5936aabb78fd37ce9e9afa25 "bibtex atcs_miniproject"
-  "atcs_miniproject.out" 1779451047.30776 2439 60b178d8984653b89d2a03ed6fe1db40 "pdflatex"
+  "atcs_miniproject.aux" 1779454281.94817 8677 389d95dbddd6b9af5c6270afa1083a18 "pdflatex"
+  "atcs_miniproject.bbl" 1779454279.44349 24144 57f5d9589c6acf2411697561c4d74750 "bibtex atcs_miniproject"
+  "atcs_miniproject.out" 1779454281.9482 2163 63b6af46ec2ae61295e3a3e34d824a2e "pdflatex"
   "atcs_miniproject.tex" 1779448703.33064 7891 b575f7b159e2acd7c0d1143fbb3f5372 ""
   "atcs_miniproject_sections/corpora.tex" 1779448652.41447 13012 76056597f809caf64b41713dd9c4dd7e ""
   "atcs_miniproject_sections/democracy.tex" 1779448652.41581 6630 583dce49f3bf367f02928dd287043272 ""
   "atcs_miniproject_sections/feasability.tex" 1779448652.41747 678 362c8976f10dd4a1810a14740f9671d7 ""
   "atcs_miniproject_sections/finetuning.tex" 1779448652.41947 3707 bb6822e3eff7d4a2043fc9002a85e433 ""
-  "atcs_miniproject_sections/goal.tex" 1779448652.42038 5267 16c41718f026e6ed36bfd8fdb41ebaeb ""
+  "atcs_miniproject_sections/goal.tex" 1779454276.37572 2835 2a8cac3eecc0f72ec80e6d04d5d91779 ""
   "atcs_miniproject_sections/introduction.tex" 1779448652.4207 2567 17314195abf44aa97fabbbcdd99f849c ""
   "atcs_miniproject_sections/langanalysis.tex" 1779448652.42147 6326 43e071e518ec7e7d493a5428fc420bac ""
-  "atcs_miniproject_sections/socialnetworks.tex" 1779451044.10902 2897 68df0edb00c74d040c0d9f44dbacb542 ""
+  "atcs_miniproject_sections/socialnetworks.tex" 1779453392.9097 2869 45a4454ae0994c0a89061ffc8bee7580 ""
   "images/augmentation.png" 1777395883.7508 264958 44001cbf0c6ed0b2fe72db235aba5a47 ""
   "images/backtranslation.png" 1777395883.78405 131294 85883f07a0ea47f986b0e75fc0244135 ""
   "images/italian_prime_ministers.jpg" 1777553047.63504 327085 74fd71912e6cfecfccef169bcce563f1 ""
