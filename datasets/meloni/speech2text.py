@@ -238,9 +238,7 @@ urls = [
     "https://youtu.be/OSMZN_ldJww?si=sIQbqvbVBqOrBHLJ"
 ]
 
-rows = [
-    "https://youtu.be/BLQ1rjDCgpE?si=sUSk94QuAzoyfIjb",
-    "https://youtu.be/Wh97m1eNp88?si=ZJkjkeMEpcWs_jYV",
+urls = [
     "https://youtu.be/81ydpm2Ygzg?si=Ugt2oKUBZveq--RZ",
     "https://youtu.be/tl3XnAr_8Io?si=eP-xKrrACq8QYrdZ",
     "https://youtu.be/BOK3ay68DPs?si=c8rn83GYDr4xVLbF",
@@ -253,23 +251,6 @@ rows = [
     "https://youtu.be/kK3D1iJedgM?si=2IvWElX1Xt_tAq2v",
     "https://youtu.be/OSMZN_ldJww?si=sIQbqvbVBqOrBHLJ"
 ]
-
-rows = [
-    "https://youtu.be/81ydpm2Ygzg?si=Ugt2oKUBZveq--RZ",
-    "https://youtu.be/tl3XnAr_8Io?si=eP-xKrrACq8QYrdZ",
-    "https://youtu.be/BOK3ay68DPs?si=c8rn83GYDr4xVLbF",
-    "https://youtu.be/VZUZ74XMKH0?si=cvJDiASh5baj0_EA",
-    "https://youtu.be/saf_05yblDQ?si=dVjS5jmEsicWM4JD",
-    "https://youtu.be/FDy7fCsqbNs?si=1Zrl4cAKGLHSgM9q",
-    "https://youtu.be/huFE_0ZdeNM?si=1R3k5j6TVs4FCopn",
-    "https://youtu.be/Hxdq4eIW8WM?si=HwAxNN7zgZDvB7ut",
-    "https://youtu.be/k3A4GnyqgZs?si=vSq_aUWDRVwkV9Dq",
-    "https://youtu.be/kK3D1iJedgM?si=2IvWElX1Xt_tAq2v",
-    "https://youtu.be/OSMZN_ldJww?si=sIQbqvbVBqOrBHLJ"
-]
-
-
-rows = []
 
 for url in urls:
     process_video(url)
