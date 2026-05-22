@@ -2,18 +2,11 @@
 
 Let's now define the goal of the mini-project.
 
-I want to compare the rhetoric between the first and the current\footnote{At the moment of writing: May 2026.} Italian Prime Ministers, namely Alcide De Gasperi and Giorgia Meloni. I also want to produce a proof-of-concept for a speech-to-text pipeline that, given a set of URLs, each of which a Youtube's permalink, transcribe the video into tex. 
+I want to compare the rhetoric between the first and the current\footnote{At the moment of writing: May 2026.} Italian Prime Minister, namely Alcide De Gasperi and Giorgia Meloni. 
+The rhetoric will be compared using natural language processing techniques, such as measuring textual complexity and hate speech classification. Only public speeches will be taken, thus leaving out all parliamentary speeches.
 
-The rhetoric will be compared via NLP tools and pipelines, such as measuring textual complexity and classy populism or hate speech. 
+I also want to produce a proof-of-concept for a speech-to-text pipeline that, given a set of URLs, each of which a Youtube's permalink, transcribe the video into text. 
 
-\subsection{Roadmap}
+The first step will be gathering two corpora of public speeches, one for each PM. In the case of Giorgia Meloni, I want to compile the corpus by transcribing video interviews and public talks available on her official Youtube channel.
 
-\textbf{The first step} is building a corpus of politicians' speeches, one corpus for Italian speeches, one for French speeches and one for American speeches. To limit the scope, I decided to take only speeches from Italian Prime Ministers, U.S. Presidents, and either French Presidents when the President and the Prime Minister come from the same party, or French Prime Ministers when the President and Prime Minister are in opposition to each other. This is justified by the fact that when they are politically aligned, the President dominates. During cohabitation (opposing political camps), the Prime Minister gains real policy autonomy \cite{north_french_nodate}.
-
-Speeches can be taken from different sources, such as official speeches, interviews, or social network posts, and can be in different media formats, such as textual, audio or video. For the latter two, a translating tool will be needed (such as a speech-to-text library).
-
-\textbf{The second step} is using the corpus to perform linguistic analyses. The corpus can be subjected to data augmentation\footnote{In its most general sense, data augmentation denotes methods for supplementing so-called incomplete datasets by providing missing data points in order to increase the dataset’s analyzability \cite{kavlakoglu_what_2024}.}, since we can expect the density of speeches to decrease as we go back in time. Then, the corpus will be pre-processed, with procedures such as tokenization, stemming and lemmatization. We can then compute word frequency and text complexity measures, as well as hate speech and populism identification.
-
-\textbf{The third step} is cross-referencing the linguistic metrics with democratic indicators such as freedom of expression, freedom of association, transparency and fairness of law and other such metrics. All democracy metrics can be found in the V-Dem dataset.
-
-\textbf{The fourth step} is to fine-tune a pre-trained transformer model, for example Mistral 7B\footnote{Mistral 7B the most powerful language model for its size to date: \url{https://mistral.ai/news/announcing-mistral-7b}.}, to make it better understand political speeches in three different languages, and to train it in a classification task for hate speech and populism recognition.
+Then, after having gathered the corpora into suitable machine-readable data (such as csv), I will pre-process them with procedures such as tokenization, stemming and lemmatization. Lastly, I will compute word frequency and text complexity measures, as well as hate speech classification and sentiment analysis.

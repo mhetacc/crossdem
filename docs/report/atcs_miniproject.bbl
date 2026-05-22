@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{36}
+\begin{thebibliography}{25}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -101,18 +101,6 @@
 \showDOI{\tempurl}
 
 
-\bibitem[Caballar(2023)]%
-        {caballar_what_2023}
-\bibfield{author}{\bibinfo{person}{Rina~Diane Caballar}.} \bibinfo{year}{2023}\natexlab{}.
-\newblock \bibinfo{title}{What {Is} {Synthetic} {Data}? {\textbar} {IBM}}.
-\newblock
-\newblock
-\urldef\tempurl%
-\url{https://www.ibm.com/think/topics/synthetic-data}
-\showURL{%
-\tempurl}
-
-
 \bibitem[Card et~al\mbox{.}(2022)]%
         {card_computational_2022}
 \bibfield{author}{\bibinfo{person}{Dallas Card}, \bibinfo{person}{Serina Chang}, \bibinfo{person}{Chris Becker}, \bibinfo{person}{Julia Mendelsohn}, \bibinfo{person}{Rob Voigt}, \bibinfo{person}{Leah Boustan}, \bibinfo{person}{Ran Abramitzky}, {and} \bibinfo{person}{Dan Jurafsky}.} \bibinfo{year}{2022}\natexlab{}.
@@ -160,53 +148,6 @@
 \showDOI{\tempurl}
 
 
-\bibitem[Cominetti et~al\mbox{.}(2024)]%
-        {cominetti_impaqts_2024}
-\bibfield{author}{\bibinfo{person}{Federica Cominetti}, \bibinfo{person}{Lorenzo Gregori}, \bibinfo{person}{Edoardo Lombardi~Vallauri}, {and} \bibinfo{person}{Alessandro Panunzi}.} \bibinfo{year}{2024}\natexlab{}.
-\newblock \showarticletitle{{IMPAQTS}: a multimodal corpus of parliamentary and other political speeches in {Italy} (1946-2023), annotated with implicit strategies}. In \bibinfo{booktitle}{\emph{Proceedings of the {IV} {Workshop} on {Creating}, {Analysing}, and {Increasing} {Accessibility} of {Parliamentary} {Corpora} ({ParlaCLARIN}) @ {LREC}-{COLING} 2024}}, \bibfield{editor}{\bibinfo{person}{Darja Fiser}, \bibinfo{person}{Maria Eskevich}, {and} \bibinfo{person}{David Bordon}} (Eds.). \bibinfo{publisher}{ELRA and ICCL}, \bibinfo{address}{Torino, Italia}, \bibinfo{pages}{101--109}.
-\newblock
-\urldef\tempurl%
-\url{https://aclanthology.org/2024.parlaclarin-1.15/}
-\showURL{%
-\tempurl}
-
-
-\bibitem[Cova(2025)]%
-        {cova_new_2025}
-\bibfield{author}{\bibinfo{person}{Joshua Cova}.} \bibinfo{year}{2025}\natexlab{}.
-\newblock \showarticletitle{A new database for {Italian} parliamentary speeches: introducing the \textit{{ItaParlCorpus}} dataset}.
-\newblock \bibinfo{journal}{\emph{Italian Political Science Review/Rivista Italiana di Scienza Politica}} \bibinfo{volume}{55}, \bibinfo{number}{1} (\bibinfo{date}{March} \bibinfo{year}{2025}), \bibinfo{pages}{77--86}.
-\newblock
-\showISSN{0048-8402, 2057-4908}
-\urldef\tempurl%
-\url{https://doi.org/10.1017/ipo.2025.6}
-\showDOI{\tempurl}
-
-
-\bibitem[Erjavec et~al\mbox{.}(2025)]%
-        {erjavec_parlamint_2025}
-\bibfield{author}{\bibinfo{person}{Tomaž Erjavec}, \bibinfo{person}{Matyáš Kopp}, \bibinfo{person}{Nikola Ljubešić}, \bibinfo{person}{Taja Kuzman}, \bibinfo{person}{Paul Rayson}, \bibinfo{person}{Petya Osenova}, \bibinfo{person}{Maciej Ogrodniczuk}, \bibinfo{person}{Çağrı Çöltekin}, \bibinfo{person}{Danijel Koržinek}, \bibinfo{person}{Katja Meden}, \bibinfo{person}{Jure Skubic}, \bibinfo{person}{Peter Rupnik}, \bibinfo{person}{Tommaso Agnoloni}, \bibinfo{person}{José Aires}, \bibinfo{person}{Starkaður Barkarson}, \bibinfo{person}{Roberto Bartolini}, \bibinfo{person}{Núria Bel}, \bibinfo{person}{María Calzada~Pérez}, \bibinfo{person}{Roberts Darģis}, \bibinfo{person}{Sascha Diwersy}, \bibinfo{person}{Maria Gavriilidou}, \bibinfo{person}{Ruben van Heusden}, \bibinfo{person}{Mikel Iruskieta}, \bibinfo{person}{Neeme Kahusk}, \bibinfo{person}{Anna Kryvenko}, \bibinfo{person}{Noémi Ligeti-Nagy}, \bibinfo{person}{Carmen Magariños}, \bibinfo{person}{Martin Mölder}, \bibinfo{person}{Costanza Navarretta}, \bibinfo{person}{Kiril Simov}, \bibinfo{person}{Lars~Magne Tungland}, \bibinfo{person}{Jouni Tuominen}, \bibinfo{person}{John Vidler}, \bibinfo{person}{Adina~Ioana Vladu}, \bibinfo{person}{Tanja Wissik}, \bibinfo{person}{Väinö Yrjänäinen}, {and} \bibinfo{person}{Darja Fišer}.} \bibinfo{year}{2025}\natexlab{}.
-\newblock \showarticletitle{{ParlaMint} {II}: advancing comparable parliamentary corpora across {Europe}}.
-\newblock \bibinfo{journal}{\emph{Language Resources and Evaluation}} \bibinfo{volume}{59}, \bibinfo{number}{3} (\bibinfo{date}{Sept.} \bibinfo{year}{2025}), \bibinfo{pages}{2071--2102}.
-\newblock
-\showISSN{1574-0218}
-\urldef\tempurl%
-\url{https://doi.org/10.1007/s10579-024-09798-w}
-\showDOI{\tempurl}
-
-
-\bibitem[Erjavec et~al\mbox{.}(2023)]%
-        {erjavec_parlamint_2023}
-\bibfield{author}{\bibinfo{person}{Tomaž Erjavec}, \bibinfo{person}{Maciej Ogrodniczuk}, \bibinfo{person}{Petya Osenova}, \bibinfo{person}{Nikola Ljubešić}, \bibinfo{person}{Kiril Simov}, \bibinfo{person}{Andrej Pančur}, \bibinfo{person}{Michał Rudolf}, \bibinfo{person}{Matyáš Kopp}, \bibinfo{person}{Starkaður Barkarson}, \bibinfo{person}{Steinþór Steingrímsson}, \bibinfo{person}{Çağrı Çöltekin}, \bibinfo{person}{Jesse de Does}, \bibinfo{person}{Katrien Depuydt}, \bibinfo{person}{Tommaso Agnoloni}, \bibinfo{person}{Giulia Venturi}, \bibinfo{person}{María~Calzada Pérez}, \bibinfo{person}{Luciana~D. de Macedo}, \bibinfo{person}{Costanza Navarretta}, \bibinfo{person}{Giancarlo Luxardo}, \bibinfo{person}{Matthew Coole}, \bibinfo{person}{Paul Rayson}, \bibinfo{person}{Vaidas Morkevičius}, \bibinfo{person}{Tomas Krilavičius}, \bibinfo{person}{Roberts Darǵis}, \bibinfo{person}{Orsolya Ring}, \bibinfo{person}{Ruben van Heusden}, \bibinfo{person}{Maarten Marx}, {and} \bibinfo{person}{Darja Fišer}.} \bibinfo{year}{2023}\natexlab{}.
-\newblock \showarticletitle{The {ParlaMint} corpora of parliamentary proceedings}.
-\newblock \bibinfo{journal}{\emph{Language Resources and Evaluation}} \bibinfo{volume}{57}, \bibinfo{number}{1} (\bibinfo{date}{March} \bibinfo{year}{2023}), \bibinfo{pages}{415--448}.
-\newblock
-\showISSN{1574-0218}
-\urldef\tempurl%
-\url{https://doi.org/10.1007/s10579-021-09574-0}
-\showDOI{\tempurl}
-
-
 \bibitem[Eurobarometer(2023)]%
         {eurobarometer_media_2023}
 \bibfield{author}{\bibinfo{person}{Eurobarometer}.} \bibinfo{year}{2023}\natexlab{}.
@@ -217,18 +158,6 @@
 \urldef\tempurl%
 \url{https://doi.org/10.2861/11595}
 \showDOI{\tempurl}
-
-
-\bibitem[Giuliano(2019)]%
-        {giuliano_il_2019}
-\bibfield{author}{\bibinfo{person}{Luca Giuliano}.} \bibinfo{year}{2019}\natexlab{}.
-\newblock \bibinfo{title}{Il corpus {LP}}.
-\newblock
-\newblock
-\urldef\tempurl%
-\url{https://www.paroladileader.com/p/blog-page.html}
-\showURL{%
-\tempurl}
 
 
 \bibitem[Herre(2025a)]%
@@ -268,41 +197,6 @@
 \tempurl}
 \newblock
 \shownote{Google-Books-ID: NfwlAAAAMAAJ}.
-
-
-\bibitem[info@gdpr advisor.com(2025)]%
-        {infogdpr-advisorcom_gdpr_2025}
-\bibfield{author}{\bibinfo{person}{info@gdpr advisor.com}.} \bibinfo{year}{2025}\natexlab{}.
-\newblock \bibinfo{title}{{GDPR} and {Synthetic} {Data}: {Balancing} {Privacy} and {AI} {Model} {Training}}.
-\newblock
-\newblock
-\urldef\tempurl%
-\url{https://www.gdpr-advisor.com/gdpr-and-synthetic-data-balancing-privacy-and-ai-model-training/}
-\showURL{%
-\tempurl}
-
-
-\bibitem[Kavlakoglu(2024)]%
-        {kavlakoglu_what_2024}
-\bibfield{author}{\bibinfo{person}{Jacob Murel Ph~D. Kavlakoglu, Eda}.} \bibinfo{year}{2024}\natexlab{}.
-\newblock \bibinfo{title}{What is data augmentation? {\textbar} {IBM}}.
-\newblock
-\newblock
-\urldef\tempurl%
-\url{https://www.ibm.com/think/topics/data-augmentation}
-\showURL{%
-\tempurl}
-
-
-\bibitem[Koehn(2005)]%
-        {koehn_europarl_2005}
-\bibfield{author}{\bibinfo{person}{Philipp Koehn}.} \bibinfo{year}{2005}\natexlab{}.
-\newblock \showarticletitle{Europarl: {A} {Parallel} {Corpus} for {Statistical} {Machine} {Translation}}. In \bibinfo{booktitle}{\emph{Proceedings of {Machine} {Translation} {Summit} {X}: {Papers}}}. \bibinfo{address}{Phuket, Thailand}, \bibinfo{pages}{79--86}.
-\newblock
-\urldef\tempurl%
-\url{https://aclanthology.org/2005.mtsummit-papers.11/}
-\showURL{%
-\tempurl}
 
 
 \bibitem[Li et~al\mbox{.}(2023)]%
@@ -366,18 +260,6 @@
 \tempurl}
 
 
-\bibitem[North({[n.\,d.]})]%
-        {north_french_nodate}
-\bibfield{author}{\bibinfo{person}{North}.} \bibinfo{year}{[n.\,d.]}\natexlab{}.
-\newblock \bibinfo{title}{French {President} vs {Prime} {Minister}: {Who} {Has} {More} {Power}? (2026)}.
-\newblock
-\newblock
-\urldef\tempurl%
-\url{https://politicahub.com/compare/french-president-vs-french-prime-minister}
-\showURL{%
-\tempurl}
-
-
 \bibitem[Page and Shapiro(1984)]%
         {page_presidents_1984}
 \bibfield{author}{\bibinfo{person}{Benjamin~I. Page} {and} \bibinfo{person}{Robert~Y. Shapiro}.} \bibinfo{year}{1984}\natexlab{}.
@@ -388,19 +270,6 @@
 \urldef\tempurl%
 \url{https://doi.org/10.1111/j.1541-0072.1984.tb00480.x}
 \showDOI{\tempurl}
-
-
-\bibitem[Payne(1997)]%
-        {payne_describing_1997}
-\bibfield{author}{\bibinfo{person}{Thomas~E. Payne}.} \bibinfo{year}{1997}\natexlab{}.
-\newblock \bibinfo{title}{Describing {Morphosyntax}: {A} {Guide} for {Field} {Linguists}}.
-\newblock
-\newblock
-\urldef\tempurl%
-\url{https://doi.org/10.1017/CBO9780511805066}
-\showDOI{\tempurl}
-\newblock
-\shownote{ISBN: 9780511805066}.
 
 
 \bibitem[Radford et~al\mbox{.}(2022)]%
@@ -414,18 +283,6 @@
 \showDOI{\tempurl}
 \newblock
 \shownote{arXiv:2212.04356 [eess]}.
-
-
-\bibitem[Riemann(2026)]%
-        {riemann_synthetic_2026}
-\bibfield{author}{\bibinfo{person}{Robert Riemann}.} \bibinfo{year}{2026}\natexlab{}.
-\newblock \bibinfo{title}{Synthetic {Data} {\textbar} {European} {Data} {Protection} {Supervisor}}.
-\newblock
-\newblock
-\urldef\tempurl%
-\url{https://www.edps.europa.eu/press-publications/publications/techsonar/synthetic-data}
-\showURL{%
-\tempurl}
 
 
 \bibitem[Rita et~al\mbox{.}(2023)]%
@@ -462,6 +319,18 @@
 \urldef\tempurl%
 \url{https://doi.org/10.1017/psrm.2021.36}
 \showDOI{\tempurl}
+
+
+\bibitem[Tonelli et~al\mbox{.}(2019)]%
+        {tonelli_prendo_2019}
+\bibfield{author}{\bibinfo{person}{Sara Tonelli}, \bibinfo{person}{Rachele Sprugnoli}, {and} \bibinfo{person}{Giovanni Moretti}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Prendo la {Parola} in {Questo} {Consesso} {Mondiale}:}.
+\newblock  (\bibinfo{year}{2019}).
+\newblock
+\urldef\tempurl%
+\url{https://ceur-ws.org/Vol-2481/paper71.pdf}
+\showURL{%
+\tempurl}
 
 
 \bibitem[Vinci(2025)]%

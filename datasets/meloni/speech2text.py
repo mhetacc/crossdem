@@ -27,22 +27,21 @@ def process_video(video_url):
     csv_output  = str(csv_dir / f"{unique_id}_meloni_speech2text.csv")
 
     # 1. Download metadata and audio in a single pass
-    print("Fetching metadata and downloading audio...")
+    print(f"Fetching metadata and downloading audio of video {video_url}...")
 
     # Use --print-json to get metadata without creating a temporary .json file
     # Use -x and --audio-format to handle the extraction internally
     result = subprocess.run([
         "yt-dlp",
         "--print-json",
-        "-x",                             # Extract audio
-        "--audio-format", "mp3",          # Specify format (mp3, m4a, wav, etc.)
-        "--cookies", "yt_cookies.txt",    # manual cookies, extract with browser extension
-        # 2. Rate limiting & Human-like delays
-        "--sleep-requests", "2",      # Sleep 2s between requests
-        "--sleep-interval", "5",      # Sleep 5s between downloads
-        "--max-sleep-interval", "15", # Randomize up to 15s
-        "--limit-rate", "5M",         # Throttle to 5MB/s (mimics streaming)
-        "-o", audio_file.replace('.mp3', ''), # yt-dlp adds the extension automatically
+        "-x",                               # download audio only
+        "--audio-format", "mp3",            
+        "--cookies", "yt_cookies.txt",      # manual cookies, extract with browser extension
+        "--sleep-requests", "2",            # Sleep 2s between requests
+        "--sleep-interval", "5",            # Sleep 5s between downloads
+        "--max-sleep-interval", "15",       # Randomize up to 15s
+        "--limit-rate", "5M",               # Throttle to 5MB/s (mimics streaming)
+        "-o", audio_file.replace('.mp3', ''), 
         video_url
     ], capture_output=True, text=True, check=True)
 
@@ -239,6 +238,23 @@ urls = [
     "https://youtu.be/OSMZN_ldJww?si=sIQbqvbVBqOrBHLJ"
 ]
 
+rows = [
+    "https://youtu.be/BLQ1rjDCgpE?si=sUSk94QuAzoyfIjb",
+    "https://youtu.be/Wh97m1eNp88?si=ZJkjkeMEpcWs_jYV",
+    "https://youtu.be/81ydpm2Ygzg?si=Ugt2oKUBZveq--RZ",
+    "https://youtu.be/tl3XnAr_8Io?si=eP-xKrrACq8QYrdZ",
+    "https://youtu.be/BOK3ay68DPs?si=c8rn83GYDr4xVLbF",
+    "https://youtu.be/VZUZ74XMKH0?si=cvJDiASh5baj0_EA",
+    "https://youtu.be/saf_05yblDQ?si=dVjS5jmEsicWM4JD",
+    "https://youtu.be/FDy7fCsqbNs?si=1Zrl4cAKGLHSgM9q",
+    "https://youtu.be/huFE_0ZdeNM?si=1R3k5j6TVs4FCopn",
+    "https://youtu.be/Hxdq4eIW8WM?si=HwAxNN7zgZDvB7ut",
+    "https://youtu.be/k3A4GnyqgZs?si=vSq_aUWDRVwkV9Dq",
+    "https://youtu.be/kK3D1iJedgM?si=2IvWElX1Xt_tAq2v",
+    "https://youtu.be/OSMZN_ldJww?si=sIQbqvbVBqOrBHLJ"
+]
+
+
 rows = []
 
 for url in urls:
@@ -246,3 +262,5 @@ for url in urls:
 
 
 # first try: loaded from start to 2Mfvzoy11K4?si=5IuLQdtlWMp2J-Iu (excluded)
+# vscode crashed after processing 6P4E
+
