@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.4.10)  22 MAY 2026 17:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.4.10)  25 MAY 2026 17:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -922,76 +922,42 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
  [4.4{/usr/share/texlive/texmf-dist/fonts/enc/dvips/inconsolata/i4-ts1.enc}]) (./atcs_miniproject_sections/langanalysis.tex
-<images/sawicki_languagesPopularity.png, id=186, 642.4pt x 481.8pt>
-File: images/sawicki_languagesPopularity.png Graphic file (type png)
-<use images/sawicki_languagesPopularity.png>
-Package pdftex.def Info: images/sawicki_languagesPopularity.png  used on input line 7.
-(pdftex.def)             Requested size: 301.00192pt x 225.75496pt.
- [5.5 <./images/sawicki_languagesPopularity.png>]) (./atcs_miniproject_sections/democracy.tex
-Underfull \vbox (badness 2351) has occurred while \output is active []
+<images/mtld_comparison.png, id=178, 1445.4pt x 433.62pt>
+File: images/mtld_comparison.png Graphic file (type png)
+<use images/mtld_comparison.png>
+Package pdftex.def Info: images/mtld_comparison.png  used on input line 43.
+(pdftex.def)             Requested size: 430.00462pt x 129.00189pt.
 
- [6.6]
-<images/italian_prime_ministers.jpg, id=246, 859.2903pt x 569.7285pt>
-File: images/italian_prime_ministers.jpg Graphic file (type jpg)
-<use images/italian_prime_ministers.jpg>
-Package pdftex.def Info: images/italian_prime_ministers.jpg  used on input line 19.
-(pdftex.def)             Requested size: 301.00192pt x 199.56444pt.
+
+Class acmart Warning: A possible image without description on input line 46.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Overfull \hbox (8.49184pt too wide) in paragraph at lines 29--30
-\T1/LinuxLibertineT-TLF/m/n/9 (-20) spec-i-fied: \T1/zi4/m/n/9 v2x_polyarchy\T1/LinuxLibertineT-TLF/m/n/9 (-20) , the \T1/LinuxLibertineT-TLF/m/it/9 (-20) elec-toral \T1/LinuxLibertineT-TLF/m/n/9 (-20) democ-racy in-dex (ag-gre-gates \T1/zi4/m/n/9 v2x_elecoff\T1/LinuxLibertineT-TLF/m/n/9 (-20) , \T1/zi4/m/n/9 v2xel_frefair\T1/LinuxLibertineT-TLF/m/n/9 (-20) , \T1/zi4/m/n/9 v2x_frassoc_thick\T1/LinuxLibertineT-TLF/m/n/9 (-20) ,
- []
-
-
-Overfull \hbox (2.41547pt too wide) in paragraph at lines 29--30
-\T1/zi4/m/n/9 v2x_suffr\T1/LinuxLibertineT-TLF/m/n/9 (-20) , \T1/zi4/m/n/9 v2x_freexp_altinf\T1/LinuxLibertineT-TLF/m/n/9 (-20) ); \T1/zi4/m/n/9 v2x_libdem\T1/LinuxLibertineT-TLF/m/n/9 (-20) , the \T1/LinuxLibertineT-TLF/m/it/9 (-20) lib-eral \T1/LinuxLibertineT-TLF/m/n/9 (-20) democ-racy in-dex (ag-gre-gates \T1/zi4/m/n/9 v2x_polyarchy\T1/LinuxLibertineT-TLF/m/n/9 (-20) , \T1/zi4/m/n/9 v2x_liberal\T1/LinuxLibertineT-TLF/m/n/9 (-20) );
- []
-
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7.7] (./atcs_miniproject_sections/finetuning.tex [8.8 <./images/italian_prime_ministers.jpg>]
-<images/mistral7bLlama.png, id=271, 11014.14874pt x 3583.3875pt>
-File: images/mistral7bLlama.png Graphic file (type png)
-<use images/mistral7bLlama.png>
-Package pdftex.def Info: images/mistral7bLlama.png  used on input line 43.
-(pdftex.def)             Requested size: 301.00192pt x 97.92833pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (./atcs_miniproject_sections/feasability.tex) (./atcs_miniproject.bbl [9.9]
+) (./atcs_miniproject.bbl
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 7.0pt on input line 44.
 LaTeX Info: Redefining \tempurl on input line 60.
-LaTeX Info: Redefining \tempurl on input line 72.
-LaTeX Info: Redefining \tempurl on input line 86.
-LaTeX Info: Redefining \tempurl on input line 100.
+LaTeX Info: Redefining \tempurl on input line 75.
+LaTeX Info: Redefining \tempurl on input line 87.
+LaTeX Info: Redefining \tempurl on input line 98.
 LaTeX Info: Redefining \tempurl on input line 111.
+ [5.5]
 LaTeX Info: Redefining \tempurl on input line 123.
-LaTeX Info: Redefining \tempurl on input line 134.
-LaTeX Info: Redefining \tempurl on input line 147.
-LaTeX Info: Redefining \tempurl on input line 159.
-LaTeX Info: Redefining \tempurl on input line 170.
-LaTeX Info: Redefining \tempurl on input line 182.
-LaTeX Info: Redefining \tempurl on input line 195.
-LaTeX Info: Redefining \tempurl on input line 209.
-LaTeX Info: Redefining \tempurl on input line 223.
-LaTeX Info: Redefining \tempurl on input line 234.
-LaTeX Info: Redefining \tempurl on input line 246.
- [10.10 <./images/mistral7bLlama.png>]
-LaTeX Info: Redefining \tempurl on input line 258.
-LaTeX Info: Redefining \tempurl on input line 271.
-LaTeX Info: Redefining \tempurl on input line 282.
-LaTeX Info: Redefining \tempurl on input line 296.
-LaTeX Info: Redefining \tempurl on input line 308.
-LaTeX Info: Redefining \tempurl on input line 320.
-LaTeX Info: Redefining \tempurl on input line 331.
-LaTeX Info: Redefining \tempurl on input line 343.
+LaTeX Info: Redefining \tempurl on input line 135.
+LaTeX Info: Redefining \tempurl on input line 150.
+LaTeX Info: Redefining \tempurl on input line 161.
+LaTeX Info: Redefining \tempurl on input line 173.
+LaTeX Info: Redefining \tempurl on input line 185.
+LaTeX Info: Redefining \tempurl on input line 198.
+LaTeX Info: Redefining \tempurl on input line 210.
+LaTeX Info: Redefining \tempurl on input line 222.
+LaTeX Info: Redefining \tempurl on input line 233.
+LaTeX Info: Redefining \tempurl on input line 245.
 )
+
+Class acmart Warning: Some images may lack descriptions.
+
 
 Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 243.
 
@@ -999,23 +965,23 @@ Class acmart Warning: \vspace should only be used to provide space above/below s
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 ) (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-utf8.def
 File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
-) [11.11] (./atcs_miniproject.aux)
+) [6.6 <./images/mtld_comparison.png>] (./atcs_miniproject.aux)
 Package rerunfilecheck Info: File `atcs_miniproject.out' has not changed.
-(rerunfilecheck)             Checksum: 9E23779DAB7F44C31238DA6380AED98F;2067.
+(rerunfilecheck)             Checksum: FCAE4980EC925620A40FA7DA49AFCA4E;1720.
  ) 
 Here is how much of TeX's memory you used:
- 26704 strings out of 476034
- 450993 string characters out of 5792864
+ 26482 strings out of 476034
+ 445834 string characters out of 5792864
  1914388 words of memory out of 6000000
- 45908 multiletter control sequences out of 15000+600000
- 686023 words of font info for 402 fonts, out of 8000000 for 9000
+ 45828 multiletter control sequences out of 15000+600000
+ 677653 words of font info for 348 fonts, out of 8000000 for 9000
  1298 hyphenation exceptions out of 8191
- 85i,17n,131p,2569b,2168s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 85i,17n,131p,1064b,1618s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4b.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/LibertineMathMI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/LibertineMathMI7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on atcs_miniproject.pdf (11 pages, 2866049 bytes).
+Output written on atcs_miniproject.pdf (6 pages, 521500 bytes).
 PDF statistics:
- 430 PDF objects out of 1000 (max. 8388607)
- 383 compressed objects within 4 object streams
- 134 named destinations out of 1000 (max. 500000)
- 94352 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 298 PDF objects out of 1000 (max. 8388607)
+ 260 compressed objects within 3 object streams
+ 86 named destinations out of 1000 (max. 500000)
+ 94318 words of extra memory for PDF output out of 106986 (max. 10000000)
 

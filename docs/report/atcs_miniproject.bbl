@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{25}
+\begin{thebibliography}{17}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -37,18 +37,6 @@
 \providecommand\natexlab[1]{#1}
 \providecommand\showeprint[2][]{arXiv:#2}
 
-\bibitem[Albladi et~al\mbox{.}(2025)]%
-        {albladi_sentiment_2025}
-\bibfield{author}{\bibinfo{person}{Aish Albladi}, \bibinfo{person}{Minarul Islam}, {and} \bibinfo{person}{Cheryl Seals}.} \bibinfo{year}{2025}\natexlab{}.
-\newblock \showarticletitle{Sentiment {Analysis} of {Twitter} {Data} {Using} {NLP} {Models}: {A} {Comprehensive} {Review}}.
-\newblock \bibinfo{journal}{\emph{IEEE Access}}  \bibinfo{volume}{13} (\bibinfo{year}{2025}), \bibinfo{pages}{30444--30468}.
-\newblock
-\showISSN{2169-3536}
-\urldef\tempurl%
-\url{https://doi.org/10.1109/ACCESS.2025.3541494}
-\showDOI{\tempurl}
-
-
 \bibitem[Amsalem and Zoizner(2023)]%
         {amsalem_people_2023}
 \bibfield{author}{\bibinfo{person}{Eran Amsalem} {and} \bibinfo{person}{Alon Zoizner}.} \bibinfo{year}{2023}\natexlab{}.
@@ -76,19 +64,6 @@
 \shownote{Google-Books-ID: XpqSmh1pjsEC}.
 
 
-\bibitem[BehnamGhader et~al\mbox{.}(2024)]%
-        {behnamghader_llm2vec_2024}
-\bibfield{author}{\bibinfo{person}{Parishad BehnamGhader}, \bibinfo{person}{Vaibhav Adlakha}, \bibinfo{person}{Marius Mosbach}, \bibinfo{person}{Dzmitry Bahdanau}, \bibinfo{person}{Nicolas Chapados}, {and} \bibinfo{person}{Siva Reddy}.} \bibinfo{year}{2024}\natexlab{}.
-\newblock \bibinfo{title}{{LLM2Vec}: {Large} {Language} {Models} {Are} {Secretly} {Powerful} {Text} {Encoders}}.
-\newblock
-\newblock
-\urldef\tempurl%
-\url{https://doi.org/10.48550/arXiv.2404.05961}
-\showDOI{\tempurl}
-\newblock
-\shownote{arXiv:2404.05961 [cs]}.
-
-
 \bibitem[Belcastro et~al\mbox{.}(2022)]%
         {belcastro_analyzing_2022}
 \bibfield{author}{\bibinfo{person}{Loris Belcastro}, \bibinfo{person}{Francesco Branda}, \bibinfo{person}{Riccardo Cantini}, \bibinfo{person}{Fabrizio Marozzo}, \bibinfo{person}{Domenico Talia}, {and} \bibinfo{person}{Paolo Trunfio}.} \bibinfo{year}{2022}\natexlab{}.
@@ -98,17 +73,6 @@
 \showISSN{1869-5469}
 \urldef\tempurl%
 \url{https://doi.org/10.1007/s13278-022-00913-9}
-\showDOI{\tempurl}
-
-
-\bibitem[Card et~al\mbox{.}(2022)]%
-        {card_computational_2022}
-\bibfield{author}{\bibinfo{person}{Dallas Card}, \bibinfo{person}{Serina Chang}, \bibinfo{person}{Chris Becker}, \bibinfo{person}{Julia Mendelsohn}, \bibinfo{person}{Rob Voigt}, \bibinfo{person}{Leah Boustan}, \bibinfo{person}{Ran Abramitzky}, {and} \bibinfo{person}{Dan Jurafsky}.} \bibinfo{year}{2022}\natexlab{}.
-\newblock \showarticletitle{Computational analysis of 140 years of {US} political speeches reveals more positive but increasingly polarized framing of immigration}.
-\newblock \bibinfo{journal}{\emph{Proceedings of the National Academy of Sciences}} \bibinfo{volume}{119}, \bibinfo{number}{31} (\bibinfo{date}{Aug.} \bibinfo{year}{2022}), \bibinfo{pages}{e2120510119}.
-\newblock
-\urldef\tempurl%
-\url{https://doi.org/10.1073/pnas.2120510119}
 \showDOI{\tempurl}
 
 
@@ -160,30 +124,6 @@
 \showDOI{\tempurl}
 
 
-\bibitem[Herre(2025a)]%
-        {herre_democracy_2025}
-\bibfield{author}{\bibinfo{person}{Bastian Herre}.} \bibinfo{year}{2025}\natexlab{a}.
-\newblock \showarticletitle{Democracy data: how sources differ and when to use which one}.
-\newblock \bibinfo{journal}{\emph{Our World in Data}} (\bibinfo{date}{June} \bibinfo{year}{2025}).
-\newblock
-\urldef\tempurl%
-\url{https://ourworldindata.org/democracies-measurement}
-\showURL{%
-\tempurl}
-
-
-\bibitem[Herre(2025b)]%
-        {herre_varieties_2025}
-\bibfield{author}{\bibinfo{person}{Bastian Herre}.} \bibinfo{year}{2025}\natexlab{b}.
-\newblock \showarticletitle{The ‘{Varieties} of {Democracy}’ data: how do researchers measure democracy?}
-\newblock \bibinfo{journal}{\emph{Our World in Data}} (\bibinfo{date}{April} \bibinfo{year}{2025}).
-\newblock
-\urldef\tempurl%
-\url{https://ourworldindata.org/vdem-electoral-democracy-data}
-\showURL{%
-\tempurl}
-
-
 \bibitem[Holtus and Cortelazzo(1985)]%
         {holtus_dal_1985}
 \bibfield{author}{\bibinfo{person}{Günter Holtus} {and} \bibinfo{person}{Michele Cortelazzo}.} \bibinfo{year}{1985}\natexlab{}.
@@ -197,19 +137,6 @@
 \tempurl}
 \newblock
 \shownote{Google-Books-ID: NfwlAAAAMAAJ}.
-
-
-\bibitem[Li et~al\mbox{.}(2023)]%
-        {li_label_2023}
-\bibfield{author}{\bibinfo{person}{Zongxi Li}, \bibinfo{person}{Xianming Li}, \bibinfo{person}{Yuzhang Liu}, \bibinfo{person}{Haoran Xie}, \bibinfo{person}{Jing Li}, \bibinfo{person}{Fu-lee Wang}, \bibinfo{person}{Qing Li}, {and} \bibinfo{person}{Xiaoqin Zhong}.} \bibinfo{year}{2023}\natexlab{}.
-\newblock \bibinfo{title}{Label {Supervised} {LLaMA} {Finetuning}}.
-\newblock
-\newblock
-\urldef\tempurl%
-\url{https://doi.org/10.48550/arXiv.2310.01208}
-\showDOI{\tempurl}
-\newblock
-\shownote{arXiv:2310.01208 [cs]}.
 
 
 \bibitem[Lorenz-Spreen et~al\mbox{.}(2023)]%
@@ -272,19 +199,6 @@
 \showDOI{\tempurl}
 
 
-\bibitem[Radford et~al\mbox{.}(2022)]%
-        {radford_robust_2022}
-\bibfield{author}{\bibinfo{person}{Alec Radford}, \bibinfo{person}{Jong~Wook Kim}, \bibinfo{person}{Tao Xu}, \bibinfo{person}{Greg Brockman}, \bibinfo{person}{Christine McLeavey}, {and} \bibinfo{person}{Ilya Sutskever}.} \bibinfo{year}{2022}\natexlab{}.
-\newblock \bibinfo{title}{Robust {Speech} {Recognition} via {Large}-{Scale} {Weak} {Supervision}}.
-\newblock
-\newblock
-\urldef\tempurl%
-\url{https://doi.org/10.48550/arXiv.2212.04356}
-\showDOI{\tempurl}
-\newblock
-\shownote{arXiv:2212.04356 [eess]}.
-
-
 \bibitem[Rita et~al\mbox{.}(2023)]%
         {rita_social_2023}
 \bibfield{author}{\bibinfo{person}{Paulo Rita}, \bibinfo{person}{Nuno António}, {and} \bibinfo{person}{Ana~Patrícia Afonso}.} \bibinfo{year}{2023}\natexlab{}.
@@ -294,18 +208,6 @@
 \showISSN{1869-5469}
 \urldef\tempurl%
 \url{https://doi.org/10.1007/s13278-023-01048-1}
-\showDOI{\tempurl}
-
-
-\bibitem[Sawicki et~al\mbox{.}(2023)]%
-        {sawicki_state_2023}
-\bibfield{author}{\bibinfo{person}{Jan Sawicki}, \bibinfo{person}{Maria Ganzha}, {and} \bibinfo{person}{Marcin Paprzycki}.} \bibinfo{year}{2023}\natexlab{}.
-\newblock \showarticletitle{The {State} of the {Art} of {Natural} {Language} {Processing}—{A} {Systematic} {Automated} {Review} of {NLP} {Literature} {Using} {NLP} {Techniques}}.
-\newblock \bibinfo{journal}{\emph{Data Intelligence}} \bibinfo{volume}{5}, \bibinfo{number}{3} (\bibinfo{date}{Aug.} \bibinfo{year}{2023}), \bibinfo{pages}{707--749}.
-\newblock
-\showISSN{2641-435X}
-\urldef\tempurl%
-\url{https://doi.org/10.1162/dint_a_00213}
 \showDOI{\tempurl}
 
 

@@ -12,54 +12,50 @@ Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty address in beard_language_2000
-Warning--no number and no volume in herre_democracy_2025
-Warning--page numbers missing in both pages and numpages fields in herre_democracy_2025
-Warning--no number and no volume in herre_varieties_2025
-Warning--page numbers missing in both pages and numpages fields in herre_varieties_2025
 Warning--empty address in holtus_dal_1985
 Warning--empty address in mohrhoff_dalla_1987
 Warning--no journal in tonelli_prendo_2019
 Warning--no number and no volume in tonelli_prendo_2019
 Warning--page numbers missing in both pages and numpages fields in tonelli_prendo_2019
-You've used 25 entries,
+You've used 17 entries,
             5981 wiz_defined-function locations,
-            1663 strings with 25034 characters,
-and the built_in function-call counts, 26453 in all, are:
-= -- 3669
-> -- 849
+            1613 strings with 22913 characters,
+and the built_in function-call counts, 17525 in all, are:
+= -- 2397
+> -- 503
 < -- 0
-+ -- 289
-- -- 308
-* -- 1862
-:= -- 2602
-add.period$ -- 137
-call.type$ -- 25
-change.case$ -- 177
-chr.to.int$ -- 24
-cite$ -- 35
-duplicate$ -- 2183
-empty$ -- 1530
-format.name$ -- 376
-if$ -- 6406
-int.to.chr$ -- 3
++ -- 168
+- -- 193
+* -- 1192
+:= -- 1722
+add.period$ -- 94
+call.type$ -- 17
+change.case$ -- 109
+chr.to.int$ -- 17
+cite$ -- 23
+duplicate$ -- 1494
+empty$ -- 1047
+format.name$ -- 237
+if$ -- 4204
+int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 57
-newline$ -- 350
-num.names$ -- 176
-pop$ -- 723
+missing$ -- 37
+newline$ -- 252
+num.names$ -- 121
+pop$ -- 481
 preamble$ -- 1
-purify$ -- 374
+purify$ -- 244
 quote$ -- 0
-skip$ -- 830
+skip$ -- 570
 stack$ -- 0
-substring$ -- 1900
-swap$ -- 226
+substring$ -- 1297
+swap$ -- 152
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 550
-warning$ -- 10
-while$ -- 162
+type$ -- 383
+warning$ -- 6
+while$ -- 124
 width$ -- 0
-write$ -- 618
-(There were 10 warnings)
+write$ -- 437
+(There were 6 warnings)
