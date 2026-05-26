@@ -1,0 +1,20 @@
+\section{Sentiment Analysis}
+
+The last analysis I performed on the dataset was a sentiment analysis using the \textit{transformers} library from Hugging Face.
+
+Originally I wanted to use \textit{MilaNLProc/feel-it-italian-emotion}\footnote{https://huggingface.co/MilaNLProc/feel-it-italian-emotion}, a model trained on the FEEL-IT corpus, made of Italian Twitter posts annotated with four basic emotions: anger, fear, joy, sadness.
+Unfortunately, at the moment of writing the model's tokenizer is not compatible with any Python version I tried. 
+
+I opted for one the most popular free models, \textit{nlptown/bert-base-multilingual-uncased-sentiment}\footnote{\url{https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment}.}, a bert-base-multilingual-uncased model finetuned for sentiment analysis on product reviews in six languages: English, Dutch, German, French, Spanish, and Italian. It predicts the sentiment as a number of stars (between 1 and 5).
+
+Initially I initialize a pipeline, and then I run the classifier on 512 tokens at a time, BERT's maximum input length. 
+
+The classifier returns two results: a label (between 1 and 5, as in \textit{"4 stars"}), and a score, which represents how sure the model is about the label itself. To make and example, if a piece of text is labelled as four stars with a score of 0.5, the model is only 50\% sure that that text should be labelled as four stars.
+
+To make comparison easier, I aggregated labels and scores with the following formula: $\frac{\text{amount of stars}*score}{5}$. Lastly, I appended the lists with all the scores to the original datasets.
+
+A code example can be seen in listing
+
+
+
+Then, I save the scores
