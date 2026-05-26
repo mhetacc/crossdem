@@ -151,8 +151,7 @@
 %%%% The abstract is a short summary of the work to be presented in the
 %%%% article.
 \begin{abstract}
-Comparison between Alcide De Gasperi and Giorgia Meloni rhetoric. After building a corpus of public speeches transcribed whit Whisper from Meloni's videos on Youtube, I compare them with a corpus of speeches from Italy's first Prime Minister Alcide De Gasperi.
-TODO
+This manuscript compares Alcide De Gasperi and Giorgia Meloni rhetoric. After building a corpus of public speeches transcribed with Whisper from Giorgia Meloni's videos on YouTube, I compare them with a corpus of speeches from the Italian Republic's first Prime Minister Alcide De Gasperi. The results show that De Gasperi's speeches are, on average, 30\% more diversified in their lexicon, and the corpora have a Jaccard similarity index of 32\%. The highest-frequency words in common show transversal themes, such as freedom, peace and nation, while the highest-frequency words not in common reflect the PMs' different political and societal landscapes. I also performed a sentiment analysis on each speech using a BERT classifier. The results underscore the importance of domain-appropriate training data: the model was trained on product reviews, not on political rhetoric, which translated to an average confidence of roughly 40\% per classification.
 \end{abstract}
 %%
 %%
@@ -168,11 +167,6 @@ TODO
        <concept_significance>500</concept_significance>
        </concept>
    <concept>
-       <concept_id>10003456.10003462.10003480.10003482</concept_id>
-       <concept_desc>Social and professional topics~Hate speech</concept_desc>
-       <concept_significance>500</concept_significance>
-       </concept>
-   <concept>
        <concept_id>10003456.10003462.10003480.10003483</concept_id>
        <concept_desc>Social and professional topics~Political speech</concept_desc>
        <concept_significance>500</concept_significance>
@@ -182,13 +176,18 @@ TODO
        <concept_desc>Computing methodologies~Speech recognition</concept_desc>
        <concept_significance>500</concept_significance>
        </concept>
+   <concept>
+       <concept_id>10002951.10003317.10003347.10003353</concept_id>
+       <concept_desc>Information systems~Sentiment analysis</concept_desc>
+       <concept_significance>500</concept_significance>
+       </concept>
  </ccs2012>
 \end{CCSXML}
 
 \ccsdesc[500]{Computing methodologies~Natural language processing}
-\ccsdesc[500]{Social and professional topics~Hate speech}
 \ccsdesc[500]{Social and professional topics~Political speech}
 \ccsdesc[500]{Computing methodologies~Speech recognition}
+\ccsdesc[500]{Information systems~Sentiment analysis}
 %%%%
 %%%% Keywords. The author(s) should pick words that accurately describe
 %%%% the work being presented. Separate the keywords with commas.
@@ -203,27 +202,19 @@ TODO
 %% information and builds the first part of the formatted document.
 \maketitle
 
-\input{atcs_miniproject_sections/introduction}
+\input{sections/introduction}
 
-\input{atcs_miniproject_sections/socialnetworks}
+\input{sections/socialnetworks}
 
-\input{atcs_miniproject_sections/goal}
+\input{sections/goal}
 
-\input{atcs_miniproject_sections/corpora}
+\input{sections/corpora}
 
-\input{atcs_miniproject_sections/langanalysis}
+\input{sections/langanalysis}
 
-\input{atcs_miniproject_sections/sentanalysis}
+\input{sections/sentanalysis}
 
-\input{atcs_miniproject_sections/conclusion}
-%
-%\input{atcs_miniproject_sections/feasability}
-
-%\input{sections/aiownbias}
-
-%\input{sections/ethicalai}
-
-%\input{sections/conclusion}
+\input{sections/conclusion}
 %%
 %% The acknowledgments section is defined using the "acks" environment
 %% (and NOT an unnumbered section). This ensures the proper
