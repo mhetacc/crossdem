@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: atcs_miniproject.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: report.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty address in beard_language_2000
+Warning--empty address in holtus_dal_1985
+Warning--empty address in mohrhoff_dalla_1987
+Warning--no journal in tonelli_prendo_2019
+Warning--no number and no volume in tonelli_prendo_2019
+Warning--page numbers missing in both pages and numpages fields in tonelli_prendo_2019
+You've used 17 entries,
+            5981 wiz_defined-function locations,
+            1613 strings with 22913 characters,
+and the built_in function-call counts, 17525 in all, are:
+= -- 2397
+> -- 503
+< -- 0
++ -- 168
+- -- 193
+* -- 1192
+:= -- 1722
+add.period$ -- 94
+call.type$ -- 17
+change.case$ -- 109
+chr.to.int$ -- 17
+cite$ -- 23
+duplicate$ -- 1494
+empty$ -- 1047
+format.name$ -- 237
+if$ -- 4204
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 37
+newline$ -- 252
+num.names$ -- 121
+pop$ -- 481
+preamble$ -- 1
+purify$ -- 244
+quote$ -- 0
+skip$ -- 570
+stack$ -- 0
+substring$ -- 1297
+swap$ -- 152
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 383
+warning$ -- 6
+while$ -- 124
+width$ -- 0
+write$ -- 437
+(There were 6 warnings)

@@ -1,0 +1,12 @@
+\section{Project Goal}
+
+Let's now define the goal of this project.
+
+I want to compare the rhetoric between the first and the current\footnote{At the time of writing: May 2026.} Prime Ministers of the Italian Republic, namely Alcide De Gasperi and Giorgia Meloni. 
+The rhetoric will be compared using natural language processing techniques, such as measuring textual complexity and sentiment analysis. Only public speeches will be taken, thus leaving out all parliamentary speeches.
+
+I also want to produce a proof-of-concept for a speech-to-text pipeline that, given a set of URLs, each of which is a YouTube's permalink, transcribes the video into text. 
+
+The first step will be gathering two corpora of public speeches, one for each PM. In the case of Giorgia Meloni, I want to compile the corpus by transcribing video interviews and public talks available on her official YouTube channel.
+
+Then, after having gathered the corpora into suitable machine-readable data (such as csv), I will pre-process them with procedures such as tokenization, stemming and lemmatization. Lastly, I will compute word frequency and text complexity measures, as well as a sentiment analysis.
