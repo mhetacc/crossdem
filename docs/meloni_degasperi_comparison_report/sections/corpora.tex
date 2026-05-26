@@ -32,9 +32,9 @@ Thanks to the \textit{<genres>} tag, I was able to extract 474 public speeches, 
 
 \subsection{Giorgia Meloni's Corpus}
 
-My objective was to build Meloni's corpus by transcribing videos of her public speeches, such as talks and interviews. Fortunately, there is an unofficial Youtube channel (that I reached from the Prime Minister's official website) which aggregates more than four thousand videos of her public appearances. The channel is called "Giorgia Meloni News"\footnote{Giorgia Meloni News: \url{https://www.youtube.com/@GiorgiaMeloniTv}}.
+My objective was to build Meloni's corpus by transcribing videos of her public speeches, such as talks and interviews. Fortunately, there is an unofficial YouTube channel (that I reached from the Prime Minister's official website) which aggregates more than four thousand videos of her public appearances. The channel is called "Giorgia Meloni News"\footnote{Giorgia Meloni News: \url{https://www.youtube.com/@GiorgiaMeloniTv}}.
 
-Given a Youtube URL, I can use Python's library \textit{yt-dlp} to retrieve the video's metadata and download its audio content in mp3 format, as shown in listing \ref{code:yt_download}. I had to manually pass the cookies taken from my web-browser, and I used some extra commands to prevent Youtube to block the requests due to suspicious activity. 
+Given a YouTube URL, I can use Python's library \textit{yt-dlp} to retrieve the video's metadata and download its audio content in mp3 format, as shown in listing \ref{code:yt_download}. I had to manually pass the cookies taken from my web-browser, and I used some extra commands to prevent YouTube to block the requests due to suspicious activity. 
 
 Then, the mp3 file just retrieved gets injected into OpenAI's Whisper library, which uses an encoder-decoder Transformer to transcribe it into text, as shown in listing \ref{code:whisper}. The model I used is the \textit{"medium"}\footnote{Whisper model sizes available are tiny, base, medium and large.}, which at 5 GB fits within the total 6 GB of VRAM available to my RTX 4050 GPU. The model was instructed to predict Italian. 
 
@@ -47,9 +47,9 @@ The difference in precision between the models "tiny" (which requires less than 
 
 The last step of the pipeline saves the transcription into a csv file, along with the extracted metadata. Each file has the following fields: \textit{politician} ("meloni" in this case), \textit{historical\_date} (the upload date of the video), \textit{location} and \textit{tags} (extracted from the metadata if available, empty strings otherwise), \textit{description} and \textit{title} of the video, \textit{url} which stores the permalink of the video itself, and lastly \textit{text} which holds the whole transcription.
 
-Each video is processed immediately after being retrieved, and until it has been saved in a csv file the program does not try to fetch the next one. This is done for two reasons: first, to prevent \textit{yt-dlp} from sending requests too close to each other, which could result in Youtube denying them due to suspicious activity. Second, even if the pipeline halts for any reason, the videos processed up to that point will not be lost.  
+Each video is processed immediately after being retrieved, and until it has been saved in a csv file the program does not try to fetch the next one. This is done for two reasons: first, to prevent \textit{yt-dlp} from sending requests too close to each other, which could result in YouTube denying them due to suspicious activity. Second, even if the pipeline halts for any reason, the videos processed up to that point will not be lost.  
 
-\begin{lstlisting}[language={python},label={code:yt_download}, caption={Downloading audio and metadata from a Youtube video}]
+\begin{lstlisting}[language={python},label={code:yt_download}, caption={Downloading audio and metadata from a YouTube video}]
 result = subprocess.run([
     "yt-dlp",
     "--print-json",
