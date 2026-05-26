@@ -1,0 +1,9 @@
+\section{Conclusion}
+
+Overall, the results are satisfactory. I managed to prototype a pipeline that retrieves YouTube videos, transcribes them in text with an encoder-decoder transformer, and saves the result in a csv file. I retrieved 72 speeches of Giorgia Meloni, for a total of $120,116$ tokens.
+
+I compared them with the De Gasperi corpus, after extracting 473 public speeches for a total of $609,142$ tokens. I calculated the MTLD for both corpora, showing that De Gasperi's speeches are, on average, 30\% more diversified in their lexicon.
+
+Then, I compared the two Prime Ministers' 1000 most-used words: they have 487 words in common, with a Jaccard similarity index of 32\%. The highest-frequency words in common show transversal themes, such as freedom, peace and nation, while the highest-frequency words not in common reflect the PM's different political and societal landscapes. De Gasperi often talked about communism and socialism, while Meloni focuses on Ukraine, Trump and the Euro.
+
+Lastly, I performed a sentiment analysis on each speech using a BERT classifier.  The results underscore the importance of domain-appropriate training data: the model was trained on product reviews, not on political rhetoric, which translated to an average confidence of roughly 40\% per classification.

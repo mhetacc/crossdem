@@ -56,7 +56,7 @@ To better visualize the difference in textual diversity, I plotted the MTLD valu
 
 I then wanted to see differences and similarities in the two Prime Ministers' vocabulary. I thus extracted from the corpus a filtered subset of tokens (example in listing \ref{code:extract_tokens}), then I used the \textit{Counter} method from the \textit{collections} library to count the 1000 most commonly used words for both PMs.
 
-Of the top-1000 words, 478 are in common, with a Jaccard similarity of $32.19\%$.
+Of the top-1000 words, 487 are in common, with a Jaccard similarity of $32.19\%$.
 
 After extracting the top-1000 words by usage frequency for each PM, I cross-compared them. The results are shown in table \ref{tab:word_comparison_aligned}. The first column shows words that are in common, whose compound frequency ($meloni\_freq[word]+degasperi\_freq[word]$) is highest. The second column shows words that are only found in De Gasperi's corpus (Meloni's frequency for those words is zero). The third column shows words that are only found in Meloni's corpus (De Gasperi's frequency for those words is zero).
 
