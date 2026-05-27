@@ -113,6 +113,23 @@
 
 \definecolor{changes}{HTML}{A42A04}
 
+% Removes ACM stuff
+\settopmatter{printacmref=false, printfolios=false}
+\renewcommand\footnotetextcopyrightpermission[1]{}
+\pagestyle{plain}
+
+\fancypagestyle{firstpagestyle}{
+  \fancyhf{}
+  \fancyhead[L]{\shortauthors}
+  \fancyhead[R]{\thepage}
+  \fancyfoot{}  % empty footer, kills "Manuscript submitted to ACM"
+}
+
+\AtBeginDocument{
+  \fancypagestyle{acmmanuscript}{
+    \fancyfoot{}
+  }
+}
 %%
 %% end of the preamble, start of the body of the document source.
 \begin{document}
@@ -194,13 +211,17 @@ This manuscript compares Alcide De Gasperi and Giorgia Meloni rhetoric. After bu
 \keywords{AI, NLP, Politics, Speeches}
 %%
 \received{26/05/2026}
-%%\received[revised]{18/09/2025}
+\received[revised]{27/05/2026}
 %%\received[accepted]{24/19/2025}
 
 %%
 %% This command processes the author and affiliation and title
 %% information and builds the first part of the formatted document.
 \maketitle
+% removes footer "Manuscript submitted to ACM"
+\thispagestyle{plain}  % fixes page 1
+\pagestyle{plain}
+
 
 \input{sections/introduction}
 

@@ -9,7 +9,7 @@ The collected corpus contains 473 speeches from De Gasperi and 72 from Meloni, w
 On average, Meloni's corpus has 1668 tokens per speech, while De Gasperi's has 1287 tokens per speech. Word metrics are shown in table \ref{tab:politician_tokens}.
 The text was tokenized with spaCy's Italian model \textit{"it\_core\_news\_sm"}.
 
-I then measured the textual lexical diversity using \textit{MTLD}, which I preferred over the more common \textit{TTR} (Type-Token Ratio) since MTLD is agnostic to corpus size. I used the \textit{LexicalRichness} library\footnote{LexicalRichness is a small Python module to compute textual lexical richness (aka lexical diversity) measures: \url{https://pypi.org/project/lexicalrichness/}.} to compute the MTLD for each speech, and then both the average and the median MTLD for both PMs. Results can be seen in table \ref{tab:politician_mtld}.
+I then measured the textual lexical diversity using \textit{MTLD}, which I preferred over the more common \textit{TTR} (Type-Token Ratio) since MTLD is agnostic to corpus size. I used the \textit{LexicalRichness} library\footnote{LexicalRichness is a small Python module to compute textual lexical richness measures: \url{https://pypi.org/project/lexicalrichness/}.} to compute the MTLD for each speech, and then both the average and the median MTLD for both PMs. Results can be seen in table \ref{tab:politician_mtld}.
 
 To better visualize the difference in textual diversity, I plotted the MTLD values of 70 different speeches of Meloni and De Gasperi against each other. The plot can be seen in figure \ref{fig:mtl_comparison}.
 
@@ -47,7 +47,7 @@ To better visualize the difference in textual diversity, I plotted the MTLD valu
 \begin{figure}[h]
   \centering
   \includegraphics[width=\linewidth]{images/mtld_comparison.png}
-  \caption{Raw MTLD values for 70 speeches of Meloni and De Gasperi}
+  \caption{MTLD values for 60 different speeches (30 for each Prime Minister), randomly sampled. On the Y-axis the MTLD values are reported, while on the X-axis there are the relative IDs for the pairs of speeches. Each pair of speeches is represented by a two vertical bars (one red for Meloni, one blue for De Gasperi). Bar height represents their respective speech's MTLD value. The medians for both Prime Ministers are shown by the two horizontal dotted lines.}
   \label{fig:mtl_comparison}
 \end{figure}
 
@@ -115,8 +115,8 @@ def tokenize(text):
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.8\linewidth]{images/visual_top1k.png}
-  \caption{t-SNE for top-1000 words for both PMs. In red Meloni-only words, in blue De Gasperi-only words, and in purple shared words.}
+  \includegraphics[width=\linewidth]{images/tsne_melonidegasperi.png}
+  \caption{t-SNE projection of the top-1000 most frequent words for each Prime Minister, converted into vector embeddings and plotted in a two-dimensional space. Red points represent words exclusive to Meloni, blue points words exclusive to De Gasperi, and purple points words shared by both}
   \label{fig:visual_top1k}
 \end{figure}
 

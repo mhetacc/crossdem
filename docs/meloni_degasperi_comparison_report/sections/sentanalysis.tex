@@ -2,7 +2,7 @@
 
 The last analysis I performed on the dataset was a sentiment analysis using the \textit{transformers} library from Hugging Face.
 
-Originally I wanted to use \textit{MilaNLProc/feel-it-italian-emotion}\footnote{https://huggingface.co/MilaNLProc/feel-it-italian-emotion}, a model trained on the FEEL-IT corpus, made of Italian Twitter posts annotated with four basic emotions: anger, fear, joy, sadness.
+Originally I wanted to use \textit{MilaNLProc/feel-it-italian-emotion}\footnote{\url{https://huggingface.co/MilaNLProc/feel-it-italian-emotion}}, a model trained on the FEEL-IT corpus, made of Italian Twitter posts annotated with four basic emotions: anger, fear, joy, sadness.
 Unfortunately, at the time of writing the model's tokenizer is not compatible with any Python version I tried. 
 
 I opted for one of the most popular free models, \textit{nlptown/bert-base-multilingual-uncased-sentiment}\footnote{\url{https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment}.}, a bert-base-multilingual-uncased model fine-tuned for sentiment analysis on product reviews in six languages: English, Dutch, German, French, Spanish, and Italian. It predicts the sentiment as a number of stars (between 1 and 5).
@@ -46,8 +46,8 @@ return df
 
 \begin{figure}[h]
   \centering
-  \includegraphics[width=.8\linewidth]{images/sentiment_comparison_70.png}
-  \caption{Aggregated sentiment for 70 randomly sampled speeches. Meloni's speeches in red, De Gasperi's speeches in blue.}
+  \includegraphics[width=\linewidth]{images/sentiment_comparison_30.png}
+  \caption{Aggregated sentiment for 60 different speeches (30 for each Prime Minister), randomly sampled. The Y-axis reports the sentiment score (range between zero and one), while on the X-axis there are the relative IDs for the pairs of speeches. Each pair of speeches is represented by a two vertical bars (one red for Meloni, one blue for De Gasperi). Bar height represents their respective speech's aggregated sentiment score. The median scores for both Prime Ministers are shown by the two horizontal dotted lines.}
   \label{fig:sentiment_comparison}
 \end{figure}
 
