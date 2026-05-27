@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex atcs_miniproject"] 1779878610.1037 "atcs_miniproject.aux" "atcs_miniproject.bbl" "atcs_miniproject" 1779878615.70584 0
+["bibtex atcs_miniproject"] 1779880935.44036 "atcs_miniproject.aux" "atcs_miniproject.bbl" "atcs_miniproject" 1779880941.42113 0
   "./report.bib" 1779802474.17366 89687 77b57ed8c447106c9f50ffd3ae700b9e ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/acmart/ACM-Reference-Format.bst" 1653856601 90333 ccee583820c555b8fd3c6d1b9f362b14 ""
-  "atcs_miniproject.aux" 1779878615.3475 10194 2a5e9506ada90a61acfc005bf4ce3941 "pdflatex"
+  "atcs_miniproject.aux" 1779880940.98581 10597 40a23ca11af850637d92b47a2f1b2f40 "pdflatex"
   (generated)
   "atcs_miniproject.bbl"
   "atcs_miniproject.blg"
   (rewritten before read)
-["pdflatex"] 1779878610.20369 "/home/mhetac/Documents/GitHub/crossdem/docs/meloni_degasperi_comparison_report/atcs_miniproject.tex" "atcs_miniproject.pdf" "atcs_miniproject" 1779878615.70607 0
+["pdflatex"] 1779880935.55478 "/home/mhetac/Documents/GitHub/crossdem/docs/meloni_degasperi_comparison_report/atcs_miniproject.tex" "atcs_miniproject.pdf" "atcs_miniproject" 1779880941.42137 0
   "/home/mhetac/Documents/GitHub/crossdem/docs/meloni_degasperi_comparison_report/atcs_miniproject.tex" 1779878264.45417 8881 7273071fde9e636668ef2d12391748de ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-4.enc" 1558214095 7693 0f2dce6d313c82989ec3a67fc24df2a0 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/inconsolata/i4-ts1.enc" 1455745497 9446 fe5580ca6042a44427f18d450942e7d0 ""
@@ -217,19 +217,19 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1775001600 40900 887e0dc8cac988a9e9c574af364cf837 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1775825595.13604 4547210 0b4d8bce3d83ee4f50b88a57a6a0d7ef ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1775825282 7759954 2e905753369464014d5d6615f296b3d8 ""
-  "atcs_miniproject.aux" 1779878615.3475 10194 2a5e9506ada90a61acfc005bf4ce3941 "pdflatex"
-  "atcs_miniproject.bbl" 1779878610.1985 11782 fa4154e649804fb6a1fb75b2bd3343d3 "bibtex atcs_miniproject"
-  "atcs_miniproject.out" 1779878615.34838 2334 3afd5f14da6b87322fec2daaff244292 "pdflatex"
+  "atcs_miniproject.aux" 1779880940.98581 10597 40a23ca11af850637d92b47a2f1b2f40 "pdflatex"
+  "atcs_miniproject.bbl" 1779880935.54879 11782 fa4154e649804fb6a1fb75b2bd3343d3 "bibtex atcs_miniproject"
+  "atcs_miniproject.out" 1779880940.98681 2513 84c065307709bdbaf32b218ed9618ca6 "pdflatex"
   "atcs_miniproject.tex" 1779878264.45417 8881 7273071fde9e636668ef2d12391748de ""
   "images/mtld_comparison.png" 1779876297.52336 228600 8f57c2667ba2b722210d033a1ce3f2a2 ""
   "images/sentiment_comparison_30.png" 1779875005.09313 225508 113a85b244e7792215cb9ca9f740e866 ""
   "images/tsne_melonidegasperi.png" 1779875005.10822 1443313 b09d7a57519c2313c09747500ee722c1 ""
   "lstlisting_settings.tex" 1779802474.17338 923 6c327df865b68b4ddddc74a9f42a2ca7 ""
   "sections/conclusion.tex" 1779802474.17368 1304 0aafa9e89c00b1748288f33a64f307b7 ""
-  "sections/corpora.tex" 1779802474.17371 5932 92386bb48643ce37c61000b54f977af7 ""
+  "sections/corpora.tex" 1779880928.96478 7039 c6274de487d774abfb1cf832e356b97b ""
   "sections/goal.tex" 1779802474.1738 1175 5f3e799a688d0a11fde2dbd5a9db9c70 ""
   "sections/introduction.tex" 1779802474.17382 2567 17314195abf44aa97fabbbcdd99f849c ""
-  "sections/langanalysis.tex" 1779878175.76241 9505 b0e157c794d150420b026df6027b0a0e ""
+  "sections/langanalysis.tex" 1779878788.3785 9507 f88978f4a8453576fe4bafb6e8407225 ""
   "sections/sentanalysis.tex" 1779878179.96175 4358 43463d07b97ba8ff038932328863844f ""
   "sections/socialnetworks.tex" 1779802474.17393 2872 712d20074cc4bec545707b147046df20 ""
   (generated)

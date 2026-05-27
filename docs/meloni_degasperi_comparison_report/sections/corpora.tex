@@ -77,7 +77,23 @@ subprocess.run([
 ], check=True)
 \end{lstlisting}
 
+\subsection{Corpora Description}
 
+Table \ref{tab:datasets_summary} describes the corpora collected so far: the date each corpus was compiled, the number of speeches contained, the period in which the speeches were originally delivered (represented as a date range, from the oldest to the most recent speech), and the median speech length in words
 
-
+\begin{table}[h]
+    \centering
+    \caption{Summary of Meloni and De Gasperi corpora.}
+    \label{tab:datasets_summary}
+    \begin{tabular}{lcc}
+        \toprule
+        \textbf{Metric} & \textbf{Meloni Corpus} & \textbf{De Gasperi Corpus} \\
+        \midrule
+        Speeches Date Range           & 2025-05-16 $\rightarrow$ 2026-05-21 & 1901-09-21 $\rightarrow$ 1954-07-24 \\
+        Number of Speeches             & 72                                  & 473                                 \\
+        Median Words/Speech  & 982                                 & 701                                 \\
+        Compiled On          & May 2026                            & July 2019                           \\
+        \bottomrule
+    \end{tabular}
+\end{table}
 
