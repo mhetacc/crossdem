@@ -199,6 +199,15 @@ urls = [
     "https://youtu.be/OSMZN_ldJww?si=sIQbqvbVBqOrBHLJ"
 ]
 
+"""
+Last video:  EPC Il punto stampa del Presidente Meloni al termine dei lavori 
+Date: 16-05-2025
+Permalink: https://youtu.be/saf_05yblDQ?si=sVnB2Kyd6z-mIxdx 
+"""
+
+new_urls = [
+
+]
 
 for url in urls:
     process_video(url)
