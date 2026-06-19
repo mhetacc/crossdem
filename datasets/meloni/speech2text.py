@@ -206,8 +206,65 @@ Permalink: https://youtu.be/saf_05yblDQ?si=sVnB2Kyd6z-mIxdx
 """
 
 new_urls = [
-
+    "https://youtu.be/FDy7fCsqbNs?si=ZYg_aWFyt2Ph1asS",
+    "https://youtu.be/huFE_0ZdeNM?si=fT-f18fP-5ieQIJG",
+    "https://youtu.be/bjqafgD-H-g?si=YNlOQ35qd8NyzXi8",
+    "https://youtu.be/U_AvgHJdCp0?si=4gfLrXXUIT2Nn9zy",
+    "https://youtu.be/q-99PLheFWg?si=QN_2nrA6Vfd9WBkt",
+    "https://youtu.be/bh7w6-RBjd8?si=8a0Pa321VEj09a6j",
+    "https://youtu.be/h4Y-W_5b8X4?si=0jkY-agwp7lt9A1f",
+    "https://youtu.be/M0WCK6Hulsw?si=2VTNDFUTdUf4INP8",
+    "https://youtu.be/5u4FEAiRKEc?si=ZAD3P6jmMjkHwHaP",
+    "https://youtu.be/SMEwF1-q638?si=sSee7chSbp_YZABd",
+    "https://youtu.be/UbpC94Y4KNE?si=j1a3M9zNLmISfTtl",
+    "https://youtu.be/vjXbTKQojug?si=D7Hega6rIKTn9pri",
+    "https://youtu.be/Fzvum_VHEwk?si=3IgTXXMbB7zyCg0e",
+    "https://youtu.be/PXXBB5GltTE?si=2GNT4DNqQk7ZfWkt",
+    "https://youtu.be/Br2W0RSkHho?si=RJ2_gfiqWiKxXHmr",
+    "https://youtu.be/ZXkAnQkdgt8?si=4dNG3IJ6qpNLG1Ym",
+    "https://youtu.be/ZkmLQssuw1k?si=7Vno83teuj--_6nx",
+    "https://youtu.be/yduhDm4lwVc?si=0pHlvlfXrvf0dhto",
+    "https://youtu.be/B2LMVQts5OA?si=YRhLnSfh4UpP8rLV",
+    "https://youtu.be/50TXOJJylt0?si=1aulbJRZjBW3CWH5",
+    "https://youtu.be/uO-fyVwkF5g?si=oNbS9MY8FBZzr_GO",
+    "https://youtu.be/FtA61Rc0Wlc?si=KO5Yt4U7jpiGbKEO",
+    "https://youtu.be/dmfQQC8iG0A?si=D9umBW4zbLgLmS2l",
+    "https://youtu.be/9tzZJJKS2Kk?si=J85Ul8u9LPxOHqTm",
+    "https://youtu.be/i3p9eCjnVL0?si=BBCAMgEBkWRip_CJ",
+    "https://youtu.be/pFHlxAY_Rls?si=moY3L6d1f8J00PQw",
+    "https://youtu.be/5QgZC-HGmhg?si=ecYBM_JlgFtTM5Eq",
+    "https://youtu.be/ytrJQeeFUQ4?si=OC0EHK5x2DlPmnva",
+    "https://youtu.be/9xfoigY2YUw?si=2MhvNrNY8ZvR3h7D",
+    "https://youtu.be/ohlBNAvfQmA?si=gr9ciaYKMn5PrtEd",
+    "https://youtu.be/gCbqnsmX5zQ?si=4wQs9Ej7ccRQV4ep",
+    "https://youtu.be/bnCWv-X0bNw?si=dA-m9UucyP9VFff8",
+    "https://youtu.be/T-J0-ZRR8x8?si=CePTmpJwkV4tTTQv",
+    "https://youtu.be/2sAoKAJyVzc?si=4y_309kuQcTgyhi-",
+    "https://youtu.be/kJyQbNo-GQY?si=d0e4X_MjutlpvFvZ",
+    "https://youtu.be/hH4CV085EFA?si=YukttvARKLOA1Jnz",
+    "https://youtu.be/fvN2a2PzDQc?si=T2Y-bQQzZlYxgD-9",
+    "https://youtu.be/BKrCEnKoGjU?si=AV8zrhBkxOu-462I",
+    "https://youtu.be/brQy86p6tmY?si=_KdoDR5pOeYmnO6B",
+    "https://youtu.be/e2i0nr7j8cY?si=wnwB3l371ZsJApJB",
+    "https://youtu.be/lspVaAfP54k?si=aKbpgTV0DWMFGVdO",
+    "https://youtu.be/8kk6oAU-YwQ?si=NFnyXyv035UES-VN",
+    "https://youtu.be/F67vI2nR13M?si=nhvEIOq_S1TBWtad",
+    "https://youtu.be/S9Z807zJkzs?si=6xvAm-cynuOMpjER",
+    "https://youtu.be/W4bPzxKILZE?si=a1hNsXiCAkWUGV-4",
+    "https://youtu.be/tEtG-6g1U64?si=cS6HaKutEOlR8yT9",
+    "https://youtu.be/MfwoCl-da7k?si=5mg-JATF4rWy1796",
+    "https://youtu.be/tnJ4ujTCFds?si=fxZ36LYjl1sBJ-HL",
+    "https://youtu.be/hgl_jHyjges?si=JFW8qBlThz4P3sU7",
+    "https://youtu.be/iCCKKBbfJz0?si=EXi6km-5ffBpJeuc",
+    "https://youtu.be/pzFABnbbCWo?si=5yeX3HpNC76jgAfn"
 ]
+
+"""
+Last video: IT
+Giorgia Meloni intervistata ad “Agorà”. Collegatevi! 
+Date: 04-06-2024
+Permalink: https://youtu.be/pzFABnbbCWo?si=5yeX3HpNC76jgAfn
+"""
 
 for url in urls:
     process_video(url)
