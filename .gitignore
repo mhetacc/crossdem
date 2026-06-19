@@ -3,3 +3,4 @@ datasets/degasperi/xml
 datasets/meloni/audio_out
 datasets/meloni/yt_cookies.txt
 yt_cookies.txt
+*.mp3
