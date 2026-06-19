@@ -266,7 +266,7 @@ Date: 04-06-2024
 Permalink: https://youtu.be/pzFABnbbCWo?si=5yeX3HpNC76jgAfn
 """
 
-for url in urls:
+for url in new_urls:
     process_video(url)
 
 
