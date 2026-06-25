@@ -1,0 +1,1336 @@
+1
+00:00:05,780 --> 00:00:15,440
+di rivolgere loro il benvenuto più cordiale, il saluto della Direzione nazionale dell'ADC,
+
+2
+00:00:15,520 --> 00:00:27,860
+in particolare del Dipartimento Economia, e di ringraziare al Tressi il Ministro Senatore
+
+3
+00:00:27,860 --> 00:00:36,680
+Granelli di aver voluto accogliere l'invito che gli abbiamo rivolto di presiedere questo
+
+4
+00:00:36,680 --> 00:00:49,340
+nostro convegno. Con lui i relatori, mi si consente in particolare di ringraziare e salutare
+
+5
+00:00:49,340 --> 00:00:57,600
+il Presidente Fanzani, il Professor Pavan, il Dottor Postiglione, l'onorevole Merli
+
+6
+00:00:57,600 --> 00:01:06,020
+e il Professor Rossi, che nella mattinata insieme all'Assessore regionale Lombardia
+
+7
+00:01:06,020 --> 00:01:18,240
+rivolta svolgeranno le relazioni. Al Presidente Granelli aspetterà poi il compito di ringraziare
+
+8
+00:01:18,240 --> 00:01:29,060
+i Ministri che nel corso del pomeriggio vorranno portare un loro contributo a queste nostre
+
+9
+00:01:29,060 --> 00:01:44,900
+considerazioni su un tema che nel corso degli ultimi tempi è sempre maggiormente divenuto
+
+10
+00:01:44,900 --> 00:01:53,960
+capace di accentrare l'attenzione non solo dell'opinione pubblica ma anche degli uomini
+
+11
+00:01:53,960 --> 00:02:04,060
+del Parlamento. Detto da altri potrebbe essere questa una considerazione qualunquistica detta
+
+12
+00:02:06,220 --> 00:02:13,840
+da chi si trova in questo momento per avventura ad essere parlamentare è solo un riconoscimento
+
+13
+00:02:13,840 --> 00:02:24,220
+dello stato di fatto. In ciò però c'è anche tutta la considerazione per quei parlamentari,
+
+14
+00:02:24,520 --> 00:02:34,500
+per quegli uomini di governo che viceversa contro tendenza portano con insistenza da
+
+15
+00:02:35,540 --> 00:02:41,420
+anni all'attenzione del Parlamento, dei loro colleghi e quindi dell'opinione pubblica
+
+16
+00:02:41,420 --> 00:02:50,500
+di problema dell'ambiente. Mi si consente allora in particolare di ringraziare il Senatore
+
+17
+00:02:50,500 --> 00:02:57,240
+Melandri per la responsabilità che da alcuni mesi si è assunta nell'ambito del Dipartimento
+
+18
+00:02:57,240 --> 00:03:05,920
+Economia di seguire per la democrazia cristiana quelle iniziative capaci di fare della democrazia
+
+19
+00:03:05,920 --> 00:03:13,440
+cristiana un interlocutore al riguardo. Voglio dire e sottolineare della democrazia cristiana
+
+20
+00:03:13,440 --> 00:03:18,980
+perché uomini della democrazia cristiana come il Senatore Fanfani, come il Presidente
+
+21
+00:03:18,980 --> 00:03:25,220
+Fanfani hanno già interlocuito i massimi livelli al riguardo ma il problema vero è
+
+22
+00:03:25,220 --> 00:03:33,060
+che con l'ausilio, il supporto, la ricchezza dei consigli e degli orientamenti che ci possono
+
+23
+00:03:33,060 --> 00:03:43,860
+venire dagli uomini della scienza possa essere il nostro intero movimento, in ciò ricoprondendo
+
+24
+00:03:43,860 --> 00:03:50,980
+gli uomini che si riconoscono all'interno della nostra area e non in particolare all'interno
+
+25
+00:03:50,980 --> 00:03:57,860
+di un'attività partitica del nostro partito e che è essenziale che l'intero movimento
+
+26
+00:03:57,860 --> 00:04:08,380
+possa non solo e non tanto dire una sua parola ma concretamente recare un contributo a che
+
+27
+00:04:08,380 --> 00:04:16,520
+questi problemi siano affrontati con legislazioni adeguate ma soprattutto con una crescita
+
+28
+00:04:16,520 --> 00:04:26,900
+di cultura che è certamente elemento indispensabile presupposto di qualsiasi poi possibile iniziativa
+
+29
+00:04:26,900 --> 00:04:35,840
+provvida. Infatti l'articolazione del tessuto sociale ha aggravato, accentuato questi problemi
+
+30
+00:04:35,840 --> 00:04:44,200
+direttamente legati al processo di crescita e di sviluppo e tra questi certamente come
+
+31
+00:04:44,200 --> 00:04:53,020
+dicevamo uno dei più sentiti oggi è il problema ambientale. La democrazia cristiana è sensibile
+
+32
+00:04:53,020 --> 00:05:02,640
+da molti anni a questa questione ecologica ma come dicevo in particolare in questi ultimissimi
+
+33
+00:05:02,640 --> 00:05:11,760
+tempi ha potuto avvalendosi dell'opera di alcuni suoi uomini particolarmente nel settore
+
+34
+00:05:11,760 --> 00:05:19,040
+impegnati ecco farsi promotrice essa stessa di un dialogo di una crescita culturale al
+
+35
+00:05:20,040 --> 00:05:28,860
+Scevri come nostra abitudine per la verità vorremmo dire non comune purtroppo a tutte
+
+36
+00:05:28,860 --> 00:05:37,540
+le forze politiche e scevri di improvvisazioni strumentali credo che questo possa esserci
+
+37
+00:05:37,540 --> 00:05:45,000
+riconosciuto abbiamo creato in tale ottica uno specifico ufficio problemi dell'ambiente
+
+38
+00:05:45,000 --> 00:05:53,840
+che opera nell'ambito del dipartimento economico. Questa collocazione settoriale è di per
+
+39
+00:05:53,840 --> 00:06:02,020
+sé ci pare di poter dire emblematica. La DC in materia di ambiente ha fatto proprio
+
+40
+00:06:02,020 --> 00:06:10,080
+ad un tempo le elaborazioni teoriche più strettamente culturali ufficializzate normativamente
+
+41
+00:06:10,080 --> 00:06:17,340
+con la legge del 39 sulle bellezze naturali e le più moderne concezioni di ambiente come
+
+42
+00:06:17,340 --> 00:06:25,440
+parametro da cui nessuna politica di sviluppo ancorché economico può fare astrazione.
+
+43
+00:06:27,200 --> 00:06:36,580
+In Italia infatti come del resto in tutto il mondo sulle aree protette o da proteggere
+
+44
+00:06:36,580 --> 00:06:47,940
+convergono molteplici interessi culturali, paesagistici, ricreativi, scientifici e non
+
+45
+00:06:47,940 --> 00:06:55,680
+ultimi per l'importanza di sviluppo economico. Come ebbe a dire l'amico rivolta ad un altro
+
+46
+00:06:55,680 --> 00:07:04,200
+convegno il parco non è un museo ma una fucina di attività perché senza dubbio coltivare
+
+47
+00:07:04,200 --> 00:07:11,360
+più redditizio che saccheggiare. Credo che su questo si sia tutti d'accordo e in questa
+
+48
+00:07:12,160 --> 00:07:18,620
+direzione si muove il disegno di legge quadro per l'istituzione e la gestione delle aree
+
+49
+00:07:18,620 --> 00:07:26,640
+protette presentato al Senato dall'amico Melante. Una visione di ambiente come risorsa
+
+50
+00:07:26,640 --> 00:07:33,000
+che giustifica la produzione di servizi come pure le varie forme di bilanci di gestione.
+
+51
+00:07:33,000 --> 00:07:41,580
+E' per questo anche che si rende necessaria, urgente, una pianificazione efficace che
+
+52
+00:07:41,580 --> 00:07:48,720
+tenga conto di tutte le esigenze di conservazione e di sviluppo le quali, lo ricordiamo, sono
+
+53
+00:07:48,720 --> 00:07:57,000
+senz'altro sovrapponibile. Siamo consi in effetto che solo una politica complessiva
+
+54
+00:07:57,000 --> 00:08:05,480
+che integri ed arricchisca la visione esclusivamente estetico-panoramica della natura possa permettere
+
+55
+00:08:05,480 --> 00:08:11,380
+di programmare un'efficace azione di risanamento e di gestione dell'ambiente per gli anni
+
+56
+00:08:11,380 --> 00:08:20,080
+a venire. Un'azione che configuri l'ambiente non più solo come un quadro naturale come
+
+57
+00:08:20,080 --> 00:08:26,980
+sosteneva la legge del 39, ma bensì, anzitutto ed essenzialmente, un quadro naturale che
+
+58
+00:08:27,000 --> 00:08:36,340
+è un qualcosa di cui l'uomo può fluire. Un'azione in ultima analisi che possa raccordarsi
+
+59
+00:08:36,340 --> 00:08:47,320
+senza conflittualità con una più ampia impostazione di politica generale. Siamo certi che, ristabilendo
+
+60
+00:08:47,320 --> 00:08:54,400
+un corretto rapporto tra uomo e ambiente, potremo utilizzare in pieno e proficuamente
+
+61
+00:08:54,680 --> 00:09:03,540
+la risorsa natura con, in questo senso, una sempre maggiore capacità totale di fronteggiare
+
+62
+00:09:03,540 --> 00:09:14,180
+il futuro. Io ho assolto a questo gradito compito di portare loro il saluto della Direzione
+
+63
+00:09:14,180 --> 00:09:23,540
+nazionale de l'IC, al ministro Granelli il compito di presiedere questo convegno ancora
+
+64
+00:09:23,540 --> 00:09:32,140
+volendo io rivolgere loro il ringraziamento più sentito per aver voluto prendere parte
+
+65
+00:09:32,140 --> 00:09:39,380
+a questa iniziativa, vorrei ripetere, non strumentale della democrazia cristiana.
+
+66
+00:09:45,920 --> 00:09:58,780
+Signore e signori, nell'assumere la presidenza di questo convegno ritengo mio dovere dedicare
+
+67
+00:09:58,780 --> 00:10:09,080
+poche parole per sottolinearne l'importanza, oltre che per ringraziare quanti come il senatore
+
+68
+00:10:10,080 --> 00:10:19,160
+Melandri si sono prodigati per realizzarlo. Esso cade in un momento nel quale quasi tutte
+
+69
+00:10:19,160 --> 00:10:27,920
+le iniziative vengono lette come iniziative di breve periodo, finalizzate a scoppio finalità
+
+70
+00:10:27,920 --> 00:10:35,860
+di carattere prevalentemente propagandistico, non è il caso di questo convegno, anzi direi
+
+71
+00:10:35,860 --> 00:10:43,340
+questo convegno ha ambizioni di medio e di lungo periodo, vuole guardare a tutta la tematica
+
+72
+00:10:43,900 --> 00:10:53,260
+dell'ambiente e delle misure che essa sollecita con la coscienza di dover predisporre un lavoro
+
+73
+00:10:53,260 --> 00:11:02,260
+di lunga lena, interventi più campi, una sensibilizzazione dell'opinione pubblica rispetto a interessi
+
+74
+00:11:02,260 --> 00:11:09,180
+che sono di carattere generale. Quindi il primo elemento da sottolineare mi sembra quello
+
+75
+00:11:09,980 --> 00:11:18,640
+della volontà di assicurare al convegno quella visione di insieme dei vari aspetti del problema
+
+76
+00:11:18,640 --> 00:11:27,280
+da quelli contenutistici a quelli istituzionali, normativi, legislativi, culturali, per giungere
+
+77
+00:11:27,280 --> 00:11:33,760
+delle conclusioni che siano poi vincolanti e impegnative anche sotto il profilo dell'azione.
+
+78
+00:11:35,600 --> 00:11:42,720
+Faremo questo con l'ausilio di autorevoli, relatori che sono già stati qui ringraziati
+
+79
+00:11:44,280 --> 00:11:51,140
+ed in particolare con il contributo prezioso del Presidente Fanfani che mi consentirà
+
+80
+00:11:51,140 --> 00:12:00,020
+di dire anche qui, come del resto per i problemi del gap tecnologico in Italia e in Europa,
+
+81
+00:12:00,840 --> 00:12:09,360
+anticipò in altri tempi richiami e segnali che andarono poi perduti e oggi forse constatiamo
+
+82
+00:12:09,360 --> 00:12:17,980
+la assoluta responsabilità di quel ritardo. E con l'ausilio di tutti questi relatori cercheremo
+
+83
+00:12:17,980 --> 00:12:25,780
+anche di richiamare l'attenzione dell'opinione pubblica sul fatto che per noi la tutela del
+
+84
+00:12:25,780 --> 00:12:32,660
+bene naturale e ambientale non è soltanto legata al desiderio di non disperdere un patrimonio,
+
+85
+00:12:34,000 --> 00:12:39,560
+ma dalla coscienza che la tutela dell'ambiente e della natura è condizione essenziale della
+
+86
+00:12:39,560 --> 00:12:47,600
+qualità della vita e quindi riferita all'uomo, non soltanto, ma va anche rapportato questo
+
+87
+00:12:47,600 --> 00:12:54,870
+problema alla coscienza che lo sviluppo industriale anche nelle sue ultime forme tende progressivamente
+
+88
+00:12:55,560 --> 00:13:02,340
+a una distruzione, a un consumo sempre più rapido di materie e di risorse che rischiano
+
+89
+00:13:02,340 --> 00:13:07,520
+di pregiudicare il futuro delle nuove generazioni e quindi gli sviluppi futuri. Quindi c'è
+
+90
+00:13:07,520 --> 00:13:14,300
+un problema di tutela, di difesa, di consumo sobrio delle risorse che dobbiamo affrontare
+
+91
+00:13:14,300 --> 00:13:21,800
+con molta serietà. Vorrei anche dire che dobbiamo guardare questi fenomeni e questi
+
+92
+00:13:21,800 --> 00:13:27,660
+problemi con una visione anche internazionale, non solo legata alle condizioni del nostro
+
+93
+00:13:27,660 --> 00:13:36,680
+Paese. Come è noto a tutti loro il fenomeno è presente soprattutto in quasi tutti i paesi
+
+94
+00:13:36,680 --> 00:13:43,940
+più industrializzati, le documentazioni che riguardano per esempio alcune conurbazioni
+
+95
+00:13:45,420 --> 00:13:51,960
+giapponesi o italune aree degli Stati Uniti, nella Ruhr in Germania, confermano che nella
+
+96
+00:13:51,960 --> 00:13:57,200
+diversità delle condizioni storiche il problema sta diventando estremamente grave per tutti,
+
+97
+00:13:58,160 --> 00:14:04,560
+non solo, ma che la rapidità del progresso tecnico, scientifico e produttivo che non
+
+98
+00:14:04,560 --> 00:14:11,600
+si è mai avuta così incisiva come in questi ultimi tempi è destinata ad aggravare ulteriormente
+
+99
+00:14:11,600 --> 00:14:17,540
+la situazione se noi non prendiamo dei provvedimenti seri, organici, in tutte le direzioni, cosa
+
+100
+00:14:17,540 --> 00:14:24,700
+che del resto in questi paesi si sta facendo perché fortunatamente il progresso scientifico
+
+101
+00:14:24,700 --> 00:14:29,400
+e tecnologico mette anche a disposizione strumenti sempre più nuovi e sempre più
+
+102
+00:14:29,400 --> 00:14:37,840
+incisivi anche per inserirsi in questa problematica e cercare di correggere. Però è noto che
+
+103
+00:14:37,840 --> 00:14:44,800
+di là di questi richiami internazionali alla esistenza in tutti i paesi di questi problemi
+
+104
+00:14:44,800 --> 00:14:52,040
+la situazione italiana, dobbiamo dirlo senza mezzo e parole, è francamente allarmante
+
+105
+00:14:52,940 --> 00:14:59,540
+non soltanto per quello che noi possiamo constatare osservando l'ambiente che ci circonda, ma
+
+106
+00:14:59,540 --> 00:15:05,640
+proprio in queste settimane il rapporto ISTAT sulle statistiche ambientali anche se parziale
+
+107
+00:15:05,640 --> 00:15:11,260
+da perfezionare e da migliorare conferma dopo un tentativo analogo che è stato fatto
+
+108
+00:15:11,260 --> 00:15:22,100
+dalla Tecnico nel 1973 che il grado di pericolosità che minaccia l'ambiente naturale, l'ecosistema
+
+109
+00:15:22,100 --> 00:15:31,240
+nel suo complesso in Italia è da non sottovalutare assolutamente. C'è forse minore preoccupazione
+
+110
+00:15:31,240 --> 00:15:38,660
+per quanto riguarda l'inquinamento dell'aria anche se qui ci sono elementi ugualmente
+
+111
+00:15:38,660 --> 00:15:46,240
+seri da considerare perché tra gli effetti che ha avuto lo shock petrolifero sui paesi
+
+112
+00:15:46,240 --> 00:15:53,460
+industrializzati ha almeno avuto come conseguenza quella di tentare di ridurre il consumo di
+
+113
+00:15:53,460 --> 00:16:00,080
+petrolio, di benzina e di ricorrere in talune città a forme di teleriscaldamento che hanno
+
+114
+00:16:00,080 --> 00:16:08,200
+ridotto quantomeno questa propensione all'inquinamento dell'aria, ma se si va a quanto riguarda
+
+115
+00:16:08,200 --> 00:16:16,680
+l'acqua la situazione è veramente allarmante, è preoccupante la spinta dell'eutrofizzazione
+
+116
+00:16:16,680 --> 00:16:24,560
+dell'Adriatico e di molti laghi per l'eccesso di consumo spesso incontrollabile anche nella
+
+117
+00:16:24,560 --> 00:16:29,940
+qualità dei consumi chimici, dei pesticidi, dei detersivi e di tutto quello che noi sappiamo
+
+118
+00:16:29,940 --> 00:16:35,780
+e che porta soprattutto nell'Adriatico a delle conseguenze che sono anche direttamente
+
+119
+00:16:35,780 --> 00:16:41,700
+economiche perché non bisogna dimenticare quello che significa il decadere di zone che
+
+120
+00:16:41,700 --> 00:16:47,680
+arrivano per vocazione una grande ospitalità al turismo quando vengono meno le condizioni
+
+121
+00:16:47,680 --> 00:16:53,720
+ambientali che sono quelle che rendono appettibile questa domanda. Per non parlare poi degli
+
+122
+00:16:53,720 --> 00:17:00,880
+eccessivi sbancamenti degli argini di molti fiumi che rendono più facili alluvioni, catastrofi
+
+123
+00:17:00,880 --> 00:17:09,240
+ideologiche e conseguenze assai gravi e per non trascurare ancora il fatto che gli incendi
+
+124
+00:17:09,240 --> 00:17:14,700
+dei nostri boschi hanno portato a un debollimento del patrimonio boschivo nazionale di circa
+
+125
+00:17:14,700 --> 00:17:23,160
+il 10%. Ma per arrivare alla conclusione di questi richiami molto flash devo dire che
+
+126
+00:17:23,160 --> 00:17:31,440
+un Paese che cammina verso la società post-industriale è un elemento non trascurabile quello che
+
+127
+00:17:31,440 --> 00:17:40,360
+si riferisce all'inquinamento del territorio dove i rischi tecnologici si manifestano con
+
+128
+00:17:40,360 --> 00:17:47,200
+più insistenza. Se si pensa che per quanto riguarda i rifiuti solidi siamo soltanto al
+
+129
+00:17:47,200 --> 00:17:56,120
+56% del totale che vengono riversati in discariche semplici senza troppe garanzie e che solo
+
+130
+00:17:56,120 --> 00:18:02,180
+lo 0,1% è riciclato con strumenti che la tecnologia mette già a disposizione, noi
+
+131
+00:18:02,180 --> 00:18:08,060
+ci rendiamo conto di come anche sotto questo profilo, cioè sotto il profilo dei rischi
+
+132
+00:18:08,060 --> 00:18:13,500
+tecnologici per il territorio, il nostro Paese è esposto a dei rischi estremamente
+
+133
+00:18:13,500 --> 00:18:22,120
+gravi. Ho voluto fare questa brevissima fotografia in bianco e nero sui pericoli reali che insidiano
+
+134
+00:18:22,120 --> 00:18:30,280
+il nostro ambiente, l'ambiente che ci circonda per richiamare in conclusione le finalità
+
+135
+00:18:30,280 --> 00:18:40,280
+specifiche del nostro convegno che sono sostanzialmente due. La prima la necessità di passare al più
+
+136
+00:18:40,280 --> 00:18:50,480
+presto da una politica di intervento a posteriori o di una politica che interviene quando emerge
+
+137
+00:18:51,040 --> 00:18:58,800
+drammaticamente un'alterazione dell'ambiente naturale a una politica di provvenzione e
+
+138
+00:18:58,800 --> 00:19:05,760
+di tutela che deve naturalmente trovare strumenti adeguati che vanno dalla legislazione alla
+
+139
+00:19:05,760 --> 00:19:11,500
+ricerca scientifica, all'innovazione tecnologica, cioè agli strumenti indispensabili per dare
+
+140
+00:19:11,500 --> 00:19:18,680
+ai vari interventi una visione organica. Il secondo è quello del necessario riordinamento
+
+141
+00:19:18,680 --> 00:19:25,360
+istituzionale che coordini meglio la spesa pubblica. Vi sono e lo dirò forse alla conclusione
+
+142
+00:19:25,360 --> 00:19:34,800
+di questo convegno nel bilancio dello Stato decine di capitoli di spesa che possono essere
+
+143
+00:19:34,800 --> 00:19:41,180
+in qualche modo riferiti a una politica di difesa dell'ambiente che spesso vengono utilizzati
+
+144
+00:19:41,180 --> 00:19:46,400
+l'uno all'insaputa dell'altro e al di fuori di quel coordinamento e di quella massimizzazione
+
+145
+00:19:46,400 --> 00:19:52,500
+dell'uso delle risorse i cui è assolutamente necessario. E poi c'è tutto il problema dei
+
+146
+00:19:53,100 --> 00:19:59,320
+servizi che sono in una situazione estremamente precavia soprattutto dopo l'introduzione delle
+
+147
+00:19:59,320 --> 00:20:05,940
+regioni e il rapporto tra le regioni e lo Stato che non va assolutamente trascurato
+
+148
+00:20:05,940 --> 00:20:10,880
+perché non si può immaginare che una politica di difesa dell'ambiente e del territorio
+
+149
+00:20:10,880 --> 00:20:17,580
+abbia dei confini su aree ristrette e quindi tutti i problemi di grande portata che per
+
+150
+00:20:17,580 --> 00:20:22,600
+un partito come la democrazia cristiana poi non può dimenticare le grandi risorse del
+
+151
+00:20:22,600 --> 00:20:27,660
+volontariato e della partecipazione diretta dei cittadini anche dal punto di vista dell'educazione
+
+152
+00:20:27,660 --> 00:20:32,540
+perché non si può chiedere soltanto allo Stato e alle strutture pubbliche di tenere
+
+153
+00:20:32,540 --> 00:20:39,520
+saldo e di tenere conservato un patrimonio di queste proporzioni e qualora perché secondo
+
+154
+00:20:40,500 --> 00:20:47,780
+il nostro convegno la questione ambientale può diventare anzi deve diventare una questione
+
+155
+00:20:47,780 --> 00:20:53,540
+nazionale la questione ampia che coinvolge non soltanto questi aspetti come potrebbe
+
+156
+00:20:53,540 --> 00:20:59,480
+fare magari un'associazione di ecologisti ma che coinvolge anche altri problemi che
+
+157
+00:20:59,480 --> 00:21:05,380
+qui magari non discuteremo oggi perché anche in ordine al come produrre al come vivere
+
+158
+00:21:05,380 --> 00:21:11,220
+al come consumare ci sono delle cause strutturali che hanno un riferimento immediato sia sull'uso
+
+159
+00:21:11,220 --> 00:21:17,760
+delle risorse che sulla preservazione dell'ambiente e ci sono strumenti che oggi sono a disposizione
+
+160
+00:21:17,760 --> 00:21:23,480
+se gli investimenti vanno in quella direzione come i satelliti che possono valutare le risorse
+
+161
+00:21:23,480 --> 00:21:29,640
+terrestri come sistemi di diagnostica come strumenti di intervento reale in tutti i campi
+
+162
+00:21:29,640 --> 00:21:35,620
+che possono anche darci la possibilità di intervenire per evitare di chiuderci in una
+
+163
+00:21:35,620 --> 00:21:41,300
+posizione di pura lamentazione di pura denuncia ma di assumere un'azione costruttiva tendente
+
+164
+00:21:41,300 --> 00:21:46,000
+a migliorare le condizioni generali del nostro Paese. Ecco io chiedo scusa se ho voluto
+
+165
+00:21:46,000 --> 00:21:53,460
+richiamare come Presidente un po' questi problemi che saranno lumeggiati molto chiaramente dall'autore
+
+166
+00:21:53,460 --> 00:21:59,160
+di valorezza dei relatori a questo convegno vorrei per ultimo dire che la democrazia
+
+167
+00:21:59,160 --> 00:22:05,040
+cristiana forse più che altri ha il diritto di porre questo problema all'ordine del giorno
+
+168
+00:22:05,040 --> 00:22:11,600
+del Paese. Dico la democrazia cristiana perché la nostra concezione della vita della società
+
+169
+00:22:11,600 --> 00:22:18,780
+dello Stato ha sempre concepito un rapporto tra l'uomo e la natura come un rapporto fisiologico
+
+170
+00:22:18,780 --> 00:22:24,440
+come un rapporto da regolare secondo ragione e secondo moralità perché l'uomo in questo
+
+171
+00:22:24,440 --> 00:22:29,160
+rapporto con la natura in base alla nostra concezione della vita non è un solitario
+
+172
+00:22:29,160 --> 00:22:34,420
+un egoista ma è un uomo solidale che si fa carico delle esigenze sociali complessive
+
+173
+00:22:34,420 --> 00:22:39,380
+e quindi ci sono nella nostra tradizione nelle nostre idee nel nostro patrimonio morale
+
+174
+00:22:39,380 --> 00:22:44,600
+elementi sufficienti accompagnati a quelli degli anticipatori che hanno operato in questo
+
+175
+00:22:44,600 --> 00:22:50,500
+campo vorrei ricordare anche quello che ha fatto in questa materia un compianto e grande
+
+176
+00:22:50,500 --> 00:22:57,360
+amico come Albertino Marcora quando fu al ministero dell'agricoltura per i parchi cioè
+
+177
+00:22:57,360 --> 00:23:01,960
+una democrazia cristiana che ha le carte in regola su tutto questo deve far leva perché
+
+178
+00:23:01,960 --> 00:23:07,000
+l'opinione pubblica sappia anche per questa via che noi non solo siamo una garanzia ma
+
+179
+00:23:07,000 --> 00:23:14,160
+abbiamo idee moderne proposte concrete e capacità operativa per salvare non soltanto per noi
+
+180
+00:23:14,160 --> 00:23:19,440
+ma anche per le nuove generazioni quell'ambiente che consenta di migliorare la qualità della
+
+181
+00:23:19,440 --> 00:23:21,840
+vita secondo principi che sono fondamentali.
+
+182
+00:23:49,140 --> 00:23:53,160
+Se vogliono accomodarsi, ci sono ancora un po' di sedie qui davanti.
+
+183
+00:23:58,000 --> 00:24:07,620
+Ah voglio salutare il ministro Zamberletti che è arrivato tra noi, poi vedo nella sala il
+
+184
+00:24:07,620 --> 00:24:15,100
+presidente Rebeccini, vedo l'onorevole Mervi e tanti altri e il presidente della Corte dei Conti
+
+185
+00:24:15,800 --> 00:24:21,360
+che anzi mi ha suggerito devo dire mentre parlavo inizialmente il riferimento al bilancio
+
+186
+00:24:21,360 --> 00:24:26,660
+dello Stato e la necessità di razionalizzarlo. Bene, il presidente Van Fanni la parola è lei.
+
+187
+00:24:29,060 --> 00:24:41,040
+Abbiamo già sentito enunciare prima dal senatore Rubi poi in una visione panoramica di estrema
+
+188
+00:24:41,040 --> 00:24:51,980
+gravità, non consenta di dirlo il ministro Granelli, in quale contesto mondiale e nazionale
+
+189
+00:24:51,980 --> 00:24:59,740
+non soltanto ecologico ma anche politico ed economico si svolge questa giornata ed è una
+
+190
+00:25:00,740 --> 00:25:08,020
+riprova dell'ascombinamento delle vicende organizzative delle varie forze politiche.
+
+191
+00:25:08,240 --> 00:25:16,780
+Questa giornata venga a non offragare ma a inserirsi in un contesto di coincidenze che
+
+192
+00:25:16,780 --> 00:25:22,300
+probabilmente distrarranno l'opinione pubblica ma distraggono anche noi e forse non tutti noi
+
+193
+00:25:22,300 --> 00:25:31,400
+potremmo per tutta la giornata essere qui presenti come avremmo desiderato dal prestare la dovuta
+
+194
+00:25:31,400 --> 00:25:41,660
+attenzione a un argomento che più lo si studia più lo si trova sconvolgente. Dico francamente che
+
+195
+00:25:41,660 --> 00:25:54,820
+fui molto sorpreso e in un certo senso sconvolto in una domenica dell'avvento ultimo quando udì
+
+196
+00:25:56,340 --> 00:26:02,980
+un uomo dell'elevatura e della grazia come l'attuale Pontevici e dire si scorgono segni
+
+197
+00:26:04,660 --> 00:26:12,160
+che preannunziano in genere, si riferiva alla storia sagra del mondo, il ritorno di Dio. Credo
+
+198
+00:26:12,160 --> 00:26:18,420
+che sia stato molto prudente a parlare di Dio e non di Gesù Cristo perché sennò l'allusione apocalittica
+
+199
+00:26:18,420 --> 00:26:31,220
+era evidente. Mi sconvolse questa cosa non per la sua incidenza nel nostro discorso ma per la
+
+200
+00:26:31,220 --> 00:26:43,180
+connessione che ormai da anni quanti studioni il problema fanno tra una serie di vicende e una
+
+201
+00:26:43,900 --> 00:26:51,380
+imperscutabile richiamo, un imperscutabile richiamo alla gravità delle conseguenze di queste stesse
+
+202
+00:26:51,380 --> 00:27:01,000
+vicende. In questo spirito ero esitante quando Melandri mi avvertì di questa incontro
+
+203
+00:27:01,220 --> 00:27:08,440
+ero esitante nell'accettare non solo non voglio dire per pigrizia ma per attaccamento a un lavoro
+
+204
+00:27:08,440 --> 00:27:17,240
+che coinvolge anche questi problemi al quale da tempo attendo e che non volevo arrestare,
+
+205
+00:27:17,380 --> 00:27:26,060
+rallentare con deviazioni di questo tipo ma anche per la imponenza del tema e del problema. Tuttavia
+
+206
+00:27:26,060 --> 00:27:33,760
+quando Melandri anche a nome di Rubie dobbiamo ringraziarli di questa iniziativa molto importante
+
+207
+00:27:33,760 --> 00:27:43,560
+aggiunse ma noi vogliamo che chi qualche consapevolezza più o meno cosciente a quei
+
+208
+00:27:43,560 --> 00:27:54,460
+tempi dimostrò di questi problemi venga a rievocarci perché questi problemi sia pure in
+
+209
+00:27:54,460 --> 00:28:03,980
+tantissimi apparvero importanti e dalle vicende non dico della storia ma della cronaca lontana
+
+210
+00:28:03,980 --> 00:28:12,120
+possa venire anche a incoraggiarci agli approfondimenti ai quali dobbiamo attendere.
+
+211
+00:28:12,420 --> 00:28:19,800
+In questo spirito caro Melandri io ho accettato il vostro impegno se che oggi mi ritrovo ben
+
+212
+00:28:19,800 --> 00:28:30,860
+volentieri qui non soltanto per ascoltare ma anche per concorre con voi a toccare tre argomenti di
+
+213
+00:28:30,860 --> 00:28:37,200
+particolare rilievo almeno per la mia esperienza il primo al cui prima Rubie accennate poi Granelli
+
+214
+00:28:38,280 --> 00:28:46,800
+quale azione preveggente non di protagonismo ma di pionierismo la democrazia cristiana in
+
+215
+00:28:46,980 --> 00:28:56,300
+i suoi principi ispiratori svolse in anni lontanissimi in questa materia. Secondo come per circostanze
+
+216
+00:28:56,300 --> 00:29:03,100
+curiose lo accennato Granelli si trovò agli uomini della democrazia cristiana si trovarono
+
+217
+00:29:03,100 --> 00:29:11,180
+e uso il plurale non a caso si trovarono a trasferire questi problemi dal campo interno
+
+218
+00:29:11,180 --> 00:29:22,000
+al campo internazionale. Terzo quale insegnamento insieme possiamo trarre da quelle esperienze per
+
+219
+00:29:22,000 --> 00:29:29,780
+constatare quante cose si sono cambiate e anche gli ultimi ridi a vista lo diceva Granelli lo
+
+220
+00:29:29,780 --> 00:29:37,140
+confermano e si sono aggravati sotto questo spirito e per questo spirito e sotto questo punto di vista
+
+221
+00:29:37,140 --> 00:29:46,560
+quindi prendo a svolgere alcune considerazioni. Tutti ricordano tutti gli anziani perché i
+
+222
+00:29:46,560 --> 00:29:53,720
+giovanissimi forse lo hanno sentito raccontare molti ricordano per averlo vissuto altri per averlo
+
+223
+00:29:53,720 --> 00:29:59,320
+sentito raccontare in quale situazione l'Italia al momento della liberazione si trovò sotto questo
+
+224
+00:29:59,320 --> 00:30:08,300
+profilo il rapporto tra l'ambiente luogo un paese devastato un paese sotto molti aspetti si può
+
+225
+00:30:08,300 --> 00:30:16,420
+letteralmente ripetere ridotto in cenere un paese invaso curiosamente dalla folla dei
+
+226
+00:30:16,420 --> 00:30:24,080
+reduci prigionieri o meno che tornavano in questo paese nella loro patria e trovavano dove quasi
+
+227
+00:30:24,080 --> 00:30:30,480
+tutto era da ricominciare un paese che anche nell'aspetto esterno delle montagne dei boschi
+
+228
+00:30:31,000 --> 00:30:39,760
+aveva avuto dalla guerra pavano ricordiamo qualche cosa di alcune montagne ferite che
+
+229
+00:30:39,760 --> 00:30:49,400
+sembravano irrisarcibili e in tutta questa circostanza nasceva sempre più vivo più
+
+230
+00:30:49,400 --> 00:30:56,300
+viva la connessione tra i problemi i problemi dell'economia e quindi del rapporto uomo ed
+
+231
+00:30:56,300 --> 00:31:06,400
+economia e i problemi del rapporto economia e natura in una rivista che ormai da tempo
+
+232
+00:31:06,400 --> 00:31:14,740
+ha cessato le pubblicazioni cronache sociali ai primi del 47 che vi parla ha scritto un
+
+233
+00:31:17,660 --> 00:31:28,060
+a metà della crisi del maggio 47 zoli mi avvertì che insieme con de gasperi avevano
+
+234
+00:31:28,060 --> 00:31:34,930
+discusso di quello è di un punto centrale di quel articolo che mi pare fin dal titolo diceva
+
+235
+00:31:35,420 --> 00:31:41,180
+occorre istituire in italia un ministero della difesa economica oggi potremmo dire per gli
+
+236
+00:31:41,180 --> 00:31:50,180
+della difesa ecologica ecco ecologica economica ed ecologica per arrivare alla conclusione che
+
+237
+00:31:50,180 --> 00:31:56,000
+bisognava così mi disse zoli mi confermò poi de gasperi chiedendomi qualche spiegazione in
+
+238
+00:31:56,000 --> 00:32:02,280
+materia costituire un nuovo ministero e non se n'avrà male biondi se diciamo che quel ministero
+
+239
+00:32:02,280 --> 00:32:09,400
+non fu immaginato come il ministero dell'ecologia ma come il ministero del bilancio curioso ci
+
+240
+00:32:09,400 --> 00:32:15,880
+torneremo su questa domanda ministero del bilancio nuovo che io avevo detto ministero
+
+241
+00:32:15,880 --> 00:32:27,200
+di difesa della situazione generale e il fatto che si chiamò bilancio e il fatto più grave
+
+242
+00:32:27,200 --> 00:32:33,120
+ancora sotto questo profilo della deviazione rispetto all'iter originario che fu assegnato
+
+243
+00:32:34,920 --> 00:32:39,800
+era stato chiesto anche il mio parere in questo proposito non potevo non consentire con entusiasmo
+
+244
+00:32:39,800 --> 00:32:49,520
+a luigi e inaudi dette l'impressione che si trasferisse dal campo di una visione universalistica
+
+245
+00:32:51,140 --> 00:32:56,600
+interdisciplinare a un settore particolarmente economico puramente economico però devo dire
+
+246
+00:32:56,600 --> 00:33:08,880
+subito che gli argomenti sui quali il nuovo governo fu chiamato ad agire riportarono ancora
+
+247
+00:33:08,880 --> 00:33:18,540
+a constatare che ambiente in senso naturalistico e ambiente in senso economico si intracciavano
+
+248
+00:33:21,600 --> 00:33:27,600
+uno dei primi non diverbi ma dialoghi molto vivaci dal mio il nuovo ministro del bilancio
+
+249
+00:33:27,600 --> 00:33:34,780
+e il nuovo ministro del lavoro riguardò proprio questo argomento caro professor de gaspe e inaudi
+
+250
+00:33:35,580 --> 00:33:41,640
+tale la folla dei disoccupati non sappiamo cosa farli fare che lei ci deve dare 2 miliardi 2
+
+251
+00:33:41,640 --> 00:33:48,360
+miliardi allora si discuteva di 2 miliardi parecchi giornate per 2 miliardi per far lavorare questa
+
+252
+00:33:48,360 --> 00:33:57,360
+gente dice inaudi a far che a piantare alberi e a questa idea del piantare alberi era divenuta
+
+253
+00:33:57,360 --> 00:34:04,100
+una commissione di economistica e di politici che il nuovo ministro del lavoro chiamò subito
+
+254
+00:34:04,100 --> 00:34:16,500
+dell'opera luglio del 1947 presiedeva parenti la quale dopo aver scartabellato tutti i settori
+
+255
+00:34:16,500 --> 00:34:22,200
+in cui si poteva a settimane immettere una folla di disoccupati arrivò alla conclusione
+
+256
+00:34:22,200 --> 00:34:31,450
+piantiamo alberi e così si cominciò che uno dei primi atti del primo autunno del 47 di
+
+257
+00:34:31,450 --> 00:34:39,110
+governo mentre eravamo travolti da un'altra febbre rovinosa anche per le questioni ecologiche quella
+
+258
+00:34:39,110 --> 00:34:48,510
+dell'inflazione allora e oggi fu quella di mobilitare questa folla di senza lavoro per
+
+259
+00:34:48,510 --> 00:34:55,230
+ristabilire un rapporto vivibile tra l'uomo e l'ambiente e attraverso questo nuovo rapporto
+
+260
+00:34:55,230 --> 00:35:02,230
+vivibile concernante la occupazione arrivare a risarcire tutto quello che la guerra amici
+
+261
+00:35:02,230 --> 00:35:08,230
+forestali aveva sconvolto sconvolta non solo dal punto di vista del legname ma dal punto
+
+262
+00:35:08,230 --> 00:35:14,630
+di vista della stessa idrologia e delle sistemazioni montanee e dal punto di vista della società
+
+263
+00:35:14,630 --> 00:35:25,710
+nel suo compesso fece molta impressione a me come cittadino quando mandato dal presidente
+
+264
+00:35:27,690 --> 00:35:38,630
+sarga al giorno stesso della inundazione dell'arno in quelle plug dai tecnici i tecnici
+
+265
+00:35:39,370 --> 00:35:45,970
+abbiamo toccato con mano che cosa ha significato il rimboscimento in tutte le zone del casentino
+
+266
+00:35:45,970 --> 00:35:54,490
+alto valdarno dove il rimboscimento dal 47 aveva cominciato a funzionare la grande alluvione che
+
+267
+00:35:54,490 --> 00:36:02,310
+devastò poi firenze e il medio e basso valdarno qui non ha recato nessun l'anno lo dico per omaggio
+
+268
+00:36:02,310 --> 00:36:09,830
+ai protagonisti di quei rimboscimenti che vedo in questa sala per vedere come era stato apparentemente
+
+269
+00:36:10,390 --> 00:36:16,870
+compiuto un atto di politica economica in realtà si era compiuto il primo grande atto di politica
+
+270
+00:36:20,210 --> 00:36:36,090
+ecologica 1947 1948 1949 49 ho sentito accennare al 49 anche qui beh devo dirvi che nel 49 il
+
+271
+00:36:36,090 --> 00:36:42,670
+ministro del lavoro ebbe una lezione dall'estero questa volta non la dava la ricevete visitando
+
+272
+00:36:43,550 --> 00:36:49,190
+inghilterra per vedere l'organizzazione della previdenza sociale constatò che l'inghilterra
+
+273
+00:36:49,190 --> 00:36:57,050
+in un altro settore stava dando lezioni intelligibili a tutti quelli che avevano voglia di capire il
+
+274
+00:36:57,050 --> 00:37:07,170
+problema delle zone depresse e tornando a vertire gasperi di quello che avevo imparato e mi sembrò
+
+275
+00:37:07,170 --> 00:37:16,350
+non gli prestasse molto ascolto arrivato in italia nell'estate il ministro bevan dall'inghilterra
+
+276
+00:37:16,350 --> 00:37:21,590
+ospite del ministro del lavoro ci scambevamo una visita anche allora prima di andare via mi mandò
+
+277
+00:37:21,590 --> 00:37:28,790
+una lettera dal lago di orta la feci leggere a gasperi 1949 lo dico per il tuo senso profegore
+
+278
+00:37:28,790 --> 00:37:34,170
+quello che ho visto nel lago di orta mi dice che l'italia sta avviandosi su una strada di un
+
+279
+00:37:34,170 --> 00:37:44,110
+altro ecologico inimmaginabile leggendo le gasperi fu stupito e cominciò un dialogo fitto all'interno
+
+280
+00:37:44,110 --> 00:37:53,310
+nostro tra lui chi vi parla dorsetti per vedere che cosa si poteva fare per essere pionieri di
+
+281
+00:37:53,310 --> 00:38:00,170
+una prevenzione e quel dialogo un scambio di lettere altri documenti che ora vi risparmio
+
+282
+00:38:00,170 --> 00:38:08,390
+portò una conclusione molto semplice la cassa del mezzogiorno la cassa del mezzogiorno nella
+
+283
+00:38:08,390 --> 00:38:17,010
+prima dialogazione non è nata come un fatto di politica economica è nata come un fatto di
+
+284
+00:38:18,230 --> 00:38:26,290
+ricostruzione del rapporto tra uomini e ambiente in una grandissima zona d'italia si che se ancora
+
+285
+00:38:26,290 --> 00:38:33,890
+il problema persiste e sappiamo che persista caro rubi dato che te ne devi occupare anche
+
+286
+00:38:33,890 --> 00:38:43,470
+nel tuo ufficio direzionale attenzione che al di sopra del problema relativo allo sviluppo
+
+287
+00:38:43,470 --> 00:38:50,870
+economico c'è un problema di riassestamento generale in una gran parte d'italia sotto il profilo
+
+288
+00:38:50,870 --> 00:38:58,310
+dell'ecologia intesa nel senso più vasto e questa fu la ragione per la quale altra inserzione dei
+
+289
+00:38:58,310 --> 00:39:05,170
+problemi ecologici nei problemi economici subito dopo negli anni successivi si dovette provvedere
+
+290
+00:39:05,910 --> 00:39:11,210
+a tener presente che non c'era solo un problema del mezzogiorno le zone depressi in italia erano
+
+291
+00:39:11,210 --> 00:39:19,870
+anche nel nord e nel centro le varie leggini sulle zone depressi il ritorno cioè la questione di
+
+292
+00:39:19,870 --> 00:39:27,370
+se si deve fare qualche motore diciamo così qualche volano per la rianimazione economica
+
+293
+00:39:27,370 --> 00:39:34,750
+centralizzato o viceversa non si debba organizzare qualche cosa di specifico a seconda della gravità
+
+294
+00:39:35,810 --> 00:39:44,790
+amico zamberletti delle varie zone e aree sia nel nord sia nel sud perché il problema di fondo
+
+295
+00:39:44,790 --> 00:39:50,570
+di tutte queste questioni non è un problema soltanto di natura economica ma è un problema
+
+296
+00:39:50,570 --> 00:39:57,170
+molto più vasto che va al centro della vita del globo del resto basta rifarsi a quello che dicono
+
+297
+00:39:57,170 --> 00:40:03,870
+le storie di tutte le religioni per vedere che all'origine di tutte queste elucubrazioni e
+
+298
+00:40:03,870 --> 00:40:10,590
+narrazioni c'è questo il mandato che in un modo più o meno solenne col peccato originale o senza
+
+299
+00:40:10,590 --> 00:40:18,310
+peccato originale il creatore ha dato e ha fissato all'uomo vai e domina la terra cioè scopre i
+
+300
+00:40:18,310 --> 00:40:24,930
+beni e i segreti della terra e attraverso la scoperta rendi permanentemente benefico questo
+
+301
+00:40:24,930 --> 00:40:32,790
+rapporto tra luogo creato e la creazione in al cui centro l'uomo è stato e faccio alle ultime
+
+302
+00:40:32,790 --> 00:40:40,570
+considerazioni di grenelli a proposito della specifica non competenza specifica caratteristica
+
+303
+00:40:40,570 --> 00:40:46,870
+di un partito come quello che ha osato democratico che ha osato dirsi l'ispirazione cristiana ha
+
+304
+00:40:46,870 --> 00:41:00,110
+osato dirsi e grenelli mi capisce bene quale terza grande operazione ecologica uomini della
+
+305
+00:41:00,110 --> 00:41:08,290
+democrazia cristiana allora misero in cantiere rievochiamo la grande benemerita memoria di
+
+306
+00:41:08,890 --> 00:41:13,550
+segni mi ero dimenticato di dire per quanto riguarda la cassa del mezzogiorno un altro
+
+307
+00:41:13,550 --> 00:41:20,870
+benemerito che non possiamo dimenticare campilli il primo ministro della cassa con lui che
+
+308
+00:41:20,870 --> 00:41:27,890
+dette l'avvio e per averne parlato quel tempo avevano domandato a me se voleva fare il
+
+309
+00:41:27,890 --> 00:41:32,020
+ministro della cassa del mezzogiorno ma io volevo lasciare il governo e lo lasciai quindi non
+
+310
+00:41:32,020 --> 00:41:42,520
+la cassa del mezzogiorno campilli che intese il problema e nella eccezione più vasta che
+
+311
+00:41:42,520 --> 00:41:52,560
+ora vi ho ricordato antonio segno che cos'è la legge di riforma agraria è un grosso tentativo
+
+312
+00:41:53,100 --> 00:42:00,450
+per creare un rapporto diverso tra l'uomo e la terra ma l'uomo e la terra intesa non
+
+313
+00:42:00,450 --> 00:42:09,930
+tanto come coltivatore bifolco bracciante senza lavoro e le aree coltivate l'uomo e
+
+314
+00:42:09,930 --> 00:42:15,330
+la terra in un contesto generale di una società che usciva da una catastrofe come quella
+
+315
+00:42:15,330 --> 00:42:22,910
+della guerra sotto questo profilo io richiamo l'attenzione vostra e mia in questi giorni
+
+316
+00:42:22,910 --> 00:42:30,010
+potete immaginare come ho scartabellato la faccenda per vedere in questa visione di
+
+317
+00:42:30,010 --> 00:42:35,490
+antonio segno e ricordiamo anche la malfa per il contributo che ha detto che questa
+
+318
+00:42:35,490 --> 00:42:52,890
+realizzazione vuole portare nell'interno della democrazia cristiana e quando voi andate a
+
+319
+00:42:53,570 --> 00:43:00,470
+operazione le centinaia di migliaia di lavoratori braccianti con i loro familiari che furono
+
+320
+00:43:00,470 --> 00:43:07,690
+investiti da questa operazione le migliaia di chilometri di viotto e le di strade l'enormità
+
+321
+00:43:07,690 --> 00:43:19,590
+dei risodamenti i problemi dell'irrigazione le centinaia e centinaia migliaia di milioni
+
+322
+00:43:19,590 --> 00:43:29,290
+investiti in questa operazione voi intendete subito quale influenza ha avuto nel fare assumere
+
+323
+00:43:29,290 --> 00:43:36,350
+l'italia un'altra configurazione in questa grande plaga e area delle zone di riforme
+
+324
+00:43:36,350 --> 00:43:43,690
+per quanto riguardi i rapporti tra l'uomo e l'ambiente e ha avuto l'incarico di applicare
+
+325
+00:43:43,690 --> 00:43:48,910
+la legge di riforma ricordo che le gaspe il milizio si abbiamo fatto la riforma ora però
+
+326
+00:43:48,910 --> 00:43:55,690
+pensiamo a quelli che non sono stati investiti dalla riforma era gran parte dell'italia per
+
+327
+00:43:55,690 --> 00:44:01,570
+vedere come rianimare i loro sforzi e portarli all'avanguardia della coltivazione della terra
+
+328
+00:44:01,570 --> 00:44:08,130
+ecco le altre leggi la legge della montagna la legge della montagna che in minima parte
+
+329
+00:44:08,130 --> 00:44:16,110
+la montagna era stata investita dalla riforma la legge del piano settennale per la meccanizzazione
+
+330
+00:44:16,110 --> 00:44:23,670
+dell'agricoltura nel solo primo anno 90 mila macchine nuove entrate nell'elaborazione della
+
+331
+00:44:23,670 --> 00:44:32,890
+terra la legge del piano dodecennale per l'irrigazione e venne proprio in quegli anni
+
+332
+00:44:32,890 --> 00:44:40,380
+ad aiutarci la provvidenza trasformarci a noi partito di governo preoccupato dei problemi
+
+333
+00:44:40,380 --> 00:44:49,860
+dell'economia in partito dell'ecologia dall'alluvione del polesino novembre del 1951 l'inondazione
+
+334
+00:44:49,860 --> 00:44:59,980
+vastissima il caro brusasca nominato commissario anche progenitore delle calamità nominato commissario
+
