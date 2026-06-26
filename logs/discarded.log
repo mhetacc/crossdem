@@ -50,3 +50,4 @@ https://www.radioradicale.it/scheda/329983/dichiarazioni-di-mario-draghi-al-term
 https://www.radioradicale.it/scheda/241861/cerimonia-di-inaugurazione-del-nuovo-anno-accademico-delluniversita-luiss-guido-carli?i=1085321  RuntimeError: yt-dlp exited 1
 https://www.radioradicale.it/scheda/520587/atreju-2017-difendere-i-confini-dellidentita-e-londata-migratoria?i=3756748  ValueError: No timestamps
 https://www.radioradicale.it/scheda/335003/atreju-2011-il-presidente-del-consiglio-silvio-berlusconi-a-confronto-con-la-giovane?i=500646  ValueError: No timestamps
+https://www.radioradicale.it/scheda/287689/festa-nazionale-della-liberta-il-governo-berlusconi-mantiene-gli-impegni-incontro-con?i=662976  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/meloni/audio_out/_out_287689_meloni.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/meloni/audio_out/287689_meloni.mp3'
