@@ -43,3 +43,10 @@ https://www.radioradicale.it/scheda/329983/dichiarazioni-di-mario-draghi-al-term
 https://www.radioradicale.it/scheda/241861/cerimonia-di-inaugurazione-del-nuovo-anno-accademico-delluniversita-luiss-guido-carli?i=1085321  RuntimeError: yt-dlp exited 1
 https://www.radioradicale.it/scheda/520587/atreju-2017-difendere-i-confini-dellidentita-e-londata-migratoria?i=3756748  ValueError: No timestamps
 https://www.radioradicale.it/scheda/335003/atreju-2011-il-presidente-del-consiglio-silvio-berlusconi-a-confronto-con-la-giovane?i=500646  ValueError: No timestamps
+https://www.radioradicale.it/scheda/112797/i-fondi-pensione-in-italia-illusione-o-realta-org-dallassociazione-borsisti-marco?i=1835579  ValueError: No timestamps
+https://www.radioradicale.it/scheda/109051/il-futuro-delle-relazioni-internazionali-convegno-internazionale-organizzato-dalla?i=1875404  ValueError: No timestamps
+https://www.radioradicale.it/scheda/94701/verso-la-moneta-unica-europea-org-in-occasione-della-pubblicazione-del-secondo-rapporto?i=2067362  ValueError: No timestamps
+https://www.radioradicale.it/scheda/329983/dichiarazioni-di-mario-draghi-al-termine-del-suo-intervento-al-parlamento-europeo?i=515929  ValueError: No timestamps
+https://www.radioradicale.it/scheda/241861/cerimonia-di-inaugurazione-del-nuovo-anno-accademico-delluniversita-luiss-guido-carli?i=1085321  RuntimeError: yt-dlp exited 1
+https://www.radioradicale.it/scheda/520587/atreju-2017-difendere-i-confini-dellidentita-e-londata-migratoria?i=3756748  ValueError: No timestamps
+https://www.radioradicale.it/scheda/335003/atreju-2011-il-presidente-del-consiglio-silvio-berlusconi-a-confronto-con-la-giovane?i=500646  ValueError: No timestamps
