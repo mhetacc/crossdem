@@ -1,0 +1,1472 @@
+1
+00:00:01,520 --> 00:00:07,860
+Il Governo si offre per facilitare un avviso comune di questo tipo e per fare qualcosa
+
+2
+00:00:07,860 --> 00:00:15,960
+in più. A fronte di un avviso comune e sul presupposto della sua verificata operatività
+
+3
+00:00:15,960 --> 00:00:24,820
+ed efficacia, il Governo si impegna a rivedere, e naturalmente a rivedere in meglio, sui regime
+
+4
+00:00:24,820 --> 00:00:32,060
+fiscale delle deduzioni delle perdite sui credit. Non solo, ci sono tavole di regole
+
+5
+00:00:32,060 --> 00:00:40,840
+che non discendono dal Monte Sinai, e sono regole che non sono né immutabili perché
+
+6
+00:00:40,840 --> 00:00:50,320
+sacre né assolutamente razionali. Parlo di IA 39 e di Basilea 2. Il Governo italiano
+
+7
+00:00:50,320 --> 00:00:55,840
+con gli altri governi europei si sta attivamente e tempestivamente adoperando per modificare.
+
+8
+00:00:58,860 --> 00:01:06,040
+Finisco. C'è nelle cose umane un ciclo misterioso. Lo ha detto al tempo della Grande
+
+9
+00:01:06,040 --> 00:01:12,740
+Depressione il Presidente Ruhmert. Ha molte generazioni, molto edatto. Da altre generazioni
+
+10
+00:01:12,740 --> 00:01:21,300
+molto e atteso. Questa nostra generazione ha un rendez-vous col destino. Abbiamo, banca,
+
+11
+00:01:21,440 --> 00:01:29,140
+imprese e Governo, il potere e credo il dovere di affrontare e di realizzare insieme un prezzo
+
+12
+00:01:29,140 --> 00:01:33,720
+del nostro destino per noi, per i nostri figli e per i nostri presi. Grazie.
+
+13
+00:01:51,980 --> 00:02:00,000
+Grazie Ministro Tremonti. Faremo tesoro e lavoreremo insieme per realizzare l'obiettivo
+
+14
+00:02:00,000 --> 00:02:06,620
+che ci è comune. Do ora la parola al Governatore Dott. Mario Draghi.
+
+15
+00:02:15,660 --> 00:02:20,340
+Signor Ministro dell'Economia e delle Finanze, signor Sottosegretario della Presidenza del
+
+16
+00:02:20,340 --> 00:02:25,300
+Consiglio, signori Ministri della Repubblica, onorevoli i rappresentanti del Parlamento
+
+17
+00:02:25,300 --> 00:02:31,340
+del Governo, signor Presidente dell'Associazione Bancaire Italiana, autorità, signore e signori.
+
+18
+00:02:33,980 --> 00:02:44,240
+Mi si consenta di iniziare questa conversazione in questo appuntamento annuale con un saluto
+
+19
+00:02:44,240 --> 00:02:51,080
+a Giuseppe Zadra. Voglio in un certo senso echeggiare le parole del Presidente, qui portando
+
+20
+00:02:51,080 --> 00:02:59,660
+la testimonianza di un'amicizia che dura una vita. Voglio notare soltanto una cosa. Puccio
+
+21
+00:02:59,660 --> 00:03:07,220
+Zadra ha dato un contributo fondamentale, prima di venire all'ABI, a costruire la consop
+
+22
+00:03:07,220 --> 00:03:14,360
+che vediamo oggi, una consop moderna, una consop al passo con l'evoluzione dei mercati
+
+23
+00:03:14,360 --> 00:03:20,780
+dei capitali. Facendo così, in quegli anni si batteva disperatamente contro un mondo
+
+24
+00:03:20,780 --> 00:03:26,440
+che era profondamente banco centrico, dove i mercati dei capitali non esistevano ancora.
+
+25
+00:03:27,280 --> 00:03:33,680
+Passato all'ABI, con grande professionalità e competenza, ma con la stessa grinta, si
+
+26
+00:03:33,680 --> 00:03:41,100
+ha combattuto per l'interesse delle banche, ma anche e sempre per l'interesse generale.
+
+27
+00:03:41,100 --> 00:03:48,760
+Questa è un'ironia, un paradosso delle carriere delle persone serie. Quindi vorrei salutare
+
+28
+00:03:48,760 --> 00:03:53,300
+e ringraziare Puccio Zadra personalmente e anche da un punto di vista istituzionale.
+
+29
+00:04:05,880 --> 00:04:12,580
+Non ho elementi particolari per aggiornare il quadro macroeconomico fatto in occasione
+
+30
+00:04:12,580 --> 00:04:18,280
+delle considerazioni finali del 31 maggio. C'è un dato positivo, incoraggiante, sulla
+
+31
+00:04:18,280 --> 00:04:23,840
+diminuzione delle ore di cassa integrazione, che potrebbe far pensare che forse le cose
+
+32
+00:04:23,840 --> 00:04:28,600
+stanno cambiando, ma occorre molta cautela nell'interpretarlo, perché abbiamo avuto
+
+33
+00:04:28,600 --> 00:04:32,780
+già una volta una diminuzione di ore di cassa integrazione a gennaio e poi quattro mesi
+
+34
+00:04:32,780 --> 00:04:41,280
+di aumenti consecutivi, ma poi dobbiamo constatare che esiste una forte stagionalità, per cui
+
+35
+00:04:41,280 --> 00:04:47,000
+negli ultimi vent'anni in media le ore di cassa integrazione diminuiscono a giugno.
+
+36
+00:04:47,000 --> 00:04:54,800
+Quindi una rondine non fa primavera, ma tuttavia bisogna cogliere il segnale positivo che
+
+37
+00:04:54,800 --> 00:05:00,020
+viene da questo dato. Quindi speriamo di vedere altre rondini nei mesi che seguono.
+
+38
+00:05:01,860 --> 00:05:10,540
+Avevo annunciato il 31 maggio che avrei parlato di banche e quindi limito la mia esposizione
+
+39
+00:05:10,540 --> 00:05:18,340
+alla situazione del credito delle banche e quella della vigilanza. Il credito al settore
+
+40
+00:05:18,340 --> 00:05:25,780
+privato rallenta ancora. Da aprile la variazione su tre mesi è divenuta negativa. In maggio
+
+41
+00:05:25,780 --> 00:05:31,940
+era pari a meno 0,9% su base annua, mentre nell'ultimo decennio il tasso di crescita
+
+42
+00:05:31,940 --> 00:05:37,860
+medio anno del credito al settore privato è stato pari a poco meno del 10%. La contrazione
+
+43
+00:05:37,860 --> 00:05:43,320
+riguarda le imprese, mentre i prestiti alle famiglie continuano ad espandersi, anche se
+
+44
+00:05:43,320 --> 00:05:49,020
+a ritmi complessivamente inferiori a quelli degli ultimi anni. È particolarmente intensa
+
+45
+00:05:49,020 --> 00:05:52,580
+la decelerazione dei prestiti erogati dai gruppi bancari maggiori.
+
+46
+00:05:53,500 --> 00:05:57,980
+Il Consiglio Direttivo della Banca Centrale Europea ha ampliato in misura eccezionale
+
+47
+00:05:57,980 --> 00:06:01,780
+il sostegno alla liquidità delle banche. Ha inoltre avviato un piano di acquisti di
+
+48
+00:06:01,780 --> 00:06:07,260
+covered bonds emessi dagli intermediari dell'area per complessivi 60 miliardi, con l'obiettivo
+
+49
+00:06:07,260 --> 00:06:11,580
+principale di allentare le condizioni di finanziamento per enti creditizi e imprese
+
+50
+00:06:11,580 --> 00:06:16,460
+e di incoraggiare le banche a mantenere e a crescere i prestiti alla clientela. La Banca
+
+51
+00:06:16,460 --> 00:06:21,140
+d'Italia partecipa agli acquisti in proporzione al suo peso nel capitale della Banca Centrale
+
+52
+00:06:22,100 --> 00:06:24,900
+Europea. Seguendo la diminuzione dei tassi ufficiali
+
+53
+00:06:24,900 --> 00:06:29,060
+dell'eurosistema, i tassi sui prestiti bancari a famiglie e imprese italiane si sono ridotti
+
+54
+00:06:29,060 --> 00:06:33,760
+a livello medio dell'area, tranne che per i prestiti al consumo che restano più cari.
+
+55
+00:06:34,140 --> 00:06:38,560
+L'aumento del rischio di credito si è tradotto in un ampliamento del divario nel costo del
+
+56
+00:06:38,560 --> 00:06:43,080
+credito tra piccole e grandi imprese, con effetti negativi per chi oggi ha maggiormente
+
+57
+00:06:43,080 --> 00:06:48,780
+bisogno di accedere al finanziamento bancario. La recessione si fa sentire anche sulla qualità
+
+58
+00:06:48,780 --> 00:06:53,540
+del credito. Nel primo trimestre dell'anno, il rapporto tra le nuove sofferenze e il totale
+
+59
+00:06:53,540 --> 00:06:59,220
+dei finanziamenti bancari ha raggiunto l'1,6%, il valore più elevato osservato in questo
+
+60
+00:06:59,980 --> 00:07:05,720
+decennio. Aveva superato il 3% a seguito della recessione dei primi anni 90. L'aumento
+
+61
+00:07:05,720 --> 00:07:09,460
+di incagli, errate e non pagate prefigura un ulteriore peggioramento.
+
+62
+00:07:10,580 --> 00:07:13,820
+Nel mezzogiorno il livello di rischiosità dei debitori è in media più alto di quello
+
+63
+00:07:13,820 --> 00:07:18,800
+del centro nord, ma il tasso di crescita dei prestiti bancari era a marzo superiore a
+
+64
+00:07:18,800 --> 00:07:23,240
+quello delle altre aree del Paese, sia pure con un costo che in media è più alto di
+
+65
+00:07:23,240 --> 00:07:26,760
+quello del centro nord di 1,7 punti percentuali.
+
+66
+00:07:28,180 --> 00:07:33,140
+Il deterioramento della qualità dei prestiti incide in misura crescente sui profitti delle
+
+67
+00:07:33,140 --> 00:07:37,580
+banche. Nel primo trimestre di quest'anno, gli accantonamenti a fronte del rischio di
+
+68
+00:07:37,580 --> 00:07:42,960
+credito dei maggiori gruppi sono più che raddoppiati, assorbendo metà del risultato
+
+69
+00:07:42,960 --> 00:07:49,320
+di gestione. Gli utili complessivi si sono ridotti del 40%, il ROE delle attività ricorrenti
+
+70
+00:07:49,320 --> 00:07:55,000
+si è dimezzato al 4,5%. I fattori che oggi comprimono la redettività
+
+71
+00:07:55,000 --> 00:08:00,080
+delle banche sono destinati ad accentuarsi, risentendo della recessione in corso con gli
+
+72
+00:08:00,080 --> 00:08:06,280
+usuali ritardi. L'impegno al contenimento dei costi va intensificato, la realizzazione
+
+73
+00:08:06,280 --> 00:08:11,740
+delle economie previste nei piani industriali deve accelerare. Ricordiamo che nella recessione
+
+74
+00:08:11,740 --> 00:08:18,540
+di inizio anni 90 il picco delle sofferenze si registrò due anni dopo la fine della recessione.
+
+75
+00:08:18,540 --> 00:08:23,520
+Quindi è un periodo difficile quello che abbiamo davanti, quello che avete davanti
+
+76
+00:08:23,520 --> 00:08:28,900
+e non di breve durata. Le banche sono determinanti nel rendere la
+
+77
+00:08:28,900 --> 00:08:35,380
+crisi che stiamo affrontando più o meno duratura, più o meno profonda. Bisogna conciliare il
+
+78
+00:08:35,380 --> 00:08:39,320
+perseguimento di prudenti equilibri economici e patrimoniali con l'esigenza di non far
+
+79
+00:08:39,320 --> 00:08:44,130
+mancare il sostegno finanziario alle imprese con buona opportunità di crescita, reali
+
+80
+00:08:44,130 --> 00:08:51,790
+la crisi. Tanto le banche quanto la vigilanza mancherebbero di assolvere ai propri compiti
+
+81
+00:08:51,790 --> 00:08:57,070
+e alle proprie responsabilità se si allontanassero dal sentiero della rigorosa valutazione del
+
+82
+00:08:57,070 --> 00:09:03,170
+merito di credito. Un sistema bancario sano e condizione necessaria per lo sviluppo è
+
+83
+00:09:03,170 --> 00:09:08,950
+presidio del risparmio affidato agli intermediari. Ma è altrettanto importante che le banche
+
+84
+00:09:08,950 --> 00:09:13,850
+non doccidano il predito da dare. Tutta l'informazione è loro disponibile.
+
+85
+00:09:14,870 --> 00:09:21,330
+Integrino i risultati dei metodi di scoring, che perdono parte della loro capacità predittiva
+
+86
+00:09:21,330 --> 00:09:26,310
+in momenti eccezionali, con la conoscenza diretta del cliente. E qui le parole del Presidente
+
+87
+00:09:26,310 --> 00:09:32,710
+Faissola sono incoraggianti. Con la conoscenza diretta del cliente delle sue effettive potenzialità
+
+88
+00:09:32,710 --> 00:09:37,890
+di crescita e di redittività nel lungo periodo. Il radicamento territoriale del sistema bancario
+
+89
+00:09:37,890 --> 00:09:45,310
+è prezioso, va utilizzato, dove è stato perso, va ricostruito. Occorre valorizzare
+
+90
+00:09:45,310 --> 00:09:51,110
+quanto più possibile le conoscenze sul campo evitando un eccesso di automatismi. Esistono
+
+91
+00:09:51,110 --> 00:09:56,430
+ampi margini di miglioramento. Alcune banche, anche grandi, stanno cominciando a muoversi
+
+92
+00:09:56,430 --> 00:10:00,850
+in questa direzione, rivedendo modelli organizzativi e procedure decisionali.
+
+93
+00:10:03,570 --> 00:10:09,670
+Cosa chiede alle banche la vigilanza prudenziale. Le risorse patrimoniali delle banche italiane
+
+94
+00:10:09,670 --> 00:10:13,810
+si collocano ampiamente al di sopra dei minimi regolamentari. Lo sono state anche durante
+
+95
+00:10:13,810 --> 00:10:18,670
+le fasi più acute della crisi finanziaria. Nei primi tre mesi di quest'anno i coefficienti
+
+96
+00:10:18,670 --> 00:10:24,070
+patrimoniali dei maggiori gruppi bancari sono aumentati. Ho già detto e torno a ripeterlo
+
+97
+00:10:24,070 --> 00:10:30,830
+che è necessario comunque un rafforzamento. Non si tratta solo di mantenere elevato il
+
+98
+00:10:30,830 --> 00:10:35,070
+precompetere ad armi pari con gli intermediari esteri che nei mesi scorsi hanno dovuto far
+
+99
+00:10:35,070 --> 00:10:40,490
+ricorso a massicce iniezioni di capitale pubblico. Bisogna prepararsi fin da ora a operare con
+
+100
+00:10:40,490 --> 00:10:45,210
+una dotazione di capitale che la regolamentazione vorrà in prospettiva più ampia di oggi.
+
+101
+00:10:46,490 --> 00:10:51,170
+Rafforzare il patrimonio è soprattutto indispensabile per affrontare il deterioramento del quadro
+
+102
+00:10:51,170 --> 00:10:56,210
+macroeconomico senza far mancare il sostegno di cui necessitano le imprese, le famiglie
+
+103
+00:10:56,210 --> 00:11:02,630
+e l'economia. In questa fase la Banca d'Italia non consente alle banche il rimborso anticipato
+
+104
+00:11:02,630 --> 00:11:07,390
+di strumenti patrimoniali senza un piano di sostituzione con risorse equivalenti per qualità
+
+105
+00:11:07,390 --> 00:11:13,490
+e quantità. Nel confronto internazionale la qualità del capitale delle banche italiane
+
+106
+00:11:13,490 --> 00:11:19,910
+è elevata. Sappiamo anche che il rigore che usiamo nel valutare la computabilità degli
+
+107
+00:11:19,910 --> 00:11:25,290
+strumenti finanziari nel patrimonio di vigilanza è sembrato in passato porre alle banche italiane
+
+108
+00:11:25,290 --> 00:11:30,350
+in posizione di svantaggio rispetto a quanto succedeva in altri Paesi. Abbiamo voluto
+
+109
+00:11:30,350 --> 00:11:35,970
+che fosse così anche in tempi in cui il mercato sembrava tollerare livelli di rischio particolarmente
+
+110
+00:11:35,970 --> 00:11:41,570
+elevati. Queste prassi, questi criteri di valutazione messi a dura prova negli ultimi
+
+111
+00:11:41,570 --> 00:11:47,430
+due anni hanno finora comportato benefici per le banche, per l'economia, per le finanze
+
+112
+00:11:47,430 --> 00:11:48,010
+pubbliche.
+
+113
+00:11:51,830 --> 00:11:56,750
+Oggi, la liquidità del sistema è ancora assicurata dalle massicce iniezioni di fondi
+
+114
+00:11:56,750 --> 00:12:02,370
+delle banche centrali. La politica di sorveglianza che abbiamo avviato nel 2007 ha aiutato il
+
+115
+00:12:02,370 --> 00:12:06,490
+sistema bancario italiano a superare senza scosse significative la fortissima tensione
+
+116
+00:12:06,490 --> 00:12:12,070
+dell'ultima parte del 2008. Continuiamo a chiedere alle banche di assicurare la copertura
+
+117
+00:12:12,070 --> 00:12:17,910
+dei deflussi prevedibili su un ampio orizzonte di scadenze. Gli strumenti di analisi e intervento
+
+118
+00:12:17,910 --> 00:12:19,670
+vengono continuamente affinati.
+
+119
+00:12:20,330 --> 00:12:24,310
+Ai primi dieci gruppi bancari italiani è stato chiesto di effettuare un esercizio di stress
+
+120
+00:12:24,310 --> 00:12:29,350
+di liquidità, il cui esito ha mostrato un'elevata capacità di resistenza dei maggiori gruppi.
+
+121
+00:12:30,910 --> 00:12:34,910
+Nelle sedi della cooperazione internazionale si sta lavorando alla definizione di presidi
+
+122
+00:12:34,910 --> 00:12:39,990
+comuni contro i rischi di liquidità. La Banca d'Italia sostiene uno schema basato su due
+
+123
+00:12:39,990 --> 00:12:45,150
+strumenti. Da un lato, l'obbligo di detenere in ogni momento riserve liquide sufficienti
+
+124
+00:12:45,150 --> 00:12:49,170
+per assicurare, anche in caso di stress, la copertura dei deflussi di liquidità per
+
+125
+00:12:49,170 --> 00:12:54,310
+un tempo congruo. Dall'altro, il mantenimento di un minimo equilibrio strutturale tra la
+
+126
+00:12:54,310 --> 00:12:59,550
+duration del passivo e quella dell'attivo. Su queste posizioni si sta manifestando una
+
+127
+00:12:59,550 --> 00:13:01,270
+sostanziale convergenza.
+
+128
+00:13:02,690 --> 00:13:06,850
+La recente operazione di finanziamento a un anno condotta dall'eurosistema ha raggiunto
+
+129
+00:13:06,850 --> 00:13:15,130
+massimi storici, sia nel numero delle controparti, più di millecento, sia nell'importa a
+
+130
+00:13:16,330 --> 00:13:21,270
+442 miliardi di euro. La partecipazione delle banche italiane è stata pari a meno del
+
+131
+00:13:21,270 --> 00:13:39,090
+3% del totale. Anche per la qualità degli impieghi e più in generale degli attivi bancari,
+
+132
+00:13:39,470 --> 00:13:44,050
+rigorose prove di resistenza condotte in modo coordinato sotto la guida della vigilanza
+
+133
+00:13:44,050 --> 00:13:47,890
+sono essenziali per valutare la solidità dei singoli intermediari e del sistema nel
+
+134
+00:13:47,890 --> 00:13:53,690
+suo complesso, a crescere la trasparenza dei loro bilanci e a far ripartire il normale
+
+135
+00:13:53,690 --> 00:13:55,810
+funzionamento del circuito del credito.
+
+136
+00:13:56,910 --> 00:14:01,110
+Negli Stati Uniti, nelle settimane immediatamente successive alla pubblicazione dei risultati
+
+137
+00:14:01,110 --> 00:14:07,030
+degli stress test, le 19 banche coinvolte sono riuscite, anche grazie alla dismissione
+
+138
+00:14:07,030 --> 00:14:13,090
+di attività ritenute non strategiche, a raccogliere nuovo capitale di rischio per quasi 65 miliardi
+
+139
+00:14:13,090 --> 00:14:19,930
+di dollari, a demettere obbligazioni senza garanzia pubblica per oltre 20 miliardi. L'effetto
+
+140
+00:14:19,930 --> 00:14:24,790
+si è esteso al complesso delle banche statunitensi, che in totale hanno collocato sul mercato
+
+141
+00:14:24,790 --> 00:14:29,230
+nuove azioni per quasi 90 miliardi, nel trimestre che si è appena concluso.
+
+142
+00:14:30,430 --> 00:14:34,710
+In anticipo, rispetto all'analog esercizio coordinato previsto a livello europeo nelle
+
+143
+00:14:34,710 --> 00:14:40,050
+scorse settimane abbiamo completato una prova di stress sul sistema bancario italiano, stimando
+
+144
+00:14:40,050 --> 00:14:46,870
+le perdite su crediti che si verificherebbero nel biennio 2009-2010 in condizioni macroeconomiche
+
+145
+00:14:46,870 --> 00:14:51,910
+persino più sfavorevole di quelle attuali. Le perdite in eccesso rispetto agli utili
+
+146
+00:14:51,910 --> 00:14:58,090
+di gestione ridurrebbero le eccedenze patrimoniali di fine 2008 di circa il 20%. Il risultato
+
+147
+00:14:58,090 --> 00:15:01,730
+conferma nel complesso l'adeguata patrimonializzazione del sistema.
+
+148
+00:15:03,490 --> 00:15:09,550
+Eterogeneità degli intermediari, metodologie ancora troppo diverse, risultati difficilmente
+
+149
+00:15:09,550 --> 00:15:14,650
+comparabili non rendono al momento praticabile la pubblicazione dei risultati individuali
+
+150
+00:15:14,650 --> 00:15:20,430
+delle prove di stress che si stanno elaborando a livello europeo. Resto però convinto che
+
+151
+00:15:20,430 --> 00:15:25,960
+questo obiettivo non sia procrastinabile a lungo senza ritardare il necessario ritorno
+
+152
+00:15:25,960 --> 00:15:32,640
+al mercato dei capitali privati da parte delle banche. In generale, resto convinto che per
+
+153
+00:15:32,640 --> 00:15:37,600
+riconquistare la fiducia dei cittadini, degli investitori e dei mercati, un esercizio di
+
+154
+00:15:37,600 --> 00:15:41,520
+trasparenza più intenso di quello che è stato compiuto finora – e qui non mi riferisco
+
+155
+00:15:41,520 --> 00:15:45,920
+tanto alle banche italiane, mi riferisco in generale alle banche internazionali – sia
+
+156
+00:15:46,440 --> 00:15:51,360
+necessario. E, in un certo senso, la prova del nove di questa trasparenza nei prossimi
+
+157
+00:15:51,360 --> 00:15:57,060
+mesi è proprio la conduzione e la pubblicazione di questi stress test a livello di aziende
+
+158
+00:15:57,060 --> 00:15:59,500
+individuali, non solo di complesso del sistema.
+
+159
+00:16:02,440 --> 00:16:08,080
+La rigorosa gestione dei rischi della banca, la tutela del suo buon nome, la verifica della
+
+160
+00:16:08,080 --> 00:16:12,780
+sua correttezza, il rispetto delle regole richiedono un governo societario e un sistema
+
+161
+00:16:12,780 --> 00:16:18,140
+di controlli interni solidi e efficaci. Essi sono, ancor prima della vigilanza della Banca
+
+162
+00:16:18,140 --> 00:16:23,380
+d'Italia, il primo presidio della stabilità della banca. L'anno scorso abbiamo emanato
+
+163
+00:16:23,380 --> 00:16:27,500
+norme a cui le banche hanno dovuto uniformarsi anche con adeguamenti degli statuti entro
+
+164
+00:16:27,500 --> 00:16:33,540
+il 30 giugno. Gli statuti necessitano della nostra approvazione. L'interazione con le
+
+165
+00:16:33,540 --> 00:16:38,560
+banche è stata intensa. Rispettando l'autonomia di ogni banca nella scelta del proprio modello
+
+166
+00:16:38,560 --> 00:16:45,420
+di governance, abbiamo promosso coerenza e unitarietà degli indirizzi, chiarezza nelle
+
+167
+00:16:46,140 --> 00:16:51,220
+regole, adeguato bilanciamento dei poteri. Abbiamo chiesto alle banche di semplificare
+
+168
+00:16:51,220 --> 00:16:55,200
+la propria struttura di governo contenendo il numero dei consiglieri, evitando sovrapposizioni
+
+169
+00:16:55,200 --> 00:17:00,300
+di competenze e stratificazioni di organi. Abbiamo chiesto che il Presidente svolgesse
+
+170
+00:17:00,300 --> 00:17:05,920
+un ruolo di raccordo e garanzia, dialettico nei confronti del vertice esecutivo, imponendo
+
+171
+00:17:05,920 --> 00:17:15,400
+condizioni per una sua corretta attività nel comitato esecutivo, se costituito. Abbiamo
+
+172
+00:17:15,400 --> 00:17:21,960
+delle banche non quotate. Per le peculiarità del loro azionariato e della loro governance,
+
+173
+00:17:22,380 --> 00:17:26,220
+abbiamo rivolto particolare attenzione ai meccanismi di nomina degli organi delle banche
+
+174
+00:17:26,220 --> 00:17:32,180
+popolari, mirando a conservarne gli elementi di forza, la responsabilità sociale, il forte
+
+175
+00:17:32,180 --> 00:17:38,180
+rapporto con le famiglie e il tessuto produttivo, e a contenere il rischio di un'eccessiva
+
+176
+00:17:39,020 --> 00:17:44,260
+autoreferenzialità del management. Nel rispetto dello spirito mutualistico e del principio
+
+177
+00:17:44,260 --> 00:17:49,220
+egalitario della struttura cooperativa, abbiamo promosso meccanismi di elezione che diano
+
+178
+00:17:49,220 --> 00:17:54,760
+voce eventuali significative minoranze della base sociale. Abbiamo favorito un ampliamento
+
+179
+00:17:54,760 --> 00:17:59,500
+delle deleghe di voto, suggerito altri strumenti per facilitare un'efficace partecipazione
+
+180
+00:17:59,500 --> 00:18:05,040
+dei soci. I progressi compiuti, sebbene a velocità diseguale, sono significativi, ma
+
+181
+00:18:05,040 --> 00:18:12,100
+altra strada dovrà essere percorsa. Una delle elezioni della crisi è che cattivi
+
+182
+00:18:12,100 --> 00:18:17,680
+di remunerazione del management e dei responsabili delle funzioni chiave delle banche possono
+
+183
+00:18:17,680 --> 00:18:22,780
+contribuire all'accumulo di rischi eccessivi. Chi è remunerato in funzione dei risultati
+
+184
+00:18:22,780 --> 00:18:28,600
+di breve periodo punta profitti immediati senza tener conto dei rischi che li accompagnano.
+
+185
+00:18:29,240 --> 00:18:41,220
+Ne segue una falsa contabilità del profitto che produce un'amicidiale spirale di rischio.
+
+186
+00:18:42,640 --> 00:18:47,860
+La Banca d'Italia, prima tra le autorità dei maggiori Paesi, fin dall'anno scorso
+
+187
+00:18:47,860 --> 00:18:53,400
+ha introdotto nell'ambito delle norme sulla governance delle banche una specifica disciplina
+
+188
+00:18:53,400 --> 00:19:00,120
+sugli schemi di remunerazione. In aprile sono stati emanati dal Financial Stability Board
+
+189
+00:19:00,120 --> 00:19:10,700
+i principi in materia. I principi del Financial Stability Board in materia non prevedono l'imposizione
+
+190
+00:19:10,700 --> 00:19:16,680
+di tetti, ma sono abbastanza dettagliati sul come le remunerazioni debbano essere proporzionate
+
+191
+00:19:16,680 --> 00:19:23,180
+ai rischi che gli individui e le aziende corrono nel corso della loro attività. L'aspetto
+
+192
+00:19:23,180 --> 00:19:29,500
+più importante e fondamentale di questi principi è che, così facendo, gli interi schemi di
+
+193
+00:19:29,730 --> 00:19:39,040
+remunerazione vengono soggetti o assoggettati all'auscrutinio della vigilanza. In altre
+
+194
+00:19:39,920 --> 00:19:46,680
+che non sono che vengono riscontrati non essere allineati, non essere proporzionati ai rischi
+
+195
+00:19:46,680 --> 00:19:53,520
+che alcune funzioni chiave e il top management della banca corrono. E questo non era così
+
+196
+00:19:53,520 --> 00:20:01,560
+in passato. Ci sono molti principi, ma alcuni di questi sono quelli che già conosciamo.
+
+197
+00:20:01,740 --> 00:20:07,980
+E' necessario un adeguato equilibrio tra parte fissa e variabile che va effettivamente
+
+198
+00:20:07,980 --> 00:20:13,720
+correlata ai guadagni conseguiti. In una prospettiva di lungo periodo, tenendo conto
+
+199
+00:20:13,720 --> 00:20:21,520
+dei rischi, particolari cautele vanno osservate per quanto riguarda l'integrità delle funzioni
+
+200
+00:20:21,520 --> 00:20:26,520
+di controllore di rischi, non solo l'integrità e l'indipendenza, ma anche lo status nell'azienda
+
+201
+00:20:26,520 --> 00:20:32,540
+di colui che controlla il rischio deve essere uno status paragonabile a quello di coloro
+
+202
+00:20:32,540 --> 00:20:43,020
+che producono reddito. Siamo ancora in una fase di rodaggio. La sensazione che si ha
+
+203
+00:20:43,020 --> 00:20:49,800
+è che le banche non abbiano ancora assimilato queste regole perché le deliberate di assemblea
+
+204
+00:20:49,800 --> 00:20:56,300
+in materia sono molto formali, molto generiche. Credo avremo tempo per affinare questi strumenti.
+
+205
+00:20:56,940 --> 00:21:01,200
+La vigilanza, fra l'altro, ha costituito una task force per valutare gli effettivi meccanismi
+
+206
+00:21:01,200 --> 00:21:07,960
+di remunerazione e chiedere dei correttivi se necessario. Una parola sull'antiriciclaggio.
+
+207
+00:21:09,720 --> 00:21:13,820
+Nel 2008, la Banca d'Italia ha assunto direttamente le responsabilità in materia di controlli
+
+208
+00:21:13,820 --> 00:21:19,400
+antiriciclaggio che prima aspettavano all'ufficio italiano dei Cambi. Collaborazione con la
+
+209
+00:21:19,400 --> 00:21:24,260
+magistratura e con la guardia di finanza sono fondamentali per il successo dell'unità di
+
+210
+00:21:24,260 --> 00:21:30,400
+informazione finanziaria a cui la Banca d'Italia destina adeguate risorse per l'impegno che
+
+211
+00:21:30,400 --> 00:21:34,360
+è sempre crescente. I controlli antiriciclaggio rientrano ormai
+
+212
+00:21:34,360 --> 00:21:38,780
+sistematicamente nelle ispezioni della Banca d'Italia. Nel 2008, Vigilanza e WIFA hanno
+
+213
+00:21:38,780 --> 00:21:45,200
+realizzato accertamenti su 191 banche, SIM, SGR e altri intermediari finanziari. Sono
+
+214
+00:21:45,200 --> 00:21:49,820
+emerse mancanze ricorrenti nel rispetto puntuale della normativa, verifiche insufficienti della
+
+215
+00:21:49,820 --> 00:21:54,860
+clientela, registrazioni incomplete negli archivi aziendali, processi carenti di valutazione
+
+216
+00:21:54,860 --> 00:21:59,400
+nelle operazioni anomale, scarsa formazione del personale, metodologie di controllo poco
+
+217
+00:21:59,400 --> 00:22:04,780
+incisive. Scusate l'elenco, ma devo dire che sanzioni,
+
+218
+00:22:04,940 --> 00:22:09,580
+richiami e le numerose denunce dell'autorità giudiziaria dimostrano che le banche sottovalutano
+
+219
+00:22:09,580 --> 00:22:14,840
+la necessità di un assoluto rispetto delle norme, di un rigoroso adempimento degli obblighi
+
+220
+00:22:14,840 --> 00:22:21,960
+al loro carico e ritengo che occorra mutare passo. In particolare gli organi di controllo
+
+221
+00:22:21,960 --> 00:22:26,300
+gli stessi organi societari hanno delle dirette responsabilità nell'attuazione di queste
+
+222
+00:22:26,300 --> 00:22:29,020
+norme. Tuttavia, devo dire, l'azione comincia ad
+
+223
+00:22:29,020 --> 00:22:34,540
+avere effetto. Nel 2008 le segnalazioni di operazioni sospette a WIFA, circa 14.600,
+
+224
+00:22:34,720 --> 00:22:40,620
+sono cresciute del 16% rispetto all'anno precedente e nei primi quattro mesi di quest'anno c'è
+
+225
+00:22:40,620 --> 00:22:48,740
+stato un ulteriore incremento del 50%. La crisi rafforza la necessità di continuare
+
+226
+00:22:49,160 --> 00:22:54,320
+per migliorare gli standard di correttezza e trasparenza nei rapporti col pubblico, per
+
+227
+00:22:54,320 --> 00:22:58,280
+dirimere in tempi rapidi le controversie tra gli intermediari e i clienti, per promuovere
+
+228
+00:22:58,280 --> 00:23:03,720
+un uso più consapevole degli strumenti finanziari da parte di risparmiatori e investitori. La
+
+229
+00:23:03,720 --> 00:23:08,760
+fiducia nella clientela è il perno di stabilità del sistema finanziario.
+
+230
+00:23:11,020 --> 00:23:15,040
+La nuova disciplina di trasparenza dei servizi bancari e finanziari della Banca d'Italia
+
+231
+00:23:15,040 --> 00:23:20,820
+è profondamente voluta rispetto al passato. Vuole che il cliente disponga di informazioni
+
+232
+00:23:20,820 --> 00:23:25,960
+semplici da capire, utili a valutare la convenienza delle operazioni che gli vengono proposte,
+
+233
+00:23:26,060 --> 00:23:31,380
+la correttezza di chi gliele propone, richiede agli intermediari di adottare procedure interne
+
+234
+00:23:31,380 --> 00:23:37,220
+che assicurino comportamenti corretti. Le osservazioni ricevute durante la consultazione
+
+235
+00:23:37,220 --> 00:23:44,400
+pubblica su queste proposte, consultazione conclusasi in maggio, hanno confermato la
+
+236
+00:23:44,400 --> 00:23:49,300
+validità dell'impianto della riforma, le cui disposizioni verranno emanate entro questo
+
+237
+00:23:49,300 --> 00:23:53,820
+mese e naturalmente poi le aziende avranno un tempo congruo per adattarvisi.
+
+238
+00:23:55,520 --> 00:23:59,280
+Complimentare la giustizia civile, il nuovo sistema per risolvere le controversi in materia
+
+239
+00:23:59,280 --> 00:24:03,680
+dei servizi bancari e finanziari, l'Arbitro bancario e finanziario, consentirà ai clienti
+
+240
+00:24:03,680 --> 00:24:09,780
+di ottenere decisioni imparziali in modo rapido e poco costoso. Saranno istituiti tre collegi,
+
+241
+00:24:09,800 --> 00:24:14,160
+uno per il nord, uno per il centro, uno per il mezzogiorno. I clienti delle banche vi si
+
+242
+00:24:14,160 --> 00:24:18,180
+potranno rivolgere anche tramite le filiali della Banca d'Italia, che assicurerà le strutture
+
+243
+00:24:18,180 --> 00:24:21,180
+tecniche per il funzionamento dell'Arbitro.
+
+244
+00:24:23,540 --> 00:24:29,140
+Veniamo alla questione del massimo scoperto. Come ha ricordato il Presidente, sollevai
+
+245
+00:24:29,140 --> 00:24:35,820
+la questione di questa Commissione già all'inizio del 2007. Invitavo le banche a superare un
+
+246
+00:24:35,820 --> 00:24:41,940
+istituto poco difendibile sul piano della trasparenza e dell'efficienza. Il legislatore
+
+247
+00:24:42,700 --> 00:24:48,940
+ha solo il potere di verificare che queste clausole, per quanto non buone, venissero
+
+248
+00:24:48,940 --> 00:24:54,940
+però applicate con trasparenza, non di sostituirle con forme contrattuali diverse. La ripetuta
+
+249
+00:24:54,940 --> 00:25:00,360
+azione di Moral Suasion sortiva però effetti soltanto nei confronti dei maggiori gruppi.
+
+250
+00:25:02,140 --> 00:25:07,160
+Necessario è stato quindi l'intervento di imperio del legislatore, anche se è auspicabile
+
+251
+00:25:07,160 --> 00:25:11,800
+un riordino delle varie disposizioni in materia di rapporti tra banca e cliente, riordino
+
+252
+00:25:11,800 --> 00:25:18,700
+previsto, peraltro, nella legge comunitaria da poco approvata dal Parlamento. Ora le banche,
+
+253
+00:25:18,740 --> 00:25:23,220
+specialmente quelle di media e piccola dimensione, devono risolvere la questione alla radice.
+
+254
+00:25:24,520 --> 00:25:28,520
+Sostituiscano spontaneamente, una volta per tutte, le Commissioni complesse e opache
+
+255
+00:25:28,520 --> 00:25:32,480
+con Commissioni ragionevoli sui fondi messi a disposizione. Non è possibile uscire con
+
+256
+00:25:32,480 --> 00:25:38,720
+Commissioni del 4 commitment fees del 4 per cento in un periodo come questo, con Commissioni
+
+257
+00:25:38,720 --> 00:25:45,100
+ragionevoli sui fondi messi a disposizione. Per il resto, si riconduca tutto all'applicazione
+
+258
+00:25:45,100 --> 00:25:51,900
+trasparente dei tassi di interesse. A partire dall'inizio 2010, i tassi determinanti ai
+
+259
+00:25:51,900 --> 00:25:56,860
+fini di prevenzione dell'usura includeranno tutti gli honorary accessori, la Commissione
+
+260
+00:25:56,860 --> 00:26:01,820
+di massimo scoperto, se ancora esiste, le commitment fees, i compensi di mediazione
+
+261
+00:26:01,820 --> 00:26:09,380
+ogni altra spesa connessa con il finanziamento. Tra gli oltre mille intermediari finanziari
+
+262
+00:26:09,380 --> 00:26:16,520
+non bancari iscritti nell'elenco dell'articolo 106 del test unico bancario, gli oltre 160mila
+
+263
+00:26:16,520 --> 00:26:22,460
+tra agenti in attività finanziaria e mediatori creditizi non sono rari i casi di operatori
+
+264
+00:26:22,460 --> 00:26:28,820
+marginali, fragili, di incerta professionalità talvolta di dubbia legalità. È urgente mettere
+
+265
+00:26:28,820 --> 00:26:33,280
+ordine nell'interesse del pubblico e degli stessi operatori più seri e qualificati.
+
+266
+00:26:34,140 --> 00:26:38,740
+Abbiamo iniziato una forte opera di selezione intensificando le verifiche all'atto dell'inscrizione
+
+267
+00:26:38,740 --> 00:26:43,760
+dagli albi e a quelle dei soggetti esistenti per accertare il mantenimento dei requisiti
+
+268
+00:26:43,760 --> 00:26:48,760
+minimi di legge in rispetto alle norme. La relazione che abbiamo recentemente inviato
+
+269
+00:26:48,760 --> 00:26:54,540
+al Parlamento e al Governo ne dà conto. Abbiamo rimosso dall'elenco oltre 11mila agenti in
+
+270
+00:26:54,540 --> 00:26:58,800
+attività finanziaria. In cooperazione con la Guardia di Finanza abbiamo avviato verifiche
+
+271
+00:26:58,800 --> 00:27:05,640
+estese nei settori a rischio. Il Ministero dell'Economia su nostra proposta ha cancellato
+
+272
+00:27:05,640 --> 00:27:11,660
+oltre 30 società finanziarie per cui sono state riscontrate rilevanti anomalie. Molte
+
+273
+00:27:11,660 --> 00:27:14,700
+di esse erano attive nel rilascio di garanzie fideiussioni.
+
+274
+00:27:16,900 --> 00:27:21,280
+La crisi ha acquito le difficoltà che l'industria italiana della gestione del risparmio conosce
+
+275
+00:27:21,280 --> 00:27:26,680
+ormai da tempo. Consolidamento e indipendenza delle società di gestione del risparmio sono
+
+276
+00:27:27,360 --> 00:27:32,900
+che la Banca d'Italia da anni ha dato. A livello internazionale è in atto un riposizionamento
+
+277
+00:27:32,900 --> 00:27:37,860
+competitivo dei maggiori operatori. Alcune iniziative di razionalizzazione si stanno
+
+278
+00:27:37,860 --> 00:27:42,420
+avviando anche in Italia. Nei mesi scorsi sono stati attuati degli spin-off da gruppi
+
+279
+00:27:42,420 --> 00:27:47,980
+bancari volti alla creazione di operatori indipendenti. Un consolidamento può consentire
+
+280
+00:27:47,980 --> 00:27:56,660
+guadagni di efficienza da trasferire agli investitori, in modo da ridurre i costi al
+
+281
+00:27:57,520 --> 00:28:02,920
+rimane passo fondamentale. Abbiamo appena posto in consultazione nuove disposizioni
+
+282
+00:28:02,920 --> 00:28:08,480
+in tema di direzione e coordinamento delle capogruppo bancarie sulle società controllate.
+
+283
+00:28:09,240 --> 00:28:13,300
+Oltre a definire con chiarezza le strategie perseguite nel comparto, i gruppi dovranno
+
+284
+00:28:13,300 --> 00:28:19,500
+assicurare un'autentica indipendenza alle SGR nelle scelte di investimento e nelle politiche
+
+285
+00:28:19,500 --> 00:28:24,980
+commerciali. Ho più volte sottolineato lo svantaggio che deriva dal disallineamento
+
+286
+00:28:24,980 --> 00:28:29,960
+del regime di tassazione del comparto rispetto all'estero e occorre rivederlo.
+
+287
+00:28:31,940 --> 00:28:37,980
+Due parole sulla vigilanza. Prima di toccare sulla vigilanza europea vorrei dire due parole
+
+288
+00:28:37,980 --> 00:28:44,520
+su quello che sta succedendo a livello globale. Come voi sapete il summit di Londra ha posto
+
+289
+00:28:44,520 --> 00:28:52,200
+il financial stability board al centro del panorama regolamentare e mi sono chiesto spesso
+
+290
+00:28:52,200 --> 00:28:58,860
+perché le motivazioni sono importanti per capire l'attività del financial stability
+
+291
+00:28:58,860 --> 00:29:06,520
+board e per capire il motivo di questa decisione. La prima ragione è la sua composizione. Tutti
+
+292
+00:29:06,520 --> 00:29:13,560
+coloro che sovrintendono oggi nella forma di comitati contabili o comitati di Basilea
+
+293
+00:29:13,560 --> 00:29:20,860
+appunto su Basilea 2 o i comitati di supervisione sulle società di assicurazione siedono intorno
+
+294
+00:29:20,860 --> 00:29:26,600
+a questo tavolo. Questo è l'unico posto del mondo che raccoglie tutti i comitati che
+
+295
+00:29:26,600 --> 00:29:34,580
+fanno norma in tema di contabilità, di capitale, di liquidità, eccetera, per le banche e le
+
+296
+00:29:34,580 --> 00:29:39,980
+società di assicurazione. Secondo ogni Paese che è rappresentato intorno a questo tavolo
+
+297
+00:29:39,980 --> 00:29:45,500
+è rappresentato con il proprio Ministero dell'Economia e delle Finanze, con la Banca Centrale, con
+
+298
+00:29:45,500 --> 00:29:51,000
+il vigilante bancario e con il vigilante dei mercati, nel caso dell'Italia, la Consop.
+
+299
+00:29:51,500 --> 00:29:57,360
+Quindi vedete che ogni Paese ha l'intero schema regolatorio presente al tavolo e questo
+
+300
+00:29:57,360 --> 00:30:02,000
+è stato uno dei motivi. Il secondo motivo è proprio la prospettiva globale che si è
+
+301
+00:30:02,000 --> 00:30:10,780
+accentuata con la decisione del G20 di allargare l'appartenenza ai 20 Paesi più la Spagna
+
+302
+00:30:10,780 --> 00:30:17,620
+e la Commissione Europea. Il terzo motivo ha a che fare con il fatto che appena scoppiata
+
+303
+00:30:17,620 --> 00:30:22,080
+la crisi, alla fine del 2007, fu chiesto a quello che si chiamava allora Financial Stability
+
+304
+00:30:22,080 --> 00:30:27,900
+Forum di rispondere con un rapporto. Il rapporto arrivò nell'aprile 2008 con 67 raccomandazioni
+
+305
+00:30:27,900 --> 00:30:34,320
+e direi che ancora l'80% e il 90% di quello su cui si discute oggi ha a che vedere direttamente
+
+306
+00:30:34,730 --> 00:30:37,120
+con quel rapporto.
+
+307
+00:30:40,520 --> 00:30:47,500
+Più che qual è stata, qual è l'opera di cui vogliamo vedere i risultati il più presto
+
+308
+00:30:47,500 --> 00:30:56,000
+possibile? Faccio una premessa, come governatore che non ha malefasi, raramente parlo di etica,
+
+309
+00:30:56,260 --> 00:31:01,080
+ma bisogna che premetta che senza etica, senza senso morale, non si vada nessuna parte. Ma
+
+310
+00:31:01,080 --> 00:31:09,920
+passando dal livello etico a quello regolatorio, le aree su cui noi avremo dei risultati, e
+
+311
+00:31:09,920 --> 00:31:17,360
+molti di questi entro fine anno, sono molto ampie e numerose. Ne cito solo alcune. I requisiti
+
+312
+00:31:17,360 --> 00:31:23,080
+di capitale per le banche, nuove disposizioni e soprattutto sulla parte di trading delle
+
+313
+00:31:23,080 --> 00:31:31,060
+banche, nuove disposizioni arriveranno entro fine anno, anzi entro settembre-ottobre. Nuove
+
+314
+00:31:31,060 --> 00:31:35,100
+disposizioni, ormai le banche avranno, oltre i requisiti di Basilea 2, su questo dirò
+
+315
+00:31:35,100 --> 00:31:40,780
+un attimo in un momento, alle banche venga anche chiesto un cosiddetto leverage ratio,
+
+316
+00:31:40,920 --> 00:31:46,880
+cioè un numero molto semplice da interpretare che indica il rapporto tra capitale e debiti,
+
+317
+00:31:47,300 --> 00:31:52,920
+mezzi propri e debiti. Questo c'era con Basilea 1, fu tolto con Basilea 2 e probabilmente
+
+318
+00:31:53,520 --> 00:31:57,580
+ritornerà prima della fine dell'anno. Il consolidamento dei veicoli fuori bilancio,
+
+319
+00:31:57,580 --> 00:32:02,520
+che non caratterizza tanto le banche italiane, ma è molto diffuso nelle banche fuori in
+
+320
+00:32:02,520 --> 00:32:09,860
+Italia. Queste sono solo alcune delle questioni che riguardano la parte più prudenziale.
+
+321
+00:32:10,260 --> 00:32:17,580
+Per quanto riguarda Basilea 2, è in corso una sua profonda revisione. Naturalmente chi
+
+322
+00:32:17,580 --> 00:32:22,240
+ha lavorato 10 anni intorno a Basilea 2 fa fatica a dire che non si può più difendere
+
+323
+00:32:22,240 --> 00:32:27,300
+Basilea 2. Nella sostanza avremo un Basilea 3 e un Basilea 4 profondamente modificato,
+
+324
+00:32:27,480 --> 00:32:32,880
+in particolare su una questione. Basilea 2 si è rivelato molto pro-ciclico, nel senso
+
+325
+00:32:32,880 --> 00:32:38,620
+di aggravare gli effetti della crisi che la crisi ha sui conti bancari. Questi fattori
+
+326
+00:32:38,620 --> 00:32:42,900
+di pro-ciclicità sono numerosi e questa è gran parte del lavoro che si sta facendo
+
+327
+00:32:42,900 --> 00:32:49,520
+ora, cioè correggere Basilea 2 facendolo diventare meno pro-ciclico. Ma poi vi sono
+
+328
+00:32:50,480 --> 00:32:56,240
+anche dei progressi prima di fine anno. Prima tra tutte è la contabilità. Sulle regole
+
+329
+00:32:56,240 --> 00:33:02,760
+contabili l'International Accounting Standard Board, cioè IASB, che è una delle due autorità
+
+330
+00:33:03,420 --> 00:33:11,080
+mondiali su uno di questi comitati, si è impegnato a produrre un sistema di contabilità
+
+331
+00:33:11,080 --> 00:33:19,320
+completamente diverso, i cui risultati sono descrivibili in termini sommari dicendo che
+
+332
+00:33:19,320 --> 00:33:24,000
+prima vi sarà convergenza verso quello che sta succedendo dall'altra parte dell'Atlantico,
+
+333
+00:33:24,060 --> 00:33:29,800
+cioè con le regole del FASB, l'altro board di contabili, secondo l'area dei conti soggetta
+
+334
+00:33:29,800 --> 00:33:38,240
+a fair value o mark to market sarà più limitata che di quanto non sia attualmente. Quindi
+
+335
+00:33:38,240 --> 00:33:47,160
+sono modifiche di grande importanza. Il secondo punto riguarda il perimetro della regolamentazione
+
+336
+00:33:47,160 --> 00:33:52,000
+e ormai direi abbastanza acquisito che in futuro la regolamentazione non si limiterà
+
+337
+00:33:52,000 --> 00:34:01,400
+soltanto alle banche, ma investirà anche tutte quelle istituzioni che pur non essendo banca
+
+338
+00:34:01,400 --> 00:34:06,680
+sono sistemicamente rilevanti, quindi hedge funds, quindi private equity, di una certa
+
+339
+00:34:08,380 --> 00:34:16,960
+dimensione. Terzo, una delle lezioni della crisi è che la dimensione conta. In un certo
+
+340
+00:34:16,960 --> 00:34:22,140
+senso le dimensioni molto grandi hanno necessariamente quello che gli economisti chiamano esternalità,
+
+341
+00:34:22,200 --> 00:34:27,280
+cioè degli effetti sul resto del sistema, solo per il fatto di essere grandi. E quindi
+
+342
+00:34:27,280 --> 00:34:33,000
+l'opinione prevalente che vi debba essere ormai una, tra l'altro non solo prevalente,
+
+343
+00:34:33,140 --> 00:34:38,880
+ma anche contenuto insieme alle altre previsioni del FASB nel nuovo programma di riforma pubblicato
+
+344
+00:34:38,880 --> 00:34:44,520
+dal Tesoro americano due settimane fa. La previsione è che queste istituzioni grandi,
+
+345
+00:34:44,520 --> 00:34:51,660
+cioè identificate come sistemicamente importanti, abbiano dei livelli di capitale progressivamente
+
+346
+00:34:51,660 --> 00:34:57,120
+più alti di istituzioni di dimensione più contenuta. Questo perché si vuole che la
+
+347
+00:34:57,120 --> 00:35:02,940
+vigilanza sia proporzionale alle esternalità che vengono causate dalla dimensione.
+
+348
+00:35:03,480 --> 00:35:14,500
+La quarta area riguarda la cartolarizzazione. È abbastanza ovvio che il credito farà molta
+
+349
+00:35:14,500 --> 00:35:20,140
+perché noi abbiamo degli esempi di aziende in Europa che si trovano necessariamente dove
+
+350
+00:35:20,140 --> 00:35:25,200
+diminuire il credito del 30-40% perché non hanno più accesso ai canali di provvista.
+
+351
+00:35:25,360 --> 00:35:29,900
+Naturalmente bisogna però tenere presente che gli strumenti di cartolarizzazione, non
+
+352
+00:35:29,900 --> 00:35:35,320
+importa quali siano le previsioni legali, alla fine finiscono nelle mani dell'investitore
+
+353
+00:35:35,320 --> 00:35:40,360
+al dettaglio e quindi occorre proteggere il compratore. Quindi una cartolarizzazione
+
+354
+00:35:40,360 --> 00:35:48,920
+diversa, più semplice, standardizzata, dove esiste una seria protezione del compratore.
+
+355
+00:35:49,380 --> 00:35:54,440
+Ultima area è quella a cui ho accennato sulle caratteristiche della remunerazione.
+
+356
+00:35:55,680 --> 00:36:00,240
+Ora dirò due parole sulla vigilanza europea perché anche a livello europeo stanno succedendo
+
+357
+00:36:00,240 --> 00:36:09,080
+molti cambiamenti e alcuni li ha menzionato prima il Presidente Fessola. I cardini di
+
+358
+00:36:09,080 --> 00:36:14,000
+questi cambiamenti, i punti salienti di questi cambiamenti, sono questi. Collegi di supervisione
+
+359
+00:36:14,000 --> 00:36:20,340
+che vigilino il consolidato dei gruppi internazionali, uniformità di regole e prassi di vigilanza.
+
+360
+00:36:20,720 --> 00:36:26,080
+Stretto rapporto tra Banca Centrale Europea e autorità di vigilanza nazionale sono i
+
+361
+00:36:26,080 --> 00:36:32,440
+tre pilastri della futura vigilanza europea. Le proposte formulate del gruppo della Rosier
+
+362
+00:36:32,440 --> 00:36:37,040
+vanno in gran parte in questa direzione, ma disegnano però implicitamente un'architettura
+
+363
+00:36:37,040 --> 00:36:43,000
+che è complessa. C'è un European Systemic Risk Board cui parteciperanno banche centrali
+
+364
+00:36:43,000 --> 00:36:49,100
+e autorità di vigilanza. A questo board spetteranno competenze in materia di analisi e vigilanza
+
+365
+00:36:50,020 --> 00:36:53,900
+macroprudenziale. Ritengo sia importante che questo board venga guidato dal Presidente
+
+366
+00:36:53,900 --> 00:36:59,660
+della BCE e che la sua attività sia sostanziale, cioè vada al di là della pura segnalazione
+
+367
+00:36:59,660 --> 00:37:04,280
+dei rischi, ma che possa anche verificare l'attuazione delle raccomandazioni di questo
+
+368
+00:37:04,280 --> 00:37:04,660
+board.
+
