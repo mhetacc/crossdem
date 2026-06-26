@@ -1,0 +1,1016 @@
+1
+00:00:00,000 --> 00:00:06,640
+traverso l'incontro tra banche commerciali e banche d'affari con vocazioni complementarie.
+
+2
+00:00:08,840 --> 00:00:15,000
+Chiudo con un'ultima osservazione. L'alta qualità dei risultati scaturiti dai lavori
+
+3
+00:00:15,000 --> 00:00:21,420
+della Commissione Draghi riflette sia il livello dei suoi componenti, sia la sua capacità
+
+4
+00:00:21,420 --> 00:00:28,200
+di instaurare un confronto ampio e ricco di stimoli con gli operatori, le istituzioni,
+
+5
+00:00:28,200 --> 00:00:34,480
+gli studiosi del Settore. In mono analgo credo che nel corso dell'incontro
+
+6
+00:00:34,480 --> 00:00:42,060
+di Erno economisti, juristi, imprenditori, managers, rappresentanti delle istituzioni
+
+7
+00:00:42,060 --> 00:00:48,360
+siano chiamati a confrontarsi a tutto campo su un tema chiave per lo sviluppo del Paese.
+
+8
+00:00:48,540 --> 00:00:55,540
+Auguro dunque a tutti i partecipanti una giornata ricca di interessanti riflessioni e approfondimenti
+
+9
+00:00:55,540 --> 00:01:02,870
+su questo appassionante tema della Corporate Governance. Grazie.
+
+10
+00:01:36,040 --> 00:01:42,960
+Desidero prima di tutto ringraziare il Senatore de Benedetti, la Fondazione Casse dei Spermi
+
+11
+00:01:42,960 --> 00:01:51,170
+di Torino, la Compagnia San Paolo per aver organizzato quest'occasione di incontro e
+
+12
+00:01:51,170 --> 00:01:55,990
+per l'onore di questo invito. Desidero anche scusarmi per tutti voi perché
+
+13
+00:01:55,990 --> 00:02:04,510
+dovrò lasciare il convegno tra poco. Non tanto per il timore di dover ricoprire un ruolo
+
+14
+00:02:04,510 --> 00:02:11,310
+di San Sebastiano alla fine dell'incontro e dover rispondere alle molte probabilmente
+
+15
+00:02:11,310 --> 00:02:19,690
+innumerevoli osservazioni critiche che verranno rivolte al testo. Tra l'altro questo ruolo
+
+16
+00:02:19,690 --> 00:02:26,150
+verrà molto più onorevolmente, degnamente e vigorosamente ricoperto da Professor Marchetti.
+
+17
+00:02:26,530 --> 00:02:30,490
+Vado a lasciarci per le ragioni che il Senatore de Benedetti ha prima esposto.
+
+18
+00:02:32,570 --> 00:02:41,190
+Questo convegno avviene a luogo in un momento particolarmente importante. Si colloca al
+
+19
+00:02:41,190 --> 00:02:46,770
+termine di un periodo che è iniziato con la consegna del testo della bozza di decreto
+
+20
+00:02:46,770 --> 00:02:56,770
+legislativo al Governo e poi la sua trasmissione al Parlamento. Alla fine di un periodo iniziato
+
+21
+00:02:56,770 --> 00:03:04,710
+con questo avvenimento è immediatamente prima che le commissioni parlamentari competenti
+
+22
+00:03:04,710 --> 00:03:12,490
+esprimano un parere, parere che non è vincolante ma è certamente importante per la stesura
+
+23
+00:03:12,490 --> 00:03:21,970
+definitiva del testo da parte dell'esecutivo. Quindi l'importanza del messaggio che potrà
+
+24
+00:03:21,970 --> 00:03:32,630
+scaturire da questo convegno non va assolutamente sottovalutata. Sarebbe improprio per me anticipare
+
+25
+00:03:32,630 --> 00:03:38,770
+o diciamo mie opinioni personali sul testo oltre quanto abbia già fatto in Parlamento.
+
+26
+00:03:38,770 --> 00:03:50,790
+Cercherò piuttosto di commentare, di trasmettervi il senso generale del testo, la filosofia
+
+27
+00:03:50,790 --> 00:03:58,350
+se si vuole usare un termine un attimo enfatico del testo, commentare su due questioni, forse
+
+28
+00:03:58,350 --> 00:04:07,350
+le due che hanno trovato la maggiore attenzione, la maggiore echo nel dibattito e chiudere
+
+29
+00:04:07,350 --> 00:04:18,650
+con alcune brevi riflessioni sugli sviluppi futuri. Però prima di fare questo vorrei
+
+30
+00:04:18,650 --> 00:04:34,950
+lasciatemi ripetere ancora una volta su quanta ingiustizia ci sia nella comunicazione di
+
+31
+00:04:35,950 --> 00:04:43,590
+Questo testo è in realtà, come ho detto altre volte, il frutto di orientamenti, di visioni,
+
+32
+00:04:43,750 --> 00:04:53,410
+di culture, di prospettive istituzionali diverse. È il frutto del lavoro di molte persone che
+
+33
+00:04:53,410 --> 00:05:02,290
+hanno partecipato con un grande, grandissimo senso di professionalità, di saggezza giuridica,
+
+34
+00:05:02,600 --> 00:05:09,610
+di equilibrio istituzionale e da tutte loro io oggi desidero rivolgere un profondo e sentito
+
+35
+00:05:10,390 --> 00:05:23,090
+ringraziamento. Qual è stato l'obiettivo, il punto focale di tutto lo sforzo della Commissione
+
+36
+00:05:23,090 --> 00:05:29,770
+nel produrre il testo? L'obiettivo è stato quello di costruire un sistema finanziario,
+
+37
+00:05:29,770 --> 00:05:36,790
+un sistema di ordinamenti, di norme finanziarie che avesse per scopo quello di massimizzare
+
+38
+00:05:36,790 --> 00:05:45,790
+il flusso di risorse al sistema produttivo. Tutte le scelte che sono state fatte sui vari
+
+39
+00:05:45,790 --> 00:05:53,130
+argomenti possono essere condivise o meno ma certamente spiegate con questa prospettiva.
+
+40
+00:05:54,270 --> 00:06:02,190
+Per capire come mai questa sia la prospettiva avvolgente di tutto il testo corre fare un
+
+41
+00:06:02,190 --> 00:06:11,390
+passo indietro e chiedersi quali sono i mutamenti nel quadro economico-istituzionale che hanno
+
+42
+00:06:11,390 --> 00:06:21,870
+caratterizzato il nostro Paese e la prospettiva internazionale. Se noi facciamo un passo indietro
+
+43
+00:06:21,870 --> 00:06:30,950
+da circa 5-6 anni fa, vediamo che il sistema finanziario italiano è caratterizzato dal
+
+44
+00:06:30,950 --> 00:06:39,490
+fatto che il risparmio privato è essenzialmente tutelato da un ordinamento pubblicistico,
+
+45
+00:06:39,790 --> 00:06:46,310
+esso è canalizzato attraverso banche pubbliche il cui comportamento è regolato dalla legge
+
+46
+00:06:46,310 --> 00:06:53,750
+del 36 quindi è fortemente regolamentato. Questo risparmio viene canalizzato verso
+
+47
+00:06:53,750 --> 00:07:00,490
+un sistema produttivo in cui la componente pubblica è molto rilevante, si direbbe in
+
+48
+00:07:00,490 --> 00:07:07,390
+alcuni momenti preponderante. Questo sistema finanziario relega il mercato di borsa ad
+
+49
+00:07:07,390 --> 00:07:14,430
+un ruolo completamente secondario, tra parentesi il mercato di borsa, anch'esso pubblico. Tutto
+
+50
+00:07:14,430 --> 00:07:24,590
+ciò nell'arco di 5-6 anni sparisce. Il recepimento delle direttive comunitarie sulle banche ha
+
+51
+00:07:24,590 --> 00:07:30,650
+avvenuto con il testo unico banche deregolamente al sistema bancario. Il decreto legislativo
+
+52
+00:07:30,650 --> 00:07:38,310
+415 privatizza la borsa. Le privatizzazioni che avvengono anche nel sistema bancario
+
+53
+00:07:38,310 --> 00:07:45,430
+tolgono in molti casi la proprietà pubblica alle banche. Quindi questo sistema fondato
+
+54
+00:07:47,110 --> 00:07:53,490
+sul pubblico viene meno e di conseguenza si presenta la necessità di tutelare il risparmio
+
+55
+00:07:53,490 --> 00:08:01,870
+in modo diverso, in modo che fa perno sui mercati. Nello stesso tempo, per quanto riguarda
+
+56
+00:08:02,190 --> 00:08:10,650
+due altri sviluppi. Il decollo delle privatizzazioni che fanno dell'Italia il maggior emittente
+
+57
+00:08:10,650 --> 00:08:17,610
+azionario d'Europa negli ultimi tre anni. La diminuzione del deficit pubblico che libera
+
+58
+00:08:17,610 --> 00:08:23,830
+risorse che prima andavano a finanziare il debito pubblico e divengono ora disponibili
+
+59
+00:08:23,830 --> 00:08:34,230
+per altri investimenti. Il combinato di questi avvenimenti fa aumentare fortemente l'offerta
+
+60
+00:08:34,230 --> 00:08:41,390
+di titoli azionari e la domanda di titoli azionari. Sul piano internazionale si assiste
+
+61
+00:08:42,210 --> 00:08:51,550
+a sviluppi che sono diversi, ma in un certo senso nella stessa direzione. Cadono le barriere
+
+62
+00:08:51,550 --> 00:08:59,750
+alla concorrenza internazionale, avviene la globalizzazione e si apre una concorrenza
+
+63
+00:08:59,750 --> 00:09:04,350
+tra operatori, tra prodotti, tra ordinamenti a tutto campo.
+
+64
+00:09:06,850 --> 00:09:13,670
+Queste breve riflessioni sull'obiettivo del testo, sui mutamenti nel quadro economico-istituzionale
+
+65
+00:09:13,670 --> 00:09:21,530
+spiegano alcuni punti cardine nel testo. Prima di tutto l'importanza che viene data ai mercati.
+
+66
+00:09:22,770 --> 00:09:31,670
+Il testo è fondato su una relazione stretta tra normativa di mercati e normativa di governo
+
+67
+00:09:31,670 --> 00:09:37,250
+societario. Si potrebbe quasi arrivare a dire che il governo societario viene considerato
+
+68
+00:09:37,250 --> 00:09:43,010
+quasi una dimensione della qualità del prodotto finanziario che viene offerto sul mercato.
+
+69
+00:09:43,650 --> 00:09:53,570
+La seconda caratteristica è la prospettiva internazionale. Il legislatore nel testo ha
+
+70
+00:09:53,570 --> 00:10:04,810
+lo sguardo costantemente tenacemente fisso sugli ordinamenti di altri Paesi. La convinzione
+
+71
+00:10:04,810 --> 00:10:11,690
+della Commissione è che non sia possibile alcuna seria mancanza di sincronia con gli
+
+72
+00:10:11,690 --> 00:10:19,170
+ordinamenti dei Paesi a noi più vicini. La terza conclusione è più metodologica.
+
+73
+00:10:19,430 --> 00:10:29,250
+I discorsi, i dibattiti tra modelli opposti, polari, tra capitalismi, renani e anglosassoni
+
+74
+00:10:29,250 --> 00:10:36,010
+sono discorsi astratti. Il lavoro della Commissione si orienta chiaramente verso quello che verrebbe
+
+75
+00:10:36,010 --> 00:10:41,230
+definito con queste terminologie antiche, capitalismo anglosassone, ma lo fa non tanto
+
+76
+00:10:41,230 --> 00:10:49,850
+per motivi di carattere ideologici, ma per l'importanza che viene data ai mercati come
+
+77
+00:10:49,850 --> 00:10:57,990
+fattore preponderante. Ricordiamo che l'obiettivo è sempre quello di massimizzare il flusso
+
+78
+00:10:57,990 --> 00:11:04,190
+di risorse verso il sistema produttivo. Questo porta la Commissione, nelle varie questioni
+
+79
+00:11:04,190 --> 00:11:11,330
+che si presentano, a soluzioni che sono naturalmente di equilibrio, cioè che massimizzano e non
+
+80
+00:11:11,330 --> 00:11:17,990
+di nicchia, come direbbero gli aziendalisti. In questo senso, le soluzioni sono di equilibrio
+
+81
+00:11:17,990 --> 00:11:24,610
+tra contendibilità e stabilità, tra contendibilità degli asseti societari e loro stabilità,
+
+82
+00:11:25,010 --> 00:11:29,730
+nel riconoscimento che tutti gli ordinamenti che funzionano hanno entrambi gli elementi,
+
+83
+00:11:29,730 --> 00:11:36,850
+non esasperano alcuno di essi. Soluzione di equilibrio per ciò che riguarda la tutela
+
+84
+00:11:36,850 --> 00:11:41,970
+delle minoranze. Su questo punto è importante soffermarsi un momento e poi eventualmente
+
+85
+00:11:43,270 --> 00:11:48,450
+ci tornerò, ma quando si parla di tutela delle minoranze bisogna avere in mente che in realtà
+
+86
+00:11:48,450 --> 00:11:55,610
+si tutelano le maggioranze dei risparmiatori che convogliano i loro risparmi nell'investimento
+
+87
+00:11:55,610 --> 00:12:01,650
+corruzionario. Si tutelano i grandi investitori istituzionali che a loro volta sono canali
+
+88
+00:12:01,650 --> 00:12:10,490
+di risparmio. Quindi la tutela delle minoranze va vista più che per i suoi contenuti etici
+
+89
+00:12:11,170 --> 00:12:16,610
+perché è uno strumento fondamentale per canalizzare il risparmio verso il sistema produttivo.
+
+90
+00:12:17,670 --> 00:12:21,770
+Ma anche in questo caso le soluzioni della Commissione sono equilibrate. Questa tutela
+
+91
+00:12:21,770 --> 00:12:28,010
+raggiunge, o almeno siamo convinti abbia raggiunto, dei livelli oltre i quali sarebbe
+
+92
+00:12:28,010 --> 00:12:33,810
+destabilizzante nei confronti della società e quindi contradditoria con l'obiettivo di
+
+93
+00:12:33,810 --> 00:12:41,130
+massimizzare il risparmio, massimizzare il risparmio che affluisce al sistema produttivo
+
+94
+00:12:41,130 --> 00:12:48,410
+attraverso la borsa e infine soluzioni equilibrate tra quella che viene definita normativa imperativa,
+
+95
+00:12:48,870 --> 00:12:54,990
+cioè che si esplica attraverso norme primarie e quella che è definita normativa suppletiva,
+
+96
+00:12:55,190 --> 00:13:05,270
+cioè il rinvi alle autonomie statutarie. La caratteristica del metodo di lavoro della
+
+97
+00:13:06,150 --> 00:13:18,390
+Commissione che si ritrova in tutto il testo è quella della delegificazione. Qui occorre
+
+98
+00:13:18,390 --> 00:13:25,430
+delegificazione vuol dire tre cose insieme, vuol dire che si rinuncia del tutto a normare
+
+99
+00:13:25,430 --> 00:13:34,890
+qualcosa che era invece normato in precedenza, vuol dire che si passa da una normativa primaria
+
+100
+00:13:34,890 --> 00:13:42,650
+ad una normativa regolamentare e vuol dire anche che si passa da una normativa o primaria
+
+101
+00:13:42,650 --> 00:13:48,090
+regolamentare all'autoregolamentazione. Autoregolamentazione da parte di chi? Da
+
+102
+00:13:48,090 --> 00:13:53,310
+parte delle società di gestione del mercato e da parte degli stessi statuti delle società.
+
+103
+00:13:54,510 --> 00:14:01,470
+Questo vuol dire delegificazione. La convinzione della Commissione che si ritrova in tutto
+
+104
+00:14:01,470 --> 00:14:08,110
+il testo è però che il mercato non funzioni senza regole. Queste regole devono essere
+
+105
+00:14:08,110 --> 00:14:15,430
+chiare, devono essere precise, le sanzioni devono essere severe e rapide, tanto più
+
+106
+00:14:15,430 --> 00:14:22,670
+severe tanto più rapide quanto più ci si affida all'autoregolamentazione. È stato
+
+107
+00:14:22,670 --> 00:14:31,690
+discusso molto il fatto che si rinvii appunto a regolamenti e qui forse occorre fare una
+
+108
+00:14:31,690 --> 00:14:38,690
+riflessione, perché in dubbio è il rinvio frequente e molto numeroso ai regolamenti,
+
+109
+00:14:40,970 --> 00:14:47,090
+ma occorre dire che questa è una materia che è in continuo cambiamento. Quindi pensare
+
+110
+00:14:47,090 --> 00:14:55,170
+di cristallizzare tutto in una normativa primaria porta da una normativa che è rapidamente
+
+111
+00:14:55,170 --> 00:15:08,870
+obsoleta. Basta ricordare l'esperienza della 1.91 per rendersene conto. La legge 1.91 dopo
+
+112
+00:15:08,870 --> 00:15:16,790
+essere rimasta vari anni in discussione in Parlamento e quindi essere essa stessa figlia
+
+113
+00:15:16,790 --> 00:15:25,150
+di una cultura che, ricordiamocelo, prevedeva i controlli e i movimenti di capitali. A proprio
+
+114
+00:15:25,170 --> 00:15:31,390
+da quando il mercato finanziario è già in rapido cambiamento e pretende di legificare
+
+115
+00:15:32,590 --> 00:15:38,650
+puntualmente su vari aspetti e naturalmente non ha fatto in tempo ad uscire che già essa
+
+116
+00:15:38,650 --> 00:15:43,830
+stessa era obsoleta di fronte agli sviluppi che i mercati finanziari hanno avuto negli
+
+117
+00:15:43,830 --> 00:15:50,670
+ultimi anni. Questo proposito basta pensare alle azioni di risparmio. Le azioni di risparmio
+
+118
+00:15:50,670 --> 00:15:57,770
+non legificate alla 1.91 ma esse stesse normate puntualmente, puntigliosamente nei contenuti
+
+119
+00:15:58,410 --> 00:16:04,070
+divengono rapidamente uno strumento obsoleto. Qui il testo della Commissione su questo punto
+
+120
+00:16:04,070 --> 00:16:11,050
+specifico è stato quello, l'indirizzo seguito dalla Commissione su questo punto è stato
+
+121
+00:16:11,050 --> 00:16:18,410
+quello di liberalizzare i contenuti reddituali e anche patrimoniali delle azioni di risparmio
+
+122
+00:16:18,410 --> 00:16:25,230
+mantenendone la caratteristica fondamentale di azioni senza diritto di voto. Riconosco
+
+123
+00:16:25,230 --> 00:16:31,110
+che sul piano dell'autoregolamentazione si può fare di più, si può certamente far
+
+124
+00:16:31,110 --> 00:16:38,930
+di più tornando sul sentiero tracciato dal decreto legislativo 415 e affidando più spazio
+
+125
+00:16:38,930 --> 00:16:45,850
+alle società di gestione del mercato. Tra l'altro questo passo potrebbe essere utile
+
+126
+00:16:45,850 --> 00:16:54,170
+in funzione di sviluppi successivi che vedessero affrontati problemi che questo testo non affronta
+
+127
+00:16:54,170 --> 00:16:59,910
+in tema di governo societario, in particolare per esempio temi che hanno avuto una notevole
+
+128
+00:16:59,910 --> 00:17:06,250
+popolarità nelle discussioni recenti, concernenti il funzionamento dei consigli di amministrazione.
+
+129
+00:17:08,230 --> 00:17:13,550
+Per quanto riguarda questo argomento, ma più in generale per quanto riguarda l'adozione
+
+130
+00:17:13,550 --> 00:17:20,550
+di codici di comportamento, il seguire la strada dell'autoregolamentazione e affidare
+
+131
+00:17:22,090 --> 00:17:27,170
+l'azione di stimolo sull'adozione di questi codici alle società di gestione del mercato
+
+132
+00:17:27,170 --> 00:17:38,230
+potrebbe essere una strada promettente. Nell'ambito dei rinvii ai regolamenti è stata fatta spesso
+
+133
+00:17:38,230 --> 00:17:42,710
+un'osservazione critica agli eccessivi poteri della CONSOB.
+
+134
+00:17:43,410 --> 00:17:49,110
+Qui ci sono due osservazioni da fare, il primo che riguarda in generale il rinvio ai regolamenti.
+
+135
+00:17:49,110 --> 00:17:53,130
+Il rinvio ai regolamenti non è assolutamente superiore a quello che si riscontra in altri
+
+136
+00:17:54,150 --> 00:17:59,510
+ordinamenti, è in effetti probabilmente inferiore a quanto avviene nell'ordinamento inglese
+
+137
+00:17:59,510 --> 00:18:04,250
+dove tutta la disciplina o quasi tutta la disciplina sull'OPA è oggetto di regolamento.
+
+138
+00:18:04,250 --> 00:18:10,230
+Per quanto riguarda poi l'attribuzione di poteri specifici alla CONSOB, abbiamo seguito
+
+139
+00:18:10,230 --> 00:18:16,210
+una strada che attribuisce poteri esattamente equivalenti e forse anche inferiori a quelli
+
+140
+00:18:16,210 --> 00:18:22,090
+che alla CONSOB vengono attribuiti in altri ordinamenti. Ripeto, un mercato per funzionare
+
+141
+00:18:22,090 --> 00:18:27,950
+ha bisogno di regole chiare precise, di sanzioni rapide e di chi possa queste regole far osservare
+
+142
+00:18:27,950 --> 00:18:32,510
+queste sanzioni fare applicare, altrimenti il mercato non funziona.
+
+143
+00:18:41,370 --> 00:18:47,430
+Alcune osservazioni su due questioni che hanno avuto maggiore attenzione nella discussione
+
+144
+00:18:47,430 --> 00:18:56,390
+che c'è stata. A proposito della quale devo dire che è stata l'impressione che io ho
+
+145
+00:18:56,390 --> 00:19:01,350
+avuto, in un certo senso come dall'altra parte del tavolo, e devo dire che è stata
+
+146
+00:19:01,350 --> 00:19:08,030
+una discussione molto fertile, interessante, produttiva, varia. Il mercato che era un po'
+
+147
+00:19:09,130 --> 00:19:17,630
+il convitato mancante nei lavori della Commissione, essendo la composizione della Commissione
+
+148
+00:19:17,630 --> 00:19:25,690
+di natura scientifico-istituzionale, non è stato un convitato di pietra, un convitato
+
+149
+00:19:25,690 --> 00:19:31,290
+che o stava zitto oppure trascinava il suo interlocutore tra le fiamme. No, no, il mercato
+
+150
+00:19:31,290 --> 00:19:39,650
+è stato collaborativo. Tutte le osservazioni sono osservazioni che potenzialmente arricchiscono
+
+151
+00:19:39,650 --> 00:19:44,290
+il testo o comunque fanno comprendere meglio i limiti e le potenzialità.
+
+152
+00:19:46,650 --> 00:19:54,570
+Dicevo qualche osservazione sull'OPA. Sulla OPA non c'è stato, devo dire, molto da creare
+
+153
+00:19:54,570 --> 00:20:01,950
+nel testo della Commissione. Con l'eccezione della soglia al 15% e di un altro aspetto
+
+154
+00:20:01,950 --> 00:20:09,330
+di cui dirò tra poco, si è sostanzialmente importato l'ordinamento esistente in Gran
+
+155
+00:20:09,330 --> 00:20:20,310
+Bretagna e in Francia. Questa decisione è emersa da lunghe discussioni che la Commissione
+
+156
+00:20:20,310 --> 00:20:29,090
+ha avuto e che hanno rappresentato come prioritarie alcune esigenze. Prima di tutto l'esigenza
+
+157
+00:20:29,090 --> 00:20:35,590
+di tutelare tutti gli azionisti. L'OPA totalitaria tutela tutti gli azionisti. Di nuovo qui non
+
+158
+00:20:35,590 --> 00:20:44,490
+si tratta tanto di un principio etico quanto di una condotta che massimizza l'interesse
+
+159
+00:20:44,490 --> 00:20:50,630
+di tutti gli azionisti, tra cui i più importanti sono gli investitori istituzionali, ad investire
+
+160
+00:20:50,630 --> 00:21:00,370
+in borsa. Nel corso delle visite fatte in queste settimane,
+
+161
+00:21:00,870 --> 00:21:07,890
+una particolarmente interessante è stata a Londra e ha visto le discussioni di alcuni
+
+162
+00:21:07,890 --> 00:21:14,130
+partecipanti alla Commissione, in particolare del sottoscritto, con il City Panel, dove
+
+163
+00:21:15,270 --> 00:21:22,130
+ho presentato le principali osservazioni critiche che venivano proposte al regime dell'OPA,
+
+164
+00:21:22,190 --> 00:21:30,670
+così come descritto nella bozza di decreto legislativo. La risposta è stata che un'OPA
+
+165
+00:21:31,750 --> 00:21:37,570
+parziale non troverebbe mai il consenso degli investitori istituzionali, perché la possibilità
+
+166
+00:21:37,570 --> 00:21:46,010
+di essere scartati, trascurati, discriminati, come avviene con un'OPA parziale, avrebbe
+
+167
+00:21:46,010 --> 00:21:53,270
+ridotto fortemente il loro interesse a quel mercato. Questa è stata una delle esigenze
+
+168
+00:21:53,270 --> 00:22:00,750
+che ha spinto la Commissione in questo senso. La seconda, e qui è un po' l'altra eccezione
+
+169
+00:22:00,750 --> 00:22:06,190
+rispetto all'ordinamento inglese e francese, è stata quella di garantire a tutti gli azionisti
+
+170
+00:22:06,190 --> 00:22:12,650
+di partecipare alla spartizione del premio di controllo. Dicevo un'eccezione perché
+
+171
+00:22:12,650 --> 00:22:19,890
+mentre l'OPA negli ordinamenti inglesi e francesi è totalitaria, ma avviene al prezzo pieno
+
+172
+00:22:19,890 --> 00:22:25,430
+del controllo, la Commissione ha scelto una strada che rendesse, in un certo senso, l'OPA
+
+173
+00:22:25,430 --> 00:22:32,370
+totalitaria meno costosa, e quindi prevedendo la media tra il prezzo massimo pagato e il
+
+174
+00:22:33,590 --> 00:22:40,510
+La terza esigenza è stata quella di dare certezza alle quantità e ai prezzi a cui avviene l'operazione.
+
+175
+00:22:41,230 --> 00:22:47,410
+La quarta, e un po' connessa a quanto detto in precedenza, è quella di avere un sistema
+
+176
+00:22:47,410 --> 00:22:54,890
+che non fosse di ostacolo alla cosiddetta contendibilità. Il risultato è una normativa
+
+177
+00:22:54,890 --> 00:23:02,170
+che mi appare semplice, chiara, certa nella sua applicazione e che supera l'impianto
+
+178
+00:23:02,170 --> 00:23:08,370
+attuale, che indubbiamente è farraginoso, barocco, incerto. L'impianto attuale è fondato
+
+179
+00:23:08,370 --> 00:23:15,630
+su due caratteristiche, sull'uso della nozione di controllo, quindi di passaggio di controllo,
+
+180
+00:23:15,750 --> 00:23:24,690
+quindi dell'intervento dell'autorità di mercato nel definire quando c'è il passaggio
+
+181
+00:23:24,690 --> 00:23:36,790
+con la fissazione di una soglia fissa del 30% e con l'utilizzo dell'opa parziale in
+
+182
+00:23:36,790 --> 00:23:44,930
+varie forme. Ora la convinzione è che l'opa parziale sia strumento, come dicevo prima,
+
+183
+00:23:45,110 --> 00:23:52,370
+che non tutela tutti gli azionisti, che è di per sé aggirabile ed esposta a comportamenti
+
+184
+00:23:52,370 --> 00:23:58,390
+collusivi, e che infine, nella misura in cui essa sia meno costosa di un'opa totalitaria,
+
+185
+00:23:59,270 --> 00:24:04,670
+in un certo senso rende più contendibili le nostre società rispetto a quelle di altri
+
+186
+00:24:04,670 --> 00:24:16,490
+Paesi, dove vigi invece il sistema di opa totalitaria. La conclusione è che, come ho
+
+187
+00:24:16,490 --> 00:24:21,530
+detto in Parlamento, non sarebbe di grave danno all'impianto normativo un'equiparazione
+
+188
+00:24:21,530 --> 00:24:26,990
+delle due soglie a livello più alto, né è da fare un dramma, sempre come ho detto
+
+189
+00:24:26,990 --> 00:24:33,330
+in Parlamento, se il livello più alto subisse un limitatissimo innalzamento. Dico limitatissimo
+
+190
+00:24:33,330 --> 00:24:40,930
+perché nemmeno si vuole arrivare ad un innalzamento tale per cui l'opa totalitaria perde ogni
+
+191
+00:24:40,930 --> 00:24:48,510
+significato. L'altra questione che ha ricevuto molta attenzione
+
+192
+00:24:48,510 --> 00:24:56,370
+nelle discussioni di questo mese riguarda le deleghe di voto. Qui le parole, in un certo
+
+193
+00:24:56,370 --> 00:25:02,650
+senso le parole d'ordine della Commissione, sono state quelle di consapevolezza, trasparenza,
+
+194
+00:25:03,350 --> 00:25:09,850
+concorrenzialità. Il delegante deve essere consapevole, la raccolta delle deleghe deve
+
+195
+00:25:09,850 --> 00:25:18,230
+essere trasparente e deve avvenire in un sistema concorrenziale, cercando quindi di non privilegiare
+
+196
+00:25:18,230 --> 00:25:27,390
+posizioni di rendita. L'errore che trovo si commette molto frequentemente quando si
+
+197
+00:25:27,390 --> 00:25:32,870
+commenta sull'introduzione del sistema di deleghe è quello di prefigurare gli assetti
+
+198
+00:25:32,870 --> 00:25:40,030
+proprietari che possono scaturire dall'introduzione di questo nuovo sistema e quindi dire che
+
+199
+00:25:40,030 --> 00:25:45,510
+un sistema che ampli la raccolta delle deleghe potrà portare a un capitalismo banco centrico
+
+200
+00:25:45,510 --> 00:25:51,230
+o un capitalismo di natura diversa. Io credo che lo strumento vada giudicato per quello
+
+201
+00:25:51,230 --> 00:25:56,110
+che è, lo strumento è neutro, è uno strumento che abbassa il costo dell'esercizio del diritto
+
+202
+00:25:56,110 --> 00:26:01,850
+di voto, è uno strumento che avvicina la partecipazione societaria a zionisti che altrimenti
+
+203
+00:26:01,850 --> 00:26:09,130
+non vi parteciperebbero. È uno strumento che introduce un cambiamento importante, ma
+
+204
+00:26:09,130 --> 00:26:16,070
+se l'introduzione di questo strumento porti o meno a mutamenti negli assetti di controllo
+
+205
+00:26:16,070 --> 00:26:23,150
+non dipende dalla natura dello strumento ma dipende da come le società reagiranno alla
+
+206
+00:26:23,150 --> 00:26:30,710
+sua introduzione, da come gestiranno il cambiamento. Su questo dirò qualcosa di più tra poco.
+
+207
+00:26:40,910 --> 00:26:49,650
+In tema sempre dicevo di deleghe di voto si è criticato in particolare dell'aver ricompreso
+
+208
+00:26:49,650 --> 00:26:56,630
+le banche tra gli intermediari abilitati alla sollecitazione, paventando come dicevo l'evoluzione
+
+209
+00:26:57,190 --> 00:27:05,270
+verso un sistema industriale governato dal sistema bancario. La questione se le banche
+
+210
+00:27:05,270 --> 00:27:13,470
+potessero svolgere questo ruolo nella duplice veste di committenti ed intermediari è stata
+
+211
+00:27:13,470 --> 00:27:22,370
+oggetto di un'attenta valutazione di cui riferisco lo svolgimento e poi le conclusioni. Premesso
+
+212
+00:27:22,370 --> 00:27:31,290
+che in questo campo si possono fare riflessioni e modifiche senza alterare fondamentalmente
+
+213
+00:27:31,290 --> 00:27:38,290
+l'impianto vorrei osservare come prima di tutto è complicato distinguere tra banche
+
+214
+00:27:39,010 --> 00:27:49,150
+e altri investitori istituzionali. Secondo, le banche sono soggetti vigilati dalla Banca
+
+215
+00:27:49,150 --> 00:27:56,890
+d'Italia e dalla Consob, sono vigilati sotto molti profili. Terzo, le istruzioni di vigilanza
+
+216
+00:27:56,890 --> 00:28:04,430
+della Banca d'Italia nei confronti delle banche limitano fortemente le acquisizioni di partecipazioni
+
+217
+00:28:04,430 --> 00:28:12,830
+in non banche da parte delle banche. Ancora, se si vieta alla banca la doppia posizione
+
+218
+00:28:12,830 --> 00:28:19,670
+e il ruolo di committente ed intermediario, occorre estendere questo divieto a tutti gli
+
+219
+00:28:19,670 --> 00:28:26,090
+altri soggetti del gruppo bancario, dal che è notevole complicazione nella gestione di
+
+220
+00:28:26,090 --> 00:28:33,050
+questa proibizione. Infine, il conflitto di interesse normalmente viene disciplinato rendendolo
+
+221
+00:28:33,050 --> 00:28:46,930
+trasparente, non tanto con normative che lo proibiscono. Veniamo ancora alla banca come
+
+222
+00:28:46,930 --> 00:28:53,550
+soggetto potenzialmente pericoloso in quanto con questo sistema di ampliamento, di raccolta
+
+223
+00:28:53,550 --> 00:28:57,410
+delle deleghe che viene proposto dal testo della Commissione e che potrebbe acquisire
+
+224
+00:28:57,410 --> 00:29:05,670
+un peso eccessivo. Vorrei ricordare come una banca può essere interamente di proprietà
+
+225
+00:29:05,670 --> 00:29:11,230
+di soggetti non finanziari, purché nessuno partecipi al suo capitale in misura superiore
+
+226
+00:29:11,230 --> 00:29:17,870
+al 15%. Il medesimo limite vale poi per le partecipazioni delle banche nel capitale di
+
+227
+00:29:17,870 --> 00:29:25,470
+un'impresa non finanziaria. Solo banche specializzate, singole banche di primaria importanza con
+
+228
+00:29:25,470 --> 00:29:31,870
+patrimonio di vigilanza non inferiore ai 2000 miliardi e con una struttura del passivo caratterizzata
+
+229
+00:29:31,870 --> 00:29:37,990
+da una raccolta prevalentemente a medio e lungo termine, con preclusione di quella vista
+
+230
+00:29:37,990 --> 00:29:44,730
+possono essere autorizzate, su richiesta, a partecipare in misura superiore al 15% del
+
+231
+00:29:44,730 --> 00:29:51,850
+capitale di imprese non finanziarie, a condizione comunque che detta partecipazione sia contenuta
+
+232
+00:29:51,850 --> 00:30:00,110
+entro il limite del 2% del patrimonio di vigilanza. In sostanza, solo poche banche molto grandi
+
+233
+00:30:00,110 --> 00:30:07,670
+e specializzate possono riuscire a detenere da sole il controllo di imprese non finanziarie
+
+234
+00:30:07,670 --> 00:30:14,710
+molto piccole. Concepire poi banca e borsa come due realtà antitetiche vuol dire che
+
+235
+00:30:14,730 --> 00:30:21,590
+continuare a perpetuare nel nostro ordinamento quel dualismo che ha portato alla trofia dei
+
+236
+00:30:21,590 --> 00:30:28,410
+meccanismi di finanziamento diretto delle imprese tra il pubblico.
+
+237
+00:30:34,270 --> 00:30:42,610
+Vorrei ora svolgere alcune brevi, brevissime considerazioni sulle future prospettive che
+
+238
+00:30:42,610 --> 00:30:52,530
+questo lavoro potrà avere. Le riflessioni che la Commissione ha fatto, e indubbiamente
+
+239
+00:30:52,530 --> 00:31:00,470
+come dicevo prima, le discussioni molto ricche, molto fertile che c'è stato in questo mese
+
+240
+00:31:00,470 --> 00:31:11,870
+e anche alcuni avvenimenti che a prima vista certamente poco avevano a che vedere con le
+
+241
+00:31:11,870 --> 00:31:18,950
+campi di riflessione, un campo direi specifico che è quello che concerne il funzionamento
+
+242
+00:31:21,290 --> 00:31:28,270
+di alcuni organi di governo societario, questione non affrontata dal testo non solo per limiti
+
+243
+00:31:28,270 --> 00:31:37,670
+di delega ma anche un po' per la convinzione che difficilmente, non ho delle idee definite
+
+244
+00:31:37,900 --> 00:31:47,390
+ma difficilmente questioni di questo tipo possano essere oggetto di legge. Ma certamente
+
+245
+00:31:47,390 --> 00:31:53,210
+come suggerivo prima la possibilità analogamente a quanto è avvenuto in altri paesi dell'adozione
+
+246
+00:31:53,210 --> 00:31:58,810
+da parte di società quotate di codici di comportamento che regolino il funzionamento
+
+247
+00:31:58,810 --> 00:32:03,050
+degli organi societari, in particolare dei consigli di amministrazione, è da considerare
+
+248
+00:32:03,050 --> 00:32:08,110
+e come dicevo prima qui il ruolo delle società di gestione del mercato può essere importante.
+
+249
+00:32:09,290 --> 00:32:19,810
+Poi c'è un campo di sviluppo potenzialmente più generale e che riguarda il problema di
+
+250
+00:32:19,810 --> 00:32:27,430
+adeguare l'ordinamento che viene a creare per le società quotate con quello che invece
+
+251
+00:32:27,430 --> 00:32:35,590
+caratterizza le società non quotate, riguarda l'obiettivo di eliminare lo scalino normativo
+
+252
+00:32:36,370 --> 00:32:44,990
+che si ha tra società quotate e non quotate. In parte la bozza di testo affronta questo
+
+253
+00:32:44,990 --> 00:32:51,490
+problema in quanto per le società non quotate che fanno appello al pubblico risparmio si
+
+254
+00:32:51,490 --> 00:32:58,650
+prevedono degli obblighi di informativa societaria che sono previsti anche per le società quotate.
+
