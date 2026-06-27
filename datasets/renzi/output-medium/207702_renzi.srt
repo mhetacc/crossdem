@@ -1,0 +1,928 @@
+1
+00:00:00,740 --> 00:00:07,380
+Ringrazio le persone che stanno da questa parte del tavolo, da mia destra, il dott. Lorenzo Minisna,
+
+2
+00:00:07,500 --> 00:00:14,280
+che è membro del comitato esecutivo della Banca Centrale Europea, e vorrei dire a Firenze non solo questo,
+
+3
+00:00:14,860 --> 00:00:20,000
+ovviamente l'ho definito il fiorentino più alto in grado delle istituzioni europee,
+
+4
+00:00:21,480 --> 00:00:26,060
+e dalla mia sinistra il dott. Antonio Dubella, direttore del PG3 e il professor Paolo Caretti,
+
+5
+00:00:26,060 --> 00:00:30,120
+che è il segretario generale dell'Associazione di Studi e Ricerche Parlamentarie,
+
+6
+00:00:30,140 --> 00:00:36,040
+perlomeno lo presentiamo per questa meste anche tra i molteplici incarichi che ricopre.
+
+7
+00:00:36,700 --> 00:00:41,460
+Ci sono delle defezioni legate, se ho capito bene, al dibattito parlamentare,
+
+8
+00:00:42,260 --> 00:00:46,480
+da cui del racconto, presumibilmente, il presidente Chevi successivamente,
+
+9
+00:00:46,940 --> 00:00:50,440
+a partire da quella di Paolo Gentiloni e di Rocco Montiglioni,
+
+10
+00:00:50,440 --> 00:00:56,240
+che sono impegnati in questo momento alla Camera dei Deputati,
+
+11
+00:00:56,400 --> 00:01:00,040
+che quindi come tali non possono essere con noi.
+
+12
+00:01:00,320 --> 00:01:07,340
+Io da parte mia, in un breve saluto e un ringraziamento per aver voluto aprire
+
+13
+00:01:07,340 --> 00:01:14,660
+questo appuntamento in Palazzo Medici Riccardi, non posso che essere convinto
+
+14
+00:01:14,660 --> 00:01:20,200
+della necessità di un lavoro costante, forte, puntuale, preciso,
+
+15
+00:01:21,180 --> 00:01:24,640
+proprio sui temi della formazione, che è oggi uno degli elementi di debolezza
+
+16
+00:01:24,640 --> 00:01:30,320
+più grossi che abbiamo, è probabilmente uno dei punti di debolezza dell'intero sistema.
+
+17
+00:01:30,800 --> 00:01:35,920
+L'idea di approfondire il dibattito su come sta cambiando la rappresentanza
+
+18
+00:01:35,920 --> 00:01:40,540
+e partendo da una riflessione sul Parlamento che oggi, come dire,
+
+19
+00:01:40,540 --> 00:01:46,540
+è l'immagine più affidata alle riflessioni di Paolo Caretti, ma i mass media, gli interessi.
+
+20
+00:01:47,160 --> 00:01:52,780
+E come questo tipo di tema, sia e debba diventare sempre di più centrale
+
+21
+00:01:52,780 --> 00:01:56,680
+nel dibattito politico e culturale, credo che sia assolutamente utile
+
+22
+00:01:56,680 --> 00:02:03,340
+nell'essere offerto all'attenzione dei partecipanti a questo corso di formazione,
+
+23
+00:02:03,440 --> 00:02:07,440
+che durerà qualche settimana, qualche mese, visto che se non ricordo male
+
+24
+00:02:08,140 --> 00:02:12,180
+Saluto anche il direttore Dario Nardella, che è qui.
+
+25
+00:02:14,180 --> 00:02:19,440
+Mi viene in mente che parlando di Parlamento media interessi
+
+26
+00:02:20,280 --> 00:02:24,740
+e di come cambia la rappresentanza, noi non possiamo altro che partire da una constatazione
+
+27
+00:02:24,740 --> 00:02:29,740
+che è quella che viviamo un tempo nel quale molto spesso i temi oggetto
+
+28
+00:02:29,740 --> 00:02:33,060
+della riflessione interduttiva, il tema della democrazia, il tema della rappresentanza,
+
+29
+00:02:33,060 --> 00:02:38,120
+sono quasi sempre associate alle espressioni crisi, alla parola crisi,
+
+30
+00:02:39,140 --> 00:02:44,960
+alla difficoltà di affrontare l'evoluzione anche dei tempi.
+
+31
+00:02:45,340 --> 00:02:51,200
+Se crisi ha il valore etimologico dell'osservare, del guardare, del giudicare, del crino greco,
+
+32
+00:02:51,320 --> 00:02:54,280
+credo che sia un'occasione importante, credo che sia un fatto positivo
+
+33
+00:02:54,280 --> 00:02:59,460
+a riflettere sulla crisi e approfondire, perché forse il nemico principale
+
+34
+00:02:59,460 --> 00:03:03,980
+che noi troviamo di fronte quando ci imbattiamo in discussioni di questo genere
+
+35
+00:03:03,980 --> 00:03:06,460
+è molto spesso la superficialità e la banalizzazione.
+
+36
+00:03:07,380 --> 00:03:12,060
+Avviene in molti settori, non soltanto in quelli legati ai mezzi di comunicazione,
+
+37
+00:03:12,200 --> 00:03:13,660
+avviene anche nel dibattito politico.
+
+38
+00:03:13,760 --> 00:03:20,100
+Troppo spesso rischiamo di rimanere su un livello molto superficiale e banale.
+
+39
+00:03:20,280 --> 00:03:25,900
+E allora invece io credo che provare a riflettere e a approfondire
+
+40
+00:03:25,900 --> 00:03:30,780
+i temi della discussione sia un grande valore,
+
+41
+00:03:30,780 --> 00:03:35,300
+in particolar modo nel momento in cui si scommette o si prova a scommettere
+
+42
+00:03:35,300 --> 00:03:39,880
+sulla nuova generazione, cioè su una nuova generazione di persone
+
+43
+00:03:39,880 --> 00:03:46,340
+che si avvicinino ai temi oggetto oggi del corso di economia.
+
+44
+00:03:47,180 --> 00:03:52,120
+È troppo facile, al mio giudizio, continuare a dare della nuova generazione
+
+45
+00:03:52,120 --> 00:03:56,300
+una immagine totalmente legata ai tradizionali cliché,
+
+46
+00:03:57,160 --> 00:04:01,380
+per cui la formazione è impossibile perché i giovani non vogliono.
+
+47
+00:04:01,720 --> 00:04:07,120
+L'altra formazione è inammissibile e inavvicinabile
+
+48
+00:04:07,780 --> 00:04:11,940
+perché c'è una incapacità da parte della nuova generazione
+
+49
+00:04:11,940 --> 00:04:15,380
+di avere grandi sogni, grandi ideali, grandi passioni, grandi desideri.
+
+50
+00:04:15,520 --> 00:04:16,940
+Ecco, io non credo che sia così.
+
+51
+00:04:17,720 --> 00:04:21,700
+Se noi guardiamo la realtà dei fatti, scopriamo che in particolar modo
+
+52
+00:04:21,700 --> 00:04:25,700
+questa generazione che ha mille problemi e mille difetti e mille limiti
+
+53
+00:04:26,820 --> 00:04:30,140
+è la generazione che sì, senza dubbio, sta un po' peggio
+
+54
+00:04:30,140 --> 00:04:34,300
+o dovrebbe stare un po' peggio in prospettiva di coloro che l'hanno preceduto,
+
+55
+00:04:34,400 --> 00:04:37,940
+lo studio francese del 98 che è diventato un po' un light motif
+
+56
+00:04:37,940 --> 00:04:43,580
+per tutti nel richiamare costantemente, anche dopo le provocazioni culturali
+
+57
+00:04:43,580 --> 00:04:47,020
+che in questo Paese tornarono a partire dall'intervento di Mario Monti
+
+58
+00:04:47,020 --> 00:04:49,060
+quando lanciò lo sciopero generazionale.
+
+59
+00:04:49,060 --> 00:04:54,100
+Ma è, io credo, una grande occasione, una espressione su questa generazione
+
+60
+00:04:54,100 --> 00:04:56,480
+collegabili ai temi di cui stiamo parlando
+
+61
+00:04:56,480 --> 00:04:58,280
+per dare un'immagine diversa, inedita,
+
+62
+00:04:58,960 --> 00:05:01,560
+per dare un'immagine della generazione più giovane
+
+63
+00:05:01,560 --> 00:05:05,200
+come capace e desiderosa di confrontarsi su queste tematiche.
+
+64
+00:05:05,280 --> 00:05:11,460
+Se ci pensiamo, lo diceva Tony Blair nel saluto al congresso dell'Apple Party
+
+65
+00:05:11,460 --> 00:05:14,280
+di qualche giorno fa, di ieri lato, se non ricordo male,
+
+66
+00:05:14,800 --> 00:05:17,780
+abbiamo a che fare con la generazione Google, così la definiamo lui,
+
+67
+00:05:17,780 --> 00:05:21,360
+una generazione cioè che è profondamente capace anche
+
+68
+00:05:21,360 --> 00:05:24,030
+di modificare le forme stesse della comunicazione.
+
+69
+00:05:24,460 --> 00:05:27,020
+Noi discutiamo lungo quello che faremo anche oggi
+
+70
+00:05:27,020 --> 00:05:30,030
+nei temi legati al Duopoio, ne parlavamo anche lo scorso anno,
+
+71
+00:05:30,660 --> 00:05:35,260
+di fatto esiste nel panorama del mondo della comunicazione
+
+72
+00:05:35,260 --> 00:05:38,970
+esistono delle novità talmente rilevanti e significative
+
+73
+00:05:39,640 --> 00:05:44,160
+solo negli ultimi 10 anni, che sono destinati a cadere profondamente
+
+74
+00:05:44,160 --> 00:05:47,600
+in corso anche delle modalità con cui il consenso si forma
+
+75
+00:05:47,600 --> 00:05:51,220
+e perché no la democrazia si esercita.
+
+76
+00:05:51,860 --> 00:05:57,340
+Siamo di fronte a una generazione che ha il coraggio di modificare
+
+77
+00:05:59,340 --> 00:06:02,240
+probabilmente le regole stesse dell'appartenenza politica.
+
+78
+00:06:03,180 --> 00:06:06,800
+Penso a ciò che sta accadendo in Gran Bretagna in questi giorni,
+
+79
+00:06:07,060 --> 00:06:09,360
+in questi settimani, in questi mesi, ma anche in questi anni.
+
+80
+00:06:09,900 --> 00:06:13,180
+Forse la bellezza e la grandezza del pensiero politico di Tony Blair
+
+81
+00:06:13,180 --> 00:06:15,320
+di Davolato, ma anche di Dave Cameron dall'altro,
+
+82
+00:06:15,880 --> 00:06:20,040
+è quello di essere stati capaci di andare a prendere argomenti
+
+83
+00:06:20,040 --> 00:06:21,840
+tipici dell'altra parte.
+
+84
+00:06:22,840 --> 00:06:25,920
+Tony Blair ha detto che lui non odia le tradizioni della Muppati,
+
+85
+00:06:26,200 --> 00:06:28,180
+l'unica che odia è quella di prendere.
+
+86
+00:06:28,960 --> 00:06:31,800
+Ebbene, al di là del non odiare le tradizioni altrui,
+
+87
+00:06:31,880 --> 00:06:34,220
+è stato capace di andare a prendere delle parole d'ordini
+
+88
+00:06:34,220 --> 00:06:38,100
+che non appartenevano probabilmente soltanto alla storia della sinistra inglese.
+
+89
+00:06:38,240 --> 00:06:40,780
+E allo stesso modo sta facendo Cameron in Inghilterra.
+
+90
+00:06:40,780 --> 00:06:44,260
+Allora, come Cameron dall'altra parte, nella parte conservatrice,
+
+91
+00:06:44,440 --> 00:06:48,860
+come immaginare di definire oggi la rappresentanza
+
+92
+00:06:49,380 --> 00:06:52,380
+a fronte di una situazione in cui i giovani sono profondamente diversi
+
+93
+00:06:52,380 --> 00:06:55,020
+rispetto al passato, in cui i mezzi di comunicazione
+
+94
+00:06:55,020 --> 00:06:57,140
+sono profondamente diversi rispetto al passato.
+
+95
+00:06:57,400 --> 00:07:00,220
+Basta guardare gli ultimi 10 anni, 10 anni fa era questo buco di luce,
+
+96
+00:07:01,460 --> 00:07:04,780
+e 10 anni fa gli accessi a Internet erano probabilmente
+
+97
+00:07:05,720 --> 00:07:08,240
+sotto l'1% della popolazione mondiale.
+
+98
+00:07:08,240 --> 00:07:14,520
+Oggi siamo a livelli superiori, mi raccontano le gusti metodistiche, al 20%.
+
+99
+00:07:14,520 --> 00:07:21,420
+E probabilmente 10 anni fa anche non c'era una incapacità della rappresentanza
+
+100
+00:07:21,420 --> 00:07:27,380
+di slegarsi da criteri e cliché che sono già superati.
+
+101
+00:07:28,140 --> 00:07:30,920
+Lo riprendo alla fine, ma mi avvio rapidamente la conclusione.
+
+102
+00:07:31,060 --> 00:07:33,300
+Prima una considerazione.
+
+103
+00:07:34,220 --> 00:07:41,600
+Credo che mai come in questo momento sia da affrontare il tema della nuova generazione
+
+104
+00:07:41,900 --> 00:07:46,720
+e quindi della formazione per la nuova generazione,
+
+105
+00:07:47,480 --> 00:07:50,300
+non in una dimensione squisitamente anagrafica,
+
+106
+00:07:51,020 --> 00:07:54,780
+non semplicemente richiedendo spazio, perché 1 a 30 e 1 a 40,
+
+107
+00:07:54,960 --> 00:07:59,200
+anche perché questo paese è abbastanza difficile riuscire a farlo
+
+108
+00:07:59,200 --> 00:08:02,780
+perlomeno solo in queste dimensioni,
+
+109
+00:08:02,780 --> 00:08:07,860
+ma è fondamentale leggere il tema della formazione nella nuova generazione
+
+110
+00:08:07,860 --> 00:08:11,640
+come la constatazione che intorno a noi tutto è cambiato.
+
+111
+00:08:11,960 --> 00:08:16,180
+Intorno a noi è cambiata probabilmente anche l'idea stessa
+
+112
+00:08:17,560 --> 00:08:20,080
+del rapporto tra i giovani e la politica.
+
+113
+00:08:20,380 --> 00:08:23,720
+In questo senso la prima riposizione che volevo fare è esattamente quella
+
+114
+00:08:23,720 --> 00:08:29,540
+di prendere atto di una novità che va in qualche modo stuzzicata,
+
+115
+00:08:29,540 --> 00:08:32,700
+che va in qualche modo provocata, che va in qualche modo verificata
+
+116
+00:08:32,700 --> 00:08:36,360
+e che non può allimitarsi ad essere osservata e guardata.
+
+117
+00:08:36,640 --> 00:08:44,920
+Secondo tema, io credo che dobbiamo avere la chiara ed evidente certezza
+
+118
+00:08:44,920 --> 00:08:49,540
+che quando parliamo del rapporto tra Parlamento, mas media e interessi
+
+119
+00:08:50,080 --> 00:08:57,260
+abbiamo a che fare con termini che nella loro realtà hanno vissuto negli ultimi 20 anni
+
+120
+00:08:58,080 --> 00:09:04,640
+Il sistema parlamentare italiano non sarà cambiato per modifiche istituzionali o costituzionali
+
+121
+00:09:04,640 --> 00:09:12,660
+tutti i disegni di non rendere il bicameralismo che noi abbiamo meno perfetto
+
+122
+00:09:12,660 --> 00:09:17,400
+sono stati in qualche modo abortiti sul nascimento.
+
+123
+00:09:18,280 --> 00:09:21,840
+Però non c'è dubbio che il ruolo stesso del Parlamento nel corso di questi anni
+
+124
+00:09:21,840 --> 00:09:23,260
+è decisamente diverso.
+
+125
+00:09:23,260 --> 00:09:31,220
+Io ho votato la prima volta nel 1994, molte delle persone che stanno dall'altra parte del tavolo
+
+126
+00:09:31,220 --> 00:09:34,700
+hanno votato per la prima volta negli anni 90
+
+127
+00:09:34,700 --> 00:09:39,400
+se noi pensiamo da 1989 ad oggi, la lunga transizione, ci rendiamo conto che
+
+128
+00:09:39,400 --> 00:09:44,260
+non saranno cambiate le concettive decisionali, non sarà cambiato il ruolo costituzionale
+
+129
+00:09:44,840 --> 00:09:49,280
+ma non c'è dubbio che il ruolo politico del Parlamento è profondamente diverso rispetto al passato.
+
+130
+00:09:50,280 --> 00:10:01,430
+A mio giudizio è fondamentale oggi domandarsi se questa modifica nasce semplicemente dall'evoluzione della società
+
+131
+00:10:01,960 --> 00:10:07,540
+o se vi influisce in modo devastante o comunque molto significativo
+
+132
+00:10:07,540 --> 00:10:12,260
+proprio le modifiche che il sistema di trasmite degli interessi hanno avuto in questi anni.
+
+133
+00:10:13,000 --> 00:10:17,660
+Non credo che i politici di 20 anni fa, peraltro alcuni sono di stessi,
+
+134
+00:10:17,660 --> 00:10:23,660
+diciamo che se nel Parlamento di 20 anni fa si fosse immaginato che era fondamentale
+
+135
+00:10:24,300 --> 00:10:30,440
+dover andare a porta a porta a cucinare risotti, a abbracciare la nata, a giocare a ping pong
+
+136
+00:10:30,440 --> 00:10:36,420
+e potrei fare tanti esempi che in modo bipartisan tutti i leader politici hanno avuto,
+
+137
+00:10:36,640 --> 00:10:42,120
+io credo che se 20 anni fa avessimo detto questo, probabilmente qualcuno ci avrebbe, non dico liso,
+
+138
+00:10:42,120 --> 00:10:47,560
+ma avrebbe seriamente dubitato della nostra salute e igiene mentale.
+
+139
+00:10:47,860 --> 00:10:53,060
+E invece cosa è successo? Ci stiamo semplicemente accodando a un sistema che non è il nostro sistema,
+
+140
+00:10:53,340 --> 00:10:59,700
+che non è questo italiano, abbiamo i modelli d'Oltreo Sceno che in qualche modo forgiano anche la formazione politica nostra?
+
+141
+00:10:59,800 --> 00:11:04,280
+Non lo so, certo è che il Parlamento è sempre lo stesso ma il suo ruolo è profondamente diverso.
+
+142
+00:11:05,500 --> 00:11:11,380
+Non credo nemmeno, ma termino su questo prima di arrivare a una conclusione,
+
+143
+00:11:13,020 --> 00:11:19,700
+che si possa immaginare in modo molto superficiale che la terza camera porta a cucina
+
+144
+00:11:19,700 --> 00:11:28,420
+o che semplicemente le forme di comunicazione risolvano il nodo della rappresentanza politica.
+
+145
+00:11:28,420 --> 00:11:34,440
+Lo dico perché i ragazzi giovani che oggi vanno a scuola o che vanno all'università non guardano porta a porta,
+
+146
+00:11:34,640 --> 00:11:40,200
+non so se il direttore Di Bella li sventirà, magari è un bento, ma se sono vere le statistiche,
+
+147
+00:11:40,900 --> 00:11:47,280
+penso ai dati dell'incensis sul giudizio elettorale, penso ad altri dati che l'autorità delle comunicazioni ha dato,
+
+148
+00:11:47,980 --> 00:11:55,280
+se sono veri i sondaggi e le indagini di mercato fatte noi abbiamo a che fare con un mondo della comunicazione televisiva
+
+149
+00:11:55,280 --> 00:12:03,280
+che tanto ha passione ai politici che non tocca la generazione degli under 40 o la tocca in modo molto limitato e marginale.
+
+150
+00:12:03,520 --> 00:12:12,460
+Questo credo che sia un elemento di riflessione, non credo che sia di per sé lo strumento per arrivare a dire
+
+151
+00:12:12,460 --> 00:12:17,300
+vabbè c'è internet e risolve tutto internet. Pensiamo alla campagna elettorale del 2004 americana
+
+152
+00:12:17,300 --> 00:12:23,460
+e vediamo che Howard Dean, il numero uno sui siti internet, non arriva nemmeno a giocarsela alle primarie,
+
+153
+00:12:23,460 --> 00:12:30,460
+non arriva a contendersi la nomination, già dalle primarie iniziali prende una serie di patoste impressionanti
+
+154
+00:12:31,080 --> 00:12:37,780
+e qui aveva scommesso su internet, ma ora qual è la soluzione? Ecco io credo che a queste domande persone ben più usurivolimenti
+
+155
+00:12:37,780 --> 00:12:45,620
+vanno e possano dare risposta sapendo che in questo momento il problema della comunicazione non può essere il valido vertiginio
+
+156
+00:12:45,620 --> 00:12:52,620
+o le forme di modifica della data. Il problema della comunicazione è molto più grande e investe probabilmente
+
+157
+00:12:53,280 --> 00:13:01,400
+l'idea stessa con le quali comunica la nuova generazione. Lo dico, ci sono autorevoli personalità in Sara
+
+158
+00:13:01,400 --> 00:13:09,620
+che hanno avuto una lunga esperienza parlamentare. SMS, per noi forse, ma insomma per chi si è avvicinato alla politica
+
+159
+00:13:10,780 --> 00:13:20,700
+nel ventesimo secolo era la società di muto soccorso. Oggi SMS è una forma di comunicazione che non solo cambia le regole del gioco in politica
+
+160
+00:13:20,700 --> 00:13:29,940
+ma anche soprattutto nelle relazioni personali, nella vita normale, ci si lascia, si diventa amici, si cambia l'impostazione
+
+161
+00:13:29,940 --> 00:13:38,900
+quando si ragiona con una forma di linguaggio e di comunicazione così semplificata. Allora mi permetto di dire che il tema della comunicazione
+
+162
+00:13:38,900 --> 00:13:48,920
+non può eliminarsi semplicemente a come fa il panino il TG1 o a come il mercato di menzionse pubblicitarie, il tema fondamentale
+
+163
+00:13:48,920 --> 00:13:56,860
+modifica per non modifica gli esseri esponizionali. C'è qualcosa che va oltre e che investe, direi, la società, ma non ancora per la politica.
+
+164
+00:13:56,860 --> 00:14:10,520
+E infine la riflessione sull'economia, ma in rapidissima sintesi. Non credo che otterremo da Dattorini-Smagli parole sull'attualità
+
+165
+00:14:10,520 --> 00:14:21,180
+particolarmente, come dire, libere su quello che lui pensa delle ultime discende italiane. È del tutto evidente che il rapporto tra la politica
+
+166
+00:14:21,180 --> 00:14:30,640
+e l'economia non può essere un bigliettino scritto a mano che allega su carta intestata, che allega le regole del gioco da dare al capo di una grande azienda
+
+167
+00:14:30,640 --> 00:14:40,180
+e contemporaneamente non può essere che la grande azienda spia e verifica tutti i soggetti della politica, dell'economia, della cultura, della società.
+
+168
+00:14:40,180 --> 00:14:53,640
+È però evidente che questa immediata, recente circostanza ci deve spingere una riflessione seria su quale tipo di rapporto esiste davvero
+
+169
+00:14:53,640 --> 00:15:04,760
+tra la politica e l'economia in un momento nel quale persino nella cittadinanza è più diffuso per la prima volta dopo anni la sensazione che i personaggi dell'economia
+
+170
+00:15:04,760 --> 00:15:12,720
+sono molto più influenti che i personaggi dell'economia. Se guardate l'analisi che è derita a offerto lo studio del census del 2006 sulle elezioni
+
+171
+00:15:12,720 --> 00:15:21,420
+uscite nel luglio del 2006, si vede che sul campione statistico da nominato per la prima volta nell'analisi del census lungo tutte le elezioni politiche
+
+172
+00:15:21,420 --> 00:15:29,900
+è convinzione dei cittadini italiani che i leader della politica sono decisamente meno rilevanti nella formazione del consenso politico,
+
+173
+00:15:29,900 --> 00:15:37,940
+non nella gestione del potere, nella formazione del consenso politico rispetto ai leader dell'economia. Credo che questo debba farci riflettere profondamente
+
+174
+00:15:38,640 --> 00:15:48,100
+e debba anche aprire però una discussione su come noi affrontiamo le grandi questioni dell'economia, su come noi riusciamo a dare davvero quel messaggio
+
+175
+00:15:48,100 --> 00:15:57,120
+di costruire un'economia all'altezza della sfida che probabilmente nel nostro Paese non sempre è stato vissuto con la stessa intensità.
+
+176
+00:15:57,840 --> 00:16:06,460
+Non parlo delle grandi questioni, parlo delle realtà locali, quando noi immaginiamo di poter gestire un ruolo nelle aziende pubbliche locali,
+
+177
+00:16:06,460 --> 00:16:18,520
+in un mondo nel quale le intese bancarie sono all'ordine del giorno nazionali e transnazionali, nel momento in cui la fiat va in India per fare l'autolo cost,
+
+178
+00:16:18,520 --> 00:16:27,720
+nel momento in cui, per restare ai servizi pubblici locali, Milano e Brescia formano una delle multiotinities più importanti d'Europa, Torino e Genova,
+
+179
+00:16:28,400 --> 00:16:32,640
+credo che qualcuno potrebbe chiedere al Presidente della Provincia, prima di venire a fare discorsi sulla globalizzazione,
+
+180
+00:16:33,620 --> 00:16:41,000
+prova a mettere insieme Pellano e Palazzolo sul segno sulla gestione dei rifiuti. Sarebbe un'accusa e una contestazione del tutto legittima.
+
+181
+00:16:41,000 --> 00:16:47,020
+Ma non c'è dubbio che dobbiamo uscire da una dinamica nella quale, che peraltro oggi è molto forte,
+
+182
+00:16:47,200 --> 00:16:53,140
+nella quale il tema del rapporto tra economia e politica è gestito semplicemente con una serie di slogan.
+
+183
+00:16:53,800 --> 00:17:01,160
+Ed ecco perché, in termini davvero, io trovo di fondamentale importanza questo bisogno di qualità,
+
+184
+00:17:01,260 --> 00:17:07,200
+che l'anno scorso l'economia ha espresso con grande forza e che, senz'altro, la seconda edizione rafforzerà.
+
+185
+00:17:07,200 --> 00:17:11,120
+E' fondamentale, oggi, riuscire ad offrire occasioni di qualità.
+
+186
+00:17:11,340 --> 00:17:16,660
+Se aspettiamo che siano i canali tradizionali della rappresentanza, a farla non andrebbero adesso da parte.
+
+187
+00:17:18,280 --> 00:17:25,360
+In un momento in cui la rappresentanza è fatta da una società di rappresentanti che non rispecchiano i rappresentanti,
+
+188
+00:17:25,680 --> 00:17:32,520
+e questo è un rischio reale che noi non avvertiamo nelle associazioni di categoria, nelle realtà economiche, nelle realtà politiche e partite,
+
+189
+00:17:32,520 --> 00:17:40,740
+sempre meno i partiti rappresentano, ed è un'altra delle novità che ci sono in questi ultimi 25 anni, le realtà reali dei cittadini.
+
+190
+00:17:41,040 --> 00:17:52,020
+Se questo c'è, credo che sia fondamentale riuscire ad avere la capacità e l'intelligenza di inventarsi una riflessione nuova sui temi della rappresentanza.
+
+191
+00:17:53,600 --> 00:17:58,600
+Io credo che le burocrazie della rappresentanza siano davvero diventati centri,
+
+192
+00:17:58,600 --> 00:18:07,600
+e che noi stessi nella nostra autoreferenzialità troppo spesso rischiamo di automatizzare i meccanismi della rappresentanza,
+
+193
+00:18:08,060 --> 00:18:14,040
+e di paradossalmente moltiplicare gli strumenti senza raggiungere gli obiettivi.
+
+194
+00:18:14,380 --> 00:18:23,000
+Inserirei qui le riflessioni sui costi della politica, non in generale su un tolgo delle provincie, tolgo delle comunità montaniche, tolgo delle regioni, ma tutto bene, fate quello che volete.
+
+195
+00:18:23,000 --> 00:18:32,680
+Però il problema è che esiste una smagliatura del concetto di rappresentanza, che è il vero problema politico con cui non andremo a che fare oggi,
+
+196
+00:18:33,320 --> 00:18:41,500
+e che probabilmente investe il Parlamento, i mass media e gli interessi nella stessa forma con cui oggi pensiamo di dover far fronte,
+
+197
+00:18:44,700 --> 00:18:51,180
+anche nella consapevolezza della diversità profonda di clima che noi abbiamo trovato,
+
+198
+00:18:51,180 --> 00:18:56,240
+e che troveremo sempre di più per effetto delle nuove modalità della comunicazione.
+
+199
+00:18:56,420 --> 00:19:04,140
+Allora il mio invito ai partecipanti a Eonomia è quello che riguarderebbe anche l'università, il Presidente e il Professor Kelly secondo me,
+
+200
+00:19:04,240 --> 00:19:12,040
+perché quando noi abbiamo una realtà universitale in cui oggi ci sono più università che province,
+
+201
+00:19:12,320 --> 00:19:16,840
+è vero che le province sono troppe, permetteteci di dire che anche le università sono troppe,
+
+202
+00:19:16,840 --> 00:19:22,980
+e che l'idea del rapporto tra università e territorio non può passare semplicemente dal sindaco o presidente della provincia
+
+203
+00:19:23,600 --> 00:19:30,180
+che chiede la prima etnesima serie staccata in un paesello periferico.
+
+204
+00:19:30,280 --> 00:19:38,900
+Credo che questo sia un problema vento, e che anche questo è in qualche misura da inserire nel tema dei rischi della mancata della presentanza.
+
+205
+00:19:39,740 --> 00:19:43,520
+Sono l'educitano sempre assoluto del progetto del Professor Caretti, pensate che cosa vale.
+
+206
+00:19:43,520 --> 00:19:47,820
+In sintesi i tre inviti ai partecipanti di Eonomia.
+
+207
+00:19:47,920 --> 00:19:54,500
+Il primo, a conservare con grande forza il valore della democrazia, perché una riflessione di questo genere
+
+208
+00:19:54,500 --> 00:20:00,840
+è bella nel momento in cui ci apre a una discussione seria sulla democrazia e la libertà, sui valori fondamentali
+
+209
+00:20:00,840 --> 00:20:07,520
+che troppo spesso noi giovani, Vedo Dario, Vedo Marco e sulle riflessioni che facciamo spesso, utilizziamo come scontati.
+
+210
+00:20:09,540 --> 00:20:13,960
+Quest'estate ho avuto modo di leggere delle bellissime pagine di Chesterton
+
+211
+00:20:13,960 --> 00:20:20,220
+che immagina un libro parlato di sindaco di Notting Hill, Napoleone di Notting Hill,
+
+212
+00:20:21,160 --> 00:20:32,840
+scrive questo testo nel 1904, e immagina che nel 2004, un secolo dopo, questo personaggio Adam Wayne, sindaco di Notting Hill
+
+213
+00:20:32,840 --> 00:20:39,840
+chiede alla corona e al potere inglese, che nel frattempo era molto corrotto,
+
+214
+00:20:40,620 --> 00:20:49,840
+di poter recuperare la grandezza e la bellezza delle attribuzioni democratiche che erano state consegnate nella storia inglese
+
+215
+00:20:50,440 --> 00:20:57,480
+e trova l'opposizione del potere inglese, non della corona, ma del potere di Lord David Wood.
+
+216
+00:20:58,200 --> 00:21:06,200
+Ebbene, in queste pagine di Chesterton, sui valori della democrazia, c'è, io credo, una grande provocazione culturale a ciascuno di noi,
+
+217
+00:21:06,460 --> 00:21:16,220
+quanto specie noi più giovani consideriamo la democrazia non un dono scontato, ma un frutto di riconquistare ognuno di noi.
+
+218
+00:21:16,700 --> 00:21:23,100
+Se c'è questo, allora cambia senso anche la confezione sulla rappresentata, sul parlamento, sui media e sugli interessi, perché acquista nuove opusce.
+
+219
+00:21:23,100 --> 00:21:30,420
+Il secondo invito ad essere leader, ad essere una generazione che non ha paura di sfidare il futuro.
+
+220
+00:21:31,340 --> 00:21:36,260
+C'è un cliché tipico su questa generazione che, a mio giudizio, è inaccentato.
+
+221
+00:21:36,380 --> 00:21:45,300
+È vero che questa generazione ha tanti diritti, è vero che se non abbiamo gli spazi è perché probabilmente non richiediamo la valusa necessità e la valusa inglesità,
+
+222
+00:21:45,300 --> 00:21:54,940
+però c'è anche una reale occasione concreta, a mio giudizio, per questa generazione, per essere in grado di affrontare le sfide del nostro tempo.
+
+223
+00:21:55,840 --> 00:21:59,350
+E io credo che questa generazione debba avere consapevolezza del proprio ruolo di classe vigente.
+
+224
+00:22:00,240 --> 00:22:03,300
+E infine, il terzo e ultimo, di puntare sulla qualità.
+
+225
+00:22:04,060 --> 00:22:11,580
+Puntare sulla qualità come il filtro fondamentale in un momento storico e politico in cui sembra vincere la superficialità e la vandalità.
+
+226
+00:22:11,580 --> 00:22:20,580
+Ecco, io credo che se i partecipanti di Nomia, il secondo corso di Nomia, sono in grado di vivere con forza il tema della democrazia e della libertà,
+
+227
+00:22:21,220 --> 00:22:26,640
+di avere consapevolezza del proprio ruolo di vita e, contestualmente, di scommentare nessuna qualità,
+
+228
+00:22:28,000 --> 00:22:36,020
+allora davvero anche le occasioni di formazione non diventano meri esercizi intellettuali, ma crescita per tutti noi.
+
+229
+00:22:36,020 --> 00:22:44,520
+Avere voluto da parte vostra fare questo incontro nel primo palazzo della famiglia Medici non credo fossero proprio un esempio di democrazia e libertà.
+
+230
+00:22:44,760 --> 00:22:52,280
+Però, senza dubbio, in termini di qualità e di capacità di leadership, e non erano secondi a nessuno, perlomeno nell'Italia del loro tempo,
+
+231
+00:22:52,380 --> 00:23:02,180
+io credo che sia un segno simbolico del valore che immaginate di attribuire proprio a questi tempi e, più in generale, ai tre mesi di attività che vi attendono.
+
+232
+00:23:02,800 --> 00:23:11,300
+Per questo vi ringrazio e cedo la parola al professor Cheney, scusando di nuovo le persone che non sono presenti e ringraziatevi per l'attenzione.
+
