@@ -99,3 +99,13 @@ https://www.radioradicale.it/scheda/515116/matteo-renzi-presenta-il-suo-libro-av
 https://www.radioradicale.it/scheda/513041/il-vento-della-disgregazione-sugli-stati-le-sfide-di-jihadismo-e-populismo?i=3729754  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/renzi/audio_out/_out_513041_renzi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/renzi/audio_out/513041_renzi.mp3'
 https://www.radioradicale.it/scheda/492446/di-riforme-si-mangia?i=3808917  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/renzi/audio_out/_out_492446_renzi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/renzi/audio_out/492446_renzi.mp3'
 https://www.radioradicale.it/scheda/491166/e-adesso-il-futuro-leopolda-7-3a-ed-ultima-giornata?i=3630608  ValueError: No timestamps
+https://www.radioradicale.it/scheda/488106/classedem-la-lezione-di-matteo-renzi-presidente-del-consiglio-dei-ministri?i=3614103  ValueError: No timestamps
+https://www.radioradicale.it/scheda/483403/festival-la-versiliana-incontro-con-il-presidente-del-consiglio-matteo-renzi?i=3597007  ValueError: No timestamps
+https://www.radioradicale.it/scheda/479987/direzione-nazionale-del-partito-democratico?i=3587588  ValueError: No timestamps
+https://www.radioradicale.it/scheda/471202/classe-democratica-lezioni-di-andrea-orlando-e-massimo-bray-focus-sulla-comunicazione?i=3882820  ValueError: No timestamps
+https://www.radioradicale.it/scheda/469366/scuola-di-formazione-politica-del-pd?i=3881227  ValueError: No timestamps
+https://www.radioradicale.it/scheda/467025/assemblea-nazionale-del-partito-democratico?i=3521734  ValueError: No timestamps
+https://www.radioradicale.it/scheda/465966/classe-democratica-scuola-di-formazione-politica-del-pd-seconda-giornata?i=3515930  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/renzi/audio_out/_out_465966_renzi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/renzi/audio_out/465966_renzi.mp3'
+https://www.radioradicale.it/scheda/461202/leopolda-6-terra-degli-uomini-terza-e-conclusiva-giornata?i=3495839  ValueError: No timestamps
+https://www.radioradicale.it/scheda/461201/leopolda-6-terra-degli-uomini-seconda-giornata?i=3495980  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/renzi/audio_out/_out_461201_renzi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/renzi/audio_out/461201_renzi.mp3'
+https://www.radioradicale.it/scheda/461200/leopolda-6-terra-degli-uomini-prima-giornata?i=3496212  ValueError: No timestamps
