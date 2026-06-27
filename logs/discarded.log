@@ -158,3 +158,6 @@ https://www.radioradicale.it/scheda/434274/la-scuola-che-cambia-cambia-litalia?i
 https://www.radioradicale.it/scheda/431013/direzione-nazionale-del-partito-democratico?i=2920166  ValueError: No timestamps
 https://www.radioradicale.it/scheda/424588/leopolda-5-il-futuro-e-solo-linizio-seconda-giornata?i=2894882  ValueError: No timestamps
 https://www.radioradicale.it/scheda/359180/festa-democratica-comunale-di-pontelagoscuro-incontro-con-dario-franceschini-e-matteo?i=404073  ValueError: No timestamps
+https://www.radioradicale.it/scheda/331107/innovare-il-paese-litalia-intera-le-nostre-idee-per-il-federalismo?i=511828  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/renzi/audio_out/_out_331107_renzi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/renzi/audio_out/331107_renzi.mp3'
+https://www.radioradicale.it/scheda/245660/convegno-dal-titolo-perche-dobbiamo-ricordare-in-onore-di-alberto-nirenstajn-saggista?i=1068594  ValueError: No timestamps
+https://www.radioradicale.it/scheda/245368/firenze-discute-conflitti-intorno-alla-laicita?i=1068628  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/renzi/audio_out/_out_245368_renzi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/renzi/audio_out/245368_renzi.mp3'
