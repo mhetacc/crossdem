@@ -1,0 +1,532 @@
+1
+00:00:00,000 --> 00:00:10,140
+l'Italia ha un proprio sito web che è sintomo di trasparenza e di chiarezza, nel senso che
+
+2
+00:00:10,140 --> 00:00:17,740
+le sentenze emesse dai giudici cinesi sono resi pubbliche, sono accessibili a tutte le
+
+3
+00:00:17,740 --> 00:00:24,180
+persone, non solo i cinesi ma anche i stranieri e questo è un dato importante perché significa
+
+4
+00:00:24,180 --> 00:00:30,180
+che c'è l'inanziamento della professionalità dei giudici e quindi anche l'emmenazione delle
+
+5
+00:00:31,320 --> 00:00:38,760
+sentenze. Ci sono tante altre strategie ma ho poco tempo. Grazie. Professorista Di Modio,
+
+6
+00:00:38,900 --> 00:00:44,940
+che cosa significa questo in pratica? Fino a poco tempo fa si diceva che citare in giudizio
+
+7
+00:00:44,940 --> 00:00:49,400
+un'azienda cinese per violazione della proprietà industriale era tempo perso,
+
+8
+00:00:49,400 --> 00:00:55,060
+tanto in Cina vincono sempre loro, tanto le leggi non vengono applicate, tanto i giudici
+
+9
+00:00:55,060 --> 00:01:01,740
+sono corrotti e tante altre cose. Eppure abbiamo letto sui giornali, o chi segue queste cose anche
+
+10
+00:01:01,740 --> 00:01:08,920
+delle agenzie, che alcune aziende straniere, magari grandi nomi, però cominciano a vincere
+
+11
+00:01:08,920 --> 00:01:14,580
+in Cina e cominciano ad avere soddisfazione, che quindi la violazione della proprietà industriale
+
+12
+00:01:14,580 --> 00:01:21,720
+viene repressa, se veramente, dalle corti cinesi. È vero? Chi ha vinto? Parliamo sempre naturalmente
+
+13
+00:01:21,720 --> 00:01:27,260
+di queste corti che hanno raggiunto un soddisfacente livello di professionalità,
+
+14
+00:01:27,380 --> 00:01:33,660
+facevo riferimento prima, grazie a questa terza sezione civile che è stata istituita per la
+
+15
+00:01:33,660 --> 00:01:40,160
+gestione delle cause in materia di proprietà intellettuale. Le corti ovviamente più evolute
+
+16
+00:01:40,160 --> 00:01:46,740
+dal punto di vista tecnico sono quelle delle grandi città, Beijing, Shanghai, Tianjin e altre,
+
+17
+00:01:47,120 --> 00:01:53,060
+casi eclatanti, hanno riguardato proprio negli ultimi anni grandissime società, molto spesso
+
+18
+00:01:54,320 --> 00:02:00,420
+multinazionali, citavo prima l'Upfighter, rapidamente vi racconto, l'Upfighter registra il brevetto
+
+19
+00:02:00,420 --> 00:02:10,780
+su Farmaco Viagra nel 2002 in Cina e ottiene una registrazione mi sembra fino al 2014, due anni
+
+20
+00:02:10,780 --> 00:02:20,180
+dopo un gruppo di aziende cinesi produttrici di farmaci abbia un procedimento amministrativo
+
+21
+00:02:20,180 --> 00:02:29,340
+per l'invalidazione del brevetto, l'ufficio competente cinese invalida, addirittura la ragione
+
+22
+00:02:29,340 --> 00:02:37,220
+di questa azione era che era stato mal descritto il principio attivo del farmaco, sembra abbastanza
+
+23
+00:02:37,980 --> 00:02:43,280
+incredibile per una società come la Pfizer, in ogni caso l'ufficio invalida, la Pfizer ricorre
+
+24
+00:02:43,280 --> 00:02:48,840
+presso la corte intermedia numero uno di Pechino, la quale annulla, grazie a questo nuovo procedimento
+
+25
+00:02:48,840 --> 00:02:58,060
+amministrativo di cui parlavo prima, la decisione dell'ufficio. Un altro caso famosissimo, la
+
+26
+00:02:58,060 --> 00:03:03,560
+Starbucks ha avuto diverse cause, una delle più recenti l'ha vista vincitrice contro una catena
+
+27
+00:03:03,560 --> 00:03:11,300
+di coffee store nella città di Qingdao, questa catena di coffee store cinese aveva utilizzato
+
+28
+00:03:11,300 --> 00:03:20,460
+il logo Simbaq che è la traduzione, la traslitterazione del logo Starbucks e aveva
+
+29
+00:03:20,460 --> 00:03:26,820
+poi utilizzato tutti i segni distintivi della catena americana citata in giudizio, è stata
+
+30
+00:03:28,920 --> 00:03:35,460
+anche Ferrero, Ferrero in questo momento è in attesa della cassazione diciamo, Ferrero ha vinto
+
+31
+00:03:35,460 --> 00:03:41,940
+a Tianjin, l'altra corte di Tianjin, era stata nella prima giudizio corte intermedia, era stata
+
+32
+00:03:41,940 --> 00:03:48,140
+data ragione alla corte cinese, lì i fatti penso siano abbastanza noti, c'è una società che però è
+
+33
+00:03:48,140 --> 00:03:54,140
+una joint venture, non è totalmente cinese, produce questi tre sort d'or che sono una copia identica
+
+34
+00:03:54,140 --> 00:04:03,000
+nel packaging, nel logo, nell'aspetto dei Ferrero Rocher e quindi qui non c'è violazione di marchio,
+
+35
+00:04:03,060 --> 00:04:11,340
+c'è un comportamento contrario alla concorrenza reale, quindi la alta corte di Tianjin ha dato
+
+36
+00:04:11,340 --> 00:04:18,000
+ragione alla Ferrero perché è posto in essere un caso di concorrenza reale a suo danno. Ricordo
+
+37
+00:04:18,000 --> 00:04:24,660
+anche che la leggo, i giocattoli danesi delle piccole costruzioni ha vinto una causa analoga in
+
+38
+00:04:24,660 --> 00:04:31,640
+Cina. Ultima domanda, Alberto Laghi, io vorrei una sua valutazione di sintesi su una nostra
+
+39
+00:04:31,640 --> 00:04:39,920
+affermazione che è stata ripresa anche dal sottosegretario, dalla sua postazione di esperto e di
+
+40
+00:04:39,920 --> 00:04:47,980
+uomo del settore, forse ci imitano perché siamo facili da imitare, che se fosse vero
+
+41
+00:04:47,980 --> 00:04:53,920
+sarebbe un atto di autoaccusa pesante o quello di impietosa analisi del livello tecnologico
+
+42
+00:04:55,520 --> 00:05:02,480
+dei nostri prodotti e dei nostri processi. È così o se fosse così sarebbe esageratamente grave?
+
+43
+00:05:02,920 --> 00:05:13,220
+Secondo me in parte è così, in parte si riferisce a quel discorso che facevo prima, perché probabilmente
+
+44
+00:05:13,220 --> 00:05:21,120
+è più facile copiare nel senso che è più facile bypassare i nostri breveti, per il motivo che dicevo
+
+45
+00:05:21,120 --> 00:05:29,080
+prima, cioè il fatto che probabilmente l'Italia ha sempre creduto poco, gli imprenditori ci hanno
+
+46
+00:05:29,080 --> 00:05:36,040
+sempre creduto poco su questo strumento, più che altro per la scarsa conoscenza dello strumento,
+
+47
+00:05:36,700 --> 00:05:43,940
+quindi avendoci investito poco i breveti sono riusciti male, scritti poco bene, quindi poco
+
+48
+00:05:44,820 --> 00:05:54,260
+difendibili e quindi non solo per i cinesi, questo è un discorso che può essere fatto per
+
+49
+00:05:56,240 --> 00:06:05,960
+qualunque partner, per qualunque partecipante al mondo, qualunque nazione, se i breveti sono
+
+50
+00:06:06,680 --> 00:06:15,580
+se io nel mio concetto della mia idea scrivo che una macchina ha quattro ruote, se io faccio
+
+51
+00:06:15,580 --> 00:06:21,460
+una macchina con sei ruote o bypassato il breveto, è facilissimo, quindi è inutile stupirsi di questo
+
+52
+00:06:21,460 --> 00:06:28,400
+fatto, se tu hai protetto quel concetto lì basta uno che ci mette sei ruote, ammesso che sia
+
+53
+00:06:28,400 --> 00:06:34,300
+conveniente o no, il tuo breveto è bypassato, fine. Quindi questa è una cosa in parte perché
+
+54
+00:06:34,300 --> 00:06:39,540
+probabilmente viene discorso di prima perché non si è molto investito in ricerca e quindi
+
+55
+00:06:39,540 --> 00:06:45,860
+probabilmente anche ha portato a fare delle innovazioni, forse questa è un'opinione personale,
+
+56
+00:06:48,040 --> 00:06:55,800
+quindi negli ultimi anni si è concentrati troppo sul concetto del design, la moda,
+
+57
+00:06:55,960 --> 00:07:00,240
+questa cosa qui, che sicuramente è la nostra caratteristica, viviamo nel mondo,
+
+58
+00:07:01,120 --> 00:07:06,360
+veniamo riconosciuti al mondo come quelli che fanno, i vestiti migliori, le auto più belle,
+
+59
+00:07:07,780 --> 00:07:17,420
+lusso, però questa è una caratteristica che è facilmente bypassabile, mentre invece altri hanno
+
+60
+00:07:17,420 --> 00:07:24,880
+magari preferito meno, forse noi anche la nostra tradizione passata è tale che siamo riconosciuti
+
+61
+00:07:24,880 --> 00:07:35,060
+come persone che amano il bello dai nostri tempi dei rinascimenti. Probabilmente questo è il
+
+62
+00:07:35,060 --> 00:07:41,840
+motivo per cui è più facile e sul discorso brevetti quindi a questo punto bisogna puntare
+
+63
+00:07:41,840 --> 00:07:51,220
+molto sui brevetti, ma puntare però farli bene, non dire per risparmiare 1000 euro me lo scrivo
+
+64
+00:07:51,220 --> 00:07:56,420
+da solo, l'ho deposto alla camera di commercio, perché così risparmi un po'. Purtroppo molti
+
+65
+00:07:57,800 --> 00:08:04,260
+imprenditori hanno fatto questo e purtroppo il risultato è venuto fuori, un risultato che non è
+
+66
+00:08:04,260 --> 00:08:09,580
+se uno lo strumento, il brevetto è uno strumento, brevetto come anche il marchio, ma più il brevetto
+
+67
+00:08:09,580 --> 00:08:14,900
+perché ha un lato tecnico, è uno strumento sofisticato, quindi bisogna fare tutte le
+
+68
+00:08:14,900 --> 00:08:20,720
+cose fatte per bene, come in tante cose, ma qui, quindi bisogna crederci, bisogna spendere i soldi
+
+69
+00:08:20,720 --> 00:08:27,720
+giusti, bisogna scegliere le persone giuste che lo scrivono, bisogna scegliere bene i ricercatori,
+
+70
+00:08:28,520 --> 00:08:35,640
+bisogna puntare su queste cose, non bisogna giocare a risparmiare. Se mi permette poi concludo una
+
+71
+00:08:35,640 --> 00:08:44,240
+precisazione sul discorso a proposito dei costi che sono stati citati nella ricerca e poi un'altra
+
+72
+00:08:44,240 --> 00:08:51,180
+precisazione proprio dal punto di vista tecnico brevettuale. Allora, si è detto, la professora
+
+73
+00:08:51,180 --> 00:08:59,140
+Riparini ha detto il discorso di 2.000 euro per il brevetto cinese, giusto? Si è detto così 2.000 euro?
+
+74
+00:09:00,060 --> 00:09:06,260
+Ecco, allora io sono dell'idea che i costi a livello brevettuale in generale, non solo per la
+
+75
+00:09:06,260 --> 00:09:13,220
+Cina, ma in particolare per la Cina sono comunque costi affrontabilissimi, quindi chi vi racconta che
+
+76
+00:09:13,220 --> 00:09:21,980
+brevettare costa tantissimo è in errore, è in malafede. Naturalmente però, c'è da dire, rispetto
+
+77
+00:09:21,980 --> 00:09:27,980
+quei 2.000, certo dopo ci siamo confrontati, in realtà costa un pochino di più se si seguono le
+
+78
+00:09:27,980 --> 00:09:34,140
+procedure che si era detto prima, cioè il deposito di una domanda di brevetto italiana, l'estensione
+
+79
+00:09:34,140 --> 00:09:42,080
+attraverso il PCT, poi la conferma a livello cinese e il mantenimento. Io ho fatto i conti
+
+80
+00:09:42,080 --> 00:09:49,500
+che un brevetto cinese, partendo da una domanda di brevetto italiana, un'estensione come PCT,
+
+81
+00:09:49,840 --> 00:09:55,460
+una conferma dopo i 30 mesi che si è detto a livello cinese, più i mantenimenti, le tasse di
+
+82
+00:09:55,460 --> 00:10:02,000
+mantenimento a livello di Cina, diciamo a partire dal quintanno, supponendo che un arriva al quintanno
+
+83
+00:10:02,500 --> 00:10:09,600
+a estendere, arrivano attorno comprensive anche di quote, ecco qui la differenza, comprensive anche
+
+84
+00:10:09,600 --> 00:10:16,600
+di quote del professionista, quindi se si utilizza lo studio di consulenza brevetuale, o come fa la mia
+
+85
+00:10:16,600 --> 00:10:24,240
+azienda che si avvale della mia collaborazione, che quindi spende niente a parte il mio compenso mensile
+
+86
+00:10:24,240 --> 00:10:38,800
+naturalmente, si arriva sui 13, 14, 15.000 euro, parlo per 20 anni, 20 anni 15.000 euro, non mi
+
+87
+00:10:38,800 --> 00:10:45,380
+sembra che sia una pesa elevata, tenendo presente che mantenere un brevetto per 20 anni, cioè fino alla
+
+88
+00:10:45,380 --> 00:10:52,460
+scadenza naturale, sono veramente pochissimi i settori che vengono portati a 20 anni. Quasi tutti i
+
+89
+00:10:52,460 --> 00:10:56,580
+settori, a seconda delle tecnologie, diventano obsoleti. Nel nostro settore, nel settore delle macchine
+
+90
+00:10:56,580 --> 00:11:03,140
+automatiche e della meccanica, tra le case eccezionali, quando arriviamo a 12, 13 anni, cominciamo ad
+
+91
+00:11:03,140 --> 00:11:10,500
+abbandonarli, la tecnologia è obsoleta. Nel settore dell'elettronica, poi ancora peggio, parlavo
+
+92
+00:11:10,500 --> 00:11:16,900
+con i responsabili dell'ufficio brevetti della ST Maetro Electronics, loro arrivano nell'elettronica
+
+93
+00:11:16,900 --> 00:11:22,540
+quando arrivano al quinto, sesto anno del brevetto, lo abbandonano, perché dopo cinque anni la tecnologia
+
+94
+00:11:22,540 --> 00:11:29,880
+nel settore della componentistica di computer, microprocessori, è già obsoleta. Questo per
+
+95
+00:11:30,560 --> 00:11:37,860
+precisare. Un'ultima precisazione, per concludere. Ecco, il PCT non è un brevetto, è una domanda di
+
+96
+00:11:37,860 --> 00:11:46,680
+brevetto, da luogo, perché vantaggiosa? Perché permette di depositare le proprie cose in una
+
+97
+00:11:46,680 --> 00:11:52,660
+lingua, diciamo, comprensibile, visto che stiamo parlando della Cina. Non è che prima della
+
+98
+00:11:52,660 --> 00:11:59,060
+Patent Cooperation Treaty, prima che la Cina aderisse alla PCT nel 1994, non si potesse
+
+99
+00:11:59,060 --> 00:12:03,420
+stendere, da un brevetto italiano non si potesse stendere in Cina. Il problema è che si poteva
+
+100
+00:12:03,420 --> 00:12:12,120
+estendere in Cina solo con una traduzione cinese e le comunicazioni avvenivano solo in lingua
+
+101
+00:12:12,120 --> 00:12:18,820
+cinese, quindi con tutte le difficoltà. Oggi con PCT io posso depositare una domanda di brevetto
+
+102
+00:12:18,820 --> 00:12:23,780
+in italiano, quella estendo, per esempio, in inglese, o in inglese, o in tedesco, o in francese,
+
+103
+00:12:23,780 --> 00:12:29,680
+c'è anche il giapponese, ovviamente anche il russo, ma diciamo le lingue per noi accessibili,
+
+104
+00:12:29,880 --> 00:12:35,160
+la maggior parte di noi usa la lingua inglese, quindi si depositano in inglese e dialoga con
+
+105
+00:12:35,160 --> 00:12:41,660
+questente, che poi è a Ginevra, in inglese, quindi con tutto facilitato. Dopodiché, una volta fatto
+
+106
+00:12:41,660 --> 00:12:48,260
+un certo esame, dopo i trenta mesi viene confermata a livello cinese e comunque si continua a
+
+107
+00:12:48,260 --> 00:12:54,640
+parlare a livello in inglese. Questo è uno dei vantaggi, ce ne sono tantissimi, però sicuramente
+
+108
+00:12:54,940 --> 00:13:04,420
+questo permette di facilitare la vita all'imprenditore. Grazie, siamo incredibilmente,
+
+109
+00:13:04,580 --> 00:13:10,700
+straordinariamente in tempo, abbiamo finito proprio all'ora che volevamo, tuttavia penso
+
+110
+00:13:10,700 --> 00:13:15,580
+che forse qualche minuto alle eventuali domande potremmo dedicarlo, abusiamo ancora della pazienza
+
+111
+00:13:15,580 --> 00:13:23,680
+dei nostri ritori, anche le vostre, se ci sono delle domande siamo pronti a rispondere. Ugo.
+
+112
+00:14:48,560 --> 00:14:56,460
+Allora, noi dobbiamo studiare un modo di studiare l'esercito, come, quindi dobbiamo
+
+113
+00:14:56,460 --> 00:15:15,560
+appare, dobbiamo appare delle istituzioni delle persone che conoscono l'esercito, dobbiamo
+
+114
+00:16:03,040 --> 00:16:10,040
+l'estero. E' un altro argomento….
+
+115
+00:16:10,040 --> 00:16:20,360
+Dove non dobbiamo anche fare che conto l'Unione Europea, perché l'Unione Europea, come ti ho detto, è la protezione del marchio europeo.
+
+116
+00:16:20,660 --> 00:16:28,140
+Allora, attraverso questa situazione qui, ho citato poi la famosa C.E., che è quello che vi ho detto prima.
+
+117
+00:16:28,140 --> 00:16:30,120
+C'è un'altra cosa che voglio dire.
+
+118
+00:16:32,340 --> 00:16:37,640
+Per me è che i cinesi, quando vengono iniziali, vengono iniziali.
+
+119
+00:16:37,980 --> 00:16:58,100
+L'idea, l'idea, l'idea, l'idea, l'idea, l'idea.
+
+120
+00:16:58,100 --> 00:17:01,660
+No, no, certo, in questi casi money is no object.
+
+121
+00:17:13,720 --> 00:17:24,700
+Senti, io ti faccio rispondere da Dottor Zanone Poma, perché credo che nella sua posizione abbia affrontato l'aspetto dei marchi, oltre che dei breveti, più volte.
+
+122
+00:17:24,880 --> 00:17:26,060
+È d'accordo, dottore?
+
+123
+00:17:30,140 --> 00:17:41,100
+Proprio, veramente. Ne dirò di più che, siccome i cinesi non capiscono i marchi italiani, come camera di commercio, due anni fa, adesso lo stiamo facendo quasi sistematicamente,
+
+124
+00:17:42,000 --> 00:17:53,700
+trasformiamo i marchi italiani anche con la lingua cinese, che sia molto accattivante, perché ci sono delle parole italiane, che tradotte volgarmente in cinese, sono magari osqualide o negative.
+
+125
+00:17:54,820 --> 00:18:05,700
+Però, sempre con il made in Italy. Vabbè, con Paolo Zegna, prima con Urso, adesso stiamo discutendo proprio del fatto che il made in Italy deve essere assolutamente prioritario.
+
+126
+00:18:06,620 --> 00:18:12,700
+Non ci sono dubbi. Si sta lavorando molto però, e qualche successo comincia già a venire.
+
+127
+00:18:14,100 --> 00:18:25,320
+La costruzione dell'alto commissariato per la contraffazione fa parte di quello, perché la contraffazione è intesa in senso lato, non solo contraffazione, ma proprio anche quello che diceva prima,
+
+128
+00:18:25,320 --> 00:18:45,540
+la concorrenza sleale in questo senso, perché non è che si possa più di tanto, non si può proteggere con gli strumenti come brevetto o marchio il vino italiano o il lardo di colonnata o il formaggio di fossa.
+
+129
+00:18:45,540 --> 00:18:55,300
+Ecco, ci sono altri strumenti, però credo che l'alto commissariato alla contraffazione si occupi anche di questo.
+
+130
+00:19:04,160 --> 00:19:15,370
+Se non ci sono altre domande, ci abbiamo a chiudere. Prima di farlo vorrei ringraziare voi di essere stati qui, i miei amici e colleghi di essere stati da quest'altra parte del tavolo,
+
+131
+00:19:15,370 --> 00:19:29,650
+il dottor Savini e il suo staff della Fruttazione Casta del Risparmio di Imola che hanno reso possibile questo e anche i miei amici e colleghi di Osservatorio Asia che hanno contribuito. Grazie.
+
+132
+00:19:30,430 --> 00:19:41,690
+Se non ci sono altre domande, ci abbiamo a chiudere. Prima di farlo vorrei ringraziare voi di essere stati qui, i miei amici e colleghi di essere stati da quest'altra parte del tavolo,
+
+133
+00:19:42,290 --> 00:19:52,250
+il dottor Savini e il suo staff della Fruttazione Casta del Risparmio di Imola che hanno reso possibile questo e anche i miei amici e colleghi di Osservatorio Asia che hanno contribuito. Grazie.
+

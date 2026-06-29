@@ -380,3 +380,9 @@ https://www.radioradicale.it/scheda/235825/14-ottobre-nasce-il-partito-democrati
 https://www.radioradicale.it/scheda/234102/liberi-e-deberlusconizzati?i=1124761  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/letta/audio_out/_out_234102_letta.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/letta/audio_out/234102_letta.mp3'
 https://www.radioradicale.it/scheda/232591/enrico-letta-presenta-la-sua-candidatura-alla-guida-del-partito-democratico-per-le?i=1129730  RuntimeError: yt-dlp exited 1
 https://www.radioradicale.it/scheda/230886/politica-societa-diritti-di-cittadinanza-europa-mondo-arabo-america-latina?i=1138947  RuntimeError: yt-dlp exited 1
+https://www.radioradicale.it/scheda/227248/intervista-su-politica-e-affari-presentazione-del-libro-intervista-a-bruno-tabacci?i=1160148  ValueError: No timestamps
+https://www.radioradicale.it/scheda/217867/nuovi-fondi-strutturali-europei?i=1207175  ValueError: No timestamps
+https://www.radioradicale.it/scheda/210679/vii-foro-di-dialogo-italia-spagna?i=1240652  ValueError: No timestamps
+https://www.radioradicale.it/scheda/210678/vii-foro-di-dialogo-italia-spagna?i=1240667  ValueError: No timestamps
+https://www.radioradicale.it/scheda/207756/i-cattolici-democratici-e-il-nuovo-partito?i=1006982  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/letta/audio_out/_out_207756_letta.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/letta/audio_out/207756_letta.mp3'
+https://www.radioradicale.it/scheda/259131/la-citta-e-lindustria-nel-futuro-dellitalia?i=1015674  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/letta/audio_out/_out_259131_letta.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/letta/audio_out/259131_letta.mp3'
