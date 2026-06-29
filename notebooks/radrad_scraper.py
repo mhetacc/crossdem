@@ -41,6 +41,7 @@ DATA = [
     ("segni", "/soggetti/101437/antonio-segni"),
     ("scelba", "/soggetti/191965/mario-scelba"),
 ]
+# fanfani was done during development
 
 testing = False
 model_name  = "medium"      # tiny, base, medium, large
@@ -55,8 +56,8 @@ transcription_since_last_commit = 0
 
 """
 Execution: 
-$ source crosscode/crosscode_venv/bin/activate
-$ cd nodebooks/
+$ source crossdem/venv/bin/activate
+$ cd crossdem/nodebooks/
 $ python3 radarad_scraper.py
 """
 
