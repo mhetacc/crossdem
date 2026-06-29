@@ -291,3 +291,10 @@ https://www.radioradicale.it/scheda/516952/festa-de-lunita-di-livorno-matteo-ren
 https://www.radioradicale.it/scheda/516757/festa-regionale-del-partito-democratico-dellemilia-romagna-di-villalunga-matteo-renzi?i=3744725  ValueError: No timestamps
 https://www.radioradicale.it/scheda/516817/festa-de-lunita-castelfiorentino-incontro-con-matteo-renzi?i=3747598  ValueError: No timestamps
 https://www.radioradicale.it/scheda/471952/classe-democratica-scuola-di-formazione-politica-del-pd?i=3869850  ValueError: No timestamps
+https://www.radioradicale.it/scheda/397071/primarie-del-pd-incontro-con-matteo-renzi?i=270061  ValueError: No timestamps
+https://www.radioradicale.it/scheda/366234/per-la-verita-per-israele?i=382236  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/renzi/audio_out/_out_366234_renzi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/renzi/audio_out/366234_renzi.mp3'
+https://www.radioradicale.it/scheda/360337/primarie-2012-matteo-renzi-adesso-verona?i=402073  ValueError: No timestamps
+https://www.radioradicale.it/scheda/359411/matteo-renzi-a-latronico?i=404413  ValueError: No timestamps
+https://www.radioradicale.it/scheda/338606/big-bang-seconda-convention-dei-rottamatori-di-matteo-renzi-3a-ed-ultima-giornata?i=487774  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/renzi/audio_out/_out_338606_renzi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/renzi/audio_out/338606_renzi.mp3'
+https://www.radioradicale.it/scheda/338605/big-bang-seconda-convention-dei-rottamatori-di-matteo-renzi-2a-giornata?i=487991  ValueError: No timestamps
+https://www.radioradicale.it/scheda/338604/big-bang-seconda-convention-dei-rottamatori-di-matteo-renzi-1a-giornata?i=488321  ValueError: No timestamps

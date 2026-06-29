@@ -51,6 +51,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath("__file__")))  # go t
 os.makedirs(os.path.join(BASE_DIR, "logs"), exist_ok=True)
 DISCARD_LOG = os.path.join(BASE_DIR, "logs", "discarded.log")
 last_commit = 0.0
+transcription_since_last_commit = 0
 
 """
 Execution: 
@@ -457,6 +458,8 @@ def speech_to_text(audio_metadata, speech_details, audio_path, politician, OUT_D
     audio_file  = str(Path(AUDIO_DIR) / filename)
     csv_output  = str(Path(CSV_DIR) / f"{file_id}_{politician}_s2t.csv")
 
+    global transcription_since_last_commit
+
 
     # ──────────────────────────────────────────────────────────────────────────────
     # 3. Transcribe with Whisper
@@ -515,6 +518,7 @@ def speech_to_text(audio_metadata, speech_details, audio_path, politician, OUT_D
             writer.writeheader()
         writer.writerow(row)
 
+    transcription_since_last_commit += 1
     print(f"Done! Row appended to '{csv_output}'")
 
 
@@ -629,9 +633,10 @@ import glob
 from time import sleep
 
 def gitall(politician, repo: str = BASE_DIR) -> None:
+    global transcription_since_last_commit
     cmds = [
         ["git", "add", "."],
-        ["git", "commit", "-m", f"periodic commit: {politician}"],
+        ["git", "commit", "-m", f"{politician}: trans = {transcription_since_last_commit}"],
         ["git", "push"],
     ]
     for cmd in cmds:
@@ -639,6 +644,7 @@ def gitall(politician, repo: str = BASE_DIR) -> None:
         if result.returncode != 0:
             print(f"[{' '.join(cmd)}] failed:\n{result.stderr}")
             return
+    transcription_since_last_commit = 0
     print(f"[git] periodic commiT")
 
 def trim_to_1s(audio_dir):
