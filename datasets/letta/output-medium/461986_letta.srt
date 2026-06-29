@@ -1,0 +1,1200 @@
+1
+00:00:28,340 --> 00:00:29,740
+Sottotitoli creati dalla comunità Amara.org
+
+2
+00:00:39,180 --> 00:00:45,500
+Un ringraziamento al Coro degli Allievi della Scuola Superiore Sant'Anna per la loro apprezzata esibizione.
+
+3
+00:00:46,440 --> 00:00:54,560
+Ascoltiamo adesso il nostro gradissimo ospite, il professore Ricoletta, Dean of the Paris School of International Affairs,
+
+4
+00:00:54,860 --> 00:01:03,780
+al quale la Scuola Superiore Sant'Anna ha voluto affidare la Lectio Magistralis che segna l'apertura dell'anno accademico 2015-2016.
+
+5
+00:01:03,780 --> 00:01:12,720
+Il titolo della Lectio Magistralis del professore Ricoletta è Europa, lezioni dalla crisi economica e finanziaria.
+
+6
+00:01:35,220 --> 00:01:43,700
+Inizio con un ringraziamento di cuore al rettore, al professor Perata, per avermi chiesto di essere qui oggi,
+
+7
+00:01:43,820 --> 00:01:51,360
+in questa occasione così importante per la vita della Scuola, per la vita dell'Accademia Pisana, così importante anche per me,
+
+8
+00:01:51,360 --> 00:02:00,480
+perché questo anno per me ha sancito un ritorno da dove avevo lasciato un po' di anni fa,
+
+9
+00:02:01,880 --> 00:02:09,300
+quando il perfezionamento si era concluso per me qui e non era continuata un'attività che mi sarebbe molto piaciuto
+
+10
+00:02:09,300 --> 00:02:17,000
+che continuasse, un'attività universitaria che adesso invece, con un po' di ritardo, ho recuperato il riprendo da un'altra parte.
+
+11
+00:02:17,000 --> 00:02:23,940
+Sono molto grato di questo invito, molto grato perché ovviamente qui mi consente di svolgere,
+
+12
+00:02:24,040 --> 00:02:30,060
+attorno a un tema così impegnativo, quali lezioni la crisi economica e finanziaria ci ha consegnato
+
+13
+00:02:30,060 --> 00:02:35,440
+e di farlo in un ambiente nel quale non mi sento ospite ma ovviamente mi sento a casa,
+
+14
+00:02:35,500 --> 00:02:43,240
+vedo i visi di una vita a partire naturalmente dai miei genitori ma a partire dai professori con i quali ho studiato,
+
+15
+00:02:43,240 --> 00:02:52,140
+non le cito tutte, ne cito soltanto due che sono Giuliano e Maria Chiara con i quali ho avuto l'avventura di vivere esperienze di governo
+
+16
+00:02:53,440 --> 00:03:01,000
+particolarmente interessanti e intense. Ringrazio naturalmente tutte le autorità che sono presenti qui oggi.
+
+17
+00:03:02,240 --> 00:03:10,040
+Il titolo impegnativo non voglio essere lungo, abbiamo ascoltato delle cose molto interessanti, per me doppiamente interessanti
+
+18
+00:03:10,040 --> 00:03:17,740
+perché lo dico al Rettore Perata, lo dico anche al Presidente Meni, sono tutte cose che in parte ho subito applicato
+
+19
+00:03:17,740 --> 00:03:25,940
+all'esperienza che sto facendo oggi a Parigi dove sono temi che sono assolutamente simili, il tema dell'internazionalizzazione
+
+20
+00:03:25,940 --> 00:03:34,980
+e tutte le altre questioni. In questo scambio molto originale che con Yves stiamo facendo, un parigino a Pisa e un pisano a Parigi
+
+21
+00:03:34,980 --> 00:03:46,780
+che rappresenta questo lavoro comune al quale credo siamo e teniamo tutti molto molto fortemente. Quindi voglio provare qui oggi
+
+22
+00:03:46,780 --> 00:03:58,740
+in questa occasione a consegnare alla vostra riflessione quelle che sono secondo me le elezioni della crisi e le elezioni nell'attualità e per il futuro.
+
+23
+00:03:59,880 --> 00:04:09,120
+Bisogna scegliere sempre un numero, io ho scelto un numero 7 in questo caso, 7 elezioni dalla crisi perché è il modo migliore
+
+24
+00:04:09,120 --> 00:04:18,200
+per essere in grado di sintetizzarle e poi di ricordarne qualche d'una. Tra l'altro ho scelto il numero 7, Giuliano lo sa perché glielo raccontavo
+
+25
+00:04:18,200 --> 00:04:25,880
+l'altro giorno, perché in questa fase mi è tornato alla memoria quello che qualche settimana fa mi ha detto un eclettico intellettuale
+
+26
+00:04:25,880 --> 00:04:37,090
+importante, intellettuale francese che Jacques Attali che mi diceva, mi chiedeva l'età che avevo, gli ho detto 49, parlo sotto il controllo
+
+27
+00:04:37,900 --> 00:04:47,400
+di Monsignor Benotto e lui mi ha detto il 49 è una cifra importante nella tradizione biblica, il 49 vuol dire sette volte sette e lui diceva
+
+28
+00:04:47,400 --> 00:04:56,540
+in quella tradizione è l'anno quando si ha 49 anni è l'anno dei cambi radicali di vita e quindi me l'applicava alla mia dicendo
+
+29
+00:04:56,540 --> 00:05:06,400
+ha fatto la scelta giusta, 49 anni bisogna farla e allora sette volte sette in questo caso sette lezioni dalla crisi sono sette elezioni le quali
+
+30
+00:05:07,400 --> 00:05:14,640
+sono le sette elezioni dell'oggi, quello che ci dicono oggi, quello che sta succedendo, quello che è successo e soprattutto quello che dobbiamo
+
+31
+00:05:14,640 --> 00:05:26,800
+non cercare di capire possa avvenire nella prospettiva futura. La prima lezione è questa, l'Europa come la trago io, per la prima volta diventa
+
+32
+00:05:26,800 --> 00:05:38,500
+responsabile e quindi anche colpevole, è un cambiamento radicale nella storia europea, l'Europa fino a prima della crisi economica e finanziaria
+
+33
+00:05:38,500 --> 00:05:50,000
+non era mai responsabile, non era mai colpevole, l'Europa era un qualcosa in più che si aggiungeva al circuito della responsabilità che ognuno di noi come cittadino
+
+34
+00:05:50,000 --> 00:05:59,780
+assegnava alle autorità, ma le autorità a cui si assegnava la responsabilità erano quelle classiche, governo nazionale, regionale, locale, se c'erano delle cose
+
+35
+00:05:59,780 --> 00:06:11,780
+che non andavano bene, a quelle responsabilità, a quelle colpevolezze si guardava, l'Europa era sempre vista come qualcosa che aggiungeva, aggiungeva opportunità, aggiungeva occasioni
+
+36
+00:06:13,180 --> 00:06:25,840
+si colpevolizzava l'Europa esclusivamente in una logica di peccato di omissione prima della crisi economica e finanziaria, l'Europa non era stata in grado di affrontare il dramma dell'ex Yugoslavia
+
+37
+00:06:25,840 --> 00:06:35,280
+l'Europa non era stata in grado di affrontare le vicende del Mediterraneo, ma era tutta una logica di omissione, nessuno metteva l'Europa sul banco degli accusati
+
+38
+00:06:35,280 --> 00:06:46,300
+perché il circuito responsabilità, accountability, colpevolezza non esisteva, con l'arrivo dell'Euro, avere l'Euro in tasca ha cambiato completamente la prospettiva
+
+39
+00:06:46,300 --> 00:06:55,580
+l'Euro in tasca vuol dire che automaticamente il circuito della responsabilità porta l'Europa a essere responsabile se le cose vanno male, quindi colpevole
+
+40
+00:06:55,580 --> 00:07:06,060
+ma c'è un problema, l'Europa è anche non soltanto dentro questo circuito, ma ci entra in un modo molto semplice in una logica di caproespiatorio
+
+41
+00:07:06,060 --> 00:07:19,860
+perché l'Europa è il miglior caproespiatorio che si possa immaginare, l'Europa non ha la possibilità di difendersi, non ha una faccia, non ha un nome e un cognome che di fronte all'accusa di qualcosa che va male possa dire
+
+42
+00:07:19,860 --> 00:07:30,680
+no, non è così, l'Europa è un corpo indistinto, si dice questa cosa è colpa dell'Europa, le migrazioni che non si gestiscono è colpa dell'Europa, quest'altro è colpa dell'Europa
+
+43
+00:07:30,680 --> 00:07:48,740
+la fatica è trovare chi risponde, chi è e l'Europa quindi diventa facilmente colpevole, responsabile, caproespiatorio in una logica in cui per l'appunto questo piano si inclina, le responsabilità diventano attive, non soltanto passive
+
+44
+00:07:48,740 --> 00:08:10,200
+e questa logica dell'accountability e della responsabilità ci rende evidenti il problema dell'Europa a comunicare oggi, a comunicare come? Se gioca questo ruolo così importante, dovrebbe poter raccontare, difendersi, interagire col singolo cittadino che la vede responsabile di fatti che riguardano la propria vita
+
+45
+00:08:10,200 --> 00:08:26,200
+e invece è lontana, voi per motivi linguistici noi ascoltiamo il nostro sindaco, il nostro presidente di regione, il nostro capo del governo, li ascoltiamo nella nostra lingua, parla direttamente a noi non mediati da conferenze stampa o giornalisti
+
+46
+00:08:26,200 --> 00:08:40,320
+non ascoltiamo mai un rappresentante europeo che non sia del nostro paese, che non sia mediato da una conferenza stampa o da qualcosa che ci rilancia le parole ma in modo assolutamente differente
+
+47
+00:08:40,320 --> 00:09:02,160
+Ci troviamo quindi di fronte la prima vera lezione, l'Europa è cambiata, è diventata responsabile, colpevole, facile capo espiatorio, difficile da difendersi, oltretutto in un timing di decisioni in cui quando ci si rende conto che una decisione presa in tempo sbagliato finisce per avere dei danni pesantissimi
+
+48
+00:09:02,160 --> 00:09:24,700
+La prima grande lezione che esce dalla crisi è che se vogliamo immaginare che l'Europa giochi un ruolo nel futuro importante, dobbiamo capire che questo cambiamento è un cambiamento che necessita un profondo rivedere il modo col quale il rapporto dell'Europa con i suoi cittadini diventa un rapporto centrale, essenziale
+
+49
+00:09:24,700 --> 00:09:37,520
+E questo vuol dire la faccia dell'Europa, la possibilità dell'Europa di parlare, di comunicare tutti i temi oggi irrisolti, ma la prima lezione è che se non si risolve questa parte del problema, il problema fa affondare tutto
+
+50
+00:09:37,520 --> 00:09:51,560
+Perché questa logica di responsabilità, colpevolezza, capo espiatorio, diventerà una logica a meno che non entriamo in una fase di crescita infinita, di posti di lavoro per tutti, tutto andrà bene, e allora evidentemente il problema sarà minore
+
+51
+00:09:51,560 --> 00:10:06,960
+Ma siccome non pare essere questo il futuro immediato, il tema che abbiamo di fronte è un tema al quale la soluzione deve essere data, mi rendo conto che è un tema complicato da situare scientificamente, ma io ritengo che sia probabilmente il cuore di tutto il ragionamento che abbiamo davanti
+
+52
+00:10:06,960 --> 00:10:19,740
+Ed è la prima vera lezione della crisi, l'Europa di prima non aveva responsabilità e colpevolezze, l'Europa di oggi ce l'ha, ma non siamo attrezzati a trattare con lei su questa dimensione
+
+53
+00:10:19,740 --> 00:10:36,940
+La seconda, l'Europa esce dalla crisi divisa, innanzitutto divisa su due nuovi assi, che uno lo conoscevamo e l'altro non lo conoscevamo, ma molto più violento di come lo conoscevamo
+
+54
+00:10:36,940 --> 00:10:51,360
+L'Europa esce divisa innanzitutto sull'asse nord sud ed esce divisa economicamente sull'asse nord sud, c'è sempre stata una divisione economica nord sud, ma oggi il cleavage nord sud è particolarmente marcato
+
+55
+00:10:53,540 --> 00:11:14,200
+Cito solamente due cifre, mi fermo sulle cifre, non ne citerò altre, ma sono cifre secondo me che danno l'idea, ci sono i paesi del nord Europa guidati dalla Germania che hanno dall'inizio della crisi a oggi guadagnato punti positivi sui due dati essenziali con i quali capire se l'economia reale e la società funzionano
+
+56
+00:11:14,200 --> 00:11:35,200
+Gli investimenti e la disoccupazione, la Germania per esempio è un paese che si è trovato dal 2007 a oggi a vedere gli investimenti aumentati del 4% nonostante la crisi, nello stesso periodo l'Italia e la Spagna hanno visto un crollo del 30% degli investimenti e la Francia un calo dell'8%
+
+57
+00:11:35,200 --> 00:12:00,580
+Sulla disoccupazione, la stessa Germania si trova ad avere un calo della disoccupazione dal 2007 a oggi del 4%, la Spagna un aumento sulla sua cifra del 180%, l'Italia del 100%, la Francia del 36%, due dimensioni nord e sud che viaggiano in un viaggiato dalla crisi in modo completamente diverso
+
+58
+00:12:00,580 --> 00:12:24,360
+e due dimensioni che ci consegnano oggi un'Europa profondamente divisa sul lato economico, ma l'aggiunta è che la divisione è arrivata anche sul lato politico ed è una divisione est-ovest, perché di fronte alla divisione nord-sud che conoscevamo abbiamo incontrato oggi una nuova divisione, un nuovo cleavage, il cleavage est-ovest che è il cleavage più preoccupante
+
+59
+00:12:24,360 --> 00:12:54,340
+Lo si è visto sulla vicenda Russia-Ucraina, adesso sulla vicenda dei migranti in modo esplosivo. Una Unione Europea che vive con due cleavage così marcati, con due fossati che si allargano e che allo stesso tempo vede un indebolimento del centro, perché mai come oggi il centro individuato nella Commissione Europea, Bruxelles, è debole, sopravanzato rispetto all'istituzione che ha preso l'Italia.
+
+60
+00:12:54,360 --> 00:13:24,340
+E' preso piede oggi in Europa che è il Consiglio Europeo, che è appunto la rappresentanza degli Stati membri. E non è un caso che una parola è entrata nel nostro linguaggio ormai, la parola exit, grexit prima, oggi brexit, abbiamo avuto notizia che fra qualche settimana il Parlamento finlandese si riunirà per discutere di questa, non la so come dire, finnexit o qualcosa di questo genere, cioè della possibile discussione sull'uscita della
+
+61
+00:13:25,380 --> 00:13:54,320
+Finlandia dall'Euro, la di fatto autoesclusione dell'Ungheria oggi da molte delle dinamiche di discussione, l'Europa esce profondamente divisa, sfrangiata in una dimensione che non è quella che abbiamo conosciuto altre volte, è una dimensione che si sta ulteriormente manifestando con degli elementi, credo di grande preoccupazione per tutti coloro che pensano, come io penso, che per l'Italia in particolare un positivo futuro di integrazione sia assolutamente
+
+62
+00:13:55,180 --> 00:14:24,300
+essenziale. La terza lezione, l'Unione economica e monetaria, dalla quale poi alla fine è nato tutto il percorso che ha portato all'Euro, era un'Unione economica e monetaria con tre parole U e M, abbiamo fatto la M grande, abbiamo fatto una E piccola, la M grande, l'Unione monetaria c'è, funziona, è perfetta, consente al governatore della Banca centrale europea,
+
+63
+00:14:24,300 --> 00:14:49,540
+di fare oggi cose che in un tempo erano impensabile, questa iniezione di liquidità, il quantitative easing, Mario Draghi rappresenta secondo me oggi il miglior segno di come una leadership illuminata con forte impronta europeista riesce nella situazione di oggi a usare le istituzioni europee per il bene del nostro continente,
+
+64
+00:14:49,540 --> 00:15:19,460
+ma sappiamo anche che quella M grande ha bisogno di una E altrettanto grande, la M grande e la E, Unione economica piccola, sono una contraddizione, all'inizio fu fatto così con l'idea che poi dopo la E sarebbe seguita e la verità è che la E non è seguita e il fatto che la E non sia seguita lo si vede in tanti particolari che sono gli elementi della difficoltà della competitività europea, potrei citare tanti
+
+65
+00:15:19,460 --> 00:15:49,440
+sistemi, è tardi voglio limitarmi soltanto a uno che secondo me è uno dei dati che sul tema della globalizzazione dei mercati globali la dice lunga su questo nostro limite europeo, pensiamo tutti abbiamo un telefonino in tasca, tutti sappiamo quant'è importante il sistema delle telecomunicazioni, la competitività in quell'ambito, tutti ci ricordiamo quando ci si chiedeva telefonini in tasca, qualcuno ce l'aveva europeo il telefonino, adesso guardiamo i telefonini che abbiamo in tasca,
+
+66
+00:15:49,440 --> 00:16:06,680
+e sappiamo tutti che sono telefonini che non sono europei e sappiamo tutti che il nostro sistema europeo si è voluto costruire perché i Paesi membri hanno voluto mantenere l'isolamento nazionale in 28 mercati, ogni Paese ha un mercato delle comunicazioni
+
+67
+00:16:06,680 --> 00:16:36,660
+differente, ogni Paese ha 3-4 operatori per le legole della concorrenza, la sostanza è che abbiamo 70 operatori in Europa di telecomunicazioni, quando nella Cina di oggi sono solo 4 e negli Stati Uniti di oggi sono solo 4, la differenza tra i nostri 70 e i 4 cinesi e i 4 americani in tempi di dimensione è assolutamente evidente e l'immediata constatazione è quella di un problema grandissimo di competitività nel riuscire ad avere le
+
+68
+00:16:36,660 --> 00:17:06,640
+dimensioni per andare nel resto del mondo e per difendersi poi anche dalla aggressione diciamo in termini economici che sicuramente ci sarà, il completamento del mercato unico, il fatto di avere la dimensione del mercato unico come dimensione che ci consente di essere forti nel mondo e non di essere soltanto a doverci difendere dall'arrivo degli altri è uno degli elementi essenziali, abbiamo tanti campioni nazionali, non abbiamo campioni europei ma la dimensione del mondo oggi ne
+
+69
+00:17:06,640 --> 00:17:34,940
+necessita di avere campioni europei che siano in grado di giocare quella partita che oggi non c'è. La quarta lezione che tiro da queste vicende la prendo dall'aver vissuto con attenzione le elezioni francesi di questi ultimi giorni, il potrà confermare o smentire, a me ha colpito molto l'efficacia di una frase che Marine Le Pen ha usato in Francia in questo periodo,
+
+70
+00:17:34,940 --> 00:17:43,140
+efficacia, una frase secondo me carica di mille ambiguità ma molto molto efficace nell'impatto con le persone, quando dice
+
+71
+00:17:43,820 --> 00:17:51,200
+il futuro del cleavage politico in un paese come la Francia sarà tra coloro che sono mondializzati e i patriotti
+
+72
+00:17:51,200 --> 00:17:54,320
+e ovviamente lei si mette tra i
+
+73
+00:17:54,320 --> 00:17:57,640
+patriotti, difensore dei patriotti e i mondializzati ci mette
+
+74
+00:17:57,640 --> 00:18:01,920
+la destra e la sinistra classica come coloro che stanno svendendo
+
+75
+00:18:01,920 --> 00:18:03,420
+la Francia
+
+76
+00:18:03,420 --> 00:18:08,220
+alle dinamiche di globalizzazione che l'Europa sta portando avanti.
+
+77
+00:18:09,440 --> 00:18:15,660
+Una frase che mi ha molto colpito perché l'Europa del dopo crisi è diventata
+
+78
+00:18:15,660 --> 00:18:19,840
+positiva per i vincenti e negativa per i perdenti
+
+79
+00:18:20,730 --> 00:18:26,740
+e l'essere positiva per i vincenti e negativa per i perdenti delle nostre società
+
+80
+00:18:26,740 --> 00:18:32,840
+è un lusso che non possiamo permetterci perché se è così l'Europa non ce la farà.
+
+81
+00:18:32,840 --> 00:18:39,200
+L'Europa è stata positiva per tutti in tutto il suo percorso iniziale, se l'Europa perde
+
+82
+00:18:39,200 --> 00:18:47,720
+questa capacità inclusiva, questa capacità di essere appunto positiva anche per coloro che sono in crisi
+
+83
+00:18:47,720 --> 00:18:53,400
+in una società francese, italiana, tedesca, portoghese che ovviamente vive
+
+84
+00:18:54,080 --> 00:19:00,480
+il problema della protezione di cittadini che si trovano di fronte a grandi cambiamenti, la sicurezza
+
+85
+00:19:01,520 --> 00:19:07,400
+rispetto ai grandi cambiamenti che stanno avvenendo nella nostra società, la sicurezza
+
+86
+00:19:07,400 --> 00:19:12,060
+rispetto al terrorismo. Pensiamo come è contraddittorio quanto sta avvenendo nel
+
+87
+00:19:12,060 --> 00:19:17,920
+dibattito post 13 novembre. Il dibattito post 13 novembre, dopo Parigi 13 novembre,
+
+88
+00:19:17,980 --> 00:19:24,180
+dovrebbe sulla sicurezza interna tirare una conclusione molto semplice. Cos'è che non ha
+
+89
+00:19:24,180 --> 00:19:30,120
+funzionato? Tante cose. C'è una cosa sicuramente che ci rendiamo conto non funziona.
+
+90
+00:19:30,120 --> 00:19:36,320
+Di fronte a terroristi così sofisticati tecnologicamente, così mobili, non può
+
+91
+00:19:36,320 --> 00:19:44,380
+che esserci una risposta comune. Se non c'è una specie di FBI europea, la nostra capacità come
+
+92
+00:19:44,380 --> 00:19:50,640
+europei di gestire solo a livello nazionale le forze di risposta è assolutamente limitata.
+
+93
+00:19:50,680 --> 00:19:58,040
+Ma oggi è così. Oggi abbiamo voluto che la sicurezza interna fosse di esclusiva, quasi,
+
+94
+00:19:59,520 --> 00:20:05,000
+competenza dei diversi stati membri. Ed è successo quello che è accaduto a alcuni di
+
+95
+00:20:05,000 --> 00:20:09,960
+quei terroristi. Quei terroristi, prima e dopo gli attentati, hanno passato varie frontiere
+
+96
+00:20:10,640 --> 00:20:15,700
+europee e hanno passato quelle frontiere non perché non c'era il controllo. Erano stati
+
+97
+00:20:15,700 --> 00:20:20,180
+rimessi sui controlli per questi periodi di migrazione e di sospensione di Schengen. Quindi
+
+98
+00:20:20,180 --> 00:20:25,880
+hanno passato quelle frontiere, ma non era passata l'informazione che erano terroristi.
+
+99
+00:20:25,880 --> 00:20:32,440
+Quindi sono riusciti a passare quelle frontiere in denni perché non c'era un lavoro comune e
+
+100
+00:20:32,440 --> 00:20:38,160
+collettivo. Se non ci rendiamo conto, anche qui, che il problema va totalmente rovesciato,
+
+101
+00:20:38,640 --> 00:20:43,580
+è che la logica di protezione, quindi una logica calda nei confronti di cittadini che
+
+102
+00:20:43,580 --> 00:20:49,800
+chiedono protezione, quando dicevo prima i perdenti, la mondializzazione, i vincenti,
+
+103
+00:20:49,960 --> 00:20:55,040
+ovviamente il tema riguarda poi soprattutto la questione dell'economia, la questione dell'aiuto
+
+104
+00:20:55,040 --> 00:21:01,480
+rispetto alcune delle proposte che dovrebbero oggi essere messe in campo per rendere più calda la
+
+105
+00:21:01,480 --> 00:21:06,780
+proposta dell'Europa. Due ne cito, che a mio avviso sono oggi molto importanti rispetto al tema
+
+106
+00:21:06,780 --> 00:21:14,040
+principale, la caduta della possibilità di trovare lavoro soprattutto per i giovani. Quando paesi
+
+107
+00:21:14,040 --> 00:21:19,950
+come la Spagna o l'Italia o il Portogallo hanno il 50, il 40 per cento, la stessa Francia che viaggia
+
+108
+00:21:19,950 --> 00:21:26,630
+sul 25 per cento, l'Europa o trova la possibilità di dare risposta su questi temi. Ci sono due
+
+109
+00:21:26,630 --> 00:21:30,470
+proposte in ballo. La prima, quella di un'assicurazione contro la disoccupazione
+
+110
+00:21:30,970 --> 00:21:37,110
+gestita a livello dell'Eurozona. La seconda, quella dell'Erasmus Pro, è una proposta che ha
+
+111
+00:21:37,610 --> 00:21:43,090
+lanciato l'Istituto di Jacques Delors, una proposta alla quale credo molto. Così come l'Erasmus è stato
+
+112
+00:21:43,090 --> 00:21:48,550
+importante per gli studenti universitari, l'Erasmus Pro dovrebbe consentire a giovani che escono dagli
+
+113
+00:21:48,550 --> 00:21:55,210
+studi e che trovano l'occasione finanziata dall'Unione Europea di imparare un mestiere e anche
+
+114
+00:21:55,210 --> 00:22:01,510
+una lingua, che è fondamentale, in un altro Paese Europeo e poi di rientrare. È oggi una cosa che
+
+115
+00:22:02,050 --> 00:22:07,430
+in piccolo esiste, ma è un piccolo, piccolo germe, che invece dovrebbe essere, dovrebbe diventare di
+
+116
+00:22:07,430 --> 00:22:13,590
+massa, dovrebbe diventare uno strumento che potrebbe modificare innanzitutto la percezione
+
+117
+00:22:13,590 --> 00:22:19,690
+che abbiamo tutti dell'Europa, l'Europa come opportunità e non soltanto l'Europa come vincoli.
+
+118
+00:22:19,950 --> 00:22:26,070
+E vengo alla quinta lezione, l'Europa solo dei vincoli non basta. Sappiamo tutti che ci sono tante
+
+119
+00:22:26,070 --> 00:22:32,430
+opportunità, sono state citate prima, si è stato molto efficace nel raccontare il rapporto con i
+
+120
+00:22:32,430 --> 00:22:38,770
+fondi europei della ricerca, quanto sono importanti, ma nell'immaginario collettivo, nell'opinione pubblica,
+
+121
+00:22:38,770 --> 00:22:46,070
+l'Europa oggi è soprattutto vincolo, è soprattutto vincolo ed è soprattutto vincolo a un tal punto che
+
+122
+00:22:46,070 --> 00:22:51,890
+siccome le opinioni pubbliche percepiscono l'Europa soprattutto come vincolo e quindi cambia la
+
+123
+00:22:51,890 --> 00:22:58,850
+percezione. Oggi l'Italia è un Paese che è passato in soli cinque anni dall'avere un approccio positivo
+
+124
+00:22:58,850 --> 00:23:04,490
+nei confronti dell'Europa, la nostra pubblica opinione, ad avere oggi un approccio molto diviso,
+
+125
+00:23:04,490 --> 00:23:13,230
+anzi il 51% scettico e il 49% contrario. Ed è evidente che oggi è molto facile per leadership
+
+126
+00:23:13,230 --> 00:23:20,330
+politiche seguire quello che sembra essere l'orientamento di una pubblica opinione che ha
+
+127
+00:23:20,330 --> 00:23:27,610
+paura e che soprattutto non veda nell'Europa quel protagonista positivo in grado di dare risposta ai
+
+128
+00:23:27,610 --> 00:23:32,870
+problemi. Quindi è molto facile prendere l'Europa come capro espiatorio e criticare l'Europa rispetto
+
+129
+00:23:32,870 --> 00:23:37,670
+a cose delle quali magari non è nemmeno responsabile. L'Europa così com'è non funziona,
+
+130
+00:23:37,930 --> 00:23:44,010
+ha bisogno di essere modificata e di essere spostata in avanti rispetto a questioni che,
+
+131
+00:23:44,050 --> 00:23:48,490
+come citavo prima, la questione dell'Unione economica. Ma sicuramente noi sappiamo e credo
+
+132
+00:23:48,490 --> 00:23:53,310
+che questo sia un tema che riguarda soprattutto l'Italia, ribadisco il concetto, per un Paese come
+
+133
+00:23:53,310 --> 00:24:00,010
+il nostro noi dovremmo essere i più impegnati a far fare quel passo avanti che invece l'Europa
+
+134
+00:24:00,010 --> 00:24:09,490
+ancora non riesce a fare per tanta miopia e anche per tanta lentezza che altri Paesi cercano di
+
+135
+00:24:09,490 --> 00:24:16,110
+mettere rispetto alle scelte. L'Europa dei vincoli non regge, il tema di fondo è, lo metto in due
+
+136
+00:24:16,110 --> 00:24:21,250
+parole, l'Europa deve essere trasparente e attrattiva, attrattiva ho citato prima due esempi
+
+137
+00:24:21,250 --> 00:24:27,510
+di come rendere di nuovo l'Europa interessante e attrattiva nelle nostre conversazioni e quindi
+
+138
+00:24:27,510 --> 00:24:33,710
+nell'atteggiamento della pubblica opinione. Deve essere trasparente, non abbiamo ancora dato una
+
+139
+00:24:33,710 --> 00:24:41,090
+soluzione al problema greco, non in termini di soldi, sono stati dati i soldi, i soldi ci sono,
+
+140
+00:24:41,190 --> 00:24:47,570
+il percorso per uscire. Cioè parlo del problema concettuale che secondo me rimane lì ed è rimasto
+
+141
+00:24:47,570 --> 00:24:57,490
+alla fine irrisolto. Il problema concettuale che è il problema della democrazia, un popolo che ha
+
+142
+00:24:57,490 --> 00:25:04,550
+trovato quattro volte e che si è trovato quindi a esprimere la propria volontà, sovranità popolare e
+
+143
+00:25:04,550 --> 00:25:11,270
+si è trovato poi a dover fare i conti con la necessità di cambiare la propria espressione di
+
+144
+00:25:11,270 --> 00:25:19,850
+volontà popolare con espressioni che arrivavano da altre parti e rispetto alle quali la forza
+
+145
+00:25:19,850 --> 00:25:28,670
+della contraddizione che lì veniva posta è che arrivavano in modo contorto dal punto di vista
+
+146
+00:25:28,670 --> 00:25:35,190
+della legittimazione democratica. Perché per esempio pensiamo alla complessità che oggi vive
+
+147
+00:25:35,190 --> 00:25:42,090
+l'euro, il non volere fare i passi avanti e sciogliere i nodi è una delle questioni chiave. L'euro
+
+148
+00:25:43,110 --> 00:25:49,010
+manca di una conclusione del cerchio dal punto di vista della responsabilità democratica perché
+
+149
+00:25:49,010 --> 00:25:55,950
+l'euro non ha un Parlamento. Il Parlamento europeo non è il Parlamento dell'euro. Quando Mario Draghi
+
+150
+00:25:55,950 --> 00:26:02,550
+va al Parlamento europeo a discutere e a porre i punti essenziali si trova davanti anche al
+
+151
+00:26:02,550 --> 00:26:11,570
+parlamentare britannico. Quando il governatore della banca centrale inglese prende delle posizioni
+
+152
+00:26:11,570 --> 00:26:16,030
+e ha bisogno del confronto con il suo Parlamento va in un Parlamento in cui non ci sono i
+
+153
+00:26:16,030 --> 00:26:22,970
+italiani o i parlamentari francesi, ci sono solamente i parlamentari britannici. Questo
+
+154
+00:26:22,970 --> 00:26:29,330
+tema è un tema che abbiamo voluto mettere da parte considerando che non fosse importante,
+
+155
+00:26:29,590 --> 00:26:35,350
+secondo me una delle questioni chiave, perché rende complesso quel percorso di rapporto con
+
+156
+00:26:35,350 --> 00:26:40,330
+un'opinione pubblica e con opinioni pubbliche che hanno visto in modo così complesso questa vicenda.
+
+157
+00:26:40,970 --> 00:26:48,910
+Ma soprattutto quando dico non vincoli ma la trasparenza quindi di un percorso democratico
+
+158
+00:26:48,910 --> 00:26:54,570
+più trasparente mi rendo conto mentre pongo il tema della complicazione della questione,
+
+159
+00:26:55,310 --> 00:27:01,550
+ma penso anche a un'altra grande questione che oggi invece mi lascia un soprassalto di ottimismo.
+
+160
+00:27:02,510 --> 00:27:09,430
+In quest'ultimo mese è tornata per motivi non belli, per certi versi anche per motivi molto
+
+161
+00:27:09,430 --> 00:27:16,730
+angoscianti, ma è tornata centrale di attualità la parola dalla quale l'Europa è nata e che per
+
+162
+00:27:16,730 --> 00:27:24,230
+tanti decenni abbiamo messo da una parte la parola solidarietà. La Francia chiede solidarietà agli
+
+163
+00:27:24,230 --> 00:27:33,230
+altri Paesi europei rispetto all'attacco di cui il suo suolo è stato oggetto, la Germania chiede
+
+164
+00:27:33,230 --> 00:27:40,410
+solidarietà rispetto alla scelta che ha fatto sui rifugiati e sui migranti. Hanno chiesto solidarietà
+
+165
+00:27:40,410 --> 00:27:46,070
+vari altri Paesi, la solidarietà quella parola che era stata considerata come una parola di puro
+
+166
+00:27:46,070 --> 00:27:52,150
+assistenzialismo quindi da mettere da parte rispetto ad altre parole molto più di attualità, oggi torna
+
+167
+00:27:52,150 --> 00:27:59,450
+di attualità perché se ne ritrova l'aspetto centrale, noi europei o siamo tra di noi solidali
+
+168
+00:27:59,450 --> 00:28:06,270
+oppure semplicemente l'Europa non esisterà, l'Europa è un'unione di minoranze, non è un
+
+169
+00:28:06,270 --> 00:28:13,850
+unione nella quale c'è una maggioranza che impone regole e quindi la solidarietà non influente,
+
+170
+00:28:14,270 --> 00:28:19,810
+l'Europa ha bisogno di vivere la solidarietà come elemento centrale, la solidarietà vuol dire
+
+171
+00:28:19,810 --> 00:28:29,430
+riconoscersi reciprocamente, vuol dire aiutarsi reciprocamente, vuol dire tutto l'opposto di
+
+172
+00:28:29,430 --> 00:28:34,090
+invece venuta fuori in questi ultimi anni, terribili terribili di stereotipi per i quali
+
+173
+00:28:35,910 --> 00:28:44,350
+abbiamo vissuto questi ultimi anni con la difficoltà che conosciamo. La sesta lezione è
+
+174
+00:28:44,350 --> 00:28:51,990
+che dalla crisi è arrivato al pettine secondo me il nodo di dove vogliamo andare, anche questo
+
+175
+00:28:51,990 --> 00:28:59,030
+l'avevamo tenuto sostanzialmente nascosto o meglio facevamo finta che eravamo tutti d'accordo di voler
+
+176
+00:28:59,030 --> 00:29:05,790
+andare nella stessa direzione, tanto che nei trattati c'è scritto proprio ever closer union,
+
+177
+00:29:07,050 --> 00:29:13,950
+tutti andiamo verso un'unione più integrata, dopodiché ci si rende conto dopo la crisi è
+
+178
+00:29:13,950 --> 00:29:23,170
+venuto fuori in modo evidente che non è vero ed è giusto che lo si sancisca che non è vero ed è
+
+179
+00:29:23,170 --> 00:29:28,510
+il motivo per il quale io penso che si debba andare rapidamente e probabilmente in questo
+
+180
+00:29:28,510 --> 00:29:34,830
+senso il referendum britannico sulla uscita o non uscita della Gran Bretagna avrà un effetto
+
+181
+00:29:35,490 --> 00:29:40,130
+potenzialmente anche positivo perché ci obbliga ad affrontare un tema che altrimenti non avremmo
+
+182
+00:29:40,130 --> 00:29:45,870
+affrontato e il tema è quello di dire c'è bisogno di un'Europa a due cerchi nella quale c'è un
+
+183
+00:29:45,870 --> 00:29:53,050
+cerchio quello dei paesi che condividono alcune politiche senza avere la necessaria volontà di
+
+184
+00:29:53,050 --> 00:29:59,750
+andare verso l'unione ever closer union, senza avere la necessità di andare verso un'unione
+
+185
+00:29:59,750 --> 00:30:05,230
+maggiore e più integrata, la Gran Bretagna, la Danimarca ma probabilmente anche altri e
+
+186
+00:30:05,230 --> 00:30:09,130
+probabilmente un cerchio così sarà un cerchio che sarà in grado di attrarre anche altri paesi che
+
+187
+00:30:09,130 --> 00:30:14,550
+oggi non entrano perché non vogliono fare i passi ulteriori dopo la fine del segreto bancario perché
+
+188
+00:30:14,550 --> 00:30:19,890
+non la Svizzera e altre dimensioni di questo genere ma allo stesso tempo questo consentirebbe
+
+189
+00:30:19,890 --> 00:30:27,550
+ai paesi dell'euro di sapere come dicevo prima che l'euro può funzionare soltanto se c'è un'integrazione
+
+190
+00:30:27,550 --> 00:30:32,750
+maggiore se rimane solo l'integrazione monetaria l'euro non funzionerà e credo che questo sia
+
+191
+00:30:32,750 --> 00:30:37,910
+l'obiettivo sul quale dobbiamo lavorare per questo obiettivo due cerchi e ho detto due cerchi non due
+
+192
+00:30:37,910 --> 00:30:42,610
+velocità perché due velocità vuol dire la velocità è diversa ma la direzione di marcia è la stessa
+
+193
+00:30:42,610 --> 00:30:47,450
+qui il problema è proprio la direzione di marcia che è diversa dobbiamo sancire che alcuni paesi
+
+194
+00:30:47,450 --> 00:30:53,830
+vogliono andare in una direzione differente dobbiamo tenerli vincolati perché è utile per
+
+195
+00:30:53,830 --> 00:31:00,430
+tutti che questo avvenga ma l'integrazione maggiore deve avvenire tra gli oggi 19 paesi
+
+196
+00:31:00,430 --> 00:31:05,870
+dell'euro e quelli che ne vorranno far parte con come con l'integrazione alla nascita di un
+
+197
+00:31:05,870 --> 00:31:11,010
+ministro delle finanze europee o di un budget dell'euro area tutte cose necessarie per fare
+
+198
+00:31:11,010 --> 00:31:16,190
+non in astratto ma per arrivare a quegli obiettivi che citavo prima un'assicurazione contro la
+
+199
+00:31:16,190 --> 00:31:23,630
+disoccupazione grandi investimenti su poli di ricerca europei perché non bastano i progetti
+
+200
+00:31:23,630 --> 00:31:29,890
+europei e per battere la concorrenza cinese americana abbiamo bisogno di dimensioni in
+
+201
+00:31:29,890 --> 00:31:35,630
+progetti transfrontalieri e questi non possono che avvenire attraverso una grande iniziativa che
+
+202
+00:31:35,630 --> 00:31:43,590
+solamente a livello europeo si può prendere la settima e ultima lezione vengo alla parte conclusiva
+
+203
+00:31:43,590 --> 00:31:51,810
+abbiamo capito dalla crisi che il racconto che abbiamo fatto dell'europa fino a oggi non basta
+
+204
+00:31:51,810 --> 00:32:00,170
+più l'europa ha avuto due racconti fino a oggi c'è stato un racconto che è stato il racconto
+
+205
+00:32:00,170 --> 00:32:06,630
+dalla nascita fino alla caduta del muro di berlino all'incirco fino alla fine del blocco
+
+206
+00:32:07,070 --> 00:32:14,430
+quel racconto era un'immagine sostanzialmente era l'immagine di due grandi europei forse due più
+
+207
+00:32:14,430 --> 00:32:22,770
+grandi europei col emittera mano nella mano nel cimitero di verdun quel cimitero dentro il quale
+
+208
+00:32:22,770 --> 00:32:32,710
+sotto terra c'erano i loro nipoti fratelli zii ognuno di loro in quanto francese tedesco aveva
+
+209
+00:32:32,710 --> 00:32:42,150
+delle persone che guardava negli occhi che erano morte per spostare di 10 50 100 chilometri una
+
+210
+00:32:42,150 --> 00:32:47,690
+frontiera che oggi si passa senza nemmeno renderci conto che la stiamo passando erano morti per quel
+
+211
+00:32:47,690 --> 00:32:55,030
+motivo e co le metteranno nel tenersi per mano avevano in mente i visi dei loro zii dei loro
+
+212
+00:32:55,030 --> 00:33:01,970
+fratelli che erano morti e quindi l'immagine e l'impatto di quella parola mai più la guerra
+
+213
+00:33:01,970 --> 00:33:09,070
+tra noi in un terreno fisicamente in un terreno ma in un territorio che è quello dal quale son
+
+214
+00:33:09,070 --> 00:33:16,410
+partite tutte le guerre più tremende della storia della storia nostra recente della storia dei
+
+215
+00:33:16,410 --> 00:33:21,570
+secoli degli ultimi secoli dell'ultimo secolo in particolare era il messaggio più forte di tutti
+
+216
+00:33:22,730 --> 00:33:28,770
+vincente poi ovviamente quel messaggio col col successo è un messaggio che è diventato meno
+
+217
+00:33:28,770 --> 00:33:35,550
+forte perché le generazioni successive e le generazioni che verranno non hanno nemmeno più
+
+218
+00:33:35,550 --> 00:33:41,470
+il racconto dei nonni di che cosa è stata la guerra e di quel fratello che è morto e di
+
+219
+00:33:41,470 --> 00:33:47,410
+quello zio che è morto per delle cose che oggi sembrano totalmente assurde spostare una frontiera
+
+220
+00:33:47,410 --> 00:33:56,110
+che oggi non sappiamo nemmeno più se esiste o no e allora siamo passati al secondo racconto ed è
+
+221
+00:33:56,110 --> 00:34:04,210
+stato il periodo sostanzialmente degli anni 90 dei primi anni 2000 l'europe delle opportunità ed
+
+222
+00:34:04,210 --> 00:34:11,390
+è stato un racconto vincente perché era un'opportunità sia per popoli che per singoli
+
+223
+00:34:11,390 --> 00:34:18,850
+cittadini le opportunità dei popoli i popoli che lasciavano la dittatura sia spagna portogallo
+
+224
+00:34:18,850 --> 00:34:24,050
+grecia e che hanno visto la proda all'europe contemporaneamente con l'uscita della dittatura
+
+225
+00:34:24,050 --> 00:34:32,910
+la grande opportunità l'alzarsi verso qualcosa di positivo simboleggiato nell'europe ovviamente
+
+226
+00:34:32,910 --> 00:34:38,670
+ancora di più per i paesi dell'europe centro orientale ma anche per i singoli cittadini che
+
+227
+00:34:38,670 --> 00:34:45,410
+hanno visto nell'opportunità di fare un progetto coi fondi strutturali europei di fare le rasmus
+
+228
+00:34:46,030 --> 00:34:53,910
+di prendere rayaner invece di dover fare con sabena o con all'italia delle rotte improbabili
+
+229
+00:34:53,910 --> 00:35:01,510
+costi improbabili opportunità l'europe come un qualcosa che mi aggiunge possibilità positivo
+
+230
+00:35:02,750 --> 00:35:09,950
+questi due racconti il primo è terminato perché le generazioni sono cambiate il secondo
+
+231
+00:35:09,950 --> 00:35:15,150
+è terminato perché poi è arrivata la crisi e nel momento nel quale è arrivata la crisi non
+
+232
+00:35:15,150 --> 00:35:21,270
+si è riusciti a fare il passo avanti cioè a declinare il racconto di oggi e io penso che oggi
+
+233
+00:35:21,270 --> 00:35:29,130
+questa è la settima lezione fondamentale o noi decliniamo in modo molto convinto e assolutamente
+
+234
+00:35:29,130 --> 00:35:36,790
+non astratto ma vero qual è il racconto dell'europe per i nostri figli perché la facciamo l'europe
+
+235
+00:35:36,790 --> 00:35:43,030
+perché chiediamo più integrazione o noi decliniamo tutto questo nel mondo dei domani oppure sarà
+
+236
+00:35:43,030 --> 00:35:49,530
+perdente manterremo dei legami tra di noi ma saranno legami sempre più deboli perché mancherà la
+
+237
+00:35:49,530 --> 00:35:56,090
+motivazione come invece è stata quella dei due racconti che citavo prima e qui io non ne vedo
+
+238
+00:35:56,090 --> 00:36:02,510
+che uno di racconto possibile che è vero tra l'altro è il racconto di un mondo che è cambiato in questi
+
+239
+00:36:02,510 --> 00:36:07,250
+anni che sta cambiando un mondo nel quale noi stiamo diventando sempre più piccoli e quando
+
+240
+00:36:07,250 --> 00:36:15,850
+dico noi dico noi europei perché il mondo sta vivendo e vedendo l'arrivo di straordinarie
+
+241
+00:36:15,850 --> 00:36:26,910
+potenze che tolgono miliardi di abitanti dalla povertà la cina l'india l'indonesia e che nel
+
+242
+00:36:26,910 --> 00:36:33,310
+toglierli dalla povertà diventano potenze dalle dimensioni incomparabili alle nostre dimensioni
+
+243
+00:36:34,130 --> 00:36:39,390
+a modi battuta ma secondo me è la frase più vera che si possa dire in questo momento noi
+
+244
+00:36:40,690 --> 00:36:49,090
+oggi se guardiamo al futuro si divide in due categorie di paesi i paesi che sono piccoli e
+
+245
+00:36:49,090 --> 00:36:54,990
+i paesi che ancora non si sono resi conto di essere piccoli ma è una verità profonda questa
+
+246
+00:36:54,990 --> 00:37:09,110
+perché siamo tutti piccoli di fronte ai giganti che stanno oggi prendendo dimestichezza con il
+
+247
+00:37:10,170 --> 00:37:18,590
+nel quando è stato fatto il g7 4 europei su 7 erano nel g7 cioè tra i 7 paesi più importanti
+
+248
+00:37:18,590 --> 00:37:25,970
+economicamente del mondo nel prossimo decennio dovendo fare un nuovo ranking nessun paese
+
+249
+00:37:25,970 --> 00:37:31,470
+europeo farà parte né del g7 né tra i primi 10 paesi europei tutto questo ragionamento per dire
+
+250
+00:37:31,470 --> 00:37:38,250
+cosa dobbiamo essere pessimisti sul futuro no perché piccoli più piccoli di fronte a queste
+
+251
+00:37:39,270 --> 00:37:47,250
+dimensioni può voler dire migliori e più efficaci influenti e attrattivi più piccoli
+
+252
+00:37:47,250 --> 00:37:53,150
+ma più uniti vuol dire essere in grado poter essere in grado nel mondo dei domani di far valere e
+
+253
+00:37:53,150 --> 00:37:59,670
+vincere i valori europei non in una logica quantitativa ma in una logica diverse soft
+
+254
+00:37:59,670 --> 00:38:06,830
+power europeo è quello che tutti ci indicano come sempre fondamentale ed essenziale ma questo vale
+
+255
+00:38:06,830 --> 00:38:13,030
+e varrà sempre di più se ci rendiamo conto della percorso della strada che abbiamo davanti questo
+
+256
+00:38:13,030 --> 00:38:19,030
+vale su tanti temi quando diciamo valori europei decliniamo valori che sono diversi per noi e sono
+
+257
+00:38:19,030 --> 00:38:24,790
+diversi per altre parti del mondo sono i valori dei diritti dell'uomo sono i valori del rispetto
+
+258
+00:38:24,790 --> 00:38:29,870
+del paesaggio sono i valori dell'ambiente ovviamente sono tanti valori che per noi vogliono
+
+259
+00:38:29,870 --> 00:38:37,070
+dire la nostra coesistenza e il nostro modo di vivere e rispetto a questi valori o abbiamo
+
+260
+00:38:37,070 --> 00:38:43,030
+oggi la percezione che o questi valori saranno portati avanti da un'europa integrata nel mondo
+
+261
+00:38:43,030 --> 00:38:47,950
+di domani e i nostri figli potranno vivere in un mondo in cui questi valori saranno forti
+
+262
+00:38:47,950 --> 00:38:59,850
+influenti oppure piccoli separati saremo sempre attrattivi ma non saremo influenti in grado di
+
+263
+00:38:59,850 --> 00:39:06,710
+l'italia è un paese che ha giocato sempre positivamente in una logica di leadership per
+
+264
+00:39:06,710 --> 00:39:14,210
+un'europa migliore tutte le cose migliori che l'europa ha fatto in questi decenni hanno sempre
+
+265
+00:39:14,210 --> 00:39:23,310
+un'impronta italiana cito due casi i due casi storicamente più noti quando jack delor lanciò
+
+266
+00:39:23,310 --> 00:39:30,970
+l'atto il mercato unico dal quale poi è nato per i cittadini europei la possibilità di fare erasmus
+
+267
+00:39:30,970 --> 00:39:36,770
+ryaner e tutte le cose positive che noi oggi viviamo l'abbattimento delle frontiere tutto
+
+268
+00:39:36,770 --> 00:39:44,730
+questo è nato perché in un consiglio europeo a milano l'italia guidò nel 1985 ruppe le resistenze
+
+269
+00:39:44,730 --> 00:39:52,370
+degli altri e fece partire quel percorso quando le resistenze sulla unione economica e monetaria
+
+270
+00:39:52,370 --> 00:39:59,090
+sembravano impossibili da essere rotte fu l'italia nel dicembre del 90 che ruppe quelle resistenze
+
+271
+00:39:59,090 --> 00:40:05,290
+guidando una presidenza italiana che riuscì a fare arrivare a quell'obiettivo e fare arrivare nel
+
+272
+00:40:05,290 --> 00:40:12,390
+modo allora migliore possibile l'italia è sempre stata all'avanguardia perché ha sempre capito che
+
+273
+00:40:12,390 --> 00:40:19,410
+più di altri paesi ha bisogno di un'europa forte e integrata non l'europa che balbetta oggi che
+
+274
+00:40:19,410 --> 00:40:24,390
+la fa perché non vogliamo dargli i sufficienti poteri o perché ci scontriamo su quello su quel
+
+275
+00:40:24,390 --> 00:40:30,530
+tempo ma un'europa più forte e integrata che sia integrata anche socialmente ed economicamente
+
+276
+00:40:30,530 --> 00:40:36,190
+oltre che politicamente ecco perché l'italia deve assumere questo ruolo di leadership e questo
+
+277
+00:40:36,190 --> 00:40:40,470
+ruolo di leadership è fondamentale per il futuro dell'italia e anche per il futuro dell'europa
+
+278
+00:40:40,470 --> 00:40:45,790
+perché se non ci sarà il ruolo di leadership italiana i passi avanti dell'europa non saranno
+
+279
+00:40:45,790 --> 00:40:51,190
+quelli secondo me nella direzione completamente giusta perché dobbiamo essere consapevoli del
+
+280
+00:40:51,190 --> 00:40:56,410
+nostro ruolo della nostra forza che non è la forza di un paese che gioca da solo o gioca
+
+281
+00:40:56,410 --> 00:41:03,310
+contro gli altri o pensa con un retropensiero di potenziala fare anche da sola io penso che
+
+282
+00:41:03,310 --> 00:41:08,310
+chiunque di noi se qualcuno si alzasse e dicesse torniamo alla lira si renderebbe conto da solo
+
+283
+00:41:08,310 --> 00:41:13,890
+dell'effetto quasi grottesco di una ipotesi di questo genere pensiamo a che cosa sarebbe
+
+284
+00:41:13,890 --> 00:41:20,630
+successo della crisi se avessimo avuto la lira e non l'euro ma il tema di fondo rispetto a questa
+
+285
+00:41:20,630 --> 00:41:27,230
+prospettiva è un tema di volontà è un tema di leadership è anche un tema di grande condivisione
+
+286
+00:41:27,230 --> 00:41:34,230
+paese mi vien da dire rispetto a tutti i temi che ho citato che forse proprio da parigi ce n'è
+
+287
+00:41:34,230 --> 00:41:40,050
+venuto fuori uno in questi ultimi giorni che vale la conclusione di questo ragionamento
+
+288
+00:41:40,050 --> 00:41:55,790
+noi vogliamo che i nostri figli domani vivano in un mondo dove l'ambiente è regolato da un
+
+289
+00:41:55,790 --> 00:42:05,080
+quadro normativo scritto da cinesi e americani o noi vogliamo che l'ambiente nel quale vivranno
+
+290
+00:42:05,080 --> 00:42:15,760
+figli sia scritto sotto una leadership europea cambia il modo di vivere delle generazioni
+
+291
+00:42:15,760 --> 00:42:22,200
+future a parigi la cop 21 è stato un esempio di leadership europea straordinaria che è riuscita
+
+292
+00:42:22,200 --> 00:42:35,060
+a ottenere un risultato a portare tutti a bordo ma contemporaneamente in quelli stessi giorni a
+
+293
+00:42:35,060 --> 00:42:42,020
+impossibile vivere quando diciamo che noi europee abbiamo una responsabilità in più lo dico perché
+
+294
+00:42:42,020 --> 00:42:46,380
+stiamo attenti a buttare via quello che abbiamo costruito stiamo attenti a non tirare le
+
+295
+00:42:46,380 --> 00:42:51,140
+conclusioni e le conseguenze in termini di leadership abbiamo una responsabilità nei
+
+296
+00:42:51,140 --> 00:42:56,420
+confronti dei nostri figli ma anche nei confronti del mondo l'ambiente del mondo se non sarà
+
+297
+00:42:56,420 --> 00:43:03,000
+gestito con una leadership europea forte sarà un ambiente invivibile e non vogliamo noi prenderci
+
+298
+00:43:03,000 --> 00:43:08,080
+la responsabilità per i peccati di omissione oggi di una situazione di questo genere ecco
+
+299
+00:43:08,080 --> 00:43:14,160
+perché leadership italiana responsabilità europea e un futuro di un'europe più integrata
+
+300
+00:43:14,160 --> 00:43:20,300
+rappresentano per i giovani oggi ma per tutti noi una grandissima responsabilità grazie
+
