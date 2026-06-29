@@ -666,7 +666,7 @@ def log_discard(url, exc):
     with open(DISCARD_LOG, "a") as f:
         f.write(f"{url}  {type(exc).__name__}: {exc}\n")
 
-def run (politician, SUBJECT_URL):
+def main (politician, SUBJECT_URL):
 
     global last_commit
     OUT_DIR = os.path.join(BASE_DIR, f"datasets/{politician}")
@@ -718,5 +718,6 @@ def run (politician, SUBJECT_URL):
             print(f"  ✗ Failed: {e}")
             continue
 
-for politician, SUBJECT_URL in DATA:
-    run(politician, f"{BASE_URL}/{SUBJECT_URL}")
+if __name__ == "__main__":
+    for politician, SUBJECT_URL in DATA:
+        main(politician, f"{BASE_URL}/{SUBJECT_URL}")
