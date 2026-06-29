@@ -52,6 +52,13 @@ os.makedirs(os.path.join(BASE_DIR, "logs"), exist_ok=True)
 DISCARD_LOG = os.path.join(BASE_DIR, "logs", "discarded.log")
 last_commit = 0.0
 
+"""
+Execution: 
+$ source crosscode/crosscode_venv/bin/activate
+$ cd nodebooks/
+$ python3 radarad_scraper.py
+"""
+
 ###################################################
 #--------------------------- Audio Download ----------------------------
 
