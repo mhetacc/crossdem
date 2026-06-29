@@ -348,3 +348,9 @@ https://www.radioradicale.it/scheda/360337/primarie-2012-matteo-renzi-adesso-ver
 https://www.radioradicale.it/scheda/359411/matteo-renzi-a-latronico?i=404413  ValueError: No timestamps
 https://www.radioradicale.it/scheda/338605/big-bang-seconda-convention-dei-rottamatori-di-matteo-renzi-2a-giornata?i=487991  ValueError: No timestamps
 https://www.radioradicale.it/scheda/338604/big-bang-seconda-convention-dei-rottamatori-di-matteo-renzi-1a-giornata?i=488321  ValueError: No timestamps
+https://www.radioradicale.it/scheda/738816/processo-per-la-morte-di-giulio-regeni?i=4804343  ValueError: No timestamps
+https://www.radioradicale.it/scheda/684898/processo-per-gli-appalti-consip?i=4515706  RuntimeError: yt-dlp exited 1
+https://www.radioradicale.it/scheda/337200/processo-ligresti-ed-altri-trasformazione-urbanistica-dellarea-di-castello-a-firenze?i=494422  ValueError: No timestamps
+https://www.radioradicale.it/scheda/461452/leopolda-2015-intervento-conclusivo-di-matteo-renzi?i=3495432  ValueError: No timestamps
+https://www.radioradicale.it/scheda/753561/piu-che-un-mercato-per-leuropa-come-e-perche-potenziare-il-mercato-unico-per-garantire?i=4878869  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/letta/audio_out/_out_753561_letta.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/letta/audio_out/753561_letta.mp3'
+https://www.radioradicale.it/scheda/679838/direzione-nazionale-del-partito-democratico?i=4490114  ValueError: No timestamps
