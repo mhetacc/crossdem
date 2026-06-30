@@ -1,0 +1,1108 @@
+1
+00:00:00,000 --> 00:00:04,480
+a livello di piccole imprese e a livello di residenti nella larga banda,
+
+2
+00:00:04,640 --> 00:00:07,660
+perché si tratta di modem a DSL o cose di questo genere,
+
+3
+00:00:08,680 --> 00:00:15,780
+qualunque sia la tecnologia, quindi partendo dal DSL a 256 kbps in su,
+
+4
+00:00:16,520 --> 00:00:22,180
+e che finanzi soltanto i nuovi investimenti,
+
+5
+00:00:22,360 --> 00:00:28,560
+e quindi finanzi soltanto i contratti che portano banda aggiuntiva alle imprese.
+
+6
+00:00:28,560 --> 00:00:34,640
+Quindi sia in DSL, che in fibra, che in fibra coassiale, che in VLL, che in satellite.
+
+7
+00:00:36,800 --> 00:00:40,140
+Che sia riservata ai contratti con allacciamento a costo zero,
+
+8
+00:00:40,200 --> 00:00:43,480
+perché vi ricordate quando è stata fatta la rotamazione auto,
+
+9
+00:00:43,620 --> 00:00:47,360
+quello era un incentivo al consumo e non era un incentivo all'investimento,
+
+10
+00:00:47,900 --> 00:00:53,060
+tuttavia si chiedeva al fornitore di andare incontro alla domanda
+
+11
+00:00:54,380 --> 00:00:59,780
+quindi in questo caso sarebbe lo sconto, sarebbe l'allacciamento.
+
+12
+00:01:00,320 --> 00:01:05,240
+In questo momento non sono terminati gli studi per determinare la misura dell'agevolazione,
+
+13
+00:01:05,300 --> 00:01:07,340
+ma lo saranno fra pochi giorni.
+
+14
+00:01:07,520 --> 00:01:13,660
+Io credo sostanzialmente che per risolvere un problema di circolo vizioso sulla larga banda
+
+15
+00:01:13,660 --> 00:01:15,540
+sia necessario dare un segnale forte.
+
+16
+00:01:15,720 --> 00:01:19,540
+Se i residenti sapessero che una quota significativa,
+
+17
+00:01:19,540 --> 00:01:23,400
+come nella ristrutturazione di Lizia, viene detassata,
+
+18
+00:01:23,480 --> 00:01:25,880
+cioè si porta in detrazione delle imposte,
+
+19
+00:01:25,980 --> 00:01:28,720
+se le imprese che hanno già la detrazione dei loro costi
+
+20
+00:01:28,720 --> 00:01:34,860
+sapessero che hanno una quota aggiuntiva fiscalizzata nei loro bilanci,
+
+21
+00:01:35,060 --> 00:01:39,880
+allora questo potrebbe muovere qualcuno, rompere quel famoso circolo vizioso.
+
+22
+00:01:40,320 --> 00:01:44,220
+Vi ricordate cosa avevano fatto in Francia per rompere il circolo vizioso del videotel?
+
+23
+00:01:44,320 --> 00:01:47,040
+Avevano regalato il mini-tel a tutte le famiglie.
+
+24
+00:01:47,040 --> 00:01:50,540
+È stata un'operazione un po' costosa, come tutti ricordano,
+
+25
+00:01:52,100 --> 00:01:58,540
+però anche il governo ha messo l'allora operatore monopolista,
+
+26
+00:02:00,280 --> 00:02:01,360
+che ora è Francia del Com,
+
+27
+00:02:01,900 --> 00:02:05,740
+allora aveva dato una dimostrazione di buona volontà,
+
+28
+00:02:05,880 --> 00:02:09,960
+mettendo tutte le sue banche dati immediatamente sul mini-tel.
+
+29
+00:02:10,560 --> 00:02:13,440
+Quindi è stato rotto in qualche modo il circolo vizioso.
+
+30
+00:02:13,440 --> 00:02:15,520
+Noi abbiamo a disposizione uno strumento,
+
+31
+00:02:15,560 --> 00:02:18,240
+che la Unione Europea normalmente non rifiuta,
+
+32
+00:02:18,380 --> 00:02:21,580
+perché le agevolazioni fiscali quando sono de minimis,
+
+33
+00:02:21,580 --> 00:02:24,640
+come si dice in gergo, sono accettate,
+
+34
+00:02:25,100 --> 00:02:28,520
+danno al governo un rientro piuttosto rapido.
+
+35
+00:02:28,560 --> 00:02:31,680
+È facile dimostrare che un'agevolazione di tre anni
+
+36
+00:02:31,680 --> 00:02:36,320
+produce per molti anni dei risultati significativi
+
+37
+00:02:36,720 --> 00:02:40,380
+e la nostra speranza è che Paolo Vigevano, che è qui presente,
+
+38
+00:02:40,380 --> 00:02:45,960
+e con la sua task force recepisca queste considerazioni.
+
+39
+00:02:47,000 --> 00:02:47,660
+Grazie.
+
+40
+00:02:51,280 --> 00:02:52,700
+Grazie, professore.
+
+41
+00:02:53,400 --> 00:02:56,400
+Ora l'onorevole Enrico Letta chiede un po' di ripercorre,
+
+42
+00:02:56,420 --> 00:02:57,540
+di fare due passi indietro,
+
+43
+00:02:58,800 --> 00:03:01,070
+vedere, siccome ha vissuto in carico ministeriale
+
+44
+00:03:01,400 --> 00:03:02,880
+proprio il momento dell'esplosione,
+
+45
+00:03:04,180 --> 00:03:05,940
+della diffusione delle tecnologie,
+
+46
+00:03:06,680 --> 00:03:09,460
+e quindi anche dei primi passi della banda larga,
+
+47
+00:03:09,460 --> 00:03:12,840
+che cosa è stato fatto a livello, chiamiamolo, politico,
+
+48
+00:03:12,980 --> 00:03:16,000
+che cosa si poteva fare, che cosa è rimasto bloccato?
+
+49
+00:03:22,770 --> 00:03:27,960
+La visione degli schemi di Morganti mi consente sicuramente
+
+50
+00:03:29,540 --> 00:03:32,820
+di sviluppare più facilmente, anche più sinteticamente,
+
+51
+00:03:32,940 --> 00:03:36,720
+il ragionamento, perché riprenderò un po' lo schema
+
+52
+00:03:36,720 --> 00:03:41,360
+che anche lui aveva proposto, che mi sembra abbastanza agevole
+
+53
+00:03:41,940 --> 00:03:43,540
+e molto ben fatto.
+
+54
+00:03:44,740 --> 00:03:46,680
+Credo che il problema del nostro Paese
+
+55
+00:03:46,680 --> 00:03:49,660
+è stato un problema di partenza, ovviamente,
+
+56
+00:03:50,840 --> 00:03:53,600
+era abbastanza chiaro da quello che è stato detto fino ad adesso,
+
+57
+00:03:54,760 --> 00:03:56,180
+ritardata rispetto ad altri,
+
+58
+00:03:56,900 --> 00:03:59,180
+una partenza ritardata che ha visto la necessità
+
+59
+00:03:59,180 --> 00:04:03,540
+di un recupero di tempi, sia dal punto di vista delle regole,
+
+60
+00:04:03,540 --> 00:04:08,240
+sia dal punto di vista soprattutto degli aspetti economico-finanziari
+
+61
+00:04:08,240 --> 00:04:10,280
+e quindi degli investimenti.
+
+62
+00:04:10,660 --> 00:04:17,040
+Questo recupero di tempi su entrambi questi settori
+
+63
+00:04:17,600 --> 00:04:23,900
+è solo parzialmente avvenuto, mi spiego,
+
+64
+00:04:24,720 --> 00:04:29,450
+parzialmente avvenuto nel senso che su alcuni aspetti legati
+
+65
+00:04:29,450 --> 00:04:34,530
+alla capacità di creare un clima migliore
+
+66
+00:04:34,530 --> 00:04:38,950
+tra l'amministrazione pubblica e gli investitori.
+
+67
+00:04:40,050 --> 00:04:42,870
+Dei passi avanti sicuramente sono avvenuti,
+
+68
+00:04:43,670 --> 00:04:46,350
+ma per verificare gli effetti di questi passi avanti
+
+69
+00:04:46,350 --> 00:04:52,300
+sicuramente un tempo stretto rende difficile
+
+70
+00:04:52,510 --> 00:04:55,030
+molto difficile questo tipo di analisi.
+
+71
+00:04:55,810 --> 00:04:58,630
+Una cosa è sicura che su uno degli aspetti
+
+72
+00:04:58,630 --> 00:05:01,130
+forse centrali di questa vicenda,
+
+73
+00:05:01,310 --> 00:05:02,630
+che è capitato l'anno scorso,
+
+74
+00:05:02,650 --> 00:05:05,570
+quello dell'assegnazione delle licenze UMTS
+
+75
+00:05:05,570 --> 00:05:10,310
+sicuramente si può discutere a lungo su molti aspetti,
+
+76
+00:05:10,710 --> 00:05:13,570
+però alla fine, non so, lo premetto io,
+
+77
+00:05:13,870 --> 00:05:20,550
+se volente o nonolente, la vicenda italiana
+
+78
+00:05:20,550 --> 00:05:22,470
+si è sviluppata in modo tale che alla fine
+
+79
+00:05:22,470 --> 00:05:27,830
+era tutto sommato un effetto maggiormente equilibrato
+
+80
+00:05:27,830 --> 00:05:31,030
+rispetto a quello che hanno vissuto altri paesi europei
+
+81
+00:05:31,030 --> 00:05:35,070
+che oggi si trovano a vivere in modo molto complicato
+
+82
+00:05:35,510 --> 00:05:37,630
+le conseguenze di tutto questo.
+
+83
+00:05:39,670 --> 00:05:42,970
+Sulla parte economico-finanziaria della vicenda
+
+84
+00:05:43,690 --> 00:05:46,170
+io cito il chiaro e lo scuro.
+
+85
+00:05:46,570 --> 00:05:51,030
+Lo scuro è, a mio avviso, il fatto che ancora oggi
+
+86
+00:05:52,530 --> 00:05:56,590
+credo, a meno che non ci siano da parte dell'attuale governo
+
+87
+00:05:56,590 --> 00:06:01,810
+e dell'attuale Parlamento dei forti interventi
+
+88
+00:06:01,810 --> 00:06:03,950
+e anche rapidi interventi,
+
+89
+00:06:04,330 --> 00:06:06,470
+che il nostro Paese vive una situazione
+
+90
+00:06:06,470 --> 00:06:09,630
+di mercati finanziari sostanzialmente asfittici
+
+91
+00:06:09,630 --> 00:06:12,630
+rispetto alle esigenze delle quali un settore
+
+92
+00:06:12,630 --> 00:06:14,850
+come questo avrebbe bisogno.
+
+93
+00:06:15,090 --> 00:06:18,870
+E questa situazione di mancanza di ossigeno
+
+94
+00:06:18,870 --> 00:06:22,230
+è una situazione che non può essere risolta
+
+95
+00:06:22,230 --> 00:06:24,890
+semplicemente con gli incentivi alle imprese
+
+96
+00:06:24,890 --> 00:06:28,030
+e di questi parlerò nella parte chiaro, diciamo,
+
+97
+00:06:28,570 --> 00:06:31,250
+ma sicuramente deve essere risolta
+
+98
+00:06:31,250 --> 00:06:34,430
+in una visione più generale dei mercati finanziari
+
+99
+00:06:34,430 --> 00:06:37,030
+e in particolare nella consapevolezza del fatto
+
+100
+00:06:37,030 --> 00:06:39,310
+che i nostri mercati finanziari mancano
+
+101
+00:06:39,310 --> 00:06:44,730
+di alcuni attori che sono, a mio avviso, decisivi
+
+102
+00:06:44,730 --> 00:06:47,450
+e finché non ci saranno in modo completo
+
+103
+00:06:47,450 --> 00:06:49,650
+a giocare alla partita,
+
+104
+00:06:50,110 --> 00:06:53,270
+difficilmente anche settori come questi riusciranno
+
+105
+00:06:53,270 --> 00:06:56,390
+a uscire da una logica, diciamo,
+
+106
+00:06:56,490 --> 00:06:59,310
+o di sopravvivenza o di best practices.
+
+107
+00:07:00,630 --> 00:07:02,770
+Penso soprattutto, oltre che al tema
+
+108
+00:07:02,770 --> 00:07:05,710
+di cui in Smauda quello che ho letto stamane
+
+109
+00:07:05,710 --> 00:07:08,210
+sui giornali si è parlato a lungo ieri
+
+110
+00:07:08,210 --> 00:07:09,930
+del venture capital,
+
+111
+00:07:10,550 --> 00:07:12,670
+penso anche al tema, credo, complesso,
+
+112
+00:07:13,030 --> 00:07:14,530
+difficile dei fondi pensione,
+
+113
+00:07:14,610 --> 00:07:16,110
+che a mio avviso rappresentano
+
+114
+00:07:16,110 --> 00:07:19,370
+sicuramente uno dei motivi di carattere generale
+
+115
+00:07:19,790 --> 00:07:22,390
+principali per la creazione di mercati finanziari
+
+116
+00:07:23,070 --> 00:07:25,570
+italiani che siano in grado di avere fluidità
+
+117
+00:07:25,570 --> 00:07:30,390
+e siano in grado di guidare risorse
+
+118
+00:07:31,250 --> 00:07:34,490
+in modo quantitativamente massiccio
+
+119
+00:07:34,810 --> 00:07:37,110
+nei confronti degli investimenti che sono necessari.
+
+120
+00:07:38,250 --> 00:07:42,990
+Scontato questo, ma direi che è il grosso del problema,
+
+121
+00:07:42,990 --> 00:07:46,320
+credo che alcuni elementi di chiaro ci siano,
+
+122
+00:07:46,750 --> 00:07:49,490
+nel senso che uno degli schemi
+
+123
+00:07:49,490 --> 00:07:51,290
+che venivano presentati prima
+
+124
+00:07:52,230 --> 00:07:55,250
+ha visto sostanzialmente un'applicazione
+
+125
+00:07:55,250 --> 00:07:58,070
+abbastanza ampia di quelle misure
+
+126
+00:07:58,070 --> 00:08:01,350
+di incentivazione alle imprese che erano state
+
+127
+00:08:01,350 --> 00:08:04,690
+a suo tempo indicate, via innanzitutto
+
+128
+00:08:04,690 --> 00:08:09,370
+la partita del riequilibrio territoriale,
+
+129
+00:08:09,670 --> 00:08:11,270
+che è sicuramente in questa vicenda
+
+130
+00:08:11,270 --> 00:08:13,170
+una delle partite decisive,
+
+131
+00:08:13,810 --> 00:08:19,070
+quando un governo, l'autorità pubblica nazionale
+
+132
+00:08:19,070 --> 00:08:21,330
+deve porsi il problema di come intervenire
+
+133
+00:08:21,330 --> 00:08:23,830
+in una materia come questa,
+
+134
+00:08:24,410 --> 00:08:26,270
+il tema del riequilibrio territoriale
+
+135
+00:08:26,270 --> 00:08:29,910
+è sicuramente il primo degli obiettivi,
+
+136
+00:08:29,950 --> 00:08:32,530
+nel senso che è un tema che di per sé da solo
+
+137
+00:08:32,530 --> 00:08:36,170
+il mercato non riesce ad affrontare e risolvere.
+
+138
+00:08:36,270 --> 00:08:38,990
+Da questo punto di vista, la logica dell'utilizzo
+
+139
+00:08:38,990 --> 00:08:41,730
+dei fondi strutturali della quadro comunitario
+
+140
+00:08:41,730 --> 00:08:45,350
+di sostegno 2000-2006 mi sembra una soluzione
+
+141
+00:08:45,350 --> 00:08:48,190
+utile, importante, ovviamente darà i suoi effetti
+
+142
+00:08:48,930 --> 00:08:52,130
+nel tempo, perché il quadro comunitario
+
+143
+00:08:52,130 --> 00:08:55,190
+di sostegno ha avuto inizio sostanzialmente
+
+144
+00:08:55,190 --> 00:08:57,910
+un anno e mezzo fa e ancora oggi,
+
+145
+00:08:58,130 --> 00:09:00,990
+dalle cifre che sono state rese pubbliche,
+
+146
+00:09:02,870 --> 00:09:06,410
+del primo anno e mezzo dei sette anni
+
+147
+00:09:06,410 --> 00:09:09,750
+di programmazione non superiamo
+
+148
+00:09:09,750 --> 00:09:13,330
+per la media delle Regioni Obiettivo 1,
+
+149
+00:09:13,390 --> 00:09:15,270
+che sono quelle che poi avranno la possibilità
+
+150
+00:09:15,270 --> 00:09:18,330
+di utilizzare il maggior numero di fondi,
+
+151
+00:09:18,470 --> 00:09:22,510
+non superiamo l'uno e mezzo e il 2% di utilizzo,
+
+152
+00:09:22,750 --> 00:09:25,550
+che ovviamente lascia abbastanza preoccupati
+
+153
+00:09:25,550 --> 00:09:27,810
+per la prospettiva settennale,
+
+154
+00:09:28,950 --> 00:09:31,950
+ma al di là di questo, che rimane comunque un problema,
+
+155
+00:09:32,430 --> 00:09:34,490
+la direzione di marcia mi sembra importante,
+
+156
+00:09:34,490 --> 00:09:36,430
+perché tutti sappiamo che quando parliamo
+
+157
+00:09:36,430 --> 00:09:39,110
+di fondi strutturali parliamo di un 70%
+
+158
+00:09:39,110 --> 00:09:41,690
+alle Regioni Obiettivo 1 all'incirca,
+
+159
+00:09:41,730 --> 00:09:43,930
+70% alle Regioni Obiettivo 1 vuol dire
+
+160
+00:09:43,930 --> 00:09:46,390
+che effettivamente l'ipotesi di riequilibrio
+
+161
+00:09:46,390 --> 00:09:48,310
+territoriale attraverso questo strumento
+
+162
+00:09:48,310 --> 00:09:51,110
+è un'ipotesi che tutto sommato può trovare
+
+163
+00:09:51,110 --> 00:09:52,450
+qualche elemento importante.
+
+164
+00:09:53,130 --> 00:09:57,490
+Il secondo elemento è quello della estensione
+
+165
+00:09:58,730 --> 00:10:01,670
+delle normali misure di incentivazione,
+
+166
+00:10:03,530 --> 00:10:05,710
+normalmente applicate all'industria
+
+167
+00:10:05,710 --> 00:10:07,730
+manifatturiera, come veniva detto prima,
+
+168
+00:10:08,430 --> 00:10:14,670
+dell'estensione al mondo che genericamente chiamiamo
+
+169
+00:10:15,650 --> 00:10:17,430
+o al quale possiamo fare riferimento
+
+170
+00:10:17,430 --> 00:10:20,470
+come quello legato alla necessità
+
+171
+00:10:20,470 --> 00:10:23,650
+dell'aumento dell'infrastruttura tecnologica.
+
+172
+00:10:24,630 --> 00:10:26,430
+La innovazione più importante,
+
+173
+00:10:26,430 --> 00:10:28,430
+che io mi auguro venga proseguita,
+
+174
+00:10:28,750 --> 00:10:29,890
+perché la ritengo sicuramente
+
+175
+00:10:29,890 --> 00:10:32,030
+lo strumento principale più concreto
+
+176
+00:10:32,030 --> 00:10:35,870
+e utile è l'estensione dell'utilizzo
+
+177
+00:10:35,870 --> 00:10:40,250
+della legge 488 a tutto ciò che ha a che fare
+
+178
+00:10:40,250 --> 00:10:43,890
+con la possibilità di applicazione
+
+179
+00:10:43,890 --> 00:10:45,710
+di innovazione tecnologica.
+
+180
+00:10:46,090 --> 00:10:49,350
+Credo che questo strumento che ha rappresentato
+
+181
+00:10:49,350 --> 00:10:52,890
+in questi anni forse l'unico vero,
+
+182
+00:10:52,890 --> 00:10:57,990
+importante strumento di incentivo alle imprese
+
+183
+00:10:57,990 --> 00:10:59,730
+su tutto il territorio nazionale,
+
+184
+00:11:00,090 --> 00:11:01,710
+ma ovviamente con una prevalenza
+
+185
+00:11:01,710 --> 00:11:03,290
+nelle Regioni Obiettivo 1,
+
+186
+00:11:03,430 --> 00:11:07,390
+già che lo schema che funziona sulla legge 488
+
+187
+00:11:07,390 --> 00:11:09,490
+è uno schema legato alla zonizzazione
+
+188
+00:11:09,490 --> 00:11:11,010
+dei fondi strutturali,
+
+189
+00:11:11,230 --> 00:11:14,090
+credo che questo sia sicuramente un fatto importante,
+
+190
+00:11:14,190 --> 00:11:17,230
+è uno strumento che piace alle imprese
+
+191
+00:11:17,230 --> 00:11:19,330
+perché è molto automatico e molto rapido
+
+192
+00:11:19,330 --> 00:11:21,990
+nell'erogazione dei finanziamenti,
+
+193
+00:11:23,470 --> 00:11:27,190
+genera investimenti e credo che averlo esteso
+
+194
+00:11:27,190 --> 00:11:31,890
+a questo settore e quindi aver tolto l'idea
+
+195
+00:11:31,890 --> 00:11:33,810
+che fosse semplicemente lo strumento
+
+196
+00:11:33,810 --> 00:11:34,990
+per fare i capannoni,
+
+197
+00:11:35,210 --> 00:11:36,250
+passatemi l'espressione,
+
+198
+00:11:36,330 --> 00:11:40,130
+mi sembra sicuramente un fatto utile e positivo
+
+199
+00:11:40,130 --> 00:11:42,470
+e le prime applicazioni anche queste
+
+200
+00:11:42,470 --> 00:11:44,050
+stanno dando effetti positivi.
+
+201
+00:11:44,110 --> 00:11:47,910
+Il terzo elemento è la creazione del cosiddetto PIA,
+
+202
+00:11:48,910 --> 00:11:51,530
+il pacchetto integrato di agevolazione,
+
+203
+00:11:51,610 --> 00:11:54,890
+cioè la fusione possibile dell'utilizzo
+
+204
+00:11:54,890 --> 00:11:56,550
+degli incentivi della 488
+
+205
+00:11:56,550 --> 00:11:58,550
+con gli incentivi della legge 46
+
+206
+00:11:58,550 --> 00:12:02,270
+che riguarda lo strumento classico
+
+207
+00:12:02,270 --> 00:12:05,050
+di intervento del nostro Paese nel campo
+
+208
+00:12:05,050 --> 00:12:07,130
+della ricerca e dell'innovazione,
+
+209
+00:12:07,250 --> 00:12:10,890
+quindi la possibilità di costruire interventi
+
+210
+00:12:11,750 --> 00:12:14,010
+integrati tra queste due agevolazioni
+
+211
+00:12:14,010 --> 00:12:16,110
+che consente all'impresa
+
+212
+00:12:16,110 --> 00:12:22,590
+sicuramente un sostegno abbastanza importante.
+
+213
+00:12:22,590 --> 00:12:25,390
+Tutto questo ovviamente dal livello centrale,
+
+214
+00:12:25,470 --> 00:12:28,010
+poi esiste la necessità e la possibilità
+
+215
+00:12:28,010 --> 00:12:29,650
+già che tutte queste materie
+
+216
+00:12:29,650 --> 00:12:32,870
+sono state sostanzialmente l'anno scorso
+
+217
+00:12:32,870 --> 00:12:34,870
+oggetto di un processo molto importante
+
+218
+00:12:34,870 --> 00:12:38,170
+di federalismo, quindi gran parte di queste risorse
+
+219
+00:12:38,170 --> 00:12:41,770
+sono oggi gestite direttamente dalle Regioni,
+
+220
+00:12:42,070 --> 00:12:44,530
+ovviamente bisogna poi andare a rivolgersi
+
+221
+00:12:44,530 --> 00:12:47,370
+a capire se effettivamente le diverse Regioni
+
+222
+00:12:47,370 --> 00:12:49,330
+del nostro Paese hanno deciso di investire
+
+223
+00:12:49,330 --> 00:12:52,690
+su questi strumenti, su questa crescita
+
+224
+00:12:52,690 --> 00:12:57,510
+infrastrutturale, oppure se questa decisione
+
+225
+00:12:57,510 --> 00:12:59,330
+avviene a macchia di leopardo
+
+226
+00:12:59,330 --> 00:13:01,590
+in che forme e in che modi.
+
+227
+00:13:01,630 --> 00:13:04,710
+Io ritengo utile e giusta questa scelta di federalismo,
+
+228
+00:13:04,750 --> 00:13:09,430
+ovviamente è fondamentale che un punto centrale
+
+229
+00:13:09,430 --> 00:13:11,910
+come può essere dato dal forum stesso
+
+230
+00:13:11,910 --> 00:13:15,350
+del quale immagino che Beppe Rau possa dire
+
+231
+00:13:15,350 --> 00:13:18,270
+delle cose molto più interessanti
+
+232
+00:13:18,270 --> 00:13:20,230
+di quelle che posso dire io,
+
+233
+00:13:21,130 --> 00:13:23,350
+è come elemento centrale di raccordo,
+
+234
+00:13:24,110 --> 00:13:28,910
+forse programmazione è una parola fin troppo pesante,
+
+235
+00:13:29,050 --> 00:13:31,310
+ma sicuramente in termini di capacità
+
+236
+00:13:31,310 --> 00:13:34,530
+di far sì che l'utilizzo di tutte queste risorse
+
+237
+00:13:34,530 --> 00:13:37,450
+e tutti questi strumenti porti a dei risultati
+
+238
+00:13:37,450 --> 00:13:41,230
+che siano i risultati migliori possibili.
+
+239
+00:13:42,090 --> 00:13:46,190
+A me sembra che questo ventaglio di strumenti
+
+240
+00:13:46,190 --> 00:13:49,250
+sia stato sicuramente e rappresenti un fatto importante,
+
+241
+00:13:49,630 --> 00:13:52,070
+a questo aggiungo il fatto che la logica del credito
+
+242
+00:13:52,070 --> 00:13:55,930
+di imposta per le imprese, per la ricerca nelle imprese
+
+243
+00:13:55,930 --> 00:14:00,010
+è un'altra logica che ha cominciato a prendere piede
+
+244
+00:14:00,010 --> 00:14:03,050
+a partire dall'anno scorso, ovviamente tutte queste cose
+
+245
+00:14:03,050 --> 00:14:06,130
+credo debbono essere verificate non soltanto
+
+246
+00:14:06,130 --> 00:14:07,650
+nella loro applicazione concreta,
+
+247
+00:14:07,650 --> 00:14:10,570
+nella capacità di generare investimenti e occupazione,
+
+248
+00:14:11,090 --> 00:14:15,250
+ma ovviamente debbono essere messe alla prova
+
+249
+00:14:15,250 --> 00:14:17,090
+anche delle scelte e delle decisioni
+
+250
+00:14:17,090 --> 00:14:19,650
+che l'attuale governo e l'attuale Parlamento
+
+251
+00:14:20,270 --> 00:14:22,870
+vorranno assumere in questa materia,
+
+252
+00:14:22,930 --> 00:14:28,130
+già che si giocano sia la necessità del riequilibrio territoriale
+
+253
+00:14:28,130 --> 00:14:31,450
+sia la necessità di favorire investimenti
+
+254
+00:14:31,450 --> 00:14:33,030
+su tutto il territorio nazionale
+
+255
+00:14:33,030 --> 00:14:35,810
+e anche là dove non c'è bisogno di riequilibrio,
+
+256
+00:14:35,810 --> 00:14:40,210
+c'è bisogno di un ruolo attivo da parte del sistema pubblico.
+
+257
+00:14:41,010 --> 00:14:43,290
+Quindi, in sintesi, e per concludere,
+
+258
+00:14:43,690 --> 00:14:47,270
+io credo che il nostro Paese sia avviato
+
+259
+00:14:47,270 --> 00:14:53,810
+su una strada di recupero rispetto a tempi sicuramente ritardati
+
+260
+00:14:54,910 --> 00:14:59,810
+di partenza rispetto agli obiettivi da raggiungere,
+
+261
+00:15:00,750 --> 00:15:04,650
+sia per quanto riguarda l'aspetto della capacità
+
+262
+00:15:04,650 --> 00:15:07,630
+da parte del sistema pubblico di fare il suo dovere,
+
+263
+00:15:07,810 --> 00:15:09,790
+almeno in questo campo,
+
+264
+00:15:09,890 --> 00:15:14,670
+nel campo soprattutto del legame con il mondo imprenditoriale,
+
+265
+00:15:16,870 --> 00:15:19,650
+ma anche, credo, nel campo della regolamentazione,
+
+266
+00:15:20,550 --> 00:15:24,150
+dove evidentemente le cose sono molto più complesse,
+
+267
+00:15:24,270 --> 00:15:28,090
+molto più complicate e dove in parte c'è un legame,
+
+268
+00:15:28,110 --> 00:15:30,050
+credo, con la vicenda comunitaria
+
+269
+00:15:30,050 --> 00:15:33,970
+che è un legame particolarmente importante.
+
+270
+00:15:33,970 --> 00:15:38,430
+Nel senso che noi viviamo su questo tema e su questi temi
+
+271
+00:15:38,430 --> 00:15:41,730
+un ritardo italiano all'interno di un ritardo europeo
+
+272
+00:15:41,730 --> 00:15:43,010
+che abbiamo vissuto in questi anni,
+
+273
+00:15:43,210 --> 00:15:45,270
+nel senso che alla fine l'Unione Europea
+
+274
+00:15:45,270 --> 00:15:49,410
+solamente con sostanzialmente il progetto E-Europe,
+
+275
+00:15:49,770 --> 00:15:54,310
+che la Commissione di Prodi lanciò pochi mesi fa,
+
+276
+00:15:54,550 --> 00:15:59,250
+in fondo, se andiamo a ragionare in termini di tempistica lunga,
+
+277
+00:15:59,250 --> 00:15:59,990
+ha cominciato...
+
