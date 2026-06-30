@@ -1,0 +1,892 @@
+1
+00:00:07,000 --> 00:00:13,500
+Grazie a tutti per la partecipazione, grazie ovviamente innanzitutto al Presidente della
+
+2
+00:00:13,500 --> 00:00:18,860
+Camera dei Deputati, per Ferdinando Casini che ha voluto onorare della sua presenza questa
+
+3
+00:00:18,860 --> 00:00:25,620
+nostra presentazione ufficiale, presentazione ufficiale che dato l'orario, data la concomitanza
+
+4
+00:00:25,620 --> 00:00:31,120
+con i lavori parlamentari, ringrazio tutti i colleghi che sono presenti, avrà un ritmo
+
+5
+00:00:31,120 --> 00:00:37,560
+molto europeo, già che parliamo di fondi strutturali europei e quindi cercheremo di
+
+6
+00:00:37,560 --> 00:00:45,000
+stare dentro, lo dico subito, perché ognuno sia tranquillo per gli impegni parlamentari
+
+7
+00:00:45,000 --> 00:00:49,060
+successivi, terremo tempi abbastanza europei.
+
+8
+00:00:51,360 --> 00:01:04,860
+Presento molto rapidamente il lavoro di cui oggi vogliamo parlare, il lavoro è frutto
+
+9
+00:01:04,860 --> 00:01:13,620
+di una collaborazione tra l'AAREL e la London School of Economics, il Dipartimento di Economia
+
+10
+00:01:13,620 --> 00:01:20,060
+Europea della London School of Economics, AAREL qui rappresentato anche da Francesco
+
+11
+00:01:20,060 --> 00:01:29,500
+Merloni e Roberto Pinza, l'Istituto fondato ormai 28 anni fa da Beniamino Andreatta che
+
+12
+00:01:29,500 --> 00:01:38,600
+ha voluto su uno stimolo che due anni fa ormai dalla London School ci è venuto mettere un
+
+13
+00:01:38,600 --> 00:01:43,320
+gruppo di persone, un gruppo di giovani, un gruppo di giovani professori e di giovani
+
+14
+00:01:43,320 --> 00:01:48,760
+ricercatori, tra i quali il professor Boccia che è anch'esso qui presente, che ringrazio
+
+15
+00:01:48,760 --> 00:01:55,820
+per il lavoro che ha compiuto, ha messo a lavorare insieme a un gruppo di economisti
+
+16
+00:01:55,820 --> 00:02:04,140
+della London School of Economics e questo lavoro che ha per un anno e mezzo monitorato il passato
+
+17
+00:02:04,140 --> 00:02:10,960
+e ci ha consentito di avere evidenze per lavorare sul futuro. Vogliamo oggi presentare perché
+
+18
+00:02:10,960 --> 00:02:17,780
+crediamo che questo sia il momento giusto, perché questo avvenga e quindi innanzitutto
+
+19
+00:02:17,780 --> 00:02:24,640
+una riflessione sul tempo nel quale questa discussione avviene. I fondi strutturali europei
+
+20
+00:02:24,640 --> 00:02:35,380
+hanno ormai 15 anni di vita nella loro versione moderna, nella versione che è nata dopo l'atto
+
+21
+00:02:35,380 --> 00:02:43,380
+unico europeo, 15 anni di vita che sono stati 15 anni ovviamente differenti e diversi a
+
+22
+00:02:43,380 --> 00:02:51,160
+seconda dei Paesi e differenti e diversi per il nostro Paese, 15 anni rispetto ai quali
+
+23
+00:02:51,160 --> 00:02:56,980
+nel lavoro che qui oggi presentiamo, essendo un lavoro abbastanza ponderoso, non sto qui
+
+24
+00:02:56,980 --> 00:03:04,500
+a ripercorrerne le diverse parti perché credo che ognuno potrà poi trovare elementi di interesse
+
+25
+00:03:04,500 --> 00:03:11,620
+particolari a seconda del particolare interesse, ma è un lavoro che mette insieme un'analisi
+
+26
+00:03:11,620 --> 00:03:18,440
+quantitativa e qualitativa, quantitativa rispetto alle cose fatte, quindi rispetto ai quadri
+
+27
+00:03:18,440 --> 00:03:25,320
+comunitari di sostegno che si sono succeduti in questi anni e qualitativa ovviamente a
+
+28
+00:03:25,320 --> 00:03:30,540
+seconda di come questi quadri comunitari di sostegno sono stati utilizzati dai vari Paesi
+
+29
+00:03:30,540 --> 00:03:36,840
+e in particolare qual è stato l'impatto italiano. Credo una delle cose interessanti del lavoro
+
+30
+00:03:36,840 --> 00:03:48,420
+è il paragone, il parallelo che viene fatto in alcune delle sue parti tra esperienze di
+
+31
+00:03:48,420 --> 00:03:53,400
+coesione, Paesi quindi che hanno utilizzato e hanno utilizzato bene i fondi strutturali
+
+32
+00:03:53,400 --> 00:04:00,120
+e l'esperienza ovviamente italiana, Paese che è partito lento sull'utilizzo dei fondi
+
+33
+00:04:00,120 --> 00:04:09,180
+strutturali europei, usiamo un eufemismo e poi negli anni attraverso una serie di cambiamenti
+
+34
+00:04:09,180 --> 00:04:16,960
+istituzionali e di mentalità si trova oggi in una situazione in cui il rapporto con le
+
+35
+00:04:16,960 --> 00:04:25,180
+politiche di coesione è un rapporto probabilmente più positivo che nel passato. Le conclusioni
+
+36
+00:04:25,180 --> 00:04:30,960
+di questo rapporto che poi sono l'oggetto della nostra discussione sono conclusioni
+
+37
+00:04:30,960 --> 00:04:37,300
+che intervengono nel momento nel quale a livello comunitario la discussione sul futuro dei
+
+38
+00:04:37,300 --> 00:04:43,980
+fondi strutturali europei è una discussione che è aperta, che è nel pieno. La Commissione
+
+39
+00:04:43,980 --> 00:04:51,760
+europea che peraltro ha cambiato proprio nelle ultime settimane il Commissario delegato
+
+40
+00:04:51,760 --> 00:04:57,120
+ai fondi strutturali europei che è stato per tutti questi 5 anni il Commissario francese
+
+41
+00:04:57,120 --> 00:05:03,160
+Michel Barnier e che adesso è diventato Ministro degli Esteri nel suo Paese, al termine del
+
+42
+00:05:03,160 --> 00:05:09,660
+suo lavoro aveva messo appunto un piano con una serie di proposte sul futuro dei fondi
+
+43
+00:05:10,460 --> 00:05:14,800
+strutturali europei che ovviamente partivano anche qui dalle considerazioni su come sono
+
+44
+00:05:14,800 --> 00:05:22,480
+stati utilizzati fino ad adesso. Per quanto ci riguarda io sintetizzo rapidamente le conclusioni
+
+45
+00:05:22,480 --> 00:05:30,980
+del lavoro che qui presentiamo anche per offrirle ovviamente la discussione dei nostri autorevoli
+
+46
+00:05:30,980 --> 00:05:37,160
+interlocutori di questa sera oltre a Pier Ferdinando Casini, Massimo D'Alema e Ferruccio
+
+47
+00:05:37,160 --> 00:05:45,400
+delle Bortoli. Le conclusioni sono, tocco e sottolineo i punti a mio avviso centrali
+
+48
+00:05:45,400 --> 00:05:53,920
+e principali, conclusioni che indicano e individuano nella necessità di una continuità nelle
+
+49
+00:05:53,920 --> 00:06:00,300
+politiche di coesione l'elemento da privilegiare rispetto alla discussione che è in corso.
+
+50
+00:06:00,380 --> 00:06:05,760
+Come è noto a livello comunitario sono diverse le posizioni che si confrontano, in particolare
+
+51
+00:06:05,760 --> 00:06:10,120
+ha fatto abbastanza scalporo negli ultimi mesi il documento del governo britannico in
+
+52
+00:06:10,120 --> 00:06:14,320
+materia di fondi strutturali europei che è un documento che ha rappresentato probabilmente
+
+53
+00:06:14,320 --> 00:06:20,460
+la posizione speculare rispetto all'interesse o agli interessi che noi riteniamo un Paese
+
+54
+00:06:20,460 --> 00:06:27,580
+come l'Italia debba mettere in campo. Un documento britannico appoggiato da olandesi e da scandinavi
+
+55
+00:06:27,900 --> 00:06:35,520
+che mette l'accento sulla necessità al termine di un periodo così lungo e soprattutto a
+
+56
+00:06:35,520 --> 00:06:42,060
+cavallo con l'allargamento più costoso della storia europea che sottolinea la necessità
+
+57
+00:06:42,720 --> 00:06:49,160
+di distinguere il futuro dei fondi strutturali europei tra due grandi filoni. Un filone esclusivamente
+
+58
+00:06:49,160 --> 00:06:56,320
+per i Paesi dell'allargamento che quindi continueranno ad aver bisogno di aiuti e poi
+
+59
+00:06:56,320 --> 00:07:01,880
+sostanzialmente per i Paesi già membri una rinazionalizzazione delle politiche di sviluppo
+
+60
+00:07:01,880 --> 00:07:09,860
+regionale e quindi un ritorno a logiche diverse, logiche per le quali appunto il trade off
+
+61
+00:07:09,860 --> 00:07:15,500
+con Brusell a quel punto verrebbe meno, nel senso che ogni Paese non cederebbe più a
+
+62
+00:07:15,500 --> 00:07:21,960
+Brusell la sua quota che poi in parte maggiore o superiore gli ritorna in termini di fondi
+
+63
+00:07:21,960 --> 00:07:28,600
+strutturali mediata dalle regole brussellesi ma ognuno farebbe un po' le sue scelte. Credo
+
+64
+00:07:28,600 --> 00:07:34,280
+in parte le conclusioni di questo lavoro vanno nella direzione opposta. Noi riteniamo invece
+
+65
+00:07:34,280 --> 00:07:39,920
+che le politiche di coesione abbiano in questo momento da sviluppare il massimo del loro
+
+66
+00:07:39,920 --> 00:07:47,840
+impegno senza che l'allargamento finisca per distruggerle definitivamente dalla loro
+
+67
+00:07:47,840 --> 00:07:54,660
+elemento essenziale. Le politiche di coesione non sono solamente l'elemento col quale ricondurre
+
+68
+00:07:54,660 --> 00:08:01,880
+la convergenza are così lontane tra di loro come sono oggi quelle delle regioni dei Paesi
+
+69
+00:08:01,880 --> 00:08:09,940
+che entrano che ricordo tranne credo due regioni sono tutte regioni obiettivo 1 quindi entrano
+
+70
+00:08:09,940 --> 00:08:17,440
+nell'Unione Europea tranne se non mi sbaglio Cipro e forse una parte della Repubblica Ceca
+
+71
+00:08:17,440 --> 00:08:23,820
+il resto delle regioni che entrano sono sostanzialmente tutte regioni obiettivo 1 quindi con una
+
+72
+00:08:23,820 --> 00:08:30,800
+chiara differenza netta nei confronti della media comunitaria. Quindi la necessità di
+
+73
+00:08:30,800 --> 00:08:38,140
+una continuità di politiche che a nostro avviso hanno rappresentato un grande fatto
+
+74
+00:08:38,140 --> 00:08:42,760
+positivo per un Paese come il nostro ma anche per altri Paesi europei per i Paesi della
+
+75
+00:08:42,760 --> 00:08:47,620
+coesione per esempio non soltanto in termini di quantità di risorse che sono arrivati
+
+76
+00:08:47,620 --> 00:08:52,800
+ma in termini di ammodernamento della nostra pubblica amministrazione. La pubblica amministrazione
+
+77
+00:08:52,800 --> 00:09:02,340
+italiana ha avuto da imparare dal rapporto con la vicenda dei fondi strutturali europei
+
+78
+00:09:02,340 --> 00:09:08,200
+probabilmente più di quanto qualunque altra singola materia ha apportato in termini di
+
+79
+00:09:08,200 --> 00:09:14,880
+grandi cambiamenti. Sono cambiate le amministrazioni centrali e sono cambiate soprattutto le amministrazioni
+
+80
+00:09:16,100 --> 00:09:21,620
+regionali e provinciali e comunali. Ognuna di queste ha dovuto negli anni fare i conti
+
+81
+00:09:21,620 --> 00:09:25,800
+con cosa vuol dire il rapporto con brussel, cosa vuol dire il fatto di perdere i fondi,
+
+82
+00:09:26,200 --> 00:09:33,240
+cosa vogliono dire le logiche di premialità. Tutto questo ha rappresentato anche per l'amministrazione
+
+83
+00:09:33,240 --> 00:09:38,960
+centrale un fatto straordinario. Abbiamo fortemente voluto la presenza di Dalema qui
+
+84
+00:09:38,960 --> 00:09:46,320
+oggi perché Massimo Dalema è stato il Presidente del Consiglio che ha negoziato per l'Italia
+
+85
+00:09:46,320 --> 00:09:55,280
+Agenda 2000 che è una delle parti più studiate di questo lavoro e che ovviamente il quadro
+
+86
+00:09:55,280 --> 00:10:05,560
+comunitario di sostegno oggi in corso rappresentò allora un grosso risultato per l'Italia sia
+
+87
+00:10:05,560 --> 00:10:15,800
+sui fondi strutturali europei ma non soltanto anche sulla politica agricola comune, ma sui
+
+88
+00:10:15,800 --> 00:10:20,640
+regioni obiettivo 1 italiane e un risultato importante perché furono in quella sede in
+
+89
+00:10:20,640 --> 00:10:26,840
+termini di applicazione di quelle regole in Italia furono applicate quelle regole estendendo
+
+90
+00:10:26,840 --> 00:10:34,060
+stressando al massimo alcuni criteri tipo i criteri di premialità, i criteri di concentrazione
+
+91
+00:10:34,060 --> 00:10:41,540
+geografica sulle regioni obiettivo 1 con quindi una scelta molto chiara che fu fatta allora
+
+92
+00:10:41,540 --> 00:10:48,620
+che evidentemente poi i suoi risultati li ha determinati. Quindi c'è un problema qualitativo
+
+93
+00:10:48,620 --> 00:10:53,560
+innanzitutto l'impatto che sulla qualità della pubblica amministrazione i fondi strutturali
+
+94
+00:10:53,560 --> 00:11:00,160
+europei le loro regole soprattutto quindi le regole di efficienza di verifica le regole
+
+95
+00:11:00,160 --> 00:11:05,420
+di partenariato tra pubblico e privato che prima erano sostanzialmente sconosciute alla
+
+96
+00:11:05,420 --> 00:11:11,840
+nostra amministrazione pubblica almeno in termini generalizzati e hanno rappresentato
+
+97
+00:11:11,840 --> 00:11:17,320
+grazie ai fondi strutturali europei un elemento che io non considero sarò un po' pessimista
+
+98
+00:11:17,320 --> 00:11:25,000
+in questo acquisito per sempre ecco perché l'idea che possa essere pericolosa per un
+
+99
+00:11:25,000 --> 00:11:31,760
+paese come il nostro la politica proposta dal governo britannico con una rinazionalizzazione
+
+100
+00:11:31,760 --> 00:11:37,440
+delle politiche regionali mi fa pensare ci fa pensare che non essendo acquisita per
+
+101
+00:11:37,440 --> 00:11:43,600
+sempre probabilmente questa modernizzazione europeizzazione della nostra pubblica amministrazione
+
+102
+00:11:43,600 --> 00:11:49,640
+la necessità di mantenere costante questo livello di crescita di qualità innanzitutto
+
+103
+00:11:49,640 --> 00:11:55,080
+è fondamentale. La condizione però perché tutto questo possa accadere è che ovviamente
+
+104
+00:11:55,080 --> 00:12:02,920
+i fondi strutturali devono cambiare nessuno anche noi che teorizziamo al termine di questo
+
+105
+00:12:02,920 --> 00:12:09,920
+lungo lavoro di ricerca una scelta di continuità sulle politiche di coesione anzi di rafforzamento
+
+106
+00:12:10,620 --> 00:12:16,420
+in termini generali è ovvio che gran parte delle risorse dovrà andare ai paesi nuovi
+
+107
+00:12:16,420 --> 00:12:22,760
+entranti nell'Unione Europea ma la continuità rappresenta una scelta sulla quale ci schieriamo
+
+108
+00:12:22,760 --> 00:12:32,680
+decisamente con alcune condizioni molto chiare. Queste condizioni molto chiare sono sottolineate
+
+109
+00:12:32,680 --> 00:12:38,340
+nelle conclusioni con una certa evidenza sono innanzitutto che si rafforzi il criterio della
+
+110
+00:12:38,340 --> 00:12:45,980
+concentrazione sia geografica sia tematica quella percentuale che è scesa negli anni
+
+111
+00:12:45,980 --> 00:12:52,080
+ma che probabilmente ancora oggi è troppo alta di aree geografiche nelle quali vengono
+
+112
+00:12:52,080 --> 00:12:58,600
+utilizzati i fondi strutturali europei sta lì a dimostrare che l'utilizzo non è perfetto
+
+113
+00:12:58,600 --> 00:13:03,700
+perché se pensiamo che il secondo quadro comunitario di sostegno quello tra il 94 e
+
+114
+00:13:03,700 --> 00:13:10,600
+il 99 vide un utilizzo dei fondi strutturali europei all'incirca sul 60% delle aree dei
+
+115
+00:13:10,600 --> 00:13:16,560
+paesi dell'Unione questo di per sé indica che l'uso era un uso che non aveva raggiunto
+
+116
+00:13:16,560 --> 00:13:21,140
+a fin e fondo i suoi obiettivi di sviluppo perché è inipotizzabile che il 60% delle
+
+117
+00:13:21,140 --> 00:13:28,450
+aree dell'Unione fosse orare con i problemi per i quali quei fondi sono stati creati.
+
+118
+00:13:29,340 --> 00:13:34,260
+Ma sottolineiamo anche con forza la necessità di continuare sulla concentrazione tematica
+
+119
+00:13:35,020 --> 00:13:40,420
+nel senso che i fondi strutturali europei non possono essere utilizzati per fare tutto o
+
+120
+00:13:40,420 --> 00:13:47,380
+per coprire le mancanze dell'amministrazione locale a tutto campo come purtroppo per evitare
+
+121
+00:13:47,380 --> 00:13:52,780
+di perderli tante volte si è stati costretti e si è costretti ancora oggi a fare.
+
+122
+00:13:53,080 --> 00:13:58,440
+La necessità di una maggiore concentrazione tematica e nel lavoro che si presenta nella
+
+123
+00:13:58,440 --> 00:14:04,560
+parte curata da Tiziano Treu in particolare si indica come la necessità di lavorare
+
+124
+00:14:04,560 --> 00:14:11,060
+sulla questione del fondo sociale quindi del tema del rapporto sostanzialmente tra questi
+
+125
+00:14:11,060 --> 00:14:16,360
+obiettivi e gli obiettivi di Lisbona che sono gli obiettivi ovviamente della formazione
+
+126
+00:14:16,360 --> 00:14:21,980
+e della conoscenza rappresenta sicuramente uno degli aspetti importanti molto importanti
+
+127
+00:14:21,980 --> 00:14:27,480
+di questa partita. C'è un'altra questione molto importante che è la questione la citavo
+
+128
+00:14:27,480 --> 00:14:34,920
+prima dell'andare verso una sempre maggiore rafforzamento dei criteri che sono parte della
+
+129
+00:14:34,920 --> 00:14:40,320
+storia dei fondi strutturali europei che sono criteri che hanno fatto bene al nostro Paese,
+
+130
+00:14:40,320 --> 00:14:46,860
+i criteri di premialità innanzitutto che vanno sottolineati e rafforzati, a nostro avviso
+
+131
+00:14:46,860 --> 00:14:51,600
+ci sono una serie di tabelle che indicano questo così come tabelle importanti parlano
+
+132
+00:14:51,600 --> 00:14:57,440
+del rapporto tra pubblico e privato, la possibilità e il fatto di verificare che lo sviluppo c'è
+
+133
+00:14:57,440 --> 00:15:06,300
+non più fondi pubblici arrivano ma più fondi pubblici che moltiplicano fondi privati riescono
+
+134
+00:15:06,300 --> 00:15:12,640
+a creare. In quel caso c'è un rapporto diretto come è abbastanza naturale che ci sia tra
+
+135
+00:15:12,640 --> 00:15:19,100
+l'intervento pubblico e poi il calo della disoccupazione e gli altri criteri di sviluppo
+
+136
+00:15:19,100 --> 00:15:24,360
+indicati. Voglio sottolineare qui un punto che a mio avviso rappresenta uno dei punti
+
+137
+00:15:24,360 --> 00:15:29,740
+importanti lo sottolineiamo anche se ovviamente a livello comunitario è vista come una questione
+
+138
+00:15:30,800 --> 00:15:35,420
+non la questione prioritaria ma per il nostro Paese lo è, per la caratteristica tipica
+
+139
+00:15:35,420 --> 00:15:43,080
+del nostro Paese e cioè la questione di quell'applicazione mai fatta degli articoli 154 e 158 del trattato
+
+140
+00:15:43,080 --> 00:15:49,340
+che hanno a che fare col tema dell'insularità, tema come è noto complesso rispetto al quale
+
+141
+00:15:49,340 --> 00:15:55,860
+l'Italia è il Paese europeo in assoluto che ha maggiore interesse in questo campo e rispetto
+
+142
+00:15:55,860 --> 00:15:59,900
+al quale il fatto che questi due articoli non siano mai stati attuati fino in fondo
+
+143
+00:15:59,900 --> 00:16:08,320
+e che l'insularità sia stata la funzione dell'aiuto in materia di insularità sia
+
+144
+00:16:08,320 --> 00:16:15,020
+sempre stata usata attraverso il fatto che le isole erano sempre state in questi anni
+
+145
+00:16:15,020 --> 00:16:22,540
+areo obiettivo 1 e quindi si arrivava dalla porta di servizio diciamo a cogliere quell'obiettivo
+
+146
+00:16:22,540 --> 00:16:31,120
+oggi l'uscita non solo per motivi statistici ma per crescita di benessere della Sardegna
+
+147
+00:16:31,120 --> 00:16:39,400
+dall'obiettivo 1 e già la Sardegna era lì lì credo nel 99 non so bene se era sotto
+
+148
+00:16:39,400 --> 00:16:46,580
+o sopra ma insomma era lì nel 99 poi è rimasta sotto per qualche 0 virgola e quindi è stata
+
+149
+00:16:46,580 --> 00:16:52,280
+ancora a regione obiettivo 1 l'uscita della Sardegna indica la necessità e la priorità
+
+150
+00:16:52,280 --> 00:16:58,860
+per il nostro Paese di puntare sul tema dell'applicazione di questi due articoli trattati e quindi del
+
+151
+00:16:58,860 --> 00:17:06,140
+fatto che l'insularità abbia una sua parallela un suo parallelo sviluppo complementare con
+
+152
+00:17:06,140 --> 00:17:11,780
+la materia dei fondi strutturali ma che non passi solo dai fondi strutturali l'aiuto legato
+
+153
+00:17:11,780 --> 00:17:19,520
+ovviamente a materie che hanno a che fare con la lontananza dei trasporti e tutto quello
+
+154
+00:17:19,520 --> 00:17:29,060
+che l'insularità vuol dire credo che alcuni di questi temi sono temi sui quali in Italia
+
+155
+00:17:29,060 --> 00:17:36,100
+è possibile trovare anzi credo che sia oltre che possibile anche auspicabile che l'Italia
+
+156
+00:17:36,100 --> 00:17:43,280
+trovi un'unità di intenti nel momento nel quale si andrà al negoziato finale vero decisivo
+
+157
+00:17:43,280 --> 00:17:49,500
+a brussel questo negoziato è stato rinviato a dopo le elezioni europee e a dopo la nascita
+
+158
+00:17:49,500 --> 00:17:55,460
+della nuova commissione di fatto ora siamo a un momento di discussione tecnica importante
+
+159
+00:17:55,460 --> 00:18:01,380
+ma la vera discussione avverrà col nuovo parlamento europeo e ovviamente si tratterà
+
+160
+00:18:01,380 --> 00:18:08,920
+di capire chi sarà il commissario europeo che gestirà tutta questa difficile partita
+
+161
+00:18:08,920 --> 00:18:14,360
+e quindi avrà il potere di indirizzare la discussione in un senso o nell'altro è evidente
+
+162
+00:18:14,360 --> 00:18:19,900
+che i Paesi membri hanno e in particolare un Paese come l'Italia ha un ruolo fondamentale
+
+163
+00:18:20,480 --> 00:18:24,780
+importantissimo e quindi ritengo e riteniamo che su questi temi questo è anche il motivo
+
+164
+00:18:24,780 --> 00:18:29,800
+per il quale abbiamo fortemente voluto una presentazione di questo lavoro che fosse una
+
+165
+00:18:30,380 --> 00:18:36,060
+presentazione con le caratteristiche di quella di stasera cioè la necessità di alzare il
+
+166
+00:18:36,060 --> 00:18:43,100
+tono l'attenzione su questo punto su questi punti e di indicare il fatto che una scelta
+
+167
+00:18:43,100 --> 00:18:49,780
+di questo genere che quindi sposti sulle politiche di coesione sulla loro continuità
+
+168
+00:18:49,780 --> 00:18:57,120
+e sul loro sguardo verso il futuro modificate riformate rafforzate con alcuni dei criteri
+
+169
+00:18:57,120 --> 00:19:03,800
+che dicevo prima un interesse importante per il nostro Paese e non soltanto per la quantità
+
+170
+00:19:03,800 --> 00:19:09,180
+di risorse maggiore o minore che le regioni obiettivo una e quindi il mezzogiorno del
+
+171
+00:19:09,180 --> 00:19:15,660
+nostro Paese rischierebbe di perdere ma proprio perché su una politica di questo genere a
+
+172
+00:19:15,660 --> 00:19:23,340
+nostro avviso si gioca l'idea stessa di Europa l'idea che l'Europa che brussel si privi delle
+
+173
+00:19:23,340 --> 00:19:30,180
+politiche di coesione come tema centrale come è stato in questi 15 anni nello stesso bilancio
+
+174
+00:19:30,180 --> 00:19:34,200
+comunitario le politiche di coesione come è noto hanno rappresentato in questi anni
+
+175
+00:19:34,700 --> 00:19:41,200
+ma sostanzialmente attorno a un terzo del bilancio comunitario e una buona parte della
+
+176
+00:19:41,200 --> 00:19:47,020
+burocrazia brussellese con minori o maggiori successi ma insomma è stata destinata su questo
+
+177
+00:19:47,020 --> 00:19:55,360
+tema l'idea che brussel perda o veda ridurre drasticamente questo campo di azione a nostro
+
+178
+00:19:55,360 --> 00:20:01,360
+avviso è un errore profondo un'Europa sbilanciata a quel punto completamente sulla parte monetaria
+
+179
+00:20:01,360 --> 00:20:07,640
+dal punto di vista delle politiche economiche perché poi sulle altre politiche come Lisbona
+
+180
+00:20:07,640 --> 00:20:15,300
+dimostra viene comunque poi in gran parte molto diciamo troppo lasciato alla sussidiarietà e quindi
+
+181
+00:20:15,300 --> 00:20:23,080
+alla semplice buona volontà dei singoli Paesi quando invece il vincolo comunitario è quello
+
+182
+00:20:23,080 --> 00:20:27,660
+che poi spinge a risultati e a risultati importanti sui fondi strutturali europei gran
+
+183
+00:20:27,660 --> 00:20:33,200
+parte di questi risultati sono stati perché alcuni vincoli sono vincoli che hanno funzionato per
+
+184
+00:20:33,200 --> 00:20:39,080
+esempio sul fatto che quando l'Italia spendeva male i suoi fondi strutturali europei questi
+
+185
+00:20:39,080 --> 00:20:48,560
+sono serviti a fare il ponte della città di Porto o l'aeroporto di Shannon in Irlanda tutte
+
+186
+00:20:48,560 --> 00:20:53,760
+cose che evidentemente poi sono servite alla consapevolezza e alla piena comprensione nel
+
+187
+00:20:53,760 --> 00:21:01,500
+nostro Paese dell'importanza di questa materia e quindi ripeto concludo e do la parola a Pier
+
+188
+00:21:01,500 --> 00:21:09,220
+Ferdinando Casini che ringrazio ancora ritengo riteniamo che l'occasione che Arell qui propone
+
+189
+00:21:09,220 --> 00:21:14,120
+è un'occasione che vuole essere soprattutto in questa direzione, vuole andare nella direzione
+
+190
+00:21:14,940 --> 00:21:21,820
+più volte richiamata a livello comunitario dalla Commissione e dal Presidente della Commissione
+
+191
+00:21:21,820 --> 00:21:28,440
+di indicare nel futuro dei fondi strutturali europei e quindi delle politiche di coesione
+
+192
+00:21:28,440 --> 00:21:35,960
+l'idea di un'Europa che è un'Europa equilibrata e non squilibrata tra politiche monetarie
+
+193
+00:21:35,960 --> 00:21:42,940
+tutte gestite a livello centrale a livello europeo e poi politiche di coesione o politica
+
+194
+00:21:42,940 --> 00:21:49,700
+di sviluppo che invece vengono gestite in modo differente e questo rappresenta sicuramente
+
+195
+00:21:49,700 --> 00:21:55,360
+uno degli obiettivi per i quali il futuro dell'Unione Europea sarà di un tipo o sarà
+
+196
+00:21:55,360 --> 00:22:02,240
+di un altro tipo, molti discutono oggi e credo anche il dibattito che si è aperto in questi
+
+197
+00:22:02,940 --> 00:22:08,460
+giorni all'indomani dell'allargamento, è stato un dibattito nel quale si sono sentite
+
+198
+00:22:08,460 --> 00:22:15,680
+molte parole, nei precedenti allargamenti tutte le parole che si erano sentite erano
+
+199
+00:22:15,680 --> 00:22:23,820
+parole di ottimismo e di speranza, in particolare quando si è parlato di paesi che erano usciti
+
+200
+00:22:23,820 --> 00:22:31,880
+da dittature o da situazioni di particolare difficoltà. I commenti di questi giorni sono
+
+201
+00:22:31,880 --> 00:22:38,200
+stati commenti in chiaroscuro nei quali la soddisfazione per la riunificazione dell'Unione
+
+202
+00:22:38,200 --> 00:22:45,120
+Europea era costantemente accompagnata dalla preoccupazione rispetto all'attenuta dell'Europa
+
+203
+00:22:45,120 --> 00:22:51,360
+comunitaria così come l'abbiamo fissuta fino a oggi. La materia che riguarda un terzo
+
+204
+00:22:51,360 --> 00:22:55,840
+del bilancio comunitario rappresenta uno dei pilastri sui quali si deciderà se il futuro
+
+205
+00:22:55,840 --> 00:23:02,720
+dell'Unione sarà comunitario e quindi federalista e quindi in una logica di solidarietà tra
+
+206
+00:23:02,720 --> 00:23:09,620
+le regioni europee oppure se sarà un futuro dell'Unione nel quale i poteri di Bruxelles
+
+207
+00:23:09,620 --> 00:23:14,800
+in una logica di sussiderità che rischia a mio avviso in questo caso di essere fraintesa
+
+208
+00:23:14,800 --> 00:23:21,300
+nella sua applicazione sarà un futuro invece che si muoverà su strade diverse. Spero che
+
+209
+00:23:21,300 --> 00:23:26,520
+l'occasione di oggi sia un'occasione di contributo utile e importante, è una discussione che
+
+210
+00:23:26,520 --> 00:23:33,520
+deve rappresentare spero il light motif delle discussioni dei prossimi mesi perché l'Italia,
+
+211
+00:23:33,520 --> 00:23:41,620
+le sue regioni, il suo miglio politico culturale accademico su questo tema deve confrontarsi.
+
+212
+00:23:41,720 --> 00:23:47,420
+Dobbiamo a mio avviso evitare soprattutto nelle nostre regioni obiettivo 1 che si sparga
+
+213
+00:23:47,420 --> 00:23:54,320
+l'idea che i fondi strutturali europei finiranno per colpa dell'allargamento. Questa è una
+
+214
+00:23:54,320 --> 00:24:03,360
+tesi che molto facilmente diventa una voce. Se noi vogliamo rilanciare il nostro Paese
+
+215
+00:24:03,360 --> 00:24:12,220
+attraverso l'illusione che la deregulation, la riduzione della fiscalità per le persone
+
+216
+00:24:13,020 --> 00:24:18,900
+fisiche, in particolare per quelli che hanno di più, magari a danno della politica di
+
+217
+00:24:18,900 --> 00:24:24,320
+incentivazione alle imprese, che si sente dire che l'incentiva alle imprese saranno
+
+218
+00:24:24,320 --> 00:24:29,260
+trasformati in prestiti con gli effetti di un indebitamento soprattutto del sistema
+
+219
+00:24:29,640 --> 00:24:35,120
+del mezzogiorno di cui non si avverte i problemi, l'esigenza, io credo che quella direzione di
+
+220
+00:24:35,120 --> 00:24:41,660
+marcia è completamente sbagliata e che noi dobbiamo fortemente integrare una visione
+
+221
+00:24:41,660 --> 00:24:47,420
+europea, e cioè un'Europa più forte dal punto di vista delle istituzioni, del suo bilancio
+
+222
+00:24:47,420 --> 00:24:53,560
+e delle sue politiche di sviluppo e una politica nazionale orientata all'innovazione, agli
+
+223
+00:24:53,560 --> 00:24:59,220
+investimenti, allo sviluppo se vogliamo affrontare le sfide dei prossimi anni.
+

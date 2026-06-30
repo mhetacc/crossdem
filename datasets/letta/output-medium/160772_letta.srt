@@ -1,0 +1,536 @@
+1
+00:00:00,000 --> 00:00:08,480
+Il posto medio del debito, i, è tasso di crescita del prodotto interno lordo in termini nominali g,
+
+2
+00:00:08,720 --> 00:00:16,000
+è quello che ci dice se siamo in una condizione di stabilità o instabilità del debito pubblico.
+
+3
+00:00:17,100 --> 00:00:25,300
+E se facciamo qualche piccolo conto, puramente algebico, vediamo che avremo bisogno nel corso del 2004
+
+4
+00:00:25,300 --> 00:00:34,600
+per mantenere lo stesso livello di debito del 2003 di un avanzo primario di 1,3 punti di PIL.
+
+5
+00:00:36,460 --> 00:00:45,600
+In realtà se ne abbiamo 1,6 quindi tecnicamente ci saremmo molto vicini,
+
+6
+00:00:47,540 --> 00:00:54,120
+ma abbiamo consumato, per usare la metafora di prima, tutto il feno in cascina.
+
+7
+00:00:54,120 --> 00:01:02,860
+Se poi invece ci domandassimo se crescessimo al ritmo del potenziale,
+
+8
+00:01:03,100 --> 00:01:11,340
+anziché potenziale che è all'incirca 1,8% la nostra potenzialità di crescita negli ultimi anni,
+
+9
+00:01:12,060 --> 00:01:16,440
+ovviamente le tensioni sull'avanzo primario sarebbero minori,
+
+10
+00:01:16,560 --> 00:01:22,540
+e infatti sarebbe sufficiente un avanzo primario di 0,6 punti percentuali.
+
+11
+00:01:22,540 --> 00:01:35,740
+Ma in realtà il debito non cresce per l'ammontare del disavanzo di competenza della pubblica amministrazione,
+
+12
+00:01:36,120 --> 00:01:43,980
+ma cresce per la dinamica del fabbisogno di cassa della pubblica amministrazione.
+
+13
+00:01:43,980 --> 00:01:59,120
+E se andiamo a togliere il peso degli interessi, l'entità degli interessi dal fabbisogno della pubblica amministrazione,
+
+14
+00:01:59,600 --> 00:02:06,280
+ci accorgiamo che è in realtà non più un avanzo ma un disavanzo.
+
+15
+00:02:06,380 --> 00:02:12,420
+Quindi a parità di tutti il resto, e questo è mostrato anche nella slide successiva,
+
+16
+00:02:12,420 --> 00:02:18,480
+ci ritroviamo, e sono dati ufficiali della relazione trimestrale di cassa,
+
+17
+00:02:18,600 --> 00:02:22,720
+qui non c'è nessuna previsione semplicemente di dato ufficiale,
+
+18
+00:02:23,000 --> 00:02:35,800
+noi vediamo che la relazione trimestrale di cassa per il 2004 prevede un disavanzo primario di cassa,
+
+19
+00:02:35,800 --> 00:02:46,260
+il che vuol dire che a questo punto siamo ben lontani dalla condizione di stabilizzazione del debito,
+
+20
+00:02:47,100 --> 00:02:54,980
+e di qui credo giustamente sia preoccupato Renato Brunetta di quanto può accadere.
+
+21
+00:02:54,980 --> 00:03:00,640
+Una deformità dal recente passato la si nota anche,
+
+22
+00:03:00,880 --> 00:03:09,100
+se guardate gli andamenti dei saldi correnti di caso di competenza che non fa grande differenza,
+
+23
+00:03:09,880 --> 00:03:17,620
+il saldo corrente della pubblica amministrazione dopo il 1996 è tornato quest'anno negativo,
+
+24
+00:03:18,410 --> 00:03:25,700
+la pubblica amministrazione smette di creare risparmio nazionale,
+
+25
+00:03:25,820 --> 00:03:31,620
+distrugge risparmio nazionale nella sua attività di natura corrente,
+
+26
+00:03:32,720 --> 00:03:44,840
+poi ci sono le spese in conto capitale che costituiscono una forma di impiego del risparmio nazionale finalizzato agli investimenti,
+
+27
+00:03:44,840 --> 00:03:53,100
+ed è da queste considerazioni che veniamo alla slide successiva,
+
+28
+00:03:53,460 --> 00:04:02,680
+per cui va detto che, almeno a mio parere, bisogna usare una certa cautela nell'annunciare riduzioni d'imposte,
+
+29
+00:04:02,920 --> 00:04:11,760
+perché è difficile far aumentare l'avanzo primario con la riduzione delle entrate.
+
+30
+00:04:11,760 --> 00:04:16,540
+È solo un esempio puramente aneddotico,
+
+31
+00:04:16,740 --> 00:04:27,740
+siccome spesso si fa riferimento a quello che accadde nella prima metà degli anni 80 negli Stati Uniti durante la presidenza Reagan,
+
+32
+00:04:28,160 --> 00:04:33,880
+nell'81-82 mi fu una riduzione di pressione fiscale di un punto e mezzo di PIL,
+
+33
+00:04:34,680 --> 00:04:39,760
+il debito pubblico allora era il 38% del PIL,
+
+34
+00:04:39,760 --> 00:04:49,160
+all'incirca sei anni dopo si dovette fare un aumento di pressione fiscale di un punto,
+
+35
+00:04:49,320 --> 00:04:52,180
+più il saldo era ancora mezzo punto di meno,
+
+36
+00:04:52,680 --> 00:04:58,760
+perché il debito era cresciuto di quasi 20 punti.
+
+37
+00:05:00,300 --> 00:05:09,420
+Ora noi abbiamo visto che ci stiamo avviando verso una fase in cui il debito pubblico italiano non scende,
+
+38
+00:05:09,420 --> 00:05:23,780
+tra il 2001 e il 2003 e il 2004 è diminuito solo per interventi una Tantum, quindi extra gestione strutturale,
+
+39
+00:05:24,880 --> 00:05:34,860
+e va da sé che nel corso dei prossimi 20 anni la pressione della spesa sanitaria e della spesa pensionistica
+
+40
+00:05:34,860 --> 00:05:42,660
+comporteranno al termine dei prossimi due decenni, se non finanziate in un qualche modo,
+
+41
+00:05:43,200 --> 00:05:49,220
+comporteranno l'aumento del debito pubblico di 20 punti.
+
+42
+00:05:49,400 --> 00:05:56,820
+Il che vuol dire che in termini di strategia, di politica economica, di medio-lungo periodo,
+
+43
+00:05:56,820 --> 00:06:07,700
+è questa la fase, in questi anni, la fase in cui deve essere fatto il massimo per ridurre il peso del debito pubblico,
+
+44
+00:06:07,740 --> 00:06:12,120
+per affrontare quell'ondata di incremento che certamente verrà,
+
+45
+00:06:12,180 --> 00:06:19,920
+e allora a quel punto la si potrà affrontare mediando tra entità dei benefici e entità del pregliedo.
+
+46
+00:06:19,980 --> 00:06:25,200
+Da qui la considerazione cerca la cautela nella riduzione delle imposte.
+
+47
+00:06:25,200 --> 00:06:32,200
+Mi avvio a terminare mostrando con la prossima slide
+
+48
+00:06:34,120 --> 00:06:42,840
+come è difficile ridurre la spesa, facendo un solo esempio,
+
+49
+00:06:43,080 --> 00:06:49,680
+quello che riguarda la spesa per consumi intermedi da parte della pubblica amministrazione,
+
+50
+00:06:49,680 --> 00:06:54,760
+ma se volete, in termini un po' più generico, acquisti di beni e servizi.
+
+51
+00:06:55,040 --> 00:06:58,500
+Ci sono alcune singolarità che sono intervenute in questi anni.
+
+52
+00:06:58,600 --> 00:07:07,880
+Prendete il DPF del luglio 2002, questo indica una stima per la spesa per consumi intermedi della pubblica amministrazione
+
+53
+00:07:07,880 --> 00:07:14,020
+per l'anno dopo, cioè il 2003, di 98,2 miliardi di euro.
+
+54
+00:07:14,020 --> 00:07:21,840
+Poi arriva la legge finanziaria che rafforza tutto quanto era già stato impostato
+
+55
+00:07:21,840 --> 00:07:27,360
+in termini di centralizzazione degli acquisti, acquisti online e così via,
+
+56
+00:07:28,840 --> 00:07:34,320
+e mette a risparmio 3,7 miliardi di euro per il 2003.
+
+57
+00:07:34,460 --> 00:07:42,180
+Poi arriva luglio del 2003. Il DPF stima una spesa tendenziale esattamente identica
+
+58
+00:07:42,180 --> 00:07:48,120
+a quella che stimava un anno prima, nonostante l'intervento in riduzione di 3,7.
+
+59
+00:07:49,640 --> 00:07:54,140
+A marzo 2004 escono i dati di consumtivo.
+
+60
+00:07:54,620 --> 00:08:01,240
+I dati di consumtivo delle stesse spese per consumi intermedi sono di 102,3,
+
+61
+00:08:01,340 --> 00:08:09,600
+cioè 4 al di sopra della previsione, nonostante gli interventi di risparmio di 3,7.
+
+62
+00:08:09,600 --> 00:08:20,560
+Quindi è solo un esempio dell'aspetto molto complesso nel controllo di quella voce
+
+63
+00:08:20,560 --> 00:08:25,680
+che nella liturgia degli annunci di politica economica viene chiamata
+
+64
+00:08:25,680 --> 00:08:28,660
+lotta agli sprechi e ai primi legi.
+
+65
+00:08:28,860 --> 00:08:32,960
+E si fa presto, con la prossima slide, a capire perché.
+
+66
+00:08:32,960 --> 00:08:37,380
+Innanzitutto non bisogna farsi confondere dalle dimensioni.
+
+67
+00:08:37,480 --> 00:08:47,100
+Quei 100 circa miliardi di euro sono per consumi intermedi veri e propri solo una settantina.
+
+68
+00:08:47,180 --> 00:08:51,010
+Non pochi, ma sono distribuiti per tutta la pubblica amministrazione.
+
+69
+00:08:52,740 --> 00:08:57,140
+Quindi la quota legata ai ministeri è abbastanza limitata.
+
+70
+00:08:57,140 --> 00:09:04,280
+L'altro terzo è costituito da prestazioni sociali in natura
+
+71
+00:09:04,280 --> 00:09:07,210
+che lo Stato acquista ed eroga direttamente ai cittadini,
+
+72
+00:09:07,880 --> 00:09:10,100
+vale a dire prestazioni sanitarie.
+
+73
+00:09:10,280 --> 00:09:15,560
+E allora abbiamo i farmaci, giustamente sono stati presi i provvedimenti di controllo di quella spesa.
+
+74
+00:09:16,260 --> 00:09:23,390
+Abbiamo l'assistenza medico generica che vuol dire i contratti dei medici di base e così via.
+
+75
+00:09:23,390 --> 00:09:29,770
+Tutte quelle voci nella prospettiva dell'invecchiamento della popolazione
+
+76
+00:09:29,770 --> 00:09:38,550
+che è già qui e non è tanto l'aumento della spesa per gli anziani solo ultra 65 anni,
+
+77
+00:09:38,630 --> 00:09:42,530
+ma è l'aumento della spesa per i grandi anziani, gli ultra 80 anni,
+
+78
+00:09:42,630 --> 00:09:46,690
+che nel corso dei prossimi decenni si moltiplicheranno per 3.
+
+79
+00:09:47,690 --> 00:09:52,690
+Ora questa spesa è possibile sguarnirla?
+
+80
+00:09:54,930 --> 00:10:05,670
+Da qui credo si ricavi l'implicazione circa dove, come, se intervenire dal lato delle imposte.
+
+81
+00:10:06,030 --> 00:10:07,490
+Ultima slide.
+
+82
+00:10:07,810 --> 00:10:12,950
+Se si dovesse decidere di andare in quella direzione,
+
+83
+00:10:12,950 --> 00:10:16,850
+è bene ragionare attentamente.
+
+84
+00:10:17,290 --> 00:10:21,950
+Uno, se effettivamente abbiamo bisogno di maggiori consumi,
+
+85
+00:10:23,010 --> 00:10:26,510
+forse abbiamo bisogno di una redistribuzione di reddito,
+
+86
+00:10:27,630 --> 00:10:33,130
+ma non necessariamente di una dinamica più sostenuta dei consumi,
+
+87
+00:10:33,210 --> 00:10:37,290
+forse abbiamo bisogno di una dinamica più sostenuta degli investimenti
+
+88
+00:10:37,290 --> 00:10:47,590
+che sono la base per lo sviluppo della capacità di far penetrare le nostre esportazioni negli altri mercati,
+
+89
+00:10:48,230 --> 00:10:54,390
+perché non è vero che non c'è capacità imprenditoriale, che i mercati sono lontani.
+
+90
+00:10:54,550 --> 00:11:02,690
+Da alcuni studi su una impostazione di tipo gravitazionale della dinamica delle esportazioni,
+
+91
+00:11:02,690 --> 00:11:13,330
+quello che abbiamo riscontrato è che gli italiani hanno forse anche qualche capacità in più di stare sui mercati lontani,
+
+92
+00:11:14,010 --> 00:11:19,430
+quindi in questo senso non avrei timori per specializzazioni geografiche,
+
+93
+00:11:19,570 --> 00:11:28,290
+non è la distanza, non soli 10-12 mila chilometri di distanza che tolgono la nostra capacità di stare su quei mercati.
+
+94
+00:11:28,290 --> 00:11:36,290
+Il problema è che reagiamo di meno degli altri paesi alla crescita della domanda su quei mercati
+
+95
+00:11:37,290 --> 00:11:49,710
+e reagiamo di meno perché siamo posizionati su segmenti di domanda che crescono di meno.
+
+96
+00:11:49,710 --> 00:11:59,550
+Quindi in questo senso sollecitazione e sostegno agli investimenti per sostenere questa diversificazione al lato della struttura produttiva.
+
+97
+00:11:59,790 --> 00:12:12,710
+E qui si vede dove questi aspetti possono intervenire se si dovesse decidere in che misura e se ridurre le imposte.
+
+98
+00:12:12,710 --> 00:12:19,010
+Un solo commento, credo che si commentino da sé questi numeri,
+
+99
+00:12:19,330 --> 00:12:28,090
+che la spinta maggiore verrebbe dal controllo da una minore crescita dei contributi sociali,
+
+100
+00:12:28,150 --> 00:12:32,710
+il minore crescita dei contributi sociali non vuol dire necessariamente decontribuzione,
+
+101
+00:12:33,410 --> 00:12:40,010
+ma ancora delle componenti dei contributi sociali che sono di origine solidaristica
+
+102
+00:12:40,010 --> 00:12:49,150
+e che in un concetto di cittadinanza universale dovrebbero essere a carico dell'intera collettività e che possono essere ridotti.
+
+103
+00:12:49,530 --> 00:13:00,530
+In parte questo potrebbe essere sostituito dalla riduzione dell'IRAP sul posto del lavoro. Grazie.
+
+104
+00:13:01,530 --> 00:13:09,530
+Grazie al professor Onofri. La parola per la conclusione del primo giro al professor Alberto Padriocuzzi.
+
+105
+00:13:15,310 --> 00:13:25,550
+Grazie a molto il vicepresidente di Linfarina e il direttore Paolo Garonna dell'Ufficio Studi per questo invito.
+
+106
+00:13:25,550 --> 00:13:32,710
+E' un po' penalizzato dall'iniziale del mio cognome che mi colloca da ultimo in questa tavola rotonda,
+
+107
+00:13:33,790 --> 00:13:39,550
+cercherò di contenere i miei commenti facendo il minor uso possibile di cifre.
+
+108
+00:13:40,590 --> 00:13:50,730
+Leggendo i due rapporti che definisco in via sbrigativa, rapporto strutturale e rapporto congiunturale, sia pure leggendoli rapidamente,
+
+109
+00:13:50,730 --> 00:13:58,730
+devo dire che sono rimasto molto impressionato per la straordinaria capacità di integrare i due aspetti.
+
+110
+00:13:59,450 --> 00:14:07,730
+E devo altresì notare che tra i termini concetto che mi hanno colpito maggiormente nella lettura di questi due rapporti,
+
+111
+00:14:08,770 --> 00:14:16,870
+due sono gli stessi. Da un lato l'esigenza della industrializzazione dei servizi come strumento essenziale
+
+112
+00:14:16,870 --> 00:14:23,650
+per far crescere la produttività totale dei fattori del sistema industriale italiano.
+
+113
+00:14:24,410 --> 00:14:35,310
+E dall'altro l'enfasi sul concetto di sistema. Il concetto di sistema non è sinonimo né di aggregazione né di sommatoria.
+
+114
+00:14:35,650 --> 00:14:38,290
+Sistema significa integrazione di parti.
+
+115
+00:14:39,770 --> 00:14:49,290
+Naturalmente i due rapporti non negano che l'economia italiana sia in questo momento in una obiettiva difficoltà,
+
+116
+00:14:50,110 --> 00:14:57,170
+ma certamente non codificano la stessa come declino o come deindustrializzazione.
+
+117
+00:14:57,670 --> 00:15:06,650
+In qualche modo si potrebbe dire trattano questa obiettiva difficoltà come una difficoltà connessa a due fattori.
+
+118
+00:15:06,650 --> 00:15:12,750
+Da un lato vi è una frase che mi ha molto colpito e un fattore di tipo congiunturale.
+
+119
+00:15:13,250 --> 00:15:21,650
+Vorrei leggere una frase molto incisiva e molto forte. L'elemento che sembra caratterizzare la recessione in corso
+
+120
+00:15:22,310 --> 00:15:32,910
+è la netta sensazione che le vendite all'estero sono calate in misura che non ha precedenti nella storia industriale italiana degli ultimi trent'anni.
+
+121
+00:15:32,910 --> 00:15:38,710
+Non è una frase forte ma è una frase che deve indurre a riflettere significativamente.
+
+122
+00:15:39,890 --> 00:15:47,990
+Tra le chiavi interpretative di questo calo vorrei sottolineare due, peraltro già toccate nei precedenti interventi
+
+123
+00:15:47,990 --> 00:15:51,770
+e da primo nell'intervento dell'ingegnere Pininfarina.
+
+124
+00:15:51,810 --> 00:15:58,910
+Non c'è dubbio che la dinamica dell'euro, ma ancor più la dinamica del super euro da un lato
+
+125
+00:15:58,910 --> 00:16:06,090
+e dall'altra la bassa crescita della domanda interna dei paesi dell'Unione Europea
+
+126
+00:16:06,090 --> 00:16:11,450
+abbia reso molto difficile l'andamento dell'export italiano penalizzato su due fronti.
+
+127
+00:16:11,550 --> 00:16:18,950
+Da un lato il super euro rispetto al dollaro, dall'altra la bassa crescita della domanda dei paesi europei
+
+128
+00:16:18,950 --> 00:16:21,830
+verso il quale l'Italia esporta normalmente.
+
+129
+00:16:21,830 --> 00:16:29,830
+Nel contempo io credo che la sfida asiatica e la sfida cinese, guardandola con assoluta serenità
+
+130
+00:16:30,350 --> 00:16:39,290
+abbia rappresentato un ulteriore elemento in questo momento di aggravamento della nostra dinamica dell'export.
+
+131
+00:16:39,810 --> 00:16:49,230
+Vorrei ricordare a tutti che la competitività cinese si va a scaricare su circa l'80% dei prodotti italiani
+
+132
+00:16:49,230 --> 00:16:52,310
+che danno il nostro maggior surplus commerciale.
+
+133
+00:16:52,990 --> 00:16:56,690
+Quindi noi siamo uno dei paesi più esposti alla competitività cinese
+
+134
+00:16:56,690 --> 00:16:59,990
+proprio perché va a collocarsi su quei prodotti dove...
+
