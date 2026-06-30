@@ -1,0 +1,848 @@
+1
+00:00:00,000 --> 00:00:04,920
+è che il contesto generale è cambiato, lo si legge sui giornali continuamente, il progresso
+
+2
+00:00:04,920 --> 00:00:13,600
+tecnico, la globalizzazione, la maggiore concorrenza, è il contesto in cui le opportunità,
+
+3
+00:00:14,340 --> 00:00:23,840
+le opportunità di crescita si allargano, ma il rischio può esserci di una crescita delle
+
+4
+00:00:23,840 --> 00:00:29,000
+diseguaglianze, prendiamo solo il progresso tecnico, l'informatica, l'economy, è qui
+
+5
+00:00:29,000 --> 00:00:36,920
+grande opportunità per categorie di lavoratori autonomi dipendenti di crescere nella scala
+
+6
+00:00:36,920 --> 00:00:43,340
+gerarchica in modo molto veloce, ma c'è anche il pericolo che questa scala sociale si allunghi
+
+7
+00:00:43,340 --> 00:00:49,060
+e che le distanze tra il basso e l'alto si aumentino, anche perché insomma i settori
+
+8
+00:00:49,060 --> 00:00:54,020
+tradizionali non sono del tutto spariti, i mestieri tradizionali non sono spariti,
+
+9
+00:00:54,040 --> 00:01:02,300
+leggemo stamattina sul giornale che il settore che dà più occupazione nel comune di Milano
+
+10
+00:01:02,300 --> 00:01:11,160
+è quello degli addetti alle polizie, quindi dobbiamo rendereci conto che c'è questo forte
+
+11
+00:01:11,160 --> 00:01:17,800
+progresso tecnico ma non è che coinvolga tutta la forza del lavoro immediatamente, quindi
+
+12
+00:01:17,800 --> 00:01:22,340
+magari può esserci un aumento delle distanze, quindi diseguaglianze e quindi il problema
+
+13
+00:01:22,340 --> 00:01:29,060
+di porci dal punto di vista di garantire anche livelli di equità maggiori. In questo contesto
+
+14
+00:01:29,060 --> 00:01:33,960
+si pone il ruolo dei servizi per l'impiego, questo è un po' l'argomento che mi è
+
+15
+00:01:33,960 --> 00:01:40,800
+stato chiesto di commentare, di fare qualche riflessione. Questo vale anche alla comunità
+
+16
+00:01:42,020 --> 00:01:48,980
+in queste suggerimenti, linee di indizio che dà ai vari paesi europei, quando si dice
+
+17
+00:01:48,980 --> 00:01:55,220
+preoccupate di fenomeni di esclusione sociale, dovete rafforzare i vostri sistemi di politiche
+
+18
+00:01:57,520 --> 00:02:02,820
+attive, dovete ammodernarli, renderli più efficaci in modo tale che non garantiscono
+
+19
+00:02:03,360 --> 00:02:08,520
+solo un migliore incontro domande offerta, una migliore efficienza, ma anche che recuperino
+
+20
+00:02:08,520 --> 00:02:31,140
+le fasce che rischiano di andare alla deriva. I paesi devono perseguire in termini di politica
+
+21
+00:02:31,140 --> 00:02:38,100
+di inclusione, in particolare i target in termini di riduzione della durata della disoccupazione,
+
+22
+00:02:39,720 --> 00:02:46,160
+dice dovete fare delle politiche sempre più preventive, impedire che la disoccupazione
+
+23
+00:02:46,160 --> 00:02:54,520
+diventa 12 mesi, 2 anni, 3 anni, perché a quel punto è facile uscirne. Preventiva e
+
+24
+00:02:55,220 --> 00:03:01,000
+personalizzata, servizio personalizzato, pensate nel nostro caso della politica del lavoro,
+
+25
+00:03:01,320 --> 00:03:06,300
+questo significa proprio mettere le lancette dall'altra parte, personalizzata, andare a
+
+26
+00:03:06,300 --> 00:03:14,720
+vedere i casi singoli, perché bisogna fare proprio una terapia ad hoc per i singoli casi,
+
+27
+00:03:14,900 --> 00:03:19,300
+quindi i servizi e per l'impiego. Nel nostro caso, caso italiano, ci trovavamo in questa
+
+28
+00:03:19,300 --> 00:03:25,840
+situazione che era mai il 30-40 anni che parlavamo di riforma del collocamento, anzi direi che
+
+29
+00:03:25,840 --> 00:03:29,780
+da quando c'è la legge del 49, ma come potevo dare ragione, quella che va anche al nome
+
+30
+00:03:29,780 --> 00:03:40,720
+di legge Fanfani, era perfetta dal punto di vista della coerenza, le imprese avevano
+
+31
+00:03:40,720 --> 00:03:45,520
+l'obbligo di comunicare i posti vacanti all'ufficio di collocamento, l'ufficio di collocamento
+
+32
+00:03:45,520 --> 00:03:52,100
+faceva la sua graduatoria sulle base anche delle necessità familiari, problemi e avviava
+
+33
+00:03:52,100 --> 00:03:58,980
+sulla base della graduatoria, sistema piuttosto di registra direi, piuttosto di registra,
+
+34
+00:03:59,000 --> 00:04:04,700
+ma non ha funzionato, perché il sistema di dare le informazioni sui posti vacanti, le
+
+35
+00:04:04,700 --> 00:04:09,100
+informazioni sui posti vacanti sono una delle cose più complicate e più difficili da raccogliere,
+
+36
+00:04:10,440 --> 00:04:14,140
+una cosa difficile insomma, per le imprese è facile evadere, infatti hanno continuato
+
+37
+00:04:14,140 --> 00:04:21,020
+evadere e gli uffici del collocamento si sono trincerati, alla fine hanno svolto una pure
+
+38
+00:04:21,020 --> 00:04:25,080
+situazione di registrazione, notarili di incontri, domande offerte che avvenivano
+
+39
+00:04:25,080 --> 00:04:29,980
+al di fuori del servizio del collocamento, per cui i suoiamenti a poche volte sono
+
+40
+00:04:29,980 --> 00:04:35,380
+stati formati da personale la cui professionalità era semplicemente quella di verificare delle
+
+41
+00:04:35,380 --> 00:04:41,400
+carte, delle pratiche e mettere il timbro, ma perché in quel ruolo erano stati destinati
+
+42
+00:04:41,400 --> 00:04:46,340
+da una legislazione che pretendeva troppo e quando si vuole pretendere troppo succede
+
+43
+00:04:47,640 --> 00:04:53,920
+che poi non si ottiene nulla, questo naturalmente da dovanti per decenni alla fine c'è il senere
+
+44
+00:04:53,920 --> 00:04:58,840
+di secondo e si ha liberalizzato un pochettino il mercato dell'intermediazione di mano d'opera,
+
+45
+00:04:58,960 --> 00:05:03,340
+poi Marco dirà se l'abbiamo liberalizzato completamente o meno e cosa ci rimane da
+
+46
+00:05:03,340 --> 00:05:10,340
+fare ancora su questo, cosa ci rimane da fare? Nei limiti pur sempre di un doveroso controllo
+
+47
+00:05:10,340 --> 00:05:15,560
+dell'iniziativa individuale nel campo dell'intermediazione, perché anche lì la nostra tradizione lunga
+
+48
+00:05:15,560 --> 00:05:20,980
+quella del caporalato, cioè i timori non erano del tutto infondati e magari tutt'oggi possono
+
+49
+00:05:20,980 --> 00:05:26,800
+essere presenti. Comunque ci si rese conto che bisognava riformare servizi per l'impiego
+
+50
+00:05:26,800 --> 00:05:31,920
+e in particolare gli uffici di intermediazione, quelli che doveva mettere insieme domande
+
+51
+00:05:31,920 --> 00:05:37,440
+offerte di lavoro ed è stato fatto attraverso un processo di forte decentramento, fortissimo
+
+52
+00:05:37,440 --> 00:05:44,560
+decentramento. Io credo, penso di essere sul giusto, se dico che non c'è altro paese in
+
+53
+00:05:44,560 --> 00:05:50,020
+Europa in cui si è realizzato un decentramento così forte dei servizi per l'impiego. Lì
+
+54
+00:05:50,020 --> 00:05:54,420
+si diceva prima abbiamo bisogno di riforma radicale, proprio rivoltare queste cose come
+
+55
+00:05:54,420 --> 00:06:02,400
+fosse un calzino e secondo dobbiamo unificare i servizi localmente e affidare allo stesso
+
+56
+00:06:02,400 --> 00:06:08,520
+soggetto istituzionale. La regione ha le funzioni in materia di formazione professionale e non
+
+57
+00:06:08,520 --> 00:06:14,080
+possiamo disgiungere i servizi della politica del lavoro, intermediazione o incontro domande
+
+58
+00:06:14,080 --> 00:06:18,920
+offerte dalla formazione professionale. Quindi il processo è stato questo, affidare alle
+
+59
+00:06:18,920 --> 00:06:23,860
+regioni a tal punto che si fa fatica adesso, io proprio non ho difficoltà a capire quale
+
+60
+00:06:23,860 --> 00:06:38,500
+ruolo rimane al governo centrale. Sì c'è scritto coordinamento, indirizzo, non si è
+
+61
+00:06:38,500 --> 00:06:44,520
+potuta creare qualche problema di suscettibilità da parte delle regioni, indirizzo coordinamento
+
+62
+00:06:44,520 --> 00:06:50,100
+ma neanche valutazione. Però non c'è dubbio che questo rimane un problema grave, un problema
+
+63
+00:06:50,100 --> 00:06:54,840
+da risolvere, però si è voluto attribuire a responsabilità a livello locale. Io penso
+
+64
+00:06:54,840 --> 00:06:59,480
+che questa riforma del collocamento abbia anticipato quelle che poi sono le decisioni
+
+65
+00:06:59,480 --> 00:07:03,260
+che si stanno pigliando in termini di federalismo. Da punto di vista della politica del lavoro
+
+66
+00:07:03,260 --> 00:07:08,920
+è stato adottato un sistema estremamente a federale. In tutti gli altri paesi c'è
+
+67
+00:07:08,920 --> 00:07:16,280
+un soggetto nazionale che ha un potere anche di coordinamento forte. Noi a questo abbiamo
+
+68
+00:07:16,280 --> 00:07:21,600
+rinunciato e con questo è un punto problematico che poi vorrei alencare, anche solo nell'elenco
+
+69
+00:07:21,600 --> 00:07:28,560
+che voglio fare, perché d'accordo che magari lo stato nazionale, il governo non interferisca
+
+70
+00:07:28,560 --> 00:07:33,660
+nelle politiche regionali ma che poi le singole regioni trovino, debbano trovare un momento
+
+71
+00:07:33,660 --> 00:07:38,380
+di coordinamento fra di loro, lo fa il governo, lo fa la conferenza stati e regioni, non lo
+
+72
+00:07:38,380 --> 00:07:44,240
+so, è molto importante perché se da un lato è opportuno attribuire delle responsabilità
+
+73
+00:07:44,240 --> 00:07:48,620
+precise, dall'altro non c'è dubbio che pur sempre siamo in un Paese in cui c'è un mercato
+
+74
+00:07:48,620 --> 00:07:55,800
+del lavoro nazionale che fra l'altro un Paese che risponde alla comunità in termini nazionali,
+
+75
+00:07:55,800 --> 00:08:02,000
+in termini di target da raggiungere per i risultati delle politiche attive del lavoro
+
+76
+00:08:02,000 --> 00:08:07,880
+e quindi non c'è dubbio che un coordinamento c'è. Quindi forte decentramento, forte decentramento
+
+77
+00:08:07,880 --> 00:08:13,580
+alle regioni, però con le risorse che c'erano, adesso sono quelle che c'erano prima, anzi
+
+78
+00:08:13,580 --> 00:08:17,820
+dicono che addirittura non li hanno trasferito nemmeno tutte le risorse e tutto il personale.
+
+79
+00:08:19,220 --> 00:08:25,260
+Quindi problemi di sottodimensionamento del personale, sottopqualificazione del personale,
+
+80
+00:08:25,260 --> 00:08:31,600
+ma non perché le persone che fanno non si impegnino eccetera, ma perché decenni che
+
+81
+00:08:31,600 --> 00:08:34,840
+fanno un lavoro che nulla ha a che fare con la politica attiva del lavoro, anche in termini
+
+82
+00:08:34,840 --> 00:08:39,580
+di qualificazione non hanno livelli di qualificazione molto elevati. Comincia a essersi un certo
+
+83
+00:08:39,580 --> 00:08:44,120
+ricambio e entrano giovani, ma prima che il ricambio sia completo ci vuole molto tempo.
+
+84
+00:08:45,160 --> 00:08:50,680
+I punti problematici che vorrei richiamare e poi chiudo sono i seguenti. Le regioni hanno
+
+85
+00:08:50,680 --> 00:08:59,160
+legiferato, hanno legiferato in modo anche una diversa dall'altra. Per cui c'è tutta
+
+86
+00:08:59,160 --> 00:09:03,900
+una serie di competenze che riguardano il livello regionale, perché sono state mantenute
+
+87
+00:09:03,900 --> 00:09:10,980
+le agenzie quelle che in alcune regioni continuano a fare politica attiva, i sussidi, gli incentivi,
+
+88
+00:09:11,480 --> 00:09:19,100
+eccetera. Le province che dovrebbero essere quelle titolate a gestire i centri per l'impiego,
+
+89
+00:09:19,100 --> 00:09:26,760
+gli ex uffici di collocamento. E poi alcune leggi regionali affidano anche ai comuni un
+
+90
+00:09:27,520 --> 00:09:35,140
+ruolo. Ora questa, diciamo così, articolazione delle funzioni all'interno delle regioni
+
+91
+00:09:35,140 --> 00:09:40,220
+è diversa da regione a regione sulla base della legge esistente. Poi la diversità può
+
+92
+00:09:40,220 --> 00:09:44,840
+anche andar bene. Il problema è che, come al solito, quando si fa un disegno istituzionale
+
+93
+00:09:44,840 --> 00:09:51,080
+bisogna vedere se funziona. E quindi potrebbe volersi del tempo prima di capire se il disegno
+
+94
+00:09:51,080 --> 00:09:58,120
+giusto o sbagliato se funziona. Questo è un problema forte. Quindi uffici che di per
+
+95
+00:09:58,120 --> 00:10:02,460
+sé vengono da una tradizione che non lascia per sperare ma bisogna potenziare. Un asset
+
+96
+00:10:03,220 --> 00:10:11,060
+istituzionale ancora da sperimentare e quindi questo è un problema importante che va tenuto
+
+97
+00:10:11,060 --> 00:10:15,340
+presente rispetto soprattutto all'urgenza di certi problemi che devono essere affrontati
+
+98
+00:10:15,340 --> 00:10:21,460
+e l'Europa ci chiede che certi risultati devono essere ottenuti. La seconda problema è abituarsi
+
+99
+00:10:22,040 --> 00:10:29,400
+a un'amministrazione che lavori per target, per risultati. In tutti i servizi di impiego
+
+100
+00:10:29,400 --> 00:10:34,320
+di tutti gli altri paesi lo fanno. Cioè ormai qui appunto se si deve cambiare mentalità
+
+101
+00:10:34,600 --> 00:10:39,380
+approccio per cui non è il problema di mettere un timbro, che non è questo, ma è quello
+
+102
+00:10:39,380 --> 00:10:46,480
+di fare in contro domande offerte. Cioè mettere a posto la gente, soddisfare le persone,
+
+103
+00:10:46,580 --> 00:10:51,440
+soddisfare le imprese. Quello che dice il tasso di penetrazione dell'ufficio. E' come
+
+104
+00:10:51,440 --> 00:10:57,240
+un'agenzia immobiliare che deve mettere appartamenti e sfitti insieme con persone che vogliono
+
+105
+00:10:57,240 --> 00:11:02,720
+affittare. Quanti ne mette a posto? Questo è il fatto. Quale è l'effettiva intermediazione?
+
+106
+00:11:03,900 --> 00:11:09,040
+Non solo ma un'intermediazione che deve riguardare in particolare fasce depoli. Quindi cominciare
+
+107
+00:11:09,040 --> 00:11:13,680
+a regionare in termini di target. Alcune regioni nella loro legislazione hanno previsto questo.
+
+108
+00:11:13,840 --> 00:11:18,720
+Devo dire che sono esempi molto importanti. Ma la mentalità deve essere questa. Questo
+
+109
+00:11:18,720 --> 00:11:22,420
+vale per tutta l'amministrazione, tutto lo sforzo delle leggi Bassanin. Sono in questa
+
+110
+00:11:22,420 --> 00:11:27,260
+direzione. Ma c'è un settore in cui particolarmente questo va fatto e questo è l'effettivo di
+
+111
+00:11:27,260 --> 00:11:35,540
+quella che ha avuto. Terzo elemento di problematicità, e lo dico solo, è questo qua, di avere un
+
+112
+00:11:35,540 --> 00:11:41,060
+vestito d'arlecchino per quanto riguarda le politiche del lavoro nel nostro Paese. Ripeto,
+
+113
+00:11:41,320 --> 00:11:47,060
+questo può essere positivo se si attribuiscono responsabilità alle regioni in modo che loro
+
+114
+00:11:47,060 --> 00:11:51,620
+siano responsabili delle politiche del lavoro e può essere positivo se a un certo momento
+
+115
+00:11:51,620 --> 00:11:56,120
+perlomeno ci sono alcune regioni che riescono a fare bene. Questo è importante, almeno
+
+116
+00:11:56,120 --> 00:12:01,730
+per dimostrare che è possibile fare le cose bene. Mettere in moto processi di imitazione,
+
+117
+00:12:01,730 --> 00:12:06,850
+di benchmarking in termini istituzionali. Questo è positivo. Attenzione, però, che
+
+118
+00:12:06,850 --> 00:12:11,430
+se se questo vestito d'arlecchino diventa tale per cui in certe regioni si fa alcune
+
+119
+00:12:11,430 --> 00:12:15,810
+volte e in altre regioni è un disastro, questo da punto di vista dell'unità del Paese può
+
+120
+00:12:15,810 --> 00:12:21,570
+anche non essere positivo e devo dire che qualcosa di questo tipo sta succedendo. E non
+
+121
+00:12:21,570 --> 00:12:27,650
+è il caso, io entro nei particolari, cioè dica quali sono le regioni, in quale parte
+
+122
+00:12:27,650 --> 00:12:33,450
+del Paese sono le regioni in cui su questo terreno stanno facendo molto poco e quel poco
+
+123
+00:12:33,450 --> 00:12:38,550
+che fanno lo stanno facendo anche male. Questo è una realtà con cui fare i conti. L'ultimo
+
+124
+00:12:38,550 --> 00:12:45,190
+punto è quello che vi permette di arrivare alla conclusione che vi ho anticipato. Fare
+
+125
+00:12:45,190 --> 00:12:49,950
+nel mercato del lavoro, la politica del lavoro, una politica di efficienza e di equità è
+
+126
+00:12:49,950 --> 00:12:57,010
+una cosa maledettamente complicata. Non c'è dubbio che questi servizi all'impiego, come
+
+127
+00:12:57,010 --> 00:13:06,110
+si diceva, devono attenuare gli effetti collaterali della flessibilità. Facendo questa
+
+128
+00:13:06,110 --> 00:13:11,710
+società interinale sapete meglio di me che la preoccupazione di tutti i Paesi che hanno
+
+129
+00:13:11,710 --> 00:13:19,010
+introdotto i contratti a termine, i contratti temporanei è che se le persone coinvolte
+
+130
+00:13:19,010 --> 00:13:26,490
+in questi tipi di lavori e che lo fanno perché non c'è altro ed è opportuno che lo facciano
+
+131
+00:13:26,490 --> 00:13:30,770
+perché altrimenti rimarebbero disoccupati e quindi è meglio che lo facciano, ma molti
+
+132
+00:13:30,770 --> 00:13:35,970
+di queste persone, alcune di queste persone in una certa percentuale rischiano di rimanere
+
+133
+00:13:35,970 --> 00:13:41,030
+intrappolati, la famosa trappola del precariato, di rimanere intrappolati in questi posti di
+
+134
+00:13:41,030 --> 00:13:48,090
+lavoro. In tutti i Paesi questo può succedere e questo naturalmente è un risultato positivo
+
+135
+00:13:48,090 --> 00:13:53,250
+rispetto al fatto di rimanere disoccupati o lavorare nel lavoro sommerso, ma certamente
+
+136
+00:13:54,670 --> 00:13:59,430
+bisogna chiudere gli occhi di fronte a questo eventuale problema, il che non vuol dire ritornare
+
+137
+00:13:59,430 --> 00:14:05,450
+indietro ma fare delle azioni positive perché questo non si verifica. Questo significa che
+
+138
+00:14:05,450 --> 00:14:09,550
+i servizi dell'impegno se devono svolgere un ruolo sociale devono soprattutto, giustamente
+
+139
+00:14:09,550 --> 00:14:15,810
+come dice la comunità, guardare a questi lavoratori nel terrenale che rischiano di entrare in
+
+140
+00:14:15,810 --> 00:14:20,910
+una trappola del lavoro precario, i lavori a tempo determinato, i disoccupati di lunga
+
+141
+00:14:20,910 --> 00:14:24,910
+durata, le donne che vogliono entrare nel mercato del lavoro e giù e giù ci mettiamo
+
+142
+00:14:24,910 --> 00:14:31,030
+anche i tossici, ci mettiamo gli inabili, gli invalidi, i carcerati, gli immigrati e
+
+143
+00:14:31,030 --> 00:14:34,970
+perché no? Certamente sono questi soprattutto quelli che hanno più bisogno per fare una
+
+144
+00:14:34,970 --> 00:14:42,950
+politica di equità. Ora attenzione, non è per fare un discorso un po' cinico ma non
+
+145
+00:14:42,950 --> 00:14:48,270
+c'è dubbio che se l'immagine di una servizio di intermediazione della domanda dell'offerta
+
+146
+00:14:48,270 --> 00:14:53,750
+del lavoro e quella di uno che si preoccupa soprattutto come target di mettere a posto
+
+147
+00:14:53,750 --> 00:15:04,850
+le fasce deboli è difficile che le imprese vadano da questo servizio per chiedere personale
+
+148
+00:15:04,850 --> 00:15:12,310
+da mettere a posto nei posti di lavoro a elevata professionalità. Voi sapete che l'estremo
+
+149
+00:15:12,310 --> 00:15:19,490
+di questo sistema era esattamente il disegno di Fanfani che diceva voi dovete, siete costrette
+
+150
+00:15:19,490 --> 00:15:25,370
+a indicarci le posti vacanti? Certo era giusto, bisognava costringerli perché da soli non
+
+151
+00:15:25,370 --> 00:15:30,110
+sarebbero andati, solo che pur costringendoli come succede quando si fanno le gride manzoniane
+
+152
+00:15:30,110 --> 00:15:36,350
+quelle non ci andavano lo stesso. Questo è importante questo, non è sempre facile,
+
+153
+00:15:36,350 --> 00:15:42,490
+adesso io ho esagerato la mia obiezione per porre il problema perché è chiaro che è
+
+154
+00:15:42,490 --> 00:15:49,410
+un buon servizio di collocamento e ce ne sono nel Paese, riescono a fare entrambe le cose,
+
+155
+00:15:50,370 --> 00:15:56,030
+ce ne sono nel Paese ma è estremamente difficile e complicato e guardate che un servizio di
+
+156
+00:15:56,030 --> 00:16:00,530
+intermediazione funziona se c'è la domanda dell'offerta perché se c'è una sola cosa
+
+157
+00:16:00,530 --> 00:16:05,370
+ce ne fa? Se c'è solo l'offerta cosa fa? O se c'è solo la domanda cosa se fa? Poco
+
+158
+00:16:05,370 --> 00:16:09,510
+a poco anche la domanda se ne va, anche l'offerta non se ne va e diventa un servizio
+
+159
+00:16:09,510 --> 00:16:14,750
+notarile di domande e offerte che si incontrono fuori. Dico questo perché questo è un problema
+
+160
+00:16:14,750 --> 00:16:19,050
+che anche altri Paesi hanno affrontato, fino al punto che in certi di questi come la Finlandia
+
+161
+00:16:19,050 --> 00:16:25,850
+e Danimarca hanno diviso le funzioni, in Finlandia le hanno divise all'interno di questi servizi,
+
+162
+00:16:26,210 --> 00:16:32,450
+tu ti occupi delle fasce deboli e tu ti fai la scrematura che le erdiente ti chiedono
+
+163
+00:16:32,450 --> 00:16:37,710
+e poi i servizi comunicano fra di loro e si scambiano le informazioni in modo tale che
+
+164
+00:16:37,710 --> 00:16:42,270
+anche quello che deve mettere a posto le fasce deboli possa orecchiare sulle possibilità
+
+165
+00:16:42,270 --> 00:16:47,410
+di impiego che ci sono nei segmenti superiori del mercato del lavoro. In altri Paesi l'hanno
+
+166
+00:16:47,410 --> 00:16:52,990
+diviso istruzionalmente, i servizi per l'impiego fanno le scremature per le aziende e le comunità
+
+167
+00:16:52,990 --> 00:16:58,510
+locali mettono a posto le fasce deboli e poi collaborano fra di loro. Ma questa diversa
+
+168
+00:16:58,510 --> 00:17:04,270
+funzione, questa diversa immagine è fondamentale, guardate, ed è un problema di tutti i Paesi,
+
+169
+00:17:04,450 --> 00:17:08,010
+al punto tale che quei Paesi che non hanno risolto questo problema hanno dei servizi
+
+170
+00:17:08,010 --> 00:17:13,870
+per l'impiego che hanno un tasso di penetrazione di 10% dove? Nelle fasce deboli, ma se ricevono
+
+171
+00:17:13,870 --> 00:17:18,110
+le richieste dalle aziende per le fasce deboli non riusciranno mai a far uscire le fasce deboli
+
+172
+00:17:18,110 --> 00:17:28,490
+della loro situazione di mercato del lavoro, povero e segmentato. Io penso che questa
+
+173
+00:17:28,510 --> 00:17:35,550
+serie di diversi ruoli debbano essere svolti in una rete di servizi pubblici fatti da diversi
+
+174
+00:17:36,650 --> 00:17:45,770
+soggetti, che siano fra di loro legati, che possono scambiarsi informazioni, che collaborano
+
+175
+00:17:45,770 --> 00:17:52,650
+uno fra di loro. Ecco perché secondo me è importante sviluppare quella parte della normativa
+
+176
+00:17:52,650 --> 00:17:57,150
+nazionale ma soprattutto di alcune regioni, la Liguria mi sembra che abbia fatto qualcosa
+
+177
+00:17:57,150 --> 00:18:04,510
+del genere qualche settimana fa, di fare un servizio per l'impiego dove c'è non solo
+
+178
+00:18:04,510 --> 00:18:10,510
+l'agenzia regionale, non c'è solo i centri per l'impiego provinciali, non c'è solo
+
+179
+00:18:10,510 --> 00:18:16,330
+i servizi del comune, magari anche con ruoli diversi, ma ci possono essere le associazioni
+
+180
+00:18:16,330 --> 00:18:21,150
+imprenditoriali, ci possono essere le camere di commercio, ci possono essere le società
+
+181
+00:18:21,150 --> 00:18:26,650
+regionali, soprattutto quelle che pur agendo in un settore di business, cioè nel senso
+
+182
+00:18:26,650 --> 00:18:34,570
+di fare un servizio alle imprese, però possono collaborare con quei servizi che magari sono
+
+183
+00:18:34,570 --> 00:18:41,110
+più concentrati sulle fasce deboli. Io penso che questa complementarietà sia fondamentale,
+
+184
+00:18:41,170 --> 00:18:47,390
+purtroppo non è stata ancora sfruttata, cioè guardando, andando a vedere nel monitoraggio
+
+185
+00:18:47,390 --> 00:18:51,590
+che ormai il Ministero del Lavoro fa per quanto riguarda questi centri dell'impiego,
+
+186
+00:18:51,950 --> 00:18:58,130
+questi tentativi di fare il sistema anche con privati, con il sociale e privato, con
+
+187
+00:18:58,130 --> 00:19:03,510
+associazioni, questo c'è poco, ma io credo che questo sia fondamentale, perché altrimenti,
+
+188
+00:19:03,510 --> 00:19:09,410
+ripeto, l'obiettivo dell'equità e dell'efficienza, questi due obiettivi da raggiungere insieme
+
+189
+00:19:09,410 --> 00:19:14,710
+presentano forti elementi di problematicità e quindi vanno individuate le soluzioni anche
+
+190
+00:19:14,710 --> 00:19:20,610
+costituzionali per poterli raggiungere entrambi. Io penso che quello di una pluralità di soggetti
+
+191
+00:19:20,610 --> 00:19:26,750
+tra loro collegati nel mercato del lavoro sia una soluzione che io vedo come promettente
+
+192
+00:19:26,750 --> 00:19:38,770
+per risolvere entrambi i problemi. Grazie. Grazie al Professore Della Ringa anche per
+
+193
+00:19:38,770 --> 00:19:44,270
+queste annotazioni, non solo italiane, ma anche con uno sguardo europeo che ormai è
+
+194
+00:19:46,070 --> 00:19:54,830
+diventato una modalità indispensabile. Adesso passerei la parola al Ministro dell'Industria,
+
+195
+00:19:54,950 --> 00:20:00,930
+Enrico Letta che già ci conosce bene, già stato ad altre nostre iniziative e che lo ringrazio
+
+196
+00:20:00,930 --> 00:20:08,750
+per aver trovato un po' di tempo per essere con noi questa mattina e vorrei così partire
+
+197
+00:20:08,770 --> 00:20:16,170
+con lui facendo un'osservazione di attualità. Fra pochi giorni ci sarà in libreria un
+
+198
+00:20:16,170 --> 00:20:22,770
+suo volume, un suo libro che è intitolato La Comunità Competitiva, Donzelli editore
+
+199
+00:20:22,770 --> 00:20:28,150
+per chi lo volesse acquistare. Perché cito questo libro, non perché debba fare l'agent
+
+200
+00:20:28,150 --> 00:20:36,010
+press del Ministro, ma perché questo titolo mi ha molto incuriosito, è un po' uno simoro
+
+201
+00:20:36,010 --> 00:20:43,470
+che ha a che fare la comunità con la competizione e allora mi ha incuriosito per dire come
+
+202
+00:20:43,470 --> 00:20:49,730
+mai questo titolo, cosa ci sta dietro questo ragionamento, perché mettere vicino comunità
+
+203
+00:20:49,730 --> 00:20:59,010
+e competizione, valori comunitari e la competizione che ci sia nel mercato e credo che la riflessione
+
+204
+00:20:59,010 --> 00:21:04,310
+sottostante a questo titolo abbia proprio a che fare con questa modernizzazione del
+
+205
+00:21:04,310 --> 00:21:10,390
+mercato del lavoro, con quel binomio di cui parlava adesso prima il Professor della Ringa,
+
+206
+00:21:10,610 --> 00:21:17,650
+difficile da tenere insieme nell'equità e dell'efficienza. E' coloro che forse proprio partendo
+
+207
+00:21:18,000 --> 00:21:26,530
+da questo titolo un po' provocatorio possiamo offrire la parola al Ministro per una riflessione
+
+208
+00:21:26,530 --> 00:21:29,610
+sul tema che oggi ci vede impegnati.
+
+209
+00:21:33,310 --> 00:21:43,270
+Io ringrazio molto Gigi Bobba per l'introduzione e per l'invito, perché io credo che stamattina
+
+210
+00:21:43,270 --> 00:21:51,750
+quello che avviene è un momento molto importante, che forse va al di là del singolo fatto che
+
+211
+00:21:51,750 --> 00:21:59,570
+oggi viene celebrato attraverso questa iniziativa. Avviene che nel nostro Paese si lancia un
+
+212
+00:21:59,610 --> 00:21:59,850
+obiettivo going toÆÆÆÆ.
+
