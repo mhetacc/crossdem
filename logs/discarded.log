@@ -567,3 +567,6 @@ https://www.radioradicale.it/scheda/159310/15a-tavola-rotonda-con-il-governo-ita
 https://www.radioradicale.it/scheda/158723/sviluppo-o-declino-come-riparte-il-motore-nellambito-della-25a-edizione-del-meeting-di?i=1374835  ValueError: No timestamps
 https://www.radioradicale.it/scheda/158587/crescere-tra-le-righe-organizzato-dallosservatorio-permanente-dei-giovani-editori-nei?i=1376330  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/letta/audio_out/_out_158587_letta.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/letta/audio_out/158587_letta.mp3'
 https://www.radioradicale.it/scheda/157567/nuovo-terrorismo-la-capacitadi-difesa-del-sistema-paese-organizzato-dal-centro-studi?i=1385006  ValueError: No timestamps
+https://www.radioradicale.it/scheda/155107/passato-presente-e-futuro-del-commercio-conferenza-nazionale-sul-commercio-promossa?i=1408615  ValueError: No timestamps
+https://www.radioradicale.it/scheda/156948/litalia-e-la-strategia-di-lisbona-una-strada-ancora-tutta-in-salita-organizzato-dalla?i=1392142  ValueError: No timestamps
+https://www.radioradicale.it/scheda/157840/le-identita-di-fronte-al-conflitto-arabo-israeliano-le-identita-le-rappresentazioni-le?i=1383248  ValueError: No timestamps
