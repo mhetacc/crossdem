@@ -1,0 +1,604 @@
+1
+00:00:00,000 --> 00:00:06,440
+Io comincierei con il professor Monti con una domanda, anche questa molto netta. Tutte
+
+2
+00:00:06,440 --> 00:00:11,160
+le cose che ci ha detto Pitt e che sono scritte in questo survey, tutto sommato le sapevamo.
+
+3
+00:00:11,340 --> 00:00:22,900
+Che bisogno c'era che ci ricordasse l'economist? Non so se ce ne fosse bisogno, Presidente,
+
+4
+00:00:22,900 --> 00:00:32,160
+ma credo che sia utile. Conosco John Pitt dai nostri comuni anni a Bruxelles e ho sperimentato
+
+5
+00:00:32,160 --> 00:00:38,940
+anch'io come Commissario europeo le intense sensazioni agrodolci che si provano quando
+
+6
+00:00:38,940 --> 00:00:45,500
+si viene criticati o apprezzati dall'economist. A me è capitato di esserlo proprio anche per
+
+7
+00:00:45,500 --> 00:00:52,680
+la sua penna. È un destino che tocca ai singoli, alle istituzioni e ai paesi. Non
+
+8
+00:00:52,680 --> 00:01:01,180
+va mitizzato quello che l'economist dice, né demonizzato, ma va utilizzato dal lettore
+
+9
+00:01:01,180 --> 00:01:08,540
+per formarsi una propria opinione, dai responsabili politici o responsabili d'impresa per riflettere
+
+10
+00:01:08,540 --> 00:01:15,580
+sulle proprie strategie e decisioni senza complessi. Non è, a mio parere, l'economist
+
+11
+00:01:15,580 --> 00:01:22,900
+un giornale come il Wall Street Journal che impugna una bandiera nazionale, quella americana,
+
+12
+00:01:24,060 --> 00:01:30,760
+e un'ideologia coerente ma chiusa del mercato con lo stato in visione minimalistica di puro
+
+13
+00:01:30,760 --> 00:01:37,500
+law and order. Non è britannica la bandiera dell'economist, non ha una bandiera nazionale,
+
+14
+00:01:37,500 --> 00:01:46,180
+un'ideologia o meglio una visione, una visione tutt'altro che assetica o neutrale. È una
+
+15
+00:01:46,180 --> 00:01:54,100
+visione che si ispira proprio alla concorrenza, ma ha una forma particolare, elementare, la
+
+16
+00:01:54,100 --> 00:01:59,960
+più importante di concorrenza. L'economist ci viene ricordato in caratteri
+
+17
+00:01:59,960 --> 00:02:10,620
+piccolissimi ogni settimana. È nato 162 anni fa, nel settembre 1843, per prendere parte
+
+18
+00:02:10,620 --> 00:02:20,760
+a – cito – a severe contest between intelligence which presses forward and an un worthy, timid
+
+19
+00:02:20,760 --> 00:02:27,800
+ignorance obstructing our progress. Quindi l'economist e l'Italia appartengono alla
+
+20
+00:02:27,800 --> 00:02:35,340
+stessa generazione. L'economist aveva 18 anni nel 1861 quando nasce l'Italia come
+
+21
+00:02:35,340 --> 00:02:43,220
+stato unitario. I fratelli maggiori, si sa, sono a volte un po' antipatici, ma l'economist
+
+22
+00:02:43,220 --> 00:02:49,740
+non ha molto rispetto neanche verso il proprio padre, il Regno Unito, per non parlare dell'atteggiamento
+
+23
+00:02:49,740 --> 00:02:55,100
+che ha verso l'azia, la Francia, molto più antica dell'Italia.
+
+24
+00:02:56,980 --> 00:03:01,400
+Ed è utile, Presidente, per venire alla sua domanda, leggere con attenzione quello
+
+25
+00:03:01,400 --> 00:03:07,640
+che l'economist in particolare in questa survey scrive, anche perché in questa fase
+
+26
+00:03:07,640 --> 00:03:14,200
+di un certo appannamento dei vincoli esterni istituzionali succede, come scriveva Dario
+
+27
+00:03:14,200 --> 00:03:20,320
+di Vico questa mattina, che nella crisi di Bruxelles, aggiungo, speriamo, temporanea,
+
+28
+00:03:20,820 --> 00:03:26,960
+l'economist è diventato il nostro nuovo vincolo esterno. In effetti i vincoli esterni sono
+
+29
+00:03:26,960 --> 00:03:33,120
+le rating agencies, il mercato, gli organismi internazionali e chi determina la loro opinione.
+
+30
+00:03:34,700 --> 00:03:40,780
+Credo che ciò che l'economist ha scritto vada analizzato senza atteggiamenti preconcetti
+
+31
+00:03:40,780 --> 00:03:45,800
+men che meno, come qualche volta è accaduto, nell'Italia dell'ultimo anno nei confronti
+
+32
+00:03:45,800 --> 00:03:53,240
+di prese di posizione straniere con una mentalità quasi da complotto demo e pluto giudaico.
+
+33
+00:03:54,480 --> 00:04:00,140
+Io sono d'accordo con la tesi centrale che John Peat ci ha appena esposto, cioè che
+
+34
+00:04:00,140 --> 00:04:06,840
+il problema dell'economia italiana è un problema ancora di eccessiva protezione degli insiders
+
+35
+00:04:06,840 --> 00:04:12,480
+nei diversi mercati, nelle diverse categorie, nelle diverse protezioni, nelle diverse professioni
+
+36
+00:04:13,780 --> 00:04:20,280
+e di difficoltà di accesso degli outsider, che sono in genere i portatori di maggiore
+
+37
+00:04:20,280 --> 00:04:27,060
+produttività, di nuove idee e di maggiore vitalità. Sono d'accordo su questa tesi così
+
+38
+00:04:27,060 --> 00:04:34,200
+come sono d'accordo, tornerò fra un attimo, sulla tesi circa la difficoltà del meccanismo
+
+39
+00:04:34,200 --> 00:04:41,900
+delle decisioni in mancanza di una crisi visibile. Vorrei fare qualche commento su punti più
+
+40
+00:04:41,900 --> 00:04:48,740
+specifici. Forse non sono d'accordo sulla presentazione dei conti pubblici italiani come
+
+41
+00:04:48,740 --> 00:04:58,540
+una cosa altamente drammatica. Sicuramente presentano aspetti di problematicità e sarebbe
+
+42
+00:04:59,540 --> 00:05:05,300
+pericoloso pensare che il problema della finanza pubblica italiana sia risolto, anche perché
+
+43
+00:05:05,300 --> 00:05:13,840
+ci portiamo dietro un'eredità di stock di debito ingente. Però a mio parere, se guardiamo
+
+44
+00:05:13,840 --> 00:05:21,100
+la situazione di oggi rispetto a quella di 10-15 anni fa, in Europa chi è diventato
+
+45
+00:05:21,100 --> 00:05:27,460
+più preoccupante in termini relativi per i conti pubblici è chi in passato esortava
+
+46
+00:05:27,460 --> 00:05:32,760
+gli altri ad essere disciplinati sui conti pubblici, per esempio la Germania e poi la
+
+47
+00:05:32,760 --> 00:05:37,880
+Francia. In fondo, in termini relativi, il peggioramento in particolare della Germania
+
+48
+00:05:37,880 --> 00:05:45,480
+è la notizia degli ultimi 5-10 anni in Europa. La notizia positiva è il relativo miglioramento
+
+49
+00:05:45,480 --> 00:05:53,340
+dei conti pubblici italiani pur restando in situazione di guardia, di vigilanza e preoccupante.
+
+50
+00:05:54,060 --> 00:06:01,440
+Anche perché, dalle decisioni della Germania di questi giorni, l'accordo programmatico nella
+
+51
+00:06:01,440 --> 00:06:09,560
+Grande Coalizione si può dedurre che la Germania tornerà ad una maggiore attenzione a essa
+
+52
+00:06:09,560 --> 00:06:16,200
+stessa e quindi presumibilmente anche nei suoi atteggiamenti a Bruxelles circa la disciplina
+
+53
+00:06:16,200 --> 00:06:21,340
+del bilancio pubblico e questo avrà ripercussioni anche sul tono che gli altri dovranno darsi.
+
+54
+00:06:22,360 --> 00:06:29,960
+Trovo interessante e vorrei sottolineare un altro punto specifico dell'indagine dell'Economist,
+
+55
+00:06:31,240 --> 00:06:40,980
+quello contenuto nel paragrafo nella sezione Search for scapegoats. Ecco, credo anch'io
+
+56
+00:06:40,980 --> 00:06:53,860
+che in Italia la ricerca sistematica delle responsabilità altrui sia già un'abitudine
+
+57
+00:06:53,860 --> 00:07:01,020
+anche più diffusa che all'estero e quindi sia particolarmente pericoloso da sedi ufficiali
+
+58
+00:07:01,020 --> 00:07:08,260
+italiane incoraggiare di fatto, come qualche volta si fa, questa diseducazione al senso
+
+59
+00:07:08,260 --> 00:07:16,280
+di responsabilità. Credo che sia giusto vedere tutti i profili critici problematici delle politiche
+
+60
+00:07:16,280 --> 00:07:24,860
+europee, non solo l'Italia ha problemi, vedere le sfide imponenti che la Cina pone, ma il Paese che
+
+61
+00:07:24,860 --> 00:07:31,040
+in termini relativi, come propria performance economica negli ultimi anni in Europa è stato
+
+62
+00:07:31,040 --> 00:07:36,820
+quello meno brillante, quello più preoccupante e i dati dell'Economist sono convincenti e obiettivi,
+
+63
+00:07:37,700 --> 00:07:43,500
+dovrebbe io credo concentrare l'attenzione sulla spiegazione dei propri differenziali in negativo,
+
+64
+00:07:44,080 --> 00:07:49,940
+più che sulla globalizzante autoassoluzione con l'individuazione di responsabilità altrove,
+
+65
+00:07:50,240 --> 00:07:55,200
+anche perché questo è francamente diseducativo. Già siamo un Paese in cui le stesse imprese sono
+
+66
+00:07:55,200 --> 00:08:02,520
+più pronte nel criticare le politiche pubbliche che nel fare l'esame di coscienza, le stesse
+
+67
+00:08:02,520 --> 00:08:09,980
+università, nessuna categoria esente, le stesse università sono molto più pronte nell'accusare gli
+
+68
+00:08:09,980 --> 00:08:15,820
+inciampi che vengono dal sistema universitario nazionale, più pronte che non nel cercare con
+
+69
+00:08:15,820 --> 00:08:27,320
+i propri sistemi di governance micro istituzionale di fare progressi. Si chiede l'Economist nelle
+
+70
+00:08:27,320 --> 00:08:38,040
+parti finali della rassegna qual è il meccanismo per le decisioni che possa che possa portare il
+
+71
+00:08:38,040 --> 00:08:45,160
+sistema politico italiano a prendere quelle decisioni pesanti che sono necessarie per le
+
+72
+00:08:45,160 --> 00:08:51,960
+riforme strutturali e credo anch'io che la difficoltà nasca dal fatto che siamo in una
+
+73
+00:08:51,960 --> 00:09:02,420
+fase in cui il vincolo esterno è tutto sommato meno premente, meno preciso, meno dotato di scadenze,
+
+74
+00:09:02,560 --> 00:09:10,620
+di indicatori e di sanzioni di quanto fosse nella fase della rincorsa all'euro e proprio l'avvento
+
+75
+00:09:10,620 --> 00:09:16,600
+dell'euro che ha portato condivido benefici all'economia italiana al di là di qualche
+
+76
+00:09:17,100 --> 00:09:24,240
+problema, ha però appannato i precedenti ben visibili indicatori di emergenza che erano il
+
+77
+00:09:24,240 --> 00:09:33,080
+cambio della lira, i tassi di interesse molto alti, per cui oggi è più difficile creare un clima di
+
+78
+00:09:33,860 --> 00:09:40,920
+drammaticità intorno al pur gravissimo slittamento quotidiano della competitività dell'Italia di
+
+79
+00:09:40,920 --> 00:09:47,680
+non fosse a Giuliano Amato o a Romano Prodi di concentrare l'attenzione dell'opinione pubblica
+
+80
+00:09:47,680 --> 00:09:56,320
+sulla necessità di fare politiche di risanamento finanziario per pervenire all'euro e quindi credo
+
+81
+00:09:58,500 --> 00:10:04,080
+che il nuovo risanamento, che non è più tanto quello dei conti pubblici quanto quello delle
+
+82
+00:10:04,080 --> 00:10:10,360
+riforme strutturali, debba dipendere molto più che in passato dalle convinzioni proprie della
+
+83
+00:10:10,360 --> 00:10:17,260
+classe dirigente italiane e quindi il tema della cultura, della cultura dell'impresa, quei temi che
+
+84
+00:10:17,260 --> 00:10:22,940
+ho trovato devo dire splendidamente trattati da Ferruccio de Bortoli domenica, diventano spinna
+
+85
+00:10:22,940 --> 00:10:31,940
+dorsale della politica economica nei prossimi tempi. E qui faccio la mia ultima osservazione,
+
+86
+00:10:32,480 --> 00:10:39,980
+io comprendo e rispetto le difficoltà che i protagonisti della vita politica italiana hanno
+
+87
+00:10:39,980 --> 00:10:49,320
+soprattutto in questo momento, ma credo che sia proprio essenziale per tutti noi che chi vincerà
+
+88
+00:10:49,320 --> 00:10:56,740
+le elezioni nella primavera prossima riesca a governare nel senso in particolare delle
+
+89
+00:10:56,740 --> 00:11:05,680
+riforme strutturali al primo colpo senza quella ipotesi di ricaduta di cui tanto si parla nelle
+
+90
+00:11:05,680 --> 00:11:13,740
+conversazioni italiane nel senso di dire chiunque vinca non funzionerà bene dopo un anno, un anno e
+
+91
+00:11:13,740 --> 00:11:20,440
+mezzo, due anni si troverà qualche altra soluzione. No, io ero convinto prima di leggere l'Economist,
+
+92
+00:11:20,520 --> 00:11:26,110
+lo sono ancora di più avendolo letto, che l'Italia non ha un anno, un anno e mezzo, due anni a
+
+93
+00:11:26,110 --> 00:11:35,950
+disposizione per sperimentazioni e per tentativi. E oggi c'è molta domanda di conoscenza dei
+
+94
+00:11:36,870 --> 00:11:42,590
+programmi delle due coalizioni, io capisco il dilemma che ciascuna delle due probabilmente trova
+
+95
+00:11:42,590 --> 00:11:50,330
+di fronte a sé, se danno programmi troppo in dettaglio e se sono programmi che vanno nella
+
+96
+00:11:50,330 --> 00:11:58,050
+direzione giusta e che sono quindi programmi di rimozioni di privilegi di categoria probabilmente
+
+97
+00:11:58,050 --> 00:12:05,130
+riducono la probabilità della propria affermazione elettorale. D'altra parte se per caso vincono su
+
+98
+00:12:05,130 --> 00:12:11,730
+programmi espliciti di ridimensionamento dei privilegi di tutti avrebbero un fortissimo
+
+99
+00:12:11,730 --> 00:12:18,890
+mandato popolare per fare davvero le cose dette, ma soprattutto mi sembra essenziale che all'interno
+
+100
+00:12:18,890 --> 00:12:25,650
+di ciascuna delle due coalizioni ci sia un molto forte accordo di programma, abbiamo visto come è
+
+101
+00:12:25,650 --> 00:12:32,970
+stato difficile in Germania trovarne uno tra forze storicamente contrapposte, è auspicabile che in
+
+102
+00:12:32,970 --> 00:12:40,030
+Italia tra forze meno contrapposte anche se molto eterogenea all'interno delle due coalizioni sia
+
+103
+00:12:40,030 --> 00:12:49,190
+possibile avere qualche cosa di solido e di blindato e qui devo dire l'economist fa riferimento
+
+104
+00:12:49,870 --> 00:12:59,550
+a Romano Prodi dal punto di vista di quanto lui senta il mercato e la concorrenza, mi permetto di
+
+105
+00:12:59,550 --> 00:13:04,690
+dare una testimonianza che non coincide pienamente con la valutazione dell'economist, io ho avuto
+
+106
+00:13:06,050 --> 00:13:13,370
+sperimentare quotidianamente l'atteggiamento di Prodi sulla concorrenza perché mi trovavo a gestire
+
+107
+00:13:13,370 --> 00:13:20,530
+in prima persona la concorrenza in una commissione che lui presiedeva e di scontri con governi,
+
+108
+00:13:21,950 --> 00:13:30,610
+con lobby, con imprese per applicare le regole della concorrenza ne avevamo quotidianamente e
+
+109
+00:13:30,610 --> 00:13:37,150
+devo dire se io dovevo vedermela con le imprese con le organizzazioni di categoria con i ministri
+
+110
+00:13:37,650 --> 00:13:44,190
+lui spesso doveva vedersela con i rispettivi capi di governo o capi di stato e devo dare
+
+111
+00:13:44,190 --> 00:13:53,450
+testimonianza del fatto che l'appoggio avuto per politiche di vigorosa tutela della concorrenza
+
+112
+00:13:53,450 --> 00:14:03,350
+è stato senza eccezioni il che non significa non avere dubbi cioè ne ho anch'io sulla possibilità
+
+113
+00:14:03,350 --> 00:14:12,970
+che pur essendo molto portato a vedere le ragioni della concorrenza in una coalizione in cui altre
+
+114
+00:14:12,970 --> 00:14:18,650
+forze potrebbero perseguire un disegno ideologicamente rispettabile ma molto diverso
+
+115
+00:14:18,650 --> 00:14:29,570
+non ci possano essere difficoltà di applicazione in definitiva l'ideale sarebbe avere quello che
+
+116
+00:14:30,290 --> 00:14:36,910
+il paese di John pita ha avuto e che credo sia storicamente ideale un governo di centrodestra
+
+117
+00:14:36,910 --> 00:14:43,110
+che fa abbastanza brutali riforme strutturali introducendo più mercato come ha fatto la signora
+
+118
+00:14:43,450 --> 00:14:50,750
+e poi un governo di centrosinistra che mantiene una continuità di fondo su quella linea e però
+
+119
+00:14:50,750 --> 00:14:58,130
+tempera introducendo qualche elemento più sociale in una robusta economia di mercato credo che l'italia
+
+120
+00:14:58,130 --> 00:15:06,470
+debba cominciare perché credo che malgrado i progressi fatti altre maggiori flessibilizzazioni
+
+121
+00:15:06,470 --> 00:15:13,930
+nel mercato del lavoro si renderanno necessarie ma come potrà domandarsi da parte di chi
+
+122
+00:15:13,930 --> 00:15:20,310
+governerà una maggiore flessibilità ulteriore nel mercato del lavoro che ne ha bisogno se
+
+123
+00:15:20,310 --> 00:15:26,850
+altri settori potranno continuare nella conservazione rigida dei loro privilegi e il tema dei servizi
+
+124
+00:15:26,850 --> 00:15:35,370
+è un tema secondo me rilevante non solo sul piano italiano ma anche sul piano europeo e
+
+125
+00:15:35,370 --> 00:15:42,410
+restano segnali interessanti ma contradditori le posizioni assunte dalle diverse forze politiche
+
+126
+00:15:42,410 --> 00:15:48,490
+italiane nel parlamento europeo di strasburgo in materia della direttiva sui servizi infine
+
+127
+00:15:49,490 --> 00:15:55,870
+l'ultima domanda poneva un problema interessante di teoria e prassi della concorrenza dice ma per
+
+128
+00:15:55,870 --> 00:16:00,970
+competere sul piano europeo bisogna competere un po meno sul piano interno credo che la logica sia
+
+129
+00:16:00,970 --> 00:16:06,630
+quella dotiamoci di campioni nazionali così si compete meglio sul piano europeo e poi dotiamoci
+
+130
+00:16:06,630 --> 00:16:13,110
+di campioni europei così si compete meglio sul piano mondiale per fortuna le regole vigenti in
+
+131
+00:16:13,110 --> 00:16:20,490
+italia e in europa sulla concorrenza non impediscono certo la formazione di grandi e grandissimi
+
+132
+00:16:21,130 --> 00:16:29,570
+gruppi e l'europa in questi anni ha visto nascere non in violazione ma in coerenza con le regole
+
+133
+00:16:29,570 --> 00:16:36,630
+della concorrenza grandi campioni qualche volta confusioni all'interno di uno stesso paese e
+
+134
+00:16:36,630 --> 00:16:43,450
+sempre più spesso per fortuna grandi campioni europei però guardi che c'è un postulato di fondo
+
+135
+00:16:43,450 --> 00:16:53,450
+che è verificato in moltissime esperienze in genere avere una base domestica nel mercato
+
+136
+00:16:53,450 --> 00:17:01,010
+nazionale o sul piano europeo nel mercato europeo altamente competitiva fa fare ginnastica alle
+
+137
+00:17:01,010 --> 00:17:09,670
+imprese per potersi affermare nella competizione sulla scala superiore del resto se lei prende
+
+138
+00:17:09,670 --> 00:17:19,410
+un caso come l'olanda ci sono grandi grandissime imprese soprattutto nel campo dei servizi a base
+
+139
+00:17:19,410 --> 00:17:25,990
+olandese che sono diventate fortemente competitive sul piano europeo e mondiale anche per la vivace
+
+140
+00:17:25,990 --> 00:17:34,350
+concorrenza all'interno così anche certi paesi della scandinavia quindi è possibile avere molta
+
+141
+00:17:34,350 --> 00:17:42,010
+concorrenza in casa e tradurre questo in un rafforzamento della propria posizione competitiva
+
+142
+00:17:42,010 --> 00:17:49,970
+sul piano del gradino superiore mentre in genere protezioni in casa non danno i muscoli non danno
+
+143
+00:17:49,970 --> 00:17:55,190
+la sensibilità e non danno la voglia per affermarsi nella competizione sul gradino più alto
+
+144
+00:17:58,790 --> 00:18:00,990
+grazie prof. Monti dottor Tranchetti
+
+145
+00:18:06,090 --> 00:18:14,030
+grazie io partirei dalla competitività dove concordo pienamente con le cose che ha detto prof. Monti
+
+146
+00:18:14,030 --> 00:18:21,010
+vorrei sottolineare alcuni aspetti che sono secondo me altrettanto prioritari e sono quelli
+
+147
+00:18:22,070 --> 00:18:30,890
+relativi al cuneo fiscale che rende diciamo il sistema delle imprese italiane non competitivo
+
+148
+00:18:30,890 --> 00:18:38,170
+al di là delle deficienze che possono esserci per responsabilità dei singoli imprenditori ma noi
+
+149
+00:18:38,170 --> 00:18:45,940
+abbiamo un differenziale con gli altri paesi che davvero non dipende dalla nostra capacità di
+
+150
+00:18:45,940 --> 00:18:53,140
+c'è stato un primo timido segnale nella finanziaria che ha toccato un punto di questo cuneo fiscale
+
+151
+00:18:53,140 --> 00:19:00,000
+con altri aggravi altrove però questo è un tema tipico e unicamente italiano
+
