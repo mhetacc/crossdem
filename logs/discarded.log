@@ -642,3 +642,6 @@ https://www.radioradicale.it/scheda/108355/la-nuova-lista-prodi-di-pietro-centoc
 https://www.radioradicale.it/scheda/105517/crisi-di-governo-probabile-oggi-il-preincarico-a-massimo-dalema?i=1912835  RuntimeError: yt-dlp exited 1
 https://www.radioradicale.it/scheda/103920/la-situazione-del-partito-popolare-e-le-possibili-riforme-interne-che-dovrebbero?i=1932613  ValueError: No timestamps
 https://www.radioradicale.it/scheda/91830/passaggio-a-nord-est-lunione-europea-fra-geometrie-variabili-e-cerchi-concentrici-e?i=2096195  ValueError: No timestamps
+https://www.radioradicale.it/scheda/127761/e-business-award-ibm-premiazioni-dei-vincitori-del-1999-per-le-migliori-idee?i=1666725  ValueError: No timestamps
+https://www.radioradicale.it/scheda/301789/pd-presentazione-delle-proposte-per-luniversita?i=617856  ValueError: No timestamps
+https://www.radioradicale.it/scheda/274198/partito-democratico-presentazione-della-mozione-sulla-proposta-dellassegno-mensile-a?i=707224  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/letta/audio_out/_out_274198_letta.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/letta/audio_out/274198_letta.mp3'
