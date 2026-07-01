@@ -623,3 +623,11 @@ https://www.radioradicale.it/scheda/95459/quale-europa-dibattito-organizzato-nel
 https://www.radioradicale.it/scheda/92953/consiglio-nazionale-del-ppi?i=2089661  ValueError: No timestamps
 https://www.radioradicale.it/scheda/92543/la-quercia-e-lulivo-org-co-la-sala-conferenze-della-cassa-di-risparmio-via-castiglione?i=2095044  ValueError: No timestamps
 https://www.radioradicale.it/scheda/90768/uno-stato-al-bivio-le-riforme-istituzionali-patto-tra-cittadini-o-alleanza-tra-partiti?i=2105873  ValueError: No timestamps
+https://www.radioradicale.it/scheda/162250/catallassi-trasmissione-di-approfondimento-in-chiave-liberista-delleconomia-italiana?i=1339793  ValueError: No timestamps
+https://www.radioradicale.it/scheda/162536/rond-point-schuman-trasmissione-realizzata-da-radio-radicale-in-collaborazione-con?i=1334678  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/letta/audio_out/_out_162536_letta.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/letta/audio_out/162536_letta.mp3'
+https://www.radioradicale.it/scheda/157187/votiamo-leuropa-confronto-tra-i-candidati-per-le-elezioni-europee-del-12-e-13-giugno?i=1388100  ValueError: No timestamps
+https://www.radioradicale.it/scheda/155712/omnibus-contenitore-mattutino-di-la7-sara-il-terrorismo-a-determinare-in-italia-lesito?i=1403514  ValueError: No timestamps
+https://www.radioradicale.it/scheda/264038/maurizio-costanzo-show?i=1000530  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/letta/audio_out/_out_264038_letta.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/letta/audio_out/264038_letta.mp3'
+https://www.radioradicale.it/scheda/113933/questioni-di-bioetica-argomento-i-diritti-dei-consumatori?i=1825370  ValueError: No timestamps
+https://www.radioradicale.it/scheda/89631/scenari-di-politica-e-diritto-internazionale-trasmissione-a-cura-di-marco-ventura-arg?i=2123842  ValueError: No timestamps
+https://www.radioradicale.it/scheda/87852/scenari-di-politica-e-diritto-internazionale-trasmissione-a-cura-di-marco-ventura-arg?i=2146365  ValueError: No timestamps
