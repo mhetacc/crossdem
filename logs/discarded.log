@@ -610,3 +610,7 @@ https://www.radioradicale.it/scheda/121106/assemblea-annuale-della-confcommercio
 https://www.radioradicale.it/scheda/130824/migliorare-la-competitivita-delle-pmi-nelleconomia-globale-stategia-e-politica-vertice?i=1637960  RuntimeError: yt-dlp exited 1
 https://www.radioradicale.it/scheda/130859/da-utopia-a-realta-le-esperienze-della-societa-di-ingegneria-organizzato-dalloice?i=1637590  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/letta/audio_out/_out_130859_letta.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/letta/audio_out/130859_letta.mp3'
 https://www.radioradicale.it/scheda/129623/assemblea-annuale-della-confindustria-co-auditorium-dellatecnica-viale-tupini-65?i=1649143  ValueError: No timestamps
+https://www.radioradicale.it/scheda/129275/europa-italia-le-sfide-della-nuova-economia-regole-mercati-e-competitivita-organizzato?i=1652255  ValueError: No timestamps
+https://www.radioradicale.it/scheda/129306/respirando-salvaguardare-lambiente-con-scienza-e-coscienza-le-proposte-dei-popolari?i=1652172  ValueError: No timestamps
+https://www.radioradicale.it/scheda/127479/fare-impresa-nellanno-2000-organizzato-in-occasione-dei-25-anni-del-confidi-ancona?i=1668607  ValueError: No timestamps
+https://www.radioradicale.it/scheda/115436/i-giovani-e-il-futuro-dellitalia-la-sfida-di-una-frattura-la-risorsa-su-cui?i=1808678  ValueError: No timestamps
