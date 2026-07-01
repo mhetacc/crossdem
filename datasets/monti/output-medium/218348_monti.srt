@@ -1,0 +1,496 @@
+1
+00:00:19,740 --> 00:00:28,120
+Anche a nome del Rettore Professor Provasoli e di tutta la comunità dell'Università Bocconi
+
+2
+00:00:28,940 --> 00:00:36,040
+Desidero dire quanto siamo onorati e lieti di accogliere in questa la mania gremita e c'è
+
+3
+00:00:36,040 --> 00:00:45,640
+anche una ampia aula collegata questa iniziativa. Questa iniziativa promossa per impulso della
+
+4
+00:00:45,640 --> 00:00:53,620
+Fondazione Ugo La Malfa e di Giorgio La Malfa e del Presidente Paolo Savona della Fondazione e
+
+5
+00:00:53,620 --> 00:01:01,180
+collaborazione con la Bocconi e con il sole 24 ore desidero salutare il direttore Ferruccio
+
+6
+00:01:01,180 --> 00:01:12,540
+De Bortoli per favore. L'iniziativa che come sapete ha il semplice e impegnativo titolo
+
+7
+00:01:12,540 --> 00:01:20,060
+I Ministri del Tesoro raccontano 50 anni di politica economica in Italia ha il patrocinio
+
+8
+00:01:20,060 --> 00:01:29,340
+della regione Lombardia della provincia di Milano e del comune di Milano. Il sindaco Letizia Moratti
+
+9
+00:01:30,380 --> 00:01:40,240
+che si scusa di non poter essere presente desidera far pervenire ai presenti queste parole. Sono
+
+10
+00:01:40,240 --> 00:01:47,160
+felice e onorata di inviare il saluto della città di Milano all'apertura degli incontri che vedono
+
+11
+00:01:47,160 --> 00:01:55,020
+protagonisti i Ministri del Tesoro dell'ultimo mezzo secolo di storia del nostro Paese. Ringrazio
+
+12
+00:01:55,020 --> 00:02:10,840
+i promotori e le personalità che hanno accolto l'invito dell'Università Bocconi a portare la
+
+13
+00:02:11,660 --> 00:02:18,180
+loro esperienza personale e professionale, una storia in cui si riflettono i cambiamenti della
+
+14
+00:02:18,180 --> 00:02:24,380
+società così come i sacrifici e le emozioni degli italiani che hanno reso possibile lo
+
+15
+00:02:24,380 --> 00:02:31,580
+sviluppo del nostro Paese. Milano, capitale economica nazionale, è protagonista di questa
+
+16
+00:02:31,580 --> 00:02:39,360
+crescita e l'università in cui vi trovate è simbolo della tradizione cittadina nell'innovazione.
+
+17
+00:02:40,080 --> 00:02:45,980
+Per la prima volta, con la fondazione di questo ateneo, temi come l'economia, la finanza,
+
+18
+00:02:46,040 --> 00:02:54,260
+l'impresa venivano intesi non solo come strumento di benessere ma anche come linguaggio ed espressione
+
+19
+00:02:54,260 --> 00:03:02,300
+di una cultura moderna. Il soddisfacimento dei bisogni, le relazioni tra soggetti economici,
+
+20
+00:03:02,720 --> 00:03:08,760
+l'analisi dei sistemi sociali hanno consolidato la necessità di accogliere l'economia come una
+
+21
+00:03:08,760 --> 00:03:15,900
+scienza del contemporaneo, una scienza entrata di diritto nella vita di tutti noi proprio
+
+22
+00:03:15,900 --> 00:03:22,700
+perché l'uomo ne è al centro insieme alle sue aspirazioni, ai suoi sogni. La nostra città è la
+
+23
+00:03:22,700 --> 00:03:29,380
+più europea d'Italia. Da Bocconi, dove molti dei relatori di oggi sono stati studenti e ora sono
+
+24
+00:03:29,380 --> 00:03:36,020
+docenti, è stata fucina di illustri economisti che hanno portato nella politica il vento della
+
+25
+00:03:36,020 --> 00:03:43,620
+europeista. Oggi questi pionieri di una nuova economia e di una nuova politica vi raccontano
+
+26
+00:03:43,620 --> 00:03:52,820
+dal vivo una storia avvincente, 50 anni di politica economica in Italia. Questa conferenza è una
+
+27
+00:03:52,820 --> 00:04:00,840
+pagina di vita, un'occasione forse unica che non dimenticherete e che farà parte del vostro bagaglio
+
+28
+00:04:00,840 --> 00:04:08,460
+culturale e del vostro curriculum professionale, come un master prestigioso riservato a pochi.
+
+29
+00:04:09,000 --> 00:04:16,440
+Questo privilegio richiede però da parte di tutti noi un forte impegno, quello di essere aperti al
+
+30
+00:04:16,440 --> 00:04:24,200
+nuovo, pronti al confronto internazionale, capaci di stimolare chi ha responsabilità pubbliche,
+
+31
+00:04:24,200 --> 00:04:31,460
+affinché la politica diventi sempre più vicina ai cittadini, più attenta alle esigenze sociali,
+
+32
+00:04:32,080 --> 00:04:40,540
+più disposta a investire nelle potenzialità delle nuove generazioni. Letizia Moratti. Per
+
+33
+00:04:40,540 --> 00:04:54,180
+la provincia di Milano, impossibilitato il Presidente Penati, è presente, e lo prego di
+
+34
+00:04:54,180 --> 00:04:59,930
+piccolo trambusto, eravamo forse preparati a contestazioni di altro tipo, ma non a quella
+
+35
+00:05:00,340 --> 00:05:12,660
+dei tecnici, dei microfoni e delle radio. Prego Presidente. Guardo, guardiamo con enorme interesse
+
+36
+00:05:12,660 --> 00:05:28,280
+all'esito di questo seminario augurando buon lavoro. Grazie. Ringrazio il Vice Presidente della
+
+37
+00:05:28,280 --> 00:05:36,440
+provincia. Il Presidente della Regione Lombardia, onorevole Formigoni, interverrà ma con ritardo
+
+38
+00:05:36,440 --> 00:05:48,020
+perché è impegnato in un dialogo pubblico col Ministro Turco. La prima puntata di questo ciclo,
+
+39
+00:05:48,020 --> 00:05:54,680
+che avrà inizio fra poco, sarà presiduta dal Professor Paolo Savona, Presidente della
+
+40
+00:05:54,680 --> 00:06:05,540
+Fondazione Ugo La Malfa, e vedrà due personalità di grande prestigio che occupano posti importanti
+
+41
+00:06:05,540 --> 00:06:11,640
+nella storia politica ed economico-finanziaria italiana, come il Presidente Emilio Colombo
+
+42
+00:06:11,640 --> 00:06:20,860
+e il Ministro Filippo Maria Pandolfi. Dopo i loro interventi ci sarà un dibattito moderato
+
+43
+00:06:20,860 --> 00:06:27,480
+dal Vice Direttore del Corriere della Sera, Dario Divico. Io dico solo qualche parola
+
+44
+00:06:27,480 --> 00:06:37,940
+introduttiva a questo ciclo che credo sia senza precedenti. Interverranno in ordine
+
+45
+00:06:37,940 --> 00:06:44,460
+grosso modo cronologico, con qualche piccola eccezione per motivi pratici e organizzativi,
+
+46
+00:06:44,820 --> 00:06:52,140
+tutti coloro che hanno occupato la posizione di Ministro del Tesoro e che sono in vita.
+
+47
+00:06:52,860 --> 00:07:01,360
+A partire dall'onorevole Giulio Andreotti, Ministro del Tesoro, dal luglio 1958 al febbraio
+
+48
+00:07:01,360 --> 00:07:11,960
+del 1959. In questi giorni, in queste settimane si celebra il 50° Anniversario del Trattato
+
+49
+00:07:11,960 --> 00:07:21,220
+di Roma. Ecco, nel nostro caso non è una celebrazione, ma è una esplorazione aritroso
+
+50
+00:07:21,220 --> 00:07:28,320
+grazie ai protagonisti della politica economica e finanziaria condotta così aritroso da sfiorare
+
+51
+00:07:28,320 --> 00:07:37,640
+quella data del Trattato di Roma. Questo ci dice quanto profonde risulteranno le trasformazioni
+
+52
+00:07:37,640 --> 00:07:45,520
+che i protagonisti vorranno mettere in luce. Sono state trasformazioni che hanno riguardato
+
+53
+00:07:45,520 --> 00:07:57,160
+poco tutto il soggetto, il Ministero del Tesoro. Oggi il Ministro Padova-Schioppa, che svolgerà
+
+54
+00:07:57,160 --> 00:08:02,320
+la sua prolusione all'intero ciclo, non è Ministro del Tesoro, è Ministro dell'Economia
+
+55
+00:08:02,320 --> 00:08:13,040
+e delle Finanze. Oltre che illustre Bocconiano come non dimentichiamo mai e come ha particolarmente
+
+56
+00:08:13,040 --> 00:08:19,680
+dimostrato in quest'Aula un anno e mezzo fa con una memorabile prolusione all'anno
+
+57
+00:08:19,680 --> 00:08:27,680
+accademico. È cambiato il contesto complessivo della finanza pubblica, a cominciare dalla
+
+58
+00:08:27,680 --> 00:08:35,720
+attenzione dedicata ai saldi di finanza pubblica, in passato molto lontani dall'osservazione
+
+59
+00:08:35,720 --> 00:08:44,560
+dell'opinione pubblica, persino dall'osservazione degli esperti. Ricordiamo lo stupore con cui
+
+60
+00:08:44,560 --> 00:08:55,220
+venne accolto nel 1978 il documento Pandolfi, che fu la prima base organica di programmazione
+
+61
+00:08:55,220 --> 00:09:02,160
+pluriennale della finanza pubblica. Dopo si dovrebbe però ricordare la nota aggiuntiva
+
+62
+00:09:02,160 --> 00:09:11,660
+di Ugo La Malfa di diversi anni prima. È cambiato il rapporto tra l'Italia e il resto
+
+63
+00:09:11,660 --> 00:09:18,020
+del mondo, sia a livello globale. Proprio durante il periodo del Ministro del Tesoro
+
+64
+00:09:18,020 --> 00:09:24,860
+Colombo saltò il sistema dei cambi fissi di Bretton Woods nel 1971 e si assistette a
+
+65
+00:09:24,860 --> 00:09:34,720
+tentativi di rimessa in sesto di un sistema però ormai cambiato piuttosto radicalmente
+
+66
+00:09:34,720 --> 00:09:43,200
+rispetto al dopoguerra. È cambiato il rapporto tra l'Italia e l'Europa, non solo perché
+
+67
+00:09:43,200 --> 00:09:51,960
+all'inizio 1958 l'onorevole Andreotti prese il Ministero del Tesoro a sette mesi dalla
+
+68
+00:09:51,960 --> 00:09:58,500
+data di nascita della comunità economica europea, ma perché per quanto riguarda il
+
+69
+00:09:58,500 --> 00:10:05,560
+campo specifico di attività dei nostri Ministri del Tesoro quasi tutto è cambiato, con la
+
+70
+00:10:05,560 --> 00:10:14,080
+liberalizzazione dei movimenti di capitali, con l'appartenenza della moneta al sistema
+
+71
+00:10:14,080 --> 00:10:23,300
+di cambio fisso prima e poi all'Euro successivamente, con tutti i vincoli ma anche le opportunità
+
+72
+00:10:23,300 --> 00:10:30,360
+che questa trasformazione storica ha comportato e di cui coloro che si succederanno sono stati
+
+73
+00:10:30,360 --> 00:10:38,580
+protagonisti e autori per la parte italiana ma spesso anche sul piano internazionale come
+
+74
+00:10:38,580 --> 00:10:46,160
+Presidenti di turno del Consiglio dei Ministri Finanziari Ecofin come Presidente nel caso
+
+75
+00:10:46,160 --> 00:10:52,920
+dell'onorevole Emilio Colombo del Parlamento Europeo e quindi con anche un ruolo importante
+
+76
+00:10:52,920 --> 00:10:59,880
+dell'Italia nel quadro complessivo o sul piano del pensiero prima ancora di ricoprire
+
+77
+00:10:59,880 --> 00:11:06,620
+posizioni di assoluto vertice tra le autorità, pensiamo al contributo intellettuale di Tommaso
+
+78
+00:11:06,620 --> 00:11:13,140
+Padoa Schiopa nel plasmare la concezione del sistema monetario europeo è anche cambiato
+
+79
+00:11:13,140 --> 00:11:20,100
+e qui molti autorevoli banchieri presenti possono testimoniarlo benissimo il rapporto tra le
+
+80
+00:11:20,100 --> 00:11:27,020
+autorità e il mercato per quanto riguarda la vita finanziaria italiana è cambiato
+
+81
+00:11:27,020 --> 00:11:36,420
+il rapporto tra il Tesoro e la Banca d'Italia è sorta una pluralità di autorità di vigilanza
+
+82
+00:11:37,180 --> 00:11:44,400
+con funzioni che si stanno assestando nel tempo accanto alla Banca d'Italia è cambiato
+
+83
+00:11:44,400 --> 00:11:50,520
+l'atteggiamento degli operatori del mercato con maggiore sensibilità all'apertura e alla
+
+84
+00:11:50,520 --> 00:11:59,520
+concorrenza rispetto ad un sistema sostanzialmente amministrato come è stato in corso per alcuni
+
+85
+00:11:59,520 --> 00:12:06,600
+decenni dopo la seconda guerra mondiale e sarà io credo, immagino come tutto il mondo
+
+86
+00:12:06,620 --> 00:12:12,580
+tutti voi aspettative e nessuna certezza non abbiamo visto nessun testo in anticipo e questo
+
+87
+00:12:12,580 --> 00:12:18,700
+è il bello di questa iniziativa però conosciamo il pensiero, l'azione, i travagli che i diversi
+
+88
+00:12:19,580 --> 00:12:27,980
+ministri hanno avuto, non stanno avendo, hanno avuto e quindi credo che ci sia grande e palpitante
+
+89
+00:12:27,980 --> 00:12:36,600
+interesse nel seguire le loro esposizioni ci sono anche ministri che non hanno avuto
+
+90
+00:12:36,620 --> 00:12:42,940
+non potranno essere qui ma che hanno un posto importante nella storia della politica economica
+
+91
+00:12:42,940 --> 00:12:50,000
+italiana in questi decenni e molti di loro sono stati diverse volte in questa aulamagna
+
+92
+00:12:50,000 --> 00:12:59,920
+a dialogare con noi in forme diverse e voglio ricordare i nomi dei ministri del tesoro che
+
+93
+00:12:59,920 --> 00:13:06,600
+non possiamo ascoltare che si sono succeduti accanto a quelli che ascolteremo a partire
+
+94
+00:13:06,720 --> 00:13:18,520
+dal 1958 sono Mario Ferrari Agradi, Giovanni Malagodi, Ugo La Malfa, Gaetano Stammati, Nino
+
+95
+00:13:18,520 --> 00:13:28,660
+Andreatta, Giovanni Goria, Guido Carli, ho detto del ministro del tesoro Ugo La Malfa,
+
+96
+00:13:29,140 --> 00:13:36,580
+ministro del tesoro fu anche ministro del bilancio, ministro del tesoro dal luglio 1958
+
+97
+00:13:36,600 --> 00:13:50,060
+al 1973 al marzo 1974. Trattandosi di un'iniziativa questa della fondazione La Malfa che è dedicata
+
+98
+00:13:50,060 --> 00:13:59,940
+alla sua memoria non ho potuto non riandare a quell'occasione promossa da Giorgio La
+
+99
+00:13:59,940 --> 00:14:08,500
+Malfa alla presenza del presidente della Repubblica Oscar Luigi Scalfaro il 26 marzo
+
+100
+00:14:08,500 --> 00:14:21,860
+1997 a Roma nella quale la fondazione La Malfa tenne un momento di intensa riflessione oltre
+
+101
+00:14:21,860 --> 00:14:29,240
+che commemorazione e volendo dire una frase su Ugo La Malfa prima di cedere la parola
+
+102
+00:14:29,940 --> 00:14:38,420
+al ministro Padova Schiopa non ne trovo un'altra se non quella che in quell'occasione chiamato
+
+103
+00:14:38,420 --> 00:14:48,180
+a tenere una relazione su mercato e governo dell'economia nell'Europa di domani pronunciai
+
+104
+00:14:49,130 --> 00:14:59,480
+in questo giorno 18 anni fa moriva Ugo La Malfa in questo mese 18 anni fa nasceva il
+
+105
+00:14:59,480 --> 00:15:06,860
+sistema monetario europeo e l'Italia ne faceva parte fin dall'inizio nell'eredità grande
+
+106
+00:15:06,860 --> 00:15:14,260
+che La Malfa lasciava al suo paese sottolineiamo oggi questa eredità specifica dopo un dibattito
+
+107
+00:15:14,260 --> 00:15:21,130
+politico di grande livello che lo vide impegnato più di ogni altro con difficoltà e con successo
+
+108
+00:15:21,740 --> 00:15:29,460
+La Malfa ci lasciava ma ci lasciava in Europa una missione compiuta compiuta in quella fase
+
+109
+00:15:29,480 --> 00:15:43,180
+storica e continuamente da rinnovarsi e quel giorno era il giorno successivo 26 marzo 97
+
+110
+00:15:43,180 --> 00:15:49,280
+giorno successivo al quarantesimo anniversario del trattato di Roma mentre si sta per avvicinare
+
+111
+00:15:49,280 --> 00:15:55,960
+il cinquantesimo quindi vediamo le personalità dei diversi dei diversi ministri del tesoro
+
+112
+00:15:55,960 --> 00:16:05,240
+a cominciare da quella che qui onoriamo di Ugo La Malfa e il binomio Italia-Europa snodarsi
+
+113
+00:16:05,840 --> 00:16:14,980
+con intensità e profondità e credo che anche da questo punto di vista nessuno meglio dell'attuale
+
+114
+00:16:14,980 --> 00:16:24,340
+ministro dell'economia e delle finanze Tommaso Padoa Schioppa possa farci considerazioni
+
+115
+00:16:24,340 --> 00:16:30,840
+sulla politica economica e finanziaria questa mio giudizio è la difficoltà maggiore grazie
+
+116
+00:16:56,040 --> 00:17:04,200
+Ringrazio il ministro Padoa Schioppa per questa prolusione credo esemplare per il nostro ciclo
+
+117
+00:17:04,200 --> 00:17:13,120
+di testimonianze il presidente Formigoni come ho annunciato aveva qualche momento di ritardo
+
+118
+00:17:13,120 --> 00:17:21,540
+la regione Lombardia è tra gli enti patrocinanti di questo siamo grati prima di pregare presidente
+
+119
+00:17:21,540 --> 00:17:33,380
+Formigoni di darci un saluto desidero dare lettura è arrivata adesso di questa lettera
+
+120
+00:17:33,380 --> 00:17:39,580
+del presidente della repubblica Giorgio Napolitano rispondo alla sua cortese lettera di invito
+
+121
+00:17:39,580 --> 00:17:44,640
+ad uno dei quattro seminari organizzati per iniziativa congiunta della fondazione Ugo
+
+122
+00:17:44,640 --> 00:17:50,620
+La Malfa dell'università Bocconi e del sole 24 ore mi sembra che la testimonianza diretta
+
+123
+00:17:50,620 --> 00:17:56,280
+di alcune delle personalità che hanno avuto nel secondo dopoguerra responsabilità di
+
+124
+00:17:56,280 --> 00:18:00,020
+guida del ministero del tesoro può rappresentare un'importante
+
