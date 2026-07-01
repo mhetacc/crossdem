@@ -1,0 +1,1568 @@
+1
+00:00:00,000 --> 00:00:06,880
+anche da parte loro sarebbe benvenuto. Insomma, una partnership un po' più consistente in
+
+2
+00:00:06,880 --> 00:00:11,620
+queste operazioni. Come paga la signora Maria su Esperia? Su Esperia la signora Maria può
+
+3
+00:00:11,620 --> 00:00:16,500
+pagare con la sua carta di credito su server sicuro, eccetera, eccetera, ma può pagare
+
+4
+00:00:16,500 --> 00:00:20,540
+anche in contanti. Confesserò una cosa che non c'è scritta nel sito. Nel sito c'è scritto
+
+5
+00:00:20,540 --> 00:00:27,180
+in contanti e basta. E il vissuto è che normalmente chi acquista, consumatore, pagare in contanti
+
+6
+00:00:27,180 --> 00:00:33,160
+vuol dire pagare prima, perché sennò, figurati, su Esperia si paga dopo. Il cliente riceve
+
+7
+00:00:33,160 --> 00:00:38,260
+il pacco il giorno dopo, dentro c'è la fattura, c'è un bollettino di conto corrente postale,
+
+8
+00:00:38,680 --> 00:00:45,240
+le indicazioni eventualmente per il bonifico o quant'altro. Il problema non è che noi
+
+9
+00:00:45,240 --> 00:00:49,240
+ci dobbiamo fidare dei clienti, il problema è che è il cliente che si deve fidare di
+
+10
+00:00:49,240 --> 00:00:55,360
+noi. Questo è il nostro atteggiamento. Devo dire che ne siamo ampliamente ripagati, riusciamo
+
+11
+00:00:55,360 --> 00:01:01,340
+a riscuotere molto bene, forse se qualche piccola cosa ci sfugge è ripagata da messaggi
+
+12
+00:01:01,340 --> 00:01:05,800
+del tipo, torno all'ultima parte del mio intervento, in un mondo in cui nessuno si
+
+13
+00:01:05,800 --> 00:01:10,300
+fida più di niente, che bello, voi mi avete mandato la roba senza chiedermi i soldi prima.
+
+14
+00:01:10,440 --> 00:01:17,060
+E devo dire che questa cosa ha una sua efficacia e non è privo di gratificazione. Si fida
+
+15
+00:01:17,060 --> 00:01:21,240
+di Esperia, bisogna mettere, e questo è il problema dell'e-commerce attualmente,
+
+16
+00:01:21,240 --> 00:01:26,400
+è il problema del fulfillment. Il problema, la parola giusta è quella, è soprattutto
+
+17
+00:01:26,400 --> 00:01:33,420
+la predictability, cioè il cliente deve sapere con chi ha a che fare quali sono le promesse
+
+18
+00:01:33,420 --> 00:01:38,220
+che può far conto che quelle promesse vengono mantenute. E quindi lo sforzo da fare nella
+
+19
+00:01:38,220 --> 00:01:44,140
+progettazione di un sito web è sostanzialmente questo, raccontare esattamente quali promesse
+
+20
+00:01:44,140 --> 00:01:49,360
+faccio al mio cliente e dare elementi utili per fargli capire che quelle promesse saprò
+
+21
+00:01:49,360 --> 00:01:55,640
+mantenerle. La nostra strada è molto semplice, si chiama garanzia totale, è il primo link
+
+22
+00:01:55,640 --> 00:02:02,500
+che è lì dal 98 ed è lì ancora oggi, si intitola siamo fuori legge un po' provocatoriamente
+
+23
+00:02:02,500 --> 00:02:06,920
+per semplicemente una comparazione tra le garanzie minime di legge, che sono quelle
+
+24
+00:02:06,920 --> 00:02:11,260
+del diritto di recesso, e la garanzia totale di Esperia. Quindi per legge puoi cambiare
+
+25
+00:02:11,260 --> 00:02:16,280
+dentro 10 giorni da noi quando vuoi, per legge devi rispedire a tue spese, da noi non rispedici
+
+26
+00:02:16,280 --> 00:02:20,940
+proprio niente, eccetera eccetera eccetera. Anche questo può sembrare follia, forse chi
+
+27
+00:02:20,940 --> 00:02:26,800
+fa e-commerce in America sa che tutto sommato non è una cosa così nuova, in realtà ci
+
+28
+00:02:26,800 --> 00:02:32,260
+viene ripagato ampiamente. Abbiamo avuto tre furbi in due anni, due erano furbi davvero,
+
+29
+00:02:32,340 --> 00:02:36,400
+uno era un giornalista che voleva vedere se era vero che poi mantenevamo quella promessa
+
+30
+00:02:36,400 --> 00:02:44,200
+e ci è uscito fuori l'articolino a gratis che non guasta. Valdospini giustamente sottolineava
+
+31
+00:02:44,200 --> 00:02:49,520
+una cosa che non vorrei lasciare lì troppo superficialmente, cioè chiedeva fuori microfono
+
+32
+00:02:49,520 --> 00:02:56,960
+in quante lingue ci proponiamo nel sito web. Attualmente le lingue sono quattro, ma la
+
+33
+00:02:56,960 --> 00:03:03,160
+mia risposta è questa, l'inglese sarebbe sufficiente per comunicare quello che devi
+
+34
+00:03:03,160 --> 00:03:10,620
+dire al tuo mercato, ma non sei su internet per questo, non è più la televisione in
+
+35
+00:03:10,620 --> 00:03:17,040
+cui fai lo spot su CNN e l'inglese va benissimo per tutto il mondo. Se l'orientamento come
+
+36
+00:03:17,040 --> 00:03:23,920
+secondo me deve essere è consentire il dialogo, tra virgolette affettuoso, hai bisogno della
+
+37
+00:03:23,920 --> 00:03:30,040
+tua lingua, quindi ogni volta che decidiamo di proporci su un mercato nuovo è necessario
+
+38
+00:03:30,040 --> 00:03:35,800
+secondo me mettere il sito, creare un'area del sito in cui si possa creare un dialogo
+
+39
+00:03:35,800 --> 00:03:41,060
+complessivo nella tua lingua, in quella lingua, quindi se andremo in Svezia metteremo lo svedese,
+
+40
+00:03:41,080 --> 00:03:47,940
+se andremo in Cina metteremo il cinese. Grazie, ottimo, Guido Barizzi.
+
+41
+00:03:48,540 --> 00:03:57,520
+Rapidamente, quanti soldi? Diciamo non tanti soldi perché abbiamo utilizzato delle risorse
+
+42
+00:03:57,520 --> 00:04:04,480
+interne e rideclinato le risorse interne sul progetto, il progetto vedrà un'organizzazione
+
+43
+00:04:04,880 --> 00:04:12,980
+al 90% con risorse umane esistenti all'interno del gruppo. C'è una competenza di carattere
+
+44
+00:04:12,980 --> 00:04:20,440
+tecnologica che per forza abbiamo dovuto comprare, abbiamo assunto una persona estremamente
+
+45
+00:04:20,440 --> 00:04:32,680
+capace sulla installazione del progetto tecnico e tecnologico, gran parte degli investimenti
+
+46
+00:04:32,680 --> 00:04:37,740
+vengono fatti attraverso anche dei partner, che sono dei partner in genere di content,
+
+47
+00:04:37,900 --> 00:04:47,020
+cioè di contenuto del messaggio, per cui noi compriamo, tra virgolette, aprendoci,
+
+48
+00:04:47,260 --> 00:04:52,600
+aprendo l'azionariato della società, dei contenuti da parte di operatori che hanno degli interessi
+
+49
+00:04:52,900 --> 00:05:01,120
+a agire con noi in questo, nello sviluppo della società. L'investimento iniziale è certamente
+
+50
+00:05:01,120 --> 00:05:07,640
+nel primo anno ha un certo impatto, però il business model è costruito per essere
+
+51
+00:05:07,640 --> 00:05:15,240
+profittevole il secondo anno, quindi non fare perdite a Iosa per 4-5 anni e poi pensare
+
+52
+00:05:15,240 --> 00:05:20,080
+a un IPO un giorno quando ha, bensì è un progetto che deve stare in piedi dal primo
+
+53
+00:05:20,080 --> 00:05:27,140
+anno ed è un progetto, lo ripeto, industriale, non è un progetto vissuto come tecnologico
+
+54
+00:05:27,140 --> 00:05:34,440
+e che deve avere uno sbocco finanziario. La sicurezza è un tema fondamentale, l'industria
+
+55
+00:05:34,440 --> 00:05:41,240
+alimentare per antonomasia deve parlare di sicurezza in tutti i suoi aspetti e l'industria
+
+56
+00:05:41,240 --> 00:05:48,800
+alimentare non si deve occupare della sicurezza del prodotto finale perché è troppo rischioso,
+
+57
+00:05:48,840 --> 00:05:55,640
+si deve occupare della sicurezza del sistema, cioè il grande investimento è nel procedere
+
+58
+00:05:55,640 --> 00:06:02,880
+dall'inizio e su ogni fase essere certi che la situazione sia ampiamente sotto i controlli.
+
+59
+00:06:03,040 --> 00:06:10,040
+Noi abbiamo trattato materie prime, prodotti finiti di tutti i generi e non abbiamo partecipato
+
+60
+00:06:10,040 --> 00:06:14,720
+ad alcuni mercati proprio perché il problema della sicurezza nell'alimento è drammatica.
+
+61
+00:06:18,780 --> 00:06:24,960
+Risposte breve. Sulla nebbia è un fenomeno temporaneo che dobbiamo cercare di capire.
+
+62
+00:06:25,160 --> 00:06:29,280
+Il vantaggio delle piccole e medie imprese? Assolutamente sì, perché io vedo il modello
+
+63
+00:06:29,280 --> 00:06:34,880
+futuro retti di piccole imprese contro quelle grandi, quindi un cambiamento anche importante.
+
+64
+00:06:35,700 --> 00:06:43,260
+Se fosse un altro trasportatore io mi organizzerei come fornitore di servizio totale per Esperia o
+
+65
+00:06:43,260 --> 00:06:49,600
+aziende simile. Il valore non è più nel trasporto del bene ma nell'organizzazione end-to-end del
+
+66
+00:06:49,600 --> 00:06:54,740
+servizio. Negli Stati Uniti ci sono molti trasportatori che stanno facendo grandi
+
+67
+00:06:54,740 --> 00:07:02,300
+magazzini e offrendosi come sistemi totali di componenti dei fornitori alla consegna
+
+68
+00:07:02,300 --> 00:07:07,160
+al cliente finale. Questo è un allungamento della catena, è un valore molto importante.
+
+69
+00:07:07,160 --> 00:07:14,760
+Su Napster internet dicevo non offre molti modelli di ricavi, c'è un bellissimo modello
+
+70
+00:07:14,760 --> 00:07:20,300
+di comunicazione. L'inventore di Napster non ha mai pensato di fare i soldi. Lui è un bravo
+
+71
+00:07:20,300 --> 00:07:26,020
+programmatore che ha offerto gratuitamente quando è stato chiuso, è stato assunto,
+
+72
+00:07:26,100 --> 00:07:30,700
+ha guadagnato milioni di dollari perché è un bravo programmatore. Si è fatto vedere,
+
+73
+00:07:30,800 --> 00:07:35,840
+si è comunicato la sua bravura online. È un modello un po' originale ma ha funzionato benissimo.
+
+74
+00:07:35,840 --> 00:07:42,920
+L'ultima cosa sulla competizione. Tombolini diceva quando ho sentito il progetto a Borilla,
+
+75
+00:07:43,480 --> 00:07:48,480
+ma quando sono contento, perché la competizione crea più aziende che ci sono,
+
+76
+00:07:48,520 --> 00:07:55,020
+più cresce il mercato e fa bene a tutti. La cosa fondamentale in internet, io essendo a
+
+77
+00:07:55,020 --> 00:08:00,260
+Firenze, dico una cosa di trenta secondi e poi finisco, pensavo di un vecchio saggio di
+
+78
+00:08:00,260 --> 00:08:09,520
+Dante che dice che se chiediamo un bambino alla scuola media di sfare un sonnetto sicuramente
+
+79
+00:08:09,520 --> 00:08:16,580
+ci sarà la rima cuore amore. Nel paradiso di Dante c'è un terzetto con questo rima,
+
+80
+00:08:16,820 --> 00:08:22,900
+ma come voi mi insegnate la parola finale nei versi di Dante non è lì casualmente per fare
+
+81
+00:08:22,900 --> 00:08:30,960
+musica, ma è una conseguenza del pensiero, è l'unica logica conclusione. Montale dice quindi
+
+82
+00:08:30,960 --> 00:08:39,920
+amore cuore nelle mani di un bambino è banale, nelle mani di Dante è una rima generale. Dipende
+
+83
+00:08:39,920 --> 00:08:47,220
+chi lo fa, cioè è l'execution come si fa, non tanto l'idea né il denaro che conta moltissimo
+
+84
+00:08:47,220 --> 00:08:55,380
+in internet. Grazie, ottimo anche questo riferimento a Dante che è un poeta moderno
+
+85
+00:08:55,760 --> 00:09:02,480
+come fu definito allora, che poi è il successo della new economy e quello che è il futuro. Bene,
+
+86
+00:09:03,080 --> 00:09:11,020
+io ho il piacere e l'onore di ringraziare Enrico Letta per essere con noi oggi. Gli organizzatori
+
+87
+00:09:11,020 --> 00:09:16,460
+del convegno ce l'hanno messa tutta, ma senza la sua cooperazione non ci sarebbero riusciti,
+
+88
+00:09:16,460 --> 00:09:22,320
+perché lui aveva promesso che avrebbe fatto il possibile e devo dire anche l'impossibile
+
+89
+00:09:22,320 --> 00:09:28,660
+per essere qui con voi, perché fra la regina Elisabetta, l'India e tutti i suoi impegni,
+
+90
+00:09:28,980 --> 00:09:35,360
+alcuni piacevoli, altri pesanti che ha avuto nei giorni scorsi noi seriamente dubitavamo
+
+91
+00:09:35,360 --> 00:09:43,100
+che sarebbe riuscito a includere anche noi e voi in particolare. Stamattina abbiamo iniziato
+
+92
+00:09:43,740 --> 00:09:48,140
+dicendo che le cose stanno migliorando e che abbiamo i problemi del miglioramento. È
+
+93
+00:09:48,140 --> 00:09:53,040
+sempre meglio che avere i problemi di quando le cose vanno male, come era vero qualche
+
+94
+00:09:53,040 --> 00:09:59,920
+anno fa. Oggi l'economia italiana va meglio, in un mondo che va meglio, però la piccola
+
+95
+00:09:59,920 --> 00:10:05,580
+media industri, in particolare i signori qua presenti, hanno sempre problemi. Il giorno
+
+96
+00:10:05,580 --> 00:10:13,080
+che non hanno più problemi possiamo andare tutti a casa, perché vuol dire che non c'è
+
+97
+00:10:13,080 --> 00:10:18,040
+che l'inventore di Napster lo fa perché vuol bene alla gente, Tombolini lo fa per affetto,
+
+98
+00:10:18,180 --> 00:10:25,760
+io spero che i presenti lo facciano per soldi, perché è la cosa fondamentale di un imprenditore.
+
+99
+00:10:25,960 --> 00:10:31,480
+Guai a sentire la gente che lo fa per buon cuore, anche se fa rima con amore, come diceva
+
+100
+00:10:31,480 --> 00:10:38,680
+Dante. Le piccole e medie imprese hanno una sola obiettivo nella testa di creare valore
+
+101
+00:10:38,680 --> 00:10:44,640
+e venderlo. Hanno bisogno del Ministro dell'Industria e anche del Ministro del Commercio con l'Estero,
+
+102
+00:10:44,680 --> 00:10:50,460
+quando è lo stesso sono più fortunati, perché due tipi di problemi se non altro vanno
+
+103
+00:10:50,460 --> 00:10:58,060
+assieme. Questa è una regione che produce ed esporta molto e quindi siamo molto contenti
+
+104
+00:10:58,060 --> 00:11:02,360
+che sia il Ministro dell'Industria che il Ministro del Commercio con l'Estero siano
+
+105
+00:11:02,360 --> 00:11:09,620
+riusciti ad arrivare ambedue qui oggi per parlarvi. Era un impegno che il Ministro aveva preso,
+
+106
+00:11:09,840 --> 00:11:14,700
+ma come sapete ogni uomo di governo ha sempre molte scuse per poter dire che gli è stato
+
+107
+00:11:14,700 --> 00:11:19,920
+impedito e noi invece siamo felici che queste scuse oggi non c'erano e quindi il Ministro
+
+108
+00:11:19,920 --> 00:11:23,880
+Letta ha potuto mantenere la parola data. Per un uomo di governo la parola è l'unica
+
+109
+00:11:23,880 --> 00:11:30,380
+cosa che conta. Abbiamo imparato che anche su internet è reputazione. Se pensate a cosa
+
+110
+00:11:30,380 --> 00:11:35,860
+serve un editore oggi a pubblicare autori sconosciuti, perché quelli famosi vanno su
+
+111
+00:11:35,860 --> 00:11:41,500
+internet e non hanno più bisogno degli editori. Abbiamo continuamente bisogno di meccanismi
+
+112
+00:11:41,500 --> 00:11:47,460
+per certificare la reputazione e io sono contento che il Ministro che è qui con noi oggi gode
+
+113
+00:11:47,460 --> 00:11:59,280
+di una buona reputazione. Grazie. Grazie. La verità è che appunto non
+
+114
+00:11:59,280 --> 00:12:03,920
+è che ho fatto il prezioso, ma la giornata di oggi penso sia giusto che io la passi come
+
+115
+00:12:03,920 --> 00:12:12,580
+la passerò a verificare nelle zone alluvionate come è la situazione subito dalla parte imprenditoriale,
+
+116
+00:12:12,620 --> 00:12:18,900
+perché c'è bisogno di evitare che quello che è successo rechi dei danni che siano
+
+117
+00:12:18,900 --> 00:12:24,260
+strutturali e strutturali in modo pesante, quindi dovrò anche scappare subito per questi
+
+118
+00:12:24,260 --> 00:12:31,400
+motivi. Ma credo che sia la riflessione che fate, a me spinge ad aggiungere alcuni
+
+119
+00:12:31,400 --> 00:12:36,620
+elementi e in particolare a partire da una domanda alla quale cercherò di dare quattro
+
+120
+00:12:37,480 --> 00:12:44,140
+risposte, non so se saranno esaustive, sono le risposte che io provo a darmi nelle scelte,
+
+121
+00:12:44,220 --> 00:12:49,440
+nelle cose che stiamo cercando di fare. La domanda è sostanzialmente questa, parliamo
+
+122
+00:12:49,440 --> 00:12:55,240
+di piccole e medie imprese quindi non voglio minimamente sottrarmi al tema. La domanda
+
+123
+00:12:55,240 --> 00:13:00,140
+è questa, il nostro modello di piccole e medie imprese è un modello che nei decenni scorsi
+
+124
+00:13:00,140 --> 00:13:05,580
+appunto ha fatto modello, ma il modello come noi sappiamo sempre è un po' come le cose
+
+125
+00:13:05,580 --> 00:13:10,300
+che si vedono nello specchietto retrovisore, la si classifica come modello quando la si
+
+126
+00:13:10,300 --> 00:13:16,180
+vede nello specchietto retrovisore. Il nostro problema è il futuro e allora rispetto a
+
+127
+00:13:16,180 --> 00:13:22,400
+questo modello che ha funzionato e che addirittura ci viene invidiato, chi di noi e chi di voi
+
+128
+00:13:23,130 --> 00:13:27,440
+ha rapporti con i mercati internazionali sa che soprattutto i paesi in via di sviluppo,
+
+129
+00:13:27,500 --> 00:13:34,160
+i paesi di media via di sviluppo guardano al modello della piccola impresa italiana,
+
+130
+00:13:34,280 --> 00:13:39,780
+soprattutto il modello dei clusters italiani come a un modello di riferimento, cercano
+
+131
+00:13:39,780 --> 00:13:45,940
+di vedere, di imitare. Il problema è, questo modello appunto è uno specchietto retrovisore,
+
+132
+00:13:45,940 --> 00:13:51,900
+il futuro come sarà? Noi saremmo in condizioni di avere piccole e medie impresa come spina
+
+133
+00:13:51,900 --> 00:13:56,780
+dorsale del nostro sistema anche nel futuro, a quali condizioni e come? E credo che questa
+
+134
+00:13:56,780 --> 00:14:02,280
+sia in fondo legata anche al tema di questa sessione nella quale io mi intrometto. In
+
+135
+00:14:02,280 --> 00:14:06,900
+fondo è la domanda forse più incisiva, perché tutti questi cambiamenti, queste discontinuità
+
+136
+00:14:06,900 --> 00:14:13,400
+di natura tecnologica, come insistono sulla domanda di base dalla quale parto? Le quattro
+
+137
+00:14:13,400 --> 00:14:20,120
+risposte che tendo, che cerco di fare sono la prima. Il risanamento finanziario macroeconomico
+
+138
+00:14:20,120 --> 00:14:25,940
+di un Paese come l'Italia è elemento essenziale per questo punto e il primo tetto di risposta
+
+139
+00:14:25,940 --> 00:14:33,000
+è come e in che cosa incide. I secondi è fondamentale per un Paese come l'Italia uscire
+
+140
+00:14:33,000 --> 00:14:39,240
+al più presto da una logica di sistema pubblico dell'economia e quindi liberalizzazioni e
+
+141
+00:14:39,240 --> 00:14:45,980
+privatizzazioni come incidono sulla piccola e media impresa. Il terzo punto, la struttura
+
+142
+00:14:45,980 --> 00:14:50,700
+finanziaria e i mercati finanziari, ne parlerete anche successivamente, ma volevo dare un
+
+143
+00:14:50,700 --> 00:14:54,840
+accenno di quello che a me sembra essenziale rispetto a questo tema, perché lo considero
+
+144
+00:14:54,840 --> 00:15:04,500
+uno dei temi chiave della risposta alla domanda di qui sopra. Il quarto punto è il tema globalizzazione
+
+145
+00:15:04,500 --> 00:15:11,180
+difesa della proprietà intellettuale, difesa della qualità e credo che sia forse di tutte
+
+146
+00:15:11,180 --> 00:15:16,840
+le risposte la più oggi impegnativa, quella sulla quale abbiamo più strada da fare perché
+
+147
+00:15:16,840 --> 00:15:26,100
+è quella ancora abbozzata. Quindi quattro risposte, faccio un intervento che spero riuscirà
+
+148
+00:15:26,100 --> 00:15:31,300
+a toccare tutti i quattro questi punti. Il risanamento finanziario innanzitutto, il peso
+
+149
+00:15:31,300 --> 00:15:36,140
+del debito pubblico, il peso del deficit di bilancio, il peso dell'inflazione alta, il
+
+150
+00:15:36,140 --> 00:15:41,880
+peso dei tassi di interesse alti, sono dei pesi che a mio avviso incidono sulla piccola
+
+151
+00:15:41,880 --> 00:15:48,080
+e media impresa in modo più massiccio rispetto a quanto capita sul resto del sistema produttivo.
+
+152
+00:15:49,740 --> 00:15:54,440
+L'aver centrato e l'aver puntato sull'obiettivo del risanamento di bilancio, sarò su questo
+
+153
+00:15:54,440 --> 00:16:00,040
+brevissimo, non voglio esagerare su questo aspetto ma credo che sia importante da ricordare
+
+154
+00:16:00,040 --> 00:16:04,560
+per poi fare i ragionamenti successivi, serve dal punto di vista dei risultati economici.
+
+155
+00:16:05,600 --> 00:16:11,500
+I vantaggi del bilancio risanato sono vantaggi che entrano nelle tasche di ognuno a prescindere
+
+156
+00:16:11,500 --> 00:16:20,420
+da qualunque ragionamento perché avere un servizio del debito che scende e avere la possibilità
+
+157
+00:16:20,420 --> 00:16:26,180
+di recuperare decine di migliaia di miliardi perché non c'è da pagare gli interessi sul
+
+158
+00:16:26,180 --> 00:16:32,960
+debito è un elemento che automaticamente crea condizioni favorevoli. La stessa cosa
+
+159
+00:16:32,960 --> 00:16:37,200
+per quanto riguarda il rapporto del deficit su PIL, la stessa cosa per quanto riguarda
+
+160
+00:16:37,200 --> 00:16:44,300
+l'inflazione, i tassi di interesse. Quello che mi preme dire qui è che, lo diceva Vaciago
+
+161
+00:16:44,300 --> 00:16:50,860
+poco fa, il tema del risanamento finanziario non è un tema macro che quindi è visto lontano
+
+162
+00:16:50,860 --> 00:16:55,520
+da chi è piccolo o medio, il tema del risanamento finanziario è un tema che ci consente, ci
+
+163
+00:16:55,520 --> 00:17:00,700
+ha consentito, di entrare nell'euro ma di raggiungere alcuni obiettivi alcuni dei quali
+
+164
+00:17:00,700 --> 00:17:04,760
+il nostro Paese, soprattutto grazie al suo sistema produttivo, è riuscito a raggiungerli
+
+165
+00:17:04,760 --> 00:17:11,520
+prima di quanto si era immaginato. Non pochi hanno sottolineato in questi giorni che noi
+
+166
+00:17:11,520 --> 00:17:19,480
+abbiamo contemporaneamente raggiunto due risultati che sono due risultati decisamente importanti
+
+167
+00:17:20,160 --> 00:17:26,960
+sono che l'ingresso nell'euro ci consente, ci ha consentito oggi di non essere più su
+
+168
+00:17:26,960 --> 00:17:34,360
+alcuni elementi sui quali eravamo tradizionalmente messi male sulla media europea, oggi di essere,
+
+169
+00:17:34,400 --> 00:17:39,640
+di superare questa situazione e di essere messi meglio della media europea. Cito questo
+
+170
+00:17:39,640 --> 00:17:43,780
+perché da oggi in poi, da quando siamo nell'euro e da quando siamo a ragionare di queste cose,
+
+171
+00:17:43,780 --> 00:17:49,960
+la competitività non ne si ragiona mai in termini assoluti, solo in termini relativi.
+
+172
+00:17:50,140 --> 00:17:57,680
+Il problema non è che noi passiamo sulle cifre italiane da tot a tot, è sicuramente un elemento
+
+173
+00:17:57,680 --> 00:18:04,340
+che ci consente di dire, cito l'esempio più clamoroso, in cinque anni il rapporto deficit-pil
+
+174
+00:18:04,340 --> 00:18:10,640
+che passa dall'8% all'1,5%, è impressionante, ma il problema non è quello, il problema
+
+175
+00:18:10,640 --> 00:18:15,620
+è che l'1,5% è media europea, questa è la cosa che conta veramente.
+
+176
+00:18:16,100 --> 00:18:20,560
+Allora, rispetto a questo, cito due dati che sono forse i due principali in questo momento
+
+177
+00:18:20,560 --> 00:18:24,680
+che sono il dato dell'inflazione e il dato della crescita del pil. Noi su entrambi i
+
+178
+00:18:24,680 --> 00:18:28,440
+dati abbiamo avuto negli ultimi tempi, sul dato dell'inflazione nell'ultimo tempo, un
+
+179
+00:18:28,440 --> 00:18:32,960
+risultato che un po' ci spaventa, ci fa sentire un po' il senso delle vertigini, perché non
+
+180
+00:18:32,960 --> 00:18:38,180
+è mai capitato nella storia recente del nostro Paese che noi avessimo un'inflazione
+
+181
+00:18:38,700 --> 00:18:43,260
+inferiore alla media degli altri Paesi europei. Ovviamente, siccome questa è una notizia positiva,
+
+182
+00:18:43,340 --> 00:18:48,980
+è una notizia che è uscita su qualche trafiletto dei giornali, ma è un risultato che è uscito
+
+183
+00:18:48,980 --> 00:18:53,080
+sul dato di settembre e che il dato di ottobre addirittura conferma, perché il dato tendenziale
+
+184
+00:18:53,080 --> 00:18:58,880
+di ottobre parla di una tendenziale discesa dell'inflazione italiana, che fa sì che
+
+185
+00:18:58,880 --> 00:19:05,160
+mentre l'inflazione europea va sul cifre che sono superiore alla nostra, noi per la prima
+
+186
+00:19:05,160 --> 00:19:10,260
+volta stiamo sotto. L'Italia è sempre stata abituata ad avere un'inflazione doppia, tripla
+
+187
+00:19:10,260 --> 00:19:16,360
+della media europea, oggi questo non è così. Lo stesso dato, anche se meno pesante dal
+
+188
+00:19:16,360 --> 00:19:20,280
+punto di vista degli effetti, sulla crescita del PIL. Questo per dire che il risanamento
+
+189
+00:19:21,060 --> 00:19:25,900
+finanziario non è uno stringere la cinghia che ha consentito di entrare nell'Euro per
+
+190
+00:19:25,900 --> 00:19:32,240
+il rotto della cuffia, punto. No, consente automaticamente a un sistema economico che
+
+191
+00:19:32,240 --> 00:19:37,800
+funziona di far raggiungere risultati che poi sono risultati di competitività relativa
+
+192
+00:19:37,800 --> 00:19:44,340
+fondamentali e assolutamente essenziali. E allora se questo è vero le altre tre risposte
+
+193
+00:19:44,340 --> 00:19:49,700
+che a me sembrano essenziali per la domanda che facevo prima, quindi alla domanda che
+
+194
+00:19:49,700 --> 00:19:55,280
+facevo prima una risposta positiva, non è solo specchio e retrovisore, ma è un'evoluzione
+
+195
+00:19:55,280 --> 00:20:00,680
+in meglio, liberalizzazione dei mercati e privatizzazione. La piccola e media impresa
+
+196
+00:20:00,680 --> 00:20:06,800
+italiana ha bisogno più della grande che si corra da questo punto di vista, perché
+
+197
+00:20:06,800 --> 00:20:11,140
+la piccola e media impresa italiana in fondo è stata quella che è sempre riuscita a lavorare,
+
+198
+00:20:11,140 --> 00:20:15,980
+anche negli anni in cui la presenza dello Stato nell'economia era molto forte, è riuscita
+
+199
+00:20:15,980 --> 00:20:27,900
+a lavorare in una situazione di, diciamo, forza privata eccezionale. Oggi, in una situazione
+
+200
+00:20:27,900 --> 00:20:32,720
+in cui si liberalizza e si privatizza il nostro sistema economico, è una grandissima
+
+201
+00:20:32,720 --> 00:20:37,680
+occasione per la piccola e media impresa e questo vuol dire che dobbiamo correre più
+
+202
+00:20:37,680 --> 00:20:42,100
+di quanto stiamo correndo, che i risultati sono stati raggiunti. Qui conta un po' il
+
+203
+00:20:42,100 --> 00:20:49,280
+valore assoluto più che quello relativo, perché è evidente che l'impatto, il punto
+
+204
+00:20:49,280 --> 00:20:54,500
+di partenza conta rispetto ai punti di arrivo, però è in dubbio che noi abbiamo ancora una
+
+205
+00:20:54,500 --> 00:21:00,220
+presenza eccessiva dello Stato nell'economia ed è in dubbio che un percorso di privatizzazione
+
+206
+00:21:00,220 --> 00:21:05,280
+deve essere interpretato come elementi di non ritorno a livello nazionale e a livello
+
+207
+00:21:05,280 --> 00:21:11,480
+locale, perché noi sappiamo benissimo oggi che possiamo rapidamente mettere la seconda
+
+208
+00:21:11,480 --> 00:21:18,220
+tranche dell'ENEL e la X tranche dell'ENI e andare avanti su film meccaniche, eccetera,
+
+209
+00:21:18,220 --> 00:21:24,480
+ma se poi tutto questo trova delle forme per cui le centrali dell'ENEL comprano altri
+
+210
+00:21:24,480 --> 00:21:34,340
+settori pubblici o le farmacie comunali tornano, rimangono saldamente nei mari comuni, le municipalizzate
+
+211
+00:21:34,340 --> 00:21:41,340
+non corrono sulla strada e non si fa a livello nazionale una scelta di tendenziale collocamento
+
+212
+00:21:41,340 --> 00:21:46,560
+delle municipalizzazioni. Tutti i temi, non li voglio toccare tutti, li accenno, la direzione
+
+213
+00:21:46,560 --> 00:21:51,660
+di marcia deve essere questa, io mi auguro che sia questa anche nei prossimi tempi qualunque
+
+214
+00:21:51,660 --> 00:21:57,620
+cosa accada politicamente nel nostro Paese, perché un ritorno indietro o punti di non
+
+215
+00:21:57,620 --> 00:22:04,040
+ritorno che non si consigliano tali sui tempi, interessa, e questi di qui se marceranno pronto
+
+216
+00:22:04,040 --> 00:22:10,980
+la compagnia, sono suportumistas, per favore la siguiente trasparenza.
+
+217
+00:22:20,580 --> 00:22:29,140
+Quelli che ci interessano più e continuano con noi sono quelli che hanno un stile di liderazzo
+
+218
+00:22:29,140 --> 00:22:36,140
+che conosciamo con il nome di istituzional, ma prima di parlare un momento del stile istituzional
+
+219
+00:22:36,140 --> 00:22:42,340
+Permetemi di commentare questi due stili e le sue conseguenze per l'impresa familiare.
+
+220
+00:22:44,640 --> 00:22:50,920
+Questo modello è un'adaptazione del modello di Ellsworth e Badaraco della Harvard Business School,
+
+221
+00:22:51,360 --> 00:23:02,520
+non è originale mio. Il stile diretto è quel direttivo, quel esecutivo che ha una strategia
+
+222
+00:23:02,520 --> 00:23:13,540
+chiara, esplicita, che non ha l'inconveniente di darla a conoscere, che si svolge da persone
+
+223
+00:23:13,540 --> 00:23:24,500
+che sono come lui, cronici, che le cose sono chiare, se fai ciò che io dico continui con
+
+224
+00:23:25,300 --> 00:23:34,360
+se non fai ciò che io dico, vieni alla strada. Che c'è un cammino di fare le cose, il che l'ha
+
+225
+00:23:34,360 --> 00:23:42,800
+stabilito, il che lo fa ha una buona carriera in questa compagnia, il che lo fa ha un buon salario
+
+226
+00:23:42,800 --> 00:23:50,820
+in questa compagnia e il che non è disposto a essere come lui deve marchare. Questi direttivi,
+
+227
+00:23:50,820 --> 00:23:57,060
+questo tipo di leader, quando sono in una compagnia familiare, tendono a separare la compagnia
+
+228
+00:23:57,060 --> 00:24:03,900
+della famiglia, perché in questa compagnia possono fare tutto questo, possono actuarci in questa
+
+229
+00:24:03,900 --> 00:24:09,600
+forma, le cose sono chiare, ma la famiglia non è sua, e nella famiglia non sono le cose
+
+230
+00:24:09,600 --> 00:24:15,740
+così chiare, almeno nella mia, dove Teresa è in grado di fare ciò che vuole. Teresa è
+
+231
+00:24:15,740 --> 00:24:21,960
+una bella donna. Questi altri tipi di direttivi, l'incrementale, sono dei leader, sono
+
+232
+00:24:21,960 --> 00:24:30,060
+dei leader anche successivi, che avanzano incrementalmente, che hanno la strategia,
+
+233
+00:24:30,280 --> 00:24:37,020
+ma non la contano, non la esplicitano, solo esplicitano quella parte della strategia che
+
+234
+00:24:37,020 --> 00:24:49,580
+sa che non avrà opposizione. La gente non sa perché, ma desaparece dalla compagnia. Non
+
+235
+00:24:49,580 --> 00:24:55,860
+gli hanno detto perché, ma un buon giorno hanno in spazio l'officina cerrata. Io le
+
+236
+00:24:55,860 --> 00:25:04,940
+riuscio a disculpare, in Spagna a volte si chiamano florentinesi. Questo tipo di direttivi
+
+237
+00:25:04,940 --> 00:25:11,940
+vive bene, dei leader vivono bene nella Spagna.
+
+238
+00:25:20,400 --> 00:25:35,980
+No, le spido, le spido di nuovo perdone. Questo tipo, questo tipo di leader, non sono
+
+239
+00:26:05,980 --> 00:26:13,140
+dei leader che sono moviti per i valori, dei leader a cui ha la maggior preoccupazione
+
+240
+00:26:13,140 --> 00:26:18,400
+è il sviluppo umano delle persone che sono sotto. Certo, ha la maggior
+
+241
+00:26:18,400 --> 00:26:21,180
+preoccupazione di guadagnare il dinheiro, perché se no, non sarebbero dei leader di
+
+242
+00:26:21,180 --> 00:26:27,860
+compagnia, ma per il procedimento della formazione in valori di quelli che sono sotto.
+
+243
+00:26:27,860 --> 00:26:38,940
+La professionalizzazione della famiglia ha questo importante aspetto di sapere incorporare
+
+244
+00:26:38,940 --> 00:26:49,080
+direttivi non familiari, ma la professionalizzazione della famiglia ha due aspecti
+
+245
+00:26:49,080 --> 00:26:56,390
+estraordinariamente importanti. Uno di loro è, lo spiegherò in un altro modo, conoscete
+
+246
+00:26:59,860 --> 00:27:08,480
+voi questa compagnia che si chiama Perfumeria Puig? Mariano Puig. Puig è la seconda compagnia
+
+247
+00:27:08,480 --> 00:27:15,460
+di perfumeria del mondo. Miguel, forse per il pubblico presente è più facile identificarla
+
+248
+00:27:15,460 --> 00:27:29,860
+con i marchi Paco Raban, Maria Ricci, Herrera. La seconda compagnia di perfumeria del mondo.
+
+249
+00:27:30,100 --> 00:27:39,780
+Miguel, forse per il pubblico presente è più facile identificarla con i marchi Paco Raban,
+
+250
+00:27:39,780 --> 00:28:09,760
+Maria Ricci, Herrera. Mariano Puig, amico di Alfredo e mio, non è ingegnero, non è
+
+251
+00:28:10,880 --> 00:28:19,760
+e ora è la seconda del mondo. Alcuni di voi pensano che non è professionale, non è ingegnero,
+
+252
+00:28:20,740 --> 00:28:30,360
+non è abogato. È uno dei migliori professionali che c'è nel mondo di compagnie di perfumeria.
+
+253
+00:28:31,320 --> 00:28:38,760
+Le compagnie familiare hanno in voi profondi professionali, sono sicuro, ma quello che non
+
+254
+00:28:38,760 --> 00:28:47,900
+sono sicuro è che le compagnie familiare, per favore la trasparenza numero 7,
+
+255
+00:28:47,900 --> 00:29:01,180
+hanno sistemi di direzione professionale. È questa.
+
+256
+00:29:05,860 --> 00:29:14,700
+Da molto tempo abbiamo conosciuto che la maniera di aiutare un direttivo, una persona,
+
+257
+00:29:15,260 --> 00:29:19,560
+a accedere ai suoi obiettivi, la maniera di aiutarli a accedere ai suoi obiettivi,
+
+258
+00:29:19,560 --> 00:29:26,700
+la maniera di accedere a che non ha questa desviazione strategica nel suo lavoro
+
+259
+00:29:28,080 --> 00:29:34,020
+si fondamenta in un, due, tre, quattro, cinque, sei sistemi.
+
+260
+00:29:34,500 --> 00:29:37,660
+Questi sistemi sono i quelli che non c'è nella compagnie familiare.
+
+261
+00:29:37,880 --> 00:29:43,000
+Con frequenza, in una riunione del consejo di amministrazione della compagnie familiare,
+
+262
+00:29:43,000 --> 00:29:49,340
+Quando dici, è arrivato il momento di gastare il dinheiro in mettere un sistema di questi,
+
+263
+00:29:49,660 --> 00:29:51,120
+rispondono, no.
+
+264
+00:29:51,780 --> 00:29:56,960
+È arrivato il momento di comprare una macchina nuova.
+
+265
+00:29:57,520 --> 00:29:59,380
+Il sistema di comunicazione,
+
+266
+00:30:00,100 --> 00:30:03,060
+la comprensa familiare si sostituisce per
+
+267
+00:30:03,060 --> 00:30:05,860
+quando ci troviamo nella escalata
+
+268
+00:30:05,860 --> 00:30:08,040
+o domingo parliamo con noi,
+
+269
+00:30:08,720 --> 00:30:10,580
+non si può sostituire così.
+
+270
+00:30:10,580 --> 00:30:13,720
+Il sistema di rendere conti,
+
+271
+00:30:14,480 --> 00:30:20,240
+il sistema di informare come faccio le cose e perché le faccio bene o male,
+
+272
+00:30:20,580 --> 00:30:24,060
+il sistema di evaluazione dei risultati,
+
+273
+00:30:24,360 --> 00:30:27,400
+il sistema di evaluazione delle qualità,
+
+274
+00:30:27,760 --> 00:30:30,300
+dei suoi conoscenti, dei suoi attività
+
+275
+00:30:30,300 --> 00:30:32,680
+per poter dargli la formazione,
+
+276
+00:30:33,020 --> 00:30:37,360
+la carriera professionale che Alfredo ha commentato un momento fa,
+
+277
+00:30:37,360 --> 00:30:42,880
+il sistema di remunerazione che deve essere il sistema di remunerazione del mercato.
+
+278
+00:30:43,220 --> 00:30:46,880
+E se nel mercato, in questi momenti, almeno in Spagna,
+
+279
+00:30:47,100 --> 00:30:48,700
+molto più in Francia,
+
+280
+00:30:49,160 --> 00:30:51,880
+la moda è nelle opzioni di stock,
+
+281
+00:30:52,260 --> 00:30:57,900
+nelle compagnie familiare dobbiamo sapere utilizzare le opzioni di stock,
+
+282
+00:30:58,600 --> 00:31:02,800
+che fa molti anni che si sa che si può fare con le phantom shares.
+
+283
+00:31:04,540 --> 00:31:08,340
+Questo è uno dei grandi problemi della compagnie familiare.
+
+284
+00:31:08,580 --> 00:31:13,060
+Mariano Puig, il di Paco Raban, è un magnifico professionale,
+
+285
+00:31:13,320 --> 00:31:19,380
+ma forse nelle compagnie familiare ci sono i sistemi di direzione.
+
+286
+00:31:19,380 --> 00:31:29,460
+E finalmente, se in realtà alcuno di voi del 74%
+
+287
+00:31:29,460 --> 00:31:32,280
+che non hanno il pacto di famiglia,
+
+288
+00:31:32,280 --> 00:31:36,980
+se in realtà alcuno di voi desidera di farci un'occasione,
+
+289
+00:31:37,820 --> 00:31:42,220
+provate presto di iniziare il sviluppo del pacto di famiglia.
+
+290
+00:31:42,520 --> 00:31:47,440
+Il pacto di famiglia è un procedimento
+
+291
+00:31:47,440 --> 00:31:54,980
+per evitare che la compagnie familiare si trova in trampi che sono proprie di lui.
+
+292
+00:31:55,500 --> 00:31:59,680
+Trampi di confondere la proprietà con la capacità di gestione,
+
+293
+00:31:59,680 --> 00:32:03,880
+trampi di confondere le regole della famiglia con le regole della proprietà,
+
+294
+00:32:05,100 --> 00:32:06,880
+trampi di ritrasare la successione,
+
+295
+00:32:07,880 --> 00:32:12,900
+trampi di non distinguere il governance e il management, di governo e di direzione.
+
+296
+00:32:13,120 --> 00:32:14,900
+Il pacto di famiglia è per questo.
+
+297
+00:32:15,340 --> 00:32:17,920
+Il pacto di famiglia è per questo e per alcune altre cose.
+
+298
+00:32:18,320 --> 00:32:22,380
+Il pacto di famiglia, inoltre, è un procedimento
+
+299
+00:32:25,820 --> 00:32:28,120
+progresivo, volutariamente querido,
+
+300
+00:32:28,560 --> 00:32:32,180
+per apprendere a vivere in democrazia, in consenso,
+
+301
+00:32:33,340 --> 00:32:38,100
+non in dittadura, non in tirania, in le imprese familiari.
+
+302
+00:32:38,880 --> 00:32:39,320
+Grazie.
+
+303
+00:32:47,880 --> 00:32:50,680
+La parola a Tonino Perna, grazie.
+
+304
+00:32:55,940 --> 00:32:56,300
+Buonasera.
+
+305
+00:32:57,520 --> 00:33:00,840
+Io ho accettato molto volentieri, evidentemente,
+
+306
+00:33:01,520 --> 00:33:03,880
+le grandi aziende poi se ne appropriano
+
+307
+00:33:03,880 --> 00:33:08,640
+e forse sarebbe quasi il caso di cominciare a pensare
+
+308
+00:33:08,640 --> 00:33:12,400
+alla grande industria di far pagare
+
+309
+00:33:12,400 --> 00:33:17,220
+quando si appropia delle idee e dei prodotti della piccola azienda.
+
+310
+00:33:18,900 --> 00:33:22,240
+Il rischio vero, io sono stato una piccola azienda da pochi anni
+
+311
+00:33:23,620 --> 00:33:27,080
+e fino a qualche anno fa ero un'azienda nata da niente,
+
+312
+00:33:27,160 --> 00:33:28,940
+di piccolissima dimensione.
+
+313
+00:33:29,840 --> 00:33:33,040
+Oggi sono già un piccolo gruppo
+
+314
+00:33:33,660 --> 00:33:37,260
+che ha le pretese di competere con i grandi gruppi.
+
+315
+00:33:37,420 --> 00:33:40,500
+Ho già una società quotata che è l'ITR Holding,
+
+316
+00:33:40,740 --> 00:33:42,260
+ne sto quotando un'altra,
+
+317
+00:33:42,400 --> 00:33:44,940
+sto facendo ulteriori diversificazioni,
+
+318
+00:33:46,020 --> 00:33:48,940
+però non dimentico, e nel mio percorso
+
+319
+00:33:48,940 --> 00:33:55,540
+mi sono sempre organizzato a gestire la dimensione del momento,
+
+320
+00:33:56,620 --> 00:33:58,340
+però le esperienze a tutto campo,
+
+321
+00:33:58,340 --> 00:34:00,240
+che ho fatto nella piccola dimensione,
+
+322
+00:34:00,300 --> 00:34:03,680
+mi stanno aiutando anche in settori molto diversi
+
+323
+00:34:04,260 --> 00:34:08,640
+da quello nel quale ho fatto la prima esperienza.
+
+324
+00:34:09,460 --> 00:34:10,820
+E il problema qual è?
+
+325
+00:34:11,460 --> 00:34:15,280
+Piccoli per scelta secondo me c'è un grande futuro,
+
+326
+00:34:15,980 --> 00:34:18,360
+piccoli perché non si riesce a crescere
+
+327
+00:34:18,360 --> 00:34:21,360
+quando si ha l'ambizione di crescere è un'altra cosa,
+
+328
+00:34:21,840 --> 00:34:26,000
+e forse si cresce quel tanto che proietta la piccola azienda
+
+329
+00:34:26,000 --> 00:34:29,060
+nella fascia del vorrei ma non posso,
+
+330
+00:34:30,320 --> 00:34:33,440
+quella fascia media che il mercato sta eliminando
+
+331
+00:34:33,440 --> 00:34:35,600
+mentre sta puntando sui grandi gruppi
+
+332
+00:34:35,600 --> 00:34:37,960
+e sulle piccole aziende che sono però capace
+
+333
+00:34:37,960 --> 00:34:40,180
+di fornire prodotti e servizi
+
+334
+00:34:40,560 --> 00:34:43,940
+che solo la piccola azienda può e deve offrire.
+
+335
+00:34:47,700 --> 00:34:51,600
+Stamattina ho sentito il modello della piccola azienda,
+
+336
+00:34:51,880 --> 00:34:55,880
+il Ministro già vede dallo specchietto retrovisore,
+
+337
+00:34:56,740 --> 00:34:58,680
+io non credo che un modello,
+
+338
+00:34:58,760 --> 00:35:00,500
+e qui dovete essere più gelosi,
+
+339
+00:35:00,840 --> 00:35:03,800
+evidentemente la voce del piccolo imprenditore in Italia
+
+340
+00:35:03,800 --> 00:35:05,400
+deve essere anche più forte,
+
+341
+00:35:05,800 --> 00:35:10,240
+sia un modello superato o statico,
+
+342
+00:35:10,540 --> 00:35:12,720
+un modello se resta sul mercato
+
+343
+00:35:13,300 --> 00:35:14,860
+evidentemente si evolve essa giornata
+
+344
+00:35:14,860 --> 00:35:17,340
+per cui non si ha un'immagine bloccata
+
+345
+00:35:17,340 --> 00:35:19,280
+del modello della piccola azienda.
+
+346
+00:35:19,560 --> 00:35:22,560
+Oggi la piccola azienda si è internazionalizzata
+
+347
+00:35:22,560 --> 00:35:25,660
+in tantissimi casi e anche noi stiamo crescendo
+
+348
+00:35:25,660 --> 00:35:27,400
+sulla piccola azienda,
+
+349
+00:35:27,980 --> 00:35:30,240
+si integra con il gruppo,
+
+350
+00:35:30,520 --> 00:35:32,560
+con i marchi più prestigiosi
+
+351
+00:35:32,560 --> 00:35:35,400
+per arrivare e diffondersi sui mercati,
+
+352
+00:35:35,540 --> 00:35:37,600
+ma con un ruolo ben definito
+
+353
+00:35:37,600 --> 00:35:40,420
+e oserei affermare
+
+354
+00:35:40,420 --> 00:35:45,480
+che il sistema economico produttivo italiano
+
+355
+00:35:45,480 --> 00:35:48,680
+di tante cose potrebbe farne a meno
+
+356
+00:35:48,680 --> 00:35:53,100
+tranne che del contributo che la piccola dimensione,
+
+357
+00:35:53,100 --> 00:35:56,420
+quella efficiente, riesce a sviluppare.
+
+358
+00:35:58,500 --> 00:36:05,340
+Certo, l'ambizione è quella che poi muove l'economia,
+
+359
+00:36:05,720 --> 00:36:07,260
+il salto di qualità,
+
+360
+00:36:07,900 --> 00:36:11,880
+tutti hanno il diritto di aspirare e poterlo fare.
+
+361
+00:36:15,480 --> 00:36:18,140
+In quel momento bisogna capire
+
+362
+00:36:18,140 --> 00:36:21,380
+che si deve abbandonare la cultura del fare,
+
+363
+00:36:22,160 --> 00:36:26,020
+si deve rinunciare a stare nello stabilimento
+
+364
+00:36:26,020 --> 00:36:28,280
+e bisogna creare i presupposti,
+
+365
+00:36:28,280 --> 00:36:29,120
+si è già detto,
+
+366
+00:36:30,020 --> 00:36:31,980
+i presupposti e gli strumenti
+
+367
+00:36:31,980 --> 00:36:33,960
+per gestire la nuova dimensione.
+
+368
+00:36:38,060 --> 00:36:40,780
+Allora, la prima cosa da fare, secondo me,
+
+369
+00:36:41,580 --> 00:36:44,780
+è non rimanere troppo tempo nella fascia media.
+
+370
+00:36:45,400 --> 00:36:51,380
+Dalla piccola dimensione bisogna subito velocemente
+
+371
+00:36:51,380 --> 00:36:54,900
+proiettarsi nella media alta dimensione,
+
+372
+00:36:55,060 --> 00:36:59,420
+altrimenti si rischia di ricattarsi troppo facilmente.
+
+373
+00:36:59,740 --> 00:37:01,340
+Condivido che questo è il momento
+
+374
+00:37:01,340 --> 00:37:04,400
+dove abbondano i capitali,
+
+375
+00:37:04,680 --> 00:37:05,720
+mangano i progetti,
+
+376
+00:37:06,120 --> 00:37:09,360
+se il piccolo ha l'ambizione e l'idea
+
+377
+00:37:09,360 --> 00:37:11,100
+di fare il salto dimensionale,
+
+378
+00:37:11,660 --> 00:37:15,420
+questo è il momento migliore.
+
+379
+00:37:17,660 --> 00:37:19,280
+Quindi, dicevo subito,
+
+380
+00:37:19,320 --> 00:37:21,200
+proiettarsi in una dimensione grande
+
+381
+00:37:21,200 --> 00:37:24,960
+e soprattutto abbandonare la cultura del fare
+
+382
+00:37:24,960 --> 00:37:27,420
+e passare alla cultura delle deleche.
+
+383
+00:37:32,180 --> 00:37:35,120
+E bisogna anche spersonalizzare
+
+384
+00:37:35,740 --> 00:37:37,120
+l'attività professionale,
+
+385
+00:37:38,320 --> 00:37:42,120
+cioè non staccarsi dal prodotto,
+
+386
+00:37:43,100 --> 00:37:45,480
+staccarsi dalle attività quotidiane,
+
+387
+00:37:46,040 --> 00:37:47,360
+mettersi a distanza,
+
+388
+00:37:47,540 --> 00:37:50,540
+e a quel punto non è più chi fa,
+
+389
+00:37:50,640 --> 00:37:51,720
+ma chi giudica.
+
+390
+00:37:53,220 --> 00:37:55,520
+Evidentemente, anche per fare questo,
+
+391
+00:37:55,680 --> 00:37:57,220
+per staccarsi dall'azienda,
+
+392
+00:37:57,220 --> 00:38:00,020
+si deve avere la dimensione per poter catturare.
+
