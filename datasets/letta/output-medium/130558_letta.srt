@@ -1,0 +1,468 @@
+1
+00:00:00,000 --> 00:00:06,920
+vera. Va capita in modo molto chiaro da parte di tutti perché c'è il rischio di
+
+2
+00:00:06,920 --> 00:00:12,800
+intendere questa fase come una qualche fase di un processo che viene da
+
+3
+00:00:12,800 --> 00:00:15,740
+lontano. Non lo è, c'è uno stacco netto e se
+
+4
+00:00:15,740 --> 00:00:20,120
+n'accorgono che questo mestiere lo fanno da tanti anni prima di
+
+5
+00:00:20,120 --> 00:00:28,140
+chiunque altro. Il computer, l'informatica non è più uno strumento per elaborare
+
+6
+00:00:28,140 --> 00:00:33,160
+come ci hanno insegnato i nostri maestri in università da trent'anni a questa
+
+7
+00:00:33,160 --> 00:00:39,540
+parte, è uno strumento per comunicare. Secondo me sono accenti che oggi sono
+
+8
+00:00:39,540 --> 00:00:44,380
+stati dati che vanno ripresi perché sono elementi di forte sottolineatura per
+
+9
+00:00:44,380 --> 00:00:50,800
+comprendere che cosa sta accadendo. La seconda cosa che mi sento di
+
+10
+00:00:50,800 --> 00:00:56,740
+sottolineare, purtroppo l'ingegnere Gallimberti a pomeriggio non c'è,
+
+11
+00:00:56,740 --> 00:01:01,460
+ha fatto un'osservazione che io ripeto importante quando ha parlato del vero
+
+12
+00:01:01,460 --> 00:01:09,060
+valore aggiunto inteso come velocità e qualità. Velocità senz'altro, oggi per
+
+13
+00:01:09,060 --> 00:01:15,260
+esserci bisogna essere veloci ma sicuramente anche qualità perché molti
+
+14
+00:01:15,260 --> 00:01:21,760
+partiranno e qualcuno sopravviverà, non è uno slogan che è particolarmente
+
+15
+00:01:21,760 --> 00:01:26,520
+interessante, molti partiranno e faranno cose varie, qualcuno ci metterà della
+
+16
+00:01:26,520 --> 00:01:31,560
+qualità e io spero proprio che questo qualcuno sia poi in grado di essere non
+
+17
+00:01:31,560 --> 00:01:37,360
+solo nell'onda in crescita ma quando poi l'onda si stabilizzerà. Due rapidissimi
+
+18
+00:01:37,360 --> 00:01:42,540
+argomenti che non sono stati trattati secondo me a sufficienza e su quale
+
+19
+00:01:42,540 --> 00:01:47,600
+provo a fare un paio di riflessioni. Uno è dove si crea valore nella new
+
+20
+00:01:47,600 --> 00:01:57,020
+economy, scusate io capisco il commercio elettronico però ho la sensazione che la
+
+21
+00:01:57,020 --> 00:02:01,720
+tecnologia di cui stiamo parlando possa creare ben altro valore che consentire
+
+22
+00:02:02,740 --> 00:02:06,480
+semplicemente, semplicemente tra virgolette, mezzi diversi per fare
+
+23
+00:02:07,260 --> 00:02:12,230
+commercio. Dove si crea davvero la valore secondo me oggi lo sanno
+
+24
+00:02:12,230 --> 00:02:20,770
+in pochi, molte imprese di new economy fanno soldi con la pubblicità e forse
+
+25
+00:02:20,770 --> 00:02:24,630
+non è questo il modo di creare valore. Allora la mia opinione è che internet
+
+26
+00:02:24,630 --> 00:02:30,250
+oggi ha creato una tecnologia, una infrastruttura che sostanzialmente rende
+
+27
+00:02:30,250 --> 00:02:35,690
+disponibile l'informazione, lo sanno bene quelle società che fino a oggi hanno
+
+28
+00:02:35,690 --> 00:02:39,030
+venduto informazioni, hanno fatto soldi vendendo informazioni, sto pensando
+
+29
+00:02:39,030 --> 00:02:43,810
+all'information provider, Reuters, Bloomberg, Telerate, tutti quelli che hanno fatto
+
+30
+00:02:44,390 --> 00:02:48,650
+quattrini perché erano di fatto coloro che detenevano la distribuzione
+
+31
+00:02:48,650 --> 00:02:53,110
+dell'informazione. Oggi questo problema non esiste più, l'informazione c'è forse
+
+32
+00:02:53,110 --> 00:02:58,890
+se ne fin troppa e il problema forse più importante è quello di avere degli
+
+33
+00:02:58,890 --> 00:03:05,170
+strumenti per organizzarla, per filtra'la e per costruire sull'informazione dei
+
+34
+00:03:05,870 --> 00:03:11,830
+Io credo che la sfida vera che oggi abbiamo di fronte non è tanto il fatto
+
+35
+00:03:11,830 --> 00:03:16,290
+che internet arrivi dappertutto e distribuisca le informazioni, che questo
+
+36
+00:03:16,290 --> 00:03:21,330
+è un fatto assodato e così, l'informazione c'è, il problema è quali
+
+37
+00:03:21,330 --> 00:03:27,830
+sono e come si fa a costruire servizi a valore aggiunto che creino davvero valore.
+
+38
+00:03:29,190 --> 00:03:36,070
+E qui vengo all'ultima cosa che è stata per fortuna ripresa nel pomeriggio,
+
+39
+00:03:36,910 --> 00:03:41,630
+direi un paio di interventi, ma che forse fa posta ancora con maggiore forza, che
+
+40
+00:03:41,630 --> 00:03:45,830
+è quella della formazione. La mia società ha fatto un business plan alla fine del
+
+41
+00:03:45,830 --> 00:03:51,650
+quale ci siamo resi conto che l'elemento di freno è la mancanza di persone, non
+
+42
+00:03:51,650 --> 00:03:57,750
+dico risorse umane perché è una parola che non mi piace molto, di persone, di
+
+43
+00:03:57,750 --> 00:04:01,690
+persone competenti, di persone professionalmente riparate, di persone
+
+44
+00:04:01,690 --> 00:04:06,910
+interessate a fare con intelligenza un mestire che richiede grande sforzo,
+
+45
+00:04:07,070 --> 00:04:14,690
+grande fatica e che può dare grandi risultati. La questione secondo me a
+
+46
+00:04:14,690 --> 00:04:20,530
+questo punto ha caratteri di drammaticità, un anno fa si trovava un
+
+47
+00:04:20,530 --> 00:04:24,770
+buon progettista software, un buon ingegnere di rete a Milano abbastanza
+
+48
+00:04:24,770 --> 00:04:29,330
+facilmente a prezzi ragionevoli, oggi non si trova se non a prezzi
+
+49
+00:04:29,330 --> 00:04:35,330
+assolutamente fuori dal mondo, significa che esiste una necessità per l'impresa
+
+50
+00:04:35,330 --> 00:04:39,850
+innovativa di avere personale e questo personale non c'è, questo non è solo un
+
+51
+00:04:39,850 --> 00:04:45,410
+fatto italiano, è sicuramente un fatto europeo e forse non solo europeo, ma
+
+52
+00:04:45,410 --> 00:04:49,250
+poiché abbiamo detto oggi che l'Italia è così in arredrato,
+
+53
+00:04:49,250 --> 00:04:55,450
+io voglio pensare che uno degli elementi sui quali questo gap di ritardo si
+
+54
+00:04:55,450 --> 00:05:01,690
+possa colmare sia quello di riuscire a produrre e con interventi straordinari,
+
+55
+00:05:01,770 --> 00:05:06,530
+con interventi che abbiano un impatto rapido come rapida all'evoluzione di
+
+56
+00:05:06,530 --> 00:05:12,830
+questa tecnologia, una quantità, non dico una qualità, ma una quantità di
+
+57
+00:05:13,410 --> 00:05:17,690
+personale sufficientemente qualificato che si possa immettere in questo mondo,
+
+58
+00:05:17,690 --> 00:05:22,750
+oggi qualcuno dice mancano 10-12 mila informatici e ingegneri della
+
+59
+00:05:23,690 --> 00:05:28,030
+telecomunicazione all'anno, probabilmente sono di più,
+
+60
+00:05:28,130 --> 00:05:33,430
+ecco questo aspetto secondo me va assolutamente sottolineato perché ancora
+
+61
+00:05:33,430 --> 00:05:39,590
+una volta questo diventa l'unico elemento sul quale noi possiamo sperare
+
+62
+00:05:39,590 --> 00:05:47,670
+di risolvere la distanza che esiste rispetto ad altri paesi, oggi la materia
+
+63
+00:05:47,670 --> 00:05:52,450
+sono d'accordo con chi l'ha detto, si trovano, ma quello che manca sono le
+
+64
+00:05:52,450 --> 00:05:57,650
+persone che siano capaci poi di farle camminare, grazie.
+
+65
+00:06:01,330 --> 00:06:07,850
+Sono decitato da dentro dell'industria se vuole dire due parole ora e noi lo
+
+66
+00:06:07,850 --> 00:06:17,450
+ascoltiamo, io ci sono abituato, il Pisani anche, sì sono ovviamente molte
+
+67
+00:06:17,450 --> 00:06:25,990
+le cose da dire, io metto 4-5 titoli uno dopo l'altro, è molto
+
+68
+00:06:25,990 --> 00:06:30,510
+interessante, molte delle cose che sono state dette sono molto interessanti, verrebbe
+
+69
+00:06:31,170 --> 00:06:35,730
+di aggiungere osservazioni da osservatore, credo però che ognuno di noi sia qui
+
+70
+00:06:35,730 --> 00:06:43,650
+anche nei ruoli che svolge il Presidente del CNR in quanto noi che siamo, che
+
+71
+00:06:43,650 --> 00:06:48,630
+abbiamo oggi un ruolo di governo credo che sia giusto anche dire alcune cose che
+
+72
+00:06:48,630 --> 00:06:53,770
+sono legate al ruolo che abbiamo, allora credo il punto essenziale è che cosa e
+
+73
+00:06:53,770 --> 00:06:59,130
+come le istituzioni pubbliche devono affrontare questa rivoluzione, rivoluzione
+
+74
+00:06:59,130 --> 00:07:04,250
+che interroga le istituzioni pubbliche innanzitutto con una tempistica molto
+
+75
+00:07:04,250 --> 00:07:12,590
+strana, sei mesi fa noi di questi temi non avremmo parlato, da qualche mese in
+
+76
+00:07:12,590 --> 00:07:18,010
+ogni rignone di governo interministeriale eccetera si parla quasi, adesso non dico
+
+77
+00:07:18,010 --> 00:07:25,210
+quasi esclusivamente ma moltissimo di questo, come le istituzioni pubbliche
+
+78
+00:07:25,210 --> 00:07:30,150
+devono muoversi rispetto a un problema o a temi come questi, credo che la risposta
+
+79
+00:07:30,150 --> 00:07:35,030
+non sia scontata perché credo che almeno in tanti dibatti che ho seguito
+
+80
+00:07:35,030 --> 00:07:39,950
+normalmente ci sono due voci estreme e contrastanti tra di loro, chi dice
+
+81
+00:07:39,950 --> 00:07:45,010
+statene fuori il più possibile tenete fuori anzi le istituzioni il più
+
+82
+00:07:45,010 --> 00:07:50,810
+possibile e chi dice invece no c'è bisogno che ci sia un intervento
+
+83
+00:07:50,810 --> 00:07:57,010
+incentivante, un intervento che crei condizioni al contorno, non è semplice
+
+84
+00:07:57,010 --> 00:08:01,950
+credo trovare una risposta univoca, secondo me ci sono alcune cose che le
+
+85
+00:08:01,950 --> 00:08:06,670
+istituzioni pubbliche devono fare, è giusto che le istituzioni pubbliche
+
+86
+00:08:07,390 --> 00:08:11,890
+facciano, sono risposte ad alcune questioni che sono venute fuori, la prima
+
+87
+00:08:11,890 --> 00:08:18,590
+se cambia la cultura per la quale il fallimento non è più un marchio di
+
+88
+00:08:20,110 --> 00:08:25,490
+infamia perché nascono molte imprese, molte muoiono, molte rinascono eccetera
+
+89
+00:08:25,490 --> 00:08:31,090
+deve probabilmente cambiare qualcosa nelle regole perché noi abbiamo un corpo
+
+90
+00:08:31,090 --> 00:08:35,690
+di regole per le quali il fallimento è ancora un marchio di infamia, credo che
+
+91
+00:08:35,690 --> 00:08:41,750
+questo sia, metto il titolo e non vado oltre perché credo che sia, però credo
+
+92
+00:08:41,750 --> 00:08:45,670
+che questo sia un primo problema, il fallimento non può più essere un
+
+93
+00:08:45,670 --> 00:08:49,810
+marchio di infamia, deve esserci anzi uno stimolo, non dico uno stimolo a fallire
+
+94
+00:08:49,810 --> 00:08:55,850
+per carità, ma uno stimolo a risollevarsi, a ripartire, a considerare
+
+95
+00:08:55,850 --> 00:09:02,210
+questo aspetto come un aspetto secondo punto adesso collegato, è stato detto
+
+96
+00:09:02,210 --> 00:09:08,870
+in molti degli interventi come si finanzia tutto ciò che nasce in
+
+97
+00:09:08,870 --> 00:09:15,330
+questo modo, questo vale sia per le imprese che lavorano direttamente
+
+98
+00:09:15,330 --> 00:09:19,150
+sulla rete ma questi ragionamenti valgono anche in generale per
+
+99
+00:09:19,150 --> 00:09:25,030
+tutte le piccole o medie imprese oggi, a me colpisce sempre questa cifra che mi
+
+100
+00:09:25,030 --> 00:09:31,170
+hanno spiegato, raccontato e secondo me molto interessante, la differenza tra le
+
+101
+00:09:31,170 --> 00:09:35,190
+cento lire di investimento dell'imprenditore italiano e le cento
+
+102
+00:09:35,190 --> 00:09:39,370
+lire di investimento dell'imprenditore americano, per cui le cento lire
+
+103
+00:09:39,370 --> 00:09:45,710
+dell'italiano sono così ripartite, sono 40 dal proprio portafoglio, 45 di
+
+104
+00:09:45,710 --> 00:09:53,550
+credito bancario e soltanto 15 raccimolate come capitale, mentre invece
+
+105
+00:09:53,550 --> 00:09:59,570
+quelle dell'imprenditore americano sono 10 di proprio portafoglio, 20 di credito
+
+106
+00:09:59,570 --> 00:10:05,790
+bancario e 70 invece raccimolate in termini di capitale, allora il problema è
+
+107
+00:10:06,890 --> 00:10:12,870
+credo quello di far sì che ci sia la possibilità di un fluire di risorse che
+
+108
+00:10:12,870 --> 00:10:18,410
+tolgano visto che appunto si diceva creatività inventiva eccetera non può
+
+109
+00:10:18,410 --> 00:10:24,590
+essere che l'impresa sia condizionata soltanto dal fatto che uno sia figlio
+
+110
+00:10:24,590 --> 00:10:29,430
+di un imprenditore quindi abbia alle spalle un capitale che gli viene
+
+111
+00:10:29,430 --> 00:10:33,150
+trasmesso oppure che abbia buoni rapporti con la locale cassa di risparmio
+
+112
+00:10:33,150 --> 00:10:38,610
+perché molte volte in giro per il paese l'impresa nasce così e io credo invece
+
+113
+00:10:38,610 --> 00:10:44,190
+che questo sia contraddittorio sostanzialmente come con tutto ciò di
+
+114
+00:10:44,190 --> 00:10:49,050
+cui abbiamo parlato fino a oggi, fin adesso, ovviamente su questo c'è bisogno
+
+115
+00:10:49,050 --> 00:10:53,670
+forse di regole, di cambiamenti di regole, di uno stimolo al venture capital, di
+
+116
+00:10:53,670 --> 00:10:58,890
+uno stimolo alla capitalizzazione, girando in questo periodo per soprattutto
+
+117
+00:10:58,890 --> 00:10:59,970
+per il centro nord
+
