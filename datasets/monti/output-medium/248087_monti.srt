@@ -1,0 +1,308 @@
+1
+00:00:12,260 --> 00:00:20,180
+Buongiorno, sono molto lieto di dare il benvenuto a tutti voi alla Bocconi e di dare avvio
+
+2
+00:00:20,180 --> 00:00:30,860
+a questa prima iniziativa internazionale dello IEFE rinnovato, dello IEFE Center for Research on
+
+3
+00:00:30,860 --> 00:00:38,820
+Energy and Environmental Economics and Policy della Bocconi. Lo IEFE è nella famiglia boconiano una
+
+4
+00:00:38,820 --> 00:00:50,250
+gloriosa istituzione di ricerca che è stata oggetta recentemente di uno sforzo intenso di
+
+5
+00:00:50,880 --> 00:01:00,420
+valorizzazione ulteriore da parte dell'università e con il coinvolgimento di personalità competenti
+
+6
+00:01:00,420 --> 00:01:06,020
+sulle tematiche energetiche e ambientali che potessero darci un contributo per lo sviluppo
+
+7
+00:01:06,020 --> 00:01:14,720
+interiore dello IEFE. Voglio particolarmente ringraziare il professor Pippo Ranci che in
+
+8
+00:01:14,720 --> 00:01:22,100
+quella fase e in questa fase ci è stato e ci è di particolare aiuto e che oggi presiede come è
+
+9
+00:01:22,100 --> 00:01:34,440
+noto il comitato scientifico dello IEFE. Il presidente onorario è Rinzo Capra che ha guidato
+
+10
+00:01:34,440 --> 00:01:42,620
+lungo lo IEFE come presidente. Il presidente è Alberto Meo Martini e il direttore è Clara
+
+11
+00:01:42,620 --> 00:01:53,720
+Poletti. Siamo grati in particolare oggi al commissario Pibalks e al presidente dell'autorità
+
+12
+00:01:53,720 --> 00:02:00,380
+Alessandro Ortiz per la loro presenza. Quella del commissario Pibalks è annunciata tra pochi
+
+13
+00:02:01,780 --> 00:02:11,780
+nonché agli illustri relatori sia del mondo accademico sia del mondo delle imprese energetiche
+
+14
+00:02:11,780 --> 00:02:22,660
+che animeranno la nostra conversazione. Credo possa avere luogo da parte mia in questo momento
+
+15
+00:02:22,660 --> 00:02:30,360
+anche in italiano perché pare che ci sia la traduzione simultanea per gli ospiti non italiani.
+
+16
+00:02:33,300 --> 00:02:43,220
+Il punto essenziale della conferenza di oggi è quello delle politiche sul cambiamento climatico
+
+17
+00:02:43,220 --> 00:02:52,100
+e sull'energia. Sono due temi che sono oggi al centro dell'attenzione politica internazionale.
+
+18
+00:02:52,640 --> 00:03:01,040
+Il quarto rapporto recentemente presentato dal Intergovernmental Panel for Climate Change e
+
+19
+00:03:01,040 --> 00:03:09,000
+altri studi confermano l'evidenza di un cambiamento climatico ben in corso e dei
+
+20
+00:03:09,000 --> 00:03:18,780
+suoi effetti negativi sulla vita e sull'economia del nostro pianeta. Le negoziazioni su un accordo
+
+21
+00:03:19,900 --> 00:03:29,880
+comprensivo vasto post 2012 per allargare e portare oltre il protocollo di Chioto sono in
+
+22
+00:03:29,880 --> 00:03:38,340
+corso e includono gli Stati Uniti e paesi in via di sviluppo. Per quanto riguarda l'Unione Europea,
+
+23
+00:03:38,920 --> 00:03:45,200
+direttive sulle energie rinnovabili, sull'emission trading, sulla efficienza energetica sono già
+
+24
+00:03:45,800 --> 00:03:54,740
+in vigore, come è noto, ma è fortemente sentito il bisogno di nuove e di più efficaci e più
+
+25
+00:03:54,740 --> 00:04:01,380
+vincolanti regolamentazioni. Perlomeno questo è sentito dalla Commissione Europea e da alcuni
+
+26
+00:04:01,380 --> 00:04:09,200
+degli Stati membri. Molto lavoro è in corso. Nel marzo 2007, come è noto, il Consiglio Europeo
+
+27
+00:04:09,200 --> 00:04:18,400
+ha adottato un piano integrato, energia a cambiamento climatico, che considera e che
+
+28
+00:04:18,400 --> 00:04:26,960
+stabilisce obiettivi vincolanti su efficienza energetica, energie rinnovabili e riduzione
+
+29
+00:04:26,960 --> 00:04:34,200
+delle emissioni. Centrale a questo piano è il riconoscimento che le politiche per l'energia
+
+30
+00:04:34,200 --> 00:04:42,320
+e per il cambiamento climatico devono andare mano nella mano. I Stati membri si sono accordati
+
+31
+00:04:42,320 --> 00:04:53,400
+sulla necessità di decisive and immediate action per limitare l'aumento della temperatura
+
+32
+00:04:53,400 --> 00:05:04,600
+media globale a non oltre i 2 gradi centigradi al di sopra dei livelli preindustriali. La sensibilità
+
+33
+00:05:04,600 --> 00:05:11,640
+per queste cose è ovviamente enormemente aumentata. Io ricordo esattamente dieci anni fa, quando
+
+34
+00:05:11,640 --> 00:05:19,940
+nel marzo del 1997, 11 anni fa, come Commissario al Mercato Interno e alla Fiscalità presentai
+
+35
+00:05:19,940 --> 00:05:28,480
+la prima proposta di direttiva sulla tassazione della CO2, ricordo il Consiglio dei Ministri
+
+36
+00:05:28,480 --> 00:05:35,420
+dell'Ambiente, nel quale la Repubblica federale tedesca era rappresentata dal Ministro dell'Ambiente,
+
+37
+00:05:35,660 --> 00:05:44,320
+Angela Merkel, favorevole a quella proposta, ma era veramente un remare contro una situazione
+
+38
+00:05:44,320 --> 00:05:50,940
+enormemente più difficile di quella di oggi, pur così difficile ancora, ma la consapevolezza
+
+39
+00:05:50,940 --> 00:05:57,880
+è fortemente aumentata. Dopo il Consiglio europeo, al quale ho fatto appena riferimento
+
+40
+00:05:57,880 --> 00:06:05,260
+del marzo 2007, un mese fa la Commissione europea ha presentato proposte su obiettivi
+
+41
+00:06:05,260 --> 00:06:12,260
+vincolanti nazionali da raggiungersi per il 2020 sul contributo delle energie rinnovabili
+
+42
+00:06:12,260 --> 00:06:22,300
+al consumo finale di energia e sulla quota dei biocarburanti. Inoltre, le proposte includono
+
+43
+00:06:22,300 --> 00:06:38,680
+un aggiornamento degli obiettivi nazionali di emissione di greenhouse gas e altri obiettivi.
+
+44
+00:06:38,680 --> 00:06:45,140
+Il settore dell'energia è una delle fonti principali di emissioni di greenhouse gas
+
+45
+00:06:45,790 --> 00:06:52,560
+di effetto serra. L'azione per ridurre le emissioni quindi necessariamente deve avere
+
+46
+00:06:52,560 --> 00:06:58,700
+un grosso impatto sulla produzione e sull'uso di energia. Un dibattito stimolante sui costi
+
+47
+00:06:58,700 --> 00:07:06,120
+e benefici dei diversi strumenti di politica è in corso e riflette la crescente complessità
+
+48
+00:07:06,120 --> 00:07:12,780
+delle politiche energetiche. Negli anni 90, quando la liberalizzazione dei mercati dell'energia
+
+49
+00:07:12,780 --> 00:07:23,960
+cominciò in Europa, le questioni di efficienza intesa nel breve termine guidavano il dibattito
+
+50
+00:07:23,960 --> 00:07:32,960
+economico. La politica energetica e la regolamentazione erano stabilite a livello nazionale per garantire
+
+51
+00:07:32,960 --> 00:07:41,280
+energia a buon mercato ai consumatori locali. Il graduale e grosso spostamento da sistemi
+
+52
+00:07:41,280 --> 00:07:46,780
+amministrativi a meccanismi di mercato ha portato a una profonda ristrutturazione di questi
+
+53
+00:07:46,780 --> 00:07:54,180
+settori in tutto il mondo e ha comportato fondamentali cambiamenti nel processo delle
+
+54
+00:07:54,180 --> 00:08:02,980
+decisioni e in molti casi ha trasferito scelte importanti dai governi, dalle amministrazioni
+
+55
+00:08:02,980 --> 00:08:12,620
+pubbliche agli operatori di mercato. Nel frattempo, l'attenzione delle politiche energetiche
+
+56
+00:08:12,620 --> 00:08:23,740
+si è progressivamente spostata a un insieme molto complesso di obiettivi interrelati
+
+57
+00:08:23,740 --> 00:08:29,600
+di lungo termine che vanno da quelli pertinenti al cambiamento climatico, alla sicurezza degli
+
+58
+00:08:29,600 --> 00:08:36,880
+approvvigionamenti e allo sviluppo industriale. L'adempimento degli obiettivi fissati dall'Unione
+
+59
+00:08:36,880 --> 00:08:44,720
+Europea richiederà quello che la stessa Commissione Europea chiama una nuova rivoluzione industriale.
+
+60
+00:08:44,720 --> 00:09:00,200
+Sarà necessario un formidabile investimento in an impressive amount of low carbon investments
+
+61
+00:09:00,200 --> 00:09:10,820
+will be needed, ma mi sforzo di stare sulla nostra lingua e secondo la Commissione Europea
+
+62
+00:09:10,820 --> 00:09:19,940
+Il costo minimo per conseguire simultaneamente la riduzione delle emissioni dal 20% e l'obiettivo
+
+63
+00:09:19,940 --> 00:09:32,820
+20% energie rinnovabili ammonterà allo 0,58% del PIL comunitario nel 2020. In questo scenario
+
+64
+00:09:32,820 --> 00:09:41,680
+il prezzo delle carbon emissions si stima che aumenterà dai 40 euro per tonnellata di CO2,
+
+65
+00:09:43,500 --> 00:09:56,400
+aumenterà a 40 euro per tonnellata di CO2. L'Unione Europea sta, io credo, dimostrando
+
+66
+00:09:56,400 --> 00:10:03,580
+sul piano internazionale, sul piano globale, una leadership che viene da tutti riconosciuta che
+
+67
+00:10:03,580 --> 00:10:09,840
+qualche volta è guardata un po' con apprensione dagli esponenti dell'economia europea, ma sul
+
+68
+00:10:11,680 --> 00:10:17,740
+piano della forza propulsiva credo che per una volta l'Unione Europea stia veramente dimostrando
+
+69
+00:10:18,840 --> 00:10:26,520
+leadership con molta determinazione, con molta tenacia e il Commissario Pibalk's merita molto
+
+70
+00:10:26,520 --> 00:10:33,240
+riconoscimento per questo mi spiace che non sia ancora qui, ci sarà presto.
+
+71
+00:10:40,460 --> 00:10:49,320
+L'ultima considerazione che vorrei fare quando si parla di, no non posso farla perché questa
+
+72
+00:10:49,320 --> 00:10:54,230
+volta non per un inciampo linguistico, ma perché è connessa con la presentazione di qualcosa che
+
+73
+00:10:54,700 --> 00:11:05,230
+quando sarà arrivato il Commissario Pibalk's, per cui vi prego di considerare chiusa qui la
+
+74
+00:11:05,230 --> 00:11:16,870
+mia breve nota introduttiva con il che prego il Professor Ranci di prendere la guida dei
+
+75
+00:11:16,870 --> 00:11:25,610
+lavori e mi scuso con tutti i presenti se fra non molto dovrò assentarmi perché inizierà in un
+
+76
+00:11:25,610 --> 00:11:31,090
+altro edificio del nostro piccolo campus il Consiglio di amministrazione dell'Università
+
+77
+00:11:31,090 --> 00:11:39,650
+Bocconi. Ancora molte grazie per la vostra presenza e per l'appoggio che in molti modi date all'OIEF.
+
