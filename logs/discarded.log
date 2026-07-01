@@ -645,3 +645,6 @@ https://www.radioradicale.it/scheda/91830/passaggio-a-nord-est-lunione-europea-f
 https://www.radioradicale.it/scheda/127761/e-business-award-ibm-premiazioni-dei-vincitori-del-1999-per-le-migliori-idee?i=1666725  ValueError: No timestamps
 https://www.radioradicale.it/scheda/301789/pd-presentazione-delle-proposte-per-luniversita?i=617856  ValueError: No timestamps
 https://www.radioradicale.it/scheda/274198/partito-democratico-presentazione-della-mozione-sulla-proposta-dellassegno-mensile-a?i=707224  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/letta/audio_out/_out_274198_letta.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/letta/audio_out/274198_letta.mp3'
+https://www.radioradicale.it/scheda/489797/europa-si-ma-quanta-e-quale-2a-ed-ultima-giornata?i=3624036  ValueError: No timestamps
+https://www.radioradicale.it/scheda/410975/the-state-of-the-union-2104?i=229348  ValueError: No timestamps
+https://www.radioradicale.it/scheda/396245/assemblea-nazionale-di-scelta-civica-seconda-e-conclusiva-giornata?i=282148  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/monti/audio_out/_out_396245_monti.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/monti/audio_out/396245_monti.mp3'
