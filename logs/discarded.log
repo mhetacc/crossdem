@@ -635,3 +635,9 @@ https://www.radioradicale.it/scheda/432621/servizio-sullelezione-di-sergio-matta
 https://www.radioradicale.it/scheda/402289/dichiarazioni-di-enrico-letta-a-margine-del-suo-incontro-con-van-rompuy-e-barroso?i=255574  ValueError: No timestamps
 https://www.radioradicale.it/scheda/236416/dichiarazioni-al-termine-dellincontro-tra-il-presidente-del-consiglio-romano-prodi-e-i?i=1113570  ValueError: No timestamps
 https://www.radioradicale.it/scheda/157922/il-socialista-spagnolo-josep-borell-e-stato-eletto-al-primo-turno-presidente-del?i=1382721  ValueError: No timestamps
+https://www.radioradicale.it/scheda/122855/i-lavori-della-i-convention-nazionale-degli-amministratori-locali-per-le-politiche?i=1724405  ValueError: No timestamps
+https://www.radioradicale.it/scheda/113958/parlamento-europeo-domani-nuova-fiducia-alla-commissione-prodi-la-lista-bonino-chiede?i=1825307  ValueError: No timestamps
+https://www.radioradicale.it/scheda/113779/firmato-un-accordo-tra-i-paesi-del-g8-per-una-risoluzione-da-proporre-allonu-sulla?i=1826599  ValueError: No timestamps
+https://www.radioradicale.it/scheda/108355/la-nuova-lista-prodi-di-pietro-centocitta-per-le-europee-lesigenza-di-una-legge-che?i=1882533  ValueError: No timestamps
+https://www.radioradicale.it/scheda/105517/crisi-di-governo-probabile-oggi-il-preincarico-a-massimo-dalema?i=1912835  RuntimeError: yt-dlp exited 1
+https://www.radioradicale.it/scheda/103920/la-situazione-del-partito-popolare-e-le-possibili-riforme-interne-che-dovrebbero?i=1932613  ValueError: No timestamps
