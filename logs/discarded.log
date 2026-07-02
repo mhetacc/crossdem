@@ -1036,3 +1036,6 @@ https://www.radioradicale.it/scheda/141370/la-repubblica-e-la-sfida-della-modern
 https://www.radioradicale.it/scheda/138398/il-sud-est-asiatico-litalia-ed-i-paesi-afta-a-tre-anni-dalla-crisi-del-97-organizzato?i=1567683  ValueError: No timestamps
 https://www.radioradicale.it/scheda/150958/prima-conferenza-degli-italiani-nel-mondo-promossa-dal-ministero-degli-affari-esteri?i=1446611  ValueError: No timestamps
 https://www.radioradicale.it/scheda/126197/insieme-per-litalia-organizzato-nellambito-della-festa-nazionale-delludeur-3-10?i=1681999  RuntimeError: yt-dlp exited 1
+https://www.radioradicale.it/scheda/110196/festa-nazionale-dellamicizia-sulla-neve-presso-il-palazzo-comunale-17-24-gennaio-1999?i=1862674  ValueError: No timestamps
+https://www.radioradicale.it/scheda/112928/euro-effetti-sullo-scenario-competitivo-delle-imprese-organizzato-da-confindustria?i=1834780  ValueError: No timestamps
+https://www.radioradicale.it/scheda/103835/il-ministero-degli-affari-esteri-al-servizio-dellitalia-nel-mondo-presentazione-del?i=1933444  ValueError: No timestamps
