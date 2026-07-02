@@ -1,0 +1,844 @@
+1
+00:00:00,000 --> 00:00:04,000
+se ho preso troppo del vostro tempo e vi ringrazio per la pazienza con cui mi avete ascoltato.
+
+2
+00:00:10,400 --> 00:00:16,000
+Ringrazio il Ministro Bottiglione, che ci ha ricordato i progressi che va facendo,
+
+3
+00:00:17,440 --> 00:00:25,380
+anche con il contributo spesso determinante del governo italiano, la vicenda comunitaria.
+
+4
+00:00:25,380 --> 00:00:33,380
+In particolare quegli aspetti che interessano più da vicino l'assetto competitivo dei mercati.
+
+5
+00:00:34,560 --> 00:00:37,860
+Darei ora la parola a Mario Monti.
+
+6
+00:00:40,760 --> 00:00:46,380
+Grazie, Presidente. Sono veramente lieto di trovarmi qui oggi.
+
+7
+00:00:46,380 --> 00:00:53,720
+Sono grato al Ministro Bottiglione, al Presidente Tesauro e a tutti i loro collaboratori
+
+8
+00:00:54,000 --> 00:01:03,380
+per l'entusiasmo dimostrato e gli sforzi realizzati nell'organizzare questa giornata italiana ed europea della concorrenza.
+
+9
+00:01:04,500 --> 00:01:10,800
+Voglio cogliere quest'occasione per esprimere il grande apprezzamento della Commissione Europea
+
+10
+00:01:10,800 --> 00:01:18,740
+per l'appoggio costante e la collaborazione che abbiamo dall'autorità garante della concorrenza del mercato
+
+11
+00:01:18,740 --> 00:01:28,520
+sia nell'ordinaria quotidianità sia nei momenti che sono stati frequenti di incisiva riforma del sistema,
+
+12
+00:01:29,080 --> 00:01:34,140
+così come è stato essenziale avere l'appoggio e anche la guida della Presidenza italiana,
+
+13
+00:01:34,140 --> 00:01:44,140
+in particolare nel portare a buon fine il nuovo regolamento sulle concentrazioni al quale il Ministro Bottiglione ha fatto riferimento.
+
+14
+00:01:47,400 --> 00:01:54,400
+Voglio anche ringraziare i membri del Parlamento Europeo che hanno sempre sostenuto con molta convinzione
+
+15
+00:01:54,840 --> 00:01:59,540
+e con la loro personale presenza le giornate europee della concorrenza,
+
+16
+00:01:59,540 --> 00:02:06,920
+in particolare il Presidente della Commissione Affari Economiche e Monetari, onorevole Krista Ranzio Platt,
+
+17
+00:02:07,660 --> 00:02:13,940
+e gli onorevoli Brunetta, Della Vedova e Evans che saranno qui oggi presenti.
+
+18
+00:02:14,580 --> 00:02:24,820
+Le parole del Ministro Bottiglione con le quali mi trovo in sintonia mi stimolano a tre riflessioni rapidissime.
+
+19
+00:02:25,680 --> 00:02:33,260
+Ha detto il Ministro, il mercato democratico ha bisogno di regole, non solo sono d'accordo con lui,
+
+20
+00:02:33,480 --> 00:02:40,300
+ma andrei oltre, anche un mercato non democratico ha bisogno di regole per funzionare,
+
+21
+00:02:40,500 --> 00:02:47,040
+perché sennò non consegna alla società ciò per cui esiste un'efficiente allocazione delle risorse.
+
+22
+00:02:47,040 --> 00:02:56,440
+Mi ha avuto recentemente una visibile testimonianza la settimana scorsa in Cina,
+
+23
+00:02:57,200 --> 00:03:03,260
+società per molti aspetti che si esiterebbe a definire per ora pienamente democratica,
+
+24
+00:03:03,460 --> 00:03:10,270
+ma che puntando sul mercato sta introducendo un completo sistema antitrust
+
+25
+00:03:10,270 --> 00:03:16,450
+e incontrando difficoltà nell'individuare quali sia la configurazione migliore,
+
+26
+00:03:17,370 --> 00:03:27,030
+ha deciso di avviare con l'Unione Europea un policy dialogue sulla concorrenza Cina-Unione Europea.
+
+27
+00:03:27,990 --> 00:03:31,510
+E il Ministro osserva, e anche qui sono molto d'accordo con lui,
+
+28
+00:03:31,610 --> 00:03:39,430
+non bisogna pesantire con troppe regole che siano comunitarie, che siano nazionali, il funzionamento dell'economia.
+
+29
+00:03:39,430 --> 00:03:45,690
+E quello che ha di interessante la regola della concorrenza è che è in concorrenza con altre regole.
+
+30
+00:03:46,510 --> 00:03:53,850
+Qualche giorno fa il nostro collega John Vickers in un paper che lui concivetteria
+
+31
+00:03:53,850 --> 00:03:59,630
+dice essere rivolto a giovani delle scuole, dà alcune lezioni a tutti noi
+
+32
+00:03:59,630 --> 00:04:07,590
+e spiega come appunto la politica della concorrenza consenta di fare a meno di regolazioni più ingombranti.
+
+33
+00:04:08,930 --> 00:04:15,050
+Il Ministro si è poi richiamato agli aspetti di solidarietà e anche qui,
+
+34
+00:04:15,730 --> 00:04:21,950
+non perché non sia ancora finita la Presidenza italiana o tutti questi consensi, ma perché li ho davvero,
+
+35
+00:04:22,630 --> 00:04:27,930
+credo che ci sia una sinergia ovvia tra politica della concorrenza e solidarietà.
+
+36
+00:04:28,190 --> 00:04:36,750
+Senza politica della concorrenza l'Europa sarebbe una terra dominata da monopoli e cartelli.
+
+37
+00:04:36,750 --> 00:04:46,110
+Chi ne soffrirebbe di più? Evidentemente le parti più deboli tra le imprese e tra i cittadini
+
+38
+00:04:46,110 --> 00:04:52,020
+e quindi la solidarietà sarebbe evidentemente molto più compromessa.
+
+39
+00:04:52,850 --> 00:05:00,190
+E poi la politica della concorrenza non è di ostacolo ad aspetti di solidarietà
+
+40
+00:05:00,190 --> 00:05:06,040
+che filtrano attraverso ad esempio i servizi pubblici, le garanzie di servizio universale
+
+41
+00:05:06,750 --> 00:05:12,000
+e anche la politica degli aiuti di Stato che spesso viene vista come magari necessaria,
+
+42
+00:05:13,270 --> 00:05:21,710
+ma difficile da deglutire da chi abbia un animo sociale, si prende cura di coltivare per esempio
+
+43
+00:05:21,710 --> 00:05:28,290
+con una recente riforma degli aiuti di Stato gli aiuti alla creazione di posti di lavoro
+
+44
+00:05:28,290 --> 00:05:30,750
+e in particolare all'occupazione di disabili.
+
+45
+00:05:31,750 --> 00:05:38,070
+Infine politica industriale, anche a questo nesso politica della concorrenza,
+
+46
+00:05:38,090 --> 00:05:44,410
+politica industriale, il Ministro ci richiama e mi pare d'aver colto,
+
+47
+00:05:44,870 --> 00:05:49,950
+e sono d'accordo, la politica della concorrenza non è la politica industriale,
+
+48
+00:05:50,270 --> 00:05:57,170
+è la base essenziale di una politica industriale e nessuna seria richiesta di politica industriale
+
+49
+00:05:57,170 --> 00:06:02,250
+che passerebbe credo per la richiesta di attenuazione della politica della concorrenza,
+
+50
+00:06:02,450 --> 00:06:08,610
+ma occorre qualcos'altro, qualcos'altro che in Europa per ora non c'è ancora del tutto
+
+51
+00:06:09,170 --> 00:06:16,810
+e mentre mi rallegro con la Presidenza italiana per lo sforzo coronato da successo
+
+52
+00:06:16,810 --> 00:06:23,330
+in materia di OPA, perché adesso una direttiva esiste e mentre per tanti anni non era esistita,
+
+53
+00:06:23,330 --> 00:06:28,450
+non si può non notare senza togliere alcun merito alla Presidenza italiana
+
+54
+00:06:28,950 --> 00:06:34,330
+come alcuni grandi Stati membri che invocano una politica industriale
+
+55
+00:06:34,870 --> 00:06:43,010
+abbiano di fatto portato ad uno strumento, questa direttiva approvata in materia di OPA,
+
+56
+00:06:43,830 --> 00:06:50,690
+che forse fiorirà, ma certamente oggi non è ancora uno strumento per una politica industriale europea,
+
+57
+00:06:50,690 --> 00:06:59,110
+riconosce ancora grande spazio a possibili e così legittimati ostacoli a livello nazionale.
+
+58
+00:06:59,910 --> 00:07:06,790
+Ma come è stato ricordato dal Presidente Tesauro, questa giornata è per volontà e per tradizione
+
+59
+00:07:07,370 --> 00:07:15,750
+qualcosa di diverso da un pur importante convegno sulla concorrenza, si rivolge ai cittadini consumatori.
+
+60
+00:07:15,750 --> 00:07:27,050
+E noi vorremmo vederli i consumatori contemporaneamente come operatori e come beneficiari
+
+61
+00:07:27,050 --> 00:07:35,430
+di un ambiente socio-economico più concorrenziale. Operatori in quanto partecipano, partecipiamo,
+
+62
+00:07:35,610 --> 00:07:42,890
+perché lo siamo tutti consumatori, a un processo economico in cui si incontrano domanda e offerta,
+
+63
+00:07:42,890 --> 00:07:50,490
+beneficiari perché l'obiettivo delle regole di concorrenza è di arrivare a una maggiore scelta di prodotti
+
+64
+00:07:50,490 --> 00:07:57,170
+e di servizi e a un'innovazione più rapida e a migliori prezzi e qualità.
+
+65
+00:07:59,270 --> 00:08:06,250
+Quanto al primo aspetto i consumatori come operatori di concorrenza, sono convinto che la loro azione
+
+66
+00:08:06,250 --> 00:08:15,770
+di controllo attraverso il comportamento, sui comportamenti altrui lesivi della concorrenza da parte delle imprese
+
+67
+00:08:15,770 --> 00:08:20,470
+possa essere anche più persuasiva dell'azione che fanno le autorità della concorrenza.
+
+68
+00:08:22,930 --> 00:08:33,330
+E le decisioni dei consumatori forse non sono ancora diventate così consapevoli come una economia moderna
+
+69
+00:08:33,330 --> 00:08:43,670
+richiede loro e si ha l'impressione che il vaglio sul mercato, il confronto dei prezzi lasci ancora troppi margini
+
+70
+00:08:44,330 --> 00:08:53,330
+a l'intento dal lato delle imprese che ne hanno di usare il potere di mercato a danno dei consumatori.
+
+71
+00:08:53,330 --> 00:09:02,390
+E quanto ai consumatori come beneficiari della concorrenza, la vigilanza delle autorità di concorrenza
+
+72
+00:09:03,470 --> 00:09:12,350
+certo deve essere costante, rigorosa, inflessibile, è quanto cerchiamo di fare, ma occorre anche essere in grado
+
+73
+00:09:12,350 --> 00:09:19,550
+di informare il consumatore che deve essere costantemente tenuto al corrente delle nostre azioni
+
+74
+00:09:19,550 --> 00:09:28,550
+e deve partecipare di più alla messa in opera della politica che è fatta in fondo per lui, cioè la politica della concorrenza.
+
+75
+00:09:29,950 --> 00:09:39,250
+In questo senso abbiamo deciso di istituire a partire dal gennaio prossimo, il direttore generale Philip Law e io
+
+76
+00:09:39,250 --> 00:09:47,210
+abbiamo deciso di istituire presso la direzione generale della concorrenza una nuova posizione diciamo di ufficiale
+
+77
+00:09:47,210 --> 00:09:57,630
+di collegamento con i consumatori, il cui compito è appunto di intrattenere un dialogo permanente con le organizzazioni dei consumatori europei
+
+78
+00:09:57,630 --> 00:10:10,210
+e assicurare che il loro interesse sia pienamente tenuto in conto in sede di gestione dei singoli dossier e di discussione degli aspetti di politica comunitaria.
+
+79
+00:10:11,710 --> 00:10:25,470
+Nel tempo che mi resta Presidente io vorrei soffermarmi su alcuni esempi di concrete decisioni di politica della concorrenza
+
+80
+00:10:25,470 --> 00:10:35,490
+che a prima vista non sembrano avere un impatto particolarmente rilevante e favorevole per i consumatori, ma che forse ce l'hanno.
+
+81
+00:10:36,300 --> 00:10:44,490
+La materia dei cartelli, gli sport, le libere professioni e il trasporto aereo, tutto in modo telegrafico.
+
+82
+00:10:45,870 --> 00:11:02,930
+Ma i cartelli motivano molto le autorità della concorrenza, mi sembra che sia sempre di più così e d'altra parte il legame col consumatore può essere visto come un po' labile.
+
+83
+00:11:02,930 --> 00:11:17,990
+È difficile riuscire a entusiasmarsi se imponiamo pesanti ammende per il cartello costituito dalle industrie degli elettrodi di grafite o delle grafite speciali.
+
+84
+00:11:18,410 --> 00:11:31,210
+Più direttamente percepibile l'impatto sui prezzi che sono rilevanti per i consumatori, c'è però in altri cartelli gli additivi degli alimenti, per esempio l'acido citrico, le vitamine,
+
+85
+00:11:31,210 --> 00:11:48,210
+oppure i sorbati, su cui abbiamo preso una recente decisione. I sorbati sono tra i conservanti chimici più utilizzati in Europa per impedire lo sviluppo di muffe, batteri e altri microorganismi.
+
+86
+00:11:51,750 --> 00:12:00,450
+Sono utilizzati anche per rivestire la carta che avvolge i formaggi, particolarmente in Francia e in Italia, oppure sono utilizzati nei cosmetici.
+
+87
+00:12:01,730 --> 00:12:20,970
+Ebbene, a causa di questa violazione delle regole della concorrenza, il cartello dei sorbati, i consumatori europei hanno dovuto pagare per molti prodotti di uso quotidiano un prezzo significativamente superiore a quello che avrebbero pagato se le imprese fossero state tra loro in concorrenza.
+
+88
+00:12:22,430 --> 00:12:36,970
+La Commissione ha inflitto ai partecipanti a questo cartello un'ammenda complessiva di 138 milioni di euro. Un altro esempio di una cosa che tocca da vicino i consumatori è la carne bovina.
+
+89
+00:12:36,970 --> 00:13:00,120
+Nel 2 aprile di quest'anno la Commissione ha inflitto ammende per un importo di 16-17 milioni di euro a sei federazioni francesi del settore della carne bovina, sanzionate per aver partecipato a un'intesa volta alla fissazione di un prezzo minimo per talune categorie di carne bovina
+
+90
+00:13:00,120 --> 00:13:09,120
+e alla sospensione o almeno alla limitazione delle importazioni di qualsiasi tipo di carne bovina in Francia.
+
+91
+00:13:11,740 --> 00:13:27,380
+Questa decisione, a parte che in quel giorno, 2 aprile, abbiamo anche aperto una procedura che sta per concludersi su tutt'altro tema ma riguardante lo stesso Paese, gli aiuti di Stato a Electricité de France
+
+92
+00:13:27,380 --> 00:13:44,380
+e la Francia ha visto che due cose sacre della sua cultura produttiva, l'agricoltura e Electricité de France, non sono esenti dalle norme della concorrenza.
+
+93
+00:13:44,380 --> 00:13:53,100
+Le libere professioni, che saranno anche oggetto di più specifica considerazione nel corso della giornata.
+
+94
+00:13:53,760 --> 00:14:01,820
+I consumatori possono ottenere notevoli vantaggi dalla liberalizzazione dei settori molto regolamentati
+
+95
+00:14:01,820 --> 00:14:19,820
+e penso vantaggi particolari da un'opera di liberalizzazione sulle libere professioni che poi paradossalmente non sono tanto libere, sono anzi uno dei settori più regolamentati dell'economia per varie ragioni che sono note.
+
+96
+00:14:23,660 --> 00:14:38,820
+Noi, autorità nazionali e comunitaria della concorrenza, ci siamo chiesti cosa possa essere fatto non per disconoscere le specificità di questo tipo di attività economica, che sono le libere professioni,
+
+97
+00:14:39,840 --> 00:14:47,640
+ma per ammodernare le regole tradizionali, qualche volta secolari, là dove è possibile farlo a favore dei consumatori.
+
+98
+00:14:47,640 --> 00:15:03,740
+Abbiamo esaminato dettagliatamente ogni aspetto della questione, con particolare riferimento a sei professioni, avvocato, notaio, commercialista, ingegnere, architetto e farmacista, in uno studio comparato.
+
+99
+00:15:03,740 --> 00:15:26,740
+Si è tenuta, il professor Tesauro vi ha partecipato, una consultazione a metà ottobre a Bruxelles di tutte le parti interessate e nei primi mesi del prossimo anno la Commissione presenterà un rapporto sullo stato della concorrenza nel settore delle professioni liberali.
+
+100
+00:15:26,740 --> 00:15:37,020
+La mia intenzione è che questo rapporto spieghi la razionalità economica di un cambiamento delle regole.
+
+101
+00:15:38,020 --> 00:16:00,120
+È possibile che si spinga il rapporto fino a suggerire azioni da intraprendere a livello degli Stati membri o delle stesse professioni in merito a regole specifiche e naturalmente delinerà anche che cosa a livello comunitario è possibile fare per intervenire.
+
+102
+00:16:00,120 --> 00:16:12,380
+Noto che anche su questo tema, che interessa molto i nostri colleghi americani che pure sono attivi nella materia, si è sviluppata una utile interazione con loro.
+
+103
+00:16:13,120 --> 00:16:20,220
+La Commissione riconosce certo che le libere professioni forniscono un bene pubblico e pertanto una certa regolamentazione è necessaria.
+
+104
+00:16:20,220 --> 00:16:37,660
+Non si tratta neanche di arrivare a un'armonizzazione delle regole, ma la protezione dei consumatori e la massimizzazione del benessere degli utenti e della società non sono necessariamente garantiti dalle attuali regole.
+
+105
+00:16:41,380 --> 00:17:04,120
+Visto entrare recentemente il presidente di Confindustria, l'output delle libere professioni è evidentemente di grande importanza per i cittadini che ne sono utenti e per le imprese che ne sono utenti e quindi diventa un fattore importante anche di competitività del sistema economico complessivo di un Paese.
+
+106
+00:17:04,120 --> 00:17:29,420
+Noi siamo sicuri che ci sarà collaborazione dei governi nazionali e interazione tra i governi e gli ordini professionali, oltre che questo va da sé, interazione tra le autorità della concorrenza per mettere in moto un processo che necessariamente sarà lento, articolato, ramificato, ma che toglierà un paradosso.
+
+107
+00:17:29,420 --> 00:17:57,660
+Come si può immaginare che la strategia di Lisbona, che è fatta per una economia basata sulla società della conoscenza, possa non chiedere un contributo di ammodernamento e di maggiore efficienza anche a coloro che sono in larga misura i depositari della conoscenza nelle nostre società, cioè i liberi professionisti.
+
+108
+00:17:57,660 --> 00:18:15,840
+Ecco perché io credo che se noi andiamo avanti ragionando costruttivamente con loro, arriveranno alla conclusione che sarebbe stato offensivo non chiedere un contributo di ammodernamento alle libere professioni nel portare avanti la strategia di Lisbona.
+
+109
+00:18:21,960 --> 00:18:34,100
+Ho cennato allo sport. Già da alcuni anni la politica comunitaria della concorrenza ha dovuto occuparsi di sport e di calcio professionistico in particolare.
+
+110
+00:18:34,100 --> 00:18:54,540
+A questo riguardo siamo dovuti intervenire sotto diversi profili, in materia di regole sui trasferimenti di giocatori, di diritti di trasmissione delle partite e ultimamente in uno stato membro riguardo a un cosiddetto decreto salva calcio.
+
+111
+00:18:54,540 --> 00:19:12,940
+Questi interventi sono motivati dal fatto che le regole comunitarie si applicano anche agli aspetti economici dello sport e ben inteso solo a quelli, non anche alle regolamentazioni sportive che sono necessarie per organizzare le competizioni.
+
+112
+00:19:12,940 --> 00:19:37,380
+C'è chi si chiede però se il rispetto delle regole di concorrenza in questo campo non finisca con ledere gli interessi dei consumatori o per meglio dire dei tifosi e degli appassionati del calcio, commentando che la valenza sociale e culturale dello sport giustificherebbe un approccio più flessibile e tollerante rispetto a quanto praticato in altri settori.
+
+113
+00:19:37,380 --> 00:19:55,360
+È una domanda legittima. Io voglio precisare che le regole in materia di concorrenza trovano applicazione solo quando l'aspetto economico della pratica sportiva assume grande rilevanza e prevale sulle componenti ricreativa e amatoriale.
+
+114
+00:19:55,360 --> 00:20:20,560
+E mi pare fuori discussione che il calcio professionistico abbia oggi assunto una dimensione economica che non si può sottovalutare. Impiega migliaia di addetti, intratiene stretti legami con altre attività economiche, pensiamo solo al sistema radio televisivo, e si rivolge in maniera crescente alla borsa e anche ai piccoli risparmiatori per il proprio finanziamento.
+
+115
+00:20:21,380 --> 00:20:35,020
+D'altra parte sono proprio le logiche economiche che hanno profondamente modificato l'organizzazione del calcio professionistico e le autorità sportive sono state le prime a doverne tenere conto.
+
+116
+00:20:35,020 --> 00:20:54,460
+Il rispetto di sani principi contabili e della concorrenza non è solo doveroso per la protezione delle controparti e degli investitori, ma diventa anche questione di equità sportiva, perché successo economico e risultati sportivi vanno spesso di pari passo.
+
+117
+00:20:55,940 --> 00:21:22,200
+Fu proprio la Corte di giustizia europea, con la famosa sentenza Bosman, a dare il via allo sviluppo di una politica comunitaria di concorrenza nel settore dello sport. Questa sentenza ha confermato, come è noto, che lo sport fa parte del campo di applicazione del trattato per quanto riguarda i suoi aspetti economici, pur prendendone in considerazione alcune specificità.
+
+118
+00:21:22,200 --> 00:21:45,580
+Dopo lunghe e a volte appassionate discussioni, appassionate anche perché non esiste in Europa almeno altro tema, per quanto possa essere gravido di conseguenze sociali drammatiche, capace di attirare la prioritaria attenzione dei governi e dei capi di governo personalmente, quanto lo sport.
+
+119
+00:21:46,680 --> 00:22:05,580
+Dopo lunghe e a volte appassionate discussioni, che hanno coinvolto vari commissari europei competenti per i diversi risvolti delle questioni, la FIFA e l'UEFA accettarono di adottare nuovi principi conformi sia alla sentenza Bosman che alle regole di concorrenza.
+
+120
+00:22:07,320 --> 00:22:29,980
+Ricordiamo gli allarmati appelli in favore del calcio, che si voleva essere messo a rischio dalle regole comunitarie. Ebbene, con il senno di poi, si può dire che le nuove regole sui trasferimenti hanno giocato per un sistema più equilibrato e trasparente, funzionano piuttosto bene, hanno portato vantaggi al sistema calcistico.
+
+121
+00:22:29,980 --> 00:22:55,980
+Sono entrate in vigore nel settembre 2001, hanno avuto globalmente effetti positivi e non mi soffermo di più. Non sembra che il numero globale dei calciatori trasferiti sia diminuito, lo sono invece un pochino le somme finanziarie pagate, anche se altri fattori come la situazione economica generale possono aver contribuito a questo risultato.
+
+122
+00:22:55,980 --> 00:23:11,280
+Il nuovo sistema rafforza l'elemento solidaristico, promuove la formazione dei giovani calciatori e infine contribuisce alla stabilità delle squadre di calcio e al regolare svolgimento delle competizioni sportive.
+
+123
+00:23:12,220 --> 00:23:33,670
+Ci siamo anche interessati, e ci stiamo ancora interessando, ai diritti relativi alla trasmissione televisiva delle partite di calcio. Tali diritti, in maniera generale, vengono ceduti in blocco attraverso una vendita congiunta e in esclusiva dalle associazioni calcistiche agli operatori televisivi.
+
+124
+00:23:33,670 --> 00:23:49,740
+Queste formule di vendita devono essere valutate attentamente perché possono comportare anche aspetti negativi. Infatti la vendita congiunta, coprendo un intero pacchetto di eventi, riduce drasticamente la concorrenza.
+
+125
+00:23:49,740 --> 00:24:17,260
+Da un lato i singoli club non possono vendere i diritti relativi alle proprie partite e dall'altro solo grandi operatori televisivi sono in grado di presentare offerte per un intero pacchetto campionato. I consumatori, cioè i tifosi, hanno per questo meno possibilità di scelta tra operatori televisivi e si riduce l'innovazione nei mercati dei media.
+
+126
+00:24:17,260 --> 00:24:45,540
+D'altra parte la vendita congiunta comporta anche vantaggi, riduce i costi di transazione per gli operatori televisivi e per i club di calcio. L'esclusività dei contratti non costituisce necessariamente una restrizione di concorrenza. La durata e la portata dei contratti possono invece creare problemi più gravi e portare a chiusure del mercato.
+
+127
+00:24:58,280 --> 00:25:17,240
+In altri casi, invece, una durata più breve è giustificata. Nella concentrazione stream Telepiù, per esempio, una durata massima di due anni per i futuri accordi è stata ritenuta necessaria a causa della situazione di quasi monopolio.
+
+128
+00:25:20,120 --> 00:25:33,180
+Per quanto riguarda la portata dei contratti, tanto più grande è la dimensione dei pacchetti, meno numerosi sono gli operatori televisivi in grado di presentare un'offerta.
+
+129
+00:25:33,180 --> 00:26:01,940
+Il 24 luglio di quest'anno la Commissione ha adottato una decisione definitiva di esenzione riguardo al nuovo sistema UEFA di vendita congiunta dei diritti media relativi alla Champions League. Questa decisione è stata presa dopo che UEFA ha accettato di modificare in modo sostanziale il proprio sistema di vendita congiunta.
+
+130
+00:26:03,180 --> 00:26:29,180
+In futuro, la vendita congiunta e quella individuale potranno coesistere, i club potranno vendere alcuni diritti individualmente. Ci saranno inoltre procedure di appalto ogni tre anni per le vendite congiunte di diritti, pacchetti di dimensioni minori e separazione tra media tradizionali e nuovi come Internet e UMTS.
+
+131
+00:26:30,980 --> 00:26:53,360
+Analogamente, anche nell'esame Streamtel e più fu ritenuto di dover ridurre la portata dell'esclusiva, che è stata accettata per il satellite ma non per le altre piattaforme. E questo caso è stato particolarmente interessante perché non era solo in questione l'accesso al contenuto, ma anche l'infrastruttura di distribuzione.
+
+132
+00:26:53,360 --> 00:27:06,460
+Sky Italia ha l'obbligo di dare accesso alla propria piattaforma satellitare ad altri operatori che desiderano offrire altri prodotti di televisione a pagamento.
+
+133
+00:27:06,460 --> 00:27:27,700
+Attualmente stiamo esaminando gli accordi di vendita dei diritti televisivi della Premier League e della Bundesliga. Il nostro obiettivo è di assicurare che anche i consumatori tragano un vantaggio in termini di prezzi e di offerta televisiva e non solo le società sportive.
+
+134
+00:27:29,980 --> 00:27:52,200
+Siamo anche intervenuti recentemente, ma meno di quanto si pensi, in relazione al cosiddetto Decreto Salva Calcio. Penso che a nessuno venga in mente di imputare i gravi problemi finanziari nei quali verse il calcio italiano all'intervento della Commissione Europea.
+
+135
+00:27:52,200 --> 00:28:03,600
+Soluzioni possono e devono essere trovate nel rispetto delle regole contabili e senza ricorrere a forme di aiuti di stato incompatibili.
+
+136
+00:28:03,600 --> 00:28:28,980
+D'altra parte, quando dico meno recentemente di quanto si pensi, il 10 febbraio scorso, quando ancora vi era tempo per modificare il decreto che non era ancora stato convertito in legge, avevamo pubblicamente manifestato dubbi sulla misura circa la sua compatibilità con le regole contabili e con quelle sugli aiuti di stato.
+
+137
+00:28:28,980 --> 00:28:55,580
+Poiché da parte italiana non si è intervenuto in tempo utile, abbiamo dovuto aprire due procedure di esame formale come noto l'11 novembre, riguardo questi due aspetti. E non sembra giustificato favorire le società sportive con problemi di bilancio rispetto ad altre italiane o non italiane che riescono a gestirsi correttamente.
+
+138
+00:28:55,580 --> 00:29:13,860
+E non credo che i tifosi italiani sarebbero così orgogliosi di vedere attribuire da critici i buoni risultati delle loro squadre nelle competizioni internazionali non ai meriti sportivi ma ad interventi statali.
+
+139
+00:29:13,860 --> 00:29:36,960
+Sono convinto che la regolarità della gestione finanziaria delle squadre sia anche un elemento di equità sportiva. Questa sembra essere anche l'opinione dell'UEFA che vuole rendere più rigorosa la gestione finanziaria delle società anche per evitare distorsioni che rischierebbero di rendere i campionati europei unfair competitions.
+
+140
+00:29:36,960 --> 00:29:49,960
+Quindi qui le nozioni di fair e unfair competition, per non dire addirittura di level playing field, acquistano una loro visibilità tattile.
+
+141
+00:29:53,060 --> 00:30:11,120
+Infine prendo ancora non più di un minuto per ricordare un altro settore che adesso all'avvicinarsi delle feste di fine d'anno anche congiunturalmente di interesse dei consumatori che prenderanno l'aereo per trascorrere le feste in luoghi di vacanza.
+
+142
+00:30:11,120 --> 00:30:28,540
+Le alleanze tra le compagnie aeree. La commissione è generalmente favorevole alle alleanze in questo settore nella misura in cui ne beneficiano i consumatori e l'economia sia attraverso la riduzione dei costi che il miglioramento dei servizi.
+
+143
+00:30:28,540 --> 00:30:39,900
+Una maggiore efficienza rafforza la posizione concorrenziale delle compagnie sulla scena mondiale e consente l'ampliamento dell'offerta a favore dei consumatori.
+
+144
+00:30:40,580 --> 00:30:54,100
+Tuttavia questo non deve andare a scapito della concorrenza su quelle tratte nelle quali le compagnie si troverebbero nella condizione di poter aumentare in seguito i prezzi ai consumatori.
+
+145
+00:30:54,100 --> 00:31:08,100
+In questo caso una soluzione risiede nell'imposizione di rimedi che rimuovendo le barriere all'entrata di nuovi operatori garantiscano il mantenimento di un ambiente concorrenziale.
+
+146
+00:31:08,100 --> 00:31:33,040
+Sono lieto di annunciare oggi che dopo due anni di intense discussioni con Air France e All'Italia pensiamo di aver ottenuto l'impegno da parte delle due compagnie a rimedi che permetteranno l'entrata di nuovi operatori su alcune delle tratte interessate dall'alleanza.
+
+147
+00:31:33,040 --> 00:31:52,360
+Oggi sulla gazette ufficiale delle comunità europee la Commissione pubblica la proposta delle compagnie in questione al fine di ricevere commenti da tutti gli interessati per essere in grado di valutare pienamente l'efficacia dei rimedi proposti da Air France e All'Italia.
+
+148
+00:31:56,400 --> 00:32:20,900
+Ho voluto stare in linea non tanto coi tempi, mi rendo conto adesso e chiedo scusa, ma con la vocazione di queste giornate della concorrenza che come stato richiamato più che conveni sulla concorrenza vogliono essere occasioni per mostrare ai cittadini e ai consumatori che cosa la politica della concorrenza cerca di fare per loro,
+
+149
+00:32:20,900 --> 00:32:46,300
+non sempre riuscendoci, e anche con quali innovazioni, anche organizzative, noi speriamo, autorità nazionali e Commissione, di avere un contributo sempre più vigile e sempre più attivo del consumatore, non di quale gestione della politica della concorrenza, ma alla facilitazione di questa gestione. Grazie.
+
+150
+00:32:52,860 --> 00:33:09,820
+Grazie a molto Mario Monti della sua, come al solito, lucidissima e utilissima esposizione su come la Commissione, anche in alcuni casi definiti,
+
+151
+00:33:10,960 --> 00:33:24,980
+si è andata incontro alle esigenze di un mercato che richiede sempre di più di essere liberalizzato, soprattutto in funzione degli interessi dei consumatori.
+
+152
+00:33:24,980 --> 00:33:42,600
+Ci ha ricordato anche la suggestione del calcio, che è una suggestione alla quale non sfugge nessuno di noi, credo, io poi che ricordo la sofferenza, il travaglio che c'è stato nel caso Bosman,
+
+153
+00:33:42,600 --> 00:33:57,600
+che sembrava che finisse il calcio, perché sarebbe venuta la catastrofe, e invece è venuta un'apertura salutare, anche e sia pure indirettamente sul piano dei rapporti concorrenziali.
+
+154
+00:33:59,800 --> 00:34:10,050
+Ora la parola alla Presidente della Commissione Affari Economiche e Monetari del Parlamento Europeo, Krista Ranzo-Platt.
+
+155
+00:34:11,970 --> 00:34:26,570
+Signor Ministro, Signore Presidente, Signore Commissario, come non parlo la lingua italiana, parlo l'inglese.
+
+156
+00:34:40,050 --> 00:34:46,210
+Noi siamo andati al Parlamento Europeo insieme, quando abbiamo avuto la conferma del signor Monti.
+
+157
+00:34:46,210 --> 00:34:59,190
+Abbiamo detto che vogliamo aumentare la trasparenza delle politiche di competitiva in modo da lasciare non solo gli attivi economici,
+
+158
+00:34:59,190 --> 00:35:08,610
+ma anche di essere informati sulle conseguenze delle politiche di competitiva e sulle necessità che dobbiamo affrontare,
+
+159
+00:35:08,990 --> 00:35:20,710
+ma anche, ovviamente, i consumatori e tutti gli altri. E sono molto felice che il signor Monti ha preso le promesse e che possiamo partecipare in questo esercizio oggi.
+
+160
+00:35:21,710 --> 00:35:27,870
+Perché la politica di competitiva è così necessaria per il mercato interno?
+
+161
+00:35:28,110 --> 00:35:29,190
+Questa è la mia prima domanda.
+
+162
+00:35:29,190 --> 00:35:37,910
+Posso dire che, over the past decades, the European competition policy has played a major role in guaranteeing consumer welfare
+
+163
+00:35:37,910 --> 00:35:48,390
+by encouraging the optimum allocation of resources, providing effective incentives for economic agents to pursue productive efficiency,
+
+164
+00:35:48,770 --> 00:35:54,150
+and thereby increasing quality and innovation, as well as low prices.
+
+165
+00:35:54,150 --> 00:36:02,110
+From the beginning, it has been a cornerstone of the single market striving to ensure a level playing field
+
+166
+00:36:02,110 --> 00:36:07,050
+and common use of the game across national boundaries within the European Union.
+
+167
+00:36:07,670 --> 00:36:17,630
+More fundamentally, the underlying principles of competition policy might be said to mirror the principle of which our single market in the Union is built,
+
+168
+00:36:17,630 --> 00:36:28,970
+ensuring the widest possible access, preserving the possibility to challenge established positions and structures, and encouraging new solutions.
+
+169
+00:36:29,870 --> 00:36:39,970
+Therefore, beyond the literal implementation of the relevant legal provisions, the European Union has established a culture of competition throughout the Union,
+
+170
+00:36:39,970 --> 00:36:48,990
+which now must be preserved and further developed, and I must pay tribute really to the Commission, to Mr. Monti and his officials,
+
+171
+00:36:49,350 --> 00:37:00,650
+for the integrity, commitment, and unrelenting efforts which have been made this time and which always has also contributed to more success possible,
+
+172
+00:37:01,010 --> 00:37:08,430
+and especially the late reforms signify another progress.
+
+173
+00:37:08,430 --> 00:37:18,310
+Today, as the European Union prepares for an enlargement of unprecedented scope, preserving the unity of the internal market,
+
+174
+00:37:18,750 --> 00:37:28,310
+preventing the fragmentation or its undermining, will become and probably remain for some time a greater challenge than ever.
+
+175
+00:37:30,030 --> 00:37:37,230
+Competition policy has a key contribution to make in that context as a vital instrument for economic and social integration.
+
+176
+00:37:37,230 --> 00:37:52,530
+This double consideration of economic efficiency and integration is what makes European competition policy unique when compared to the traditional national concepts
+
+177
+00:37:52,530 --> 00:37:58,210
+which need only to be concerned with market efficiency and related problems.
+
+178
+00:37:58,950 --> 00:38:07,730
+In its practice of competition policy, the European Union has never believed in the sole efficiency of the invisible hand of the market.
+
+179
+00:38:09,030 --> 00:38:16,590
+Competition is said to perform the most important organizing principle of the functioning of the market.
+
+180
+00:38:16,590 --> 00:38:21,910
+Under the umbrella of competitive market, consumer welfare is maximized.
+
+181
+00:38:22,030 --> 00:38:28,630
+It also shows how this leads to allocated productive and distribution efficiency,
+
+182
+00:38:29,390 --> 00:38:40,010
+allowing goods and services to be supplied in exactly the form and quantity desired by consumers and at the lowest cost possible, as I already mentioned.
+
+183
+00:38:40,010 --> 00:38:50,250
+At the same time, we have to underline that monopoly could be restricted.
+
+184
+00:38:50,250 --> 00:39:00,630
+We all know the negative impact of monopolistic regulations in the globalized world,
+
+185
+00:39:02,030 --> 00:39:10,750
+but to abuse the position of the market naturally involves a whole series of things.
+
+186
+00:39:10,750 --> 00:39:14,110
+For example, the uncertainty of the market.
+
+187
+00:39:15,730 --> 00:39:24,430
+In this case, it is necessary to make efforts to improve the possibility of identifying new methods of production, etc.
+
+188
+00:39:25,770 --> 00:39:35,530
+This is an aspect of economic globalization that has made it possible to expand a large number of geographical markets for a series of goods and services.
+
+189
+00:39:37,430 --> 00:39:49,150
+Today European producers are in a context characterized by consumers who expect more and more competition from various companies.
+
+190
+00:39:49,290 --> 00:39:59,390
+Of course, it has had an effect on prices, so that each company sometimes acts as a sort of monopolistic element in the market,
+
+191
+00:39:59,390 --> 00:40:08,390
+so sometimes it is possible for companies to demand higher prices by exploiting their own power in the market,
+
+192
+00:40:08,890 --> 00:40:13,450
+and therefore resort to predatory prices by eliminating competition.
+
+193
+00:40:13,590 --> 00:40:18,330
+Of course, these are problems that we must not only take advantage of in this part of the world, but also everywhere.
+
+194
+00:40:18,330 --> 00:40:28,950
+We generally accept that the preservation of effective competition is a fundamental requirement in terms of growth,
+
+195
+00:40:29,930 --> 00:40:35,790
+and it is naturally linked to the creation of new long-term jobs.
+
+196
+00:40:35,930 --> 00:40:43,250
+In any case, perhaps the day has come to remind ourselves of the ultimate goal in our competition policy,
+
+197
+00:40:43,250 --> 00:40:55,430
+that is, the sustainability of the internal market and considering in some cases the current notions should not be reconsidered compared to a series of set goals.
+
+198
+00:40:56,250 --> 00:41:04,710
+As an example, in the Article 3.3 Constitution, in which some goals are defined,
+
+199
+00:41:04,710 --> 00:41:16,830
+it has been defined that the Union will have to work in favor of the sustainable growth of the Union on the basis of a competitive economy that also leads to a social progress.
+
+200
+00:41:17,130 --> 00:41:24,330
+In addition, Article 2 seeks to increase the standard of living of people,
+
+201
+00:41:24,330 --> 00:41:34,130
+and therefore the importance of services of proximity is extremely relevant, but in fact it is further underlined.
+
+202
+00:41:35,150 --> 00:41:36,430
+I would like to make this point clear.
+
+203
+00:41:36,810 --> 00:41:46,930
+Certainly it is not my intention today to exclude some sectors from opening certain markets,
+
+204
+00:41:46,930 --> 00:41:50,010
+but I think I have to...
+
+205
+00:41:50,010 --> 00:42:00,570
+I think I have to ask the Commission to remember that general interest services are an essential element for the well-being of citizens,
+
+206
+00:42:02,770 --> 00:42:07,270
+from culture to water services, etc.
+
+207
+00:42:10,670 --> 00:42:19,830
+And so I think that the European Parliament, which has already asked for a board of directors in the sector of general interest services,
+
+208
+00:42:20,870 --> 00:42:24,610
+should continue to ask for this type of action.
+
+209
+00:42:24,610 --> 00:42:33,130
+Of course, the legislature is coming to an end, so it will be the new legislator who will have the task of dealing with these elements,
+
+210
+00:42:33,250 --> 00:42:42,550
+but of course it is always important to remember that here we really have the tension that is right in sight in the European model of integration.
+
+211
+00:42:42,550 --> 00:42:56,850
+On the one hand, we have freedom and competition on the other hand, we have the obligation to solidarity and economic cohesion.
+
