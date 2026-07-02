@@ -1039,3 +1039,7 @@ https://www.radioradicale.it/scheda/126197/insieme-per-litalia-organizzato-nella
 https://www.radioradicale.it/scheda/110196/festa-nazionale-dellamicizia-sulla-neve-presso-il-palazzo-comunale-17-24-gennaio-1999?i=1862674  ValueError: No timestamps
 https://www.radioradicale.it/scheda/112928/euro-effetti-sullo-scenario-competitivo-delle-imprese-organizzato-da-confindustria?i=1834780  ValueError: No timestamps
 https://www.radioradicale.it/scheda/103835/il-ministero-degli-affari-esteri-al-servizio-dellitalia-nel-mondo-presentazione-del?i=1933444  ValueError: No timestamps
+https://www.radioradicale.it/scheda/103438/convegno-inaugurale-del-forum-pa-98-9-mostra-convegno-dei-servizi-ai-cittadini-e-alle?i=1937404  RuntimeError: yt-dlp exited 1
+https://www.radioradicale.it/scheda/103891/immigrazione-problema-o-opportunita-convegno-promosso-dal-lyons-club-cuneo-e-dal?i=1932853  ValueError: No timestamps
+https://www.radioradicale.it/scheda/96249/litalia-e-leuropa-alan-friedman-intervista-il-ministro-degli-esteri-lamberto-dini?i=2048589  ValueError: No timestamps
+https://www.radioradicale.it/scheda/96455/societa-e-stato-giornata-nazionale-della-compagnia-delle-opere-dibattito-nel-ciclo?i=2046364  ValueError: No timestamps
