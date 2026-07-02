@@ -1032,3 +1032,4 @@ https://www.radioradicale.it/scheda/258104/domani-e-un-altro-giorno-il-racconto-
 https://www.radioradicale.it/scheda/254847/talenti-deuropa-e-futuro-ditalia?i=1032664  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/dini/audio_out/_out_254847_dini.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/dini/audio_out/254847_dini.mp3'
 https://www.radioradicale.it/scheda/243625/il-sud-non-puo-piu-aspettare-dalla-calabria-proposte-e-risposte?i=1074983  RuntimeError: yt-dlp exited 1
 https://www.radioradicale.it/scheda/151344/nuovi-scenari-per-una-comune-sicurezza-e-difesa-europea-conferenza-organizzata?i=1441962  ValueError: No timestamps
+https://www.radioradicale.it/scheda/141370/la-repubblica-e-la-sfida-della-modernita-il-contributo-della-cultura-liberale?i=1540867  ValueError: No timestamps
