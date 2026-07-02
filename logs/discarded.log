@@ -1006,3 +1006,9 @@ https://www.radioradicale.it/scheda/73384/per-una-politica-di-ripresa-dello-svil
 https://www.radioradicale.it/scheda/71342/leuropa-degli-italiani-4a-edizione-dellomonimo-osservatorio?i=2312000  ValueError: No timestamps
 https://www.radioradicale.it/scheda/70458/la-posizione-dellitalia-in-europa-i-principali-aspetti-politici-ed-economici?i=2320513  ValueError: No timestamps
 https://www.radioradicale.it/scheda/66626/la-politica-economica-alla-ripresa-autunnale?i=2357066  ValueError: No timestamps
+https://www.radioradicale.it/scheda/55600/la-politica-economica-alla-ripresa-autunnale?i=2450781  ValueError: No timestamps
+https://www.radioradicale.it/scheda/42314/qualita-impresa-e-societa?i=2560064  RuntimeError: yt-dlp exited 1
+https://www.radioradicale.it/scheda/45974/qualita-impresa-societa?i=2530175  ValueError: No timestamps
+https://www.radioradicale.it/scheda/367399/the-global-conversation-intervista-esclusiva-di-sophie-desjardins-a-mario-monti-e-a?i=379914  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/monti/audio_out/_out_367399_monti.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/monti/audio_out/367399_monti.mp3'
+https://www.radioradicale.it/scheda/74813/trasmissione-multiculturale-a-cura-dellassociazione-senegalese-roma-lazio-sunugal?i=2279657  ValueError: No timestamps
+https://www.radioradicale.it/scheda/432621/servizio-sullelezione-di-sergio-mattarella-a-presidente-della-repubblica?i=2925991  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/monti/audio_out/_out_432621_monti.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/monti/audio_out/432621_monti.mp3'
