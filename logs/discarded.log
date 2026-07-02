@@ -980,3 +980,6 @@ https://www.radioradicale.it/scheda/158388/liberi-professionisti-e-consumatori-a
 https://www.radioradicale.it/scheda/153913/legislazioni-e-politiche-dellunione-europea-il-ruolo-dei-parlamenti-nazionali?i=1416821  ValueError: No timestamps
 https://www.radioradicale.it/scheda/156548/la-valorizzazione-del-sistema-italia-nel-progetto-di-integrazione-europea-organizzato?i=1396944  ValueError: No timestamps
 https://www.radioradicale.it/scheda/155249/innovazione-e-tecnologie-digitali-in-italia-organizzato-dal-ministero-per-linnovazione?i=1406920  ValueError: No timestamps
+https://www.radioradicale.it/scheda/140716/con-il-lavoro-oltre-il-lavoro-guida-alla-flessibilita-sostenibile-organizzato-da-job?i=1546182  ValueError: No timestamps
+https://www.radioradicale.it/scheda/128373/il-filo-del-futuro-stati-generali-della-citta-di-milano-organizzati-dal-comune-di?i=1661785  RuntimeError: yt-dlp exited 1
+https://www.radioradicale.it/scheda/134631/99-review-an-opportunity-or-a-missed-chance-organizzato-dallisimm-istituto-per-lo?i=1604167  ValueError: No timestamps
