@@ -1174,3 +1174,6 @@ https://www.radioradicale.it/scheda/442167/il-servo-del-signore-e-lumanita-degli
 https://www.radioradicale.it/scheda/426334/globalizzazione-crisi-e-riorganizzazione-industriale?i=3736968  ValueError: No timestamps
 https://www.radioradicale.it/scheda/425597/dove-va-leuropa?i=3661819  ValueError: No timestamps
 https://www.radioradicale.it/scheda/402390/un-quadro-mondiale-in-movimento-e-noi?i=256060  ValueError: No timestamps
+https://www.radioradicale.it/scheda/378757/lacqua-pace-o-guerra-nel-xxi-secolo-lezione-di-romano-prodi?i=355002  ValueError: No timestamps
+https://www.radioradicale.it/scheda/371434/incubo-mali-pronti-alla-guerra-dibattito-di-presentazione-di-oltreradioit?i=370476  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/_out_371434_prodi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/371434_prodi.mp3'
+https://www.radioradicale.it/scheda/366021/where-does-europe-stand-among-the-us-and-china?i=384628  ValueError: No timestamps
