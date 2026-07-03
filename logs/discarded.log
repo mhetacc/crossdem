@@ -1177,3 +1177,5 @@ https://www.radioradicale.it/scheda/402390/un-quadro-mondiale-in-movimento-e-noi
 https://www.radioradicale.it/scheda/378757/lacqua-pace-o-guerra-nel-xxi-secolo-lezione-di-romano-prodi?i=355002  ValueError: No timestamps
 https://www.radioradicale.it/scheda/371434/incubo-mali-pronti-alla-guerra-dibattito-di-presentazione-di-oltreradioit?i=370476  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/_out_371434_prodi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/371434_prodi.mp3'
 https://www.radioradicale.it/scheda/366021/where-does-europe-stand-among-the-us-and-china?i=384628  ValueError: No timestamps
+https://www.radioradicale.it/scheda/316755/unione-europea-crisi-nella-crisi?i=570620  ValueError: No timestamps
+https://www.radioradicale.it/scheda/312154/presentazione-del-libro-leconomia-giusta-di-edmondo-berselli-einaudi?i=583934  ValueError: No timestamps
