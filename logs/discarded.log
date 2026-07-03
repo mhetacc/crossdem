@@ -1160,3 +1160,7 @@ https://www.radioradicale.it/scheda/73600/un-bilancio-del-consiglio-europeo-di-c
 https://www.radioradicale.it/scheda/64571/laccordo-raggiunto-nel-governo-per-un-nuova-legge-elettorale-regionale-con-elezione?i=2375905  ValueError: No timestamps
 https://www.radioradicale.it/scheda/236839/presentazione-della-formazione-del-movimento-dei-liberaldemocratici?i=1110807  ValueError: No timestamps
 https://www.radioradicale.it/scheda/98068/apertura-della-campagna-elettorale-per-le-elezioni-amministrative-di-roma-presentazione?i=2029776  RuntimeError: yt-dlp exited 1
+https://www.radioradicale.it/scheda/81086/manifestazione-di-chiusura-della-campagna-elettorale-de-lulivo?i=2217249  ValueError: No timestamps
+https://www.radioradicale.it/scheda/277564/processo-a-igor-marini-ed-altri-per-calunnia-nellambito-dellinchiesta-su-telekom?i=694401  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/dini/audio_out/_out_277564_dini.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/dini/audio_out/277564_dini.mp3'
+https://www.radioradicale.it/scheda/597059/visioni-di-modernita-110-anni-di-confindustria?i=4100702  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/_out_597059_prodi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/597059_prodi.mp3'
+https://www.radioradicale.it/scheda/526214/verso-la-meta-del-secolo-unitalia-piu-piccola?i=3782993  ValueError: No timestamps
