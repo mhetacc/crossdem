@@ -1399,3 +1399,10 @@ https://www.radioradicale.it/scheda/89359/milano-italia-ce-un-futuro-come-piazza
 https://www.radioradicale.it/scheda/90914/lunificazione-monetaria-europea-e-le-prospettive-per-loccupazione-convegno-dibattito?i=2104056  ValueError: No timestamps
 https://www.radioradicale.it/scheda/87294/42-assemblea-generale-dellassociazione-del-trattato-atlantico?i=2153424  ValueError: No timestamps
 https://www.radioradicale.it/scheda/81144/quali-riforme-per-il-futuro-dei-giovani-organizzato-dalla-lista-dini-in-vista-delle?i=2216762  ValueError: No timestamps
+https://www.radioradicale.it/scheda/73849/assemblea-della-confartigianato?i=2287373  ValueError: No timestamps
+https://www.radioradicale.it/scheda/72722/assemblea-annuale-della-confindustria?i=2298594  ValueError: No timestamps
+https://www.radioradicale.it/scheda/537441/il-mondo-a-pezzi?i=3826232  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/dini/audio_out/_out_537441_dini.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/dini/audio_out/537441_dini.mp3'
+https://www.radioradicale.it/scheda/521528/il-mondo-a-pezzi-presentazione-del-libro-germania-europa-due-punti-di-vista-sulle?i=3760445  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/dini/audio_out/_out_521528_dini.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/dini/audio_out/521528_dini.mp3'
+https://www.radioradicale.it/scheda/158165/report-fecondazione-esterologa-trasmissione-di-rai-3-condotta-da-milena-gabanelli?i=1380431  ValueError: No timestamps
+https://www.radioradicale.it/scheda/103527/trasmissione-multiculturale-a-cura-dellassociazione-senegalese-roma-lazio-sunugal?i=1936050  ValueError: No timestamps
+https://www.radioradicale.it/scheda/80826/linea-tre-programma-condotto-da-lucia-annunziata?i=2220001  ValueError: No timestamps

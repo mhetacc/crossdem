@@ -628,10 +628,6 @@ def get_all_audio_urls(
 #------------------------------------------ RUN ------------------------------------------------#
 #-----------------------------------------------------------------------------------------------#
 
-# ── Run ─────────────────────────────────────────────────────────────────────
-#urls = ["https://www.radioradicale.it/scheda/265208/andreotti-la-vita-di-un-uomo-politico-la-storia-di-unepoca?i=735960"]
-import glob
-from time import sleep
 
 def gitall(politician, repo: str = BASE_DIR) -> None:
     global transcription_since_last_commit
