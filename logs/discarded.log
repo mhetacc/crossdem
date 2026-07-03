@@ -1130,3 +1130,9 @@ https://www.radioradicale.it/scheda/328971/crisi-libica-intervista-a-lamberto-di
 https://www.radioradicale.it/scheda/326696/intervista-a-lamberto-dini-sul-ruolo-italiano-nella-crisi-libica?i=525446  RuntimeError: yt-dlp exited 1
 https://www.radioradicale.it/scheda/314276/intervista-a-lamberto-dini-sulla-mozione-in-senato-per-evitare-la-condonna-a-morte-a?i=581036  ValueError: No timestamps
 https://www.radioradicale.it/scheda/246227/crisi-di-governo-consultazioni-del-presidente-incaricato-franco-marini?i=1067298  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/dini/audio_out/_out_246227_dini.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/dini/audio_out/246227_dini.mp3'
+https://www.radioradicale.it/scheda/294934/dichiarazioni-di-lamberto-dini-sui-lavori-del-iv-congresso-nazionale-del-partito-dei?i=846718  ValueError: No timestamps
+https://www.radioradicale.it/scheda/224340/dichiarazioni-di-lamberto-dini-a-margine-del-iv-congresso-dei-democratici-di-sinistra?i=1175107  ValueError: No timestamps
+https://www.radioradicale.it/scheda/154736/speciale-global-le-elezioni-presidenziali-americane-la-candidatura-di-kerry-la-ripresa?i=1411126  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/dini/audio_out/_out_154736_dini.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/dini/audio_out/154736_dini.mp3'
+https://www.radioradicale.it/scheda/147934/il-semestre-di-presidenza-italiana-dellunione-europea-il-dibattito-che-si-svolse-alla?i=1476361  ValueError: No timestamps
+https://www.radioradicale.it/scheda/147177/il-dibattito-sullultima-stesura-della-nuova-costituzione-europea-elaborata-dalla?i=1483615  ValueError: No timestamps
+https://www.radioradicale.it/scheda/145742/la-riforma-dellonu-la-proposta-italiana-il-dibattito-che-si-svolse-in-commissione?i=1496678  ValueError: No timestamps
