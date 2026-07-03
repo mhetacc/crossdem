@@ -1,0 +1,156 @@
+1
+00:00:01,560 --> 00:00:07,000
+Presidente del Consiglio sarà qui a momenti per comunicare la lista del nuovo Ministero.
+
+2
+00:00:34,680 --> 00:00:39,000
+Buonasera. Do lettura della lista dei Ministri.
+
+3
+00:00:40,480 --> 00:00:44,860
+Presidente del Consiglio dei Ministri e Ministro del Tesoro, Dottor Lambertodini.
+
+4
+00:00:46,340 --> 00:00:50,360
+Ministro senza portafoglio per le riforme istituzionali,
+
+5
+00:01:00,460 --> 00:01:06,460
+Ministro senza portafoglio per la funzione pubblica e per gli affari regionali,
+
+6
+00:01:06,660 --> 00:01:10,500
+Dott. Franco Frattini, Consigliere di Stato.
+
+7
+00:01:11,740 --> 00:01:16,460
+Ministro senza portafoglio per la famiglia e la solidarietà sociale,
+
+8
+00:01:17,420 --> 00:01:20,280
+Dott. Adriano Ossicini.
+
+9
+00:01:20,340 --> 00:01:26,580
+Ministro fuori ruolo di psicologia dell'Università La Sapienza di Roma.
+
+10
+00:01:28,760 --> 00:01:34,340
+Ministro per gli affari esteri con delega per gli italiani nel mondo, Dott. Susanna Agnelli.
+
+11
+00:01:36,540 --> 00:01:44,720
+Ministro dell'Interno, Dott. Antonio Brancaccio, Primo Presidente della Corte Suprema di Cassazione.
+
+12
+00:01:45,920 --> 00:01:56,620
+Ministro di Grazia e Giustizia, Dott. Filippo Mancuso, Procuratore generale onorario della Corte Suprema di Cassazione,
+
+13
+00:01:57,140 --> 00:02:01,480
+già Procuratore generale della Corte di Appello di Roma.
+
+14
+00:02:04,760 --> 00:02:14,440
+Ministro del Bilancio, Dott. Rainer Masera, Direttore generale dell'Istituto Mobiliare Italiano.
+
+15
+00:02:15,600 --> 00:02:25,100
+Ministro delle Finanze, Dott. Augusto Fantozzi, ordinario di diritto tributario dell'Università La Sapienza di Roma.
+
+16
+00:02:26,100 --> 00:02:36,440
+Ministro della Difesa, generale ingegnere Domenico Corcione, già Capo di Stato Maggiore della Difesa.
+
+17
+00:02:37,100 --> 00:02:42,400
+Ministro della Pubblica Istruzione, Dott. Giancarlo Lombardi.
+
+18
+00:02:44,120 --> 00:02:51,520
+Ministro dei Lavori Pubblici e dell'Ambiente, Dott. Ingegner Paolo Baratta.
+
+19
+00:02:52,840 --> 00:03:00,280
+Ministro delle Risorse Agricole, Alimentari e Forestali, Dott. Walter Lucchetti,
+
+20
+00:03:00,980 --> 00:03:08,200
+Direttore generale delle Politiche comunitarie e internazionali nel Ministero dell'Industria.
+
+21
+00:03:09,000 --> 00:03:20,560
+Ministro dei Trasporti e della Navigazione, Dott. Antonio Marzano, ordinario di politica economica dell'Università La Sapienza di Roma.
+
+22
+00:03:20,560 --> 00:03:35,200
+Ministro delle Poste e delle Telecomunicazioni, Dott. Avvocato Agostino Gambino, ordinario di diritto commerciale nell'Università La Sapienza di Roma.
+
+23
+00:03:36,320 --> 00:03:47,720
+Ministro dell'Industria, commercio e artigianato, Dott. Alberto Croc, ordinario di politica industriale dell'Università di Bologna.
+
+24
+00:03:47,720 --> 00:04:06,440
+Ministro del Lavoro e della Prividenza Sociale, Dott. Tiziano Treu, ordinario di diritto del Lavoro dell'Università di Milano, Presidente dell'Agenzia per la rappresentanza negoziale nelle pubbliche amministrazioni.
+
+25
+00:04:07,440 --> 00:04:21,440
+Ministro per il Commeccio con l'Estero, con delega per le politiche dell'Unione Europea, Dott. Giovanni Gaetano Rasi, ordinario di politica economica dell'Università di Napoli.
+
+26
+00:04:21,440 --> 00:04:36,680
+Ministro della Sanità, professore Elio Guzzanti, già Presidente della Commissione per la fecondazione assistita e della Commissione anti-AIDS.
+
+27
+00:04:36,680 --> 00:04:52,780
+Ministro per i beni culturali e ambientali, professore Antonio Paolucci, docente di Scuola dell'arte medievale moderna, soprintendente per i beni artistici e storici di Firenze.
+
+28
+00:04:52,780 --> 00:05:08,800
+Ministro dell'Università e della Ricerca scientifica, professore Giorgio Salvini, già ordinario di fisica generale dell'Università alla Sapienza di Roma, già Presidente dell'Accademia Nazionale dei Lincei.
+
+29
+00:05:10,880 --> 00:05:24,900
+Intendo proporre la nomina a Sottosegretario di Stato alla Presidenza del Consiglio, Segretario del Consiglio dei Ministri, Dott. Lamberto Cardia, consigliere della Corte dei Conti.
+
+30
+00:05:25,360 --> 00:05:35,840
+Sottosegretario di Stato alla Presidenza del Consiglio, con delega per i rapporti con il Parlamento, professore Guglielmo Negri, consigliere di Stato.
+
+31
+00:05:35,840 --> 00:05:59,840
+In relazione all'assunzione da parte mia del Ministero del Tesoro, annuncio fin d'ora che sarò coadiuvato dal professor Dino Piero Giarda, Presidente della Commissione tecnica per la spesa pubblica, del quale proporrò la nomina a Sottosegretario di Stato al Tesoro.
+
+32
+00:06:01,480 --> 00:06:18,940
+Desidero infine fare qualche precisazione. Ci sono state voci e commenti, secondo i quali, nel comporre la compagine di governo, non mi sarei puntualmente attenuto al mandato ricevuto.
+
+33
+00:06:19,980 --> 00:06:41,920
+Nell'accettare l'incarico, avevo dichiarato che mi accingevo a tentare la composizione di un governo con personalità svincolate dall'appartenenza a raggruppamenti politici e selezionate unicamente in base a criteri di professionalità e di capacità.
+
+34
+00:06:44,080 --> 00:07:07,800
+Si sarebbe in sostanza trattato di un governo formato da tecnici. Qualcuno sostiene che, nella predisposizione della compagine governativa, avrei dovuto concordare la scelta delle persone accettando anche un certo numero di ministri del governo uscente.
+
+35
+00:07:07,800 --> 00:07:37,130
+Cosa che non ho fatto, attenendomi ai contenuti e ai limiti del mandato ricevuto, peraltro concordato e non contestato da alcuni. Il rispetto di tale mandato esigeva di non includere ministri del governo uscente verso i quali, peraltro, nutro sentimenti di grande estima e amicizia.
+
+36
+00:07:38,080 --> 00:07:50,800
+Come avevo dichiarato, non ho ottenuto consultazioni formali, ma ho svolto soltanto una serie di contatti informali con le forze politiche.
+
+37
+00:07:52,220 --> 00:08:20,300
+Essendo io stato scelto come ministro del Tesoro dalle forze della maggioranza del governo uscente, e in particolare del Polo della Libertà e del Buon Governo, che ha indicato il mio nome al Capo dello Stato, è in primo luogo a quelle forze che mi rivolgerò in Parlamento nel chiedere la fiducia.
+
+38
+00:08:20,300 --> 00:08:38,300
+Sottoponendo un programma di governo riferito alla soluzione delle questioni particolarmente urgenti che ho specificato nelle dichiarazioni da me fatte il 13 gennaio, accettando l'incarico con riserva.
+
+39
+00:08:40,140 --> 00:08:59,680
+Attenendomi ai criteri di scelta ai quali mi sentivo vincolato, ho proposto al Capo dello Stato, per la nomina dei ministri, persone di grande esperienza e di indiscutibile equilibrio, dimostrato nell'assorbimento delle loro precedenti alti incarichi.
+
