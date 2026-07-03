@@ -1159,3 +1159,4 @@ https://www.radioradicale.it/scheda/84395/dichiarazioni-alla-stampa-del-presiden
 https://www.radioradicale.it/scheda/73600/un-bilancio-del-consiglio-europeo-di-cannes?i=2289718  ValueError: No timestamps
 https://www.radioradicale.it/scheda/64571/laccordo-raggiunto-nel-governo-per-un-nuova-legge-elettorale-regionale-con-elezione?i=2375905  ValueError: No timestamps
 https://www.radioradicale.it/scheda/236839/presentazione-della-formazione-del-movimento-dei-liberaldemocratici?i=1110807  ValueError: No timestamps
+https://www.radioradicale.it/scheda/98068/apertura-della-campagna-elettorale-per-le-elezioni-amministrative-di-roma-presentazione?i=2029776  RuntimeError: yt-dlp exited 1
