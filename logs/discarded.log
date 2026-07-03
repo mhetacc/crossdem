@@ -1173,3 +1173,4 @@ https://www.radioradicale.it/scheda/442643/leconomia-politica-in-prospettiva-in-
 https://www.radioradicale.it/scheda/442167/il-servo-del-signore-e-lumanita-degli-uomini?i=3413945  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/_out_442167_prodi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/442167_prodi.mp3'
 https://www.radioradicale.it/scheda/426334/globalizzazione-crisi-e-riorganizzazione-industriale?i=3736968  ValueError: No timestamps
 https://www.radioradicale.it/scheda/425597/dove-va-leuropa?i=3661819  ValueError: No timestamps
+https://www.radioradicale.it/scheda/402390/un-quadro-mondiale-in-movimento-e-noi?i=256060  ValueError: No timestamps
