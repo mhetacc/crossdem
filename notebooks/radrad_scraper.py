@@ -14,13 +14,13 @@ import os
 
 
 DATA = [
-    ("draghi", "/soggetti/46315/mario-draghi"),
-    ("meloni", "/soggetti/94729/giorgia-meloni"),
-    ("conte", "/soggetti/110925/giuseppe-conte"),
-    ("gentiloni", "/soggetti/243521/paolo-gentiloni"),
-    ("renzi", "/soggetti/74722/matteo-renzi"),
-    ("letta", "/soggetti/40755/enrico-letta"),
-    ("monti", "/soggetti/35269/mario-monti"),
+    #("draghi", "/soggetti/46315/mario-draghi"),
+    #("meloni", "/soggetti/94729/giorgia-meloni"),
+    #("conte", "/soggetti/110925/giuseppe-conte"),
+    #("gentiloni", "/soggetti/243521/paolo-gentiloni"),
+    #("renzi", "/soggetti/74722/matteo-renzi"),
+    #("letta", "/soggetti/40755/enrico-letta"),
+    #("monti", "/soggetti/35269/mario-monti"),
     ("dini", "/soggetti/24012/lamberto-dini"),
     ("prodi", "/soggetti/6661/romano-prodi"),
     ("d'alema", "/soggetti/4773/massimo-d-alema"),
