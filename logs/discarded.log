@@ -1169,3 +1169,5 @@ https://www.radioradicale.it/scheda/505136/presentazione-del-libro-enzo-biagi-no
 https://www.radioradicale.it/scheda/503899/forum-della-coalizione-cambiamo-rotta-alleuropa-sessanta-anni-dai-trattati-di-roma?i=3688664  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/_out_503899_prodi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/503899_prodi.mp3'
 https://www.radioradicale.it/scheda/473537/europa-e-migrazioni?i=3552627  ValueError: No timestamps
 https://www.radioradicale.it/scheda/472632/il-futuro-delleconomia-mondiale-incontro-intervista-con-romano-prodi?i=3546319  ValueError: No timestamps
+https://www.radioradicale.it/scheda/442643/leconomia-politica-in-prospettiva-in-ricordo-di-siro-lombardini?i=3790611  ValueError: No timestamps
+https://www.radioradicale.it/scheda/442167/il-servo-del-signore-e-lumanita-degli-uomini?i=3413945  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/_out_442167_prodi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/442167_prodi.mp3'
