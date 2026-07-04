@@ -1,0 +1,105 @@
+Good morning, ladies and gentlemen. It's really a pleasure and an honor to be here and give
+you a brief description of some of Israeli high-tech aspects. I'll try to do it briefly
+because I guess that we are kind of slipping a little bit on the timetable and later on probably if
+you would like to ask more specific questions we'll be in the round table and I'll be more than
+happy to answer on any specific questions. So I'm going to concentrate mostly on the electronics
+and the software industries of Israel and just briefly describe to you what we do. In general
+absolute terms obviously our electronic industry is not so big probably as the Italian one but
+it still represents Israel being a small country more than 26 percent you will see of the total
+export and also quite substantial part of our gross national product. In general the revenue
+is growing at the rate of about 13 to 15 percent a year, the export at about 15 percent a year and
+it is typical as you may know to the high-tech industries usually they grow twice or three
+times as much as fast as the gross national product and that is in any country. I mean if the GDP or
+GNP grows at about six percent you'll find that the high-tech industry grows at about 15 percent
+and that's the reason for a shortage of manpower that has just been described by the Prime
+Minister. We are kind of running the world is running fast we are in the information society
+and obviously the educational system did not gear itself up to the fast development which
+are happening at the high-tech industry and we have this same symptom. Presently we have about
+40,000 employees within the output per employee which comes to about the 1996 figures as already
+at the range of about $170,000 per employee in this specific industry. As you may see the major
+development of the industry is toward the export I mean you are pretty constant on the local volume
+the reason being is that at the past the bigger consumer of our local production was the military
+but defense budgets are being cut all over the world and also in Israel and we are diverting more
+and more into the commercial and civilian markets and we are taking obviously technologies that
+have been derived from the military field into the civilian electronics which was again described
+by the Prime Minister as one of the sources to our high growth in that sector. You can see that the
+sectors in the export market of the electronic business would be between components industrial
+medical military and the fastest growing one is the communication which grows really at about 30% a
+year that is twice as fast as the total electronic sector is in the communication and I assume that
+in Italy probably it might be the same. In terms of the segment that I would say that the high
+growth represent out of the total exports you see it's about 26% but it's going very up and if
+you ask my estimate in about 10 years from now it might constitute more than 50 or even 60% of
+our total export because this is again as I said is the fastest growing field that we have today
+and is based mostly on know-how and not on raw materials. You can also see very clearly that
+we are going down in the military side but we are going up in the civilian side so there is
+definite shift from the military export and military electronics into civilian electronics.
+Just a few facts about the competitiveness in the sector. You can see let's say if you are
+talking hourly wages in the electronic sector and we are comparing let's say USA Italy USA
+Canada you can see where Israel stands at about $12 per hour fully loaded that would be the
+cost for production in the high-tech sector in Israel obviously in other sectors it is lower
+but you can see that if you go to Germany or Holland and these places it's a much higher and
+again I'm talking about production worker so there is a merit there is a merit for a production in
+Israel even though we have a quite high of GNP per capita as was mentioned of about $17,000 per
+capita. In general the high-tech output represent as I said about 50% of the industrial production
+at all, 65% of Israel export in the high-tech field. We have the higher per capita number of
+science graduates worldwide I'll show it in a minute. The research and development spending
+of about 3% of the GDP is the highest in the world I'll show it again in comparison and we believe
+that we have the highest concentration of startups outside the Silicon Valley and you take this the
+area of Israel is about the area of California and registered and unregistered startup you come to
+about 3,000 startups and we don't know of any other place in the world where you have this kind
+of a concentration of startup dealing with high-tech. In terms of comparison in research and
+development you can see on the graph percentage wise I mean Israel is at the top of the list
+obviously if you're talking in absolute values that's a different story because after all we
+don't have a trillion dollar economy but only something like 70-80 billion dollars but
+percentage wise you can see the effort that we are doing in terms of promoting the research
+and development and our chief scientist Dr. Honor Burry is going to refer to it in the next lecture.
+In terms of distribution of profession again it was mentioned by the Prime Minister you can see
+that due to the concentration on the high-tech as well as the absorption of the immigration from
+the Soviet Union in terms of technical profession a concentration and proportion to capita you see
+that Israel stands again ahead of the USA, Japan, Korea or Germany in terms of technical professions
+per the population. In terms of holder of science and engineering post-garage degrees this is the
+1995 figure but it's not very different from the 1996 you see again that in science and
+engineering in post-graduates per 10,000 in working population we have about close to four
+and a half percent which is very very high therefore in half per 10,000 excuse me. What are the areas
+in which you are concentrating? They are quite numerous. All of them really kind of have been
+identified as future areas and they would be in the information technology, environmental technologies,
+electronics and electro-optics, optics and lasers, multimedia, medical technology, telecommunication,
+data communication, sensing and biotechnology. These would be the main areas in which we are
+just to give you an idea if we go and innovation that we have in our startups some of them are
+worldwide innovations that is we were the first one to introduce them into the world market and
+they would be on multiplexing system based on SDHs, Gronius digital hierarchy standards, voice and
+handwritten recognition, wireless local area networks, voice and video compression and internet
+communication for video, voice, data, fax. We were the first one to introduce them. Companies like
+Wacaltech and so on. Firewall security for internet. Companies like checkpoint. They came first into
+the market identifying really huge potential of the internet that we have today. Intelligent
+cabling, computer-based high-speed color printing and many other really state-of-the-art fields in
+which we are involved in our operation. Just to show you since the information technology and
+internet is a very hot issue today, we are obviously developing a lot of things for the era of
+electronic commerce over the internet which is going really to revolutionize all the way in which
+we do business banking, schooling, shopping and so on. So we are going obviously into the smart card
+issue, electronic commerce, voice and video communication on the internet, firewall safe,
+remote access, wireless internet access to bypass the telephone systems that we have, network
+management, imaging and pattern recognition, signature recognition, fault detection, encryption
+and many other things. Some of them are derived obviously from our military technologies but all
+are being applied today very intensively into the fast-rapiding field of the internet. If we are
+talking about telecommunication which is again the fast-growing sector in our electronic high
+speed network, we are dealing with satellite terminals, ISDN terminals, ATM and LAN switches or SDH which
+are really the new switching technologies of the future to enable switching of data from all kind,
+two-way radios, cellular radios, video encryption and compression, HDSL and ADSL to enable
+transmission of high-speed data on corporate telephone lines, CATV communication because we
+are going to open now the cable television also for telephone, multimedia and interactive
+application, not just broadcasting on a cable TV and various telephone exchanges, multiplexer,
+router, statistical modems. They are all to be found in many of these companies. Israel is also very
+known for the electro-optics and lasers. Again, this is a military-deriven technologies and we
+have more than 100 companies and 30 technology incubators in the field. Some of them you might
+have heard about like Indigo, Cytex, Orbotech, L.O., Planoptics and the specialization would be in
+testing, measurement, inspection, digital printing, military, obviously lasers, imaging, fall detection,
+manufacturing, medical systems, medical application like surgery, microsurgery, they all fall into
+that one. Israel is also very known as a kind of world center for software development. Actually among
+very famous centers in Japan, India, Brazil, U.S. and Israel are considered to be a club of very
+high advanced software development capabilities and we have more than 200 software houses that are
+traded on the NASDAQ. By the way, out of the high-tech companies, Israel is the second country after Canada,
+today maybe the first one, which has got companies traded at the NASDAQ, the New York Stock Exchange.
+They have been able to raise more than $3 billion in that stock exchange and the value of the companies
+today there is over $30 billion and it's quite substantial in comparison to any other country
+which is investing in the U.S. or trying to raise money for high-tech products.
