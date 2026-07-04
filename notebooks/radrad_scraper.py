@@ -21,7 +21,7 @@ DATA = [
     #("renzi", "/soggetti/74722/matteo-renzi"),
     #("letta", "/soggetti/40755/enrico-letta"),
     #("monti", "/soggetti/35269/mario-monti"),
-    ("dini", "/soggetti/24012/lamberto-dini"),
+    #("dini", "/soggetti/24012/lamberto-dini"),
     ("prodi", "/soggetti/6661/romano-prodi"),
     ("d'alema", "/soggetti/4773/massimo-d-alema"),
     ("ciampi", "/soggetti/17588/carlo-azeglio-ciampi"),
