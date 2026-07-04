@@ -1491,3 +1491,7 @@ https://www.radioradicale.it/scheda/708161/i-grandi-temi-dellunione-europea-tele
 https://www.radioradicale.it/scheda/127217/laurea-e-occupazione-organizzato-da-almalaurea-la-banca-dati-dei-laureati-e-diplomati?i=1670521  ValueError: No timestamps
 https://www.radioradicale.it/scheda/119775/i-comuni-del-2000-la-sfida-dellinnovazione-xvi-assemblea-generale-dellassociazione?i=1757357  ValueError: No timestamps
 https://www.radioradicale.it/scheda/111377/il-presidente-designato-della-commissione-europea-romano-prodi-incontra-il-gruppo?i=1850217  ValueError: No timestamps
+https://www.radioradicale.it/scheda/106115/incontro-con-il-presidente-del-consiglio-romano-prodi-organizzato-nellambito-della?i=1906979  ValueError: No timestamps
+https://www.radioradicale.it/scheda/115260/bilanci-e-prospettive-della-lotta-al-riciclaggio-convegno-organizzato-dalla?i=1810625  RuntimeError: yt-dlp exited 1
+https://www.radioradicale.it/scheda/103591/mobilita-competitivita-vivibilita-conferenza-nazionale-trasporti-organizzata-dal?i=1935325  ValueError: No timestamps
+https://www.radioradicale.it/scheda/103357/le-donne-de-lulivo-rilanciano-lazione-del-centro-sinistra-il-lavoro-la-maternita-e-la?i=1938687  ValueError: No timestamps
