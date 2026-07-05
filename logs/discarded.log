@@ -1575,3 +1575,17 @@ https://www.radioradicale.it/scheda/96783/attualita-politica-lapprovazione-della
 https://www.radioradicale.it/scheda/94768/la-crisi-del-governo-prodi-le-consultazioni-del-presidente-della-repubblica-oscar-luigi?i=2066714  ValueError: No timestamps
 https://www.radioradicale.it/scheda/94767/la-crisi-del-governo-prodi-le-consultazioni-del-presidente-della-repubblica-oscar-luigi?i=2066717  ValueError: No timestamps
 https://www.radioradicale.it/scheda/92346/prodi-e-il-servizio-pubblico-delle-dirette-dei-lavori-parlamentari-di-radio-radicale?i=2095439  ValueError: No timestamps
+https://www.radioradicale.it/scheda/85208/quattro-chiacchere-con-il-presidente-del-consiglio-enzo-biagi-incontra-romano-prodi?i=2182390  ValueError: No timestamps
+https://www.radioradicale.it/scheda/81973/nascita-del-governo-prodi-composizione?i=2209362  ValueError: No timestamps
+https://www.radioradicale.it/scheda/81157/politiche-96-interviste-ai-leaders?i=2216692  ValueError: No timestamps
+https://www.radioradicale.it/scheda/80869/giornata-dellimpegno-e-della-memoria-in-ricordo-di-tutte-le-vittime-della-mafia?i=2219712  ValueError: No timestamps
+https://www.radioradicale.it/scheda/80130/presentazione-della-campagna-elettorale-dellulivo?i=2228128  ValueError: No timestamps
+https://www.radioradicale.it/scheda/85374/lulivo-e-le-elezioni-anticipate?i=2180468  ValueError: No timestamps
+https://www.radioradicale.it/scheda/78500/le-conclusione-del-vertice-dellulivo-sulle-riforme-istituzionali?i=2242932  ValueError: No timestamps
+https://www.radioradicale.it/scheda/74193/cronaca-della-manifestazione-pace-in-bosnia-pace-nei-balcani-organizzata-dai-verdi-a?i=2283670  ValueError: No timestamps
+https://www.radioradicale.it/scheda/91892/la-riunione-delle-forze-di-centro-sinistra-presieduta-da-r-prodi-la-questione-delle?i=2096094  ValueError: No timestamps
+https://www.radioradicale.it/scheda/74127/convegno-annuale-dei-giovani-imprenditori-della-confindustria?i=2284197  ValueError: No timestamps
+https://www.radioradicale.it/scheda/23329/ambiente-progetto-castalia?i=2712604  ValueError: No timestamps
+https://www.radioradicale.it/scheda/11574/x-congresso-della-cisl?i=2778037  ValueError: No timestamps
+https://www.radioradicale.it/scheda/241849/enzo-biagi-nel-cuore-della-gente?i=1085398  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/_out_241849_prodi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/241849_prodi.mp3'
+https://www.radioradicale.it/scheda/195826/comincia-il-futuro-di-tutti?i=1017479  RuntimeError: yt-dlp exited 1
