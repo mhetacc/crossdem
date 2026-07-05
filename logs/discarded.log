@@ -1536,3 +1536,11 @@ https://www.radioradicale.it/scheda/61267/qualita-sfida-per-la-scuola-dellautono
 https://www.radioradicale.it/scheda/52274/una-maggioranza-per-il-maggioritario?i=2479653  ValueError: No timestamps
 https://www.radioradicale.it/scheda/37926/europa-novanta?i=2592584  ValueError: No timestamps
 https://www.radioradicale.it/scheda/29026/napoli-per-lo-sviluppo-dellarea-metropolitana-e-del-mezzogiorno?i=2670849  ValueError: No timestamps
+https://www.radioradicale.it/scheda/14119/giustizia-e-ambiente?i=2770986  ValueError: No timestamps
+https://www.radioradicale.it/scheda/66880/quale-alleanza-tra-produttori-festa-dellunita?i=2354983  ValueError: No timestamps
+https://www.radioradicale.it/scheda/550696/spazio-transnazionale?i=3877251  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/_out_550696_prodi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/550696_prodi.mp3'
+https://www.radioradicale.it/scheda/540126/spazio-transnazionale?i=3835567  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/_out_540126_prodi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/540126_prodi.mp3'
+https://www.radioradicale.it/scheda/479474/speciale-spazio-transnazionale-europa-la-notte-piu-lunga?i=3576505  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/_out_479474_prodi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/479474_prodi.mp3'
+https://www.radioradicale.it/scheda/115188/passaggio-a-nord-est-trasmissione-di-telenordest-e-telelombardia-in-collegamento-con?i=1811433  ValueError: No timestamps
+https://www.radioradicale.it/scheda/81114/testa-a-testa-rubrica-elettorale-condotta-da-enrico-mentana?i=2217128  ValueError: No timestamps
+https://www.radioradicale.it/scheda/81078/tribuna-elettorale-di-rai2-politiche-96?i=2217267  ValueError: No timestamps

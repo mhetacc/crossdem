@@ -1,0 +1,924 @@
+1
+00:00:00,000 --> 00:00:09,660
+Per le apparecchiature di telecomunicazione, il mercato mondiale ammontava 90 miliardi di EQ dei quali 17 e mezzo nella comunità economica europea.
+
+2
+00:00:09,720 --> 00:00:16,940
+Per i servizi, il bilancio è di 300 miliardi di EQ, dei quali 62,5% della comunità.
+
+3
+00:00:19,760 --> 00:00:28,980
+Nel 1984, le telecomunicazioni coprivano il 2% del prodotto interno l'ordo comunitario.
+
+4
+00:00:28,980 --> 00:00:36,160
+Nel 2000 si calcola, sulla base dei vestimenti esistenti, che questa percentuale salirà al 7%
+
+5
+00:00:36,160 --> 00:00:44,700
+e sono ipotizzabili investimenti che vanno da 500 a mille miliardi di EQ nell'arco di anni che ci portano al 2000.
+
+6
+00:00:45,740 --> 00:00:50,540
+Come diceva Giorgio Ebboglia, un settore nel quale la evoluzione è rapidissima
+
+7
+00:00:50,540 --> 00:00:57,120
+e il progresso tecnologico riduce il carattere omogeneo dei servizi e degli apparati.
+
+8
+00:00:57,120 --> 00:01:03,100
+Sono comparsi nel corso di questi anni i servizi a valore aggiunto e le apparecchiature di utente
+
+9
+00:01:03,100 --> 00:01:11,060
+che sono distinti da quello che è il concetto dei servizi di telecomunicazione di base e degli impianti di rete di centrale.
+
+10
+00:01:11,240 --> 00:01:19,300
+Quindi è essenziale una nuova regolamentazione del settore che da una parte assicuri quella che è una qualità complessiva
+
+11
+00:01:19,300 --> 00:01:25,220
+del tessuto produttivo di un Paese e che può produrre anche al di fuori del settore
+
+12
+00:01:25,220 --> 00:01:28,340
+una situazione di sviluppo consistente.
+
+13
+00:01:30,380 --> 00:01:35,520
+E' un settore però che nonostante queste previsioni ottimistiche presenta altri fattori di rischio
+
+14
+00:01:35,520 --> 00:01:40,340
+a causa del moltiplicarsi delle scelte alternative della quantità di prodotti
+
+15
+00:01:41,040 --> 00:01:46,960
+appunto in continua moltiplicazione prodotti nuovi e servizi nuovi che vengono offerti al mercato.
+
+16
+00:01:47,220 --> 00:01:51,920
+Quindi è una società che viene definita società delle informazioni
+
+17
+00:01:51,920 --> 00:01:58,920
+nella quale il mercato si trasforma da mercato di venditori a mercato di compratori
+
+18
+00:01:58,920 --> 00:02:05,380
+e quindi conterà sempre meno la scelta politica e burocratica ma quella appunto delle opportunità economiche.
+
+19
+00:02:05,520 --> 00:02:10,040
+Devo dire che per parlare del futuro delle telecomunizazioni un punto di partenza
+
+20
+00:02:10,040 --> 00:02:17,020
+può essere sicuramente il programma di attuazione del libro verde della comunità economica europea
+
+21
+00:02:17,020 --> 00:02:18,500
+con una sola premessa.
+
+22
+00:02:18,960 --> 00:02:24,020
+Noi abbiamo una esperienza che quelli che sembrano dei diktak,
+
+23
+00:02:24,120 --> 00:02:28,840
+delle direttive, dei punti di decisione della comunità economica europea
+
+24
+00:02:28,840 --> 00:02:35,140
+sono molto spesso rimasti nelle legislazioni nazionali soltanto delle speranze,
+
+25
+00:02:35,380 --> 00:02:37,320
+dei traguardi non raggiunti.
+
+26
+00:02:37,480 --> 00:02:42,200
+In questa terra vedo un sacco di manifesti sui problemi della caccia
+
+27
+00:02:42,200 --> 00:02:49,280
+che la direttiva della comunità sulla caccia aspetta da 7 anni che ci sia una legislazione nazionale.
+
+28
+00:02:49,420 --> 00:02:56,760
+Da questo punto di vista i molti segnali che vengono dalle autorità, dai responsabili della comunità
+
+29
+00:02:56,760 --> 00:03:01,180
+parlano di attuazioni già nella fase dell'88 e dell'89
+
+30
+00:03:01,180 --> 00:03:07,500
+che sembrano nascere da una situazione ormai forte dal punto di vista delle cose concrete
+
+31
+00:03:07,500 --> 00:03:13,700
+ma noi su questo lasciamo il punto interrogativo che sempre dobbiamo sistemare
+
+32
+00:03:13,700 --> 00:03:16,500
+tutte le volte che parliamo appunto di quel rapporto
+
+33
+00:03:16,500 --> 00:03:21,560
+tra l'evoluzione dei sistemi e quelli che sono i tempi della politica.
+
+34
+00:03:21,760 --> 00:03:29,460
+Nel libro verde sono contenute alcuni aspetti che hanno già avuto un consenso vasto
+
+35
+00:03:29,460 --> 00:03:33,960
+per esempio il libero mercato dei terminali, il libero mercato dei servizi a valore aggiunto,
+
+36
+00:03:33,960 --> 00:03:39,120
+la separazione delle responsabilità normative da quelle di esercizio.
+
+37
+00:03:39,280 --> 00:03:43,820
+C'è un problema che è rimasto abbastanza contestato
+
+38
+00:03:43,820 --> 00:03:47,520
+dove le posizioni sono differenziate che quello della tariffazione
+
+39
+00:03:47,980 --> 00:03:52,880
+dove c'è una tesi per esempio italiana che vede prevalere una tariffazione a volume
+
+40
+00:03:52,880 --> 00:03:56,800
+rispetto a una tesi di altri paesi dove si parla di una tariffazione
+
+41
+00:03:56,800 --> 00:04:01,000
+che è collegata all'andamento dei costi.
+
+42
+00:04:01,000 --> 00:04:06,800
+Certamente viene richiesto a livello comunitario la definizione del rapporto
+
+43
+00:04:06,800 --> 00:04:11,600
+tra utenti e gestori in maniera chiara e sicuramente si ammette ovunque
+
+44
+00:04:11,600 --> 00:04:17,140
+la partecipazione dei gestori pubblici al libero mercato in condizioni paritetiche.
+
+45
+00:04:18,000 --> 00:04:23,120
+Da questo punto di vista il programma della comunità
+
+46
+00:04:23,120 --> 00:04:27,960
+prevede alcune azioni che dovrebbero addirittura concretizzarsi nel 1988
+
+47
+00:04:27,960 --> 00:04:31,020
+tra questi il libero mercato dei terminali
+
+48
+00:04:31,020 --> 00:04:34,320
+dove si parla addirittura in alcuni paesi
+
+49
+00:04:34,320 --> 00:04:37,960
+della possibilità di liberalizzare il primo apparecchio, il primo telefono
+
+50
+00:04:37,960 --> 00:04:39,600
+entro il 1990.
+
+51
+00:04:40,240 --> 00:04:44,520
+Si parla di un libero mercato dei servizi a partire dal 1990.
+
+52
+00:04:45,160 --> 00:04:51,000
+Si parla di un libero mercato per le antenne che permettono la sola ricezione via satellite
+
+53
+00:04:51,000 --> 00:04:55,400
+e questo dovrebbe avvenire entro il 31 dicembre 1989
+
+54
+00:04:56,600 --> 00:05:01,700
+e si parla di provvedimenti per garantire una leale concorrenza.
+
+55
+00:05:02,460 --> 00:05:05,520
+Nella passata legislatura c'è stato in Parlamento un dibattito
+
+56
+00:05:06,400 --> 00:05:10,920
+devo dire lento ma progressivamente approfondito
+
+57
+00:05:10,920 --> 00:05:14,600
+su proposte di legge, non c'era un intervento del Governo,
+
+58
+00:05:14,760 --> 00:05:17,680
+non c'era un disegno di legge, ma su proposte di legge alcune delle quali
+
+59
+00:05:17,680 --> 00:05:20,640
+anche se modificate sono state ripresentate
+
+60
+00:05:20,640 --> 00:05:23,960
+in particolare mi sembra che è stata annunciata quella della democrazia cristiana
+
+61
+00:05:23,960 --> 00:05:28,080
+dal senatore Picano che parlavano della possibilità
+
+62
+00:05:29,340 --> 00:05:33,720
+di aprire le reti pubbliche anche agli utenti privati
+
+63
+00:05:33,720 --> 00:05:37,320
+o della possibilità di far sviluppare nel nostro Paese
+
+64
+00:05:38,120 --> 00:05:42,120
+le reti ad uso privato, cioè le reti affettate
+
+65
+00:05:44,080 --> 00:05:48,080
+con delle posizioni che erano soprattutto divise
+
+66
+00:05:49,000 --> 00:05:52,340
+dal tasso di liberalizzazione che nelle proposte di legge
+
+67
+00:05:52,340 --> 00:05:53,580
+si voleva inserire.
+
+68
+00:05:53,840 --> 00:05:57,360
+In sostanza da tutti è stato affermato
+
+69
+00:05:57,360 --> 00:06:01,560
+e qui io lo riconfermo come una scelta positiva
+
+70
+00:06:01,560 --> 00:06:06,120
+di lasciare nel nostro Paese e di sostenerlo anche a livello comunitario
+
+71
+00:06:06,120 --> 00:06:09,640
+un monopolio delle infrastrutture
+
+72
+00:06:10,340 --> 00:06:13,760
+concedendo ancora una condizione di monopolio per quei servizi
+
+73
+00:06:13,760 --> 00:06:17,340
+che devono avere un carattere di particolarità e di esclusività
+
+74
+00:06:17,340 --> 00:06:20,960
+cercando però di trovare gli strumenti per una liberalizzazione
+
+75
+00:06:20,960 --> 00:06:24,100
+di tutti gli altri servizi a valori aggiunto
+
+76
+00:06:24,100 --> 00:06:27,360
+e in questo senso cercando di adeguare il nostro Paese
+
+77
+00:06:27,360 --> 00:06:31,880
+a un tasso di sviluppo europeo che in questo settore è molto accelerato.
+
+78
+00:06:34,300 --> 00:06:39,180
+Non entro nei particolari di questi difficilissimi problemi
+
+79
+00:06:40,260 --> 00:06:43,640
+che contengono anche una serie di argomentazioni tecniche
+
+80
+00:06:43,640 --> 00:06:48,580
+sicuramente mi sembra opportuno cercare di fare un quadro
+
+81
+00:06:48,580 --> 00:06:51,520
+delle forze che nel nostro Paese spingono
+
+82
+00:06:51,520 --> 00:06:55,180
+affinché ci sia un tasso di liberalizzazione più elevato
+
+83
+00:06:55,180 --> 00:06:58,960
+ed altri che ritengono che sia necessaria una marcia più prudente.
+
+84
+00:06:59,380 --> 00:07:01,700
+I protagonisti del settore sono i gestori pubblici
+
+85
+00:07:01,700 --> 00:07:04,080
+e i fornitori di servizi di base
+
+86
+00:07:04,420 --> 00:07:07,700
+i fornitori di prodotti, gli utenti e i fornitori di servizi.
+
+87
+00:07:08,420 --> 00:07:10,800
+In generale i gestori pubblici sono i più prudenti
+
+88
+00:07:10,800 --> 00:07:13,180
+verso la liberalizzazione e pongono un problema
+
+89
+00:07:13,700 --> 00:07:16,760
+che il legislatore e il governo deve tener presente
+
+90
+00:07:16,760 --> 00:07:20,540
+non esiste oggi alternativa a un intervento pubblico
+
+91
+00:07:20,540 --> 00:07:22,280
+nel settore delle infrastrutture
+
+92
+00:07:22,280 --> 00:07:24,740
+e noi crediamo che rompere questo principio
+
+93
+00:07:25,680 --> 00:07:29,120
+diseconomia e significa distruggere una ricchezza consolidata
+
+94
+00:07:29,500 --> 00:07:31,820
+e soprattutto una realtà che bene o male ha prodotto
+
+95
+00:07:31,820 --> 00:07:34,640
+una situazione di sviluppo del Paese.
+
+96
+00:07:34,840 --> 00:07:38,140
+I fornitori di macchine complessivamente sono favorevoli
+
+97
+00:07:38,140 --> 00:07:45,860
+anche se in passato avevano una posizione più prudente e conservativa.
+
+98
+00:07:45,860 --> 00:07:49,140
+Oggi pensano che la evoluzione europea sia inarrestabile
+
+99
+00:07:49,580 --> 00:07:52,340
+e che quindi convenga a assumere delle politiche
+
+100
+00:07:52,340 --> 00:07:54,760
+che maggiormente sviluppino il mercato.
+
+101
+00:07:55,500 --> 00:07:58,880
+Gli utenti sono interessatissimi alla liberalizzazione
+
+102
+00:07:58,880 --> 00:08:01,320
+nella commissione post telecomunicazione della camera
+
+103
+00:08:01,320 --> 00:08:04,280
+nell'87 abbiamo avuto una serie di audizioni
+
+104
+00:08:04,280 --> 00:08:06,960
+a partire dall'ABI che l'associazione delle banche
+
+105
+00:08:06,960 --> 00:08:12,260
+sono state richieste delle situazioni di liberalizzazione accentuata.
+
+106
+00:08:12,520 --> 00:08:14,680
+I fornitori di servizi sono interessati
+
+107
+00:08:14,680 --> 00:08:18,640
+alla liberalizzazione e sono quelli forse
+
+108
+00:08:18,640 --> 00:08:21,660
+che oggi sono più attivi nel contestare le restrizioni
+
+109
+00:08:21,660 --> 00:08:23,940
+che ci sono nei servizi per conto terzi
+
+110
+00:08:23,940 --> 00:08:27,640
+e nella sistemazione tarifaria che esiste nel nostro Paese.
+
+111
+00:08:28,740 --> 00:08:32,060
+Di fatto però rispetto a delle posizioni di principio
+
+112
+00:08:32,060 --> 00:08:35,760
+teoriche c'è stata nella prassi una situazione
+
+113
+00:08:37,880 --> 00:08:42,540
+che attraverso delle politiche pratiche concrete
+
+114
+00:08:42,540 --> 00:08:45,460
+ci ha permesso che ci sia una liberalizzazione
+
+115
+00:08:45,460 --> 00:08:49,940
+prudente ma consistente che si è affermata.
+
+116
+00:08:50,500 --> 00:08:52,200
+Nella stessa proposta di legge epicano
+
+117
+00:08:52,200 --> 00:08:58,660
+si parla di 150.000 terminali di elaborazione dati privati
+
+118
+00:08:59,240 --> 00:09:01,800
+ed è anche evidente che se non ci sarà
+
+119
+00:09:01,800 --> 00:09:04,900
+una regolamentazione del settore potrebbe qui affermarsi
+
+120
+00:09:04,900 --> 00:09:08,140
+e di fatto già c'è un fenomeno di abusivismo
+
+121
+00:09:08,140 --> 00:09:10,860
+che per esempio ha contrasegnato il settore
+
+122
+00:09:10,860 --> 00:09:13,760
+dell'emittenza televisiva nel nostro Paese
+
+123
+00:09:13,760 --> 00:09:17,200
+verso la quale il legislatore arriva sempre in ritardo
+
+124
+00:09:17,200 --> 00:09:18,880
+e non riesce oggi a trovare delle regole
+
+125
+00:09:18,880 --> 00:09:21,780
+che possono in qualche modo indirizzare il settore.
+
+126
+00:09:22,040 --> 00:09:26,420
+Quello che è sicuro che rispetto alla situazione di oggi
+
+127
+00:09:26,420 --> 00:09:30,780
+nella quale un sistema di eccezioni produce
+
+128
+00:09:30,780 --> 00:09:32,120
+poi una forma di equilibrio
+
+129
+00:09:32,120 --> 00:09:35,280
+sarebbe preferibile trovare delle regole di indirizzo
+
+130
+00:09:35,280 --> 00:09:38,140
+che siano collegate alle scelte europee.
+
+131
+00:09:38,140 --> 00:09:41,340
+Sicuramente mancano nel budget governativo
+
+132
+00:09:41,340 --> 00:09:45,700
+le risorse per programmi che siano profondamente innovativi
+
+133
+00:09:45,700 --> 00:09:48,480
+e risorse che servono a poter ipotizzare
+
+134
+00:09:49,100 --> 00:09:52,280
+uno schema nel quale la presenza pubblica
+
+135
+00:09:52,280 --> 00:09:54,580
+riesca a risolvere tutti i problemi.
+
+136
+00:09:54,780 --> 00:09:57,260
+Direi che le spinte che sono venute
+
+137
+00:09:57,260 --> 00:10:00,420
+sul dibattito per la liberalizzazione
+
+138
+00:10:01,280 --> 00:10:04,780
+non viene tanto dal principio
+
+139
+00:10:04,780 --> 00:10:07,440
+dell'abbattimento del monopolio
+
+140
+00:10:07,440 --> 00:10:09,040
+ma da posizioni teoriche
+
+141
+00:10:09,040 --> 00:10:11,660
+quanto dalla impossibilità con le risorse pubbliche
+
+142
+00:10:11,660 --> 00:10:14,480
+disponibili di poter, attraverso il sistema di gestori
+
+143
+00:10:14,480 --> 00:10:17,840
+garantire tutta l'espansione e l'evoluzione dei servizi.
+
+144
+00:10:18,120 --> 00:10:20,660
+E' su questo che credo che si debba
+
+145
+00:10:20,660 --> 00:10:23,440
+disideologizzare il dibattito e cercare
+
+146
+00:10:23,440 --> 00:10:26,020
+e stasera abbiamo qui i protagonisti
+
+147
+00:10:26,020 --> 00:10:28,220
+coloro che di fatto governano il settore
+
+148
+00:10:28,220 --> 00:10:34,560
+delle telecomunicazioni del nostro Paese
+
+149
+00:10:34,560 --> 00:10:37,860
+dove si possa in qualche modo combinare
+
+150
+00:10:37,860 --> 00:10:40,720
+l'obiettivo del massimo della liberalizzazione
+
+151
+00:10:40,720 --> 00:10:42,480
+quindi della concorrenza di mercato
+
+152
+00:10:42,480 --> 00:10:46,700
+quindi il passo più vicino a una situazione
+
+153
+00:10:47,460 --> 00:10:49,560
+di concorrenza e di innovazione
+
+154
+00:10:49,560 --> 00:10:51,720
+con quelli che sono i problemi di mantenere
+
+155
+00:10:51,720 --> 00:10:54,480
+una infrastruttura pubblica solida, espansiva
+
+156
+00:10:54,480 --> 00:10:57,580
+che sia il tessuto sul quale si poggia l'evoluzione.
+
+157
+00:10:57,780 --> 00:11:00,680
+Un solo dato, questo che viene
+
+158
+00:11:01,500 --> 00:11:04,080
+da uno studio fatto dalla IBM
+
+159
+00:11:04,080 --> 00:11:07,300
+sulla Scena Italiana che propone due scenari
+
+160
+00:11:07,300 --> 00:11:10,280
+il primo scenario è nel caso del mantenimento
+
+161
+00:11:10,280 --> 00:11:13,260
+della situazione attuale e parla
+
+162
+00:11:13,260 --> 00:11:15,880
+di un reddito complessivo del settore pubblico
+
+163
+00:11:15,880 --> 00:11:18,540
+che aumenterà più velocemente del prodotto interno
+
+164
+00:11:18,540 --> 00:11:21,580
+lordo in prezzi costanti ma in misura molto inferiore
+
+165
+00:11:21,580 --> 00:11:23,460
+da quanto è stato previsto dal piano Stedt.
+
+166
+00:11:24,060 --> 00:11:26,460
+Il tasso di crescita del fatturato della telefonia
+
+167
+00:11:26,460 --> 00:11:29,580
+sarà leggermente inferiore a quello reddito complessivo.
+
+168
+00:11:30,540 --> 00:11:32,540
+Nell'insieme la quota delle telecomunicazioni
+
+169
+00:11:32,540 --> 00:11:34,800
+del prodotto interno lordo con questo scenario
+
+170
+00:11:34,800 --> 00:11:38,380
+resterebbe inferiore al 3% a metà degli anni 90.
+
+171
+00:11:38,540 --> 00:11:41,520
+Ed un altro scenario invece, sempre da questo istituto
+
+172
+00:11:41,520 --> 00:11:45,180
+di studi che credo commissionato dalla IBM
+
+173
+00:11:45,180 --> 00:11:47,520
+che illustra invece la situazione
+
+174
+00:11:47,520 --> 00:11:50,580
+che verificherebbe nel caso di
+
+175
+00:11:51,120 --> 00:11:53,120
+una maggiore liberalizzazione del sistema.
+
+176
+00:11:53,120 --> 00:11:56,680
+In questo caso ci sarebbe un incremento
+
+177
+00:11:56,680 --> 00:11:59,500
+della quota del settore che sarebbe tra il 3,5
+
+178
+00:11:59,500 --> 00:12:02,100
+e il 4% del prodotto interno lordo
+
+179
+00:12:02,100 --> 00:12:04,540
+e ci sarebbe di fatto una non incidenza
+
+180
+00:12:04,540 --> 00:12:07,480
+sul fatturato della telefonia perché la riduzione
+
+181
+00:12:07,480 --> 00:12:11,240
+dei costi porterebbe un ampliamento dei consumi
+
+182
+00:12:11,240 --> 00:12:14,420
+cioè delle chiamate a lunga distanza e delle linee affittate.
+
+183
+00:12:14,660 --> 00:12:17,120
+Oltre a questo ci sarebbe un più intenso uso
+
+184
+00:12:17,120 --> 00:12:19,560
+dei servizi di base che scaturerebbe
+
+185
+00:12:19,560 --> 00:12:22,800
+dalla maggiore varietà e dalla migliore composizione
+
+186
+00:12:22,800 --> 00:12:24,700
+dei servizi a valore aggiunto.
+
+187
+00:12:24,860 --> 00:12:28,320
+Quindi è uno scenario che mostrerebbe una condizione di vantaggio.
+
+188
+00:12:28,560 --> 00:12:31,930
+Da questo punto di vista il Partito Repubblicano
+
+189
+00:12:32,440 --> 00:12:36,780
+che ha seguito una valutazione
+
+190
+00:12:36,780 --> 00:12:40,480
+attenta ma anche prudente rispetto ai tassi di innovazione
+
+191
+00:12:40,480 --> 00:12:42,920
+che bisogna portare in questo settore
+
+192
+00:12:42,920 --> 00:12:48,320
+credo che terrà sicuramente conto
+
+193
+00:12:48,320 --> 00:12:49,540
+delle possibili coste di vantaggio
+
+194
+00:12:49,540 --> 00:12:53,500
+dei possibili maggiori vantaggi del sistema rispetto all'altro
+
+195
+00:12:53,500 --> 00:12:57,240
+e sicuramente farà riferimento alla posizione comunitaria
+
+196
+00:12:57,240 --> 00:12:59,640
+per cercare di creare realmente
+
+197
+00:12:59,640 --> 00:13:02,120
+con l'appuntamento del 1992
+
+198
+00:13:02,120 --> 00:13:04,660
+quel mercato comune unico
+
+199
+00:13:04,660 --> 00:13:07,200
+che potrà soprattutto in questo settore
+
+200
+00:13:07,200 --> 00:13:09,600
+registrare il tasso di modernità maggiore
+
+201
+00:13:09,600 --> 00:13:12,880
+per la collettività e per l'economia nazionale.
+
+202
+00:13:13,420 --> 00:13:15,740
+Il Ministro delle Coste Mamiche
+
+203
+00:13:15,740 --> 00:13:17,960
+concluderà il dibattito.
+
+204
+00:13:18,340 --> 00:13:20,680
+Scusa ma ci ha messo 6 ore per arrivare da Roma.
+
+205
+00:13:20,960 --> 00:13:22,860
+Se veniva via telefono a sera.
+
+206
+00:13:24,160 --> 00:13:25,840
+La posta ci vede ancora di più.
+
+207
+00:13:31,180 --> 00:13:32,940
+Mauro Dutto è quello che avete intenzionato
+
+208
+00:13:32,940 --> 00:13:36,260
+che va sgrossato il grande quadro
+
+209
+00:13:36,260 --> 00:13:38,700
+nel quale si nuovano le telecomunicazioni
+
+210
+00:13:38,700 --> 00:13:43,860
+gli aspetti di normativa ma che aspetti istituzionali
+
+211
+00:13:43,860 --> 00:13:46,840
+il grande confronto e la grande conferenza internazionale.
+
+212
+00:13:47,200 --> 00:13:49,820
+Le grandi società di gestione
+
+213
+00:13:49,820 --> 00:13:51,840
+dei servizi di telecomunicazioni
+
+214
+00:13:51,840 --> 00:13:54,480
+esclusa l'azienda di stato dei servizi telefonici
+
+215
+00:13:54,480 --> 00:13:56,420
+sono in Iri.
+
+216
+00:13:56,860 --> 00:14:00,440
+Se è d'accordo Prodi
+
+217
+00:14:00,440 --> 00:14:03,460
+probabilmente seguisse la Dutto.
+
+218
+00:14:16,500 --> 00:14:22,720
+Non c'è problema.
+
+219
+00:14:23,300 --> 00:14:25,980
+Io farò un breve intervento
+
+220
+00:14:25,980 --> 00:14:27,900
+poi mi scuso
+
+221
+00:14:27,900 --> 00:14:30,920
+perché avendo molto vagabondato
+
+222
+00:14:30,920 --> 00:14:33,620
+se lascerò poi l'assemblea.
+
+223
+00:14:35,840 --> 00:14:39,560
+Sono stato chiamato in causa
+
+224
+00:14:39,560 --> 00:14:43,020
+giustamente come Iri
+
+225
+00:14:43,020 --> 00:14:43,840
+e sono stato chiamato in causa
+
+226
+00:14:43,840 --> 00:14:46,980
+uno dei massimi responsabili
+
+227
+00:14:46,980 --> 00:14:48,580
+dei messi protagonisti della gestione
+
+228
+00:14:48,580 --> 00:14:50,920
+del sistema telefonico italiano.
+
+229
+00:14:50,960 --> 00:14:55,960
+Dutto ci ha dato un quadro
+
+230
+00:14:56,480 --> 00:14:58,520
+dell'espansione
+
+231
+00:14:58,520 --> 00:15:00,000
+delle telecomunicazioni.
+
