@@ -1544,3 +1544,8 @@ https://www.radioradicale.it/scheda/479474/speciale-spazio-transnazionale-europa
 https://www.radioradicale.it/scheda/115188/passaggio-a-nord-est-trasmissione-di-telenordest-e-telelombardia-in-collegamento-con?i=1811433  ValueError: No timestamps
 https://www.radioradicale.it/scheda/81114/testa-a-testa-rubrica-elettorale-condotta-da-enrico-mentana?i=2217128  ValueError: No timestamps
 https://www.radioradicale.it/scheda/81078/tribuna-elettorale-di-rai2-politiche-96?i=2217267  ValueError: No timestamps
+https://www.radioradicale.it/scheda/602832/dialoghi-sul-nostro-tempo-marco-damilano-intervista-romano-prodi?i=4110672  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/_out_602832_prodi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/602832_prodi.mp3'
+https://www.radioradicale.it/scheda/253127/intervista-a-romano-prodi-sul-suo-intervento-allassemblea-dei-mille-di-chianciano?i=1039612  ValueError: No timestamps
+https://www.radioradicale.it/scheda/237292/dichiarazioni-di-romano-prodi-sulla-moratoria-internazionale-della-pena-di-morte?i=1109797  ValueError: No timestamps
+https://www.radioradicale.it/scheda/222335/intervista-a-romano-prodi-sulla-campagna-per-la-moratoria-universale-delle-esecuzioni?i=1184754  ValueError: No timestamps
+https://www.radioradicale.it/scheda/219002/la-crisi-del-2deg-governo-prodi-dichiarazioni-al-termine-delle-consultazioni-con-il?i=1202768  ValueError: No timestamps
