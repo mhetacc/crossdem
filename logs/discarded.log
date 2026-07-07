@@ -1724,3 +1724,7 @@ https://www.radioradicale.it/scheda/198194/manifestazione-elettorale-per-claudio
 https://www.radioradicale.it/scheda/158977/elezioni-europee-ed-amministrative-2004-manifestazione-conclusiva-della-campagna?i=1372388  ValueError: No timestamps
 https://www.radioradicale.it/scheda/158743/viaggio-nellitalia-che-vuole-cambiare-organizzato-dalla-lista-uniti-nellulivo-presso?i=1374684  ValueError: No timestamps
 https://www.radioradicale.it/scheda/158387/stop-al-declino-piu-fiducia-sviluppo-europa-2a-convenzione-nazionale-organizzata-dalla?i=1378215  ValueError: No timestamps
+https://www.radioradicale.it/scheda/135647/inaugurazione-dellanno-accademico-delluniversita-luissguido-carli-org-co-aula-magna?i=1594415  ValueError: No timestamps
+https://www.radioradicale.it/scheda/124917/comizio-de-i-democratici-per-lulivo-in-vista-delle-elezioni-europee-ed-amministrative?i=1698852  RuntimeError: yt-dlp exited 1
+https://www.radioradicale.it/scheda/120391/incontro-con-il-neo-presidente-della-commissione-europea-romano-prodi-organizzato-da-i?i=1749347  ValueError: No timestamps
+https://www.radioradicale.it/scheda/111651/i-manifestazione-nazionale-de-i-democratici-per-lulivo-org-co-teatro-brancaccio?i=1846986  ValueError: No timestamps
