@@ -1728,3 +1728,7 @@ https://www.radioradicale.it/scheda/135647/inaugurazione-dellanno-accademico-del
 https://www.radioradicale.it/scheda/124917/comizio-de-i-democratici-per-lulivo-in-vista-delle-elezioni-europee-ed-amministrative?i=1698852  RuntimeError: yt-dlp exited 1
 https://www.radioradicale.it/scheda/120391/incontro-con-il-neo-presidente-della-commissione-europea-romano-prodi-organizzato-da-i?i=1749347  ValueError: No timestamps
 https://www.radioradicale.it/scheda/111651/i-manifestazione-nazionale-de-i-democratici-per-lulivo-org-co-teatro-brancaccio?i=1846986  ValueError: No timestamps
+https://www.radioradicale.it/scheda/104873/la-lombardia-con-lulivo-in-europa-incontro-con-gli-amministratori-lombardi-dellulivo?i=1921004  ValueError: No timestamps
+https://www.radioradicale.it/scheda/98537/la-chiusura-della-campagna-elettorale-del-comitato-rutelli-co-il-palaeur?i=2020346  RuntimeError: yt-dlp exited 1
+https://www.radioradicale.it/scheda/93602/intervento-del-presidente-del-consiglio-romano-prodi-festa-nazionale-dellamicizia?i=2082105  ValueError: No timestamps
+https://www.radioradicale.it/scheda/96299/il-presidente-del-consiglio-romano-prodi-incontra-i-sindaci-e-i-candidati-sindaci?i=2048008  ValueError: No timestamps

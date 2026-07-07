@@ -1,0 +1,236 @@
+1
+00:00:00,000 --> 00:00:09,800
+Carlo Lacatena, Stefano Picerno, Sergio Pasotto, Alessandro Ferrari, Drismu Safir, Don Giuseppe
+
+2
+00:00:09,800 --> 00:00:20,460
+Puglisi, Nunzio Alta, Giuseppe Di Matteo, 11 anni, 1994, Enrico Incognito, Salvatore
+
+3
+00:00:20,460 --> 00:00:29,360
+Bennici, Vincenzo Garofalo, Antonino Fava, Don Giuseppe Diana, Antonio Novella, Francesco
+
+4
+00:00:29,360 --> 00:00:39,780
+Palloi, Calogero Panepinto, Ignazio Panepinto, Francesco Maniscalco, Nicolas Green, 6 anni,
+
+5
+00:00:40,060 --> 00:00:48,340
+Leonardo Santoro, Melchiorre Gallo, Palmas Camardelli, Pasquale Cacciapuoti, Domenico
+
+6
+00:00:48,340 --> 00:00:59,200
+Buscetta, 1995, Giuseppe Di Matteo, Francesco Marcone, Giuseppe Modica, Pieter Ubers Onidke,
+
+7
+00:00:59,200 --> 00:01:07,880
+Antonio Brandi, Antonio Longo, Gioacchino Costanzo, 2 anni, Pasquale Correale, Antonino
+
+8
+00:01:07,880 --> 00:01:17,860
+Monteleone, Giuseppe Montalto, Serafino Famà, 1996, Gioacchino Bisceglia, Rosario Ministeri,
+
+9
+00:01:18,080 --> 00:01:26,520
+Giuseppe La Franca, 1997, Giulio Castellino, Salvatore Botta, 13 anni, Maria Antonietta
+
+10
+00:01:26,520 --> 00:01:51,740
+Savona, Riccardo Savona, 1 mese, Ciro Zirpoli, 16 anni, 1985, Carmine Tripodi, Pietro Patti,
+
+11
+00:01:51,740 --> 00:02:00,100
+Giovanni Carbone, Barbara Rizzo Asta, Giuseppe Asta, 6 anni, Salvatore Asta, 6 anni, Giuseppe
+
+12
+00:02:00,100 --> 00:02:07,840
+Spada, Graziella Campagna, Beppe Montana, Nigni Cassarà, Roberto Antiochia, Giancarlo Siani,
+
+13
+00:02:08,400 --> 00:02:17,780
+Biaggio Siciliano, 14 anni, Giuditta Milella, 16 anni, 1986, Filippo Salsone, Paolo Bottone,
+
+14
+00:02:17,780 --> 00:02:26,600
+Francesco Alfano, Francesco Pressia, Domenica de Girolamo, Claudio Domino, 11 anni, 1987,
+
+15
+00:02:26,820 --> 00:02:33,220
+Giuseppe Richichi, Rosario Iozzia, Sebastiano Morabito, Antonio Civinini, Carmelo Iannò,
+
+16
+00:02:33,900 --> 00:02:43,780
+Giuseppe Cutroneo, 9 anni, Rosario Montalto, 10 anni, 1988, Natale Mondo, Giuseppe Insalaco,
+
+17
+00:02:43,780 --> 00:02:51,580
+Giulio Capilli, Donato Boscia, Pietro Ragno, Alberto Giacomelli, Diodato D'Auria, Antonino
+
+18
+00:02:51,580 --> 00:03:00,880
+Saetta, Stefano Saetta, Mauro Rostagno, Luigi Ranieri, 1989, Francesco Crisopulli, Rosario
+
+19
+00:03:00,880 --> 00:03:08,440
+Bevilacqua, Giuseppe Caruso, Marcella Tassone, 10 anni, Antonino Agostino, Ida Castellucci,
+
+20
+00:03:08,980 --> 00:03:16,180
+Nicolina Biscozzi, Giuseppe Tiziano, Ornella Greco, Giuseppe Salvia, Francesco Pepi.
+
+21
+00:03:18,140 --> 00:03:24,180
+Prosegue a leggere Florinda Bennici, del Volontariato Ospedaliero, è la Presidente del Progetto
+
+22
+00:03:24,180 --> 00:03:34,080
+Giovani a Niscemi. Andrea Bonforte, 15 anni, Giovanni Trecroci,
+
+23
+00:03:34,080 --> 00:03:42,960
+Saverio Purita, 10 anni, Angelo Carbotti, Giovanni Bonsignore, Cosimo Durante, Nunzia
+
+24
+00:03:42,960 --> 00:03:51,200
+Pandolfi, 18 mesi, Arturo Caputo, 16 anni, Angelo Raffaele Longo, Domenico Catalano,
+
+25
+00:03:51,280 --> 00:04:00,320
+16 anni, Maria Marcella, Elisabetta Gagliardi, 7 anni, Antonio Marino, Rosario Livatino,
+
+26
+00:04:00,320 --> 00:04:11,000
+Giuseppe Orlando, Alessandro Rovetta, Francesco Vecchio, Cataldo Di Polito, Antonella Maggio,
+
+27
+00:04:11,940 --> 00:04:23,220
+Anna Forcigianò, Cristina Pavesi, Giovanni Semeraro, 1991, Giuseppe Fantastico, Giancarlo
+
+28
+00:04:23,220 --> 00:04:33,320
+Mano, Valentina Guarino, 6 mesi, Antonio Rampino, Silvana Foglietta, Angelo Milanese, Antonio
+
+29
+00:04:33,320 --> 00:04:43,020
+Calvara, Antonio Valente, 21 anni, Salvatore Daddario, Vincenzo Leonardi, Antonino Cordopatri,
+
+30
+00:04:43,740 --> 00:04:52,640
+Andrea Savoca, 4 anni, Domenico Randò, Antonino Scopelliti, Nicola Guerriero, Salvatore Tieni,
+
+31
+00:04:56,560 --> 00:05:15,920
+Maria Teresa Strada, Fucci di Sicilia, 1992, Antonino Spartà, Vincenzo Spartà, Salvatore
+
+32
+00:05:15,920 --> 00:05:25,960
+Spartà, Saverio Cirincione, Giuliano Guazzanelli, Paolo Ficalora, Salvatore Aversa, Lucia Presenzano,
+
+33
+00:05:26,600 --> 00:05:35,380
+Alfredo Agosta, Giuliano Guazzelli, Paolo Borsellino, Antonio Tamborino, Giovanni Falcone,
+
+34
+00:05:35,920 --> 00:05:45,420
+Francesca Morvillo, Rocco Di Cillo, Antonio Montinaro, Vito Schifani, Raffaele Di Mercurio,
+
+35
+00:05:45,420 --> 00:05:54,960
+Paolo Borsellino, Agostino Catalano, Walter Fusina, Emanuella Loi, Vincenzo Limuli, Claudio
+
+36
+00:05:54,960 --> 00:06:03,960
+Traina, Giovanni Lizio, Rita Atria, 17 anni, Mauro Maniglio, Giovanni Panunzio, Gaetano
+
+37
+00:06:03,960 --> 00:06:14,860
+Giordano, Giuseppe Borsellino, Sandra Stranieri, 25 anni, 1993, Beppe Alfano, 21 feriti e una
+
+38
+00:06:14,860 --> 00:06:23,400
+vittima, Nicola Revondino, Angela Fiume, Fabrizio Nencioni, Nadia Nencioni, 8 anni,
+
+39
+00:06:23,520 --> 00:06:31,920
+Elisabetta Nencioni, 8 anni, Caterina Nencioni, 45 giorni, Dario Capolicchio, Carlo La Catena,
+
+40
+00:06:32,320 --> 00:06:40,020
+Stefano Picerno, Sergio Pasotto, Alessandro Ferrari, Drismu Safir, Don Giuseppe Puglisi,
+
+41
+00:06:40,020 --> 00:06:51,220
+Nunzio Afta, Giuseppe Di Matteo, 11 anni, 1994, Enrico Incognito, Salvatore Bennici, Vincenzo
+
+42
+00:06:51,220 --> 00:07:00,720
+Garocolo, Antonino Fava, Don Giuseppe Diana, Antonio Novella, Francesco Aloi, Calogero Panepinto,
+
+43
+00:07:00,720 --> 00:07:10,780
+Ignazio Panepinto, e continua Salvatore Militello del progetto Giovani di Niscemi,
+
+44
+00:07:14,980 --> 00:07:22,840
+Francesco Maniscalco, Manicolas Green, 6 anni, Leonardo Santoro, Michael Chiorre Gallo,
+
+45
+00:07:22,840 --> 00:07:31,100
+Palma Scardelli, Pasquale Cacciaputo, Domenico Buscetta, 1955, Giuseppe Di Matteo, Francesco
+
+46
+00:07:31,100 --> 00:07:39,960
+Marcone, Giuseppe Modica, Pater Wille Ongervic, Antonio Brandi, Antonio Longo, Gioacchino
+
+47
+00:07:39,960 --> 00:07:49,200
+Costanzo, 2 anni, Pasquale Correale, Antonino Monteleone, Giuseppe Montalto, Serrafino Fama,
+
+48
+00:07:49,200 --> 00:07:59,760
+1996, Gioacchino Biseglia, Rosario Manisteri, Giuseppe La Franca, 1997, Giulio Castellino.
+
+49
+00:08:03,740 --> 00:08:13,940
+Giappino Fiorenza di Libera della Campania conclude questa parte della lettura, rilegge 1995.
+
+50
+00:08:18,720 --> 00:08:32,680
+Giuseppe Di Matteo, Francesco Marcone, Giuseppe Modica, Pater Wille Ongervic, Antonio Brandi,
+
+51
+00:08:32,680 --> 00:08:47,020
+Antonio Longo, Gioacchino Costanzo, 2 anni, Pasquale Correale, Antonino Monteleone, Giuseppe
+
+52
+00:08:47,020 --> 00:09:01,020
+Montalto, Serrafino Fama, 1996, Gioacchino Biseglia, Rosario Manisteri, Giuseppe La Franca,
+
+53
+00:09:02,340 --> 00:09:15,740
+1997, Giulio Castellino. Salvatore Bottà, 13 anni, Maria Antonietta Savona, Riccardo
+
+54
+00:09:15,740 --> 00:09:33,440
+Savona, Ciro Zirpoli, 16 anni. Con la voce di Pepi Salvatore accompagnato
+
+55
+00:09:33,440 --> 00:09:40,380
+al flauto dal maestro Alfonso Di Martino, noi diamo inizio alla lettura dei nomi che
+
+56
+00:09:40,380 --> 00:09:43,720
+ci accompagnerà fino alla cerimonia ufficiale.
+
+57
+00:10:13,480 --> 00:10:28,200
+1948, Epipanio Lippuma, Placido Rizzotto, Giuseppe Letizia, 14 anni, Calogero Cangialosi,
+
+58
+00:10:29,200 --> 00:10:43,580
+Marcantonio Giacalone, Antonio Giacalone, Antonio Di Salvo, Nicola Messina, Celestino Zapponi,
+
+59
+00:10:46,680 --> 00:10:59,900
+1949, Carlo Bulino, Francesco Bulino, 3 anni, Leonardo Renda, Antonio Marconi,
+
