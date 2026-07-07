@@ -1721,3 +1721,6 @@ https://www.radioradicale.it/scheda/243707/tappa-di-romano-prodi-con-il-tir-gial
 https://www.radioradicale.it/scheda/240927/tir-in-tour-manifestazione-con-romano-prodi?i=1077868  ValueError: No timestamps
 https://www.radioradicale.it/scheda/223496/litalia-leuropa-e-il-mondo-diamo-allitalia-un-governo-di-pace-incontro-con-romano?i=1163451  ValueError: No timestamps
 https://www.radioradicale.it/scheda/198194/manifestazione-elettorale-per-claudio-martini-candidato-presidente-della-regione?i=1282251  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/_out_198194_prodi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/198194_prodi.mp3'
+https://www.radioradicale.it/scheda/158977/elezioni-europee-ed-amministrative-2004-manifestazione-conclusiva-della-campagna?i=1372388  ValueError: No timestamps
+https://www.radioradicale.it/scheda/158743/viaggio-nellitalia-che-vuole-cambiare-organizzato-dalla-lista-uniti-nellulivo-presso?i=1374684  ValueError: No timestamps
+https://www.radioradicale.it/scheda/158387/stop-al-declino-piu-fiducia-sviluppo-europa-2a-convenzione-nazionale-organizzata-dalla?i=1378215  ValueError: No timestamps
