@@ -1732,3 +1732,9 @@ https://www.radioradicale.it/scheda/104873/la-lombardia-con-lulivo-in-europa-inc
 https://www.radioradicale.it/scheda/98537/la-chiusura-della-campagna-elettorale-del-comitato-rutelli-co-il-palaeur?i=2020346  RuntimeError: yt-dlp exited 1
 https://www.radioradicale.it/scheda/93602/intervento-del-presidente-del-consiglio-romano-prodi-festa-nazionale-dellamicizia?i=2082105  ValueError: No timestamps
 https://www.radioradicale.it/scheda/96299/il-presidente-del-consiglio-romano-prodi-incontra-i-sindaci-e-i-candidati-sindaci?i=2048008  ValueError: No timestamps
+https://www.radioradicale.it/scheda/81423/insieme-per-il-lavoro-in-occasione-della-giornata-nazionale-del-lavoro-indetta?i=2214433  ValueError: No timestamps
+https://www.radioradicale.it/scheda/80873/manifestazione-della-lista-partito-polare-unione-democratica-partito-repubblicano-per?i=2219685  ValueError: No timestamps
+https://www.radioradicale.it/scheda/80746/litalia-e-leuropa-idee-a-confronto-manifestazione-organizzata-dalla-coalizione?i=2220804  ValueError: No timestamps
+https://www.radioradicale.it/scheda/74559/1deg-incontro-nazionale-di-tutti-i-comitati-per-litalia-che-vogliamo-e-delle-forze-che?i=2281247  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/_out_74559_prodi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/prodi/audio_out/74559_prodi.mp3'
+https://www.radioradicale.it/scheda/73114/conclusione-del-tour-siciliano-di-romano-prodi-manifestazione-alla-fiera-del?i=2294406  ValueError: No timestamps
+https://www.radioradicale.it/scheda/74750/romano-prodi-a-catania-piazza-universita?i=2279912  ValueError: No timestamps
