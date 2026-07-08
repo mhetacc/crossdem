@@ -681,7 +681,7 @@ def extract_id_from_url(url):
 
 def log_discard(url, exc):
     with open(DISCARD_LOG, "a") as f:
-        f.write(f"{url}  {type(exc).__name__}: {exc}\n")
+        f.write(f"{datetime.now()}  {url}  {type(exc).__name__}: {exc}\n")
 
 def main (politician, SUBJECT_URL):
 

@@ -1986,3 +1986,5 @@ https://www.radioradicale.it/scheda/520440/festa-di-sinistra-italiana-la-crisi-d
 https://www.radioradicale.it/scheda/521154/festa-del-lavoro-la-crisi-globale-della-democrazia-e-la-nascita-di-un-nuovo-umanesimo?i=3760469  FileNotFoundError: [Errno 2] No such file or directory: "/home/mhetac/Documents/GitHub/crossdem/datasets/d'alema/audio_out/_out_521154_dalema.mp3" -> "/home/mhetac/Documents/GitHub/crossdem/datasets/d'alema/audio_out/521154_dalema.mp3"
 https://www.radioradicale.it/scheda/514312/festival-la-versiliana-massimo-dalema-a-tutto-campo?i=3735395  ValueError: No timestamps
 https://www.radioradicale.it/scheda/504578/essere-giovani-e-un-mestiere-complicato-le-politiche-per-costruire-nuove-liberta-e?i=3692291  ValueError: No timestamps
+2026-07-08 12:22:55.985023  https://www.radioradicale.it/scheda/514312/festival-la-versiliana-massimo-dalema-a-tutto-campo?i=3735395  ValueError: No timestamps
+2026-07-08 12:22:56.362715  https://www.radioradicale.it/scheda/504578/essere-giovani-e-un-mestiere-complicato-le-politiche-per-costruire-nuove-liberta-e?i=3692291  ValueError: No timestamps
