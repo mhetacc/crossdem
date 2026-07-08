@@ -22,7 +22,7 @@ DATA = [
     #("letta", "/soggetti/40755/enrico-letta"),
     #("monti", "/soggetti/35269/mario-monti"),
     #("dini", "/soggetti/24012/lamberto-dini"),
-    ("prodi", "/soggetti/6661/romano-prodi"),
+    #("prodi", "/soggetti/6661/romano-prodi"),
     ("d'alema", "/soggetti/4773/massimo-d-alema"),
     ("ciampi", "/soggetti/17588/carlo-azeglio-ciampi"),
     ("berlusconi", "/soggetti/11165/silvio-berlusconi"),
@@ -97,6 +97,8 @@ def download_audio_subprocess(url: str, out_dir: str, politician: str = "politic
     import glob, os
     url = sanitize_url(url)
     id = extract_id_from_url(url)
+    if politician == "d'alema":
+        politician = "dalema"
     stem = f"{id}_{politician}"
     final_file = f"{out_dir}/{stem}.mp3"
 
@@ -453,6 +455,8 @@ def speech_to_text(audio_metadata, speech_details, audio_path, politician, OUT_D
     title = audio_metadata["fulltitle"]
     file_id = audio_metadata["file_id"]
     filename = audio_metadata["filename"]
+    if politician == "d'alema":
+        politician = "dalema"
 
 
     output_dir  = str(Path(OUT_DIR) / f"output-{model_name}")
