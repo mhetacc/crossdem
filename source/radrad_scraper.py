@@ -99,6 +99,8 @@ def download_audio_subprocess(url: str, out_dir: str, politician: str = "politic
     id = extract_id_from_url(url)
     if politician == "d'alema":
         politician = "dalema"
+    elif politician == "de mita":
+        politician = "demita"
     stem = f"{id}_{politician}"
     final_file = f"{out_dir}/{stem}.mp3"
 
@@ -457,7 +459,8 @@ def speech_to_text(audio_metadata, speech_details, audio_path, politician, OUT_D
     filename = audio_metadata["filename"]
     if politician == "d'alema":
         politician = "dalema"
-
+    elif politician == "de mita":
+        politician = "demita"
 
     output_dir  = str(Path(OUT_DIR) / f"output-{model_name}")
     audio_file  = str(Path(AUDIO_DIR) / filename)
