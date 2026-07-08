@@ -1,0 +1,776 @@
+1
+00:00:00,000 --> 00:00:06,580
+Questa volontà di confronto e questa assunzione di responsabilità si trasferisca dalle aule
+
+2
+00:00:06,580 --> 00:00:12,440
+del Parlamento al confronto con gli enti locali, con le parti sociali, con l'autonomia,
+
+3
+00:00:12,580 --> 00:00:19,120
+soprattutto se si vuole dar corso anche a quella federalismo della pubblica amministrazione
+
+4
+00:00:19,120 --> 00:00:25,480
+che a mia moda di vedere è importante quanto se non di più il cosiddetto federalismo istituzionale.
+
+5
+00:00:26,440 --> 00:00:33,340
+Avremo il federalismo fiscale, probabilmente si avvierà di nuovo un discorso di tipo costituzionale
+
+6
+00:00:33,340 --> 00:00:39,440
+sul federalismo istituzionale, Camera delle Regioni o quant'altro, attenzione a trascurare
+
+7
+00:00:39,440 --> 00:00:45,920
+l'organizzazione poi della pubblica amministrazione perché la storia recente ci insegna che non
+
+8
+00:00:45,920 --> 00:00:51,300
+soltanto le riforme poi devono essere calate nella realtà, ma la motivazione con cui la
+
+9
+00:00:51,300 --> 00:00:56,800
+pubblica amministrazione affronta gli oneri che in qualche modo sono sulle sue spalle
+
+10
+00:00:56,800 --> 00:01:02,300
+è in molti casi la cartina di tornasole per capire se si tratta di riforme destinata a
+
+11
+00:01:02,300 --> 00:01:07,560
+successo o, io non voglio, a riforma che non soltanto non raggiungono l'obiettivo, ma in
+
+12
+00:01:07,560 --> 00:01:13,100
+alcuni casi rendono la situazione peggiore di quella che si riteneva opportuno riformare.
+
+13
+00:01:13,880 --> 00:01:42,500
+La parola a Massimo D'Alema, innanzitutto mi compete, faccio molto volentieri, ringraziare,
+
+14
+00:01:43,300 --> 00:01:50,880
+il professor Casavola, l'enciclopedia italiana per averci accolto in questa sede così prestigiosa,
+
+15
+00:01:51,800 --> 00:01:58,940
+ringraziare Gianfranco Fini e Roberto Calderoli per il contributo molto importante e significativo
+
+16
+00:01:58,940 --> 00:02:06,300
+che hanno dato alla discussione e alla presentazione di questo volume e ringraziare anche con Roberto
+
+17
+00:02:06,300 --> 00:02:18,680
+Cerreto gli studiosi che hanno scritto e che hanno partecipato al lavoro del gruppo
+
+18
+00:02:18,940 --> 00:02:27,680
+di lavoro della fondazione italiana europea sul federalismo, mi fa anche piacere il fatto
+
+19
+00:02:27,680 --> 00:02:39,900
+che noi abbiamo presentato qui contributi anche gli studiosi giovani e che l'approccio
+
+20
+00:02:40,540 --> 00:02:50,960
+è un approccio totalmente scevro da rischi di carattere propagandistico o da punti di
+
+21
+00:02:53,300 --> 00:03:03,280
+direi che lo sforzo è stato quello di presentare una riflessione scientifica sui diversi aspetti
+
+22
+00:03:03,280 --> 00:03:11,280
+di questa grande riforma in essere al mondo politico, alle istituzioni, perché possano
+
+23
+00:03:11,280 --> 00:03:21,420
+farne base di decisioni politiche, si spera condivise, ma almeno seriamente informate.
+
+24
+00:03:22,380 --> 00:03:29,400
+Nel nostro Paese la decisione politica raramente è condivisa, ancora più raramente muove
+
+25
+00:03:29,400 --> 00:03:38,140
+da basi informate, un'analisi seria dei problemi e da un forte coinvolgimento del mondo della
+
+26
+00:03:38,140 --> 00:03:44,980
+cultura, questo è proprio il compito di una fondazione come la nostra, cioè creare
+
+27
+00:03:44,980 --> 00:03:53,040
+un'occasione continua di confronto fra mondo della cultura e politica e istituzioni, proprio
+
+28
+00:03:53,040 --> 00:03:59,140
+allo scopo di arricchire ed elevare la qualità del debattito politico, quindi grazie a chi
+
+29
+00:03:59,140 --> 00:04:04,740
+ha dato questo contributo, si tratta di studiosi alcuni dei quali collaborano con il Parlamento,
+
+30
+00:04:04,740 --> 00:04:12,160
+con il Governo e che quindi ci presentano un approccio anche di punti di vista piuttosto
+
+31
+00:04:12,160 --> 00:04:19,320
+articolato e secondo me in questo modo anche assai più ricco e interessante. Noi ci confrontiamo
+
+32
+00:04:19,320 --> 00:04:25,180
+con una questione effettivamente cruciale e io qui sono del tutto d'accordo, è stato
+
+33
+00:04:25,180 --> 00:04:30,700
+detto, c'è una certa concordanza di analisi e di spirito e questo è già un fatto molto
+
+34
+00:04:30,700 --> 00:04:43,480
+importante tra gli oratori che si sono succeduti. La legge delega sul feralismo fiscale non
+
+35
+00:04:43,480 --> 00:04:51,160
+può essere considerata come il completamento di una riforma realizzata, certo formalmente
+
+36
+00:04:51,160 --> 00:04:57,960
+è una norma attuativa della riforma del titolo V e da questo punto di vista io credo che
+
+37
+00:04:58,490 --> 00:05:05,900
+quella riforma l'ha voluta accompagnare questo processo con spirito positivo. Mi riferisco
+
+38
+00:05:05,900 --> 00:05:16,420
+al centro-sinistra che approvò sul finire della legislatura 1996-2001 la riforma del
+
+39
+00:05:16,420 --> 00:05:23,540
+titolo V che fu in qualche modo figlia del lavoro della commissione bicamerale anche
+
+40
+00:05:23,540 --> 00:05:33,960
+se io allora ebbe dei dubbi circa l'opportunità di questa separazione del tema forma di di
+
+41
+00:05:33,960 --> 00:05:42,320
+stato rispetto all'impianto complessivo della riforma. Però in realtà la rilevanza dei
+
+42
+00:05:42,320 --> 00:05:50,200
+problemi che vengono in campo è tale da richiedere il riaprirsi di una riflessione più di fondo
+
+43
+00:05:50,200 --> 00:05:56,580
+sui caratteri del federalismo italiano e sui rapporti tra centro e periferia e sul rapporto
+
+44
+00:05:56,820 --> 00:06:06,400
+tra riforma del titolo V e complessivo tema della riforma costituzionale e questo è insomma
+
+45
+00:06:06,400 --> 00:06:13,480
+il carattere della discussione che si è aperta tra di noi. Muovendo credo da considerazioni
+
+46
+00:06:13,480 --> 00:06:22,500
+oramai condivise sgombriamo il campo da timori antifederalisti e anche da retoriche federaliste,
+
+47
+00:06:22,840 --> 00:06:30,800
+persino l'uso della parola federalismo appare un uso abbastanza retorico rispetto alla natura
+
+48
+00:06:30,800 --> 00:06:42,840
+reale delle riforme in alto nel nostro Paese. In realtà quello che si è realizzato è un
+
+49
+00:06:44,580 --> 00:06:54,820
+potere necessario a mio giudizio anche per quel sostanziale fallimento dell'esperienza
+
+50
+00:06:54,820 --> 00:07:01,780
+dello stato centralistico, così come si è venuto costruendo nella storia italiana
+
+51
+00:07:01,780 --> 00:07:08,300
+che da una parte non ha risolto il problema del mezzogiorno e dall'altra parte ha finito
+
+52
+00:07:08,300 --> 00:07:14,980
+anche via via per suscitare un senso di protesta e di separazione nella parte più ricca e
+
+53
+00:07:14,980 --> 00:07:22,720
+sviluppata del Paese che ha preso anche la forma di un movimento e non ha mai seriamente
+
+54
+00:07:22,720 --> 00:07:30,340
+proposto la separazione dal Paese ma ha alzato questa bandiera come forma estrema di protesta
+
+55
+00:07:30,340 --> 00:07:36,560
+nei confronti dell'inefficienza dello stato centrale, a dare risposta alle domande di
+
+56
+00:07:36,560 --> 00:07:42,160
+modernizzazione, di efficacia dei servizi, di politiche infrastrutturali, di una delle
+
+57
+00:07:42,160 --> 00:07:48,420
+aree più sviluppate d'Europa, non soltanto d'Italia. Quindi questo duplice fallimento
+
+58
+00:07:48,420 --> 00:07:56,420
+dello stato centralistico è la ragione vera che ha spinto verso un processo di cambiamento,
+
+59
+00:07:56,560 --> 00:08:04,440
+di riorganizzazione, di devoluzione, verso una forma di federalismo all'italiana che
+
+60
+00:08:04,440 --> 00:08:10,800
+io credo è necessaria per rafforzare l'unità del Paese. Già questa affermazione non è
+
+61
+00:08:10,800 --> 00:08:20,400
+scontata, significa un certo indirizzo delle politiche e non certamente per accentuare
+
+62
+00:08:20,400 --> 00:08:27,460
+le separazioni e gli elementi di frattuna. Ma se questo è lo scopo di questo processo
+
+63
+00:08:27,460 --> 00:08:34,420
+di riforma che noi abbiamo avviato, questo richiede a mio giudizio un coraggioso sviluppo
+
+64
+00:08:35,040 --> 00:08:46,140
+nella fase attuativa e dall'altra parte un ripensamento della cornice costituzionale,
+
+65
+00:08:46,380 --> 00:08:55,720
+quindi il riaprirsi di un dibattito sulle riforme costituzionali necessarie per completare
+
+66
+00:08:55,720 --> 00:09:04,420
+il cambiamento e per ricostruire un equilibrio tra Stato centrale, Governo nazionale e il
+
+67
+00:09:04,440 --> 00:09:11,500
+Reggionale e Autonomie locali e regionali che a mio giudizio si è venuto alterando
+
+68
+00:09:11,500 --> 00:09:19,840
+nel corso di questi anni e che va ricomposto. Coerenza nella fase attuativa, e qui Fini
+
+69
+00:09:19,840 --> 00:09:31,200
+ha detto alcune cose fondamentali, parliamoci chiaro, la deriva spontanea del federalismo
+
+70
+00:09:31,860 --> 00:09:39,280
+nel modo come si va realizzando non è nel senso di una riduzione dei costi della pubblica
+
+71
+00:09:39,280 --> 00:09:44,860
+amministrazione, di una riduzione della pressione fiscale e di una riduzione delle complicazioni
+
+72
+00:09:44,860 --> 00:09:51,440
+burocratiche nella vita dei cittadini e delle imprese. La deriva spontanea è nella direzione
+
+73
+00:09:52,240 --> 00:09:57,940
+opposta. Allora liberiamoci della retorica che col federalismo fiscale diminuiranno le
+
+74
+00:09:58,680 --> 00:10:05,640
+costi, non è così, a meno che non ci sia un robusto intervento. Consideriamo il federalismo
+
+75
+00:10:05,640 --> 00:10:13,200
+fiscale come un'opportunità ma con la consapevolezza che la deriva spontanea di questo processo
+
+76
+00:10:13,200 --> 00:10:19,700
+va a mio giudizio in una direzione opposta. D'altro canto l'attuazione del titolo quinto
+
+77
+00:10:19,700 --> 00:10:24,820
+nella legislatura tra il 2001 e il 2006 si è accompagnata ad una crescita della spesa
+
+78
+00:10:24,820 --> 00:10:32,880
+corrente di due punti e se noi andiamo a vedere una parte di questa crescita della spesa corrente
+
+79
+00:10:32,880 --> 00:10:42,120
+è stata la crescita della spesa delle amministrazioni decentrate e regionali. La tendenza al persistere
+
+80
+00:10:42,120 --> 00:10:49,420
+delle strutture burocratiche ha fatto sì che in molti campi i poteri devoluti non abbiano
+
+81
+00:10:49,420 --> 00:10:56,260
+cancellato del tutto i poteri centrali residui e si sia determinato un accavallamento di
+
+82
+00:10:56,260 --> 00:11:01,240
+poteri con moltiplicazioni di obblighi per i cittadini e per le imprese di cui si potrebbero
+
+83
+00:11:01,240 --> 00:11:10,480
+fare qui moltissime testimonianze. Dunque non abbandonarsi alla facile retorica del
+
+84
+00:11:10,480 --> 00:11:17,680
+federalismo medicina per tutti i mali significa concepire il federalismo fiscale come un'occasione
+
+85
+00:11:18,220 --> 00:11:24,780
+per chi va per mare si sa che quando la deriva spinge da una certa parte ci vogliono robusti
+
+86
+00:11:24,780 --> 00:11:32,560
+colpi di timone dall'altra parte per evitare che la rotta finisca per portarci in una direzione
+
+87
+00:11:32,560 --> 00:11:41,020
+totalmente diversa rispetto a quella verso la quale volevamo veleggiare. Che cosa significa
+
+88
+00:11:41,020 --> 00:11:48,200
+robusti colpi di timone? Significa che bisogna accompagnare l'esercizio della delica sul
+
+89
+00:11:48,200 --> 00:11:55,600
+federalismo fiscale con una sostanziale riforma della pubblica amministrazione. Quel federalismo
+
+90
+00:11:55,600 --> 00:12:02,730
+del personale cui accennava Gianfranco Fini è tema affrontato non a caso in questo impianto
+
+91
+00:12:02,730 --> 00:12:15,010
+non retorico ma scientifico. Quella riorganizzazione di cui ha parlato giustamente Amanto di quella
+
+92
+00:12:15,010 --> 00:12:21,910
+pluralità di enti che ci sono ma che non è affatto detto che cessino di esservi perché
+
+93
+00:12:22,950 --> 00:12:32,710
+il loro superamento comporta una fortissima e convergente volontà politica. E' una
+
+94
+00:12:32,730 --> 00:12:39,310
+riorganizzazione che non è un processo spontaneo che tendono piuttosto al proliferare più
+
+95
+00:12:40,110 --> 00:12:47,890
+che al venire meno di queste strutture. Quindi è evidente che nell'attuazione della delica
+
+96
+00:12:47,890 --> 00:12:53,590
+nel processo di riforma sarà fondamentale quella ridifinizione di compiti e di funzioni
+
+97
+00:12:53,590 --> 00:13:00,730
+degli enti locali, quella attuazione di un principio di sussidiarietà perché il federalismo
+
+98
+00:13:00,730 --> 00:13:07,130
+italiano non si basa su regioni stato che non ci sono, non appartengono alla nostra
+
+99
+00:13:07,130 --> 00:13:12,610
+tradizione e il tentativo di farle comporta soltanto una moltiplicazione di burocrazia
+
+100
+00:13:12,610 --> 00:13:20,450
+e di costi ma si fonda sul principio di sussidiarietà cioè sulla valorizzazione di vari livelli
+
+101
+00:13:20,450 --> 00:13:26,790
+lì diciamo. Il cittadino immagina il federalismo come qualcosa che porta lo stato e l'amministrazione
+
+102
+00:13:26,790 --> 00:13:36,890
+più vicina a lui, il cittadino immagina il federalismo come facente capo al suo municipio
+
+103
+00:13:36,890 --> 00:13:45,530
+non alla sua regione che molto spesso il cittadino sente lontana non meno dello stato
+
+104
+00:13:45,530 --> 00:13:54,790
+centrale e quindi occorre un'operazione complessiva di riequilibrio di funzioni, di poteri che
+
+105
+00:13:54,790 --> 00:14:01,290
+si ispiri ad un principio di sussidiarietà che davvero valorizzi le regioni per le loro
+
+106
+00:14:01,290 --> 00:14:08,270
+funzioni costituzionali di legislazione, di programmazione, di indirizzo invece riducendo
+
+107
+00:14:09,390 --> 00:14:15,590
+drasticamente quei compiti gestionali e i rischi di un accentramento regionale che a mio giudizio
+
+108
+00:14:15,590 --> 00:14:22,590
+sono una patologia e tradiscono lo spirito di quel federalismo cui il cittadino ha nella.
+
+109
+00:14:23,510 --> 00:14:31,790
+E in questo senso io credo che è molto importante diciamo quando si parla di completamento è
+
+110
+00:14:31,790 --> 00:14:37,750
+molto importante guardare alla necessità di rafforzare gli elementi di raccordo del sistema,
+
+111
+00:14:39,170 --> 00:14:44,910
+sia il sistema delle conferenze che io non vedo come sostitutivo rispetto ad una camera
+
+112
+00:14:44,910 --> 00:14:51,830
+delle autonomie ma che certamente è uno snodo essenziale nel raccordo tra gli esecutivi
+
+113
+00:14:52,590 --> 00:15:03,170
+e che merita di essere rivisitato e riformato e poi quella riforma del bicameralismo si
+
+114
+00:15:03,170 --> 00:15:10,470
+presenta oramai come un banco di prova essenziale della volontà riformatrice delle forze politiche
+
+115
+00:15:11,070 --> 00:15:17,230
+sia nel senso di una riduzione del numero dei parlamentari insomma noi assistiamo ad
+
+116
+00:15:17,230 --> 00:15:24,230
+una perdita di peso della politica nel rapporto con la società e ad una ipertrofia, non è
+
+117
+00:15:24,850 --> 00:15:29,030
+paradossale questo è stato studiato c'è un bellissimo libro sull'ammiragliato britannico
+
+118
+00:15:29,030 --> 00:15:36,270
+che dice che man mano che si riduceva il dominio inglese sui mari aumentavano i funzionari dell'ammiragliato
+
+119
+00:15:36,270 --> 00:15:42,950
+britannico, la politica in Italia ha subito un processo analogo, ha perduto peso reale
+
+120
+00:15:42,950 --> 00:15:52,190
+nel rapporto con la società ma ha vissuto una paurosa ipertrofia del ceto politico con
+
+121
+00:15:52,190 --> 00:15:59,610
+moltiplicazioni di costi e ulteriore perdita di prestigio e direi che alla politica in
+
+122
+00:15:59,610 --> 00:16:05,550
+Italia si dovrebbe applicare, se mi è consentito perché l'autore non va molto di moda, quel
+
+123
+00:16:05,550 --> 00:16:12,930
+principio del meglio meno ma meglio che io credo non lo so, non lo so, non lo so, non
+
+124
+00:16:12,950 --> 00:16:20,130
+lo so sia la parola d'ordine diciamo di una riforma, meno vuol dire meno nei consigli
+
+125
+00:16:20,130 --> 00:16:25,970
+regionali, nei consigli comunali, meno consigli di quartiere, meno in parlamento una più
+
+126
+00:16:25,970 --> 00:16:32,450
+forte selezione di qualità del ceto politico e anche questo non è un aspetto secondario
+
+127
+00:16:32,450 --> 00:16:39,510
+della riforma che è necessaria ma nello stesso tempo è evidente che un sistema federale
+
+128
+00:16:39,510 --> 00:16:47,050
+ha bisogno di forti elementi di raccordo del sistema, se noi non vogliamo che porti
+
+129
+00:16:47,050 --> 00:16:54,330
+ad una disarticolazione, ad una conflittualità tra territori, ad una logica competitiva che
+
+130
+00:16:54,330 --> 00:17:01,470
+un paese come il nostro non potrebbe reggere anche per il carattere di rompente, di disquilibri
+
+131
+00:17:01,470 --> 00:17:09,410
+che dividono il nostro paese che non possono essere dimenticati, guardate qui c'è un
+
+132
+00:17:09,410 --> 00:17:15,470
+segnone pubblica meridionale, vive oggi in realtà prevalentemente con timore e con ostilità
+
+133
+00:17:15,470 --> 00:17:23,270
+il dibattito sul federalismo e se noi non riusciamo a rovesciare questo sentimento io credo che
+
+134
+00:17:23,270 --> 00:17:29,330
+il cammino sarà estremamente difficile e penso che possiamo trovarci di fronte a forme di
+
+135
+00:17:29,330 --> 00:17:38,730
+leghismo meridionale che io non ritengo auspicabile come uomo politico del Mezzogiorno e quindi
+
+136
+00:17:39,470 --> 00:17:46,070
+il modo in cui questo processo garantisce il godimento dei servizi essenziali, qui davvero
+
+137
+00:17:46,070 --> 00:17:51,230
+ci sono punti di principio, il diritto alla salute, il diritto alla sicurezza, il diritto
+
+138
+00:17:51,230 --> 00:17:59,270
+all'istruzione, non sono diritti di cui siano titolari i territori, sono i cittadini che
+
+139
+00:17:59,270 --> 00:18:06,410
+sono titolari di questi diritti e il cittadino meridionale che paga la stessa licuota fiscale
+
+140
+00:18:06,410 --> 00:18:16,110
+del cittadino della Lombardia ha il diritto di godere in linea di principio della stessa
+
+141
+00:18:16,110 --> 00:18:23,170
+qualità dei servizi. Oggi noi sappiamo che in realtà già non è così vergamente, sappiamo
+
+142
+00:18:23,170 --> 00:18:28,310
+che la spesa pubblica pro capita nel Mezzogiorno è inferiore rispetto alla media nazionale
+
+143
+00:18:28,310 --> 00:18:36,390
+in modo sensibile, questa è la verità. E certamente l'idea che il Cittadino della Lombardia
+
+144
+00:18:36,410 --> 00:18:45,050
+e questo processo porti ad un'ulteriore differenziazione è difficilmente sostenibile. E qui naturalmente
+
+145
+00:18:45,050 --> 00:18:50,090
+questo discorso deve accompagnarsi ad una riflessione senza la quale ogni dibattito
+
+146
+00:18:50,090 --> 00:18:56,970
+sul federalismo, a mio giudizio, perde di significato, sulla qualità del governo regionale,
+
+147
+00:19:01,090 --> 00:19:07,570
+perché, insomma, nelle regioni noi abbiamo vissuto un'esperienza di tipo presidenzialistico,
+
+148
+00:19:07,670 --> 00:19:13,870
+anche qui si è creata una simmetria, perché il presidenzialismo dei comuni, delle province,
+
+149
+00:19:14,050 --> 00:19:21,310
+delle regioni ha garantito stabilità, al centro noi abbiamo un sistema che invece ancora
+
+150
+00:19:21,310 --> 00:19:29,230
+ha avuto un certo grado di instabilità e secondo me la riforma della forma di governo
+
+151
+00:19:29,230 --> 00:19:35,050
+è importante, ma stiamoci attenti perché oramai dopo una quindicina d'anni noi possiamo
+
+152
+00:19:35,050 --> 00:19:41,170
+anche misurare i limiti del presidenzialismo periferico, che non sono secondo me nella
+
+153
+00:19:41,170 --> 00:19:46,150
+elezione popolare diretta dei sindaci o dei presidenti delle regioni, che secondo me è
+
+154
+00:19:46,150 --> 00:19:52,790
+stata una riforma positiva, ma nel fatto che parallelamente, a differenza dei modelli
+
+155
+00:19:52,790 --> 00:19:59,610
+classici di presidenzialismo, si sono svuotate le assemblee elettive e quindi di fronte a
+
+156
+00:19:59,610 --> 00:20:05,830
+questi sindaci, a questi presidenti, ci sono assemblee o consigli privi di poteri reali,
+
+157
+00:20:05,950 --> 00:20:12,450
+mentre il presidenzialismo vero vuole un equilibrio di poteri, un'effettiva capacità di controllo
+
+158
+00:20:12,450 --> 00:20:18,390
+da parte delle assemblee elettive che è venuta meno e questo è un tema importante del funzionamento,
+
+159
+00:20:18,930 --> 00:20:24,230
+persino la cosiddetta questione morale, diciamo fermi ristando i compiti della magistratura,
+
+160
+00:20:24,530 --> 00:20:33,470
+a mio giudizio richiederebbe un sistema di controlli democratici più efficace anche
+
+161
+00:20:33,470 --> 00:20:39,810
+per prevenire casi di abuso di poteri che pure possono essersi manifestati. Quindi c'è
+
+162
+00:20:39,810 --> 00:20:46,790
+qualcosa da ripensare anche nel modo in cui si è venuto organizzando il potere, io credo
+
+163
+00:20:46,790 --> 00:20:57,070
+che questo sistema per funzionare ha bisogno di uno stato centrale che si intesta una funzione
+
+164
+00:20:57,070 --> 00:21:04,730
+perequativa e che esercita un controllo e i poteri sostitutivi laddove sono in gioco
+
+165
+00:21:04,730 --> 00:21:10,190
+il godimento dei diritti essenziali dei cittadini perché il principio di responsabilità, io
+
+166
+00:21:10,190 --> 00:21:15,370
+sono d'accordo con Gianfranco Fini, però non può essere soltanto affidato alla sanzione
+
+167
+00:21:17,170 --> 00:21:22,230
+elettorale, quando sono in gioco diritti fondamentali dei cittadini occorre anche un controllo e
+
+168
+00:21:22,230 --> 00:21:28,150
+l'esercizio di poteri sostitutivi, naturalmente la sanzione elettorale è importante ma noi
+
+169
+00:21:28,150 --> 00:21:33,510
+sappiamo che è molto più complicata, molte non c'è perché, io trovai ad analizzare
+
+170
+00:21:33,510 --> 00:21:41,130
+questo tema tipico del mezzogiorno, perché paradossalmente la disfunzione della macchina
+
+171
+00:21:41,130 --> 00:21:47,950
+pubblica, laddove la macchina pubblica non funziona, il ceto politico diventa mediatore
+
+172
+00:21:50,150 --> 00:21:56,990
+nell'esercizio di diritti essenziali dei cittadini e costruisce in questo modo un sistema di
+
+173
+00:21:56,990 --> 00:22:04,230
+sanzionamento, in questo senso ma dato sul clientelismo, sui favori, per cui talora paradossalmente
+
+174
+00:22:04,230 --> 00:22:10,250
+chi non è in grado di esercitare il suo ruolo istituzionale di fare funzionare la pubblica
+
+175
+00:22:10,250 --> 00:22:16,430
+amministrazione non per questo viene sanzionato, perché il cittadino che non ha certezza di
+
+176
+00:22:16,430 --> 00:22:22,650
+essere visitato perché la lista è lunga sa che il politico lo fa passare avanti, quindi
+
+177
+00:22:22,650 --> 00:22:28,490
+quello lì viene premiato per la disfunzione della pubblica amministrazione, il che naturalmente
+
+178
+00:22:28,490 --> 00:22:32,710
+appunto un sistema democratico richiede che ci sia un bilanciamento dei controlli, che
+
+179
+00:22:32,710 --> 00:22:38,670
+non possono essere esclusivamente affidati, c'è un principio di legalità che non è
+
+180
+00:22:38,670 --> 00:22:46,950
+esclusivamente affidato alla sanzione popolare. Ma detto questo e dicendo questo vuol dire
+
+181
+00:22:46,950 --> 00:22:55,470
+che la realizzazione di questa riforma e nello stesso tempo il necessario riaprirsi di un
+
+182
+00:22:55,470 --> 00:23:02,410
+dibattito sui rami alti e secondo me anche sulla riforma della legge elettorale, perché
+
+183
+00:23:02,410 --> 00:23:07,270
+parliamoci chiaro noi non possiamo parlare di federalismo senza rimettere in discussione
+
+184
+00:23:07,270 --> 00:23:14,590
+una legge elettorale che ha innanzitutto un carattere brutalmente centralistico perché
+
+185
+00:23:14,590 --> 00:23:21,790
+porta in sostanza la nomina da Roma dei rappresentanti, i partiti nazionali hanno anche fortemente
+
+186
+00:23:21,790 --> 00:23:31,490
+abusato di questo potere, basta andare a vedere e quindi la rappresentanza dei territori al
+
+187
+00:23:31,490 --> 00:23:37,930
+mio giudizio viene fortemente impoverita, noi dobbiamo ricostituire e badate che nel momento
+
+188
+00:23:37,930 --> 00:23:44,050
+in cui si articolano i poteri, l'esistenza di partiti radicati nelle realtà territoriate
+
+189
+00:23:44,050 --> 00:23:50,390
+ma nello stesso tempo grandi partiti nazionali prevalentemente, è una condizione della tenuta
+
+190
+00:23:50,390 --> 00:23:56,830
+dell'unità nazionale. Anche per questo io ritengo che un ragionevole completamento di
+
+191
+00:23:56,830 --> 00:24:04,370
+questa riforma è una legge elettorale tipo tedesco, perché è una legge che responsabilizza
+
+192
+00:24:04,370 --> 00:24:14,030
+fortemente i partiti, uscendo dalla logica delle coalizioni e favorisce un ricostituto
+
+193
+00:24:14,050 --> 00:24:23,310
+di grandi partiti che svolgono anche quella essenziale funzione di tessuto dell'unità
+
+194
+00:24:23,310 --> 00:24:24,270
+nazionale.
+
