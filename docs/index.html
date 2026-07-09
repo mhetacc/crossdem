@@ -136,6 +136,7 @@ function selectedPols() {
 
 function buildBarTraces(pols, docNum, showMedians) {
   const traces = [];
+  const shapes = [];          // NEW
   const n = pols.length;
   const width = 0.8 / n;
   pols.forEach((pol, i) => {
@@ -152,6 +153,11 @@ function buildBarTraces(pols, docNum, showMedians) {
       legendgroup: pol,
     });
     if (showMedians) {
+      shapes.push({                                  // NEW
+        type: "line", xref: "paper", x0: 0, x1: 1,    // NEW
+        yref: "y", y0: med, y1: med,                  // NEW
+        line: {color: entry.color, dash: "dash"},     // NEW
+      });                                              // NEW
       traces.push({
         x: [null], y: [null], mode: "lines",
         line: {color: entry.color, dash: "dash"},
@@ -160,11 +166,12 @@ function buildBarTraces(pols, docNum, showMedians) {
       });
     }
   });
-  return traces;
+  return {traces, shapes};   // CHANGED (was: return traces;)
 }
 
 function buildLineTraces(pols, docNum, showMedians) {
   const traces = [];
+  const shapes = [];          // NEW
   pols.forEach(pol => {
     const entry = DATA[pol];
     const sampleN = Math.min(docNum, entry.mtld.length);
@@ -179,6 +186,11 @@ function buildLineTraces(pols, docNum, showMedians) {
       legendgroup: pol,
     });
     if (showMedians) {
+      shapes.push({                                  // NEW
+        type: "line", xref: "paper", x0: 0, x1: 1,    // NEW
+        yref: "y", y0: med, y1: med,                  // NEW
+        line: {color: entry.color, dash: "dash"},     // NEW
+      });                                              // NEW
       traces.push({
         x: [null], y: [null], mode: "lines",
         line: {color: entry.color, dash: "dash"},
@@ -187,7 +199,7 @@ function buildLineTraces(pols, docNum, showMedians) {
       });
     }
   });
-  return traces;
+  return {traces, shapes};   // CHANGED (was: return traces;)
 }
 
 function redraw() {
@@ -206,7 +218,7 @@ function redraw() {
   plotEl.style.display = "block";
   statusEl.style.display = "none";
 
-  const traces = view === "Bar"
+  const {traces, shapes} = view === "Bar"           // CHANGED (was: const traces = ...)
     ? buildBarTraces(pols, docNum, showMedians)
     : buildLineTraces(pols, docNum, showMedians);
 
@@ -219,6 +231,7 @@ function redraw() {
     },
     yaxis: {title: "MTLD"},
     barmode: view === "Bar" ? "group" : undefined,
+    shapes,                                          // NEW
     template: "plotly_white",
     autosize: true,
     height: 600,
