@@ -1,0 +1,808 @@
+1
+00:00:02,900 --> 00:00:18,380
+Proporrò sulla base di note sparse interrogativi problemi che hanno motivato anche questo incontro,
+
+2
+00:00:18,440 --> 00:00:27,540
+che sono all'origine di questo incontro. Dalla necessità che abbiamo avvertito all'indomani
+
+3
+00:00:27,540 --> 00:00:42,900
+di eventi terribili, di violenza, di terrorismo, di guerra e di eventi carichi di un rischio
+
+4
+00:00:42,900 --> 00:00:52,360
+ancora più profondo di conflitto e di contrapposizione tra civiltà, abbiamo avvertito la necessità
+
+5
+00:00:52,360 --> 00:01:03,320
+di un dialogo, di un dialogo che affronti un tema, quello della riconciliazione, che
+
+6
+00:01:03,320 --> 00:01:11,620
+non è soltanto un tema centrale del dialogo tra le religioni, che ha vissuto qui ad Assisi
+
+7
+00:01:11,620 --> 00:01:21,300
+una giornata memorabile, ma è anche un tema fondamentale di qualsiasi politica laica,
+
+8
+00:01:22,420 --> 00:01:29,880
+di quella politica che si misura ogni giorno con la rappresentanza di soggetti diversi e
+
+9
+00:01:29,880 --> 00:01:37,080
+con la ricerca di soluzioni praticabili per domande non sempre conciliabili. Una politica,
+
+10
+00:01:37,080 --> 00:01:46,560
+dunque, che è ricomposizione di conflitti e di tensioni, che vive la sfida della convivenza
+
+11
+00:01:46,560 --> 00:01:53,660
+tra i diversi e tra le diversità. Per un laico, riconciliazione significa essenzialmente
+
+12
+00:01:54,700 --> 00:02:02,120
+convivenza, convivenza tra identità diverse, tra modi di essere, modi di credere. Se assumiamo
+
+13
+00:02:02,120 --> 00:02:08,480
+questo tema è difficile non cogliere nel nostro tempo storico i segni di una crisi
+
+14
+00:02:08,480 --> 00:02:16,020
+drammatica dei paradigmi della convivenza. Se guardiamo all'ultimo decennio, fino a
+
+15
+00:02:16,020 --> 00:02:23,340
+queste ultime settimane siamo stati tutti testimoni di una successione di feroci esplosioni
+
+16
+00:02:23,340 --> 00:02:31,660
+di conflitti tra identità. E attraverso questa successione è stata radicalmente smentita
+
+17
+00:02:31,660 --> 00:02:39,360
+quella profezia ideologica che poco più di dieci anni fa aveva voluto leggere nella
+
+18
+00:02:39,360 --> 00:02:49,860
+fine del confronto bipolare tra Stati e blocchi di Stati l'inizio di una pace perpetua,
+
+19
+00:02:51,320 --> 00:02:59,200
+l'inizio di un'epoca di serenità, la fine della storia, la fine della politica, la
+
+20
+00:02:59,200 --> 00:03:08,060
+fine del conflitto, il dominio incontrastato di un modello di vita, di un modello di civiltà
+
+21
+00:03:08,060 --> 00:03:17,960
+e del mercato come luogo di ricomposizione dei conflitti e di dissoluzione delle identità.
+
+22
+00:03:18,340 --> 00:03:25,420
+Così non è stato. Ora lo sappiamo bene. Il fronte della conflittualità e delle minacce
+
+23
+00:03:25,420 --> 00:03:35,560
+della pace si è spostato dalla tensione fra i due grandi blocchi politico-militari allo
+
+24
+00:03:35,560 --> 00:03:45,580
+scontro anarchico, fra le nazionalità e all'interno degli Stati. Abbiamo assistito
+
+25
+00:03:45,580 --> 00:03:54,220
+in realtà alla fine di un ordine del mondo nel quale le diversità apparivano insieme
+
+26
+00:03:54,220 --> 00:04:05,800
+compresse e ordinate nel conflitto fra due grandi blocchi, con una capacità degli apparati
+
+27
+00:04:05,800 --> 00:04:16,240
+militari ed ideologici di comprimere e di ordinare i conflitti minori. Non rimpiangiamo
+
+28
+00:04:16,240 --> 00:04:23,460
+quell'ordine, ma certo avvertiamo quanto siamo stati ineguali rispetto al compito di
+
+29
+00:04:23,460 --> 00:04:33,580
+costruire un ordine nuovo. E la globalizzazione? Questo fenomeno straordinario. Il Cardinale
+
+30
+00:04:33,580 --> 00:04:41,420
+Martini ha parlato di una drammatica ambivalenza della globalizzazione. Ci appare insieme come
+
+31
+00:04:41,420 --> 00:04:47,520
+un processo carico di nuove potenzialità e di opportunità, ma anche come una minaccia
+
+32
+00:04:47,520 --> 00:04:58,480
+per le identità e come fattore di nuove diseguaglianze e di nuovi conflitti. E tutto questo non ha
+
+33
+00:04:58,480 --> 00:05:05,540
+riguardato soltanto le periferie del mondo. È riemerso, potremmo dire, il cuore di tenebra
+
+34
+00:05:05,540 --> 00:05:16,460
+dell'Occidente, dell'Europa. E tutto questo ci ha accolto impreparati, ha messo alla scoperta
+
+35
+00:05:16,460 --> 00:05:23,340
+l'incapacità di istituzioni sovranazionali, di culture, di strumenti tradizionali dell'agire
+
+36
+00:05:23,340 --> 00:05:33,720
+politico. E alla fine ci ha costretto all'uso della forza estremo rimedio, carico anch'esso
+
+37
+00:05:33,720 --> 00:05:43,160
+tuttavia, di pericoli e, come poi cercherò di approfondire, di una tragica inadeguatezza.
+
+38
+00:05:47,320 --> 00:05:53,880
+Davvero l'identità è inconciliabile con la convivenza. Questo mi pare il tema di questa
+
+39
+00:05:53,880 --> 00:05:59,680
+nostra giornata di discussione, l'interrogativo, un tema straordinariamente ricco di senso
+
+40
+00:05:59,680 --> 00:06:05,980
+di complessità. Da un lato è nell'identità che noi troviamo il fondamento del nostro
+
+41
+00:06:05,980 --> 00:06:10,720
+essere uomini, perché noi siamo ciò che crediamo di essere e ciò che riconosciamo
+
+42
+00:06:10,720 --> 00:06:17,020
+negli altri e uguali a noi. E come esiste un bisogno insopprimibile di essere noi stessi,
+
+43
+00:06:17,120 --> 00:06:23,880
+così esiste il bisogno di riconoscerci nell'altro uguale a noi, in colui che condivide la nostra
+
+44
+00:06:23,880 --> 00:06:30,080
+stessa credenza. Ma dall'altro lato è proprio il tratto identitario a portare con sé uno
+
+45
+00:06:30,080 --> 00:06:37,460
+straordinario potere di divisione, frantumazione e infine di conflitto, insieme alla radice
+
+46
+00:06:37,460 --> 00:06:43,560
+della comunità e alla radice del conflitto. Ed è su questa contraddizione che è necessario
+
+47
+00:06:43,560 --> 00:06:49,960
+indagare, come pure è stato fatto, per rafforzare gli strumenti di cui la convivenza ha bisogno,
+
+48
+00:06:49,960 --> 00:06:57,120
+per essere costruita giorno dopo giorno, strumenti che sono culturali, politici, istituzionali.
+
+49
+00:06:59,940 --> 00:07:05,040
+Una prima domanda che mi sento di porre a voi riguarda la natura stessa dell'identità
+
+50
+00:07:05,040 --> 00:07:10,440
+come fonte di conflitti, perché non sono così sicuro che alla radice dei conflitti
+
+51
+00:07:10,440 --> 00:07:17,240
+vi sia l'identità in quanto tale e dunque la diversità tra le identità, la quale dovrebbe
+
+52
+00:07:17,240 --> 00:07:22,740
+essere sostituita una ricerca di omogeneità o l'affermazione di una particolare identità
+
+53
+00:07:22,740 --> 00:07:29,720
+sulle altre. Credo al contrario che il riconoscimento dell'altro, del diverso da noi, sia il fondamento
+
+54
+00:07:29,720 --> 00:07:36,360
+di una visione dell'identità fondata su basi etiche, di una visione che assume l'identità
+
+55
+00:07:36,360 --> 00:07:42,380
+dell'altro come condizione necessaria per l'affermazione dell'io, dove la comparsa
+
+56
+00:07:42,380 --> 00:07:48,040
+del volto dell'altro e il suo riconoscimento rappresentano il punto di partenza di un'etica
+
+57
+00:07:48,660 --> 00:07:56,420
+condivisa. Attenzione, non sto lanciando un appello ai buoni sentimenti. Credo invece
+
+58
+00:07:56,420 --> 00:08:01,100
+che il richiamo alla responsabilità su cui si fonda l'etica che maggiormente considero
+
+59
+00:08:01,100 --> 00:08:06,820
+come mia, abbia tra i suoi punti di partenza il riconoscimento dell'altro come diverso
+
+60
+00:08:06,820 --> 00:08:12,520
+da me. Emanuele Vinaschi, come sapete, ha dedicato al tema dell'altro pagine di grande
+
+61
+00:08:12,520 --> 00:08:19,680
+densità, ha reso questo concetto meglio di come possa fare io, ha scritto l'umanità
+
+62
+00:08:20,480 --> 00:08:28,880
+deve fare irruzione nell'essere, perché dietro la perseveranza dell'essere, la perseveranza
+
+63
+00:08:28,880 --> 00:08:35,780
+degli esseri e dei mondi, dietro l'identità che afferma il proprio ego e il proprio egoismo
+
+64
+00:08:36,820 --> 00:08:46,540
+deve esserci da qualche parte la responsabilità dell'uno per gli altri. Vi è dunque una
+
+65
+00:08:46,540 --> 00:08:52,800
+visione distorta dell'identità, una visione che si potrebbe definire narcisistica, la
+
+66
+00:08:52,800 --> 00:08:58,880
+cui affermazione, rivendicazione e difesa costituiscono l'essenza stessa del tribalismo,
+
+67
+00:08:59,200 --> 00:09:06,620
+dell'etnocentrismo e dunque del conflitto con gli altri. Una affermazione identitaria
+
+68
+00:09:06,620 --> 00:09:12,940
+che nega il riconoscimento dell'altro che postula l'affermazione anche violenta sulla
+
+69
+00:09:12,940 --> 00:09:19,480
+base di un presupposto di superiorità della propria particolare essenza e credenza su
+
+70
+00:09:19,480 --> 00:09:29,200
+quelle altrui. Sappiamo bene come questa particolare declinazione del tema identitario non abbia
+
+71
+00:09:29,200 --> 00:09:36,600
+avuto corso solo nelle periferie del mondo o in qualche villaggio balcanico o in alcune
+
+72
+00:09:36,600 --> 00:09:42,880
+regioni asiatiche. Esse è stato teorizzato e predicato anche in occidente, compreso nel
+
+73
+00:09:42,880 --> 00:09:49,100
+nostro Paese, da chi ha voluto offrire soluzioni semplicistiche e pericolose alla straordinaria
+
+74
+00:09:49,100 --> 00:09:54,920
+complessità che ci veniva da un mondo che continua a reclamare soluzioni politiche
+
+75
+00:09:54,920 --> 00:10:00,360
+e culturali per il raggiungimento di livelli accettabili di convivenza.
+
+76
+00:10:00,360 --> 00:10:10,140
+Non devo soffermarmi sul fatto, sulle semplificazioni offerte dalle teorie dello scontro di civiltà,
+
+77
+00:10:10,220 --> 00:10:15,140
+se non per sottolineare come anch'esse nella loro falsità intellettuale confermino il
+
+78
+00:10:15,140 --> 00:10:21,880
+bisogno di costruire la convivenza con i concreti strumenti della politica, all'interno delle
+
+79
+00:10:21,880 --> 00:10:27,440
+comunità nazionali come nello spazio ampio della comunità internazionale.
+
+80
+00:10:28,640 --> 00:10:35,720
+Il riferimento che facevo all'etica e alla responsabilità vale anche nel campo delle
+
+81
+00:10:35,720 --> 00:10:45,200
+relazioni e della politica internazionale. Soltanto lo sforzo per rifondare su basi etiche
+
+82
+00:10:45,200 --> 00:10:53,900
+le relazioni internazionali può aiutarci a uscire dalla logica di una anarchia dei rapporti
+
+83
+00:10:53,900 --> 00:11:04,180
+internazionali che ha come unico contrappeso la politica di potenza. Nella morsa tra anarchia
+
+84
+00:11:04,180 --> 00:11:14,000
+e potenza non c'è spazio per la convivenza. L'anarchia non è niente altro se non l'immagine
+
+85
+00:11:14,000 --> 00:11:22,780
+di una guerra estesa e generalizzata, ma anche la politica di potenza, per quanto essa
+
+86
+00:11:22,780 --> 00:11:32,680
+possa essere rimedio estremo, finisce per militarizzare le relazioni internazionali,
+
+87
+00:11:33,160 --> 00:11:41,300
+per comprimere aspirazioni e odi come la braccia e cova sotto la cenere.
+
+88
+00:11:43,740 --> 00:11:49,580
+Noi abbiamo misurato in queste settimane la tragica inadeguatezza di una risposta meramente
+
+89
+00:11:49,580 --> 00:12:03,260
+militare. E lo dice chi ha sentito la responsabilità e l'obbligo di condividere la necessità
+
+90
+00:12:03,260 --> 00:12:13,320
+di una risposta anche attraverso la forza alla sfida del terrorismo. E tuttavia l'uso
+
+91
+00:12:13,320 --> 00:12:23,440
+della forza, non accompagnato dalla politica, non accompagnato da un senso di giustizia
+
+92
+00:12:24,200 --> 00:12:31,700
+e dalla convinzione della eguaglianza dei diritti di tutti i popoli, l'uso della forza
+
+93
+00:12:31,700 --> 00:12:42,060
+comprime l'odio che genera, che poi è destinato ad esplodere in mille forme e a riprodurre
+
+94
+00:12:42,060 --> 00:12:54,740
+instabilità e tragedie. La sfida della globalizzazione, di questo
+
+95
+00:12:54,740 --> 00:13:01,040
+straordinario processo di crescita, della ricchezza, delle opportunità, della creazione
+
+96
+00:13:01,040 --> 00:13:08,400
+di un mercato mondiale, di una diffusione dei consumi che indubbiamente rappresentano
+
+97
+00:13:12,590 --> 00:13:19,880
+un fenomeno di emancipazione per miliardi di esseri umani. Questa sfida porta con sé
+
+98
+00:13:19,880 --> 00:13:26,340
+l'altra faccia della globalizzazione, l'esplodere di conflitti e contraddizioni nuove.
+
+99
+00:13:26,820 --> 00:13:34,600
+Direi che la globalizzazione pone tre grandi problemi. Il problema delle identità minacciate
+
+100
+00:13:34,600 --> 00:13:42,040
+da un processo di omologazione. Il problema delle diseguaglianze che si generano. Il problema
+
+101
+00:13:42,620 --> 00:13:49,420
+delle diseguaglianze sono tanto più forti in quanto la crescita di un mercato mondiale
+
+102
+00:13:49,420 --> 00:13:59,600
+e di un sistema delle comunicazioni globali le rende evidenti. Anche nel passato le diseguaglianze
+
+103
+00:13:59,600 --> 00:14:07,780
+erano tragiche, ma erano vissute nella ignoranza della condizione degli altri. La diseguaglianza
+
+104
+00:14:07,780 --> 00:14:12,860
+di chi nella propria casa attraverso la televisione vede il lusso e il benessere del resto del
+
+105
+00:14:12,860 --> 00:14:21,000
+mondo è un fattore drammatico di contraddizione. E insieme la globalizzazione porta con sé
+
+106
+00:14:21,000 --> 00:14:28,500
+un deficit crescente di democrazia. Io credo che vi sia una profonda interconnessione tra
+
+107
+00:14:28,500 --> 00:14:37,760
+queste tre sfide. Più democrazia, più valianza, più identità e convivenza. Sono tre sfide
+
+108
+00:14:37,780 --> 00:14:48,880
+che non possono essere risolte se non attraverso la capacità di fare crescere insieme istituzioni
+
+109
+00:14:48,880 --> 00:14:57,380
+democratiche sovranazionali, politiche di eguaglianza, dialogo e rispetto tra le diverse
+
+110
+00:14:57,380 --> 00:15:05,720
+identità. C'è il legame molto stretto, dunque, tra i fattori istituzionali, politici, economici
+
+111
+00:15:05,720 --> 00:15:17,220
+e culturali. Per questa via passa la costruzione della convivenza. Un percorso difficile, un
+
+112
+00:15:17,220 --> 00:15:29,100
+percorso nel quale ci siamo appena inoltrati e che già ci propone enormi interrogativi,
+
+113
+00:15:30,000 --> 00:15:43,820
+che innanzitutto toccano le grandi fedi religiose. Quale rapporto tra l'assolutezza della fede
+
+114
+00:15:45,820 --> 00:15:59,080
+con la sua forza, con il suo carattere indiscutibile e la necessità di individuare un nucleo di
+
+115
+00:15:59,080 --> 00:16:10,640
+pensi, che non può che essere il fondamento della convivenza? Ci sono interrogativi che
+
+116
+00:16:10,640 --> 00:16:19,540
+toccano le forme della convivenza e che investono non soltanto le relazioni mondiali, ma che
+
+117
+00:16:19,540 --> 00:16:29,060
+attraversano profondamente le nostre società. Oggi la necessità della pace sia pure una
+
+118
+00:16:29,080 --> 00:16:38,860
+pace precaria, sembra spingere verso una idea della convivenza, come giusta posizione di
+
+119
+00:16:38,860 --> 00:16:45,880
+comunità separate. Vedete questa tragedia senza fine che insanguina il Medio Oriente
+
+120
+00:16:45,880 --> 00:16:53,180
+e la Palestina? Alla fine anche le menti più illuminate non riescono ad immaginare altro
+
+121
+00:16:53,180 --> 00:17:08,800
+che non due mondi separati. La prospettiva della pace e dunque della convivenza viene
+
+122
+00:17:08,800 --> 00:17:15,740
+vista nella separazione. Ma in fondo questo tema attraversa anche le nostre società,
+
+123
+00:17:16,640 --> 00:17:25,180
+che noi vogliamo e che saranno sempre di più società multietniche. Ma in quale forma?
+
+124
+00:17:26,740 --> 00:17:33,680
+Se pensiamo a certe grandi metropoli del mondo occidentale, nelle quali ciascuna razza, ciascuna
+
+125
+00:17:33,680 --> 00:17:45,720
+religione ha il suo quartiere, la sua chiesa, la sua scuola, non ci sono muri e forse quelli
+
+126
+00:17:45,740 --> 00:17:51,480
+che ci sono morti. Questo è un modo di convivere, ma ci dà anche il senso drammatico della
+
+127
+00:17:51,480 --> 00:18:01,920
+difficoltà di comunicazione tra civiltà, razze, religioni. E' davvero questa la condizione
+
+128
+00:18:01,920 --> 00:18:09,460
+di una convivenza possibile per il futuro? O non dobbiamo pensare che sia molto meglio
+
+129
+00:18:09,460 --> 00:18:16,380
+per noi che i nostri figli vada a una scuola con i figli degli immigrati, che imparino
+
+130
+00:18:16,380 --> 00:18:23,440
+a conoscerli, non vivere in una società in cui c'è la scuola islamica, la scuola cristiana,
+
+131
+00:18:24,100 --> 00:18:32,900
+la scuola dei laici e nella quale la convivenza è appunto una convivenza di mondi separati?
+
+132
+00:18:32,900 --> 00:18:42,040
+Io credo che qui passa una grande sfida di civiltà, che ci interroga tutti e che pone
+
+133
+00:18:42,040 --> 00:18:49,040
+a ciascuno di noi nel modo più radicale il problema del riconoscimento dei valori dell'altro.
+
+134
+00:18:50,080 --> 00:18:59,160
+E vorrei concludere con due citazioni. Una è una citazione di Lord Acton, cattolicesimo
+
+135
+00:18:59,160 --> 00:19:07,940
+liberale, una minoranza. Imperfetti sono quegli Stati nei quali non si ha miscuglio
+
+136
+00:19:07,940 --> 00:19:15,180
+di nazionalità. Decrepiti quelli che non ne risentono più gli effetti. Uno Stato incapace
+
+137
+00:19:15,180 --> 00:19:21,980
+di soddisfare differenti nazionalità si autocondanna. Uno Stato che si affatica a neutralizzarle,
+
+138
+00:19:22,060 --> 00:19:25,820
+ad assorbirle, ad espellerle, distrugge la sua vitalità.
+
+139
+00:19:27,440 --> 00:19:33,330
+Quasi con le stesse parole, Lucien Fevro, l'indomani della tragedia della guerra esaltava
+
+140
+00:19:34,840 --> 00:19:44,540
+il mescolamento dei sangui, come condizione per ridare vitalità alla civiltà europea
+
+141
+00:19:44,540 --> 00:19:52,270
+contro l'idea e sangue della purezza etnica, religiosa, nazionale.
+
+142
+00:19:53,350 --> 00:20:03,290
+Io credo che questi siano grandi valori positivi. Penso che non basta predicarli. Abbiamo letto
+
+143
+00:20:03,290 --> 00:20:10,690
+qualche mese fa un libro provocatorio, ma pieno di intelligenza di Giovanni Sartori,
+
+144
+00:20:11,030 --> 00:20:22,250
+contro la retorica di sinistra della società multietnica. E sappiamo quanto sia effettivamente
+
+145
+00:20:24,890 --> 00:20:33,350
+complesso costruire la convivenza laddove manchino valori condivisi che siano in grado
+
+146
+00:20:33,350 --> 00:20:40,150
+di regolarla e di farla vivere in modo positivo. Ma è appunto questa la sfida, è nucleare
+
+147
+00:20:40,150 --> 00:20:48,290
+valori condivisi che possano consentirci di far vivere le diverse identità come una ricchezza
+
+148
+00:20:48,290 --> 00:20:51,690
+e non come fonte di frammentazione e di conflitto.
+
+149
+00:20:59,990 --> 00:21:07,810
+Credo che in un modo laico di vivere le proprie convinzioni abbiamo trovato ciascuno la condizione
+
+150
+00:21:07,810 --> 00:21:18,130
+di questo dialogo. Credenti di diverse confessioni religiose e non credenti impegnati a costruire
+
+151
+00:21:18,130 --> 00:21:29,850
+le condizioni di una convivenza che non è più proponibile nella forma di una convivenza
+
+152
+00:21:29,850 --> 00:21:36,150
+fondata sulle regole e sulla garanzia dello stato moderno neutralizzante, proprio perché
+
+153
+00:21:36,150 --> 00:21:42,970
+viviamo nello spazio comune di una globalizzazione nella quale non c'è più un leviatano che
+
+154
+00:21:42,970 --> 00:21:49,030
+non è più il monopoleo della forza e la possibilità di somministrare sanzioni e di
+
+155
+00:21:49,030 --> 00:21:58,050
+garantire quella interazione positiva tra le diverse identità che forse lo stato moderno
+
+156
+00:21:58,050 --> 00:22:03,390
+ha garantito nel secolo scorso, con esiti diversi a seconda di vista.
+
+157
+00:22:03,990 --> 00:22:11,670
+Ma viviamo nello spazio comune di un mondo globale nel quale nessuno ha il monopoleo
+
+158
+00:22:11,670 --> 00:22:22,650
+la forza e la costruzione della pace, perché certo questo è l'obiettivo, comporta una
+
+159
+00:22:22,650 --> 00:22:28,950
+molteplicità di azioni tese a prevenire i conflitti, a rimuovere le diseguaglianze,
+
+160
+00:22:29,110 --> 00:22:37,270
+a educare alla tolleranza, intesa anche come comprensione del valore che l'altro porta
+
+161
+00:22:37,270 --> 00:22:47,050
+con sé, il che appunto non è riducibile alla individuazione delle regole, comporta una
+
+162
+00:22:47,050 --> 00:22:55,450
+complessa azione positiva, mobilitazione di coscienze, di culture, azioni politiche,
+
+163
+00:22:56,130 --> 00:23:04,110
+capacità di agire sulle istituzioni per renderle più forti, quelle fragili ma così preziose
+
+164
+00:23:05,350 --> 00:23:10,630
+sovranazionali e capacità di agire sulle politiche, nel senso appunto di promuovere
+
+165
+00:23:10,630 --> 00:23:19,450
+eguaglianza, qui si è proposto di lanciare idee che tanti hanno lanciato, cioè destinare
+
+166
+00:23:19,450 --> 00:23:24,510
+risorse a combattere la fame, a promuovere la salute, a promuovere programmi educativi.
+
+167
+00:23:25,290 --> 00:23:30,450
+Ora al di là del fatto che forse non è il caso che un seminario lanci appelli così ambiziosi
+
+168
+00:23:30,450 --> 00:23:41,790
+e tuttavia è sicuramente giusto dire che la convivenza necessita anche di una lotta
+
+169
+00:23:41,790 --> 00:23:50,110
+contro quelle paurose diseguaglianze che alimentano fondamentalismi e conflitti la cui matrice
+
+170
+00:23:50,110 --> 00:23:58,910
+non è soltanto ideologica e religiosa. Allora se questo tipo di dialogo, rivelato di poter
+
+171
+00:23:58,910 --> 00:24:07,270
+essere utile, di poter essere fecondo, io credo che oltre a raccoglierne le considerazioni,
+
+172
+00:24:07,290 --> 00:24:11,050
+questa sarà la nostra cura, la nostra cura nel senso dei promotori, almeno di quella
+
+173
+00:24:11,050 --> 00:24:17,810
+parte dei promotori, fondazioni italiane europei, editori inaudi che hanno un'attività
+
+174
+00:24:17,810 --> 00:24:28,890
+editoriale, raccoglierne gli elementi per renderli fruibili, raccogliere degli atti di questa
+
+175
+00:24:28,890 --> 00:24:37,510
+nostra discussione, io credo che sarebbe importante, se il sacro convento condivide
+
+176
+00:24:37,510 --> 00:24:47,910
+questa necessità, questa opportunità, che un incontro di questo tipo possa ripetersi
+
+177
+00:24:47,910 --> 00:24:56,830
+con finalità di volta in volta, ritengo assai più precise, in senso che io penso che l'interesse
+
+178
+00:24:56,830 --> 00:25:04,430
+di un incontro di questo tipo può essere quello di affrontare nodi e questioni specifiche
+
+179
+00:25:04,430 --> 00:25:11,790
+della nostra vita comune, di quella convivenza alla quale vogliamo collaborare. Tuttavia
+
+180
+00:25:11,790 --> 00:25:19,130
+io credo che l'opportunità che si possano incontrare qui, intellettuali, laici, rappresentanti
+
+181
+00:25:19,130 --> 00:25:30,570
+delle principali fedi religiose che animano la vita religiosa del nostro Paese per affrontare
+
+182
+00:25:30,570 --> 00:25:36,970
+nodi e problemi della nostra vita comune o della vicenda internazionale, io credo che
+
+183
+00:25:36,970 --> 00:25:42,290
+questo possa essere importante, che in qualche modo si possa dare vita, non dico ad un forum,
+
+184
+00:25:42,290 --> 00:25:57,250
+ma ad un incontro che in assisi possa ripetersi con questa ampiezza di partecipazioni, con
+
+185
+00:25:57,250 --> 00:26:11,470
+la possibilità di mettere alla prova questo dialogo. Io condivido questo richiamo che è
+
+186
+00:26:11,470 --> 00:26:20,770
+non dispiace l'idea dell'incontro, del mescolamento dei sangui e quindi anche delle idee, ma questo
+
+187
+00:26:20,770 --> 00:26:27,230
+non significa appannare le diverse identità, la forza delle convinzioni che naturalmente
+
+188
+00:26:27,230 --> 00:26:38,850
+c'è in ciascuno di noi, ma ricercare nell'incontro tra le persone, che poi è il modo concreto
+
+189
+00:26:38,850 --> 00:26:44,850
+in cui si incontrano le idee, perché senza le persone le idee non si incontrano, inevitabilmente
+
+190
+00:26:44,850 --> 00:26:50,750
+le idee restano ciascuna a casa propria. Nell'incontro delle persone, anche a partire
+
+191
+00:26:50,750 --> 00:27:00,350
+da convinzioni diverse e vissute con un animo forte, con passione autentica o con pienezza
+
+192
+00:27:00,350 --> 00:27:07,670
+di fede, tuttavia nell'incontro delle persone si individuano le soluzioni comuni, emergono
+
+193
+00:27:07,670 --> 00:27:13,810
+i valori condivisi, che io credo vi siano e tutta questa nostra discussione ha dimostrato
+
+194
+00:27:13,810 --> 00:27:19,930
+con quanta passione da punti di vista diversi, tuttavia tutti sentiamo il bisogno di impegnarci
+
+195
+00:27:19,930 --> 00:27:28,230
+per costruire la pace, per combattere le diseguaglianze, per dare un fondamento più solido alla convivenza
+
+196
+00:27:28,230 --> 00:27:35,990
+tra le persone nel mondo. Allora penso che questo incontro sia stato utile, penso che
+
+197
+00:27:35,990 --> 00:27:44,890
+in qualche modo possa diventare un'occasione periodica e ripeto ha un valore se è in questa
+
+198
+00:27:44,890 --> 00:27:52,990
+sede che può esservi un'occasione periodica e se questo ci consentirà di affrontare non
+
+199
+00:27:52,990 --> 00:28:01,910
+più una discussione generale, un po' il perché siamo qui, ma sotto la regia innanzitutto
+
+200
+00:28:01,910 --> 00:28:07,030
+dei nostri padroni di casa e di chi con loro ha avuto il piacere e l'onore di collaborare
+
+201
+00:28:07,030 --> 00:28:14,450
+di individuare nodi e problemi del nostro vivere comune che possa essere utile tornare
+
+202
+00:28:14,450 --> 00:28:19,370
+a discutere insieme per ricercare insieme le risposte. Grazie.
+
