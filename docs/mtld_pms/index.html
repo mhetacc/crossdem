@@ -98,8 +98,16 @@
 
 <script>
 const DEFAULT_SELECTED = ["meloni", "degasperi"];
+const DISPLAY_NAMES = {
+  degasperi: "De Gasperi",
+  dalema: "D'Alema",
+};
 let DATA = null;
 let view = "Bar";
+
+function displayName(pol) {
+  return DISPLAY_NAMES[pol] || (pol.charAt(0).toUpperCase() + pol.slice(1));
+}
 
 // simple seeded PRNG (mulberry32) so sampling is stable across reloads
 function mulberry32(seed) {
@@ -148,7 +156,7 @@ function buildBarTraces(pols, docNum, showMedians) {
     const x = Array.from({length: sampleN}, (_, k) => k + offset);
     traces.push({
       x, y: sample, type: "bar", width,
-      name: pol.charAt(0).toUpperCase() + pol.slice(1),
+      name: displayName(pol),
       marker: {color: entry.color, opacity: 0.85},
       legendgroup: pol,
     });
@@ -180,7 +188,7 @@ function buildLineTraces(pols, docNum, showMedians) {
     const x = Array.from({length: sampleN}, (_, k) => k);
     traces.push({
       x, y: sample, mode: "lines+markers",
-      name: pol.charAt(0).toUpperCase() + pol.slice(1),
+      name: displayName(pol),
       line: {color: entry.color, width: 2.5},
       marker: {color: entry.color, size: 6},
       legendgroup: pol,
@@ -271,7 +279,7 @@ function buildCheckboxGrid() {
     cb.className = "pol-cb";
     cb.dataset.pol = pol;
     cb.checked = DEFAULT_SELECTED.includes(pol);
-    label.append(cb, pol.charAt(0).toUpperCase() + pol.slice(1));
+    label.append(cb, displayName(pol));
     grid.appendChild(label);
     polCbs.push(cb);
   });
