@@ -278,7 +278,7 @@ function buildCheckboxGrid() {
 function wireControls() {
   const slider = document.getElementById("doc-slider");
   const docCount = document.getElementById("doc-count");
-  slider.max = Math.max(...Object.values(DATA).map(d => d.mtld.length), 50);
+  //slider.max = Math.max(...Object.values(DATA).map(d => d.mtld.length), 50);
   slider.addEventListener("input", () => {
     docCount.textContent = slider.value;
   });
