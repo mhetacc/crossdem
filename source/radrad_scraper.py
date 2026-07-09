@@ -34,7 +34,7 @@ DATA = [
     ("forlani", "/soggetti/1043/arnaldo-forlani"),
     ("cossiga", "/soggetti/595/francesco-cossiga"),
     ("rumor", "/soggetti/1769/mariano-rumor"),
-    ("emilio", "/soggetti/6010/colombo-emilio"),
+    ("colombo", "/soggetti/6010/colombo-emilio"),
     ("andreotti", "/soggetti/99/giulio-andreotti"),
     ("moro", "/soggetti/1325/aldo-moro"),
     ("leone", "/soggetti/6656/giovanni-leone"),
