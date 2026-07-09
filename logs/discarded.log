@@ -2063,3 +2063,11 @@ https://www.radioradicale.it/scheda/504578/essere-giovani-e-un-mestiere-complica
 2026-07-09 13:19:02.315156  https://www.radioradicale.it/scheda/157423/la-liberta-che-sa-cambiare-il-senso-restituito-alla-politica-condivisione-e?i=1386506  ValueError: No timestamps
 2026-07-09 13:19:04.274930  https://www.radioradicale.it/scheda/157143/direzione-nazionale-dei-democratici-di-sinistra-cinema-capranica?i=1389089  ValueError: No timestamps
 2026-07-09 13:44:24.268534  https://www.radioradicale.it/scheda/161008/in-compagnia-dei-pensieri-lunghi?i=1350187  FileNotFoundError: [Errno 2] No such file or directory: "/home/mhetac/Documents/GitHub/crossdem/datasets/d'alema/audio_out/_out_161008_dalema.mp3" -> "/home/mhetac/Documents/GitHub/crossdem/datasets/d'alema/audio_out/161008_dalema.mp3"
+2026-07-09 14:04:08.241374  https://www.radioradicale.it/scheda/158179/uneuropa-piu-forte-in-un-mondo-piu-giusto-e-piu-sicuro-organizzato-dai-democratici-di?i=1380388  ValueError: No timestamps
+2026-07-09 14:04:10.095298  https://www.radioradicale.it/scheda/155736/assemblea-nazionale-dei-segretari-di-sezione-dei-democratici-di-sinistra-presso-la?i=1403343  ValueError: No timestamps
+2026-07-09 14:10:42.683997  https://www.radioradicale.it/scheda/157552/dopo-la-destra-un-futuro-sicuro-le-nostre-proposte-per-la-pace-leuropa-e-litalia?i=1385215  ValueError: No timestamps
+2026-07-09 14:10:45.098163  https://www.radioradicale.it/scheda/157908/la-sinistra-il-futuro-leuropa-organizzato-dai-democratici-di-sinistra-nellambito-della?i=1382810  ValueError: No timestamps
+2026-07-09 14:20:38.283309  https://www.radioradicale.it/scheda/157565/idee-e-forze-progressiste-in-america-latina-e-in-europa-le-politiche-dellunione?i=1385092  ValueError: No timestamps
+2026-07-09 14:36:18.905755  https://www.radioradicale.it/scheda/156879/per-il-nuovo-welfare-organizzato-dai-democratici-di-sinistra-presso-la-citta-della?i=1392805  ValueError: No timestamps
+2026-07-09 14:45:27.434882  https://www.radioradicale.it/scheda/156381/programmiamo-il-cambiamento-piu-europa-piu-sviluppo-piu-solidarieta-per-la-puglia-che?i=1398620  ValueError: No timestamps
+2026-07-09 14:45:30.205825  https://www.radioradicale.it/scheda/153482/leuropa-nel-mondo-che-cambia-le-nostre-risposte-alle-sfide-della-globalizzazione?i=1421847  ValueError: No timestamps
