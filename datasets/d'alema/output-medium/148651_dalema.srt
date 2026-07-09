@@ -1,0 +1,884 @@
+1
+00:00:00,000 --> 00:00:06,460
+interventi. Ecco innanzitutto questo discorso dei tempi e la questione del
+
+2
+00:00:06,460 --> 00:00:09,280
+programma, lui come l'avete.
+
+3
+00:00:14,340 --> 00:00:22,000
+Grazie Gaggi per avere voluto presiedere questa discussione, per le parole che ha
+
+4
+00:00:22,000 --> 00:00:34,180
+vi sia consentito in qualità di condirettore di questa rivista di ringraziare gli studiosi che
+
+5
+00:00:34,180 --> 00:00:44,940
+hanno voluto, che sono qui con noi, Augusto Barbera, Cianzi, Massari, che hanno voluto
+
+6
+00:00:46,060 --> 00:00:58,260
+contribuire a questa iniziativa anche offrendo al mondo politico innanzitutto, all'opinione
+
+7
+00:00:59,320 --> 00:01:07,880
+pubblica, una ipotesi, come tale deve essere intesa, diciamo, nella discussione qui, non
+
+8
+00:01:07,880 --> 00:01:12,740
+perché non sia un'ipotesi, a mio giudizio, assai ben costruita anche sotto il profilo
+
+9
+00:01:12,740 --> 00:01:21,120
+tecnico, ma nel senso che evidentemente credo che loro stessi la ritengono sotto questo profilo
+
+10
+00:01:21,120 --> 00:01:30,280
+un'ipotesi aperta, un'ipotesi circa il modo in cui potrebbero svolgersi le primarie nel nostro
+
+11
+00:01:30,280 --> 00:01:37,940
+Paese e in particolare per la scelta del candidato primer dell'Ulivo e nello stesso tempo per averci
+
+12
+00:01:38,500 --> 00:01:43,860
+anche un quadro, una riflessione su che cosa sono le primarie negli Stati Uniti in altre
+
+13
+00:01:43,860 --> 00:01:51,540
+democrazie occidentali, come funzionano, quali sono qualità e limiti di questo modo di selezionare
+
+14
+00:01:51,540 --> 00:02:01,620
+le candidature per la Premiership. Ora, io però vorrei fare un attimino un passo indietro perché
+
+15
+00:02:01,620 --> 00:02:11,860
+la proposta delle primarie, almeno nella cultura politica che la rivista italiana europea intende
+
+16
+00:02:11,860 --> 00:02:18,640
+proporre all'attenzione del centrosinistra e del Paese, ha un senso se noi la colleghiamo
+
+17
+00:02:18,640 --> 00:02:27,160
+ad una visione che noi abbiamo cercato di portare avanti, una visione della democrazia italiana
+
+18
+00:02:27,160 --> 00:02:39,920
+della sua possibile evoluzione e una visione del centrosinistra. Nel numero precedente di questa
+
+19
+00:02:39,920 --> 00:02:46,680
+rivista noi abbiamo messo al centro della nostra attenzione il tema dell'Ulivo, del suo rilancio,
+
+20
+00:02:47,840 --> 00:02:54,600
+del suo possibile funzionamento e questa è una premessa indispensabile ad ogni dibattito sulle
+
+21
+00:02:54,600 --> 00:03:02,800
+primarie, e cioè la convinzione che l'evoluzione del sistema democratico in Italia debba procedere
+
+22
+00:03:02,800 --> 00:03:13,180
+nel senso di consolidare il bipolarismo, che debba procedere nel senso di una forma neoparlamentare
+
+23
+00:03:13,180 --> 00:03:21,220
+del bipolarismo, così gli studiosi definiscono un sistema nel quale i cittadini quando vanno a votare
+
+24
+00:03:21,220 --> 00:03:26,280
+non soltanto eleggono un parlamentare ma scelgono una maggioranza parlamentare e ne scelgono anche
+
+25
+00:03:26,280 --> 00:03:37,840
+il leader, implicitamente o esplicitamente. Dunque noi siamo per il maggioritario, non
+
+26
+00:03:37,840 --> 00:03:42,560
+partecipiamo al dibattito se l'Ulivo debba evolvere verso un unico partito, che a me sembra una
+
+27
+00:03:42,560 --> 00:03:50,500
+discussione, francamente prendiamo atto del fatto che l'Ulivo è un insieme di forze politiche ed è
+
+28
+00:03:50,500 --> 00:03:57,200
+allo stesso tempo anche un insieme di cittadini, di associazioni, di movimenti, ma riteniamo che
+
+29
+00:03:57,200 --> 00:04:03,660
+l'Ulivo debba sforzarsi di funzionare come un soggetto politico. Questa questione non è una
+
+30
+00:04:03,660 --> 00:04:11,960
+questione di regolamenti, tutto è dibattito sul fatto che non siamo prigionieri di una visione
+
+31
+00:04:11,960 --> 00:04:19,600
+normativa della politica, questa è una questione eminentemente politica e strategica. Lo stesso
+
+32
+00:04:19,600 --> 00:04:27,180
+dibattito sulle regole di funzionamento dell'Assemblea dei parlamentari e dell'Ulivo è una grande
+
+33
+00:04:27,180 --> 00:04:37,220
+discussione politica, nel senso che la decisione di decidere insieme sui grandi problemi del Paese è
+
+34
+00:04:37,220 --> 00:04:42,740
+una decisione politica, non è un fatto di regolamenti ed è una decisione politica che muove
+
+35
+00:04:42,740 --> 00:04:53,580
+l'Ulivo è un soggetto del bipolarismo e che quindi deve darsi regole, pure nella considerazione del
+
+36
+00:04:53,580 --> 00:04:59,920
+suo carattere pluralistico, nel rispetto delle forze politiche minori che concorrono a questa
+
+37
+00:04:59,920 --> 00:05:04,400
+coalizione, nel rispetto delle minoranze che di volta in volta si possono determinare,
+
+38
+00:05:04,440 --> 00:05:10,780
+tuttavia deve darsi regole che consentano a questa coalizione di funzionare non come una
+
+39
+00:05:10,780 --> 00:05:18,060
+normale alleanza di partiti che si forma nella democrazia del maggioritario, nelle quali ciascuno
+
+40
+00:05:18,060 --> 00:05:23,860
+si presenta alle elezioni con un proprio profilo e poi si fanno le alleanze, ma come un soggetto
+
+41
+00:05:24,480 --> 00:05:30,280
+politico, d'altro canto noi siamo sollecitati a questo anche dal sistema elettorale, che sia
+
+42
+00:05:30,280 --> 00:05:36,020
+pure in modo parziale ma allargamente prevalente, fa sì che di fronte ai cittadini si presenti
+
+43
+00:05:36,020 --> 00:05:45,600
+i candidati dell'Ulivo, anche se sono selezionati attraverso un'intesa tra i partiti. L'Ulivo non
+
+44
+00:05:45,600 --> 00:05:52,520
+ha mai risolto sinquì il problema della sua leadership, lo ha risolto in termini pratici,
+
+45
+00:05:52,700 --> 00:06:03,140
+in diversi momenti, ma non lo ha mai risolto in termini teorici e metodologici e questo ha concorso
+
+46
+00:06:03,140 --> 00:06:12,840
+a rendere la leadership dell'Ulivo instabile e in determinati momenti fragile. Ci sono due ragioni
+
+47
+00:06:12,840 --> 00:06:19,680
+per le quali io credo l'Ulivo non possa affrontare questo problema banalmente riferendosi ad altre
+
+48
+00:06:19,680 --> 00:06:25,180
+esperienze europee. Noi siamo una coalizione di partiti all'interno della quale non c'è una
+
+49
+00:06:25,180 --> 00:06:30,820
+forza assolutamente preminente. Il nostro bipolarismo è un bipolarismo di coalizioni
+
+50
+00:06:32,080 --> 00:06:40,340
+multipartitiche in un quadro di frammentazione del sistema politico italiano. Lo stesso partito
+
+51
+00:06:40,340 --> 00:06:46,060
+dei democratici di sinistra nel momento di sua massima espansione elettorale non è arrivato
+
+52
+00:06:46,060 --> 00:06:51,420
+a raggiungere neppure la metà dei voti che la coalizione del suo insieme aveva raccolti.
+
+53
+00:06:54,380 --> 00:06:59,960
+E quindi è evidente che il problema della guida della coalizione, della guida del governo del
+
+54
+00:06:59,960 --> 00:07:06,740
+Paese si presenta come un problema complesso e siccome noi sappiamo che la guida di una
+
+55
+00:07:06,740 --> 00:07:15,120
+coalizione ha bisogno di una forte legittimazione e io considero questo tema legato anche ad
+
+56
+00:07:15,120 --> 00:07:21,360
+una certa idea sulla forma di governo. Noi siamo già arrivati de facto ad una forma
+
+57
+00:07:21,360 --> 00:07:26,300
+di scelta del Primo Ministro da parte dei cittadini. Alle ultime elezioni abbiamo avuto
+
+58
+00:07:26,300 --> 00:07:32,260
+i nomi di Francesco Rutelli ed Estivio Berlusconi scritti sulle schede elettorale come una decisione
+
+59
+00:07:32,980 --> 00:07:39,140
+politica. Però l'ordinamento non ha seguito questo cammino della politica, a mio giudizio
+
+60
+00:07:39,140 --> 00:07:48,300
+determinando una situazione anche rischiosa in cui c'è una percezione quasi di presidenzialismo
+
+61
+00:07:48,300 --> 00:07:55,400
+nell'opinione pubblica ma un sistema istituzionale nel quale a questo non corrisponde, né adeguati
+
+62
+00:07:55,400 --> 00:08:00,840
+contropoteri della persona che i cittadini indicano come Primo Ministro e neppure adeguati
+
+63
+00:08:01,580 --> 00:08:05,820
+contropoteri. Noi viviamo in un paradosso totale, c'è un Paese nel quale il Primo
+
+64
+00:08:05,820 --> 00:08:11,260
+Ministro scelto dai cittadini non può revocare i Ministri, però nello stesso tempo non c'è
+
+65
+00:08:11,260 --> 00:08:16,600
+uno statuto dei diritti dell'opposizione. Il Primo Ministro è indebolito nelle sue
+
+66
+00:08:16,600 --> 00:08:20,620
+funzioni di Primo Ministro, però è il capo di una maggioranza parlamentare che è il
+
+67
+00:08:20,620 --> 00:08:24,720
+caso unico al mondo, ha il potere di decidere quali sono le commissioni d'inchiesta, cioè
+
+68
+00:08:24,720 --> 00:08:30,820
+il classico strumento dell'opposizione, per cui è in difficoltà fare il Primo Ministro
+
+69
+00:08:30,820 --> 00:08:35,960
+ma può promuovere delle indagini sull'opposizione anziché subire delle inchieste sull'attività
+
+70
+00:08:35,960 --> 00:08:42,780
+di governo. Quindi è evidente che c'è un grave squilibrio dell'assetto istituzionale
+
+71
+00:08:42,780 --> 00:08:52,880
+che richiede una riforma, non con una forzatura pubblicitaria ma a mio giudizio, che è scritto
+
+72
+00:08:52,880 --> 00:08:59,600
+ma ad un governo del Primo Ministro scelto dai cittadini insieme alla sua maggioranza,
+
+73
+00:08:59,620 --> 00:09:06,380
+non eletto, diciamo, alla maniera israeliana, scelto insieme alla sua maggioranza e che
+
+74
+00:09:06,380 --> 00:09:11,940
+determini i pesi e i contrappesi necessari ad un sistema di questo tipo. Faccio questa
+
+75
+00:09:11,940 --> 00:09:17,760
+premessa perché le primarie hanno un senso in questa logica. Le primarie hanno un senso
+
+76
+00:09:17,760 --> 00:09:24,320
+se vogliamo il bipolarismo, se vogliamo i maggioritari, se riteniamo che il bipolarismo
+
+77
+00:09:24,320 --> 00:09:31,720
+tra coalizioni di partiti deve essere strutturato come bipolarismo tra soggetti politici, se
+
+78
+00:09:31,720 --> 00:09:35,900
+riteniamo che il nome di una persona che sta scritto su una scheda ha bisogno di una forte
+
+79
+00:09:35,900 --> 00:09:43,000
+legittimazione, proprio perché forte è l'investitura popolare che riceverebbe, allora, in questo
+
+80
+00:09:43,000 --> 00:09:49,520
+quadro, che è, diciamo, il quadro di considerazioni politiche istituzionali entro il quale noi
+
+81
+00:09:49,520 --> 00:10:00,220
+ci muoviamo, le primarie divengono un tassello importante. Un modo di dare alla leadership,
+
+82
+00:10:00,340 --> 00:10:04,760
+io sono anche convinto che quel Primo Ministro scelto dai cittadini debba poter non lui sciogliere
+
+83
+00:10:04,760 --> 00:10:10,220
+le canne, perché non avviene da nessuna parte, ma poter chiedere lo scioglimento del Parlamento
+
+84
+00:10:10,220 --> 00:10:15,660
+in determinate condizioni, perché questa è una condizione perché il Primo Ministro
+
+85
+00:10:15,660 --> 00:10:24,660
+possa esercitare quel ruolo di capo di un governo scelto dai cittadini che, diciamo,
+
+86
+00:10:26,960 --> 00:10:40,200
+che ritengo sia necessario. Questa proposta è una proposta abbastanza antica. Quello che
+
+87
+00:10:41,200 --> 00:10:46,940
+candidato Primo Ministro sulla scheda, indicato sia pure come possibilità in un compromesso
+
+88
+00:10:46,940 --> 00:10:53,080
+che allora vedeva anche posizioni remore, diciamo. Quello a cui io mi riferisco, quindi,
+
+89
+00:10:53,120 --> 00:10:58,360
+è una proposta che viene da lontano, anche se poi, diciamo, non sempre il centro-sinistra
+
+90
+00:10:58,360 --> 00:11:03,940
+la tenuta ferma questa proposta. In quel programma si esprimeva anche persino una preferenza
+
+91
+00:11:03,940 --> 00:11:08,340
+per il doppio turno di nominale maggioritario. Tante cose bellissime, diciamo, che però
+
+92
+00:11:08,340 --> 00:11:19,560
+sono state in parte dimenticate o contraddette. Io ricordo anche, siccome poi si è aperta
+
+93
+00:11:19,560 --> 00:11:25,920
+una nobile gara, a chi l'aveva detto prima. Comunque non voglio iscrivermi a questa gara,
+
+94
+00:11:26,020 --> 00:11:32,320
+quindi non dico quello che stavo per dire, ma anche perché, seddo in un periodo particolarmente
+
+95
+00:11:32,320 --> 00:11:36,560
+che si arriva nella mia vita, mi accontento del fatto che siamo tutti d'accordo. Molti siamo
+
+96
+00:11:36,560 --> 00:11:43,960
+arrivati ad essere d'accordo, diciamo. Per la filologia manderò i testi, diciamo. I testi
+
+97
+00:11:43,960 --> 00:11:50,200
+con le date, diciamo. Parlo di testi molto... parlo di atti parlamentari, diciamo. Non parlo
+
+98
+00:11:50,200 --> 00:11:59,080
+di testi di interviste giornalistiche, di atti parlamentari. Della relazione del Presidente
+
+99
+00:11:59,080 --> 00:12:06,020
+della Bicamerade sul Premierato e della ipotesi che in sede di definizione del Premierato
+
+100
+00:12:06,020 --> 00:12:12,860
+si prevedesse per legge le primarie come forma di selezione del candidato Primo Ministro.
+
+101
+00:12:13,080 --> 00:12:20,580
+Ha detto questo. Ecco, io perché penso che tutto questo è importante? È importante
+
+102
+00:12:20,580 --> 00:12:28,760
+perché concorre oggi ad un rilancio di una prospettiva che è insieme una prospettiva
+
+103
+00:12:29,360 --> 00:12:38,100
+riformista. Io penso che questa democrazia dell'alternanza conosce oggi una pagina impegnativa,
+
+104
+00:12:38,140 --> 00:12:43,540
+difficile. Il Capo dello Stato ha detto poco fa delle cose molto importanti sulla cultura
+
+105
+00:12:43,540 --> 00:12:50,480
+del maggioritario, diciamo, su come lo si deve interpretare. Io penso che tanti cittadini
+
+106
+00:12:51,300 --> 00:12:56,740
+e molti di noi sono seriamente preoccupati del modo in cui oggi viene interpretata una
+
+107
+00:12:56,740 --> 00:13:01,720
+cultura del maggioritario, un'idea abbastanza rozza. Siamo di più e quindi abbiamo ragione.
+
+108
+00:13:01,820 --> 00:13:07,900
+Siamo di più in Parlamento, non è anche necessario essere di più nel Paese. Ma penso
+
+109
+00:13:07,900 --> 00:13:13,960
+che sarebbe un grave errore di fronte a questo se il Centrosinistra in qualche modo reagisse
+
+110
+00:13:13,960 --> 00:13:19,280
+tornando indietro, con un riflesso di paura, con l'idea che si deve ricostruire un sistema
+
+111
+00:13:19,280 --> 00:13:28,560
+di garanzie disegnato nella logica del ritorno alla proporzionale. Io penso che la risposta
+
+112
+00:13:28,560 --> 00:13:35,680
+a questi pericoli sta invece nel delineare in modo coerente una prospettiva riformista
+
+113
+00:13:35,680 --> 00:13:42,180
+di completamento del maggioritario e con l'equilibrio di garanzie di pesi e di contrapesi che il
+
+114
+00:13:42,180 --> 00:13:49,260
+maggioritario deve avere. Penso anche che c'è un nesso molto stretto, e qui concludo, tra
+
+115
+00:13:49,280 --> 00:13:55,760
+la visione che noi abbiamo della evoluzione del sistema politico e visione che noi abbiamo
+
+116
+00:13:55,760 --> 00:14:02,680
+dell'ulivo. In fondo l'ulivo non è mai riuscito a definire fino in fondo se stesso anche
+
+117
+00:14:02,680 --> 00:14:09,400
+perché c'erano tra di noi diverse visioni della evoluzione possibile del sistema politico
+
+118
+00:14:09,400 --> 00:14:15,440
+italiano. Io penso che oggi noi siamo nelle condizioni da questo punto di vista invece
+
+119
+00:14:15,440 --> 00:14:23,500
+di fare un passo in avanti, verso una convergenza, verso una visione comune che delimea una
+
+120
+00:14:23,500 --> 00:14:31,780
+nuova tappa di riforma, di completamento della transizione italiana. Le primarie non sono
+
+121
+00:14:31,780 --> 00:14:38,820
+un'escamottacia, non sono un modo di uscire dalle difficoltà politiche del centro-sinistra.
+
+122
+00:14:38,820 --> 00:14:45,320
+Io, fra l'altro, ritengo che sarebbe folle se, essendo magari d'accordo sulle primarie,
+
+123
+00:14:45,400 --> 00:14:51,120
+noi adesso ci mettessimo a vivere nell'attesa delle primarie, perché a quel punto sarebbero
+
+124
+00:14:51,120 --> 00:14:57,620
+un giudizio di Dio, non le primarie. Le primarie hanno un senso se prima delle primarie si
+
+125
+00:14:57,620 --> 00:15:04,160
+costituisce un organismo. Le primarie presuppongono una comunità all'interno delle quale si sbogano
+
+126
+00:15:04,160 --> 00:15:09,180
+le primarie. Se non esiste questa comunità non si possono fare neanche le primarie, diventa
+
+127
+00:15:09,180 --> 00:15:17,480
+un torneo medievale. Le primarie presuppongono l'esistenza dell'olivo, il suo funzionamento,
+
+128
+00:15:18,000 --> 00:15:24,460
+il superamento di dispute assolutamente bizantine sul fatto se venga prima il programma o le
+
+129
+00:15:24,460 --> 00:15:30,100
+primarie. Ora, sinceramente, noi abbiamo un programma con il quale siamo presentate le
+
+130
+00:15:30,100 --> 00:15:36,480
+elezioni e sarebbe azzardato sostenere che non ce l'abbiamo. Questo programma merita
+
+131
+00:15:36,480 --> 00:15:43,160
+un continuo aggiornamento ed è urgente che lo si faccia. Nello stesso tempo è del tutto
+
+132
+00:15:43,160 --> 00:15:47,880
+evidente, come nella logica delle democrazie moderne, che una volta scelto un leader candidato
+
+133
+00:15:47,880 --> 00:15:52,180
+a governare il Paese, il programma lo presenti lui. L'idea è che glielo scriviamo prima
+
+134
+00:15:52,180 --> 00:15:57,880
+e poi facciamo le primarie, mi pare francamente incongruo rispetto al funzionamento delle
+
+135
+00:15:57,880 --> 00:16:03,180
+democrazie moderne, perché il programma ha inevitabilmente anche il segno di una personalità
+
+136
+00:16:03,180 --> 00:16:10,560
+che la propone al Paese. Quindi io considero che sviluppo di un'azione politica comune,
+
+137
+00:16:11,800 --> 00:16:20,920
+regole di vita comune e aggiornamento programmatico e dialogo con la società sono tutti momenti
+
+138
+00:16:20,920 --> 00:16:26,760
+della vita di un organismo politico che tra di loro sono dialetticamente connessi, non
+
+139
+00:16:26,760 --> 00:16:31,840
+c'è un prima o un dopo e rischia di essere un dibattito sull'uomo e la gallina, di quelli
+
+140
+00:16:31,840 --> 00:16:38,160
+che interessano solo un ristretto certo politico o che vengono letti in modo allusivo, nulla
+
+141
+00:16:38,160 --> 00:16:46,980
+è più terribile delle discussioni allusive. Quindi ritenendo importantissimo il programma,
+
+142
+00:16:47,180 --> 00:16:51,380
+i contenuti, io non mi occupo quasi solo di contenuti da circa due anni, per esempio
+
+143
+00:16:51,380 --> 00:16:56,430
+questa rivista è una rivista di contenuti, non di forme o di regolamenti, dove ci si
+
+144
+00:16:56,430 --> 00:17:00,230
+occupa di politica estera, di politica economica, eccetera.
+
+145
+00:17:01,050 --> 00:17:09,550
+Tra questi ci sarà anche l'individuazione di un gruppo di saggi, di personalità che
+
+146
+00:17:09,550 --> 00:17:17,350
+prepari una riflessione tecnica e operativa sul modo migliore di dar corso, sia alle
+
+147
+00:17:17,350 --> 00:17:25,250
+primarie per il premier, sia a quelle che io ho chiamato test, esperimenti per consultazioni
+
+148
+00:17:25,250 --> 00:17:31,790
+popolari negli altri livelli nei quali si va a votare e credo che dobbiamo conseguire
+
+149
+00:17:31,790 --> 00:17:38,650
+un consenso tra i partiti, che non sia assolutamente irraggionevole ottenerlo e che dobbiamo dotarci
+
+150
+00:17:38,650 --> 00:17:54,370
+di strumenti per farlo e farlo in modo semplice, e Barbera e Cercanti che sono qui saranno
+
+151
+00:17:54,370 --> 00:18:00,710
+lì in cima alla scalinata del Campidoglio.
+
+152
+00:18:25,470 --> 00:18:36,070
+Non si capisce perché voi che eludiate questo gruppo, che infatti deve essere una massa
+
+153
+00:18:36,070 --> 00:18:42,070
+di gente che governano un'opera della costruzionfetta che non ha giunto il consenso del paese, la
+
+154
+00:18:42,070 --> 00:18:48,670
+società civile non deve intervenire per trasferire le energie uomini successive. Allora io chiedo
+
+155
+00:18:48,670 --> 00:18:53,910
+al segretario, che è il presidente del mio partito, io parlo della candidata per l'esforzo
+
+156
+00:18:53,910 --> 00:19:00,950
+che ho votato, e io che è il consiglio di voi di raccontare in modo omogeneo al telefonato
+
+157
+00:19:01,510 --> 00:19:07,970
+e lo facciate partecipare a una elaborazione del programma, del contenuto, se non abbiamo
+
+158
+00:19:07,970 --> 00:19:13,150
+al reddito delle espressioni che diceva Cacchi prima che si vanno per rimanere esattamente
+
+159
+00:19:13,150 --> 00:19:14,610
+a votarci a tutte.
+
+160
+00:19:24,430 --> 00:19:30,390
+Massimo D'Alema, vorrei anche notare che prima il discorso che è stato fatto da questo
+
+161
+00:19:30,390 --> 00:19:36,670
+tavolo era che comunque la scelta del candidato Premier di fatto è una scelta che vincola
+
+162
+00:19:36,670 --> 00:19:42,910
+e implica anche delle scelte programmatiche, che in parte sono anche precedenti, perché
+
+163
+00:19:42,910 --> 00:19:46,230
+appunto non è che si arriva da un vuoto totale del programma.
+
+164
+00:19:46,230 --> 00:19:53,260
+Sì, vorrei dire una cosa, questo appello ai programmi mi trova pienamente consenziente,
+
+165
+00:19:56,030 --> 00:20:03,110
+anche se rischia di essere esclusivamente metodologico. Noi ci occupiamo continuamente
+
+166
+00:20:03,110 --> 00:20:10,110
+di programmi, il nostro partito sta preparando una conferenza programmatica, abbiamo fatto
+
+167
+00:20:10,110 --> 00:20:15,990
+un seminario per discutere della politica estera, della politica economica, delle riforme
+
+168
+00:20:17,410 --> 00:20:23,430
+costituzionali e questo per quanto riguarda il nostro partito, gli scritti sono centinaia
+
+169
+00:20:23,430 --> 00:20:30,550
+di migliaia di persone, sono chiamati a partecipare a assemblee e discussioni sul programma. L'opposizione
+
+170
+00:20:30,550 --> 00:20:37,210
+parlamentare si nutre di una visione programmatica, abbiamo presentato insieme un pacchetto fondamentale
+
+171
+00:20:37,210 --> 00:20:43,670
+di emendamenti alla finanziaria che delineavano proposte alternative a quelle del governo sui
+
+172
+00:20:43,670 --> 00:20:50,530
+problemi della politica economica del Paese. Sempre il nostro partito qualche tempo fa ha
+
+173
+00:20:50,530 --> 00:20:57,410
+presentato un pacchetto di proposte di riforma della giustizia, ma potrei fare un elenco
+
+174
+00:20:57,410 --> 00:21:06,630
+infinito. Questo appello ai contenuti molto spesso si accompagna al fatto che quando si
+
+175
+00:21:06,630 --> 00:21:12,710
+discute dei contenuti non si partecipa alla discussione sui contenuti, i contenuti sono
+
+176
+00:21:12,710 --> 00:21:19,070
+evidentemente la base fondamentale di una battaglia di opposizione, di una proposta di governo
+
+177
+00:21:19,070 --> 00:21:26,870
+del Paese, non mi pare che qui si sfonda una porta aperta, il problema è un altro, il problema
+
+178
+00:21:26,870 --> 00:21:33,610
+è se noi vogliamo che questi contenuti siano portati avanti da un soggetto politico perché
+
+179
+00:21:33,610 --> 00:21:40,470
+sono fondamentali le regole, non perché esse sostituiscono i contenuti, ma perché fanno
+
+180
+00:21:40,470 --> 00:21:47,010
+sì che questi contenuti diventano il programma, il manifesto di un soggetto politico, lo costituiscono,
+
+181
+00:21:47,150 --> 00:21:53,650
+altrimenti i dibattiti sui contenuti è un libero confronto che non produce un programma
+
+182
+00:21:53,650 --> 00:21:59,610
+di governo, i contenuti diventano programma di governo quando si legano ad un soggetto
+
+183
+00:21:59,610 --> 00:22:04,810
+politico e anche a un candidato, perché questa è la logica del sistema che incarnano
+
+184
+00:22:04,810 --> 00:22:09,770
+questi contenuti, altrimenti i dibattiti sui contenuti è un dibattito accademico diciamo,
+
+185
+00:22:10,470 --> 00:22:15,610
+questa è la questione politica, siccome non si possono fare le primarie sui contenuti,
+
+186
+00:22:15,650 --> 00:22:20,630
+sui contenuti si possono fare le conferenze programmatiche, le stiamo facendo, io auspico
+
+187
+00:22:20,630 --> 00:22:25,930
+da tempo e penso che arriveremo a questo, che dopo le conferenze programmatiche dei partiti
+
+188
+00:22:25,930 --> 00:22:30,610
+si arriva a una convenzione programmatica dell'Ulivo, penso che la convenzione programmatica
+
+189
+00:22:30,610 --> 00:22:35,310
+dell'Ulivo debba essere aperta non solo ai representanti dei partiti, agli eletti, ma
+
+190
+00:22:35,310 --> 00:22:39,930
+anche a rappresentanze della società civile, delle forze sociali, quindi non è che su
+
+191
+00:22:39,930 --> 00:22:49,770
+questo tra di noi c'è una differenza e che a volte questo alludere ai contenuti in realtà
+
+192
+00:22:49,770 --> 00:22:58,370
+mette in ombra un nodo politico e cioè noi vogliamo restituire il confronto sui contenuti
+
+193
+00:22:58,370 --> 00:23:03,910
+esclusivamente ai partiti, alla sinistra e al centro o vogliamo che questo confronto
+
+194
+00:23:03,910 --> 00:23:10,830
+sui contenuti ridia sostanza all'Ulivo e cioè a questa originale alleanza di culture
+
+195
+00:23:10,830 --> 00:23:17,790
+riformiste che è l'Ulivo e questo è il punto, perché io ho l'impressione a volte che questo
+
+196
+00:23:17,790 --> 00:23:23,050
+alludere prima bisogna discutere i contenuti, prima bisogna decidere i contenuti o prima
+
+197
+00:23:23,050 --> 00:23:31,130
+bisogna allargare l'Ulivo eccetera e finisca per nel nome dei contenuti e del grande Ulivo
+
+198
+00:23:31,130 --> 00:23:37,350
+noi rischiamo per distruggere l'Ulivo, cioè questa alleanza da cui dovremmo invece prendere
+
+199
+00:23:37,350 --> 00:23:45,270
+le mosche e io penso che questo sarebbe un gravissimo errore, noi rischiamo di mettere
+
+200
+00:23:45,270 --> 00:23:49,410
+in mora l'Ulivo, di dire no se prima non abbiamo discuti i contenuti non possiamo
+
+201
+00:23:49,410 --> 00:23:53,630
+avere delle regole per discutere insieme, ne mettiamo da parte le regole, se prima non
+
+202
+00:23:53,630 --> 00:23:58,530
+abbiamo allargato l'Ulivo non possiamo dare vita all'Ulivo, in questo modo l'attesa del
+
+203
+00:23:58,530 --> 00:24:04,090
+grande Ulivo con i contenuti rischia di mettere in mora l'alleanza di centro-sinistra che
+
+204
+00:24:04,090 --> 00:24:10,170
+è il punto di partenza, se noi vogliamo rilanciare una prospettiva di governo e vorrei dire un'ultima
+
+205
+00:24:10,170 --> 00:24:16,930
+cosa che è questa, io penso che anche il fatto che oggi tra di noi nessuno di noi ne
+
+206
+00:24:16,930 --> 00:24:23,070
+ha fatto mistero, tra di noi nel gruppo dirigente del centro-sinistra ci sia una langa convergenza
+
+207
+00:24:23,070 --> 00:24:31,370
+su quale sia la candidatura più ragionevole, che se io condivido la prudenza di Francesco
+
+208
+00:24:31,370 --> 00:24:40,150
+Rutelli sul tirare in ballo chi ha ruoli istituzionali, delicate funzioni anche in
+
+209
+00:24:41,310 --> 00:24:45,970
+parte di fuori del nostro Paese, ma questo secondo me non toglie nulla il significato
+
+210
+00:24:45,970 --> 00:24:52,990
+delle primarie, perché le primarie non sono un'escamotage per risolvere un problema che
+
+211
+00:24:52,990 --> 00:25:01,170
+ci troviamo di fronte adesso, diventa un criterio di selezione, diventa un modo, a parte il
+
+212
+00:25:01,170 --> 00:25:06,510
+fatto che la convergenza di opinioni nel gruppo dirigente del centro-sinistra non sarebbe
+
+213
+00:25:06,510 --> 00:25:12,630
+comunque preclusiva della possibilità di altri partiti o associazioni o movimenti di
+
+214
+00:25:12,630 --> 00:25:18,730
+qui a due anni di mettere in campo altre candidature, ma le primarie diventano un modo di selezionare
+
+215
+00:25:19,170 --> 00:25:26,490
+e legittimare le candidature, è una procedura, la procedura non è pensata per risolvere
+
+216
+00:25:26,490 --> 00:25:32,530
+un problema politico contingente, è pensata per dare una struttura alla coalizione di
+
+217
+00:25:32,530 --> 00:25:38,670
+gruppo dirigente del centro-sinistra. Allora, da questo punto di vista, le primarie, anzi
+
+218
+00:25:38,670 --> 00:25:45,810
+io le ho sempre concepite come qualcosa che dovrebbero per legge dare forza ad un sistema
+
+219
+00:25:45,810 --> 00:25:51,390
+istituzionale, non soltanto essere una proposta di una parte, di partito, ma comunque sia,
+
+220
+00:25:52,050 --> 00:25:58,750
+questo forse è più problematico imporle a tutti, le primarie sono un modo di selezionare,
+
+221
+00:25:58,750 --> 00:25:59,910
+un modo democratico.
+
