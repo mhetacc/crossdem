@@ -2151,3 +2151,12 @@ https://www.radioradicale.it/scheda/504578/essere-giovani-e-un-mestiere-complica
 2026-07-10 01:33:43.111849  https://www.radioradicale.it/scheda/123720/intervista-a-massimo-dalema-dibattito-promosso-nellambito-della-festa-nazionale?i=1715694  ValueError: No timestamps
 2026-07-10 02:19:34.353624  https://www.radioradicale.it/scheda/121690/un-progetto-per-litalia-org-da-italianieuropei-fondazione-di-cultura-politica-presso?i=1736466  ValueError: No timestamps
 2026-07-10 02:31:56.765286  https://www.radioradicale.it/scheda/121831/il-gioco-dellopa-presentazione-del-libro-di-enrico-cisnetto-org-da-sperling-kupfer?i=1735580  ValueError: No timestamps
+2026-07-10 02:51:22.190654  https://www.radioradicale.it/scheda/129280/prima-di-tutto-il-centro-sinistra-per-i-giovani-e-per-la-scuola-organizzato-dai?i=1652199  ValueError: No timestamps
+2026-07-10 03:02:18.573837  https://www.radioradicale.it/scheda/129275/europa-italia-le-sfide-della-nuova-economia-regole-mercati-e-competitivita-organizzato?i=1652246  ValueError: No timestamps
+2026-07-10 03:20:18.554236  https://www.radioradicale.it/scheda/121290/la-pubblica-amministrazione-che-cambia-una-riforma-dei-cittadini-promosso-dalla?i=1740178  ValueError: No timestamps
+2026-07-10 03:20:20.858310  https://www.radioradicale.it/scheda/128944/i-have-an-e-dream-organizzato-da-puntoit-presso-lhotel-principe-di-savoia-piazza-della?i=1656329  ValueError: No timestamps
+2026-07-10 03:30:25.172458  https://www.radioradicale.it/scheda/117606/assemblea-dei-parlamentari-del-centro-sinistra-org-presso-cinema-capranica-piazza?i=1782557  ValueError: No timestamps
+2026-07-10 03:30:27.112652  https://www.radioradicale.it/scheda/128418/incontro-sui-temi-della-solidarieta-e-del-volontariato-organizzato-nellambito-della?i=1661295  ValueError: No timestamps
+2026-07-10 03:30:30.185954  https://www.radioradicale.it/scheda/128420/apertura-della-campagna-elettorale-a-favore-del-candidato-a-presidente-della-regione?i=1661289  ValueError: No timestamps
+2026-07-10 03:32:05.140102  https://www.radioradicale.it/scheda/128597/le-regioni-del-centro-italia-competitivita-di-sistema-infrastrutture-nuovo-sviluppo?i=1659510  RuntimeError: yt-dlp exited 1
+2026-07-10 03:39:29.921648  https://www.radioradicale.it/scheda/128583/le-marche-strategie-ed-alleanze-per-lo-sviluppo-organizzato-dalla-regione-marche-con?i=1659626  ValueError: No timestamps
