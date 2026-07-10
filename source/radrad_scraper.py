@@ -652,6 +652,7 @@ def gitall(politician, repo: str = BASE_DIR) -> None:
     print(f"[git] periodic commiT")
 
 def trim_to_1s(audio_dir):
+    #checking for audio length before trimming does not save time but increase it instead
     for audio_file in Path(audio_dir).glob("*.mp3"):  # adjust extension as needed
         tmp = audio_file.with_suffix(".tmp.mp3")
         subprocess.run([
@@ -679,9 +680,9 @@ def extract_id_from_url(url):
         return parts[1].split("/")[0]
     return None
 
-def log_discard(url, exc):
+def log_discard(politician, url, exc):
     with open(DISCARD_LOG, "a") as f:
-        f.write(f"{datetime.now()}  {url}  {type(exc).__name__}: {exc}\n")
+        f.write(f"{politician}  {datetime.now()}  {url}  {type(exc).__name__}: {exc}\n")
 
 def main (politician, SUBJECT_URL):
 
@@ -731,7 +732,7 @@ def main (politician, SUBJECT_URL):
                 gitall(politician)
                 last_commit = time.time()
         except Exception as e:
-            log_discard(url, e)
+            log_discard(politician, url, e)
             print(f"  ✗ Failed: {e}")
             continue
 
