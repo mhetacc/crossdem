@@ -2642,3 +2642,5 @@ d'alema  2026-07-11 17:35:28.852604  https://www.radioradicale.it/scheda/157054/
 d'alema  2026-07-11 18:16:26.525739  https://www.radioradicale.it/scheda/150376/elezioni-amministrative-del-25-maggio-2003-comizio-di-massimo-dalema-organizzata-dai?i=1452184  ValueError: No timestamps
 d'alema  2026-07-11 18:43:09.917659  https://www.radioradicale.it/scheda/148862/manifestazione-dellulivo-per-la-pace-in-iraq-org-piazza-del-popolo?i=1465209  RuntimeError: yt-dlp exited 1
 d'alema  2026-07-11 18:52:01.375262  https://www.radioradicale.it/scheda/148894/le-sfide-dei-ds-per-torino-il-piemonte-litalia-organizzato-dai-democratici-di-sinistra?i=1464902  ValueError: No timestamps
+d'alema  2026-07-11 19:54:29.138278  https://www.radioradicale.it/scheda/140078/manifestazione-politica-di-chiusura-della-festa-nazionale-dellunita-organizzata-dai?i=1551368  ValueError: No timestamps
+d'alema  2026-07-11 20:02:15.505112  https://www.radioradicale.it/scheda/138673/massimo-dalema-incontra-i-suoi-elettori-dopo-le-elezioni-politiche-del-13-maggio-2001?i=1565845  RuntimeError: yt-dlp exited 1
