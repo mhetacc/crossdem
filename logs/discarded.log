@@ -2495,3 +2495,7 @@ d'alema  2026-07-11 03:02:10.752197  https://www.radioradicale.it/scheda/58829/i
 d'alema  2026-07-11 03:02:12.882880  https://www.radioradicale.it/scheda/41772/nuovo-ordine-mondiale-nuovo-mito?i=2563714  ValueError: No timestamps
 d'alema  2026-07-11 03:12:05.339964  https://www.radioradicale.it/scheda/40704/progetti-e-prospettive-della-sinistra-a-confronto?i=2572363  RuntimeError: yt-dlp exited 1
 d'alema  2026-07-11 03:12:08.856773  https://www.radioradicale.it/scheda/47867/vecchie-etichette-e-vecchi-palazzi-oltre-la-retorica-della-riforma?i=2516037  ValueError: No timestamps
+d'alema  2026-07-11 03:23:15.427056  https://www.radioradicale.it/scheda/42821/libere-insieme-le-donne-la-sinistra-e-le-riforme-istituzionali?i=2555878  ValueError: No timestamps
+d'alema  2026-07-11 03:52:04.136519  https://www.radioradicale.it/scheda/42817/conferenza-nazionale-delle-elette-negli-enti-locali-nelle-liste-del-pds?i=2555944  ValueError: No timestamps
+d'alema  2026-07-11 03:55:14.720919  https://www.radioradicale.it/scheda/39003/democrazia-comunale-e-statuti-delle-autonomie-locali?i=2584218  RuntimeError: yt-dlp exited 1
+d'alema  2026-07-11 04:16:04.072939  https://www.radioradicale.it/scheda/37156/generazione-contro-movimento-studenti-rivoluzione-delle-donne?i=2599961  ValueError: No timestamps
