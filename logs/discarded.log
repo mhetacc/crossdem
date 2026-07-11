@@ -2627,3 +2627,11 @@ d'alema  2026-07-11 12:49:45.301666  https://www.radioradicale.it/scheda/33958/p
 d'alema  2026-07-11 12:49:48.270062  https://www.radioradicale.it/scheda/31292/xviii-congresso-del-pci?i=2652173  ValueError: No timestamps
 d'alema  2026-07-11 12:53:36.723846  https://www.radioradicale.it/scheda/27089/vi-congresso-di-democrazia-proletaria?i=2683928  ValueError: No timestamps
 d'alema  2026-07-11 12:53:38.259714  https://www.radioradicale.it/scheda/22652/conclusione-del-comitato-centrale-del-pci?i=2715918  ValueError: No timestamps
+d'alema  2026-07-11 16:04:59.373672  https://www.radioradicale.it/scheda/255941/incontro-con-i-giovani?i=1028661  FileNotFoundError: [Errno 2] No such file or directory: "/home/mhetac/Documents/GitHub/crossdem/datasets/d'alema/audio_out/_out_255941_dalema.mp3" -> "/home/mhetac/Documents/GitHub/crossdem/datasets/d'alema/audio_out/255941_dalema.mp3"
+d'alema  2026-07-11 16:22:16.473411  https://www.radioradicale.it/scheda/253042/elezioni-politiche-del-9-e-10-aprile-2006-comizio-di-rocco-larizza-livia-turco-e?i=1040047  ValueError: No timestamps
+d'alema  2026-07-11 16:37:40.500893  https://www.radioradicale.it/scheda/256749/domani-e-unaltro-giorno?i=1024944  FileNotFoundError: [Errno 2] No such file or directory: "/home/mhetac/Documents/GitHub/crossdem/datasets/d'alema/audio_out/_out_256749_dalema.mp3" -> "/home/mhetac/Documents/GitHub/crossdem/datasets/d'alema/audio_out/256749_dalema.mp3"
+d'alema  2026-07-11 16:37:41.734822  https://www.radioradicale.it/scheda/257307/elezioni-2006-linizio-della-campagna-elettorale-dei-democratici-di-sinistra-in-umbria?i=1018099  ValueError: No timestamps
+d'alema  2026-07-11 16:37:45.821748  https://www.radioradicale.it/scheda/197682/marcia-di-natale-per-lamnistia-la-giustizia-la-liberta?i=1287645  ValueError: No timestamps
+d'alema  2026-07-11 16:50:08.673152  https://www.radioradicale.it/scheda/214066/finisce-lillusione-comincia-litalia?i=1222404  ValueError: No timestamps
+d'alema  2026-07-11 17:01:45.953916  https://www.radioradicale.it/scheda/159487/comizio-di-chiusura-della-festa-provinciale-dellunita-organizzato-dai-democratici-di?i=1366135  ValueError: No timestamps
+d'alema  2026-07-11 17:01:47.310834  https://www.radioradicale.it/scheda/158977/elezioni-europee-ed-amministrative-2004-manifestazione-conclusiva-della-campagna?i=1372397  ValueError: No timestamps
