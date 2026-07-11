@@ -2657,3 +2657,10 @@ d'alema  2026-07-11 21:05:50.709952  https://www.radioradicale.it/scheda/130538/
 d'alema  2026-07-11 21:12:25.683285  https://www.radioradicale.it/scheda/129744/manifestazione-elettorale-a-favore-di-vasco-errani-candidato-alla-presidenza-della?i=1648056  ValueError: No timestamps
 d'alema  2026-07-11 21:37:06.588417  https://www.radioradicale.it/scheda/129610/manifestazione-elettorale-del-centro-sinistra-per-le-elezioni-regionali-del-16-aprile?i=1649460  ValueError: No timestamps
 d'alema  2026-07-11 22:10:59.136230  https://www.radioradicale.it/scheda/122728/ora-una-pace-giusta-ce-manifestazione-incontro-con-massimo-dalema-in-occasione-della?i=1725359  ValueError: No timestamps
+d'alema  2026-07-11 22:21:13.754793  https://www.radioradicale.it/scheda/113422/un-patto-che-funziona-incontro-con-massimo-dalema-organizzato-da-donneuropee?i=1829819  ValueError: No timestamps
+d'alema  2026-07-11 22:21:15.287778  https://www.radioradicale.it/scheda/122484/apertura-della-campagna-elettorale-dei-democratici-di-sinistra-in-vista-delle-elezione?i=1727389  ValueError: No timestamps
+d'alema  2026-07-11 22:21:17.540041  https://www.radioradicale.it/scheda/124408/lapertura-della-campagna-elettorale-dei-ds-in-emilia-romagna-in-vista-delle-elezioni?i=1708316  ValueError: No timestamps
+d'alema  2026-07-11 22:27:43.077880  https://www.radioradicale.it/scheda/106499/comizio-di-massimo-dalema-organizzato-nellultima-giornata-della-festa-nazionale-de?i=1903083  ValueError: No timestamps
+d'alema  2026-07-11 22:27:44.542758  https://www.radioradicale.it/scheda/105674/manifestazione-di-chiusura-della-festa-dellunita-con-massimo-dalema-segretario-dei?i=1911437  ValueError: No timestamps
+d'alema  2026-07-11 23:01:59.762735  https://www.radioradicale.it/scheda/101881/comizio-di-massimo-dalema-ed-enzo-bianco-a-sostegno-della-ricandidatura-di-enzo-bianco?i=1962530  ValueError: No timestamps
+d'alema  2026-07-11 23:14:42.676030  https://www.radioradicale.it/scheda/98539/incontro-con-le-forze-economiche-e-produttive-di-roma-in-vista-delle-prossime-elezioni?i=2020333  ValueError: No timestamps
