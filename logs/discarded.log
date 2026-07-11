@@ -2499,3 +2499,5 @@ d'alema  2026-07-11 03:23:15.427056  https://www.radioradicale.it/scheda/42821/l
 d'alema  2026-07-11 03:52:04.136519  https://www.radioradicale.it/scheda/42817/conferenza-nazionale-delle-elette-negli-enti-locali-nelle-liste-del-pds?i=2555944  ValueError: No timestamps
 d'alema  2026-07-11 03:55:14.720919  https://www.radioradicale.it/scheda/39003/democrazia-comunale-e-statuti-delle-autonomie-locali?i=2584218  RuntimeError: yt-dlp exited 1
 d'alema  2026-07-11 04:16:04.072939  https://www.radioradicale.it/scheda/37156/generazione-contro-movimento-studenti-rivoluzione-delle-donne?i=2599961  ValueError: No timestamps
+d'alema  2026-07-11 04:28:01.982478  https://www.radioradicale.it/scheda/114576/patto-sociale-seconda-sessione-di-verifica-tra-il-governo-e-le-parti-firmatarie?i=1819339  ValueError: No timestamps
+d'alema  2026-07-11 04:28:03.836205  https://www.radioradicale.it/scheda/75685/un-partito-di-donne-e-di-uomini-festa-nazionale-dellunita?i=2270704  ValueError: No timestamps
