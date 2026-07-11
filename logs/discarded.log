@@ -2655,3 +2655,5 @@ d'alema  2026-07-11 20:50:11.289129  https://www.radioradicale.it/scheda/130459/
 d'alema  2026-07-11 21:05:49.293587  https://www.radioradicale.it/scheda/130543/manifestazione-sui-referendum-organizzato-dai-democratici-di-sinistra-presso-piazza?i=1640831  ValueError: No timestamps
 d'alema  2026-07-11 21:05:50.709952  https://www.radioradicale.it/scheda/130538/comizio-per-i-referendum-organizzato-dai-democratici-di-sinistra-presso-il-palazzetto?i=1640861  ValueError: No timestamps
 d'alema  2026-07-11 21:12:25.683285  https://www.radioradicale.it/scheda/129744/manifestazione-elettorale-a-favore-di-vasco-errani-candidato-alla-presidenza-della?i=1648056  ValueError: No timestamps
+d'alema  2026-07-11 21:37:06.588417  https://www.radioradicale.it/scheda/129610/manifestazione-elettorale-del-centro-sinistra-per-le-elezioni-regionali-del-16-aprile?i=1649460  ValueError: No timestamps
+d'alema  2026-07-11 22:10:59.136230  https://www.radioradicale.it/scheda/122728/ora-una-pace-giusta-ce-manifestazione-incontro-con-massimo-dalema-in-occasione-della?i=1725359  ValueError: No timestamps
