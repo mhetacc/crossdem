@@ -2506,3 +2506,16 @@ d'alema  2026-07-11 05:36:19.797567  https://www.radioradicale.it/scheda/36289/o
 d'alema  2026-07-11 05:36:21.630672  https://www.radioradicale.it/scheda/36115/pci-una-nuova-forza-comunista-e-democratica-per-lalternativa?i=2608785  ValueError: No timestamps
 d'alema  2026-07-11 05:54:37.373137  https://www.radioradicale.it/scheda/34404/riunione-della-sezione-del-pci-di-monte-mario-roma?i=2624521  ValueError: No timestamps
 d'alema  2026-07-11 06:18:22.301752  https://www.radioradicale.it/scheda/29858/informazione-potere-e-pubblicita?i=2664243  ValueError: No timestamps
+d'alema  2026-07-11 06:41:28.809329  https://www.radioradicale.it/scheda/25597/enrico-berlinguer-idee-e-battaglie-1969-1984?i=2695862  ValueError: No timestamps
+d'alema  2026-07-11 06:48:24.766604  https://www.radioradicale.it/scheda/75620/festa-nazionale-dellunita-gramsci-e-loccidente?i=2271601  ValueError: No timestamps
+d'alema  2026-07-11 06:48:26.759439  https://www.radioradicale.it/scheda/17056/il-villaggio-di-vetro?i=2758867  ValueError: No timestamps
+d'alema  2026-07-11 06:48:28.278234  https://www.radioradicale.it/scheda/66945/democrazia-e-alternativa-festa-dellunita?i=2354702  ValueError: No timestamps
+d'alema  2026-07-11 07:13:57.645839  https://www.radioradicale.it/scheda/247037/videochat-con-massino-dalema?i=1064088  FileNotFoundError: [Errno 2] No such file or directory: "/home/mhetac/Documents/GitHub/crossdem/datasets/d'alema/audio_out/_out_247037_dalema.mp3" -> "/home/mhetac/Documents/GitHub/crossdem/datasets/d'alema/audio_out/247037_dalema.mp3"
+d'alema  2026-07-11 07:17:26.960065  https://www.radioradicale.it/scheda/195009/ballaro-programma-di-approfondimento-di-rai-tre?i=1292845  FileNotFoundError: [Errno 2] No such file or directory: "/home/mhetac/Documents/GitHub/crossdem/datasets/d'alema/audio_out/_out_195009_dalema.mp3" -> "/home/mhetac/Documents/GitHub/crossdem/datasets/d'alema/audio_out/195009_dalema.mp3"
+d'alema  2026-07-11 07:25:08.335593  https://www.radioradicale.it/scheda/119872/circus-trasmissione-televisiva-su-rai-uno-condotta-da-michele-santoro-argomento-della?i=1756754  ValueError: No timestamps
+d'alema  2026-07-11 07:25:10.560884  https://www.radioradicale.it/scheda/122345/trasmissione-sulle-elezioni-regionali-del-16-aprile-prossimo?i=1729431  ValueError: No timestamps
+d'alema  2026-07-11 07:28:17.548734  https://www.radioradicale.it/scheda/81018/testa-a-testa-trasmissione-elettorale-di-canale-5?i=2218066  ValueError: No timestamps
+d'alema  2026-07-11 07:28:19.297678  https://www.radioradicale.it/scheda/72637/speciale-elezioni-i-risultati-delle-amministrative-a-cura-del-tg-di-telemontecarlo?i=2299577  ValueError: No timestamps
+d'alema  2026-07-11 07:28:22.096589  https://www.radioradicale.it/scheda/72726/uno-mattina-programma-di-rai1-condotto-da-luca-giurato-speciale-elezioni-i-risultati?i=2298560  ValueError: No timestamps
+d'alema  2026-07-11 07:28:23.937562  https://www.radioradicale.it/scheda/71841/appelli-finali-per-le-elezioni-amministrative-del-23-aprile-a-cura-di-rai-1?i=2307070  ValueError: No timestamps
+d'alema  2026-07-11 07:28:25.638688  https://www.radioradicale.it/scheda/64175/tribuna-elettorale-per-le-politiche-94-trasmissione-di-rai3-regione-puglia?i=2379216  ValueError: No timestamps
