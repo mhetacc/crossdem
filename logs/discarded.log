@@ -2644,3 +2644,14 @@ d'alema  2026-07-11 18:43:09.917659  https://www.radioradicale.it/scheda/148862/
 d'alema  2026-07-11 18:52:01.375262  https://www.radioradicale.it/scheda/148894/le-sfide-dei-ds-per-torino-il-piemonte-litalia-organizzato-dai-democratici-di-sinistra?i=1464902  ValueError: No timestamps
 d'alema  2026-07-11 19:54:29.138278  https://www.radioradicale.it/scheda/140078/manifestazione-politica-di-chiusura-della-festa-nazionale-dellunita-organizzata-dai?i=1551368  ValueError: No timestamps
 d'alema  2026-07-11 20:02:15.505112  https://www.radioradicale.it/scheda/138673/massimo-dalema-incontra-i-suoi-elettori-dopo-le-elezioni-politiche-del-13-maggio-2001?i=1565845  RuntimeError: yt-dlp exited 1
+d'alema  2026-07-11 20:29:48.832253  https://www.radioradicale.it/scheda/138477/politiche-2001-massimo-dalema-incontra-gli-elettori-organizzato-dallulivo-presso-il?i=1567127  ValueError: No timestamps
+d'alema  2026-07-11 20:29:53.442116  https://www.radioradicale.it/scheda/137978/torino-guarda-avanti-organizzato-dai-democratici-di-sinistra-presso-il-cinema-actors?i=1570840  ValueError: No timestamps
+d'alema  2026-07-11 20:29:57.944835  https://www.radioradicale.it/scheda/137996/politiche-2001-comizio-di-massimo-dalema-organizzato-dai-democratici-di-sinistra?i=1570732  ValueError: No timestamps
+d'alema  2026-07-11 20:40:02.104791  https://www.radioradicale.it/scheda/137729/sud-finalmente-protagonista-giornata-nazionale-per-il-mezzogiorno-organizzata-dai?i=1573101  ValueError: No timestamps
+d'alema  2026-07-11 20:40:04.380002  https://www.radioradicale.it/scheda/137282/litalia-come-te-organizzato-dai-democratici-di-sinistra-nellambito-della-festa?i=1576763  ValueError: No timestamps
+d'alema  2026-07-11 20:40:06.321201  https://www.radioradicale.it/scheda/137280/una-vittoria-per-litalia-organizzato-dai-democratici-di-sinistra-presso-il-paladozza?i=1576774  ValueError: No timestamps
+d'alema  2026-07-11 20:46:05.324986  https://www.radioradicale.it/scheda/132286/finanziaria-2001-con-lulivo-cresce-litalia-org-dai-democratici-di-sinistra-co-teatro?i=1626700  ValueError: No timestamps
+d'alema  2026-07-11 20:50:11.289129  https://www.radioradicale.it/scheda/130459/si-al-maggioritario-organizzata-dai-democratici-di-sinistra-presso-il-palazzo-dei?i=1641446  ValueError: No timestamps
+d'alema  2026-07-11 21:05:49.293587  https://www.radioradicale.it/scheda/130543/manifestazione-sui-referendum-organizzato-dai-democratici-di-sinistra-presso-piazza?i=1640831  ValueError: No timestamps
+d'alema  2026-07-11 21:05:50.709952  https://www.radioradicale.it/scheda/130538/comizio-per-i-referendum-organizzato-dai-democratici-di-sinistra-presso-il-palazzetto?i=1640861  ValueError: No timestamps
+d'alema  2026-07-11 21:12:25.683285  https://www.radioradicale.it/scheda/129744/manifestazione-elettorale-a-favore-di-vasco-errani-candidato-alla-presidenza-della?i=1648056  ValueError: No timestamps
