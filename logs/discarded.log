@@ -2713,3 +2713,10 @@ ciampi  2026-07-12 12:21:03.279065  https://www.radioradicale.it/scheda/123944/e
 ciampi  2026-07-12 12:31:02.336299  https://www.radioradicale.it/scheda/107562/globalizzazione-istituzioni-e-coesione-sociale-org-dal-dipartimento-di-economia?i=1890212  ValueError: No timestamps
 ciampi  2026-07-12 12:50:26.099774  https://www.radioradicale.it/scheda/106571/le-banche-italiane-in-europa-convention-dellassociazione-bancaria-italiana-sulleuro?i=1902866  ValueError: No timestamps
 ciampi  2026-07-12 13:36:59.232680  https://www.radioradicale.it/scheda/103438/convegno-inaugurale-del-forum-pa-98-9-mostra-convegno-dei-servizi-ai-cittadini-e-alle?i=1937393  RuntimeError: yt-dlp exited 1
+ciampi  2026-07-12 14:19:58.514373  https://www.radioradicale.it/scheda/92722/assemblea-annuale-dellabi?i=2093051  ValueError: No timestamps
+ciampi  2026-07-12 14:20:00.256507  https://www.radioradicale.it/scheda/93272/maastricht-e-dopo-maastricht-promosso-dallaspen-institute-italia-presso-la-sede-della?i=2086057  ValueError: No timestamps
+ciampi  2026-07-12 14:20:02.139041  https://www.radioradicale.it/scheda/87324/quarto-rapporto-del-gruppo-consultivo-per-la-competitivita-europea-presentazione-a-cura?i=2152953  ValueError: No timestamps
+ciampi  2026-07-12 14:20:05.415458  https://www.radioradicale.it/scheda/83160/assemblea-annuale-dellabi?i=2200978  ValueError: No timestamps
+ciampi  2026-07-12 14:36:50.286555  https://www.radioradicale.it/scheda/81784/il-miracolo-possibile-un-programma-per-leconomia-italiana-presentazione-del-libro-di-f?i=2210896  ValueError: No timestamps
+ciampi  2026-07-12 14:42:59.801578  https://www.radioradicale.it/scheda/72348/dallo-sme-allunione-monetaria-europea-vincoli-e-prospettive-per-la-politica-economica?i=2301798  ValueError: No timestamps
+ciampi  2026-07-12 14:43:00.946729  https://www.radioradicale.it/scheda/73877/riflessione-sulluomo-moderno-incontro-con-ciampi-nella-parrochia-di-s-vigilio-a-roma?i=2287184  ValueError: No timestamps
