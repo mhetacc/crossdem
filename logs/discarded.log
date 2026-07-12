@@ -2702,3 +2702,10 @@ d'alema  2026-07-12 01:51:29.779998  https://www.radioradicale.it/scheda/70194/c
 d'alema  2026-07-12 01:51:31.371911  https://www.radioradicale.it/scheda/50840/luso-della-fiducia-da-parte-del-governo-per-lapprovazione-della-manovra-economica?i=2491890  RuntimeError: yt-dlp exited 1
 ciampi  2026-07-12 10:53:03.922501  https://www.radioradicale.it/scheda/275383/manifutura-festival-2009-quinta-ed-ultima-giornata?i=701642  ValueError: No timestamps
 ciampi  2026-07-12 10:57:56.500641  https://www.radioradicale.it/scheda/275383/manifutura-festival-2009-quinta-ed-ultima-giornata?i=701642  ValueError: No timestamps
+ciampi  2026-07-12 11:19:33.610659  https://www.radioradicale.it/scheda/151380/consiglio-superiore-della-magistratura-plenum?i=1441520  ValueError: No timestamps
+ciampi  2026-07-12 11:24:20.089378  https://www.radioradicale.it/scheda/139825/consiglio-superiore-della-magistratura-plenum-elezione-del-nuovo-vice-presidente?i=1553581  ValueError: No timestamps
+ciampi  2026-07-12 11:41:53.740853  https://www.radioradicale.it/scheda/131861/seduta-straordinaria-del-consiglio-superiore-della-magistratura-plenum-relazione-al?i=1629736  ValueError: No timestamps
+ciampi  2026-07-12 11:41:57.621695  https://www.radioradicale.it/scheda/130747/consiglio-superiore-della-magistratura-plenum?i=1638956  ValueError: No timestamps
+ciampi  2026-07-12 11:43:42.647208  https://www.radioradicale.it/scheda/126820/consiglio-superiore-della-magistratura-plenum?i=1673622  ValueError: No timestamps
+ciampi  2026-07-12 12:00:38.772896  https://www.radioradicale.it/scheda/116632/consiglio-superiore-della-magistratura-plenum?i=1794450  RuntimeError: yt-dlp exited 1
+ciampi  2026-07-12 12:00:41.519666  https://www.radioradicale.it/scheda/112125/consiglio-superiore-della-magistratura-plenum-odg-conferimento-dellufficio-direttivo?i=1842650  ValueError: No timestamps
