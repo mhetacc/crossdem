@@ -23,7 +23,7 @@ DATA = [
     #("monti", "/soggetti/35269/mario-monti"),
     #("dini", "/soggetti/24012/lamberto-dini"),
     #("prodi", "/soggetti/6661/romano-prodi"),
-    ("d'alema", "/soggetti/4773/massimo-d-alema"),
+    #("d'alema", "/soggetti/4773/massimo-d-alema"),
     ("ciampi", "/soggetti/17588/carlo-azeglio-ciampi"),
     ("berlusconi", "/soggetti/11165/silvio-berlusconi"),
     ("amato", "/soggetti/311/giuliano-amato"),
@@ -739,3 +739,5 @@ def main (politician, SUBJECT_URL):
 if __name__ == "__main__":
     for politician, SUBJECT_URL in DATA:
         main(politician, f"{BASE_URL}/{SUBJECT_URL}")
+
+#trim_to_1s(f"{BASE_DIR}/datasets/d'alema/audio_out")
