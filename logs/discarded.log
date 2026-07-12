@@ -2709,3 +2709,6 @@ ciampi  2026-07-12 11:41:57.621695  https://www.radioradicale.it/scheda/130747/c
 ciampi  2026-07-12 11:43:42.647208  https://www.radioradicale.it/scheda/126820/consiglio-superiore-della-magistratura-plenum?i=1673622  ValueError: No timestamps
 ciampi  2026-07-12 12:00:38.772896  https://www.radioradicale.it/scheda/116632/consiglio-superiore-della-magistratura-plenum?i=1794450  RuntimeError: yt-dlp exited 1
 ciampi  2026-07-12 12:00:41.519666  https://www.radioradicale.it/scheda/112125/consiglio-superiore-della-magistratura-plenum-odg-conferimento-dellufficio-direttivo?i=1842650  ValueError: No timestamps
+ciampi  2026-07-12 12:21:03.279065  https://www.radioradicale.it/scheda/123944/euro-competitivita-e-sviluppo-org-da-assolombarda-presso-auditorium-di-assolombarda?i=1714597  ValueError: No timestamps
+ciampi  2026-07-12 12:31:02.336299  https://www.radioradicale.it/scheda/107562/globalizzazione-istituzioni-e-coesione-sociale-org-dal-dipartimento-di-economia?i=1890212  ValueError: No timestamps
+ciampi  2026-07-12 12:50:26.099774  https://www.radioradicale.it/scheda/106571/le-banche-italiane-in-europa-convention-dellassociazione-bancaria-italiana-sulleuro?i=1902866  ValueError: No timestamps
