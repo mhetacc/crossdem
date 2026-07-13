@@ -1,0 +1,12 @@
+1
+00:00:03,360 --> 00:00:09,640
+Non è uscita davanti, si ferma, apre i finestri e diceva qualcosa, però non sono previste
+
+2
+00:00:11,720 --> 00:00:39,480
+Non è uscita davanti, si ferma, apre i finestri e diceva qualcosa, però non è uscita davanti, apre i finestri e diceva qualcosa, ma non sono previste
+
+3
+00:00:39,640 --> 00:00:59,980
+Non è uscita davanti, si ferma, apre i finestri e diceva qualcosa, ma non sono previste
+

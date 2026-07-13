@@ -2928,3 +2928,9 @@ berlusconi  2026-07-13 15:31:23.970110  https://www.radioradicale.it/scheda/1115
 berlusconi  2026-07-13 15:34:09.146919  https://www.radioradicale.it/scheda/110896/il-presidente-del-consiglio-dalema-ha-riferito-alla-camera-dei-deputati-sulla-linea?i=1856536  ValueError: No timestamps
 berlusconi  2026-07-13 15:34:13.032617  https://www.radioradicale.it/scheda/111760/oggi-nellaula-di-montecitorio-il-giuramento-e-il-messaggio-del-nuovo-presidente-della?i=1846024  ValueError: No timestamps
 berlusconi  2026-07-13 15:34:15.087788  https://www.radioradicale.it/scheda/110498/carlo-azeglio-ciampi-e-stato-eletto-oggi-decimo-presidente-della-repubblica-al-primo?i=1859529  ValueError: No timestamps
+berlusconi  2026-07-13 15:48:07.722481  https://www.radioradicale.it/scheda/108180/limpegno-di-forza-italia-per-il-si-al-referendum-anti-proporzionale-segni-di-pietro?i=1884559  ValueError: No timestamps
+berlusconi  2026-07-13 15:53:37.429509  https://www.radioradicale.it/scheda/107692/le-recenti-dichiarazioni-di-antonio-di-pietro-su-mani-pulite-e-la-procura-di-milano-la?i=1889330  ValueError: No timestamps
+berlusconi  2026-07-13 15:56:55.270785  https://www.radioradicale.it/scheda/106051/commenti-prima-del-voto-in-aula-a-montecitorio-sulla-costituzione-di-una-commissione?i=1907762  ValueError: No timestamps
+berlusconi  2026-07-13 15:56:58.852399  https://www.radioradicale.it/scheda/106040/la-riforma-della-legge-elettorale-i-riformatori-berlusconi-luninominale-il?i=1907801  ValueError: No timestamps
+berlusconi  2026-07-13 16:01:40.405946  https://www.radioradicale.it/scheda/105677/dichiarazioni-di-berlusconi-presidente-di-forza-italia-dopo-lincontro-con-dalema?i=1911432  ValueError: No timestamps
+berlusconi  2026-07-13 16:24:11.328053  https://www.radioradicale.it/scheda/103107/dichiarazioni-di-berlusconi-ai-giornalisti-sul-presunto-golpe-da-lui-denuciato-che?i=1943333  ValueError: No timestamps
