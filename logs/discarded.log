@@ -3016,3 +3016,6 @@ berlusconi  2026-07-13 20:06:15.196709  https://www.radioradicale.it/scheda/2511
 berlusconi  2026-07-13 20:17:28.279307  https://www.radioradicale.it/scheda/250946/missione-rilancio-limpresa-ce?i=1046392  ValueError: No timestamps
 berlusconi  2026-07-13 20:17:30.113299  https://www.radioradicale.it/scheda/250699/politiche-2008-comizio-di-silvio-berlusconi?i=1046978  ValueError: No timestamps
 berlusconi  2026-07-13 20:17:31.856175  https://www.radioradicale.it/scheda/250197/comizio-di-silvio-berlusconi?i=1049264  ValueError: No timestamps
+berlusconi  2026-07-13 20:57:30.190694  https://www.radioradicale.it/scheda/246872/meeting-nazionale-dei-circoli-della-liberta-del-nord-italia?i=1064482  ValueError: No timestamps
+berlusconi  2026-07-13 21:28:21.989641  https://www.radioradicale.it/scheda/230810/incontro-con-silvio-berlusconi?i=1139286  ValueError: No timestamps
+berlusconi  2026-07-13 21:40:57.009470  https://www.radioradicale.it/scheda/228932/san-raffaele-quo-vadis-nasce-lospedale-del-ben-essere?i=1149981  RuntimeError: yt-dlp exited 1
