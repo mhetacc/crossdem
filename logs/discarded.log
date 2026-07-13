@@ -2819,3 +2819,7 @@ berlusconi  2026-07-13 03:05:04.452422  https://www.radioradicale.it/scheda/1245
 berlusconi  2026-07-13 03:18:25.573272  https://www.radioradicale.it/scheda/123711/incontro-con-silvio-berlusconi-dibattito-promosso-nellambito-della-festa-della-vela?i=1715827  ValueError: No timestamps
 berlusconi  2026-07-13 03:18:27.884128  https://www.radioradicale.it/scheda/123329/meeting-2000-2000-anni-un-ideale-senza-fine-xxi-edizione-del-meeting-per-lamicizia-fra?i=1719522  ValueError: No timestamps
 berlusconi  2026-07-13 03:48:49.763991  https://www.radioradicale.it/scheda/121420/consiglio-nazionale-di-forza-italia-tenutosi-dall11-al-12-maggio-presso-lhotel-villa?i=1738597  ValueError: No timestamps
+berlusconi  2026-07-13 04:25:06.954534  https://www.radioradicale.it/scheda/119273/idee-per-lo-sviluppo-del-settore-delle-costruzioni-convegno-organizzato-dai-giovani?i=1764123  ValueError: No timestamps
+berlusconi  2026-07-13 04:25:08.854404  https://www.radioradicale.it/scheda/122410/il-buongoverno-di-forza-italia-prima-conferenza-programmatica-degli-amministratori?i=1728233  ValueError: No timestamps
+berlusconi  2026-07-13 04:25:11.723540  https://www.radioradicale.it/scheda/117214/1-assemblea-regionale-amministratori-locali-di-forza-italia-nel-corso-della-quale?i=1786274  ValueError: No timestamps
+berlusconi  2026-07-13 04:33:32.220484  https://www.radioradicale.it/scheda/126309/i-servizi-pubblici-locali-verso-il-libero-mercato-org-da-forza-italia-presso-il?i=1680966  ValueError: No timestamps
