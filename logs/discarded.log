@@ -2850,3 +2850,6 @@ berlusconi  2026-07-13 08:26:33.856726  https://www.radioradicale.it/scheda/7576
 berlusconi  2026-07-13 08:59:45.738226  https://www.radioradicale.it/scheda/73382/impresa-lavoro-e-istituzioni-per-la-nuova-italia-xxv-convegno-dei-giovani-imprenditori?i=2291811  ValueError: No timestamps
 berlusconi  2026-07-13 08:59:47.703884  https://www.radioradicale.it/scheda/71415/silvio-berlusconi-incontra-gli-industriali-del-nord-italia?i=2310977  ValueError: No timestamps
 berlusconi  2026-07-13 09:17:32.650616  https://www.radioradicale.it/scheda/71197/convenzione-delle-idee-per-definire-lidentita-politica-del-movimento-sinistra-delle?i=2313120  ValueError: No timestamps
+berlusconi  2026-07-13 09:32:26.356778  https://www.radioradicale.it/scheda/68573/la-nuova-frontiera-liberale-nella-seconda-repubblica?i=2337697  ValueError: No timestamps
+berlusconi  2026-07-13 09:54:41.489391  https://www.radioradicale.it/scheda/63759/assemblea-annuale-della-confindustria-relazione-del-presidente-luigi-abete?i=2382553  ValueError: No timestamps
+berlusconi  2026-07-13 10:15:31.184209  https://www.radioradicale.it/scheda/59352/la-politica-e-la-sua-immagine?i=2415531  ValueError: No timestamps
