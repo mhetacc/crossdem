@@ -2837,3 +2837,10 @@ berlusconi  2026-07-13 06:38:44.448900  https://www.radioradicale.it/scheda/1006
 berlusconi  2026-07-13 06:38:47.326902  https://www.radioradicale.it/scheda/97516/la-sfida-presentazione-del-libro-di-bruno-vespa?i=2034525  ValueError: No timestamps
 berlusconi  2026-07-13 06:51:24.268442  https://www.radioradicale.it/scheda/96048/per-una-scuola-di-qualita-e-libera-convegno-organizzato-dal-dipartimento-pubblica?i=2052233  ValueError: No timestamps
 berlusconi  2026-07-13 06:51:26.966597  https://www.radioradicale.it/scheda/92952/consiglio-nazionale-di-forza-italia-org-presso-hotel-parco-dei-principi?i=2089668  ValueError: No timestamps
+berlusconi  2026-07-13 07:18:45.429264  https://www.radioradicale.it/scheda/86877/intervento-di-silvio-berlusconi-al-1deg-consiglio-nazionale-di-forza-italia-organizzato?i=2158612  ValueError: No timestamps
+berlusconi  2026-07-13 07:18:48.921264  https://www.radioradicale.it/scheda/87357/lassemblea-costituente-incontro-pubblico-tra-mario-segni-e-silvio-berlusconi?i=2152739  ValueError: No timestamps
+berlusconi  2026-07-13 07:33:02.438668  https://www.radioradicale.it/scheda/85171/per-una-opposizione-alternativa-e-riformatrice-seminario-organizzata-da-forza-italia?i=2182928  ValueError: No timestamps
+berlusconi  2026-07-13 07:33:04.419091  https://www.radioradicale.it/scheda/85170/per-una-opposizione-alternativa-e-riformatrice-seminario-organizzata-da-forza-italia?i=2182956  ValueError: No timestamps
+berlusconi  2026-07-13 08:02:39.538125  https://www.radioradicale.it/scheda/83309/un-impegno-costituente-ovvero-lora-delle-riforme-tavola-rotonda-sul-nuovo-documento?i=2200066  ValueError: No timestamps
+berlusconi  2026-07-13 08:02:41.814664  https://www.radioradicale.it/scheda/82036/presentazione-dei-candidati-del-polo-per-le-liberta-per-le-prossime-elezioni-politiche?i=2208769  ValueError: No timestamps
+berlusconi  2026-07-13 08:02:45.392916  https://www.radioradicale.it/scheda/82031/taxday-evento-contenitore-organizzato-da-confcommercio-e-destinato-ad-approfondire-il?i=2208819  ValueError: No timestamps
