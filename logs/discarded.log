@@ -2844,3 +2844,9 @@ berlusconi  2026-07-13 07:33:04.419091  https://www.radioradicale.it/scheda/8517
 berlusconi  2026-07-13 08:02:39.538125  https://www.radioradicale.it/scheda/83309/un-impegno-costituente-ovvero-lora-delle-riforme-tavola-rotonda-sul-nuovo-documento?i=2200066  ValueError: No timestamps
 berlusconi  2026-07-13 08:02:41.814664  https://www.radioradicale.it/scheda/82036/presentazione-dei-candidati-del-polo-per-le-liberta-per-le-prossime-elezioni-politiche?i=2208769  ValueError: No timestamps
 berlusconi  2026-07-13 08:02:45.392916  https://www.radioradicale.it/scheda/82031/taxday-evento-contenitore-organizzato-da-confcommercio-e-destinato-ad-approfondire-il?i=2208819  ValueError: No timestamps
+berlusconi  2026-07-13 08:20:28.907516  https://www.radioradicale.it/scheda/79135/forza-italia-per-il-governo-delle-citta-e-delle-regioni-org-da-forza-italia?i=2236718  ValueError: No timestamps
+berlusconi  2026-07-13 08:20:31.935510  https://www.radioradicale.it/scheda/76818/ii-convention-nazionale-dei-cattolici-liberali-il-movimento-degli-ex-pattisti?i=2261940  ValueError: No timestamps
+berlusconi  2026-07-13 08:26:33.856726  https://www.radioradicale.it/scheda/75769/il-progetto-presidenzialista-org-dalla-convenzione-per-la-riforma-liberale?i=2269755  ValueError: No timestamps
+berlusconi  2026-07-13 08:59:45.738226  https://www.radioradicale.it/scheda/73382/impresa-lavoro-e-istituzioni-per-la-nuova-italia-xxv-convegno-dei-giovani-imprenditori?i=2291811  ValueError: No timestamps
+berlusconi  2026-07-13 08:59:47.703884  https://www.radioradicale.it/scheda/71415/silvio-berlusconi-incontra-gli-industriali-del-nord-italia?i=2310977  ValueError: No timestamps
+berlusconi  2026-07-13 09:17:32.650616  https://www.radioradicale.it/scheda/71197/convenzione-delle-idee-per-definire-lidentita-politica-del-movimento-sinistra-delle?i=2313120  ValueError: No timestamps

@@ -1,0 +1,584 @@
+1
+00:00:30,860 --> 00:00:36,840
+io vorrei presentare fisicamente agli ospiti
+
+2
+00:00:38,980 --> 00:00:42,180
+i nostri direttori
+
+3
+00:00:42,180 --> 00:00:43,960
+iniziamo dal bordo
+
+4
+00:00:43,960 --> 00:00:51,340
+il dott. Giuseppe Favregghia
+
+5
+00:00:53,120 --> 00:00:55,220
+il Veneto
+
+6
+00:00:55,220 --> 00:00:57,260
+il dott. Giuseppe Favregghia
+
+7
+00:00:57,260 --> 00:01:01,380
+il Consulente d'Azienda
+
+8
+00:01:01,380 --> 00:01:06,480
+il dott. Trentino Altoadige
+
+9
+00:01:06,480 --> 00:01:07,840
+il dott. Claudio Gennari
+
+10
+00:01:08,800 --> 00:01:10,360
+il dott. Vietmonte
+
+11
+00:01:10,780 --> 00:01:12,520
+il dott. Riccardo Guidella
+
+12
+00:01:14,860 --> 00:01:15,700
+lombardia
+
+13
+00:01:15,700 --> 00:01:16,980
+il dott. Bruno Bianchi
+
+14
+00:01:20,040 --> 00:01:22,000
+il dott. Alessandro Lento
+
+15
+00:01:24,400 --> 00:01:27,240
+il dott. Fabio Massimo Dari
+
+16
+00:01:27,240 --> 00:01:31,020
+il dott. Toscana
+
+17
+00:01:31,020 --> 00:01:32,420
+il dott. Marco Morbidelli
+
+18
+00:01:32,420 --> 00:01:35,440
+il dott. Castelfranco Di Sottra
+
+19
+00:01:35,800 --> 00:01:38,000
+il dott. Franco Asciugli
+
+20
+00:01:38,000 --> 00:01:43,840
+il dott. Daniele Berardinelli
+
+21
+00:01:43,840 --> 00:01:44,480
+lombardia
+
+22
+00:01:44,760 --> 00:01:46,040
+lombardo
+
+23
+00:01:47,000 --> 00:01:47,700
+lombardo
+
+24
+00:01:47,700 --> 00:02:02,680
+Assessore a Pescara, Molise, Dottor Michele del Vecchio, Lazio, Angelo Pangallo, Campagna,
+
+25
+00:02:02,680 --> 00:02:08,580
+Avvocato Pasquale in Protta,
+
+26
+00:02:09,400 --> 00:02:18,940
+Si capisce che la vicinanza regionale ha consentito un afflusso maggiore da parte di questa regione,
+
+27
+00:02:19,080 --> 00:02:23,780
+Basilicata, Dottor Dettore Massari, Consigliere Comunale Amatera, che in questo momento,
+
+28
+00:02:24,980 --> 00:02:36,120
+Puglia, Dottor Raffaele Mancino, ricercatore al Tor Vergato, Calabria, Dottor Franco Gelsomino, Sicilia,
+
+29
+00:02:36,960 --> 00:02:43,980
+Dottor Stelio Mangiameli, professore di diritto costituzionale, Sardegna, Dottor Paolo Matta, giornalista,
+
+30
+00:02:43,980 --> 00:02:48,880
+che prima non l'ho vista ma spero che sia ricordata, va bene, allora, prego professore,
+
+31
+00:02:52,960 --> 00:03:01,980
+questa cognizione della nostra evidenzità, i principi, i valori, dopo la presentazione dei nostri referenti regionali,
+
+32
+00:03:03,400 --> 00:03:08,980
+con l'onore di dare la parola ai nostri ospiti in cammando,
+
+33
+00:03:38,120 --> 00:03:41,980
+molte grazie, molte grazie,
+
+34
+00:03:56,860 --> 00:04:06,220
+comunque fa bene al cuore, vedere che c'è questa passione, che si avverte chiarissimamente,
+
+35
+00:04:13,660 --> 00:04:18,100
+e quello che è più importante è che in Italia voglio e vogliamo restarci,
+
+36
+00:04:24,940 --> 00:04:32,880
+e quindi, vedo che anche qui Bossi gode di una grande popolarità,
+
+37
+00:04:44,900 --> 00:04:56,880
+bene, mi sembra che c'è una sostanziale unità di vedute, quindi non credo che occorra insistere oltre nella ricognizione sui principi,
+
+38
+00:04:56,880 --> 00:05:05,540
+a parte questi scherzi e facendo i complimenti anche a tutti coloro che si sono impegnati in prima persona nel dare una mano all'Alberto Michellini,
+
+39
+00:05:05,640 --> 00:05:12,960
+e mi sembra che formiate davvero una bella squadra, alcuni di voi ho avuto occasione di conoscervi direttamente,
+
+40
+00:05:13,500 --> 00:05:19,880
+e quindi so che ci sono dei professionisti molto validi, lamento soltanto una grande presenza femminile, non c'è una donna,
+
+41
+00:05:22,880 --> 00:05:30,160
+si vede che le avete già tutte sposate, devono stare a casa a occuparsi della prole.
+
+42
+00:05:30,540 --> 00:05:40,200
+A parte gli scherzi, io sono qui con moltissimo piacere, dopo aver partecipato, contribuito, credo di poterlo dire,
+
+43
+00:05:41,200 --> 00:05:47,560
+alla nascita di questo movimento, di questa iniziativa, ho dato anche un particolare contributo,
+
+44
+00:05:47,640 --> 00:05:54,200
+un'insistenza precisa nell'individuazione del nome e del marchio dell'iniziativa,
+
+45
+00:05:54,600 --> 00:06:02,260
+perché ero convinto e sono convinto che oggi occorre che i fermenti siano tanti in Italia,
+
+46
+00:06:02,260 --> 00:06:14,100
+e che dentro una casa comune ci sia spazio per tante iniziative singole in cui dall'identità generale si passi a delle identità particolari,
+
+47
+00:06:14,440 --> 00:06:24,460
+e insieme in una vicinanza vera si possa davvero costruire qualcosa di importante per il futuro del nostro Paese.
+
+48
+00:06:24,460 --> 00:06:36,700
+Purtroppo questa iniziativa che nasce sul seguito di avvenimenti importantissimi, di avventure meravigliose,
+
+49
+00:06:37,480 --> 00:06:44,840
+quella di cui voi siete stati protagonisti e coprotagonisti, quella della ricerca di un principio diverso
+
+50
+00:06:44,840 --> 00:06:53,680
+che potesse dare al nostro Paese finalmente quella governabilità che in tanti anni non si è trovata,
+
+51
+00:06:54,480 --> 00:07:06,840
+vi ricordo che sono attualissime le ragioni per cui più dell'80% degli italiani ha scelto il principio del maggioritario.
+
+52
+00:07:07,920 --> 00:07:17,900
+Per un rifiuto della partitocrazia, per un rifiuto a quel sistema che prendeva i voti dai cittadini
+
+53
+00:07:18,420 --> 00:07:24,640
+e poi lasciava alle decisioni dei vertici nelle stanze chiuse delle segreterie dei partiti
+
+54
+00:07:24,640 --> 00:07:35,660
+di utilizzare questi voti in qualunque possibile maniera, e vi ricordate quante volte i voti di chi hanno messo la loro croce sullo scudo crociato
+
+55
+00:07:35,660 --> 00:07:49,970
+sono stati poi portati nel campo avverso e soprattutto per dare un fermo alla scelta degli uomini attribuita soltanto alle forze politiche,
+
+56
+00:07:50,740 --> 00:07:57,890
+per dare cioè ai cittadini la possibilità nel proprio collegio di individuare anche fisicamente il proprio candidato
+
+57
+00:07:57,890 --> 00:08:04,890
+a cui conferire il proprio mandato, le proprie indicazioni per un certo comportamento nella politica
+
+58
+00:08:05,590 --> 00:08:18,630
+e poi infine il motivo anche fondamentale di dare al nostro Paese governabilità, un Paese che ha avuto 50 governi in 50 anni
+
+59
+00:08:18,630 --> 00:08:24,710
+e che ha pagato caro questo fatto come l'avrebbe pagato caro qualunque impresa
+
+60
+00:08:24,710 --> 00:08:32,170
+nessuna entità né economica né sociale può resistere cambiando la classe dirigente ogni anno
+
+61
+00:08:32,170 --> 00:08:40,630
+e per questo la grande maggioranza dei cittadini ha deciso per i maggioritari
+
+62
+00:08:41,850 --> 00:08:48,770
+credevamo di avere vinto, il maggioritario è stato trasformato in una legge dello Stato
+
+63
+00:08:48,770 --> 00:09:01,840
+che ha portato una modifica ancora a beneficio dei soliti partiti e quindi ha presieduto all'assegnazione soltanto del 75% dei seggi
+
+64
+00:09:01,840 --> 00:09:10,840
+è venuta la primavera del 94, una splendida avventura di libertà
+
+65
+00:09:11,620 --> 00:09:16,940
+credevamo davvero di esserci lasciato dietro l'Italia che non volevamo più vedere
+
+66
+00:09:16,940 --> 00:09:23,080
+credevamo di esserci inoltrati di avere una stagione nuova di cambiamento
+
+67
+00:09:23,080 --> 00:09:30,020
+ed ecco invece che a causa dello stravolgimento che si è verificato nel Parlamento
+
+68
+00:09:30,020 --> 00:09:37,080
+da quella primavera ci troviamo immersi in un profondo, in un duro, in un grave inverno
+
+69
+00:09:37,680 --> 00:09:45,260
+un inverno della democrazia che se appare persistere dal punto di vista formale
+
+70
+00:09:45,260 --> 00:09:51,020
+certamente non sussiste in questo momento dal punto di vista della sostanza
+
+71
+00:09:51,020 --> 00:09:58,680
+perché il Parlamento, questo Parlamento non corrisponde più alla maggioranza dei cittadini
+
+72
+00:09:58,680 --> 00:10:06,480
+il Parlamento è dominato aritmeticamente da una minoranza che grazie all'aggiunta dei voti
+
+73
+00:10:06,480 --> 00:10:12,080
+di una parte che aveva avuto una diversa missione da chi aveva contribuito alla sua elezione
+
+74
+00:10:12,080 --> 00:10:19,060
+oggi dà a questa maggioranza aritmetica che tutto è, meno che una maggioranza politica
+
+75
+00:10:19,060 --> 00:10:25,520
+una mochiata innaturale grottesca, dà a questa maggioranza la possibilità di votare
+
+76
+00:10:25,820 --> 00:10:33,300
+qualunque legge e le leggi che questa maggioranza ha già votato e quelle che soprattutto si è presta a votare
+
+77
+00:10:33,300 --> 00:10:39,320
+sono certamente leggi che non corrispondono a una mentalità liberale e democratica
+
+78
+00:10:39,780 --> 00:10:45,080
+sono certamente leggi che la maggioranza dei cittadini italiani non approverebbe
+
+79
+00:10:45,080 --> 00:10:55,200
+un esempio come il professore ha appena ricordato è stato quello della legge per le elezioni delle regioni
+
+80
+00:10:55,200 --> 00:11:03,520
+è stato stravolto il principio del maggioritario, l'80% dei seggi dei candidati verrà assegnato col sistema proporzionale
+
+81
+00:11:04,340 --> 00:11:11,480
+il sistema maggioritario presiderà all'assegnazione soltanto del 25% dei seggi
+
+82
+00:11:11,480 --> 00:11:18,480
+e quel che è più grave si annuncia non in modo alto, non in modo palese, non in modo limpido
+
+83
+00:11:19,000 --> 00:11:26,000
+ma in modo sotterraneo che c'è la volontà precisa di andare alle prossime elezioni
+
+84
+00:11:26,000 --> 00:11:36,560
+non soltanto quando attraverso nuove leggi si sarà riconquistato il servizio pubblico alla faziosità e alla partigianeria che c'era prima
+
+85
+00:11:36,560 --> 00:11:45,600
+non soltanto quando si sarà cercato con nuove leggi di porre un freno, di oscurare in qualche modo
+
+86
+00:11:45,600 --> 00:11:53,520
+di rendere inefficaci le televisioni del sistema privato e magari anche di trovare altri modi
+
+87
+00:11:53,520 --> 00:11:58,680
+per diminuire nel polo della libertà la presenza di certi protagonisti
+
+88
+00:11:58,680 --> 00:12:04,940
+e soltanto allora quando ci saranno state attraverso leggi votate da questa maggioranza
+
+89
+00:12:05,450 --> 00:12:16,760
+le condizioni per un alloro prevalere soltanto allora quando forse si sarà arrivati ad avere una legge per le elezioni nazionali
+
+90
+00:12:16,760 --> 00:12:23,400
+che capovolgesse ancora quell'80-20% rendendolo ancora un sistema proporzionale
+
+91
+00:12:23,400 --> 00:12:31,700
+e soltanto allora c'è l'intenzione di consentire al popolo di andare alle urne per darsi il governo che desidera
+
+92
+00:12:31,700 --> 00:12:45,380
+e questo è un pericolo grave, è un pericolo che incombe, non è una fantasia, non è uno scenario immaginario
+
+93
+00:12:45,380 --> 00:12:57,620
+è uno scenario che viene fuori da dichiarazioni precise che nel privato molti protagonisti del ribaltone hanno fatto in questi giorni
+
+94
+00:12:57,620 --> 00:13:12,220
+io credo che quindi dobbiamo essere avvertiti, credo che dobbiamo continuare a ripetere ciò che io sto dicendo
+
+95
+00:13:12,220 --> 00:13:24,160
+e cioè che non è accettabile che oggi in Italia il Paese non sia governato come un Paese democratico dovrebbe essere
+
+96
+00:13:24,160 --> 00:13:33,500
+dalla maggioranza dei cittadini e quindi da una sua rappresentanza politica ma si è invece governato nel Parlamento da una maggioranza
+
+97
+00:13:33,500 --> 00:13:42,520
+che è nel Paese minoranza e che impone alla maggioranza del Paese la sua dittatura parlamentare
+
+98
+00:13:49,320 --> 00:13:59,660
+Ecco quindi che il benvenuto che oggi io sono venuto a darvi a voi che cominciate un benvenuto in una vicinanza con Forza Italia
+
+99
+00:13:59,660 --> 00:14:09,140
+un benvenuto in una vicinanza agli altri movimenti politici nel polo delle libertà, nel polo del buon governo, nel polo della solidarietà liberale
+
+100
+00:14:09,140 --> 00:14:24,520
+anche nel polo delle riforme, è un benvenuto accorato, è un benvenuto che ha un fondo di tristezza perché quello che noi pensavamo di fare
+
+101
+00:14:24,520 --> 00:14:33,440
+in questi momenti era ben lontano da ciò che stiamo facendo ora, oggi stiamo a lottare per ottenere qualcosa che ci è stato tolto
+
+102
+00:14:33,440 --> 00:14:47,500
+credavamo che con la primavera straordinaria che aveva seguito il vostro straordinario risultato che è stato il risultato di tutti i cittadini nel referendum
+
+103
+00:14:47,500 --> 00:14:56,720
+in questo momento noi avessimo veramente avviato una stagione rivoluzionaria per rendere questo Paese un Paese più moderno
+
+104
+00:14:56,720 --> 00:15:09,400
+per avviare in questo Paese le grandi riforme di cui il Paese ha bisogno, quelle per cui i cittadini il 27 marzo hanno dato mandato al polo della libertà e del buon governo
+
+105
+00:15:11,680 --> 00:15:22,400
+comunque il fatto che l'atmosfera sia questa, che il momento sia questo, non toglie anzi sottolinea la necessità di un impegno di tutti, di un impegno civile
+
+106
+00:15:23,180 --> 00:15:37,470
+di chi davvero vuole dare un contributo al proprio Paese, voi sviluperete la vostra attività, la sviluperete secondo le direzioni che riterrete più opportuni
+
+107
+00:15:37,470 --> 00:15:53,610
+ma io sono felice che voi possiate farlo di fianco a noi, di fianco a Forza Italia e di fianco agli altri partiti, soprattutto agli altri partiti che hanno una comune matrice cattolica
+
+108
+00:15:54,370 --> 00:16:06,610
+gli altri partiti che io credo saranno a voi vicini e con i quali poi, io spero, si attiverà una collaborazione profonda che potrà andare magari anche nel tempo
+
+109
+00:16:21,570 --> 00:16:31,090
+che tra questi partiti ci sia anche il Partito Popolare che con fatica individua quella che dovrebbe essere una stella polare certa
+
+110
+00:16:31,090 --> 00:16:44,010
+io credo, anzi sono fermamente convinto, che Rocco Buttiglione voglia davvero venire con noi nel Polo della Libertà
+
+111
+00:16:44,010 --> 00:16:54,310
+ho avuto molti incontri con lui, so che cosa pensa nel profondo, ai nostri colloqui, ai nostri propositi sono seguiti dei fatti
+
+112
+00:16:54,310 --> 00:17:01,770
+ieri si sono incontrati a un tavolo di lavoro uomini nostri, uomini del Centro Cristiano Democratico che hanno cominciato a parlare non dei principi
+
+113
+00:17:01,770 --> 00:17:10,410
+non ce n'è bisogno, li conosciamo, sappiamo la reciproca vicinanza, ma sulle cose da fare, sui programmi da farsi
+
+114
+00:17:10,410 --> 00:17:22,490
+e quindi il mio uspicio è che davvero si possa arrivare a costruire una stagione della politica in cui ci sia il comune impegno dei moderati
+
+115
+00:17:23,350 --> 00:17:32,700
+quindi sono tante le cose che ci uniscono, sono tante e dichiarate, io ho avuto la fortuna di nascere in una famiglia cattolica
+
+116
+00:17:33,130 --> 00:17:39,520
+quindi ho avuto un'educazione cattolica e poi un'istruzione cattolica nelle medie, nel ginasio, nel liceo
+
+117
+00:17:40,510 --> 00:17:46,690
+e quando mi è parso che fosse necessario un mio intervento, una discesa in campo come ho voluto chiamarla
+
+118
+00:17:46,690 --> 00:17:55,550
+perché nel Paese non si riusciva a formare una maggioranza che si opponesse alla minoranza ma ben organizzata delle sinistre
+
+119
+00:17:55,550 --> 00:18:03,330
+vi ricordate il risco che abbiamo corso il 27 di marzo, sommando i loro voti alle amministrative con il 35% dei voti
+
+120
+00:18:03,330 --> 00:18:08,070
+erano riusciti ad ottenere l'85% delle amministrazioni comunali
+
+121
+00:18:08,070 --> 00:18:17,070
+sarebbe successo ancora anche nelle politiche, non credo che saremmo qua a fare questi discorsi anche se il panorama poi è mutato in peggio
+
+122
+00:18:25,570 --> 00:18:35,130
+credo che sia stato importante averlo fatto e credo che sia stato giusto averlo fatto in quel modo
+
+123
+00:18:35,130 --> 00:18:49,350
+ho voluto fondare un movimento liberale, un nuovo partito liberale popolare di massa che ha nei suoi principi, nei suoi valori ispiratori
+
+124
+00:18:49,350 --> 00:18:57,250
+messo subito in chiaro che fondamentali erano i principi irrinunciabili della nostra tradizione cristiana
+
+125
+00:18:58,110 --> 00:19:07,270
+e quindi l'attenzione al bene comune e tutti gli altri principi che Alberto poco fa ha così bene ricordato
+
+126
+00:19:07,270 --> 00:19:21,270
+l'attenzione alla giustizia, alla pace, la difesa della vita, la difesa della famiglia, la solidarietà, il diritto alla libertà nella scuola
+
+127
+00:19:21,270 --> 00:19:37,810
+tutti i principi che ci accomunano e che ci dividono dagli altri, accomunano noi e sono lontanissimi
+
+128
+00:19:37,810 --> 00:19:55,210
+e ci rendono anche noi molto distanti dal sentire dell'altra parte che non è soltanto divisa perché manca la fede o perché conduce la battaglia politica in una maniera diversa
+
+129
+00:19:55,210 --> 00:20:00,890
+è divisa su tutte le cose fondamentali che invece ci uniscono da questa parte qua
+
+130
+00:20:01,630 --> 00:20:12,870
+è divisa perché c'è al di là di tutte le cose che Alberto ha ricordato c'è una diversa concezione nella politica per quanto riguarda la condizione dei cittadini per quanto riguarda lo stato
+
+131
+00:20:13,550 --> 00:20:29,610
+per loro lo stato è un fine, è un principio assoluto, lo stato per loro non è al servizio dei cittadini ma vede nei cittadini della gente che deve servire lo stato
+
+132
+00:20:29,610 --> 00:20:43,710
+lo stato può intervenire comunque e dovunque nella vita dei cittadini regolando tutto anche la vita proibita e infatti in ogni discorso il termine che più compare è regole regole regole
+
+133
+00:20:47,390 --> 00:20:57,950
+io credo che in molte dimostrazioni di questi giorni portano a confermare che secondo loro lo stato può anche conculcare i diritti dei cittadini
+
+134
+00:20:57,950 --> 00:21:12,950
+per noi è tutto diverso, per noi lo stato non soltanto non è un fine ma è soltanto un mezzo, uno strumento della società, uno strumento per l'ordinata vita della società
+
+135
+00:21:13,750 --> 00:21:33,210
+i cittadini non sono servitori dello stato ma lo stato è il servitore dei cittadini, lo stato deve garantire ai cittadini ogni libertà, la libertà civile, la libertà politica, la libertà economica, la libertà religiosa
+
+136
+00:21:34,430 --> 00:22:00,330
+lo stato deve astenersi dall'intervenire nella società là dove i cittadini, gli individui, le famiglie, le imprese, le comunità, private o pubbliche possono fare da soli con le proprie forze limitando la sua presenza e la sua attività soltanto ai settori e alle cose che non possono essere fatte dai cittadini
+
+137
+00:22:00,330 --> 00:22:19,730
+ed è questo un altro principio fondamentale, il principio della sussidiarietà che è appena ricordato Alberto, un principio che fa parte del cattolicesimo liberale e che è anche recentemente assurto l'onore di diventare il principio informatore dello sviluppo dell'istituzione europea
+
+138
+00:22:19,730 --> 00:22:41,710
+è stato assunto come principio basilare nel trattato di Maastricht, un principio che credo noi dovremo portare anche nelle nostre istituzioni, nell'organizzazione delle nostre istituzioni, non si faccia o non intervenga il livello superiore in ciò che può essere utilmente fatto dal livello inferiore
+
+139
+00:22:41,710 --> 00:22:58,030
+non faccia cioè la regione ciò che può essere fatto dalla provincia, non faccia alla provincia ciò che può essere fatto dal comune, non faccia allo stato ciò che può essere meglio fatto dalla regione, dalla provincia, dal comune e soprattutto dal privato
+
+140
+00:22:58,030 --> 00:23:20,170
+Ecco, questo credo che sia anche un aspetto fondamentale del cattolicesimo liberale che credo in sintesi estrema possa dirsi che è quella teoria in adesione completa alla dottrina sociale della Chiesa che vede nella libertà il fondamento del vivere civile
+
+141
+00:23:20,170 --> 00:23:44,190
+e lo diceva bene il più grande rappresentante del cattolicesimo liberale, il nostro amatissimo Don Sturzo che lo scriveva sul Giornale d'Italia e diceva lo statalismo il loro e la libertà sono antitetici
+
+142
+00:23:44,190 --> 00:23:53,810
+dove arriva lo statalismo cessa la libertà, dove arriva la libertà cade lo statalismo
+
+143
+00:23:53,810 --> 00:24:06,010
+e credo che anche per affermare questa diversità noi dobbiamo insieme impegnarci, insieme
+
+144
+00:24:06,010 --> 00:24:26,950
+ed è nel polo della libertà e del buon governo che insieme oltre a sostenere la fatica, lo sforzo delle prossime elezioni, delle prossime campagne elettorali, quella regionale ormai hanno avuto la legge che volevano
+
+145
+00:24:26,950 --> 00:24:43,950
+è certo che ci sarà quella politica, nessuna persona di buon senso potrebbe pensare di allontanarla dalle elezioni regionali ma ciò che guida certe scelte, certe decisioni non è l'interesse del paese ma è soltanto un interesse di parte o meglio di partito
+
+146
+00:24:48,890 --> 00:24:59,990
+Ecco l'impegno che i cattolici liberali insieme agli altri amici cattolici insieme a tutti i cattolici che sono presenti in tutte le forze del polo Forza Italia è fiera di ospitare
+
