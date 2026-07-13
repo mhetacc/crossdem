@@ -2823,3 +2823,7 @@ berlusconi  2026-07-13 04:25:06.954534  https://www.radioradicale.it/scheda/1192
 berlusconi  2026-07-13 04:25:08.854404  https://www.radioradicale.it/scheda/122410/il-buongoverno-di-forza-italia-prima-conferenza-programmatica-degli-amministratori?i=1728233  ValueError: No timestamps
 berlusconi  2026-07-13 04:25:11.723540  https://www.radioradicale.it/scheda/117214/1-assemblea-regionale-amministratori-locali-di-forza-italia-nel-corso-della-quale?i=1786274  ValueError: No timestamps
 berlusconi  2026-07-13 04:33:32.220484  https://www.radioradicale.it/scheda/126309/i-servizi-pubblici-locali-verso-il-libero-mercato-org-da-forza-italia-presso-il?i=1680966  ValueError: No timestamps
+berlusconi  2026-07-13 05:17:35.427090  https://www.radioradicale.it/scheda/111986/consiglio-nazionale-di-forza-italia-teatro-manzoni?i=1844295  ValueError: No timestamps
+berlusconi  2026-07-13 05:17:38.787513  https://www.radioradicale.it/scheda/109969/1-assemblea-nazionale-di-azzurro-donna-teatro-ariston?i=1864851  ValueError: No timestamps
+berlusconi  2026-07-13 05:37:00.110767  https://www.radioradicale.it/scheda/108856/i-congresso-nazionale-dei-seniores-di-forza-italia-org-co-palacongressi-delleur?i=1877809  ValueError: No timestamps
+berlusconi  2026-07-13 06:03:58.212209  https://www.radioradicale.it/scheda/105632/assemblea-dei-parlamentari-del-polo-org-co-la-sala-regina-camera-dei-deputati?i=1911732  ValueError: No timestamps
