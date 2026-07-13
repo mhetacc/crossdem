@@ -2800,3 +2800,10 @@ berlusconi  2026-07-13 00:54:16.216112  https://www.radioradicale.it/scheda/1386
 berlusconi  2026-07-13 00:56:20.175316  https://www.radioradicale.it/scheda/140431/assemblea-generale-di-confindustria-presso-lauditorium-viale-tupini-65?i=1548545  ValueError: No timestamps
 berlusconi  2026-07-13 00:56:21.612607  https://www.radioradicale.it/scheda/137657/dal-lavoro-ai-lavori-voglia-di-impresa-voglia-di-liberta-organizzata-dalla?i=1573451  ValueError: No timestamps
 berlusconi  2026-07-13 00:56:24.390479  https://www.radioradicale.it/scheda/138890/italia-piu-moderna-per-uneuropa-piu-forte-organizzato-da-confindustria-nei-giorni-12-e?i=1563535  ValueError: No timestamps
+berlusconi  2026-07-13 02:05:33.441077  https://www.radioradicale.it/scheda/141599/il-ruolo-degli-imprenditori-in-cento-anni-di-sviluppo-economico-del-paese-organizzato?i=1538850  ValueError: No timestamps
+berlusconi  2026-07-13 02:24:12.274956  https://www.radioradicale.it/scheda/140911/elezioni-politiche-il-candidato-alla-presidenza-del-consiglio-silvio-berlusconi?i=1544441  ValueError: No timestamps
+berlusconi  2026-07-13 02:24:13.964009  https://www.radioradicale.it/scheda/140273/elezioni-il-candidato-alla-presidenza-del-consiglio-del-centro-destra-silvio?i=1549815  ValueError: No timestamps
+berlusconi  2026-07-13 02:24:15.610084  https://www.radioradicale.it/scheda/139901/elezioni-politiche-il-leader-della-casa-delle-liberta-silvio-berlusconi-incontra-la?i=1552774  ValueError: No timestamps
+berlusconi  2026-07-13 02:24:17.376408  https://www.radioradicale.it/scheda/134820/il-candidato-premier-del-centro-destra-silvio-berlusconi-incontra-la-confartigianato?i=1602589  ValueError: No timestamps
+berlusconi  2026-07-13 02:25:09.776340  https://www.radioradicale.it/scheda/134812/il-leader-della-casa-delle-liberta-silvio-berlusconi-incontra-i-vertici-della?i=1602642  RuntimeError: yt-dlp exited 1
+berlusconi  2026-07-13 02:25:11.645642  https://www.radioradicale.it/scheda/136391/saper-crescere-poter-crescere-organizzato-da-confindustria-presso-il-palacassa-di?i=1585265  ValueError: No timestamps
