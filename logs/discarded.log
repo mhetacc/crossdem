@@ -2827,3 +2827,13 @@ berlusconi  2026-07-13 05:17:35.427090  https://www.radioradicale.it/scheda/1119
 berlusconi  2026-07-13 05:17:38.787513  https://www.radioradicale.it/scheda/109969/1-assemblea-nazionale-di-azzurro-donna-teatro-ariston?i=1864851  ValueError: No timestamps
 berlusconi  2026-07-13 05:37:00.110767  https://www.radioradicale.it/scheda/108856/i-congresso-nazionale-dei-seniores-di-forza-italia-org-co-palacongressi-delleur?i=1877809  ValueError: No timestamps
 berlusconi  2026-07-13 06:03:58.212209  https://www.radioradicale.it/scheda/105632/assemblea-dei-parlamentari-del-polo-org-co-la-sala-regina-camera-dei-deputati?i=1911732  ValueError: No timestamps
+berlusconi  2026-07-13 06:23:59.127837  https://www.radioradicale.it/scheda/103066/consiglio-nazionale-di-forza-italia-roma-hotel-doria-pamphili?i=1943590  ValueError: No timestamps
+berlusconi  2026-07-13 06:24:01.362972  https://www.radioradicale.it/scheda/101913/in-europa-il-dovere-di-cambiare-le-opportunita-di-crecere-convegno-organizzato-dai?i=1962113  ValueError: No timestamps
+berlusconi  2026-07-13 06:24:04.636255  https://www.radioradicale.it/scheda/101199/i-cristiano-democratici-per-le-liberta-incontro-organizzato-dalla-corrente?i=1972704  ValueError: No timestamps
+berlusconi  2026-07-13 06:24:08.148975  https://www.radioradicale.it/scheda/100960/litalia-da-semplificare-convegno-promosso-da-confindustria-presso-la-fiera-27-28-marzo?i=1975533  ValueError: No timestamps
+berlusconi  2026-07-13 06:24:12.146974  https://www.radioradicale.it/scheda/111614/1-conferenza-programmatica-di-alleanza-nazionale-nei-giorni-2728-febbraio-1-marzo-1998?i=1847479  ValueError: No timestamps
+berlusconi  2026-07-13 06:24:14.167942  https://www.radioradicale.it/scheda/98847/consiglio-nazionale-di-forza-italia-org-co-hotel-villa-pamphili-2021-febbraio?i=2015295  ValueError: No timestamps
+berlusconi  2026-07-13 06:38:44.448900  https://www.radioradicale.it/scheda/100620/assemblea-dei-sindaci-del-polo-per-le-liberta-organizzata-presso-la-sede-dellanci-in?i=1980806  ValueError: No timestamps
+berlusconi  2026-07-13 06:38:47.326902  https://www.radioradicale.it/scheda/97516/la-sfida-presentazione-del-libro-di-bruno-vespa?i=2034525  ValueError: No timestamps
+berlusconi  2026-07-13 06:51:24.268442  https://www.radioradicale.it/scheda/96048/per-una-scuola-di-qualita-e-libera-convegno-organizzato-dal-dipartimento-pubblica?i=2052233  ValueError: No timestamps
+berlusconi  2026-07-13 06:51:26.966597  https://www.radioradicale.it/scheda/92952/consiglio-nazionale-di-forza-italia-org-presso-hotel-parco-dei-principi?i=2089668  ValueError: No timestamps
