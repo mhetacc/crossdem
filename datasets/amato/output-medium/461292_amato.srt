@@ -1,0 +1,588 @@
+1
+00:00:00,000 --> 00:00:08,960
+E tuttavia è proprio su questa elasticità che si gioca tutta la vicenda della quale
+
+2
+00:00:08,960 --> 00:00:17,540
+ora parlavate, dei principi supremi, di chi ne eri interpreti, del rapporto tra gli organi
+
+3
+00:00:17,540 --> 00:00:26,540
+di giurisdizione costituzionale e i legislatori, che poi è il tema cruciale al quale si arriva
+
+4
+00:00:26,540 --> 00:00:36,600
+parlando di elasticità, di cui tutti sono consapevoli, anche se se ne parlava più
+
+5
+00:00:37,280 --> 00:00:45,020
+a proposito dello statuto, proprio Luigi Rossi, è un celebre scritto sulla elasticità delle
+
+6
+00:00:45,020 --> 00:00:53,560
+norme statutarie, ma quando Augusto nel suo ultimo lavoro per l'enciclopedia del diritto
+
+7
+00:00:53,560 --> 00:01:01,980
+sulla Costituzione italiana parla di un testo con virtualità multiple, quando un altro
+
+8
+00:01:01,980 --> 00:01:09,980
+giovane costituzionalista, io dico giovane, come Cesare Pinelli, parla di diritto costituzionale
+
+9
+00:01:09,980 --> 00:01:22,440
+come diritto per principi, in realtà aprono esattamente a questo tema, un tema che considerato
+
+10
+00:01:22,440 --> 00:01:33,000
+in campo lungo, e vi porta a constratare che la medesima Costituzione è interpretata
+
+11
+00:01:33,000 --> 00:01:44,760
+in un tempo in modo da far risultare legittimo ciò che prima era illegittimo, e in un tempo
+
+12
+00:01:44,760 --> 00:01:52,420
+successivo da far risultare illegittimo ciò che prima era legittimo, come è possibile
+
+13
+00:01:52,420 --> 00:02:01,260
+che questo accada in assenza di revisione? Gli esempi li abbiamo sui due grandi fronti
+
+14
+00:02:01,260 --> 00:02:11,420
+su cui ci si muove interpretando la Costituzione, su quello che regola libertà, diritti, doveri
+
+15
+00:02:11,420 --> 00:02:18,600
+i cittadini su quello che regola l'organizzazione, insomma l'esempio più noto nella nostra
+
+16
+00:02:18,600 --> 00:02:28,700
+vicenda costituzionale di legittimo che diventa illegittimo dipendendo da come lo guardate
+
+17
+00:02:28,700 --> 00:02:36,100
+il reato di adulterio, che nel giro di sette anni interpretando la medesima Costituzione
+
+18
+00:02:36,100 --> 00:02:43,360
+la Corte Costituzionale prima dice che è un reato che giustamente colpisce la donna
+
+19
+00:02:43,360 --> 00:02:51,780
+e non il maschio, otto anni dopo dice che è illegittimo che ci sia una differenziazione
+
+20
+00:02:51,780 --> 00:02:59,960
+di questo genere. In questo ambito il caso forse più clamoroso è non italiano ma statunitense
+
+21
+00:02:59,960 --> 00:03:08,720
+quando nell'estate scorza la Corte Suprema dice che è illegittimo vietare il matrimonio
+
+22
+00:03:08,720 --> 00:03:19,820
+agli omosessuali facendo un diritto del matrimonio, un diritto federale che deve essere uguale
+
+23
+00:03:19,820 --> 00:03:29,220
+per tutti. Sul piano dell'organizzazione c'è qui Enzo prima di una sentenza scritta
+
+24
+00:03:29,220 --> 00:03:36,940
+da lui la reiterazione dei decreti legge era legittima poi un bel giorno diventò illegittima
+
+25
+00:03:38,160 --> 00:03:48,000
+più di recente si scoprì che il potere che il Parlamento esercita nel convertire un decreto
+
+26
+00:03:48,000 --> 00:03:59,160
+legge è un potere legislativo a contenuti limitati diverso da quello più ampio che
+
+27
+00:03:59,160 --> 00:04:10,740
+libera disegni di legge. Ci dobbiamo chiedere perché queste cose accadono per capire come
+
+28
+00:04:10,740 --> 00:04:22,700
+le si può governare. Ora la spiegazione principe è quella della zona grigia ricordata da Fulco
+
+29
+00:04:22,700 --> 00:04:31,220
+che il diritto costituzionale è un diritto che sta tra politica e diritto tant'è vero
+
+30
+00:04:31,220 --> 00:04:38,680
+mi ha colpito lavorando su Giannini di cui parleremo tra un paio di giorni nelle sue
+
+31
+00:04:38,680 --> 00:04:47,360
+definizioni disciplinari ancora negli anni settanta Giannini scriveva che il diritto
+
+32
+00:04:47,360 --> 00:04:57,560
+costituzionale era di incerta definizione e quindi non era certo che potesse la disciplina
+
+33
+00:04:57,560 --> 00:05:08,020
+essere annoverata tra le scienze giuridiche. Ecco il punto che io vedo come cruciale è che
+
+34
+00:05:08,020 --> 00:05:17,600
+da quando sono alla Corte sento molto dentro di me e quello che io tendo a chiamare come
+
+35
+00:05:17,600 --> 00:05:26,720
+del rapporto tra la costituzione rigida e il potere politico che è una sorta di anguilla
+
+36
+00:05:26,720 --> 00:05:35,990
+che si muove nella vasca della costituzione e l'anguilla nel modo migliore secondo me
+
+37
+00:05:36,940 --> 00:05:46,640
+l'ha spiegata proprio Dieter da ex presidente della Treccani e mi fa piacere citarlo in
+
+38
+00:05:46,640 --> 00:05:54,940
+una sua voce politica e diritto che scrisse anni fa per l'enciclopedia delle scienze
+
+39
+00:05:54,940 --> 00:06:03,120
+sociali della Treccani ecco nella quale in poche pagine racconta tutta la vicenda storica
+
+40
+00:06:03,120 --> 00:06:15,650
+del rapporto tra politica e diritto sintetizzo la sua sintesi prima dell'affrancamento dello
+
+41
+00:06:15,650 --> 00:06:26,130
+fatto dalla legittimazione superiore la politica asserisce almeno di essere subordinata al
+
+42
+00:06:26,690 --> 00:06:36,510
+diritto, il diritto lui scrive è oggetto di conoscenza non di produzione da parte degli
+
+43
+00:06:36,510 --> 00:06:48,070
+politici i quali hanno il compito di tutelarlo non di crearlo così che ogni riforma è in realtà
+
+44
+00:06:48,070 --> 00:07:00,390
+l'accertamento del diritto come era e risale perciò ad una normativa persistente l'autolegittimazione
+
+45
+00:07:00,390 --> 00:07:09,790
+dello stato la scoperta della sovranità il superiore non-recognoscence che tale è non
+
+46
+00:07:09,790 --> 00:07:18,990
+soltanto nei rapporti esterni ma anche nella produzione normativa è un potere politico
+
+47
+00:07:18,990 --> 00:07:26,870
+svincolato che è al di sopra del diritto perché lo produce le rivoluzioni di fine
+
+48
+00:07:26,870 --> 00:07:35,930
+1700 creano l'anguilla perché vogliono ingabbiare il potere politico lo vogliono
+
+49
+00:07:35,930 --> 00:07:46,030
+vincolare ma una volta che se ne impadroniscono coloro che vogliono vincolarlo vogliono anche
+
+50
+00:07:46,030 --> 00:07:58,450
+che continui ad essere libero questo dilemma diventa la costituzione è la costituzione
+
+51
+00:07:58,450 --> 00:08:07,930
+che stabilisce i vincoli ma la costituzione non può fare a meno di prendere atto e lo
+
+52
+00:08:07,930 --> 00:08:15,710
+scriveremo tutti nei nostri libri che il potere politico anche con costituzione rigida è
+
+53
+00:08:15,710 --> 00:08:26,090
+libero nel fine che è l'anguilla che conserva le sue caratteristiche originarie questo genera
+
+54
+00:08:26,090 --> 00:08:35,850
+tutta una vicenda che noi cerchiamo di confinare nello spazio dell'organizzazione costituzionale
+
+55
+00:08:35,850 --> 00:08:44,810
+all'interno della quale ci sono dei punti non valicabili ma ci sono degli spazi che
+
+56
+00:08:44,810 --> 00:08:55,300
+lasciati all'autonomia del potere politico sull'altro versante quello delle libertà dei diritti
+
+57
+00:08:55,310 --> 00:09:14,790
+delle garanzie costituzionali per i cittadini c'è questo c'è l'uso dei concetti indeterminati c'è
+
+58
+00:09:15,790 --> 00:09:26,600
+antitrust hanno modo di frequentare più di altri il quale nel suo celebre scritto del 60 sui costi
+
+59
+00:09:28,870 --> 00:09:36,880
+sottolinea un qualcosa che tocca i giuristi sarebbe stato per i giuristi identificare la
+
+60
+00:09:36,880 --> 00:09:45,300
+naturale incompletezza dei diritti così come possono essere regolati dalle leggi ma ancor
+
+61
+00:09:45,300 --> 00:09:53,100
+più dalle stesse costituzioni perché i diritti acquistano i loro contenuti nei contesti in cui
+
+62
+00:09:53,100 --> 00:10:02,000
+vengono esercitati perché se non fosse così sarebbe impensabile che potessero accadere usi
+
+63
+00:10:02,520 --> 00:10:10,740
+dei medesimi diritti perché ciascuno dovrebbe arrivare ad un confine in cui non tocca altro
+
+64
+00:10:10,740 --> 00:10:20,140
+invece non è così perché i diritti evolvono in effetti e i contesti li fanno evolvere ed
+
+65
+00:10:20,140 --> 00:10:31,980
+ecco allora il problema il rapporto tra elasticità revisione rigidità è un rapporto che si
+
+66
+00:10:31,980 --> 00:10:40,940
+gioca su questi terreni ed è un rapporto in cui si trovano davanti i parlamenti e gli organi di
+
+67
+00:10:40,940 --> 00:10:52,840
+giurisdizione costituzionale che affrontano insieme le stesse domande c'è un istituto che per la
+
+68
+00:10:52,840 --> 00:10:59,980
+verità in altri paesi ha cessato di esistere ma che in italia ancora c'è che chiamiamo autodichia
+
+69
+00:11:02,380 --> 00:11:10,760
+è legittimo che ci sia l'autodichia ammesso che sia legittimo fino a qual punto può arrivare
+
+70
+00:11:13,740 --> 00:11:24,320
+questo è proprio il dominio dell'anguilla come l'autodichia è ciò che è per la politica ciò
+
+71
+00:11:24,320 --> 00:11:32,840
+per l'anguilla e la laguna di orbitello proprio ci si muove dentro è il suo spazio ma non c'è
+
+72
+00:11:32,840 --> 00:11:45,920
+solo questo l'immunità parlamentare dove arriva chi stabilisce dove arriva un giorno arriverà la
+
+73
+00:11:45,920 --> 00:12:01,520
+il maxi emendamento con fiducia va bene così potrebbe aver bisogno di una revisione costituzionale
+
+74
+00:12:02,860 --> 00:12:12,300
+potrebbe essere dichiarato illegittimo sulla base della costituzione vigente e non entro negli
+
+75
+00:12:12,300 --> 00:12:20,300
+campi ma quando noi ci troviamo alle prese con questioni delicate attinenti a diritti
+
+76
+00:12:20,300 --> 00:12:31,800
+libertà gli omosessuali appunto che la corte suprema americana ha così risolto avremo anche
+
+77
+00:12:31,800 --> 00:12:45,320
+questo problema paolo ha avuto a che fare con i rapporti tra le madri che hanno optato per
+
+78
+00:12:45,320 --> 00:12:55,960
+l'anonimato e i figli alla ricerca di identità la domanda che è quella che mi sento dentro anche
+
+79
+00:12:55,960 --> 00:13:09,320
+perché io sono arrivato alla corte venendo da qua e quindi ciò dentro l'anguilla che criteri
+
+80
+00:13:09,320 --> 00:13:19,100
+usiamo noi per far valere che cosa per far valere l'elasticità della costituzione rispettando nella
+
+81
+00:13:19,740 --> 00:13:35,520
+cioè ciò che essa definisce in modo invalidabile ciò che ciò che lascia ecco noi abbiamo una serie
+
+82
+00:13:35,520 --> 00:13:44,660
+di strumenti il primo ce lo insegnò vezio crisafulli quando arrivò alla corte si accorse
+
+83
+00:13:44,660 --> 00:13:56,240
+delle rime obbligate e vabbè e lì ci andiamo tranquilli quando data una questione risolta
+
+84
+00:13:56,240 --> 00:14:07,220
+nel modo b dal legislatore emerge nitidamente che la costituzione offre un modo e un modo solo di
+
+85
+00:14:07,580 --> 00:14:16,900
+ed è il modo a qui non è problema neanche di elasticità qui noi possiamo dire al potere
+
+86
+00:14:16,900 --> 00:14:28,200
+politico hai sbagliato senza alcuna incertezza il caso classico che tutti conoscete è quello
+
+87
+00:14:28,200 --> 00:14:35,360
+del vecchio codice di procedura penale che aveva il giudice istruttore che poteva compiere atti
+
+88
+00:14:35,360 --> 00:14:47,360
+senza la presenza del difensore e l'articolo 24 a rime obbligate impone invece la presenza
+
+89
+00:14:47,360 --> 00:14:55,340
+del difensore in ogni stadio e grado del procedimento punto noi abbiamo la manifesta
+
+90
+00:14:57,480 --> 00:15:06,560
+irraggionevolezza che è un argomento quasi opposto ma che pensateci bene se una soluzione
+
+91
+00:15:07,040 --> 00:15:17,980
+è manifestamente irraggionevole è semplicemente sbagliata non è che potremmo dire tu così non
+
+92
+00:15:17,980 --> 00:15:29,340
+puoi adottare se rivedi la costituzione la puoi adottare notiamo che questa opzione così non
+
+93
+00:15:29,340 --> 00:15:36,740
+lo puoi fare cambia la costituzione se vuoi è l'opzione del consiglio costituzionale francese
+
+94
+00:15:36,740 --> 00:15:45,840
+che avendo il controllo preventivo fa esattamente questo gioco da noi non usa perché è successivo
+
+95
+00:15:45,840 --> 00:15:53,080
+controllo ma può emergere dalla motivazione quando la motivazione usa la manifesta irraggionevolezza
+
+96
+00:15:53,080 --> 00:15:59,420
+sarebbe manifestamente irraggionevole suggerire al legislatore di cambiare la costituzione per
+
+97
+00:15:59,420 --> 00:16:07,140
+adottare una soluzione per rendere vincolante una soluzione manifestamente irraggionevole il
+
+98
+00:16:08,700 --> 00:16:16,480
+vero problema il vero problema sorge quando dobbiamo fare dei bilanciamenti ed è il caso
+
+99
+00:16:16,480 --> 00:16:33,880
+più frequente perché a quel punto ed è appunto il caso più frequente noi dovremmo decidere
+
+100
+00:16:33,880 --> 00:16:41,860
+l'autodichia in sede di conflitto di attribuzioni perché la corte ha deciso che i regolamenti
+
+101
+00:16:41,860 --> 00:16:50,320
+parlamentari rimangono tra le fonti non sindacabili ex articolo 134 ma in sede di conflitto ci sarà
+
+102
+00:16:50,320 --> 00:17:02,120
+un bilanciamento qui la questione riguarda la regolazione dei lavori parlamentari in aula
+
+103
+00:17:03,500 --> 00:17:13,780
+lì la questione riguarda una controversia su un pagamento su cui non c'è certezza dell'acqua
+
+104
+00:17:13,780 --> 00:17:22,940
+ferrarelle fornita alla camera dalla ditta fulcolancere società responsabilità illimitata
+
+105
+00:17:28,420 --> 00:17:41,160
+allora qui si pesa si pesano le ragioni dell'anguilla possono arrivare fino alla ferrarelle o no questa
+
+106
+00:17:41,160 --> 00:17:50,340
+diventa la domanda ma è un bilanciamento come è un bilanciamento quello che viene fatto quando
+
+107
+00:17:50,340 --> 00:17:59,720
+si decide di ammettere alla fecondazione eterologa qualcuno fino a che punto si può
+
+108
+00:17:59,720 --> 00:18:10,020
+arrivare nell'ammettere la fecondazione eterologa la corte esplicitamente ha detto fino ai limiti
+
+109
+00:18:10,020 --> 00:18:21,000
+quella medesima coppia che essendo sterile non ha potuto però avvalersi della fecondazione
+
+110
+00:18:21,000 --> 00:18:31,240
+omologa allora può avvalersi anche dell'eterologa e altri no è un bilanciamento questo tra diritto
+
+111
+00:18:32,760 --> 00:18:43,340
+la corte ha anche detto diritto all'autodeterminazione sui sull'aver figli devo confessare visto che
+
+112
+00:18:43,340 --> 00:18:51,040
+non ce la dissente l'opinione che non tutti eravamo d'accordo su questa parte della motivazione però
+
+113
+00:18:51,040 --> 00:19:02,360
+per farmi capire che è un bilanciamento insomma e in qualche modo anche una vicenda come quella
+
+114
+00:19:02,360 --> 00:19:10,080
+del maxi emendamento con fiducia il giorno che qualcuno la portasse sarebbe bilanciamento qui
+
+115
+00:19:11,140 --> 00:19:20,800
+nel caso dell'eterologa tra diritti diversi nel caso dell'autodichia e del maxi emendamento tra
+
+116
+00:19:21,740 --> 00:19:25,000
+ciò che scrive la costituzione e l'anguilla
+
+117
+00:19:27,260 --> 00:19:39,540
+cambia o no la forma di governo maxi emendamento ecco che cosa salta fuori e ho finito dalla
+
+118
+00:19:39,540 --> 00:19:50,040
+giurisprudenza della corte anche dalla dottrina l'avete sentito beh si dice qui c'è un principio
+
+119
+00:19:50,040 --> 00:20:08,440
+supremo e l'inno ma egote baptizzo principio supremo c'è una tradizione sviluppata anche
+
+120
+00:20:08,440 --> 00:20:19,060
+nella dottrina a proposito della grungesetze che gerarchizza principi e valori costituzionali
+
+121
+00:20:19,060 --> 00:20:33,760
+da noi questo è meno sviluppato ed è in realtà un ips ed exit della corte quello che porta a
+
+122
+00:20:33,760 --> 00:20:43,900
+questa cosa qua ci dovremmo lavorare di più perché di questo c'è realmente bisogno perché
+
+123
+00:20:43,900 --> 00:20:52,740
+io ci sono dei momenti stando alla corte in cui mi sento come mi metteva mia madre quando
+
+124
+00:20:52,740 --> 00:21:00,620
+dopo aver lucidato i pavimenti io arrivavo in casa e diceva mettiti pattini che erano dei
+
+125
+00:21:00,620 --> 00:21:06,980
+filtri che io dovevo camminare sui pattini e avevo sempre paura di cadere in realtà quanto
+
+126
+00:21:06,980 --> 00:21:14,460
+più era lustro il pavimento ecco io mi sento un po in quella condizione mi conforta mortati
+
+127
+00:21:15,040 --> 00:21:26,660
+che aveva delle certezze su questo ed era assolutamente convinto che intanto l'articolo
+
+128
+00:21:26,660 --> 00:21:35,500
+2 e questa è una vicenda sulla quale alessandro pace dio manifestammo idee profondamente diverse
+
+129
+00:21:35,800 --> 00:21:51,020
+a quel tempo in realtà riconosce dei diretti fondati su principi super positivi che è compito
+
+130
+00:21:51,020 --> 00:22:05,200
+dell'interprete esplicitare è il diritto della prima fase storica di cui parlava Dieter il diritto
+
+131
+00:22:05,200 --> 00:22:17,840
+che la politica non produce ma fa osservare e lui diceva è stato detto con profonda comprensione
+
+132
+00:22:17,840 --> 00:22:24,900
+del compito del controllo giudiziario di costituzionalità delle leggi che quando
+
+133
+00:22:24,900 --> 00:22:39,260
+sia bene adempiuto rende vana almeno nella maggior parte dei casi la revisione costituzionale
+
+134
+00:22:39,260 --> 00:22:49,860
+è un'affermazione molto impegnativa questa e anche qui in termini macro è un problema
+
+135
+00:22:49,860 --> 00:22:58,880
+di bilanciamento quanto tocca e quanto può fare l'interpretazione a che punto arriva
+
+136
+00:22:58,880 --> 00:23:19,840
+la revisione è un confine cruciale nella nostra vita costituzionale ma non riusciamo mai a
+
+137
+00:23:19,840 --> 00:23:27,640
+grazie a Giuliana Omato anche per il rispetto scrupoloso dei venti minuti
+
+138
+00:23:29,480 --> 00:23:37,880
+no e sei tu che sei andato contro una regola affermata all'inizio di guerra la corte costituzionale
+
+139
+00:23:38,760 --> 00:23:48,020
+italiana ha dichiarato illegittima questa legge perché contraria ad un principio supremo del
+
+140
+00:23:48,020 --> 00:23:58,880
+nostro ordinamento ipotizziamo che il parlamento indotto dai suoi rapporti internazionali con
+
+141
+00:23:58,880 --> 00:24:07,480
+legge costituzionale riproponga l'obbligo di osservare quella sentenza sarebbe stato
+
+142
+00:24:07,480 --> 00:24:15,640
+nei limiti della revisione oppure avendo la corte detto che è un principio supremo questa
+
+143
+00:24:15,640 --> 00:24:27,280
+revisione sarebbe illegittima vedete i problemi si affollano ed è un peccato che il tempo così
+
+144
+00:24:27,640 --> 00:24:36,480
+poco di questa mattinata ci costringa a delle limitazioni il problema posto da omato è un
+
+145
+00:24:36,480 --> 00:24:45,620
+problema grosso bene non possiamo risolverlo quindi grazie al collega grim la parola a
+
+146
+00:24:46,420 --> 00:24:56,120
+alessandro pace con la preghiera ecco proprio affettuosa di rimanere possibilmente nei limiti
+
+147
+00:24:56,120 --> 00:24:58,000
+dei venti minuti perché si
+
