@@ -3095,3 +3095,7 @@ berlusconi  2026-07-14 11:08:40.732938  https://www.radioradicale.it/scheda/4063
 berlusconi  2026-07-14 11:08:42.346342  https://www.radioradicale.it/scheda/31440/berlusconi-querela-lespresso-per-due-articoli-del-1987-riguardanti-pubblicita-dati?i=2650832  ValueError: No timestamps
 berlusconi  2026-07-14 11:08:43.896353  https://www.radioradicale.it/scheda/522653/stati-generali-di-forza-italia-diretta-dellintervento-conclusivo-di-silvio-berlusconi?i=3766005  ValueError: No timestamps
 berlusconi  2026-07-14 11:28:22.429235  https://www.radioradicale.it/scheda/409724/presentazione-dei-candidati-di-forza-italia-nella-circoscrizione-nord-ovest-alle?i=208514  ValueError: No timestamps
+berlusconi  2026-07-14 12:15:04.117865  https://www.radioradicale.it/scheda/275830/1deg-congresso-nazionale-del-popolo-della-liberta-terza-e-conclusiva-giornata?i=699550  ValueError: No timestamps
+berlusconi  2026-07-14 12:15:06.192090  https://www.radioradicale.it/scheda/275828/1deg-congresso-nazionale-del-popolo-della-liberta-prima-giornata?i=699839  ValueError: No timestamps
+berlusconi  2026-07-14 12:15:08.395194  https://www.radioradicale.it/scheda/251983/incontro-con-i-giornalisti-al-termine-del-vertice-del-popolo-della-liberta?i=1043427  ValueError: No timestamps
+berlusconi  2026-07-14 12:15:13.000150  https://www.radioradicale.it/scheda/251306/elezioni-politiche-2008-incontro-con-i-giornalisti-di-silvio-berlusconi-sul-programma?i=1045064  ValueError: No timestamps
