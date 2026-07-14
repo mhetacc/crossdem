@@ -1,0 +1,568 @@
+1
+00:00:00,000 --> 00:00:06,840
+un livello molto lontano. Teniamo conto che i nostri dati di spesa pubblica, quelli che
+
+2
+00:00:06,840 --> 00:00:12,720
+si vengono qui citati, risalgono in via definitiva almeno a tre anni prima. Noi non abbiamo un
+
+3
+00:00:13,420 --> 00:00:18,980
+quadro, non dico completo ma approssimato, con aggiustamenti che spesso sono di livello
+
+4
+00:00:18,980 --> 00:00:25,660
+molto elevato. Allora anche questo porta poi a scoprire dopo deficit sommersi al capitale
+
+5
+00:00:25,660 --> 00:00:33,080
+con alcune regioni in materia sanitaria ed altro di dimensioni non irrilevanti. Vengono
+
+6
+00:00:33,080 --> 00:00:40,820
+indicati alcuni passi che pure si possono fare. Questo se lo facciamo per singole voci
+
+7
+00:00:40,820 --> 00:00:45,880
+di spesa, è stato accennato le spese per acquisto di beni e servizi, le spese per retribuzioni
+
+8
+00:00:45,880 --> 00:00:52,500
+pubbliche ad alcune forme di trasferimento, diventa molto importante, diventa ancora più
+
+9
+00:00:52,500 --> 00:00:57,460
+importante, se anziché guardare l'andamento del rapporto spese pubbliche, sia pure per
+
+10
+00:00:57,460 --> 00:01:03,380
+singole voci PIL, guardiamo l'andamento delle singole voci di spesa rispetto all'anno precedente
+
+11
+00:01:03,380 --> 00:01:10,500
+in termini reali. Qui veniamo a scoprire che purtroppo c'è una regola che sembra risultare
+
+12
+00:01:10,500 --> 00:01:17,700
+dai dati, non è facile da spiegare. La spesa primaria corrente, a netto degli interessi,
+
+13
+00:01:17,700 --> 00:01:24,820
+cresce inevitabilmente ogni anno intorno a 2% in media. Uno può comprimerla per alcuni
+
+14
+00:01:24,820 --> 00:01:28,760
+anni come si è fatta, non so se per virtù della consip o altro per la spesa di acquisto
+
+15
+00:01:28,760 --> 00:01:33,840
+di beni e servizi, per alcuni anni è cresciuta meno dell'inflazione e dopo ha ripreso in
+
+16
+00:01:33,840 --> 00:01:40,200
+termini reali, se uno misura almeno da 1995 ad oggi per i quasi giornali dei dati, cresce
+
+17
+00:01:40,200 --> 00:01:51,620
+in media intorno a 2%. Qui c'è il problema di riforma elettorale che tengo. Allora andare
+
+18
+00:01:51,620 --> 00:01:58,820
+a vedere un po' questo, quindi la conoscibilità e la prevedibilità, cioè le spiegazioni dell'andamento
+
+19
+00:01:58,820 --> 00:02:03,980
+reale della spesa. È chiaro che in termini di PIL dipende se in un anno si cresce o non
+
+20
+00:02:03,980 --> 00:02:08,880
+si cresce, quindi è chiaro che cresce di più negli anni in termini di PIL quando in
+
+21
+00:02:08,880 --> 00:02:15,200
+PIL cresce meno e sembra crescere meno quando in PIL cresce di più. Però se uno guarda
+
+22
+00:02:15,200 --> 00:02:21,000
+i dati dell'incremento della spesa in termini reali può trovare appunto, porsi il problema
+
+23
+00:02:21,000 --> 00:02:30,140
+di questo aiuterebbe anche nella prevedibilità, esercizio che non si fa normalmente. Il settore
+
+24
+00:02:30,140 --> 00:02:35,180
+della sanità e della previdenza è un settore particolarmente importante, soprattutto a
+
+25
+00:02:35,180 --> 00:02:43,200
+medio termine, perché lì la previsione ovviamente dipende dall'ipotesi non solo dall'andamento
+
+26
+00:02:43,200 --> 00:02:48,220
+demografico ma dall'ipotesi di morbidità, tutte quelle spese che sono spese cosiddette
+
+27
+00:02:48,220 --> 00:02:54,020
+di entitlements. Allora capire un poco come effettivamente si muovono queste voci di spesa
+
+28
+00:02:54,020 --> 00:03:01,380
+in termini di crescita reale secondo me può aiutare la prevedibilità e quindi le sorprese
+
+29
+00:03:01,380 --> 00:03:06,040
+non sempre positive. Quindi migliorare la prevedibilità anche facendone si di questo
+
+30
+00:03:06,040 --> 00:03:12,400
+tipo. La controllabilità, e qui veniamo al problema della controllabilità un po' all'italiana,
+
+31
+00:03:12,840 --> 00:03:18,520
+un'applicazione che si è provata a fare dal 99 è quella di controllare la spesa oltre
+
+32
+00:03:18,520 --> 00:03:25,600
+che con Gordon Brown all'italiana, diciamo regole di questo tipo, quindi con le creti
+
+33
+00:03:25,600 --> 00:03:31,700
+tagliaspese di varia natura per quanto riguarda gli enti locali con il patto di stabilità
+
+34
+00:03:32,720 --> 00:03:40,480
+interno. Allora anche qui io sfido chiunque a riuscire a comprendere chiaramente il contenuto
+
+35
+00:03:40,480 --> 00:03:46,300
+del patto di stabilità interno, sanvo qualche ragioniere speciale di qualche comune e forse
+
+36
+00:03:46,300 --> 00:03:53,020
+anche il funzionario del ministero dell'interno che si occupa di finanza locale, e quello
+
+37
+00:03:53,020 --> 00:03:59,180
+che comporta, tutto questo viene votato nella finanziaria senza alcuna discussione mi risulta,
+
+38
+00:04:00,200 --> 00:04:07,000
+senza alcuna valutazione esatta di quello che può avere effetto. Anche qui, rivedere
+
+39
+00:04:07,000 --> 00:04:16,280
+i meccanismi di controllabilità in maniera un po' più ragionevole e meno diciamo, non
+
+40
+00:04:16,280 --> 00:04:21,500
+è più possibile spesso di capire, a parte questo è cambiato ogni anno il contenuto,
+
+41
+00:04:22,280 --> 00:04:27,100
+quindi già orientarsi in questo, dare un po' di stabilità ai meccanismi di controllabilità
+
+42
+00:04:27,100 --> 00:04:33,160
+e soprattutto poi di che succede se non vengono rispettati quegli impegni e quindi i meccanismi
+
+43
+00:04:33,160 --> 00:04:40,200
+di stanzione anche lì sono indicati ma sono credo non facilmente applicabili. Ultimo
+
+44
+00:04:40,200 --> 00:04:45,460
+punto sul quale insiste molto Franco Reviglia è quello della valutabilità della spesa
+
+45
+00:04:45,460 --> 00:04:51,960
+pubblica, efficienza in efficienza. Certo, gli studi di Vitotanzi ed altri, Schuchnett
+
+46
+00:04:51,960 --> 00:04:59,680
+ed altri hanno dato una misura di efficienza in termini di alcuni obiettivi, calcolandole
+
+47
+00:04:59,680 --> 00:05:03,760
+gli indicatori, dico ormai non si va anche per la crescita economica con l'indice di
+
+48
+00:05:03,760 --> 00:05:09,260
+sviluppo umano, quindi anche lì gli indicatori. Adesso si stanno tentando, si sono avviati
+
+49
+00:05:09,260 --> 00:05:13,860
+tentativi di fare valutazione della spesa per valutazione di programmi o con la spendig
+
+50
+00:05:13,860 --> 00:05:19,400
+review in altri settori, anche qua è un po' all'italiana rispetto alle spendig review
+
+51
+00:05:19,400 --> 00:05:25,520
+per esempio del Reine Unito, per i settori che conosco di sanità e trasporto in particolare
+
+52
+00:05:25,520 --> 00:05:38,300
+e però anche qui la valutabilità richiede che quelli obiettivi siano assunti da qualcuno
+
+53
+00:05:38,300 --> 00:05:43,720
+e il mancato rispetto o un diverso livello di realizzazione degli obiettivi prevede
+
+54
+00:05:43,720 --> 00:05:51,460
+a meccanismi di incentivi e disincentivi, altrimenti diventano dei volumi che forse
+
+55
+00:05:51,460 --> 00:05:59,120
+pochi vanno a leggere. Anche qui sulla valutabilità su cui insiste molto Franco Reviglio, credo
+
+56
+00:05:59,120 --> 00:06:06,740
+che sia un passaggio essenziale perché siccome le prospettive di contenimento di spesa,
+
+57
+00:06:06,740 --> 00:06:14,080
+anche di questo meccanismo un po' automatico di crescita che andiamo a riscontrare, rendono
+
+58
+00:06:14,080 --> 00:06:21,600
+necessario impiegare meglio le risorse, capire un po' quali sono gli incentivi a parte le
+
+59
+00:06:21,600 --> 00:06:28,400
+tecniche di valutazione, di misura dell'efficienza e quindi rispetto a quali obiettivi in questi
+
+60
+00:06:28,400 --> 00:06:33,120
+programmi o missioni che sono contenute nel bilancio, una migliore definizione e soprattutto
+
+61
+00:06:33,120 --> 00:06:39,440
+capire appunto i meccanismi di responsabilizzazione, che molto quello su cui insiste. Anche lì
+
+62
+00:06:39,440 --> 00:06:46,040
+discutere di federalismo fiscale, di responsabilizzazione è importante e poi bisogna vedere appunto
+
+63
+00:06:46,040 --> 00:06:56,360
+in che cosa, come si misura e come si premia o meno la responsabilizzazione dei responsabili.
+
+64
+00:06:57,960 --> 00:07:07,840
+Grazie R. Pedone. Abbiamo lasciato per ultimo il Ministro Amato anche perché gli argomenti
+
+65
+00:07:07,840 --> 00:07:13,900
+che abbiamo trattato fino a questo momento lo hanno visto protagonista o testimone diretto
+
+66
+00:07:13,900 --> 00:07:21,920
+negli ultimi 15 anni della vita politico-economica del Paese. Prima di darle la parola Ministro
+
+67
+00:07:21,920 --> 00:07:29,700
+mi permetta di fare il giornalista e di approfittare della sua presenza chiedendole se lei potesse
+
+68
+00:07:30,860 --> 00:07:36,960
+in piena autonomia e da solo decidere la riforma elettorale quale sistema lei sceglierebbe.
+
+69
+00:07:38,800 --> 00:07:45,320
+Nessuno di quelli esistenti, non prendo mai nulla a scatola chiusa e quindi farei un sistema
+
+70
+00:07:45,320 --> 00:07:52,700
+elettorale. Lo considerereste dopo la sua approvazione italiano perché penso che lo
+
+71
+00:07:52,700 --> 00:08:06,280
+farei per l'Italia. La premessa è che io ho sempre odiato le scelte fondate su modelli
+
+72
+00:08:06,760 --> 00:08:14,780
+e ho scritto più volte che i modelli sono il santo graal dei poveri di spirito e mantengo
+
+73
+00:08:14,780 --> 00:08:25,420
+questa posizione aristocraticamente intollerante perché non esistono i modelli, esistono sistemi
+
+74
+00:08:25,420 --> 00:08:34,780
+che sono diversi in tempi diversi. Pensi che oggi se uno propone il sistema tedesco con
+
+75
+00:08:36,000 --> 00:08:43,880
+la ripartita trasformazione dei voti in seggi fatte col metodo don't, arriva uno che dice
+
+76
+00:08:43,880 --> 00:08:52,740
+ma non è il tedesco, era il tedesco del 49, allora diventa come i vini, soltanto il brunello
+
+77
+00:08:52,740 --> 00:08:59,880
+2002 si può bere, se fosse quello 2001 non è più tedesco. Voglio dire sono bischerate
+
+78
+00:08:59,880 --> 00:09:06,160
+queste dei modelli, questa è la mia personale opinione. Detto questo che la lascia giustamente
+
+79
+00:09:06,160 --> 00:09:16,080
+insoddisfatto, ci ha provato e quindi io eluso. Su questa faccenda mi ha colpito che
+
+80
+00:09:16,080 --> 00:09:23,440
+c'è un tema che Franco tratta che nessuno di voi ha ripreso e che secondo me è determinante
+
+81
+00:09:23,440 --> 00:09:31,940
+per il nostro futuro e che è la inesorabile e crescente voglia di pagare meno tasse che
+
+82
+00:09:31,940 --> 00:09:39,760
+si va diffondendo in tutti gli strati sociali e lui lo segnala proprio in questi termini. Del resto
+
+83
+00:09:40,540 --> 00:09:49,560
+ormai a protestare per le tasse sono più Lama e Bonanni che non Sangalli e Montezemolo, il che
+
+84
+00:09:49,560 --> 00:09:57,700
+è a dir poco una novità, cioè non è che stanno dicendo fregate sempre noi lavoratori dipendenti
+
+85
+00:09:57,700 --> 00:10:06,760
+degli autonomi eccetera che questa la conosciamo da decenni. E' proprio meno tasse, è uno dei
+
+86
+00:10:06,760 --> 00:10:14,700
+grandi effetti della globalizzazione come è noto che ha fatto sì che ormai anche l'ultimo dei
+
+87
+00:10:15,900 --> 00:10:25,360
+contribuenti abbia capito che in ciascun paese le tasse in realtà riguardano fondamentalmente
+
+88
+00:10:25,360 --> 00:10:34,220
+coloro che sono immobilizzati in quel paese e non sono in grado di trasferire il proprio contratto
+
+89
+00:10:34,220 --> 00:10:39,600
+di lavoro su una società lussemburghese perché oddio, ora andiamo a vedere se con tutte queste
+
+90
+00:10:39,600 --> 00:10:45,700
+forme di flessibilizzazione del lavoro questa finirebbe per essere accettata l'idea che uno
+
+91
+00:10:45,700 --> 00:10:53,580
+possa fare un leasing di se stesso attraverso una società lussemburghese e non pagare le tasse
+
+92
+00:10:54,220 --> 00:11:06,600
+questo problema porta alla come alimentare la spesa pubblica, ecco è stato toccato indirettamente
+
+93
+00:11:07,140 --> 00:11:17,560
+quando si è detto solo attraverso entrate fiscale o attraverso entrate in genere i vi comprese altre
+
+94
+00:11:18,440 --> 00:11:28,880
+ma questo è un tema che deve essere affrontato perché noi ci possiamo trovare davanti a così
+
+95
+00:11:28,880 --> 00:11:36,620
+un livello difficilmente comprimibile di spesa pubblica a cui possa non corrispondere un pari
+
+96
+00:11:36,620 --> 00:11:43,240
+livello di entrate fiscali che finché c'è il cuscinetto dell'evasione in Italia,
+
+97
+00:11:43,240 --> 00:11:55,800
+quello è un cuscinetto che sembra particolarmente denso di succo, però se si dovesse arrivare a
+
+98
+00:11:55,800 --> 00:12:06,740
+riduzioni meriterebbe affrontare temi che noi non affrontiamo mai del tipo che solo i conservatori
+
+99
+00:12:06,740 --> 00:12:14,400
+hanno il coraggio di dirlo, dice ma perché non trasferiamo tutto sul imposto di consumo che è
+
+100
+00:12:14,400 --> 00:12:27,740
+una vecchia tesi in fondo, mi ha colpito per dire che anche Gifferovstad sostiene questa tesi,
+
+101
+00:12:27,940 --> 00:12:35,660
+appunto è una tesi assolutamente terodossa pone mille problemi ma non voglio rasposare nessuna di
+
+102
+00:12:35,660 --> 00:12:43,200
+sto semplicemente dicendo che Franco ha sollevato un problema che a mio avviso sarà sempre più
+
+103
+00:12:43,200 --> 00:12:53,020
+centrale e che comporta che si vada a guardare dentro il modo di riorganizzare il sistema fiscale.
+
+104
+00:12:54,700 --> 00:13:08,520
+La seconda questione generale è quella che dipende che, per fare una citazione bibliografica,
+
+105
+00:13:08,680 --> 00:13:16,900
+ma la faccio male perché non mi ricordo più come si chiama, è quella che solleva quel tedesco
+
+106
+00:13:17,680 --> 00:13:25,700
+autore del primo articolo dell'ultimo numero di Stato e Mercato per chi l'ha letto. Prendasi
+
+107
+00:13:25,700 --> 00:13:31,860
+l'ultimo numero di Stato e Mercato, leggasi il primo articolo a un autore di cui non ricordo
+
+108
+00:13:31,860 --> 00:13:42,140
+il nome che comincia per S, il quale analizzando gli andamenti di bilancio dei paesi europei con
+
+109
+00:13:42,140 --> 00:13:51,160
+debito, partendo dalla Germania che pure ha un debito totale non particolarmente clamoroso,
+
+110
+00:13:51,400 --> 00:13:58,740
+ma insomma è sempre intorno al 60, sostiene la seguente tesi, dove c'è il debito pubblico le
+
+111
+00:13:58,740 --> 00:14:06,620
+politiche pubbliche sono chiacchiere e non fatti perché in realtà in ragione dell'esistenza del
+
+112
+00:14:06,620 --> 00:14:15,800
+debito e del vincolo-patto di stabilità, le politiche attraverso le quali si potrebbe promuovere
+
+113
+00:14:15,800 --> 00:14:27,120
+crescita e quindi attivare un circolo virtuoso sono espresse in forme simboliche, a ciascuna viene
+
+114
+00:14:27,120 --> 00:14:36,660
+dato un chip di bilancio, ma in realtà non sono svolte. Se voi leggete il bilancio o la nostra
+
+115
+00:14:36,660 --> 00:14:43,900
+finanziaria, appunto le grandi voci che fanno sviluppo sono presenti con poche decine di milioni
+
+116
+00:14:43,900 --> 00:14:54,260
+in realtà, cioè simbolicamente, cioè quindi le politiche della crescita nella misura in cui esigono
+
+117
+00:14:54,260 --> 00:15:03,660
+risorse pubbliche e la ricerca esige una buona parte di la formazione, l'education, infrastrutture,
+
+118
+00:15:04,700 --> 00:15:11,200
+eccetera eccetera, in realtà non vengono fatte, vengono proclamate più che altro, vengono proclamate
+
+119
+00:15:11,200 --> 00:15:20,960
+e vengono poi strozzate nella tenaglia che sta tra lo stock del debito che esige di essere ripagato
+
+120
+00:15:20,960 --> 00:15:31,660
+e il patto di stabilità che non ti dà più di tanto. Ecco, questi sono due così, la voglia di pagare meno
+
+121
+00:15:31,660 --> 00:15:42,780
+tasse da una parte e questi vincoli tra i quali ci muoviamo portano ad un esito abbastanza lumaniano,
+
+122
+00:15:42,780 --> 00:15:52,420
+avremmo detto trent'anni fa insomma, cioè di politiche simboliche più che non di politiche reali.
+
+123
+00:15:56,540 --> 00:16:12,600
+Allora come si fa a ridurre la spesa che non corrisponde alle priorità e a trovare lo spazio
+
+124
+00:16:12,600 --> 00:16:31,900
+di tutte queste cose? Non c'è la ricetta unica e queste cose ridurre la spesa. Io sono tra i pochi ministri
+
+125
+00:16:31,900 --> 00:16:41,620
+che hanno aperto braccia aperte alla commissione di Muraro, infatti gli esempi vengono dall'interno,
+
+126
+00:16:42,820 --> 00:16:49,420
+però appunto non posso non constatare che loro stanno andando dritti dove si sbatte la testa,
+
+127
+00:16:51,160 --> 00:16:58,420
+perché lo so anch'io che le prefetture hanno un livello ottimale che supera di gran lunga il livello
+
+128
+00:16:58,420 --> 00:17:06,780
+delle province, però non sarà mai possibile avere prefetture che non coincidano con le province.
+
+129
+00:17:11,960 --> 00:17:20,880
+Per miriadi di ragioni, per le stesse ragioni per le quali non è mai accaduto che il livello
+
+130
+00:17:20,880 --> 00:17:28,400
+ottimale del riparto verticale delle funzioni di governo tra più livelli di governo abbia
+
+131
+00:17:28,400 --> 00:17:37,980
+coinciso con il riparto reale, non è mai accaduto, perché qui ci sono efficienze diverse come diceva
+
+132
+00:17:37,980 --> 00:17:47,220
+Mario Baldassari che entrano in campo e quindi la microchirurgia è particolarmente difficile,
+
+133
+00:17:48,400 --> 00:17:54,510
+a parte il fatto che in base a miei calcoli dell'anno scorso ma che voi potrete rivedere,
+
+134
+00:17:55,690 --> 00:18:04,910
+eliminare una provincia, eliminando sia gli uffici della provincia sia gli uffici della prefettura,
+
+135
+00:18:06,150 --> 00:18:11,690
+ci darebbe secondo i calcoli che avevamo fatto noi non più di una quindicina di milioni,
+
+136
+00:18:14,190 --> 00:18:23,010
+per cui eliminare 10 province che è già un risultato non marginale ce ne darebbe 150.
+
+137
+00:18:24,090 --> 00:18:31,490
+Quando noi paghiamo 70 miliardi circa di interessi che coincidono più o meno con
+
+138
+00:18:31,490 --> 00:18:40,370
+quello che spendiamo per il personale pubblico dello Stato centrale e spendiamo in aggregato
+
+139
+00:18:40,370 --> 00:18:48,370
+sui 140, andiamo a spendere di acquisti, beni e servizi di miliardi, io ogni volta mi domando,
+
+140
+00:18:48,370 --> 00:18:55,920
+facciamola la microchirurgia perché è fondamentale per evitare di cedere a
+
+141
+00:18:56,250 --> 00:19:05,210
+tutte le diseconomie derivante da sprechi, ma non coltiviamo l'aspettativa che lungo
+
+142
+00:19:05,210 --> 00:19:08,990
+questa strada realizziamo risparmi di spesa che siano simili.
+
