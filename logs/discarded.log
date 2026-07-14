@@ -3074,3 +3074,10 @@ berlusconi  2026-07-14 05:24:00.990848  https://www.radioradicale.it/scheda/9864
 berlusconi  2026-07-14 05:45:24.914261  https://www.radioradicale.it/scheda/101385/comizio-di-emiddio-novi-e-di-silvio-berlusconi-organizzato-in-occasione-della-campagna?i=1970006  ValueError: No timestamps
 berlusconi  2026-07-14 05:45:26.840483  https://www.radioradicale.it/scheda/102939/comizio-per-lelezione-a-senatore-di-giuliano-ferrara-nel-collegio-uninominale-toscana?i=1946427  ValueError: No timestamps
 berlusconi  2026-07-14 06:28:28.322371  https://www.radioradicale.it/scheda/88020/comizio-di-silvio-berlusconi-organizzato-da-forza-italia-presso-il-cinema-lux?i=2144818  ValueError: No timestamps
+berlusconi  2026-07-14 06:48:54.598047  https://www.radioradicale.it/scheda/88896/comizio-di-silvio-berlusconi-in-chiusura-della-campagna-elettorale-in-occasione-delle?i=2134964  ValueError: No timestamps
+berlusconi  2026-07-14 06:54:06.620518  https://www.radioradicale.it/scheda/85628/apertura-della-ii-festa-azzurra-regionale-org-da-forza-italia?i=2175494  ValueError: No timestamps
+berlusconi  2026-07-14 07:05:58.197330  https://www.radioradicale.it/scheda/84466/comizio-di-silvio-berlusconi-nel-corso-della-campagna-elettorale-per-le-elezioni-del-16?i=2188163  ValueError: No timestamps
+berlusconi  2026-07-14 07:05:59.750311  https://www.radioradicale.it/scheda/91069/comizio-di-silvio-berlusconi-nel-corso-della-campagna-elettorale-per-le-elezioni-del-16?i=2102090  ValueError: No timestamps
+berlusconi  2026-07-14 07:06:01.274124  https://www.radioradicale.it/scheda/84878/comizio-di-silvio-berlusconi-nel-corso-della-campagna-elettorale-per-le-elezioni-del-16?i=2185491  ValueError: No timestamps
+berlusconi  2026-07-14 07:06:03.216085  https://www.radioradicale.it/scheda/84463/comizio-di-silvio-berlusconi-durante-la-campagna-elettorale-per-le-elezioni-del-16?i=2188169  ValueError: No timestamps
+berlusconi  2026-07-14 07:06:05.060975  https://www.radioradicale.it/scheda/84439/comizio-di-silvio-berlusconi-nel-corso-della-campagna-elettorale-per-le-elezioni?i=2188306  ValueError: No timestamps
