@@ -1,0 +1,504 @@
+1
+00:00:17,940 --> 00:00:25,440
+Iniziamo, benvenuti a tutti, ringrazio tutti i partecipanti alla discussione sulla presentazione
+
+2
+00:00:25,440 --> 00:00:32,600
+del libro curato da Silvana Sciarra. Do immediatamente la parola al ministro Amato come primo relatore
+
+3
+00:00:32,600 --> 00:00:42,080
+perché ha poi più tardi degli impegni abbastanza evidenti e quindi è meglio non fargli perdere
+
+4
+00:00:42,080 --> 00:00:51,460
+tempo adesso. Grazie, non potevo mancare la presentazione
+
+5
+00:00:51,460 --> 00:01:00,020
+di questo libro. Primo per una vecchia amicizia e colleganza con Silvana che lo ha promosso,
+
+6
+00:01:00,260 --> 00:01:14,060
+coordinato e molto parmoniosamente scritto proprio. E poi perché su questo tema che
+
+7
+00:01:14,060 --> 00:01:23,560
+questo libro sviluppa in tanti capitoli, proprio in questa università avevamo fatto una discussione
+
+8
+00:01:23,560 --> 00:01:32,380
+l'anno scorso abbastanza vivace i cui termini sono ancora tutti presenti in questo libro.
+
+9
+00:01:32,380 --> 00:01:44,180
+Naturalmente io sono biased perché vengo dal mondo dell'antitrust e se qualcuno scrive che
+
+10
+00:01:44,180 --> 00:01:52,920
+l'antitrust è una cattiveria io mi metto sulle mie. Allo stesso tempo sono un vecchio socialista,
+
+11
+00:01:52,960 --> 00:02:00,480
+scusate se noto questo, e quindi l'idea di far triturare i diritti sociali dal cosiddetto
+
+12
+00:02:00,480 --> 00:02:10,640
+mercato mi pone problemi non minori di quella di vedere triturato l'antitrust. Non ho mai pensato
+
+13
+00:02:10,640 --> 00:02:18,180
+che antitrust e diritti sociali potessero essere posti in antitesi fra di loro, forse per assolvere
+
+14
+00:02:18,180 --> 00:02:30,460
+me stesso, per assolvere la mia doppia identità, perché trovandomi ad essere Dottor Jekyll e
+
+15
+00:02:30,460 --> 00:02:36,760
+non ho uno psicanalista, se l'avessi glielo chiederei, magari la sua opinione sarebbe
+
+16
+00:02:36,760 --> 00:02:46,920
+rilevante, ma questo io avevo sempre pensato, ben convinto che vi siano degli ambiti entro
+
+17
+00:02:46,920 --> 00:02:55,500
+i quali non è l'antitrust che regola gli operatori presenti perché non è un ambito di mercato quello
+
+18
+00:02:55,500 --> 00:03:03,320
+in cui questi operatori operano e che quindi l'antitrust ha una portata limitata, ma con riferimento
+
+19
+00:03:03,320 --> 00:03:11,100
+agli ambiti ai quali esso antitrust è applicabile e applicato non ho mai pensato che danneggiasse
+
+20
+00:03:11,740 --> 00:03:22,340
+qualche diritto meritevole di essere tutelato, al contrario, ho sempre pensato che servisse a
+
+21
+00:03:22,340 --> 00:03:33,000
+sentire usi, ad evitare abusi, a generare trasparenze, ad evitare collusioni e che
+
+22
+00:03:33,000 --> 00:03:41,020
+l'ambito del sociale sia un ambito che debba essere protetto da tutto questo, ho sempre ritenuto che
+
+23
+00:03:41,020 --> 00:03:49,020
+lo pensino coloro che ci campano sopra, più che non coloro che aspirano a vedere riconosciuti i
+
+24
+00:03:49,020 --> 00:03:59,500
+propri diritti sociali, ecco questo è sempre stato il mio atteggiamento. Ora, se posso permettermi di
+
+25
+00:03:59,500 --> 00:04:04,620
+parlare con una schiettezza che non mi è mancata in questi due minuti che ho usato finora a dirla
+
+26
+00:04:04,620 --> 00:04:10,800
+verità, quindi evidentemente ho intenzione di dire anche di peggio, fodarsi, non lo escludo ma
+
+27
+00:04:10,800 --> 00:04:20,480
+prendere o lasciare, c'è nei confronti appunto della concorrenza e dell'antitrust un pregiudizio
+
+28
+00:04:20,480 --> 00:04:30,800
+semplificante di ordine ideologico che lo assimila all'odiato mercato, che assimila tutto questo al
+
+29
+00:04:30,800 --> 00:04:38,540
+mercato che è il luogo nel quale i forti schiacciano i deboli, nel quale il capitale prevale sulla
+
+30
+00:04:38,540 --> 00:04:49,240
+persona, nel quale le regole sono esclusivamente quelle del maggior valore economico e non di altro.
+
+31
+00:04:50,280 --> 00:04:58,560
+Ritengo questo un pregiudizio ideologico, fondamentalmente è il contrario di bad
+
+32
+00:05:00,700 --> 00:05:12,460
+Lo stato ovunque è possibile il mercato soltanto dove è inevitabile, ma c'è ancora in molti di noi,
+
+33
+00:05:12,460 --> 00:05:21,020
+in molti di noi, forse la mia generazione è diventata un po' più revisionista, ma quando c'è
+
+34
+00:05:21,020 --> 00:05:28,120
+qualcosa che non va prendersela col mercato è francamente un modo per prendersela con qualcuno,
+
+35
+00:05:28,580 --> 00:05:42,640
+e quindi sentirsi in una condizione eticamente più pura, ma un po' ecco in questo libro ho trovato
+
+36
+00:05:42,640 --> 00:05:56,140
+una traccia di questo e ho trovato due cose ecco nel libro sulle quali voglio esprimere una
+
+37
+00:05:56,140 --> 00:06:07,040
+valutazione critica avendo precisato che si indaghi esattamente qual è lo spazio nell'ordinamento
+
+38
+00:06:07,040 --> 00:06:14,600
+comunitario dei diritti sociali, cosa la giurisprudenza è riuscita a mettere a fuoco,
+
+39
+00:06:15,080 --> 00:06:21,720
+è un esercizio assolutamente fondamentale perché qui siamo ai prolegomeni, ma questo è il primo
+
+40
+00:06:21,720 --> 00:06:28,920
+punto poi che va messo a fuoco, perché si deve dire che l'ordinamento comunitario si disinteressa
+
+41
+00:06:28,920 --> 00:06:38,260
+dei diritti sociali assumendone che lo fa perché è interessato solo alle abiezioni del mercato?
+
+42
+00:06:38,420 --> 00:06:48,600
+Non è così, cioè non c'è un problema di indifferenza dell'ordinamento, c'è un problema
+
+43
+00:06:48,600 --> 00:06:55,580
+di rivendicazione fermissima da parte degli Stati membri delle loro responsabilità e competenze
+
+44
+00:06:55,580 --> 00:07:02,180
+in materia sociale e questa è la ragione. Gli attori dell'ordinamento comunitario sono
+
+45
+00:07:02,180 --> 00:07:11,000
+gli stessi degli ordinamenti nazionali i quali hanno e hanno esercitato il potere di ripartire
+
+46
+00:07:11,000 --> 00:07:18,000
+le materie di intervento pubblico tra il livello comunitario e i propri livelli nazionali o
+
+47
+00:07:18,000 --> 00:07:29,560
+subnazionali e hanno deciso fino ad ora fermamente si trattasse di reggitori di destra o reggitori
+
+48
+00:07:29,560 --> 00:07:36,780
+di sinistra dei rispettivi paesi di tenersi il più possibile le competenze del sociale e di
+
+49
+00:07:36,780 --> 00:07:47,340
+limitare le competenze sociali della comunità a taluni aspetti cross borders che poi sono
+
+50
+00:07:47,340 --> 00:07:54,820
+quelli di cui si è occupata la giurisprudenza, molto spesso l'ottenibilità di una prestazione
+
+51
+00:07:54,820 --> 00:08:03,440
+sanitaria in un Paese diverso dal proprio. Ma qui è la stessa Corte, sentenza Cole e altre insomma,
+
+52
+00:08:04,000 --> 00:08:10,220
+che non può non farsi carico del fatto che i sistemi sanitari sono fondati su equilibri
+
+53
+00:08:10,220 --> 00:08:21,040
+finanziari tutti di indole domestica per cui c'è un limite strutturale alla possibilità di consentire
+
+54
+00:08:21,040 --> 00:08:29,720
+a ciascuno libertà di movimento sanitario. Siete liberi di girare per l'Europa possibilmente sani
+
+55
+00:08:29,720 --> 00:08:42,160
+perché se vi rompete sorge un problemino, è un pochettino così. Ovviamente per chi studia i
+
+56
+00:08:42,160 --> 00:08:50,000
+diritti sociali questo è un po' frustrante e allora fa bene a cercare di cogliere tutti
+
+57
+00:08:50,000 --> 00:09:00,160
+gli spunti che l'ordinamento comunitario offre e anche constatare i passi che si fanno. Il passo
+
+58
+00:09:00,160 --> 00:09:07,780
+fondamentale secondo me per ragioni culturali è avvenuto dopo Lisbona e questo giustamente viene
+
+59
+00:09:07,780 --> 00:09:15,380
+segnalato in alcuni bei capitoli che ci sono sulla crescita della nozione di servizio sociale come
+
+60
+00:09:15,380 --> 00:09:23,960
+nozione europea e non solo nazionale perché è a Lisbona che matura pian piano in ragione di una serie
+
+61
+00:09:23,960 --> 00:09:31,640
+di circostanze relativi alle nostre economie la consapevolezza che tra i servizi sociali e lo
+
+62
+00:09:31,640 --> 00:09:40,840
+sviluppo c'è una relazione direttamente positiva e non negativa. I diritti sociali come peso
+
+63
+00:09:40,840 --> 00:09:50,460
+sull'economia o i diritti sociali come fattore tra gli altri di uno sviluppo ulteriore è evidente
+
+64
+00:09:50,460 --> 00:09:59,860
+che insomma constatando come nella maggioranza dei nostri paesi allora la presenza sul mercato
+
+65
+00:09:59,860 --> 00:10:06,340
+del lavoro delle donne era una presenza assolutamente minoritaria il nesso tra questa
+
+66
+00:10:06,340 --> 00:10:14,540
+minorità tra questa impossibilità di moglie insomma famiglia lavoro eccetera eccetera cose che
+
+67
+00:10:14,540 --> 00:10:23,620
+sappiamo porta i servizi sociali in primo piano proprio per favorire una maggior presenza sul
+
+68
+00:10:23,620 --> 00:10:32,900
+mercato del lavoro neutra dal punto di vista del gender nasce l'idea delle risorse umane come le
+
+69
+00:10:32,900 --> 00:10:40,680
+fondamentali dello sviluppo allora già facciamo pochi bambini se ce ne perdiamo la metà nei
+
+70
+00:10:40,680 --> 00:10:47,820
+processi di esclusione alla fine siamo più poveri che dopo una giornata nera di wall street e delle
+
+71
+00:10:47,820 --> 00:10:56,020
+borse questa è un'assoluta verità economica è un'assoluta verità economica a quel punto i servizi
+
+72
+00:10:56,020 --> 00:11:04,440
+alla persona riferiti specificamente alla lotta all'esclusione e al non perdere per la strada
+
+73
+00:11:05,380 --> 00:11:15,280
+diventa un qualcosa e allora questa europa che parte dall'economia riesce ad arrivare al sociale
+
+74
+00:11:15,280 --> 00:11:24,320
+si accorge che oltre ai servizi pubblici francesi esistono i servizi sociali e c'è la famosa
+
+75
+00:11:25,340 --> 00:11:32,740
+comunicazione della della commissione che che ne prende atto ma una volta constatato questo una
+
+76
+00:11:32,740 --> 00:11:41,600
+volta constatato il rilievo per i propri obiettivi che la comunità assegna i servizi sociali rimane
+
+77
+00:11:41,600 --> 00:11:54,300
+il fatto che la loro disciplina è rimasta nelle mani degli stati membri che l'hanno che l'hanno
+
+78
+00:11:54,300 --> 00:12:03,960
+loro e non l'ordinamento comunitario hanno il controllo quindi trovo che constatato questo si
+
+79
+00:12:03,960 --> 00:12:11,840
+deve prendere atto che non è chi appunto a livello comunitario ci sono soltanto i cinici
+
+80
+00:12:11,840 --> 00:12:18,080
+fautori del mercato che tengono a distanza i servizi sociali ma sono sempre gli stessi attori
+
+81
+00:12:18,080 --> 00:12:24,040
+che dicono di questo me ne occupo in casa mia non insieme a voi e tutti sono d'accordo
+
+82
+00:12:24,040 --> 00:12:33,180
+nel nel sostenere questa tesi l'altra cosa l'ho già accennata prima insomma io sono d'accordo
+
+83
+00:12:33,180 --> 00:12:41,920
+con giubboni quando sostiene che tra concorrenza e solidarietà è sbagliato proprio è una è una
+
+84
+00:12:42,220 --> 00:12:48,960
+permettetemi di avere una personalità non scissa per favore lasciatemi negli ultimi anni della mia
+
+85
+00:12:48,960 --> 00:12:57,340
+vita questa convinzione che amare i diritti sociali e amare la concorrenza non è essere
+
+86
+00:12:57,340 --> 00:13:05,220
+schizofrenici o simili insomma ma è fare una cosa possibile appunto è chiaro che ovunque ci
+
+87
+00:13:05,220 --> 00:13:11,500
+sono dei limiti all'applicazione di qualunque principio ma come il libro giustamente notano
+
+88
+00:13:11,500 --> 00:13:19,680
+ricordo in quale capitolo se si accetta che un determinato servizio sia meglio affidato al non
+
+89
+00:13:19,680 --> 00:13:27,060
+profitti che al profit ed è giustissimo questo ed è veramente giusto questo beh a quel punto la
+
+90
+00:13:27,060 --> 00:13:33,520
+selezione perché non deve essere fatta in base a principi concorrenziali la selezione di quello
+
+91
+00:13:33,520 --> 00:13:41,020
+tra i tanti offrenti del del settore del non profit dell'uno dell'altro servizio perché no
+
+92
+00:13:41,020 --> 00:13:52,120
+la concorrenza è un criterio organizzativo che non necessariamente presuppone la corsa al profitto
+
+93
+00:13:52,120 --> 00:13:59,800
+ecco presuppone che vi siano dei criteri al fondo economici ma non per questo spregevoli che
+
+94
+00:13:59,800 --> 00:14:13,600
+determinano comportamenti e poi selezioni c'è un profilo che qui non non è è accennato e al
+
+95
+00:14:13,600 --> 00:14:22,180
+quale per concludere voglio anch'io accennare la cosa curiosa è che poi noi italiani non lo diamo
+
+96
+00:14:22,180 --> 00:14:29,160
+neanche più a livello statale il compito di occuparsi dei servizi sociali ma l'abbiamo
+
+97
+00:14:29,160 --> 00:14:37,460
+portato al piano di sotto in effetti e a questo punto c'è il problema del che cosa può fare lo
+
+98
+00:14:37,460 --> 00:14:46,780
+stato io vi prego di non scrivere mai che c'è una indifferenza dello stato italiano per i diritti
+
+99
+00:14:46,780 --> 00:14:56,620
+sociali in effetti c'è stata una preferenza devo dire un po avventata per affidarli pressoché
+
+100
+00:14:56,620 --> 00:15:05,940
+esclusivamente a livello regionale locale poi per no lo dico perché io questo l'ho trovato un
+
+101
+00:15:05,940 --> 00:15:13,540
+comportamento schizofrenico io avevo passato anni a mettere da parte i soldi per fare una
+
+102
+00:15:13,540 --> 00:15:21,700
+bella legge quadro sull'assistenza che finanziata centralmente permettesse ai comuni di attivare i
+
+103
+00:15:21,700 --> 00:15:28,800
+servizi alla persona che sono poi la parte del sociale assolutamente carente in italia finalmente
+
+104
+00:15:28,800 --> 00:15:36,580
+nel 2000 riuscino a far nascere questa legge quadro che mi pare portarsi il numero 328
+
+105
+00:15:44,260 --> 00:15:51,120
+quasi contemporaneamente in parlamento la stessa maggioranza politica decideva che
+
+106
+00:15:51,120 --> 00:15:58,220
+lo stato non aveva più alcuna competenza in materia sociale e quindi se fosse Giannelli a
+
+107
+00:15:58,220 --> 00:16:05,900
+farlo si vedrebbe un bel calcio dato alla 328 e buttata fuori della finestra appena fatta poi
+
+108
+00:16:05,900 --> 00:16:12,320
+ci siamo lamentati perché il successivo governo che esprimeva una diversa maggioranza politica
+
+109
+00:16:13,860 --> 00:16:22,620
+depotenziò talmente la dotazione finanziaria della 328 ma stava semplicemente attuando una
+
+110
+00:16:22,620 --> 00:16:29,840
+riforma costituzionale fatta dalla maggioranza precedente questo è stato un comportamento assai
+
+111
+00:16:29,840 --> 00:16:40,180
+assai schizofrenico che ha lasciato allo stato livelli essenziali e quindi questo c'è che vale
+
+112
+00:16:40,180 --> 00:16:49,020
+anche per le prestazioni sociali e ha lasciato concorrenza che può essere usata per evitare
+
+113
+00:16:49,020 --> 00:17:02,080
+distorzioni intasamenti non trasparenze nel mondo dei dei servizi sociali ecco se così è una
+
+114
+00:17:02,080 --> 00:17:09,880
+domanda ci si può porre ma l'europa non può essa avere i livelli essenziali visto che noi ci
+
+115
+00:17:09,880 --> 00:17:16,940
+siamo ridotti all'essenziale dei livelli essenziali non può valere anche per il livello europeo si
+
+116
+00:17:16,940 --> 00:17:25,720
+può valere ed è probabilmente ciò che in questo ambito l'unione europea sta cominciando a fare ma
+
+117
+00:17:25,720 --> 00:17:33,560
+non può farlo con la forza cogente con la quale in ragione dell'articolo 117 lo può fare lo stato
+
+118
+00:17:33,560 --> 00:17:41,060
+nazionale nei confronti delle sue regioni lo può fare con le best practices e con queste cose qua
+
+119
+00:17:41,220 --> 00:17:53,580
+io tutto sommato non vedrei male un rafforzamento dei congegni di vincolatività dei livelli
+
+120
+00:17:53,580 --> 00:18:03,540
+essenziali in questo ambito e questo contribuirebbe non poco a dare un senso europeo ai servizi
+
+121
+00:18:03,540 --> 00:18:12,180
+sociali che rimanessero sotto disciplina nazionale ma che dovessero rispondere a livelli che magari
+
+122
+00:18:12,180 --> 00:18:19,340
+in europa ti definirebbero minimi piuttosto che non essenziali e meno male che lì non c'è rosi
+
+123
+00:18:19,340 --> 00:18:33,520
+bindi perché sennò farebbe una scanagliata senza fine con l'aggettivo minimi al posto di
+
+124
+00:18:33,520 --> 00:18:40,160
+la che è stata una comunicazione della commissione comunque grazie per aver curato il libro agli
+
+125
+00:18:40,160 --> 00:18:48,280
+altri grazie per averlo scritto è un capitolo di vita europea che vale la pena di esplorare
+
+126
+00:18:58,700 --> 00:19:02,040
+di saluto scusatemi a rivederci
+
