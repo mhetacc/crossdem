@@ -3071,3 +3071,6 @@ berlusconi  2026-07-14 03:56:53.071940  https://www.radioradicale.it/scheda/1065
 berlusconi  2026-07-14 05:13:53.239311  https://www.radioradicale.it/scheda/116209/le-prossime-elezioni-provinciali-a-palermo-la-candidatura-di-francesco-musotto?i=1799872  ValueError: No timestamps
 berlusconi  2026-07-14 05:13:55.715120  https://www.radioradicale.it/scheda/101745/comizio-di-silvio-berlusconi-a-conclusione-della-campagna-elettorale-di-forza-italia?i=1964248  ValueError: No timestamps
 berlusconi  2026-07-14 05:24:00.990848  https://www.radioradicale.it/scheda/98640/comizio-di-silvio-berlusconi-presso-il-paladozza-di-bologna?i=2018797  ValueError: No timestamps
+berlusconi  2026-07-14 05:45:24.914261  https://www.radioradicale.it/scheda/101385/comizio-di-emiddio-novi-e-di-silvio-berlusconi-organizzato-in-occasione-della-campagna?i=1970006  ValueError: No timestamps
+berlusconi  2026-07-14 05:45:26.840483  https://www.radioradicale.it/scheda/102939/comizio-per-lelezione-a-senatore-di-giuliano-ferrara-nel-collegio-uninominale-toscana?i=1946427  ValueError: No timestamps
+berlusconi  2026-07-14 06:28:28.322371  https://www.radioradicale.it/scheda/88020/comizio-di-silvio-berlusconi-organizzato-da-forza-italia-presso-il-cinema-lux?i=2144818  ValueError: No timestamps
