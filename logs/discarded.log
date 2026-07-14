@@ -3081,3 +3081,4 @@ berlusconi  2026-07-14 07:05:59.750311  https://www.radioradicale.it/scheda/9106
 berlusconi  2026-07-14 07:06:01.274124  https://www.radioradicale.it/scheda/84878/comizio-di-silvio-berlusconi-nel-corso-della-campagna-elettorale-per-le-elezioni-del-16?i=2185491  ValueError: No timestamps
 berlusconi  2026-07-14 07:06:03.216085  https://www.radioradicale.it/scheda/84463/comizio-di-silvio-berlusconi-durante-la-campagna-elettorale-per-le-elezioni-del-16?i=2188169  ValueError: No timestamps
 berlusconi  2026-07-14 07:06:05.060975  https://www.radioradicale.it/scheda/84439/comizio-di-silvio-berlusconi-nel-corso-della-campagna-elettorale-per-le-elezioni?i=2188306  ValueError: No timestamps
+berlusconi  2026-07-14 08:19:38.867196  https://www.radioradicale.it/scheda/82959/manifestazione-elettorale-di-forza-italia-con-silvio-berlusconi-alla-fiera-del?i=2202200  ValueError: No timestamps
