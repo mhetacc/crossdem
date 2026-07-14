@@ -3058,3 +3058,13 @@ berlusconi  2026-07-14 03:06:23.238627  https://www.radioradicale.it/scheda/1301
 berlusconi  2026-07-14 03:06:27.185339  https://www.radioradicale.it/scheda/118287/una-scelta-di-campo-manifestazione-del-polo-per-le-elezioni-regionali-del-lazio-co?i=1774408  ValueError: No timestamps
 berlusconi  2026-07-14 03:06:29.156934  https://www.radioradicale.it/scheda/128510/professional-day-manifestazione-organizzata-da-forza-italia-nellambito-delle-cinque?i=1660753  ValueError: No timestamps
 berlusconi  2026-07-14 03:06:30.971546  https://www.radioradicale.it/scheda/119674/comizio-di-silvio-berlusconi-in-occasione-della-prima-convention-regionale-degli?i=1759645  ValueError: No timestamps
+berlusconi  2026-07-14 03:28:32.562025  https://www.radioradicale.it/scheda/126002/security-day-org-da-forza-italia-presso-il-palalido?i=1684968  ValueError: No timestamps
+berlusconi  2026-07-14 03:28:35.727851  https://www.radioradicale.it/scheda/111982/manifestazione-del-polo-delle-liberta-di-chiusura-della-campagna-elettorale-per-le?i=1844344  ValueError: No timestamps
+berlusconi  2026-07-14 03:28:37.365277  https://www.radioradicale.it/scheda/111932/comizio-di-chiusura-della-campagna-elettorale-di-forza-italia-per-le-elezioni-europee?i=1845034  ValueError: No timestamps
+berlusconi  2026-07-14 03:28:39.124516  https://www.radioradicale.it/scheda/124762/il-tax-day-di-forza-italia-org-da-forza-italia-in-collegamento-audio-video-con-100?i=1703346  ValueError: No timestamps
+berlusconi  2026-07-14 03:28:41.865391  https://www.radioradicale.it/scheda/114150/comizio-di-silvio-berlusconi-a-conclusione-della-giornata-veneziana-co-cinema-corso?i=1823159  ValueError: No timestamps
+berlusconi  2026-07-14 03:28:43.716478  https://www.radioradicale.it/scheda/110139/il-coraggio-di-battersi-per-la-liberta-incontro-pubblico-con-silvio-berlusconi-borsa?i=1863883  ValueError: No timestamps
+berlusconi  2026-07-14 03:28:46.696020  https://www.radioradicale.it/scheda/109074/appello-alle-forze-di-centro-comizio-di-silvio-berlusconi-rovigo-cinema-odeon?i=1874586  ValueError: No timestamps
+berlusconi  2026-07-14 03:37:06.910903  https://www.radioradicale.it/scheda/112452/manifestazione-elettorale-in-vista-del-voto-nel-ballottaggio-alle-elezioni-comunali-di?i=1839073  ValueError: No timestamps
+berlusconi  2026-07-14 03:45:59.550108  https://www.radioradicale.it/scheda/109073/comizio-di-silvio-berlusconi-in-occasione-della-campagna-elettorale-per-le?i=1874587  ValueError: No timestamps
+berlusconi  2026-07-14 03:56:53.071940  https://www.radioradicale.it/scheda/106564/manifestazione-di-forza-italia-e-incontro-con-s-berlusconi-in-occasione-delle-elezioni?i=1902941  ValueError: No timestamps
