@@ -3099,3 +3099,12 @@ berlusconi  2026-07-14 12:15:04.117865  https://www.radioradicale.it/scheda/2758
 berlusconi  2026-07-14 12:15:06.192090  https://www.radioradicale.it/scheda/275828/1deg-congresso-nazionale-del-popolo-della-liberta-prima-giornata?i=699839  ValueError: No timestamps
 berlusconi  2026-07-14 12:15:08.395194  https://www.radioradicale.it/scheda/251983/incontro-con-i-giornalisti-al-termine-del-vertice-del-popolo-della-liberta?i=1043427  ValueError: No timestamps
 berlusconi  2026-07-14 12:15:13.000150  https://www.radioradicale.it/scheda/251306/elezioni-politiche-2008-incontro-con-i-giornalisti-di-silvio-berlusconi-sul-programma?i=1045064  ValueError: No timestamps
+berlusconi  2026-07-14 13:05:36.423442  https://www.radioradicale.it/scheda/159936/la-forza-delle-idee-4deg-congresso-nazionale-del-nuovo-psi?i=1361468  RuntimeError: yt-dlp exited 1
+berlusconi  2026-07-14 13:28:04.046847  https://www.radioradicale.it/scheda/159674/il-contratto-con-gli-italiani-gli-impegni-mantenuti-2deg-congresso-nazionale-di-forza?i=1363759  ValueError: No timestamps
+berlusconi  2026-07-14 13:28:07.157424  https://www.radioradicale.it/scheda/145806/il-big-bang-socialista-3o-congresso-nazionale-del-partito-socialista-nuovo-psi?i=1496374  ValueError: No timestamps
+berlusconi  2026-07-14 13:28:09.501871  https://www.radioradicale.it/scheda/126673/i-congresso-nazionale-del-nuovo-psi-presso-il-palavobis-19-20-gen-2001?i=1675532  ValueError: No timestamps
+berlusconi  2026-07-14 13:28:12.947355  https://www.radioradicale.it/scheda/102606/lentrata-in-forza-italia-dei-cristiano-democratici-per-le-liberta?i=1951771  ValueError: No timestamps
+berlusconi  2026-07-14 13:31:23.086583  https://www.radioradicale.it/scheda/101196/1deg-congresso-nazionale-di-forza-italia?i=1972767  ValueError: No timestamps
+berlusconi  2026-07-14 13:31:24.697117  https://www.radioradicale.it/scheda/101192/1deg-congresso-nazionale-di-forza-italia?i=1972858  ValueError: No timestamps
+berlusconi  2026-07-14 13:31:26.491545  https://www.radioradicale.it/scheda/99988/presentazione-del-i-congresso-nazionale-di-forza-italia-che-si-terra-a-milano-dal-15-al?i=1992750  ValueError: No timestamps
+berlusconi  2026-07-14 13:47:20.862461  https://www.radioradicale.it/scheda/69555/la-posizione-di-forza-italia-e-del-polo-delle-liberta-sullattuale-situazione-politica?i=2330027  ValueError: No timestamps
