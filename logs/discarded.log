@@ -3288,3 +3288,11 @@ amato  2026-07-15 06:37:37.697106  https://www.radioradicale.it/scheda/259131/la
 amato  2026-07-15 08:23:22.213292  https://www.radioradicale.it/scheda/240682/lezioni-sulleuropa?i=1082853  ValueError: No timestamps
 amato  2026-07-15 08:46:36.735895  https://www.radioradicale.it/scheda/243704/democrazia-laicita-valori-religiosi?i=1072989  ValueError: No timestamps
 amato  2026-07-15 09:41:14.179994  https://www.radioradicale.it/scheda/221404/etica-e-globalizzazione?i=1187641  ValueError: No timestamps
+amato  2026-07-15 10:43:42.716349  https://www.radioradicale.it/scheda/215834/crescere-tra-le-righe-giovani-editori-e-istituzioni-a-confronto?i=1215500  RuntimeError: yt-dlp exited 1
+amato  2026-07-15 10:43:44.013053  https://www.radioradicale.it/scheda/196122/alcide-de-gasperi-un-percorso-europeo?i=1291171  RuntimeError: yt-dlp exited 1
+amato  2026-07-15 10:43:45.329424  https://www.radioradicale.it/scheda/233348/la-costituzione-europea-un-primo-commento?i=1123789  RuntimeError: yt-dlp exited 1
+amato  2026-07-15 10:43:49.094560  https://www.radioradicale.it/scheda/203834/le-nuove-politiche-industriali-nelleuropa-allargata-presentazione-del-libro-curato-da?i=1269916  RuntimeError: yt-dlp exited 1
+amato  2026-07-15 11:02:49.197745  https://www.radioradicale.it/scheda/193180/oltre-il-declino?i=1305033  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/amato/audio_out/_out_193180_amato.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/amato/audio_out/193180_amato.mp3'
+amato  2026-07-15 11:04:41.495857  https://www.radioradicale.it/scheda/164553/la-costituzione-europea-il-contributo-dellitalia-e-del-parlamento-europeo?i=1308139  RuntimeError: yt-dlp exited 1
+amato  2026-07-15 11:04:46.724295  https://www.radioradicale.it/scheda/194128/quale-lavoro-nel-nostro-sviluppo?i=1289588  ValueError: No timestamps
+amato  2026-07-15 11:18:49.358460  https://www.radioradicale.it/scheda/162270/elezioni-americane-prospettive-programmi-e-retroterra?i=1339530  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/amato/audio_out/_out_162270_amato.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/amato/audio_out/162270_amato.mp3'

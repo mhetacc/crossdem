@@ -3,366 +3,427 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>crossdem — MTLD Comparison</title>
-<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+<title>MTLD by Year and Political Leaning</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.32.0/plotly.min.js"></script>
 <style>
-  :root { color-scheme: light; }
+  :root {
+    --border: #d9d9d9;
+    --bg: #fafafa;
+  }
   body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    max-width: 1100px;
-    margin: 24px auto;
-    padding: 0 16px;
-    color: #1a1a1a;
+    font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 24px;
+    color: #222;
   }
   h1 {
-    font-size: 1.3rem;
-    text-align: center;
-    margin: 4px 0 20px 0;
+    font-size: 1.25rem;
+    margin-bottom: 4px;
   }
-  #controls {
-    display: flex;
-    flex-direction: column;
-    gap: 14px;
-    margin-bottom: 12px;
-    padding: 14px 16px;
-    border: 1px solid #e2e2e2;
+  .subtitle {
+    color: #666;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 0.9rem;
+  }
+  .panel {
+    border: 1px solid var(--border);
+    background: var(--bg);
     border-radius: 8px;
-    background: #fafafa;
+    padding: 14px 16px;
+    margin-bottom: 14px;
   }
-  #checkbox-grid {
+  .panel h3 {
+    margin: 0 0 8px 0;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #555;
+  }
+  .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-    gap: 6px 12px;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 6px 14px;
   }
-  .cb-label {
+  .grid.vdem {
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  }
+  label.chk {
     display: flex;
     align-items: center;
     gap: 6px;
-    font-size: 0.95rem;
+    font-size: 0.9rem;
     cursor: pointer;
-    user-select: none;
   }
-  .cb-label input { cursor: pointer; }
-  .row {
+  .swatch {
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+    flex-shrink: 0;
+  }
+  .toggles {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 22px;
+    align-items: center;
+  }
+  .toggle-group {
     display: flex;
     align-items: center;
-    gap: 16px;
-    flex-wrap: wrap;
+    gap: 8px;
   }
-  .row label { font-size: 0.95rem; font-weight: 600; }
-  #doc-slider { flex: 1; min-width: 160px; }
-  #doc-count { min-width: 2.5em; display: inline-block; text-align: right; }
-  .toggle-group button {
-    border: 1px solid #bbb;
+  .toggle-group span.label {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #444;
+  }
+  .btn-row {
+    display: inline-flex;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  .btn-row button {
+    border: none;
     background: #fff;
-    padding: 5px 14px;
+    padding: 6px 12px;
+    font-size: 0.85rem;
     cursor: pointer;
-    font-size: 0.9rem;
+    border-right: 1px solid var(--border);
   }
-  .toggle-group button:first-child { border-radius: 4px 0 0 4px; }
-  .toggle-group button:last-child { border-radius: 0 4px 4px 0; margin-left: -1px; }
-  .toggle-group button.active { background: #2b6cb0; color: #fff; border-color: #2b6cb0; }
-  #plot { width: 100%; height: 620px; }
-  #status { text-align: center; color: #888; padding: 40px 0; }
+  .btn-row button:last-child { border-right: none; }
+  .btn-row button.active {
+    background: #2c3e50;
+    color: #fff;
+  }
+  .btn-row button:disabled {
+    cursor: not-allowed;
+    opacity: 0.45;
+  }
+  .slider-group {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.85rem;
+  }
+  .slider-group input[type=range] {
+    width: 160px;
+  }
+  .slider-group input[type=range]:disabled {
+    opacity: 0.4;
+  }
+  #plot {
+    width: 100%;
+    height: 620px;
+  }
+  #empty-msg {
+    color: #888;
+    font-style: italic;
+    padding: 40px 0;
+    text-align: center;
+    display: none;
+  }
 </style>
 </head>
 <body>
 
-<h1 id="title">Lexical Diversity (MTLD) Comparison</h1>
+<h1>MTLD by Year and Political Leaning</h1>
+<p class="subtitle">Lexical diversity (MTLD) of Italian political speeches, 1945–2025, with V-Dem democracy index overlays.</p>
 
-<div id="controls">
-  <div id="checkbox-grid"></div>
+<div class="panel">
+  <h3>Political groups</h3>
+  <div class="grid" id="group-grid"></div>
+</div>
 
-  <div class="row">
-    <label for="doc-slider">Docs:</label>
-    <input type="range" id="doc-slider" min="1" max="50" value="30" autocomplete="off"">
-    <span id="doc-count">30</span>
+<div class="panel">
+  <h3>V-Dem indices (Italy)</h3>
+  <div class="grid vdem" id="vdem-grid"></div>
+</div>
+
+<div class="panel toggles">
+  <div class="toggle-group">
+    <span class="label">Stat</span>
+    <div class="btn-row" id="stat-toggle"></div>
   </div>
-
-  <div class="row">
-    <label>View:</label>
-    <div class="toggle-group">
-      <button id="btn-bar" class="active">Bar</button>
-      <button id="btn-line">Line</button>
-    </div>
-
-    <label class="cb-label" style="font-weight:400;">
-      <input type="checkbox" id="median-toggle" checked>
-      Show medians
-    </label>
+  <div class="toggle-group">
+    <span class="label">Mode</span>
+    <div class="btn-row" id="mode-toggle"></div>
+  </div>
+  <div class="toggle-group">
+    <span class="label">Chart</span>
+    <div class="btn-row" id="chart-toggle"></div>
+  </div>
+  <div class="slider-group">
+    <span class="label">Smoothing</span>
+    <input type="range" id="smooth-slider" min="1" max="15" step="1" value="5" disabled>
+    <span id="smooth-val">5</span>
+  </div>
+  <div class="slider-group">
+    <span class="label">Trend s</span>
+    <input type="range" id="trend-slider" min="0" max="50" step="0.5" value="8" disabled>
+    <span id="trend-val">8.0</span>
   </div>
 </div>
 
 <div id="plot"></div>
-<div id="status" style="display:none;">Select at least one politician.</div>
+<div id="empty-msg">Select at least one group or V-Dem index.</div>
 
 <script>
-const DEFAULT_SELECTED = ["meloni", "degasperi"];
-const DISPLAY_NAMES = {
-  degasperi: "De Gasperi",
-  "d'alema": "D'Alema",
+const GROUP_COLORS = {
+  "Combined": "#7f7f7f",
+  "Left (CL/L)": "#d62728",
+  "Right (CR/R)": "#1f77b4",
+  "Center (C)": "#2ca02c",
 };
+
+const VDEM_COLORS = {
+  "Electoral democracy": "#9467bd",
+  "Liberal democracy": "#8c564b",
+  "Participatory democracy": "#e377c2",
+  "Elections quality": "#17becf",
+  "Fairness of law & individual liberties": "#bcbd22",
+  "Scrutiny of Executives": "#ff7f0e",
+};
+
 let DATA = null;
-let view = "Bar";
 
-function displayName(pol) {
-  return DISPLAY_NAMES[pol] || (pol.charAt(0).toUpperCase() + pol.slice(1));
-}
+const state = {
+  groups: new Set(["Combined"]),
+  vdem: new Set(),
+  stat: "Median",
+  mode: "Exact",
+  chart: "Line",
+  smoothWindow: 5,
+  trendS: 8,
+};
 
-// simple seeded PRNG (mulberry32) so sampling is stable across reloads
-function mulberry32(seed) {
-  return function() {
-    seed |= 0; seed = (seed + 0x6D2B79F5) | 0;
-    let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
-    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
-    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
-  };
-}
-
-function seededSample(arr, n, seed) {
-  const rand = mulberry32(seed);
-  const copy = arr.slice();
-  // Fisher-Yates partial shuffle
-  for (let i = copy.length - 1; i > 0 && i >= copy.length - n; i--) {
-    const j = Math.floor(rand() * (i + 1));
-    [copy[i], copy[j]] = [copy[j], copy[i]];
+function nearestFromGrid(value, gridValues) {
+  let best = gridValues[0], bestDiff = Infinity;
+  for (const v of gridValues) {
+    const diff = Math.abs(v - value);
+    if (diff < bestDiff) { bestDiff = diff; best = v; }
   }
-  return copy.slice(Math.max(0, copy.length - n));
+  return best;
 }
 
-function median(arr) {
-  const s = arr.slice().sort((a, b) => a - b);
-  const mid = Math.floor(s.length / 2);
-  return s.length % 2 !== 0 ? s[mid] : (s[mid - 1] + s[mid]) / 2;
+function seriesFor(group, stat) {
+  if (state.mode === "Smoothed") {
+    const w = nearestFromGrid(state.smoothWindow, DATA.smooth_windows);
+    return DATA.smoothed[group][stat][String(w)];
+  }
+  if (state.mode === "Trend") {
+    const s = nearestFromGrid(state.trendS, DATA.trend_s_values);
+    return DATA.trend[group][stat][s.toFixed(1)];
+  }
+  return DATA.exact[group][stat];
 }
 
-function selectedPols() {
-  return Array.from(document.querySelectorAll(".pol-cb"))
-    .filter(cb => cb.checked)
-    .map(cb => cb.dataset.pol);
-}
-
-function buildBarTraces(pols, docNum, showMedians) {
+function buildTraces() {
   const traces = [];
-  const shapes = [];          // NEW
-  const n = pols.length;
-  const width = 0.8 / n;
-  pols.forEach((pol, i) => {
-    const entry = DATA[pol];
-    const sampleN = Math.min(docNum, entry.mtld.length);
-    const sample = seededSample(entry.mtld, sampleN, 42);
-    const med = median(entry.mtld);
-    const offset = (i - (n - 1) / 2) * width;
-    const x = Array.from({length: sampleN}, (_, k) => k + offset);
-    traces.push({
-      x, y: sample, type: "bar", width,
-      name: displayName(pol),
-      marker: {color: entry.color, opacity: 0.85},
-      legendgroup: pol,
-    });
-    if (showMedians) {
-      shapes.push({                                  // NEW
-        type: "line", xref: "paper", x0: 0, x1: 1,    // NEW
-        yref: "y", y0: med, y1: med,                  // NEW
-        line: {color: entry.color, dash: "dash"},     // NEW
-      });                                              // NEW
+  const groups = DATA.groups.filter(g => state.groups.has(g));
+
+  for (const g of groups) {
+    const y = seriesFor(g, state.stat);
+    if (state.chart === "Bar") {
       traces.push({
-        x: [null], y: [null], mode: "lines",
-        line: {color: entry.color, dash: "dash"},
-        name: `Median (${med.toFixed(2)})`,
-        legendgroup: pol, showlegend: true,
+        x: DATA.years,
+        y: y,
+        type: "bar",
+        name: g,
+        marker: { color: GROUP_COLORS[g] },
+      });
+    } else {
+      const isCurve = state.mode === "Smoothed" || state.mode === "Trend";
+      traces.push({
+        x: DATA.years,
+        y: y,
+        type: "scatter",
+        mode: isCurve ? "lines" : "lines+markers",
+        name: g,
+        line: {
+          color: GROUP_COLORS[g],
+          width: 2.5,
+          shape: state.mode === "Smoothed" ? "spline" : "linear",
+        },
+        marker: { color: GROUP_COLORS[g], size: 5 },
+        connectgaps: true,
       });
     }
-  });
-  return {traces, shapes};   // CHANGED (was: return traces;)
-}
+  }
 
-function buildLineTraces(pols, docNum, showMedians) {
-  const traces = [];
-  const shapes = [];          // NEW
-  pols.forEach(pol => {
-    const entry = DATA[pol];
-    const sampleN = Math.min(docNum, entry.mtld.length);
-    const sample = seededSample(entry.mtld, sampleN, 42);
-    const med = median(entry.mtld);
-    const x = Array.from({length: sampleN}, (_, k) => k);
+  const vdemVars = DATA.vdem_vars.filter(v => state.vdem.has(v));
+  for (const v of vdemVars) {
     traces.push({
-      x, y: sample, mode: "lines+markers",
-      name: displayName(pol),
-      line: {color: entry.color, width: 2.5},
-      marker: {color: entry.color, size: 6},
-      legendgroup: pol,
+      x: DATA.years,
+      y: DATA.vdem[v],
+      type: "scatter",
+      mode: "lines",
+      name: v,
+      line: { color: VDEM_COLORS[v], width: 2, dash: "dot" },
+      yaxis: "y2",
+      connectgaps: true,
     });
-    if (showMedians) {
-      shapes.push({                                  // NEW
-        type: "line", xref: "paper", x0: 0, x1: 1,    // NEW
-        yref: "y", y0: med, y1: med,                  // NEW
-        line: {color: entry.color, dash: "dash"},     // NEW
-      });                                              // NEW
-      traces.push({
-        x: [null], y: [null], mode: "lines",
-        line: {color: entry.color, dash: "dash"},
-        name: `Median (${med.toFixed(2)})`,
-        legendgroup: pol, showlegend: true,
-      });
-    }
-  });
-  return {traces, shapes};   // CHANGED (was: return traces;)
+  }
+
+  return traces;
 }
 
 function redraw() {
-  const pols = selectedPols();
-  const docNum = parseInt(document.getElementById("doc-slider").value, 10);
-  const showMedians = document.getElementById("median-toggle").checked;
-  const plotEl = document.getElementById("plot");
-  const statusEl = document.getElementById("status");
+  const plotDiv = document.getElementById("plot");
+  const emptyMsg = document.getElementById("empty-msg");
 
-  if (pols.length === 0) {
-    Plotly.purge(plotEl);
-    plotEl.style.display = "none";
-    statusEl.style.display = "block";
+  if (state.groups.size === 0 && state.vdem.size === 0) {
+    Plotly.purge(plotDiv);
+    plotDiv.style.display = "none";
+    emptyMsg.style.display = "block";
     return;
   }
-  plotEl.style.display = "block";
-  statusEl.style.display = "none";
+  plotDiv.style.display = "block";
+  emptyMsg.style.display = "none";
 
-  const {traces, shapes} = view === "Bar"           // CHANGED (was: const traces = ...)
-    ? buildBarTraces(pols, docNum, showMedians)
-    : buildLineTraces(pols, docNum, showMedians);
+  const traces = buildTraces();
 
   const layout = {
-    xaxis: {
-      title: "Documents (random samples)",
-      tickmode: "array",
-      tickvals: Array.from({length: docNum}, (_, k) => k),
-      ticktext: Array.from({length: docNum}, (_, k) => `D${k + 1}`),
+    xaxis: { title: "Year", range: [DATA.year_min, DATA.year_max], dtick: 5 },
+    yaxis: { title: `${state.stat} MTLD` },
+    yaxis2: {
+      title: "V-Dem index (0–1)",
+      overlaying: "y",
+      side: "right",
+      range: [0, 1],
+      showgrid: false,
     },
-    yaxis: {title: "MTLD"},
-    barmode: view === "Bar" ? "group" : undefined,
-    shapes,                                          // NEW
     template: "plotly_white",
     autosize: true,
     height: 600,
-    margin: {t: 20},
-    legend: {orientation: "h", yanchor: "bottom", y: 1.02, xanchor: "right", x: 1},
+    margin: { t: 40 },
+    legend: { orientation: "h", yanchor: "bottom", y: 1.02, xanchor: "right", x: 1 },
+    barmode: "group",
   };
 
-  Plotly.react(plotEl, traces, layout, {
-    responsive: true,
-    toImageButtonOptions: {
-      filename: "mtld_pms",   // downloaded file will be "mtld_comparison.png"
-      format: "png",                  // also: "svg", "jpeg", "webp"
-      scale: 2,                       // optional — 2x resolution for a crisper export
-    },
-  });
+  Plotly.react(plotDiv, traces, layout, { responsive: true });
 }
 
-function buildCheckboxGrid() {
-  const grid = document.getElementById("checkbox-grid");
-  const pols = Object.keys(DATA);
+// ---------- UI construction ----------
+function makeCheckbox(container, key, colorMap, selectedSet, gridClass) {
+  const label = document.createElement("label");
+  label.className = "chk";
 
-  const allLabel = document.createElement("label");
-  allLabel.className = "cb-label";
-  allLabel.style.fontWeight = "700";
-  const allCb = document.createElement("input");
-  allCb.type = "checkbox";
-  allCb.id = "all-cb";
-  allLabel.append(allCb, "All");
-  grid.appendChild(allLabel);
+  const swatch = document.createElement("span");
+  swatch.className = "swatch";
+  if (colorMap) swatch.style.background = colorMap[key];
+  else swatch.style.visibility = "hidden";
 
-  const polCbs = [];
-  pols.forEach(pol => {
-    const label = document.createElement("label");
-    label.className = "cb-label";
-    const cb = document.createElement("input");
-    cb.type = "checkbox";
-    cb.className = "pol-cb";
-    cb.dataset.pol = pol;
-    cb.checked = DEFAULT_SELECTED.includes(pol);
-    label.append(cb, displayName(pol));
-    grid.appendChild(label);
-    polCbs.push(cb);
-  });
-
-  let syncing = false;
-  allCb.addEventListener("change", () => {
-    if (syncing) return;
-    syncing = true;
-    polCbs.forEach(cb => cb.checked = allCb.checked);
-    syncing = false;
+  const input = document.createElement("input");
+  input.type = "checkbox";
+  input.checked = selectedSet.has(key);
+  input.addEventListener("change", () => {
+    if (input.checked) selectedSet.add(key); else selectedSet.delete(key);
     redraw();
   });
-  polCbs.forEach(cb => cb.addEventListener("change", () => {
-    if (syncing) return;
-    syncing = true;
-    allCb.checked = polCbs.every(c => c.checked);
-    syncing = false;
-    redraw();
-  }));
 
-  allCb.checked = polCbs.every(c => c.checked);
+  const text = document.createElement("span");
+  text.textContent = key;
+
+  label.appendChild(input);
+  label.appendChild(swatch);
+  label.appendChild(text);
+  container.appendChild(label);
 }
 
-function wireControls() {
-  const slider = document.getElementById("doc-slider");
-  const docCount = document.getElementById("doc-count");
-  //slider.max = Math.max(...Object.values(DATA).map(d => d.mtld.length), 50);
-  slider.addEventListener("input", () => {
-    docCount.textContent = slider.value;
+function makeToggle(containerId, options, current, onChange, disabledCheck) {
+  const container = document.getElementById(containerId);
+  container.innerHTML = "";
+  const buttons = {};
+  options.forEach(opt => {
+    const btn = document.createElement("button");
+    btn.textContent = opt;
+    btn.className = opt === current.value ? "active" : "";
+    btn.addEventListener("click", () => {
+      if (btn.disabled) return;
+      current.value = opt;
+      Object.values(buttons).forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      onChange(opt);
+    });
+    buttons[opt] = btn;
+    container.appendChild(btn);
   });
-  slider.addEventListener("change", redraw);
+  return buttons;
+}
 
-  document.getElementById("btn-bar").addEventListener("click", () => {
-    view = "Bar";
-    document.getElementById("btn-bar").classList.add("active");
-    document.getElementById("btn-line").classList.remove("active");
-    document.getElementById("title").textContent = "Lexical Diversity (MTLD) Comparison — Bar";
+function init() {
+  const groupGrid = document.getElementById("group-grid");
+  DATA.groups.forEach(g => makeCheckbox(groupGrid, g, GROUP_COLORS, state.groups));
+
+  const vdemGrid = document.getElementById("vdem-grid");
+  DATA.vdem_vars.forEach(v => makeCheckbox(vdemGrid, v, VDEM_COLORS, state.vdem));
+
+  const statRef = { value: state.stat };
+  makeToggle("stat-toggle", DATA.stats, statRef, val => {
+    state.stat = val;
     redraw();
   });
-  document.getElementById("btn-line").addEventListener("click", () => {
-    view = "Line";
-    document.getElementById("btn-line").classList.add("active");
-    document.getElementById("btn-bar").classList.remove("active");
-    document.getElementById("title").textContent = "Lexical Diversity (MTLD) Comparison — Line";
+
+  const modeRef = { value: state.mode };
+  const smoothSlider = document.getElementById("smooth-slider");
+  const trendSlider = document.getElementById("trend-slider");
+  const chartRef = { value: state.chart };
+
+  const modeButtons = makeToggle("mode-toggle", ["Exact", "Smoothed", "Trend"], modeRef, val => {
+    state.mode = val;
+    smoothSlider.disabled = (val !== "Smoothed");
+    trendSlider.disabled = (val !== "Trend");
     redraw();
   });
-  document.getElementById("median-toggle").addEventListener("change", redraw);
+
+  function setModeLocked(locked) {
+    Object.values(modeButtons).forEach(b => b.disabled = locked);
+  }
+
+  makeToggle("chart-toggle", ["Line", "Bar"], chartRef, val => {
+    state.chart = val;
+    if (val === "Bar") {
+      if (modeRef.value !== "Exact") {
+        modeRef.value = "Exact";
+        state.mode = "Exact";
+        Object.entries(modeButtons).forEach(([opt, b]) => b.classList.toggle("active", opt === "Exact"));
+        smoothSlider.disabled = true;
+        trendSlider.disabled = true;
+      }
+      setModeLocked(true);
+    } else {
+      setModeLocked(false);
+    }
+    redraw();
+  });
+
+  smoothSlider.addEventListener("input", () => {
+    state.smoothWindow = Number(smoothSlider.value);
+    document.getElementById("smooth-val").textContent = state.smoothWindow;
+    redraw();
+  });
+
+  trendSlider.addEventListener("input", () => {
+    state.trendS = Number(trendSlider.value);
+    document.getElementById("trend-val").textContent = state.trendS.toFixed(1);
+    redraw();
+  });
+
+  redraw();
 }
 
 fetch("data.json")
-  .then(r => {
-    if (!r.ok) throw new Error("data.json not found");
-    return r.json();
-  })
+  .then(r => r.json())
   .then(json => {
     DATA = json;
-    buildCheckboxGrid();
-    wireControls();
-    redraw();
+    init();
   })
   .catch(err => {
-    document.getElementById("status").style.display = "block";
-    document.getElementById("status").textContent =
-      "Couldn't load data.json — make sure it sits next to index.html. (" + err.message + ")";
+    document.getElementById("plot").innerHTML =
+      "<p style='color:#c0392b'>Could not load data.json — make sure it sits next to index.html and you're serving this over http(s), not file://.</p>";
+    console.error(err);
   });
 </script>
 
-<div id="description">
-  <h4>Measure of Textual Lexical Diversity (MTLD)</h4>
-  <p>
-    Lexical diversity is one aspect of 'lexical richness' and refers to the ratio of different unique word stems (types) to the total number of words (tokens). <br>
-    The Measure of Textual Lexical Diversity (MTLD) is computed as the mean length of sequential words in a text that maintains a minimum threshold Type-Token Ratio (TTR) score. Compared to TTR is agnostic to text length. 
-  </p>
-  <p>
-    The metric shows how rich, how varied, a text's vocabulary is. 
-  </p>
-  <h4>MTLD In The Graph</h4>
-  <p>
-    The graph compares the vocabulary richness of Italy's Prime Minsters. Each data point (each point in the X-axis) is a speech, with its respective MTLD reflected in the Y-axis. 
-  </p>
-  <p>
-    All speeches are randomly sampled from each PMs speeches pool.
-  </p>
-</div>
 </body>
 </html>
