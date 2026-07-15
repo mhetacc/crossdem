@@ -3285,3 +3285,4 @@ amato  2026-07-15 06:06:01.424592  https://www.radioradicale.it/scheda/225656/la
 amato  2026-07-15 06:06:03.831886  https://www.radioradicale.it/scheda/200732/gerusalemme-citta-aperta-tre-religioni-a-confronto?i=1084277  ValueError: No timestamps
 amato  2026-07-15 06:24:55.982631  https://www.radioradicale.it/scheda/198674/una-democrazia-senza-costituzione-leuropa-e-gli-europei-dopo-i-referendum?i=1012328  ValueError: No timestamps
 amato  2026-07-15 06:37:37.697106  https://www.radioradicale.it/scheda/259131/la-citta-e-lindustria-nel-futuro-dellitalia?i=1015670  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/amato/audio_out/_out_259131_amato.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/amato/audio_out/259131_amato.mp3'
+amato  2026-07-15 08:23:22.213292  https://www.radioradicale.it/scheda/240682/lezioni-sulleuropa?i=1082853  ValueError: No timestamps
