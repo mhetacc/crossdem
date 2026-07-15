@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>MTLD by Year and Political Leaning</title>
+<title>MTLD by Year and Political Leaning Against V-Dem Indices</title>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.32.0/plotly.min.js"></script>
 <style>
   :root {
@@ -127,8 +127,8 @@
 </head>
 <body>
 
-<h1>MTLD by Year and Political Leaning</h1>
-<p class="subtitle">Lexical diversity (MTLD) of Italian political speeches, 1945–2025, with V-Dem democracy index overlays.</p>
+<h1>MTLD by Year and Political Leaning Against V-Dem Indices</h1>
+<p class="subtitle">Lexical diversity (MTLD) of Italian Prime Ministers cross-compared with V-Dem democracy indices. Time period: 1945-2025</p>
 
 <div class="panel">
   <h3>Political groups</h3>
@@ -142,16 +142,16 @@
 
 <div class="panel toggles">
   <div class="toggle-group">
-    <span class="label">Stat</span>
+    <span class="label">Chart Type</span>
+  <div class="btn-row" id="chart-toggle"></div>
+  </div>
+  <div class="toggle-group">
+    <span class="label">Aggregators</span>
     <div class="btn-row" id="stat-toggle"></div>
   </div>
   <div class="toggle-group">
-    <span class="label">Mode</span>
+    <span class="label">Line Mode</span>
     <div class="btn-row" id="mode-toggle"></div>
-  </div>
-  <div class="toggle-group">
-    <span class="label">Chart</span>
-    <div class="btn-row" id="chart-toggle"></div>
   </div>
   <div class="slider-group">
     <span class="label">Smoothing</span>
@@ -159,7 +159,7 @@
     <span id="smooth-val">5</span>
   </div>
   <div class="slider-group">
-    <span class="label">Trend s</span>
+    <span class="label">Trend splines steps</span>
     <input type="range" id="trend-slider" min="0" max="50" step="0.5" value="8" disabled>
     <span id="trend-val">8.0</span>
   </div>
@@ -181,8 +181,8 @@ const VDEM_COLORS = {
   "Liberal democracy": "#8c564b",
   "Participatory democracy": "#e377c2",
   "Elections quality": "#17becf",
-  "Fairness of law & individual liberties": "#bcbd22",
-  "Scrutiny of Executives": "#ff7f0e",
+  "Fairness of law and individual liberties": "#bcbd22",
+  "Scrutiny of executives": "#ff7f0e",
 };
 
 let DATA = null;
@@ -428,20 +428,35 @@ fetch("data.json")
 
 <div id="description">
   <h4>Measure of Textual Lexical Diversity (MTLD)</h4>
-  <p>
-    Lexical diversity is one aspect of 'lexical richness' and refers to the ratio of different unique word stems (types) to the total number of words (tokens). <br>
-    The Measure of Textual Lexical Diversity (MTLD) is computed as the mean length of sequential words in a text that maintains a minimum threshold Type-Token Ratio (TTR) score. Compared to TTR is agnostic to text length. 
-  </p>
-  <p>
-    The metric shows how rich, how varied, a text's vocabulary is. 
-  </p>
-  <h4>MTLD In The Graph</h4>
-  <p>
-    The graph compares the vocabulary richness of Italy's Prime Minsters. Each data point (each point in the X-axis) is a speech, with its respective MTLD reflected in the Y-axis. 
-  </p>
-  <p>
-    All speeches are randomly sampled from each PMs speeches pool.
-  </p>
+    <p>
+      Lexical diversity is one aspect of 'lexical richness' and refers to the ratio of different unique word stems (types) to the total number of words (tokens). <br>
+      The Measure of Textual Lexical Diversity (MTLD) is computed as the mean length of sequential words in a text that maintains a minimum threshold Type-Token Ratio (TTR) score. Compared to TTR is agnostic to text length. 
+    </p>
+    <p>
+      The metric shows how rich, how varied, a text's vocabulary is. 
+    </p>
+
+  <h5>Political Groups</h5>
+    <p>
+      All PMs' MTLD values are aggregated in three political areas: <b>left</b> (which aggregates left and center left), <b>right</b> (which aggregates right and center right), and <b>center</b>. Moreover, <b>"Combined"</b> aggregates all of them into one. 
+    </p>
+
+  <h4>V-DEM Indices</h4>
+    <p>
+      The Democracy Indices by V-Dem are democracy indices published by the V-Dem Institute that describe qualities of different democracies. The dataset analyzes 251 indices and consist of 531 specific indicators, focusing on both qualitative and quantitative measurements of democracy.
+    </p>
+    <p>
+      In the graph, six indices are extracted:
+      <ul>
+        <li>Electoral democracy</li>
+        <li>Liberal democracy</li>
+        <li>Participatory democracy</li>
+        <li>Elections quality</li>
+        <li>Fairness of law and individual liberties</li>
+        <li>Scrutiny of executives</li>
+      </ul>
+    </p>
+
 </div>
 </body>
 </html>
