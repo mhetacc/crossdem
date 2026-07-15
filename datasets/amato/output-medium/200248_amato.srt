@@ -1,0 +1,760 @@
+1
+00:00:00,000 --> 00:00:08,280
+Renza, questo tema del corpo, ma soprattutto per avere evidenziato che la prospettiva del
+
+2
+00:00:08,280 --> 00:00:16,440
+libro di Rodotà si colloca al di là dell'antropologia e della politica della paura. Mi pare che
+
+3
+00:00:16,440 --> 00:00:26,300
+uno dei grandi temi del presente sia proprio quello dell'uso politico della paura. È
+
+4
+00:00:26,300 --> 00:00:32,820
+mio parere drammatico e decisivo. Bene, colgo l'occasione non solo per salutare, ma per
+
+5
+00:00:32,820 --> 00:00:37,780
+ringraziare il Presidente della Camera dei Deputati, Fausto Bertinotti, che ci ospita
+
+6
+00:00:37,780 --> 00:00:52,340
+in questa sede. La parola a Giuliano Anato. Intanto voglio cominciare scusandomi con voi,
+
+7
+00:00:52,340 --> 00:00:57,160
+con il Presidente e anche con l'autore del libro, perché tra le 7.00 e le 7.15 dovrò
+
+8
+00:00:57,160 --> 00:01:08,820
+andar via. Tra l'altro dirò delle cose rispetto a quelle che risponderà Stefano, mi interessa,
+
+9
+00:01:09,720 --> 00:01:16,500
+ma insomma siamo amici da 40 anni, discutiamo da 40 anni, troveremo un altro momento. Io
+
+10
+00:01:16,500 --> 00:01:21,680
+francamente parlerò di questo libro, lo dico tra virgolette, siccome è la prima volta che
+
+11
+00:01:21,680 --> 00:01:28,520
+lo faccio con lui, ignorando il pure illustre pubblico, nel senso come se parlassi esclusivamente
+
+12
+00:01:28,520 --> 00:01:35,180
+con Stefano, perché solleva delle questioni che anche a me stanno molto a cuore e che
+
+13
+00:01:35,180 --> 00:01:44,440
+sono davvero su una frontiera della quale non sappiamo molto. E questa è la prima osservazione
+
+14
+00:01:44,440 --> 00:01:53,540
+che vorrei fare. Se c'è una cosa che mi piace di Stefano, noi è 40 anni che lavoriamo insieme,
+
+15
+00:01:54,020 --> 00:01:59,580
+non sempre pensando le stesse cose, ma cominciamo a lavorare insieme fondando una rivista che ancora
+
+16
+00:01:59,580 --> 00:02:14,420
+esiste oggi. Perché da giovani pensavamo che il nostro compito fosse quello di capire ciò che i
+
+17
+00:02:15,180 --> 00:02:21,880
+per fare entrare nel futuro i paesi in cui lavorano, per cogliere le questioni salienti
+
+18
+00:02:22,380 --> 00:02:31,020
+del futuro. Infatti la rivista si chiama politica del diritto e quindi era, come diciamo noi nel
+
+19
+00:02:31,020 --> 00:02:38,540
+nostro orrido gergo, non sullo just conditum, ma sul condendum. Perdonatemi, perché questo rende
+
+20
+00:02:38,540 --> 00:02:52,780
+assolutamente priva di fascino l'idea in italiano funziona meglio. Quindi ciò che poi è rimasto in
+
+21
+00:02:52,780 --> 00:03:05,480
+questo apprezzo molto Stefano. Sono passati oltre 40 anni, siamo ormai tra gli anziani di questo
+
+22
+00:03:06,500 --> 00:03:12,620
+Paese. Mia moglie mi ha fatto notare ieri sera che a questo punto sono il componente più anziano
+
+23
+00:03:12,620 --> 00:03:18,400
+del governo in carica in questo Paese. Ancora voglio vedere esattamente le date di nascita,
+
+24
+00:03:18,460 --> 00:03:25,860
+non le ho dato immediatamente ragione, però temo che l'abbia. Quello che continua a caratterizzare
+
+25
+00:03:25,860 --> 00:03:35,460
+Stefano a quest'età è che non si è messo a fare il santone. Devo dire che diversi dei nostri
+
+26
+00:03:35,460 --> 00:03:41,860
+vengono messi dagli altri nella condizione di esprimersi attraverso frasi simili a quelle
+
+27
+00:03:41,860 --> 00:03:49,280
+che una volta trovavamo in quei piccoli fogliettini dei Baci Perugina ed essere riveriti per la
+
+28
+00:03:49,280 --> 00:03:58,450
+profonda saggezza di ciò che hanno scritto in questi pizzini di alto diritto. Lui no,
+
+29
+00:03:58,450 --> 00:04:05,230
+lui arrivato a quest'età in fondo lo potrebbe fare se lo volesse il santone e probabilmente
+
+30
+00:04:05,230 --> 00:04:12,450
+potrebbe fare pure lui i suoi pizzini perugina e sarebbe parimenti riverito. Invece continua
+
+31
+00:04:12,450 --> 00:04:23,230
+a cimentarsi con l'incerto, continua ad informarsi e a stare appunto sulla frontiera, il che ragazzi
+
+32
+00:04:23,230 --> 00:04:29,910
+insomma alla nostra età è apprezzabile di per sé alla fin fine. E questa è la prima
+
+33
+00:04:29,910 --> 00:04:39,390
+cosa che io tendo a cogliere in questo libro. Non sono sempre d'accordo con lui in questo
+
+34
+00:04:39,390 --> 00:04:49,630
+libro e ora dico perché. Sono d'accordo sull'idea che è in fondo crociana del libro, è veramente
+
+35
+00:04:49,630 --> 00:05:02,150
+crociana che la storia finisce nella libertà. Se si è di sinistra si deve citare a Martia
+
+36
+00:05:02,150 --> 00:05:08,210
+Senn perché ha reso la libertà di sinistra, ma è la stessa però, mi spiace notarlo,
+
+37
+00:05:08,350 --> 00:05:18,250
+ma è la stessa. Qui c'è un filosofo può attestare. Perché il suo schema è uno schema
+
+38
+00:05:18,250 --> 00:05:23,750
+che non solo è affascinante, ma risponde a un dato storico. Nella fase storica che
+
+39
+00:05:23,750 --> 00:05:30,670
+noi abbiamo vissuto, che è quella che segue agli stati cosiddetti assoluti del continente
+
+40
+00:05:30,670 --> 00:05:37,670
+europeo in ragione di sommovimenti sociali che prima hanno per protagonista i ceti borghesi,
+
+41
+00:05:37,730 --> 00:05:44,510
+poi con l'industrializzazione hanno per protagonisti altri ceti, noi abbiamo la conquista della
+
+42
+00:05:44,510 --> 00:05:53,830
+libertà economica secolo XIX, la conquista della libertà politica secolo XX e Stefano
+
+43
+00:05:53,830 --> 00:06:00,450
+dice il passo successivo è la conquista della libertà di vivere e quindi, come lui la chiama,
+
+44
+00:06:00,990 --> 00:06:08,630
+la libertà della vita, il diritto al servizio del mestiere di vivere. Questo processo è
+
+45
+00:06:08,630 --> 00:06:17,070
+un processo che ha senso, che corrisponde ad aspettative reali, effettive, che corrisponde
+
+46
+00:06:17,070 --> 00:06:24,230
+ad allargamenti progressivi della stagione dei diritti che proprio mediati dai diritti
+
+47
+00:06:24,230 --> 00:06:31,410
+sociali che danno un contenuto reale alla libertà politica quando ci sono nel XX secolo
+
+48
+00:06:31,410 --> 00:06:38,550
+poi passano dalle libertà da, una volta che sei libero dalle libertà da, anche tu ti
+
+49
+00:06:38,550 --> 00:06:47,230
+puoi permettere le libertà di a quel punto. La libertà di tutti di vivere, di vivere
+
+50
+00:06:47,230 --> 00:06:54,090
+la propria vita, tant'è vero che il fondamento costituzionale, e qui lui somiglia molto ad
+
+51
+00:06:54,090 --> 00:07:01,550
+Martia Sen usa quasi le medesime parole e Croce non le usava, devo concederlo questo.
+
+52
+00:07:01,630 --> 00:07:07,990
+Io non sono Crociano, sia chiaro, non sono venuto qui a fare propaganda a Croce, ma lo
+
+53
+00:07:07,990 --> 00:07:16,110
+schema è quello del progresso della storia verso la libertà. Lui dice, ciascuno sia
+
+54
+00:07:16,110 --> 00:07:21,870
+libero di realizzare il proprio progetto di vita, in effetti, che sono più o meno ciò
+
+55
+00:07:21,870 --> 00:07:27,090
+che dice Sen, lui lo dice con le parole della costituzione italiana e della costituzione
+
+56
+00:07:27,090 --> 00:07:32,070
+tedesca che ha un problemino che la nostra costituzione non ha, che Stefano segnala,
+
+57
+00:07:32,230 --> 00:07:38,410
+che è il riferimento al rispetto delle norme morali, ma insomma l'idea fondamentalmente
+
+58
+00:07:38,410 --> 00:07:45,770
+è questa qua. Ora, qui viene il problema, perché se fosse così sarebbe davvero Crociano
+
+59
+00:07:45,770 --> 00:07:56,570
+in fondo, ma qui viene il problema che questo passaggio del diritto nella sua funzione di
+
+60
+00:07:56,570 --> 00:08:03,070
+aprire e allargare lo spettro dei diritti e delle libertà in funzione del mestiere
+
+61
+00:08:03,070 --> 00:08:13,770
+di vivere interviene in un momento nel quale cambiamenti tecnologici, genetica, tutte queste
+
+62
+00:08:13,770 --> 00:08:25,890
+cose qui terremotano leggi ritenute naturali sulle quali erano costruite certezze basilari
+
+63
+00:08:25,890 --> 00:08:35,290
+delle nostre società. Allora lui dice, questo genera una sorta di horror vacui che fa emergere
+
+64
+00:08:35,290 --> 00:08:44,310
+dal profondo non ad opera del diritto la continuazione dell'itinerario delle libertà,
+
+65
+00:08:44,550 --> 00:08:53,850
+ma la funzione primigenia alla Norbert Elias del diritto come strumento della civiltà
+
+66
+00:08:53,850 --> 00:09:03,610
+contro la violenza e quindi la sua valenza costrittiva. E a quel punto è il diritto
+
+67
+00:09:03,610 --> 00:09:12,030
+limite, il diritto intrusivo, il diritto che al di là di un certo limite, qui c'è
+
+68
+00:09:12,030 --> 00:09:20,870
+proprio all'inizio una elegante citazione, può rappresentare uno stracolmo di diritto
+
+69
+00:09:20,870 --> 00:09:29,050
+con il minimo di libertà e di diritti. L'analogia è stracolmo di cultura e privo di saggezza.
+
+70
+00:09:32,550 --> 00:09:40,010
+Affermazione. Ora c'è molto di vero in questo, perché questo lo prendo come traccia,
+
+71
+00:09:40,150 --> 00:09:47,930
+poi questa traccia che si dipana lungo il primo capitolo viene articolata e gestita
+
+72
+00:09:47,930 --> 00:09:52,930
+con una serie numerosissima di sketch e qui lui mette insieme quello che ha letto, quello
+
+73
+00:09:52,930 --> 00:09:59,010
+che ha fatto come privacy, quello che ha vissuto, eccetera. Questo è una bella summula
+
+74
+00:09:59,010 --> 00:10:05,970
+anche di vita di Stefano, in effetti se uno ci va a leggere dietro e allora lo lega al
+
+75
+00:10:05,970 --> 00:10:14,890
+corpo, alla fine del corpo, al gene e lo articola su diversi capitoli. Ma io voglio rimanere
+
+76
+00:10:14,890 --> 00:10:25,330
+a questo filone essenziale per porre qui alcune domande relative proprio alla libertà
+
+77
+00:10:25,330 --> 00:10:36,490
+le prese con. E se il diritto che pone dei limiti è necessariamente soltanto espressione
+
+78
+00:10:36,490 --> 00:10:46,950
+dell'horror vacui di cui di sicuro è espressione anche o è espressione anche di qualcos'altro
+
+79
+00:10:46,950 --> 00:10:56,090
+che in ragione proprio dei cambiamenti che sono intervenuti sta accadendo. Sono domande
+
+80
+00:10:56,090 --> 00:11:02,370
+che vengono da una persona come me che non le fa a nome di nessuna religione, ma a nome
+
+81
+00:11:02,370 --> 00:11:15,410
+proprio. Io sono un costituzionalista, per me il diritto è apposizione di limiti al
+
+82
+00:11:15,410 --> 00:11:23,910
+potere. Le Costituzioni sono nate così, la loro funzione era questa, c'era un potere
+
+83
+00:11:25,330 --> 00:11:33,710
+che doveva essere limitato. La funzione del diritto era limitarlo. I primi diritti degli
+
+84
+00:11:33,710 --> 00:11:42,330
+esseri umani garantiti dalla legge non erano assistanti, ma erano l'interfaccia di un limite
+
+85
+00:11:42,330 --> 00:11:49,070
+ad un potere prima assoluto. Questo era la Magna Carta. Io ho il diritto di scegliere
+
+86
+00:11:49,070 --> 00:11:55,050
+mio sposo, è la conseguenza del fatto che tu, mio sovrano, non hai il diritto di sceglierlo
+
+87
+00:11:55,050 --> 00:12:04,070
+per me. In principio era il potere nella storia, non il diritto. I primi diritti nascono così.
+
+88
+00:12:05,650 --> 00:12:13,750
+Questa funzione del costituzionalismo come limite del potere, che è quella che storicamente
+
+89
+00:12:13,750 --> 00:12:22,830
+afferma i tempi delle rivoluzioni, è una funzione che rimarrà, si fonderanno di diritti e libertà,
+
+90
+00:12:22,950 --> 00:12:30,030
+ma nello spazio che si è venuto ricavando sulla limitazione del potere. Arriveremo al punto
+
+91
+00:12:30,030 --> 00:12:37,260
+giustamente che pretenderemo dal diritto di limitare non soltanto il potere pubblico prima
+
+92
+00:12:37,940 --> 00:12:48,300
+ma di porre un limite alle libertà private quando esse diventino potere sugli altri. Una
+
+93
+00:12:48,300 --> 00:12:58,460
+delle grandi conquiste della civiltà democratica è quella che il potere, che è produrre effetti
+
+94
+00:12:58,460 --> 00:13:06,800
+unilaterali su altri, può essere riconosciuto soltanto a chi ha direttamente o indirettamente
+
+95
+00:13:06,800 --> 00:13:14,700
+una legittimazione democratica. Chi non le ha non può produrre alcun effetto su altri senza
+
+96
+00:13:14,700 --> 00:13:22,340
+il consenso dei medesimi altri. Questa è una regola fondamentale della democrazia ed è quella
+
+97
+00:13:22,340 --> 00:13:31,660
+che ci ha permesso, se posso dire, a noi che abbiamo gente come me che ha una cultura di
+
+98
+00:13:32,660 --> 00:13:41,840
+ecco di scavare negli ordinamenti che abbiamo trovato per porre questo problema del potere
+
+99
+00:13:41,840 --> 00:13:53,380
+privato e per assoggettarlo alla stessa regola giudica. Allora la questione è quanti dei limiti
+
+100
+00:13:53,860 --> 00:14:01,640
+dei quali si parla a fronte delle vicende del nostro tempo sono dettati dallo scurantismo
+
+101
+00:14:01,640 --> 00:14:13,060
+delle oscure paure? Quanto sono dettati dalla ragion fondamentale che nessuno di noi ha il
+
+102
+00:14:13,060 --> 00:14:22,860
+diritto di pregiudicare il destino di altri? Io sono tra quelli che ancora oggi pianta una grana
+
+103
+00:14:22,860 --> 00:14:29,720
+agli scienziati, vado subito alla libertà della scienza, agli scienziati che inventarono l'ordigno
+
+104
+00:14:29,720 --> 00:14:41,100
+il mondo ha cominciato a cambiare allora. Ecco quella profonda evocazione che c'è nella coscienza
+
+105
+00:14:41,540 --> 00:14:49,120
+di chi ha una fede religiosa davanti all'evoluzione del nostro tempo, il richiamo alla differenza
+
+106
+00:14:49,120 --> 00:14:58,500
+tra creatore e creatura che è il punto di partenza di qualunque religione che preso
+
+107
+00:14:58,500 --> 00:15:08,540
+infilata e fatto scattare come un nervo del tutto scoperto quando in quell'anno gli uomini
+
+108
+00:15:08,540 --> 00:15:16,320
+dimostrarono che erano in grado di distruggere il mondo, perché il mondo secondo le fedi religiose
+
+109
+00:15:16,320 --> 00:15:24,280
+agli esseri umani era stato consegnato per essere migliorato ma non per essere distrutto. Non voglio
+
+110
+00:15:24,280 --> 00:15:30,860
+aprire quella disputa nella quale con una comodità che io trovo disgustosa in miriadi
+
+111
+00:15:30,860 --> 00:15:37,640
+di dispute che riguardano ciascuno di noi la colpa è sempre della politica. E quindi questa
+
+112
+00:15:37,640 --> 00:15:44,980
+politica che sempre e in ogni circostanza deve fare da comodo parafumine della irresponsabilità
+
+113
+00:15:44,980 --> 00:15:52,660
+o della insufficiente responsabilità di chi non ha responsabilità politica. Senza che ci si
+
+114
+00:15:52,660 --> 00:16:03,400
+scorga in paesi democratici quanto questo è ignobilmente servile di paradigmi e prolegomeni
+
+115
+00:16:03,400 --> 00:16:12,940
+di civiltà non democratiche. E quindi io non ho mai accettato che la responsabilità fu soltanto
+
+116
+00:16:12,940 --> 00:16:20,040
+di Truman in quella faccenda. C'erano degli uomini che sapevano, non sapevano esattamente che cosa
+
+117
+00:16:20,040 --> 00:16:25,410
+stavano facendo. Tanto è vero che li abbiamo visti più volte nei filmati mettere le mani
+
+118
+00:16:25,920 --> 00:16:37,260
+sull'ordigno finendo per farsi colpire e infiltrare dalle radiazioni. Ma sapevano che stavano
+
+119
+00:16:37,260 --> 00:16:43,180
+costruendo un ordigno che era destinato a provocare distruzioni che non si erano mai viste. Non
+
+120
+00:16:43,180 --> 00:16:48,660
+avevano la più pallida idea di quali erano le dimensioni di quelle distruzioni. E i racconti
+
+121
+00:16:48,660 --> 00:16:55,900
+ci dimostrano che non avevano idea. Allora la mia domanda è, ho il diritto io di fare una
+
+122
+00:16:55,900 --> 00:17:07,680
+cosa che può avere conseguenze negative sugli altri che io ignoro? Se qualcuno dice no a questo,
+
+123
+00:17:08,140 --> 00:17:16,600
+sta limitando la libertà, sta limitando il progetto di vita di qualcuno o sta impedendo
+
+124
+00:17:16,600 --> 00:17:25,380
+qualcuno di esercitare un potere abusivo sugli altri proprio perché produce effetti sugli altri
+
+125
+00:17:25,380 --> 00:17:34,240
+che non hanno aperto bocca sul loro consenso rispetto a quegli effetti. La stessa cosa vale
+
+126
+00:17:34,240 --> 00:17:47,480
+in qualche modo. So quanto può essere oscurantista l'uso del principio di precauzione, ma sono
+
+127
+00:17:47,480 --> 00:17:53,780
+in Italia tra i pochi non verdi a ritenere che il principio di precauzione abbia un gran
+
+128
+00:17:53,780 --> 00:18:02,800
+senso perché noi sappiamo che vi sono produzioni geneticamente modificate, qui il mio amico
+
+129
+00:18:02,800 --> 00:18:08,000
+Veronesi la vede in modo completamente diverso da me. Lo so che esistono produzioni geneticamente
+
+130
+00:18:09,140 --> 00:18:15,020
+modificate che rappresentano un grande progresso per l'umanità e per altri, lo so benissimo che
+
+131
+00:18:15,020 --> 00:18:24,900
+ci sono, ma ce ne sono diverse che vengono immesse nelle campagne senza sapere quali effetti
+
+132
+00:18:24,900 --> 00:18:31,600
+potranno produrre sugli equilibri ecologici circostanti. Io limito la libertà di scienza,
+
+133
+00:18:31,600 --> 00:18:38,740
+il progetto di vita di questi scienziati, se dico col principio di precauzione. Fermatevi finché
+
+134
+00:18:38,740 --> 00:18:47,060
+non avete sufficiente chiarezza degli effetti che produrrete sugli altri. Ciao Fausto. Insomma,
+
+135
+00:18:47,240 --> 00:18:58,020
+non è un caso che i medicamenti non testati abbiano un unico destinatario su cui tutti
+
+136
+00:18:58,020 --> 00:19:04,760
+siamo d'accordo, il malato terminale che dà il suo consenso. C'è una ragione, c'è una
+
+137
+00:19:04,760 --> 00:19:15,520
+ragione, perché a quel punto può rischiare questi effetti sconosciuti. Ed è chiaro che
+
+138
+00:19:15,520 --> 00:19:24,500
+a questo punto si passa anche alla tematica della genetica. L'argomento di Abermas, non
+
+139
+00:19:24,500 --> 00:19:34,700
+tanto quello della casualità, quanto proprio quello della predeterminazione, cioè la trasformazione
+
+140
+00:19:34,700 --> 00:19:43,520
+genetica, l'intervento germinale in particolare, può avere implicazioni tali da predeterminare
+
+141
+00:19:43,520 --> 00:19:52,920
+una buona parte del destino di chi seguirà e altro anche chi non ha ancora cominciato
+
+142
+00:19:52,920 --> 00:20:02,880
+a muoversi sulle proprie gambe, è altro. Chi mi dà il diritto di pregiudicare la libertà di
+
+143
+00:20:02,880 --> 00:20:11,640
+chi verrà, di scegliere ciò che vuole? So quali sono i rischi di questo tipo di argomento, ma è
+
+144
+00:20:11,640 --> 00:20:19,180
+un argomento che a mio avviso deve essere valutato. Ne abbiamo parlato con Stefano più volte. La
+
+145
+00:20:19,180 --> 00:20:25,860
+predeterminazione che elimina un male è indiscutibilmente ammissibile perché è cura
+
+146
+00:20:25,860 --> 00:20:33,080
+della salute, la predeterminazione che elimina una malformazione anche sul feto, nessuno
+
+147
+00:20:33,080 --> 00:20:41,340
+la discuterà mai, ma la predeterminazione che determina uno status di sottrazione alla
+
+148
+00:20:42,940 --> 00:20:52,900
+immaginiamo che sia possibile la sottrazione totale alla malattia. Ecco qui comincio a ritenere che
+
+149
+00:20:52,900 --> 00:20:59,780
+possa avere un senso l'obiezione che in linea di principio non condivido che noi siamo nati per
+
+150
+00:20:59,780 --> 00:21:06,220
+soffrire, hanno scritto alcuni filosofi o storici che fanno i filosofi sui giornali e la differenza
+
+151
+00:21:06,220 --> 00:21:13,320
+si sente quando è lo storico che fa il filosofo, ma non c'è nessuna ragione che viviamo per
+
+152
+00:21:13,320 --> 00:21:20,220
+soffrire francamente, ma in termini generalissimi che dalla nostra vita sia eliminato il male
+
+153
+00:21:20,220 --> 00:21:28,800
+totalmente io non so se questo ha senso, se non sia un potere enorme che esercitiamo su chi verrà,
+
+154
+00:21:28,800 --> 00:21:38,340
+quali conseguenze può avere sulla formazione di un essere umano il fatto che non abbia mai da
+
+155
+00:21:38,340 --> 00:21:45,780
+fronteggiare quel conflitto che c'è tra il bene e il male che è parte della nostra crescita e della
+
+156
+00:21:45,780 --> 00:21:54,620
+nostra maturazione. E poi c'è la domanda sgradita in genere ai pubblici di sinistra, siamo sicuri
+
+157
+00:21:54,620 --> 00:22:09,760
+che l'embrione non è altro, egli o è la stessa. Per me è altro, tant'è vero che in tutta la
+
+158
+00:22:09,760 --> 00:22:19,140
+vicenda della fecondazione assistita ho cercato di far prevalere senza successo tecniche e momenti
+
+159
+00:22:19,140 --> 00:22:28,320
+di congelamento che intervengano prima che si sia formato l'individuo e che si sia arrivati allo
+
+160
+00:22:28,320 --> 00:22:35,520
+stadio in cui c'è l'embrione, ma è indiscutibile che se può essere vero quello che io sulla base
+
+161
+00:22:35,520 --> 00:22:41,520
+di ciò che ho imparato da Carlo Flamigni e da altri abbiamo sostenuto che c'è una fase dopo
+
+162
+00:22:41,520 --> 00:22:49,320
+la fecondazione dell'ovocita nella quale ancora non c'è un individuo ma ci sono delle cellule con
+
+163
+00:22:49,320 --> 00:22:57,760
+i cromosomi che ancora non si sono composti e quindi io non sono in presenza di un individuo
+
+164
+00:22:57,760 --> 00:23:04,060
+e quindi se lo congelo non sto congelando un individuo. Se questo ha un senso vuol dire
+
+165
+00:23:04,060 --> 00:23:10,600
+che quando poi di lì dopo alcune ore si sarà formato un embrione si sarà formato un individuo,
+
+166
+00:23:10,600 --> 00:23:19,000
+questo è altro. Se è dentro il ventre materno c'è tutto quel delicatissimo problema che è
+
+167
+00:23:19,000 --> 00:23:28,880
+l'altro dentro di lei e per questo giustamente la 194 lascia a lei la decisione di decidere,
+
+168
+00:23:29,020 --> 00:23:37,920
+giustamente, perché è dentro di lei, ma noi siamo arrivati al punto di decidere non è lei che lo ha
+
+169
+00:23:37,920 --> 00:23:48,120
+dentro di embrioni che sono individui che non sono dentro di lei. Non può valere la stessa regola
+
+170
+00:23:48,120 --> 00:23:57,290
+se non facciamo due parti in commedia e questo né la logica né la dialettica consentono di farlo.
+
+171
+00:23:59,300 --> 00:24:07,080
+Ora ci sono anche queste domande che possono giustificare l'esistenza di limiti che come tali
+
+172
+00:24:07,080 --> 00:24:14,540
+non vedo espressivi di intrusione, ma li vedo espressivi del mio antico principio
+
+173
+00:24:14,540 --> 00:24:24,040
+il diritto serve a limitare il potere illegittimo. Ad evità il potere è illegittimo quando è un
+
+174
+00:24:24,040 --> 00:24:30,500
+potere privato che si esercita su altri che non hanno modo di esprimere il loro consenso.
+
+175
+00:24:32,920 --> 00:24:39,480
+Distinguere tra i due casi non sempre facile, l'oscurantismo cerca di non distinguere tra
+
+176
+00:24:39,480 --> 00:24:48,180
+i due casi, c'è un uso della paura per dire va ad eretro ovunque e a chiunque, tutto questo c'è,
+
+177
+00:24:48,460 --> 00:24:59,880
+ma non vedere che c'è anche dell'altro può significare non vedere cose che a mio avviso
+
+178
+00:24:59,880 --> 00:25:10,340
+si vedono e come le si mette in circolo e qui ecco rispetto alla domanda di Stefano ma il diritto
+
+179
+00:25:10,340 --> 00:25:19,600
+deve disegnare l'alba o deve concludere il giorno, io sono propenso al diritto che conclude il giorno
+
+180
+00:25:19,600 --> 00:25:29,660
+dopo un ampio coinvolgimento. Non vorrei mai che fosse un parlamento, fosse Anna o il sottoscritto,
+
+181
+00:25:29,660 --> 00:25:36,740
+siamo quelli tra i cinque qua che sono stati eletti ma anche gli altri tre potrebbero esserle,
+
+182
+00:25:36,760 --> 00:25:43,700
+lo sono stati, ma in ragione di questo noi siamo investiti nella facoltà di decidere da soli.
+
+183
+00:25:44,740 --> 00:25:59,640
+C'è veramente una fase dialogica che coinvolga la scienza, che coinvolga i filosofi,
+
+184
+00:25:59,640 --> 00:26:08,200
+i filosofi tirano molto in questa stagione, l'avrete notato che questo per noi giuristi è fonte di una
+
+185
+00:26:08,200 --> 00:26:17,320
+invidia che soltanto una filosopoli ci potrebbe in qualche modo cancellare come appunto per me
+
+186
+00:26:17,320 --> 00:26:27,120
+torinista un quarant'anni che aspetto la juve al barco, capiti come capiti, non è sul campo,
+
+187
+00:26:27,120 --> 00:26:34,480
+è vergognoso che io nutra questi sentimenti. La filosofo un po' di dubito che ci sarà ma
+
+188
+00:26:34,480 --> 00:26:42,660
+perché voi tirate? Perché voi siete percepiti come quelli che sono in grado di formulare delle
+
+189
+00:26:42,660 --> 00:26:48,060
+risposte a queste domande che sono domande vere che non sono inventate dai preti, sono domande
+
+190
+00:26:48,060 --> 00:26:49,980
+vere queste, che stanno in tante...
+
