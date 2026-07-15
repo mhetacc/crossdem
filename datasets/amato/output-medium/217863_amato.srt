@@ -1,0 +1,724 @@
+1
+00:00:00,000 --> 00:00:18,660
+Allora signori benvenuti diamo inizio ai lavori secondo il programma e perché
+
+2
+00:00:18,660 --> 00:00:27,060
+appunto stavo notando che essendo lei la prima ero ero piuttosto stupefatto quindi
+
+3
+00:00:31,440 --> 00:00:38,400
+diritto della concorrenza eba anche analisi della disciplina e prospettive di riforma così è stato
+
+4
+00:00:38,400 --> 00:00:48,380
+intitolato questo incontro nel quale avremo modo di esaminare partitamente alcuni dei
+
+5
+00:00:48,380 --> 00:00:54,620
+temi che riguardano alcuni però abbastanza sistematicamente a giudicare dal programma
+
+6
+00:00:55,380 --> 00:01:04,060
+nella prima parte quelli che riguardano i retail grosso modo e quindi tutta la tematica relativa
+
+7
+00:01:04,060 --> 00:01:18,360
+alle varie carte fis varie il sistema di pagamento euro le intese cooperative tra le banche
+
+8
+00:01:18,360 --> 00:01:26,820
+eccetera e poi si passerà alla parte concentrazioni bancarie la parte concentrazioni
+
+9
+00:01:26,820 --> 00:01:34,040
+bancarie è quella che eccita di più l'establishment la parte retail è quella che eccita di più i
+
+10
+00:01:34,040 --> 00:01:41,960
+consumatori naturalmente allora noi ci occuperemo di entrambe sperando di eccitare tutti la sede
+
+11
+00:01:41,960 --> 00:01:53,120
+non è di quelle destinate ad eccitare il prossimo per due parole prima di iniziare ci sono state
+
+12
+00:01:53,120 --> 00:02:01,770
+come sapete nel settore modifiche significative da ultimo per quanto riguarda le competenze e
+
+13
+00:02:02,020 --> 00:02:11,440
+all'interno del nostro ordinamento e c'è in sede europea un'attenzione crescente della commissione
+
+14
+00:02:11,440 --> 00:02:23,560
+ai fenomeni che riguardano per l'appunto il retail ma non solo noi e insomma io devo
+
+15
+00:02:23,560 --> 00:02:30,220
+dire siamo riusciti perché fin dalla mia prima relazione da presidente dell'antitrust italiano
+
+16
+00:02:30,220 --> 00:02:43,800
+nel 1994 io scressi o lessi che era stato scritto ma lo condividevo che insomma non
+
+17
+00:02:43,800 --> 00:02:51,920
+aveva senso aver separato la decisione antitrust sulle banche dalla decisione antitrust sugli
+
+18
+00:02:53,420 --> 00:03:04,020
+operatori economici e che il fatto che l'autorità antitrust fosse tale per quanto riguarda le
+
+19
+00:03:04,020 --> 00:03:11,720
+assicurazioni con parere dell'isbap e che fosse invece titolare soltanto di un parere per quanto
+
+20
+00:03:11,720 --> 00:03:20,720
+riguarda le banche affidate invece all'autorità di settore questo creava una simmetria spiegabile
+
+21
+00:03:20,720 --> 00:03:29,720
+soltanto con la maggior forza al momento in cui il legislatore adottò questa disciplina della
+
+22
+00:03:29,720 --> 00:03:35,980
+banca d'italia rispetto all'autorità antitrust non c'era altra spiegazione razionale se non
+
+23
+00:03:35,980 --> 00:03:48,540
+questa e la prova del 9 l'abbiamo avuta l'anno scorso quando essendo caduta forza temporaneamente
+
+24
+00:03:48,540 --> 00:03:56,620
+per nostra fortuna della banca d'italia rispetto al sistema politico istituzionale il cambiamento
+
+25
+00:03:57,280 --> 00:04:06,100
+è arrivato come una piccola lama di coltello nel burro della colazione del mattino per quelli
+
+26
+00:04:06,100 --> 00:04:14,680
+che lo fanno io da anni ho smesso infatti il colesterolo è sceso vero sconsiglio con un
+
+27
+00:04:14,680 --> 00:04:21,780
+effetto che a mio avviso è stato addirittura eccessivo perché se da una parte poteva aver
+
+28
+00:04:21,780 --> 00:04:32,020
+senso aver messo in parallelo le due decisioni nella parte concentrazioni antitrust profili
+
+29
+00:04:32,020 --> 00:04:43,740
+concorrenza banca d'italia profili stabilità che nell'applicazione delle regole antitrust per la
+
+30
+00:04:44,740 --> 00:04:51,280
+intesi quant'altro che non vi fosse neanche il parere della banca d'italia io l'ho trovato
+
+31
+00:04:51,280 --> 00:05:00,950
+un overdose tanto overdose che confesso di essere stato io quello che ha fatto correggere nel
+
+32
+00:05:04,820 --> 00:05:13,300
+recentissimo intervento sul disegno di legge per ora sulle autorità indipendenti il parere della
+
+33
+00:05:13,300 --> 00:05:21,200
+banca d'italia il punto questo conferma quanto sia erratico il legislatore in queste cose e quindi
+
+34
+00:05:21,200 --> 00:05:31,160
+quanto segua i propri umori e i propri malumori più che non una razionalità complessiva nell'allocare
+
+35
+00:05:31,160 --> 00:05:39,840
+queste competenze perché francamente mi pare più equilibrato come ora il disegno di legge lo
+
+36
+00:05:39,840 --> 00:05:48,580
+perché c'è indiscutibilmente da un lato un rapporto sempre tra stabilità e concorrenza
+
+37
+00:05:48,580 --> 00:05:56,260
+questo piaccia o non piaccia ma bisogna prenderne atto le istituzioni finanziarie tutte si tratti
+
+38
+00:05:56,260 --> 00:06:03,180
+di assicurazione si tratti di fondi pensione si tratti di banche si tratti di istituzioni
+
+39
+00:06:03,180 --> 00:06:10,540
+finanziarie lo pongono un problema di stabilità che in un modo o nell'altro può rappresentare un
+
+40
+00:06:10,540 --> 00:06:20,160
+limite ad una applicazione altrimenti e plausibile delle regole antitrust è così e non riguarda
+
+41
+00:06:20,160 --> 00:06:29,900
+esclusivamente la parte relativa alle concentrazioni che è quella più ovvia ma riguarda anche
+
+42
+00:06:29,900 --> 00:06:38,080
+comportamenti intese scelte relative a prodotti scelte relative a modalità di vendita del resto
+
+43
+00:06:38,080 --> 00:06:48,080
+il lavoro che ormai è diventato molto analitico sui congegni del retail lo mettono bene in evidenza
+
+44
+00:06:48,080 --> 00:06:56,340
+devo dire che di questo ci siamo preoccupati anche pensando alla futura allocazione dei compiti
+
+45
+00:06:56,340 --> 00:07:06,770
+tra le autorità che il nuovo disegno di legge prevede dando finalmente spago senza remore al
+
+46
+00:07:07,180 --> 00:07:15,140
+principio del ciascuno fa tutto quello che serve per la finalità pubblica che gli è affidata
+
+47
+00:07:17,820 --> 00:07:25,700
+evitando questo ve lo sottolineo nel disegno di legge sulle autorità indipendenti evitando una
+
+48
+00:07:27,620 --> 00:07:38,420
+rialocazione dei poteri esistenti tra le autorità quasi che allo scopo di realizzare compiutamente
+
+49
+00:07:38,980 --> 00:07:47,140
+un controllo per finalità a questo punto bastasse prendere i pezzi esistenti e dislocarli
+
+50
+00:07:47,140 --> 00:07:54,620
+diversamente può non essere così perché i pezzi esistenti sono stati costruiti da un'altra
+
+51
+00:07:54,620 --> 00:08:03,220
+angolatura ed è possibile che la loro mera rialocazione lasci dei vuoti in concreto c'è
+
+52
+00:08:03,220 --> 00:08:10,900
+un principio implicito che ha finito per nascere sulla base dell'assetto ibrido delle competenze
+
+53
+00:08:10,900 --> 00:08:18,940
+attuali per cui un riaggiustamento è che dei prodotti si occupa chi ha la competenza sulla
+
+54
+00:08:18,940 --> 00:08:28,220
+trasparenza e dei profili strutturali si occupa di più chi ha la missione della stabilità non è
+
+55
+00:08:28,220 --> 00:08:37,240
+detto che sia così senza arrivare a ipotizzare rinnovate autorizzazioni singulatim su singoli
+
+56
+00:08:37,240 --> 00:08:46,920
+prodotti da parte dell'autorità della stabilità che questa tenga un occhio sui prodotti su quali
+
+57
+00:08:46,920 --> 00:08:57,080
+sono e su quanto al di là di un certo limite essi possano mettere a repentaglio la stabilità
+
+58
+00:08:57,080 --> 00:09:04,420
+è qualcosa che dovrà essere fatto altrimenti avrei qualche remora a vedere i miei risparmi
+
+59
+00:09:04,420 --> 00:09:11,160
+in un fondo pensione per esempio per dirne una a seconda delle scelte che vengono fatte comunque
+
+60
+00:09:13,080 --> 00:09:23,940
+stabilità e concorrenza sono i due principi che in contesti concreti possono anche fare a puni
+
+61
+00:09:23,940 --> 00:09:30,720
+ne dobbiamo prendere atto in effetti ci piace o no ne dobbiamo prendere atto e quindi l'uno può
+
+62
+00:09:30,720 --> 00:09:37,360
+finire per essere un limite dell'altro e andare ad indagare quando questo concretamente accade e
+
+63
+00:09:37,360 --> 00:09:44,140
+si può risolvere questo conflitto è molto meglio che scrivere con auree parole che in realtà non
+
+64
+00:09:44,140 --> 00:09:51,800
+vi è alcun conflitto tra i due principi i quali si muovono in sfere connesse tra loro coordinate
+
+65
+00:09:51,800 --> 00:09:57,300
+per il bene della collettività e del singolo risparmiatore purtroppo non è così sono le stesse
+
+66
+00:09:57,300 --> 00:10:02,880
+cose che si dicono sui diritti di proprietà intellettuale la concorrenza è verissimo che
+
+67
+00:10:02,880 --> 00:10:10,460
+perseguono la stessa finalità ma lo fanno facendo a pugni spesso l'uno con l'altro e quindi è bene
+
+68
+00:10:11,760 --> 00:10:19,740
+realisticamente averlo averlo presente ora ecco qui e nella prima parte di questa nostra chiacchierata
+
+69
+00:10:19,740 --> 00:10:28,760
+questo questo farà esclusivamente da sfondo ecco i temi principali riguarderanno se non ho
+
+70
+00:10:28,760 --> 00:10:38,660
+capito male l'andamento del nostro lavoro proprio quelle questioni con le quali facciamo i conti
+
+71
+00:10:40,240 --> 00:10:51,160
+in parte sul mercato interno in parte sul mercato unico non c'è dubbio che i fees sono diversi nei
+
+72
+00:10:51,160 --> 00:10:57,680
+nostri paesi europei e allora bisogna capire se questo è espressione di un diverso grado di
+
+73
+00:10:57,680 --> 00:11:07,400
+concorrenza o di qualcos'altro essere consapevoli dei diversi livelli per le carte in realtà
+
+74
+00:11:07,400 --> 00:11:13,260
+questo riguarda prevalentemente le diverse tipologie di carte significa anche smetterla
+
+75
+00:11:13,260 --> 00:11:18,640
+con questo pianto per cui l'italia è sempre il paese più caro di tutti io non riesco a capire
+
+76
+00:11:18,640 --> 00:11:27,480
+perché dobbiamo accompagnare noi stessi da questo ignorante pianto italico e non greco per cui noi
+
+77
+00:11:27,480 --> 00:11:35,180
+non è vero insomma ci sono dei fees bancari sui quali noi siamo più cari di altri ce ne sono altri
+
+78
+00:11:35,180 --> 00:11:43,400
+sui quali altri sono più cari di noi e questo basta vedere le tabelle sinottiche dei numeri dei
+
+79
+00:11:43,400 --> 00:11:51,180
+vari paesi europei questo è un esercizio utile che andrebbe fatto perché capisco che per chi fa
+
+80
+00:11:51,180 --> 00:11:56,120
+l'associazione dei consumatori dire che quelli che rappresenta sono i più vessati del mondo
+
+81
+00:11:57,420 --> 00:12:09,020
+contribuisce come dire a irrobustire il senso identitario però in sedi dove si dovrebbe dare
+
+82
+00:12:09,020 --> 00:12:15,040
+informazione è bene che l'informazione sia più corretta perché altrimenti poi ci troviamo con
+
+83
+00:12:15,040 --> 00:12:20,900
+queste stranissime cose con le associazioni dei consumatori che appunto dicono che il nostro
+
+84
+00:12:20,900 --> 00:12:29,340
+sistema bancario è una sorta di orca assassina e il nostro sistema bancario che asserisce di
+
+85
+00:12:29,340 --> 00:12:35,220
+essere il più competitivo d'europa il paradosso è che hanno un po' ragione entrambi ma appunto
+
+86
+00:12:35,220 --> 00:12:43,140
+c'è un po' di orca e un po' di concorrenza insomma anche qui occorre occorre molto realismo la parte
+
+87
+00:12:43,140 --> 00:12:54,180
+secondo me molto interessante del lavoro di ricognizione è quello che riguarda le
+
+88
+00:12:54,840 --> 00:13:03,940
+condotte concertate e i congegni di governance del sistema e questa è una parte affascinante
+
+89
+00:13:03,940 --> 00:13:11,100
+del dell'analisi del sistema bancario perché il sistema bancario per renderci dei servizi
+
+90
+00:13:11,100 --> 00:13:21,900
+efficienti sul retail e deve costruire accordi omogeneizzanti omogeneizzanti negli standard se
+
+91
+00:13:21,900 --> 00:13:31,680
+nelle regole in qualche modo anche nelle commissioni e il costruire regole omogeneizzanti attenua per
+
+92
+00:13:31,680 --> 00:13:38,660
+definizione la concorrenza allora fino a quel punto ed è un vecchio tema antitrust l'adozione
+
+93
+00:13:38,660 --> 00:13:46,860
+di standard comuni è produttiva di efficienza a partire da qual punto in là il prezzo che fa
+
+94
+00:13:46,860 --> 00:13:54,840
+pagare alla concorrenza è superiore alle efficienze che produce questo classico tema antitrust qui si
+
+95
+00:13:54,840 --> 00:14:04,220
+propone ormai quanto più si allarga la cooperazione tra le banche e i sistemi di pagamento diventano
+
+96
+00:14:04,220 --> 00:14:16,260
+sempre più coordinati ed intrecciati. Un altro profilo tipico dell'antitrust che emerge in
+
+97
+00:14:16,260 --> 00:14:23,800
+questo settore è quello degli abusi oltre che delle intese e ci sono entrambi l'exploitative
+
+98
+00:14:23,800 --> 00:14:38,440
+e l'exclusionary l'abuso exploitative che è il prezzo richiesto sotto forme diverse all'utente
+
+99
+00:14:38,980 --> 00:14:50,920
+in misura eccessiva e l'exclusionary quello che tende a favorire un core di istituzioni rispetto
+
+100
+00:14:50,920 --> 00:14:58,240
+ad altre nella gestione dei sistemi complessi di coordinamento qui come sapete c'è una questione
+
+101
+00:14:58,480 --> 00:15:06,060
+che ora si affaccia che può portare anche al sangue secondo me che è quella della riserva alle
+
+102
+00:15:06,060 --> 00:15:14,940
+banche in quanto tali di taluni congegni coordinati ad esclusione di istituzioni finanziarie non
+
+103
+00:15:14,940 --> 00:15:25,580
+bancarie questo la stessa commissione ritiene che sia parecchio problematico e mi riporta altre
+
+104
+00:15:25,580 --> 00:15:44,920
+questioni che riguardano le professioni e le esclusive tra professioni alla mente che non c'è
+
+105
+00:15:44,920 --> 00:15:55,000
+sta ponendo e nel risolvere i problemi di tipo concorrenziale che emergono da un settore come
+
+106
+00:15:55,000 --> 00:16:05,840
+questo quanto affidare alle autorità e al normale esercizio dei loro poteri quanto può fare il
+
+107
+00:16:06,380 --> 00:16:18,800
+per decreto del principe noi ci siamo accorti che la nouvelle vaga governativa dei lenzuoli porta
+
+108
+00:16:18,800 --> 00:16:29,100
+a includere nella lenzuolata delle misure che ci aspetteremmo venissero adottate dalle autorità
+
+109
+00:16:29,100 --> 00:16:37,770
+allora la domanda qui diventa qual è il la ripartizione dei compiti tra chi legifera e
+
+110
+00:16:38,040 --> 00:16:45,660
+autorità di settore o autorità trasversali come l'antitrust una volta che le autorità sono state
+
+111
+00:16:45,660 --> 00:16:53,040
+costituite sulla questione delle ricariche il problema è emerso in modo molto evidente era
+
+112
+00:16:53,040 --> 00:17:05,020
+del legislatore oppure toccava all'autorità che differenza fa fatto dal legislatore diventa
+
+113
+00:17:05,740 --> 00:17:15,740
+una intrusione nella libertà contrattuale fatto dall'autorità e espressione della ordinaria
+
+114
+00:17:16,020 --> 00:17:22,920
+vigilanza che un'autorità come quella delle comunicazioni possiede qualcosa di simile ci
+
+115
+00:17:22,920 --> 00:17:31,360
+troviamo anche in materia di antitrust come sappiamo perché insomma che gli switching
+
+116
+00:17:31,360 --> 00:17:39,240
+costs siano elevati e può essere una classica questione antitrust e può arrivare il legislatore
+
+117
+00:17:39,240 --> 00:17:47,560
+che dice questo si fa gratis e quindi lo switching cost è cancellato per legge non ne abbiamo mai
+
+118
+00:17:47,560 --> 00:17:56,260
+discusso in fondo ed è un tema interessante ma insomma il legislatore lo può fare o no
+
+119
+00:17:56,260 --> 00:18:04,140
+io faccio per nessuno, trovo legittima la domanda e io mi sono trovato a dare la
+
+120
+00:18:04,140 --> 00:18:09,980
+risposta prima di essermi posto la domanda e questo mi crea un certo qual problema sul
+
+121
+00:18:09,980 --> 00:18:16,140
+piano intellettuale sarei interessato non c'è dubbio che vi sono delle questioni che una
+
+122
+00:18:16,140 --> 00:18:22,920
+regolazione migliore comunque risolve ma questo accade quando la regolazione fa da
+
+123
+00:18:22,920 --> 00:18:31,620
+cornice ai comportamenti ecco l'introduzione dell'area di pagamento unica per l'euro
+
+124
+00:18:31,620 --> 00:18:47,380
+quello insomma che chiamiamo in italiano sepa uno lo legge così no così ci capiamo ecco
+
+125
+00:18:47,380 --> 00:18:56,940
+questo sicuramente risolve una serie di questioni perché omogeneizza naturalmente trattamenti
+
+126
+00:18:56,940 --> 00:19:05,340
+una cosa cornice insomma poi lascia che all'interno della cornice gli operatori economici si assestino
+
+127
+00:19:05,340 --> 00:19:13,820
+nei loro punti di equilibrio ecco noi ci siamo trovati davanti a questi inter proprio come
+
+128
+00:19:13,820 --> 00:19:25,920
+piccole massnamen fatte dal legislatore in punti specifici particolarmente sensibili
+
+129
+00:19:25,920 --> 00:19:38,780
+per quanto riguarda i rapporti tra operatori e bancari e finanziari e consumatori non vado
+
+130
+00:19:38,780 --> 00:19:45,860
+oltre in questo per naturale garbo verso il governo di cui faccio parte ma sarei lieto
+
+131
+00:19:45,860 --> 00:19:55,120
+se anche questo tema venisse considerato il che detto do subito la parola a chi tocca appunto
+
+132
+00:19:55,120 --> 00:20:02,120
+ginevra bruzzone che ci parla delle regole antitrust nel settore bancario dopo il decreto
+
+133
+00:20:02,120 --> 00:20:11,780
+correttivo della legge sul risparmio ginevra come sapete era così destinata ad altissimi
+
+134
+00:20:11,780 --> 00:20:17,640
+destini all'antitrust e poi per ragioni che mi sfuggono decise di lasciare l'antitrust
+
+135
+00:20:18,780 --> 00:20:23,220
+andò alla sonime dove comunque ha fatto una brillante che
+
+136
+00:20:30,580 --> 00:20:39,880
+insomma un normale essere umano della cui normalità faccia parte una conoscenza ragionevole delle
+
+137
+00:20:39,880 --> 00:20:46,940
+regole antitrust a netta la sensazione che quando si parla di banche c'è una fregatura che cova
+
+138
+00:20:47,920 --> 00:20:57,220
+e qui parlo come il peggiore rappresentante dei consumatori il più demagogico perché insomma
+
+139
+00:20:57,220 --> 00:21:07,900
+non rie uno ascolta e dopo un po gli viene in mente la notula degli avvocati che è una
+
+140
+00:21:07,900 --> 00:21:16,240
+trappola infernale nella quale si inventano voci che non corrispondono a costi e alla fine
+
+141
+00:21:16,240 --> 00:21:27,900
+viene fuori una montagna di così cose da pagare sulle quali che cosa potrebbe fare
+
+142
+00:21:27,900 --> 00:21:33,060
+l'autorità antitrust assolutamente nulla evidentemente perché non è non è proprio
+
+143
+00:21:33,060 --> 00:21:44,160
+competenza sua ecco però qui lo strumento c'è questo è un price è un price fixing lo hai detto
+
+144
+00:21:44,160 --> 00:21:53,280
+è assolutamente un price fixing allora oggi sono degli elementi di costo questa faccenda qui
+
+145
+00:21:53,280 --> 00:22:01,740
+perché è una gigantesca fregatura e una gigantesca fregatura perché l'utente in realtà desidererebbe
+
+146
+00:22:01,740 --> 00:22:10,720
+pagare con la carta di credito come prima pagava col contante avendo la stessa facilità la stessa
+
+147
+00:22:10,720 --> 00:22:20,200
+ovunque accettano i miei euro e ovunque i miei euro hanno esattamente lo stesso valore e comprano
+
+148
+00:22:20,200 --> 00:22:27,800
+esattamente per il medesimo importo benissimo io vorrei che con le carte accadesse esattamente
+
+149
+00:22:27,800 --> 00:22:40,700
+la stessa cosa ma nelle carte si ficcano tutte queste cose qua per cui tu hai bisogno di un
+
+150
+00:22:40,700 --> 00:22:51,160
+e il sistema cooperativo induce alla determinazione di questi costi fees eccetera che in termini
+
+151
+00:22:52,040 --> 00:22:59,620
+antitrust hanno la massima difficoltà ad essere giustificati perché l'ottantuno com 3 e paragrafo
+
+152
+00:22:59,620 --> 00:23:06,720
+3 assolve tutto ma il price fixing è la bestia più nera che conosca a meno che non si tratti
+
+153
+00:23:06,720 --> 00:23:18,200
+di determinati prezzi il prezzo massimo per il retailer eccetera io devo dire la verità insomma
+
+154
+00:23:18,200 --> 00:23:26,520
+tra le varie soluzioni che esistono non vedo altro che l'ambandling dei costi perché l'ambandling
+
+155
+00:23:26,520 --> 00:23:32,500
+dei costi se deve intervenire l'antitrust l'ambandling dei costi corrisponde esattamente
+
+156
+00:23:32,500 --> 00:23:41,520
+ciò che un autorità antitrust è in condizioni di verificare se è in corrispondenza dei costi e
+
+157
+00:23:41,520 --> 00:23:49,320
+se uniformando sulla base di questi costi si ottiene un'efficienza a beneficio del consumatore
+
+158
+00:23:50,640 --> 00:23:57,380
+creando a quel punto spazio per una non price competition e allora ci sono tutte le bubbole
+
+159
+00:23:57,380 --> 00:24:05,880
+che inventa american express per acchiappare mio figlio è uno di quelli che così non fa che
+
+160
+00:24:05,880 --> 00:24:15,340
+dire quante cose offre american express vabbè insomma poi se uno le vuole quelle cose lì se
+
+161
+00:24:15,340 --> 00:24:26,220
+le paga ma ecco bisogna arrivare ad un punto che ci permetta di dire che l'intervento antitrust
+
+162
+00:24:26,220 --> 00:24:35,420
+morde su qualcosa che gli è proprio morde su qualcosa che gli è proprio togliendo quest'aura
+
+163
+00:24:35,420 --> 00:24:44,560
+di relativa inconoscibilità di arcana bancarietà a tutta questa roba che è altrettanto arcana
+
+164
+00:24:44,560 --> 00:24:54,280
+secondo me quanto le fete denotule di noi fetti di giurischi ecco che siamo pronti a dire telefonata
+
+165
+00:24:54,280 --> 00:25:14,680
+al cliente 750 euro nella lista sì sì ma insomma io penso a un giovane ma questo deve essere un
+
+166
+00:25:14,680 --> 00:25:22,060
+punto di attacco di queste cose che cadono legittimamente sotto l'antitrust a mio avviso
+
+167
+00:25:22,060 --> 00:25:28,920
+non è che l'antitrust è nato su queste cose quando quando finì la guerra tra le compagnie
+
+168
+00:25:28,920 --> 00:25:38,860
+ferroviarie ci fu il transmissuri grande caso della corte suprema di tantissimi anni fa e quelli
+
+169
+00:25:38,860 --> 00:25:49,280
+avevano stabilito delle tariffe comuni che vennero valutate in una chiave puramente antitrust in
+
+170
+00:25:49,280 --> 00:25:58,840
+il caso era va bene dopo un po' volevo sbottare perché capita a coloro che si occupano di
+
+171
+00:25:58,840 --> 00:26:06,160
+antitrust è un'esperienza che io faccio da alcuni anni che discutiamo di cose e io capisco tutto
+
+172
+00:26:06,160 --> 00:26:15,000
+discutiamo di cinema di 87 e 3 lettera di l'esenzione dei prodotti culturali una loro
+
+173
+00:26:16,420 --> 00:26:24,600
+francese e allora uno capisce esattamente tutto quello che viene detto appunto discutiamo di
+
+174
+00:26:24,600 --> 00:26:35,160
+microsoft e io capisco tutto insomma arriviamo alle banche e cominciano a scapparmi cominciano
+
+175
+00:26:35,160 --> 00:26:42,240
+a scapparmi dalla testa insomma ci sono una serie di invenzioni in ragione delle quali io non so
+
+176
+00:26:42,240 --> 00:26:48,020
+mi trovo davanti ad un cartello non posso applicare il primo comma dell'articolo 81 non
+
+177
+00:26:48,020 --> 00:26:53,540
+posso applicare il terzo comma dell'articolo 81 vengo mandato a casa con la mia carta di
+
+178
+00:26:53,540 --> 00:26:59,160
+credito avendo capito un'unica cosa che quando la userò non so esattamente quanto mi costerà
+
+179
+00:26:59,160 --> 00:27:08,660
+usare dobbiamo in qualche modo uscire da questa roba qui demitizzare questa roba qui semplificarne
+
+180
+00:27:08,660 --> 00:27:16,220
+la trattazione ricondurla ai nostri schemi abituati perché l'unica cosa su cui è rimasto
+
+181
+00:27:16,220 --> 00:27:25,000
+il concilio vaticano primo calabro ritorna al punto di partenza e poi arriva l'auspicato coffee break
+

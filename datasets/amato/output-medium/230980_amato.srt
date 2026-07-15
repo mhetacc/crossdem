@@ -1,0 +1,692 @@
+1
+00:00:00,000 --> 00:00:09,000
+Disposizioni che riguardano la distribuzione delle competenze tra Stato e Regioni in questo settore.
+
+2
+00:00:10,820 --> 00:00:19,720
+Questa è una delle famose disposizioni, almeno l'ordinamento delle comunicazioni del quale si è a lungo
+
+3
+00:00:19,720 --> 00:00:27,420
+e quasi concordamente parlato come di disposizione del titolo V da ritoccare o da rivedere
+
+4
+00:00:27,420 --> 00:00:32,880
+di questa operazione che mi piace parlare di manutenzione straordinaria del titolo V
+
+5
+00:00:32,880 --> 00:00:40,880
+che all'inizio di questa legislatura sembrava oggetto di comune convergenza, praticamente non si parla più
+
+6
+00:00:41,420 --> 00:00:52,840
+anche nel buon testo unificato della Commissione Affari Costituzionali della Camera della Prima Commissione
+
+7
+00:00:52,840 --> 00:01:00,120
+che ha previsto una serie di ritocchi interessanti al testo costituzionale
+
+8
+00:01:00,120 --> 00:01:03,740
+non mi pare che la salvo errore che la questione sia affrontata
+
+9
+00:01:03,740 --> 00:01:08,800
+resta però io penso sul tappeto e forse è il caso oggi di farvi pure qualche accendo
+
+10
+00:01:09,880 --> 00:01:12,340
+di non farla finire sotto il tappeto.
+
+11
+00:01:12,580 --> 00:01:17,840
+Ecco, questa ha una prima rapida e un po' trasversale lettura
+
+12
+00:01:20,400 --> 00:01:26,120
+mi sono sembrate come dire le questioni che sono aperte
+
+13
+00:01:26,120 --> 00:01:31,940
+e le questioni che attraversano le problematiche di questi tre settori
+
+14
+00:01:31,940 --> 00:01:35,320
+io ho finito il mio compito introduttivo
+
+15
+00:01:35,320 --> 00:01:38,700
+e darei adesso la parola non so se in ordine alfabetico
+
+16
+00:01:38,700 --> 00:01:41,840
+in ordine alfabetico è il Presidente Amato
+
+17
+00:01:43,520 --> 00:01:51,100
+Presidente, poi d'altra parte come possono arrivare le reprimende del garante se parla per primo
+
+18
+00:01:51,100 --> 00:01:56,880
+deve parlare per ultimo, così poi, severo monito del garante
+
+19
+00:01:58,420 --> 00:02:08,580
+ma sì, ci troviamo entrambi ad esordire allo stesso modo
+
+20
+00:02:08,580 --> 00:02:17,320
+come se da parte vostra vi fosse una qualche diffidenza davanti ad un libro
+
+21
+00:02:17,320 --> 00:02:24,840
+che vi presenta tre oggetti eterogenei sotto la stessa trattazione
+
+22
+00:02:25,300 --> 00:02:31,520
+no, non è così, ha molto senso e il titolo è ben trovato
+
+23
+00:02:31,520 --> 00:02:34,760
+i tre codici della società dell'informazione
+
+24
+00:02:35,700 --> 00:02:41,520
+perché sono le tre aree dell'amministrazione digitalizzata
+
+25
+00:02:42,420 --> 00:02:52,800
+quindi in pratica dell'informatizzazione, delle telecomunicazioni televisive
+
+26
+00:02:54,400 --> 00:02:59,880
+che avrebbero dovuto essere, e chissà che non riescano ad essere in un futuro
+
+27
+00:02:59,880 --> 00:03:05,240
+veramente il regno della convergenza tecnologica delle piattaforme
+
+28
+00:03:05,700 --> 00:03:10,760
+attraverso le quali si veicolano gli stessi contenuti
+
+29
+00:03:10,760 --> 00:03:17,600
+si tratti di dati, di immagini televisive, di film o di partite di calcio
+
+30
+00:03:17,600 --> 00:03:22,180
+l'unica cosa seria, le partite di tennis invece uno le deve andare a vedere
+
+31
+00:03:23,100 --> 00:03:29,080
+però c'è a questo punto, grazie a quel po' di pluralismo che siamo riusciti ad avere
+
+32
+00:03:29,080 --> 00:03:32,820
+anche noi che amiamo il tennis e riusciamo a vederlo
+
+33
+00:03:32,820 --> 00:03:38,520
+il che dimostra che introdurre un po' di concorrenza anche se poca non guasta mai
+
+34
+00:03:39,520 --> 00:03:53,240
+il che detto, io ecco vi esporrò in modo molto della serie diario di vita
+
+35
+00:03:53,240 --> 00:03:57,860
+più che non considerazioni teoriche di professore
+
+36
+00:03:57,860 --> 00:04:08,080
+come vive davanti a me la tematica di questi tre codici della stessa società
+
+37
+00:04:08,080 --> 00:04:09,860
+della società dell'informazione
+
+38
+00:04:10,800 --> 00:04:20,860
+vive in me con una certa crescente, chiamiamola in modo carino, irritazione
+
+39
+00:04:20,860 --> 00:04:27,260
+perché questi tre mondi che dovrebbero essere un mondo solo
+
+40
+00:04:27,380 --> 00:04:34,980
+non corrispondono alle aspettative elementari, semplicistiche ma assolutamente affascinanti
+
+41
+00:04:35,620 --> 00:04:45,860
+con le quali io persona normale ero stato abituato a convivere nell'attesa di entrare in questi tre mondi
+
+42
+00:04:45,860 --> 00:04:48,720
+perché le aspettative erano fondamentalmente due
+
+43
+00:04:48,720 --> 00:04:53,040
+che avrebbero di molto semplificato la nostra vita
+
+44
+00:04:53,860 --> 00:05:02,180
+le tecnologie che si accingevano ad entrare nell'amministrazione, nelle telecomunicazioni
+
+45
+00:05:02,180 --> 00:05:09,020
+in quant'altro rendendo più semplice ciò che oggi era complicato
+
+46
+00:05:09,020 --> 00:05:17,120
+e rendendo semplicemente fattibile ciò che oggi addirittura è non fattibile
+
+47
+00:05:18,480 --> 00:05:26,320
+perché con le nuove tecnologie si potranno fare un sacco di cose
+
+48
+00:05:26,320 --> 00:05:31,420
+con le nuove tecnologie ciò che oggi è complicato diventerà semplicissimo
+
+49
+00:05:31,780 --> 00:05:35,020
+e secondo costerà pochissimo
+
+50
+00:05:35,020 --> 00:05:46,760
+ora io passo la mia vita di ministro dell'interno a combattere contro le complicazioni e i costi di questa roba qua
+
+51
+00:05:46,760 --> 00:05:50,320
+allora c'è qualcosa che non va evidentemente
+
+52
+00:05:50,320 --> 00:05:58,240
+ho sbagliato aspettative io o è sbagliato il modo in cui questa roba funziona, uno dei due qua ha sbagliato
+
+53
+00:06:02,580 --> 00:06:11,820
+vi sono ovviamente, io ho imparato in una vita ormai non breve
+
+54
+00:06:11,820 --> 00:06:18,520
+che semplificare le cose complicate è la cosa più complicata del mondo
+
+55
+00:06:19,740 --> 00:06:26,520
+infatti quando vedo quelli che ancora oggi pensano che per semplificare l'amministrazione
+
+56
+00:06:26,520 --> 00:06:30,580
+basta prendere le cesoie, tagliare le regole
+
+57
+00:06:30,580 --> 00:06:37,140
+io dico che se appunto li assumessero nelle autostrade per fare quel lavorino di
+
+58
+00:06:37,140 --> 00:06:42,300
+chiunque una con la taglierina portar via le siepi sarebbero più adatti
+
+59
+00:06:42,300 --> 00:06:45,400
+perché è molto più complicato che così
+
+60
+00:06:45,400 --> 00:06:50,240
+purtroppo è molto più complicato che così
+
+61
+00:06:50,240 --> 00:06:51,300
+noi abbiamo
+
+62
+00:06:52,480 --> 00:07:00,600
+primo le complicazioni che vengono appunto dal mondo della regolazione
+
+63
+00:07:01,660 --> 00:07:07,540
+lì potremmo noi stessi cercare di fare qualcosa per ridurre
+
+64
+00:07:08,180 --> 00:07:13,240
+ma qui Giovanna lo mette bene in evidenza nelle telecomunicazioni
+
+65
+00:07:14,060 --> 00:07:19,820
+dove non possiamo non vivere in sistemi multilivello
+
+66
+00:07:20,240 --> 00:07:24,140
+perché non possiamo non vivere in sistemi multilivello
+
+67
+00:07:24,140 --> 00:07:28,470
+non possiamo non pensare che ci sia una competenza europea
+
+68
+00:07:30,440 --> 00:07:39,240
+a quel punto ciascuno tende a fare il massimo possibile e non possibile
+
+69
+00:07:39,240 --> 00:07:45,270
+il caso come lo racconta Giovanna del settore delle telecomunicazioni è proprio esemplare
+
+70
+00:07:45,270 --> 00:07:54,490
+questi fanno la direttiva poi allo scopo di rendere la gestione della direttiva elastica
+
+71
+00:07:54,850 --> 00:07:57,350
+la attuano con raccomandazione
+
+72
+00:07:58,670 --> 00:08:02,410
+raccomandazione rivolta alle autorità nazionali di regolazione
+
+73
+00:08:02,410 --> 00:08:06,010
+poi come non è la raccomandazione diventa vincolante
+
+74
+00:08:06,010 --> 00:08:09,430
+perché o fai come ho detto io oppure ti blocco
+
+75
+00:08:09,430 --> 00:08:16,790
+allora questo è un sistema nel quale l'adattarsi togliettianamente alle pieghe della realtà
+
+76
+00:08:16,790 --> 00:08:23,630
+che in questo caso sarebbe non comunista ma utile viene praticamente impedito in effetti
+
+77
+00:08:23,630 --> 00:08:29,630
+e si crea da un multilivello ad una sorta di centralismo gerarchizzato
+
+78
+00:08:30,210 --> 00:08:32,110
+che è il contrario di se stesso
+
+79
+00:08:32,110 --> 00:08:40,870
+questo crea delle notevoli complicazioni rispetto alle caratteristiche dei singoli sistemi come sono
+
+80
+00:08:40,870 --> 00:08:47,870
+poi ci siamo aggiunti noi che giusto per non sapere né leggere né scrivere
+
+81
+00:08:47,870 --> 00:08:55,590
+abbiamo messo questa parte del titolo quinto che ha complicato la vita ancora di più
+
+82
+00:08:55,590 --> 00:08:58,110
+e questa è una prima complicazione
+
+83
+00:08:58,810 --> 00:09:06,510
+la seconda complicazione che emerge dal fatto che come ricordava Franco
+
+84
+00:09:06,690 --> 00:09:10,110
+le tecnologie cambiano velocissimamente
+
+85
+00:09:10,690 --> 00:09:13,110
+e noi non riusciamo a stargli dietro
+
+86
+00:09:13,970 --> 00:09:20,330
+quanto più legifichiamo tanto più ci diventa difficile stargli dietro
+
+87
+00:09:20,330 --> 00:09:27,170
+io ieri sera stavamo discutendo del libro di Pamolli e altri sulle liberalizzazioni
+
+88
+00:09:28,110 --> 00:09:35,110
+e riflettendo sulla vicenda attuale sempre delle telecomunicazioni la rete
+
+89
+00:09:35,990 --> 00:09:40,270
+l'open reach all'inglese o what else
+
+90
+00:09:42,030 --> 00:09:51,710
+soltanto 4-5 anni fa nessuno avrebbe pensato nelle telecomunicazioni a prendere la rete
+
+91
+00:09:51,710 --> 00:09:56,250
+separarla farne un essential facility gli italiani forse
+
+92
+00:09:56,250 --> 00:10:02,410
+perché gli italiani hanno una straordinaria propensione a fare gli iperregolatori
+
+93
+00:10:02,410 --> 00:10:08,250
+e quindi l'idea della rete sulla quale mimare la concorrenza dei providers
+
+94
+00:10:08,250 --> 00:10:17,290
+gli affascina, gli esalta in qualche modo da loro appunto quel senso di hubris da comando regolatorio
+
+95
+00:10:17,290 --> 00:10:19,150
+che non dispiace mai
+
+96
+00:10:20,150 --> 00:10:29,560
+mentre altri così più sobri hanno sempre pensato in quegli anni che niente fosse sbagliato
+
+97
+00:10:30,350 --> 00:10:35,230
+spingere il pedale sulla rete telefonica come essential facility
+
+98
+00:10:35,230 --> 00:10:44,310
+che fosse meglio spingere verso la creazione di facilities per di ciascuno degli operatori
+
+99
+00:10:44,310 --> 00:10:54,680
+che quindi la concorrenza dovesse essere non facilities based e non service based
+
+100
+00:10:56,170 --> 00:11:07,410
+tanto che le tecnologie si presentavano talmente cangianti miste da non aver bisogno tutti di una rete fissa
+
+101
+00:11:07,410 --> 00:11:15,670
+ma di poter contare sul wireless su altro passano quattro anni e ci ritroviamo che ci dicono
+
+102
+00:11:15,670 --> 00:11:22,710
+a gente come me ignorante di questa roba dicono guarda che ora una rete è diventata una cosa costosissima
+
+103
+00:11:23,710 --> 00:11:30,450
+con tutti gli ammennicoli che deve avere sono decine di miliardi di euro che servono
+
+104
+00:11:31,070 --> 00:11:35,270
+e quindi non è pensabile più che ciascuno si faccia la sua
+
+105
+00:11:36,130 --> 00:11:43,590
+occorre essere e avere una concorrenza service based sulla stessa essential facility
+
+106
+00:11:44,330 --> 00:11:50,890
+io parto anche dalla premessa che sia vero non ho gli argomenti per contestare che sia vero
+
+107
+00:11:50,890 --> 00:11:58,650
+fatto stai dai che è cambiata allora che mi devo riorientare in modo anche se io sono bravo
+
+108
+00:11:58,650 --> 00:12:04,650
+anche se io non faccio confusione mi trovo a dover cambiare tutta la mia impostazione
+
+109
+00:12:05,210 --> 00:12:09,310
+e allora andare alla ricerca dell'open reach
+
+110
+00:12:09,310 --> 00:12:18,730
+d'altra parte se lo hanno fatto gli inglesi che a differenza degli italiani tendono ad essere più da libero mercato
+
+111
+00:12:18,730 --> 00:12:22,790
+vuol dire che c'è una ragione per questo è la seconda ragione di complicazione
+
+112
+00:12:22,790 --> 00:12:34,270
+il cambiamento tecnologico è talmente complicato talmente rapido che diventa rispetto alla nostra velocità di reazione in ulteriore complicazione
+
+113
+00:12:34,590 --> 00:12:40,930
+la terza complicazione è che noi siamo dei disgraziati cioè siamo proprio dei disgraziati
+
+114
+00:12:40,930 --> 00:12:56,050
+cioè la distanza tra il fattore umano e il fattore tecnologico la cresciamo rispetto a quello che sarebbe in ragione di questa diversa velocità di cui parlavo
+
+115
+00:12:56,050 --> 00:13:04,350
+grazie al fatto che noi come si deve usare questa roba proprio non ce lo vogliamo cacciare nella testa
+
+116
+00:13:04,350 --> 00:13:14,350
+e continuiamo ad essere organizzati come quando questa roba non c'era pretendendo di comprarcela, di usarla e di farla pure funzionare
+
+117
+00:13:15,010 --> 00:13:22,560
+Franco diceva c'è un bel front office dietro il quale tutte le amministrazioni sono back offices
+
+118
+00:13:22,560 --> 00:13:35,780
+a fra i secoli che riusciremo a far passare prima che questa cosa accada io ti dico in Toscana
+
+119
+00:13:36,360 --> 00:13:38,560
+bisogna avere una vision no?
+
+120
+00:13:45,340 --> 00:13:55,520
+io faccio parte di un giocattolo che mi piace moltissimo che è il laboratorio di management sanitario del Sant'Anna a Pisa
+
+121
+00:13:55,520 --> 00:14:08,540
+in collaborazione con l'assessorato alla sanità della regione Toscana che è una roba fatta da professori che seguono la gestione del sistema sanitario di Pisa
+
+122
+00:14:08,560 --> 00:14:22,780
+abbiamo deciso di fare una ricerca per capire come è funzionante l'informatizzazione delle nostre ASLA
+
+123
+00:14:22,780 --> 00:14:33,240
+in tema di ASLA quando parlano quelli con la vision ci spiegano le cose che una volta non si potevano fare
+
+124
+00:14:33,240 --> 00:14:48,500
+e che ora grazie alle tecnologie si possono fare ci spiegano che tu ti senti male a Ischia, ti visitano, ti fanno l'attack, ti fanno le cose etc
+
+125
+00:14:48,500 --> 00:15:18,480
+poi torni dove abiti a Roma o a Milano, il tuo medico ti fa il controllo, batte un tasto del computer e gli arriva tutto quello che ti hanno fatto da Ischia
+
+126
+00:15:18,480 --> 00:15:35,480
+i computer ce ne sono tantissimi però l'interoperabilità non raggiunge la metà all'interno di una stessa ASLA
+
+127
+00:15:35,480 --> 00:15:48,120
+cioè una unità di una ASLA non comunica con un'altra unità della medesima ASLA nel 50% dei casi
+
+128
+00:15:48,120 --> 00:16:03,900
+e se guardo ai servizi che si svolgono con il computer penso che l'idea originaria che il computer serve a fare i tabulati degli stipendi è rimasta l'idea dominante
+
+129
+00:16:04,680 --> 00:16:17,190
+ti posso notare che il piano di government che fu deciso dal tuo governo e da te destinava prioritariamente una quota dei fondi dell'UMTS a realizzare l'interoperabilità
+
+130
+00:16:17,760 --> 00:16:21,580
+non sono stati spesi, sono stati spesi per altre cose
+
+131
+00:16:21,580 --> 00:16:32,620
+allora infatti in Toscana ora Rossi ci ha messo dei soldi che ha strappato al sistema risparmiando sui farmaci
+
+132
+00:16:32,620 --> 00:16:40,320
+quindi l'idea della interoperabilità tra una ASLA e l'altra è ancora di là da venire, primo
+
+133
+00:16:40,320 --> 00:16:55,800
+secondo, io sono in guerra quotidiana con me stesso perché sto gestendo una convenzione che era stata firmata dal mio predecessore
+
+134
+00:16:55,860 --> 00:17:05,580
+tra il ministero dell'interno e le poste per la gestione informatica delle domande di rinnovo di permesso di soggiorno
+
+135
+00:17:05,580 --> 00:17:14,080
+con l'informatizzazione tutto sarebbe stato, questa non è che era una cosa impossibile prima, si gestivano anche prima
+
+136
+00:17:14,080 --> 00:17:23,860
+ma questa apparteneva all'altra categoria delle cose che prima si facevano ma che così diventano più semplici e rapide
+
+137
+00:17:23,860 --> 00:17:33,480
+non l'avessi mai fatto perché ora dopo mesi e mesi ma sapete che succede?
+
+138
+00:17:33,480 --> 00:17:42,960
+che il computer è stato istruito a ricevere, a far scivolare via la domanda perfetta
+
+139
+00:17:43,480 --> 00:17:51,870
+se la domanda è imperfetta il computer la butta in un suo cestino di domande anomale
+
+140
+00:17:51,870 --> 00:18:03,110
+la domanda è già imperfetta se indica con esattezza il nome, il cognome, l'indirizzo ma manca il cap
+
+141
+00:18:03,870 --> 00:18:19,870
+e capita che, ma questo sarebbe il colmo delle barzellette di Pierino, il colmo che alle poste non c'è nessuno che completa il cap
+
+142
+00:18:19,870 --> 00:18:33,260
+e scivola nel cestino dove si perde insieme ad altri, in questo momento ci sono presentate 700 mila domande in Italia di rinnovo di permesso di soggiorno
+
+143
+00:18:34,490 --> 00:18:48,120
+250 mila sono nel cestino delle anomale e ci vogliono mesi e mesi per ritrovare mandandogli un sms, andando a cercare i bambini a scuola
+
+144
+00:18:48,120 --> 00:18:59,120
+quello che è autore della domanda per vedere se gli si scrive il cap sopra e si fa ripartire
+
+145
+00:19:00,300 --> 00:19:10,120
+allora capite, qui c'è qualcosa che non funziona, non funziona nel rapporto tra noi e le tecnologie, domine non sono digni forse
+
+146
+00:19:10,120 --> 00:19:21,320
+forse, forse, cioè noi ci siamo dotati di questi strumenti meravigliosi e siamo rimasti quegli analfabeti che eravamo prima
+
+147
+00:19:21,320 --> 00:19:40,100
+e se non ci decidiamo ad uscire dal nostro analfabetismo ci siamo complicati la vita con questa roba, meglio il pallottoliere, la penna anzi il lapis
+
+148
+00:19:40,100 --> 00:19:54,340
+è noto dai dati sull'andamento della produttività negli Stati Uniti che l'esplosione della produttività attribuita agli anni di Clinton
+
+149
+00:19:54,830 --> 00:20:09,430
+segue di almeno un leg di almeno 5-7 anni l'ingresso massiccio di queste che allora si chiamavano le nuove tecnologie nelle aziende americane
+
+150
+00:20:10,100 --> 00:20:23,420
+anche da loro c'è stata una lunga fase nel corso della quale in mancanza di un adeguato addestramento umano alla gestione della macchina
+
+151
+00:20:23,420 --> 00:20:34,820
+la macchina è stata o una bene inutile o una complicazione della vita perché questo anche finisce per essere
+
+152
+00:20:34,820 --> 00:20:51,400
+C'è poi questa seconda cosa dei costi con la quale dobbiamo fare i conti e qui ci sono capitoli diversi in effetti
+
+153
+00:20:51,400 --> 00:21:02,400
+Pluralismo e costi, questo è il tema su cui Roberto ha lavorato anche in prima persona non solo da professore
+
+154
+00:21:02,980 --> 00:21:10,600
+è un tema dilemmatico davanti alla pluralizzazione dei canali televisivi
+
+155
+00:21:10,600 --> 00:21:18,480
+Ora anche qui il mercato e il pluralismo uno se li può giocare facendo le leggi
+
+156
+00:21:18,480 --> 00:21:28,900
+oggi giustamente la commissione ha esplicitato al governo italiano che la sua legge vigente
+
+157
+00:21:28,900 --> 00:21:46,220
+riservando i canali dei digitali ai duopolisti non solo in fase di sperimentazione ma permanentemente impedisce un adeguato pluralismo sul digitale
+
+158
+00:21:46,220 --> 00:21:59,220
+Questo era secondo me semplicemente ovvio perché la riserva del 60% ai due era più che giusta quando si trattava di sperimentare
+
+159
+00:21:59,780 --> 00:22:08,560
+erano gli unici che erano in grado di sperimentare ma quando poi rimane a regime riesce francamente difficile capirlo e uno la rimuove
+
+160
+00:22:08,560 --> 00:22:17,580
+Ma rimosso l'ostacolo legislativo c'è la questione dei contenuti e del costo dei contenuti
+
+161
+00:22:17,580 --> 00:22:32,080
+Quindi il valore dilemmatico, il dilemma tra prezzo costo dei contenuti premio e possibilità di avere audience adeguate
+
+162
+00:22:32,080 --> 00:22:48,080
+è un tema che sta di mezzo tra le potenzialità tecnologiche quali esse sono e l'effettività del pluralismo
+
+163
+00:22:50,980 --> 00:22:56,180
+Nel mio settore non riesco a capire perché la roba sia così costosa
+
+164
+00:22:56,180 --> 00:22:59,840
+E qui cerco risposte ma non le ho nenne
+
+165
+00:22:59,840 --> 00:23:12,180
+Nel settore dei documenti perché il permesso di soggiorno costa 70 euro? Perché le poste hanno bisogno di 30 euro per remunerare se stesse?
+
+166
+00:23:15,580 --> 00:23:19,220
+Più 27 mi ricordo a chi vanno gli altri 27
+
+167
+00:23:21,080 --> 00:23:38,200
+Lo stato ci mette 14 euro di marca da bollo mi sembra gigantesca marca da bollo ma insomma è solo 14 su 70, 30 vanno alle poste e il resto va non mi ricordo a chi
+
+168
+00:23:38,200 --> 00:23:52,080
+La carta di identità, io ho fatto una guerra di 7 mesi col poligrafico dello stato perché al cittadino finisca per costare quando tra poco arriverà 20 euro anziché 30
+
+169
+00:23:54,480 --> 00:24:16,160
+Mi è difficile capire perché è una cosina di plastica, c'è sopra un chip che proprio costa niente, che contiene i dati
+
+170
+00:24:16,160 --> 00:24:29,720
+E insomma il poligrafico dello stato si è sentito proprio spogliato di sé quando gli abbiamo imposto il 20 euro
+
+171
+00:24:31,600 --> 00:24:45,800
+C'è qualcosa, voi mi direte, lo dovresti capire tu, non è che lo devi chiedere a noi e questo è giusto, ma io non sono ancora riuscito a capire perché l'uso di queste tecnologie riesca
+
+172
+00:24:45,800 --> 00:25:02,460
+Un tempo avevo capito che quando ero all'antitrust che in materia di telecomunicazioni ti facevano pagare le telefonate anche se il numero delle telefonate era del tutto irrilevante per loro
+
+173
+00:25:02,460 --> 00:25:12,980
+Però erano riusciti ad inventare un sistema tarifario per cui ad ogni telefonata veniva assegnato un prezzo unitario e più ne faceva
+
