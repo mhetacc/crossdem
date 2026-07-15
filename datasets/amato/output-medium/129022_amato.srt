@@ -1,0 +1,684 @@
+1
+00:00:05,120 --> 00:00:11,940
+E' di cittadinanza attiva. Non tutti sono nelle stesse condizioni rispetto alla conoscenza
+
+2
+00:00:11,940 --> 00:00:18,640
+delle tecnologie, dell'informazione, dei servizi elettronici. Anzi, la stragrande maggioranza
+
+3
+00:00:18,640 --> 00:00:29,980
+dei cittadini sono tagliati fuori dall'accesso alle possibilità stesse del governo. E c'è
+
+4
+00:00:30,580 --> 00:00:36,780
+die mandarini, se mi permette il termine. C'è coloro che è di solo fatto di possedere gli
+
+5
+00:00:36,780 --> 00:00:43,420
+strumenti e le tecnologie informative diventano i depositari di un potere fondato sull'informazione.
+
+6
+00:00:43,800 --> 00:00:51,760
+Ci sono inoltre problemi, anche gravi, rispetto alla protezione della brava sedia. Al di là
+
+7
+00:00:51,760 --> 00:00:57,320
+delle regole per la diffusione delle informazioni pubbliche, e mi rivolgo in particolare a Rodotà,
+
+8
+00:00:57,320 --> 00:01:02,920
+che presiede questi lavori, che contengono dati personali delicati, non si può ignorare
+
+9
+00:01:02,920 --> 00:01:08,600
+che resta sempre tecnicamente possibile realizzare banche dati raccogliendo le informazioni che
+
+10
+00:01:08,600 --> 00:01:14,180
+viaggiano più o meno protette sulla rete e gestirle con programmi capaci di assemblare
+
+11
+00:01:14,180 --> 00:01:21,560
+i dati raccolti in rapporto alla più diversa finalità. Certamente l'utilizzo delle nuove
+
+12
+00:01:21,560 --> 00:01:28,540
+tecnologie ECT produrrà una totale riorganizzazione delle amministrazioni pubbliche nella direzione
+
+13
+00:01:28,540 --> 00:01:35,600
+dell'elettricienza, della rapidità e della trasparenza interna. Lo stiamo già verificando
+
+14
+00:01:35,600 --> 00:01:42,300
+in tutte le amministrazioni che hanno accelerato i processi di informatizzazione. Ma è solo
+
+15
+00:01:42,300 --> 00:01:46,760
+all'interno delle amministrazioni pubbliche o private che si realizza la condivisione
+
+16
+00:01:46,760 --> 00:01:51,920
+delle informazioni e la partecipazione al processo decisionale. Il rapporto con il
+
+17
+00:01:51,920 --> 00:01:56,860
+cittadino rischia di diventare ancora più ascettico ed estraniante, anche perché è
+
+18
+00:01:56,860 --> 00:02:03,080
+difficile prevedere una e-governance interattiva. Sicuramente può realizzarsi un incremento
+
+19
+00:02:03,080 --> 00:02:09,800
+dell'accesso da parte dei cittadini attraverso la conoscenza delle tecnologie ECT, ma quanto
+
+20
+00:02:09,800 --> 00:02:15,440
+diffusa può diventare questa conoscenza in termini percentuali sulla popolazione? Gli
+
+21
+00:02:15,440 --> 00:02:21,440
+alfabeti informatici saranno sempre maggioranze, maggioranza ancora più silenziosa di quell'attuale.
+
+22
+00:02:22,300 --> 00:02:29,240
+Il vero terreno su cui l'e-governance produrrà i cambiamenti più significativi, lo mettevo
+
+23
+00:02:29,240 --> 00:02:33,780
+in evidenza anche a Rodotaprima, sarà quello dei rapporti tra governo ed imprese, perché
+
+24
+00:02:33,780 --> 00:02:40,760
+solo le imprese posseggono risorse necessarie per l'implementazione delle nuove tecnologie
+
+25
+00:02:40,760 --> 00:02:46,880
+e la loro utilizzazione in un rapporto con il sistema di e-governance. Il rischio è
+
+26
+00:02:46,880 --> 00:02:51,340
+che il luogo delle decisioni si sposti dai governi all'impresa e che l'e-governance
+
+27
+00:02:51,340 --> 00:02:56,820
+trasformi l'amministrazione in strumento degli interessi economici dell'impresa. Le
+
+28
+00:02:56,820 --> 00:03:04,240
+nuove tecnologie ECT aprono quindi uno scenario completamente nuovo agli attuali sistemi di
+
+29
+00:03:04,240 --> 00:03:10,340
+governance, in termini di democrazia, di partecipazione e di città di ranza attiva. La carta sulla
+
+30
+00:03:10,340 --> 00:03:16,180
+Società dell'Informazione Globale firmata ad Okinawa nel luglio 2000 in occasione del
+
+31
+00:03:16,180 --> 00:03:22,140
+G8 propone una visione di una società dell'informazione che consente in modo migliore all'agente
+
+32
+00:03:22,140 --> 00:03:28,380
+di realizzare il proprio potenziale e le proprie aspirazioni attraverso la garanzia che le
+
+33
+00:03:28,380 --> 00:03:34,340
+tecnologie ECT servano ad obiettivi come l'aumento del benessere pubblico, una maggiore
+
+34
+00:03:34,340 --> 00:03:40,540
+coesione sociale, un rafforzamento della democrazia, una promozione dei diritti umani. Queste
+
+35
+00:03:40,540 --> 00:03:46,100
+indicazioni di grande valore etico e sociale tendono però di essere tradotte in iniziative
+
+36
+00:03:46,100 --> 00:03:53,120
+concrete nella direzione di garantire le diversità culturali, il potenziamento della trasparenza
+
+37
+00:03:53,120 --> 00:03:59,520
+delle responsabilità di governo, sostegno alla pace e alla stabilità internazionale.
+
+38
+00:04:01,400 --> 00:04:07,540
+Principi di garanzia della privacy, principi di partecipazione diffusa, di corretta vigilanza
+
+39
+00:04:08,400 --> 00:04:14,800
+su tutte quelle forme di centralizzazione delle informazioni che la rivoluzione del governo
+
+40
+00:04:14,800 --> 00:04:22,820
+elettronico inevitabilmente porta con sé. Molto dipende da noi, da quanto i governi a
+
+41
+00:04:22,820 --> 00:04:29,940
+tutti i livelli sapranno affrontare queste sfide come le proprie sfide, senza equivoci,
+
+42
+00:04:30,000 --> 00:04:36,820
+senza delego in bianco, magari a coloro che oggi detengono un maggiore know-how tecnologico,
+
+43
+00:04:37,320 --> 00:04:43,200
+ma non hanno la legittimazione democratica per decidere della comunità dei cittadini.
+
+44
+00:04:43,800 --> 00:04:50,560
+Questa legittimazione e responsabilità è dei governi democratici, spetta a loro offrire
+
+45
+00:04:50,560 --> 00:04:58,680
+tutte le garanzie facendosi carico direttamente di questa sfida storica. Perché ne sono convinto
+
+46
+00:04:58,680 --> 00:05:05,740
+il governo elettronico può essere davvero una grande occasione di sviluppo, di partecipazione,
+
+47
+00:05:05,980 --> 00:05:12,120
+di futuro. Spetta a noi prendere ancora una volta questo futuro nelle nostre mani. Buon
+
+48
+00:05:12,120 --> 00:05:12,780
+lavoro.
+
+49
+00:05:16,740 --> 00:05:22,240
+Interviene ora il Presidente del Consiglio dei Ministri della Repubblica italiana, Giuliano
+
+50
+00:05:22,240 --> 00:05:22,900
+Nato.
+
+51
+00:05:45,240 --> 00:05:54,520
+Voglio qui portare il saluto del governo italiano che rappresento, anche se è qui il Ministro
+
+52
+00:05:54,520 --> 00:06:02,240
+Bassanini, che per primo ringrazio per il lavoro che ha fatto affinché questo forum
+
+53
+00:06:02,240 --> 00:06:10,480
+potesse svolgersi. Voglio ringraziare tutti i presenti e dar loro il benvenuto in questa
+
+54
+00:06:10,480 --> 00:06:20,380
+città della quale come italiano sono orgoglioso. Napoli è stata una delle capitali di una
+
+55
+00:06:20,380 --> 00:06:31,400
+Italia divisa in stati e regni e ora in un mondo nel quale si impallidiscono i confini
+
+56
+00:06:31,400 --> 00:06:39,800
+tra i regni e gli stati, Napoli sta diventando una delle capitali del mondo e a questo destino
+
+57
+00:06:39,800 --> 00:06:50,940
+anche questo forum la riporta. E' anche per me emblematico che sia l'Italia
+
+58
+00:06:50,940 --> 00:06:59,840
+ad ospitarlo, perché l'Italia è tra i Paesi che possono mettere a disposizione di altri
+
+59
+00:06:59,840 --> 00:07:09,780
+le proprie esperienze per sottolineare i grandi benefici che le nuove tecnologie hanno per
+
+60
+00:07:11,400 --> 00:07:21,580
+portare allo sviluppo. Nella consapevolezza, peraltro, e già questo è stato detto, che
+
+61
+00:07:21,580 --> 00:07:32,440
+esse si collocano sul confine tra la possibilità di espansione dello sviluppo e la possibilità
+
+62
+00:07:32,440 --> 00:07:39,780
+di esclusione dallo sviluppo di coloro che a questa nuova fase non riescono a farlo.
+
+63
+00:07:42,360 --> 00:07:50,740
+Di questo confine occorre essere consapevoli nel momento in cui si dice, e io mi sento di
+
+64
+00:07:50,740 --> 00:08:00,320
+dirlo, che è vero che le nuove tecnologie portano con sé una maggior forza per la democrazia
+
+65
+00:08:00,450 --> 00:08:09,780
+ed è vero che esse, non da sole, ma in estate sulla parte di cui sono stati, sono stati
+
+66
+00:08:09,800 --> 00:08:18,880
+in produzione dei beni e dei servizi che già conosciamo. L'attività di impresa, l'erogazione
+
+67
+00:08:18,880 --> 00:08:28,360
+di servizi amministrativi, di servizi sanitari, di servizi scolastici possono consentire progressi
+
+68
+00:08:28,360 --> 00:08:39,560
+grandiosi e cambiare i destini di singole persone e di interi Paesi. È per questo che esserne
+
+69
+00:08:39,560 --> 00:08:50,580
+partecipi e essere partecipi del futuro, esserne esclusi e essere esclusi dal futuro. L'Italia
+
+70
+00:08:50,580 --> 00:08:59,680
+lo sta già sperimentando, l'e-government ha già cominciato ad essere una realtà, una
+
+71
+00:08:59,680 --> 00:09:07,920
+realtà, come già è stato detto, che è di migliore democrazia ed è di maggiore efficienza,
+
+72
+00:09:07,920 --> 00:09:18,080
+di entrambe le cose. Democrazia che è già migliore quando riesce, attraverso le nuove
+
+73
+00:09:18,080 --> 00:09:25,220
+tecnologie, a rendere disponibili per un numero crescente di cittadini informazioni
+
+74
+00:09:26,300 --> 00:09:35,620
+che essi prima non avevano o che dovevano andare a cercare rivolgendosi di volta in
+
+75
+00:09:35,620 --> 00:09:46,720
+volta ad altri. Forse non tutti ricordano che abbiamo avuto nel secolo scorso regimi
+
+76
+00:09:46,720 --> 00:09:57,480
+totalitari che rafforzavano se stessi privando i cittadini dell'elenco telefonico o dell'orario
+
+77
+00:09:57,480 --> 00:10:05,600
+dei treni e degli aerei, perché non dando l'informazione, il aderezzo a tutti i cittadini
+
+78
+00:10:05,620 --> 00:10:14,240
+nel cittadino si costringeva il cittadino a rivolgersi all'autorità per averla e l'autorità
+
+79
+00:10:14,240 --> 00:10:23,820
+in questo modo sapeva anche il perché l'informazione veniva richiesta. Questo lo dico davanti al
+
+80
+00:10:23,820 --> 00:10:31,900
+garante italiano della privacy, perché se vi sono grandi rischi nelle banche dati per
+
+81
+00:10:31,900 --> 00:10:39,400
+la privacy dei cittadini, l'informatizzazione delle nostre società è anche una grande
+
+82
+00:10:39,400 --> 00:10:47,780
+difesa della privacy, perché permette a me di sapere senza chiedere a nessuno ciò che
+
+83
+00:10:47,780 --> 00:10:59,400
+mi serve e senza informare nessuno del perché mi serve. La mia libertà è maggiore, la
+
+84
+00:10:59,400 --> 00:11:06,760
+mia capacità di giudizio è maggiore. Per questo maggiore può diventare la distanza
+
+85
+00:11:06,760 --> 00:11:15,900
+tra me che questo posso fare e quel cittadino diverso da me che sia escluso da questo beneficio.
+
+86
+00:11:16,580 --> 00:11:26,260
+Per questo più di noi entrano nel nuovo sistema, più noi partecipiamo di democrazia, più
+
+87
+00:11:26,260 --> 00:11:35,860
+altri restano esclusi da questo sistema, più questi altri vivono in un regime che pur non
+
+88
+00:11:35,860 --> 00:11:46,720
+volendo somiglia di più a quei vecchi regimi totalitari che non alle democrazie. Ma non
+
+89
+00:11:46,720 --> 00:11:56,020
+c'è solo informazione. La seconda fase della informatizzazione delle amministrazioni e
+
+90
+00:11:56,020 --> 00:12:04,940
+delle società è una fase che dalla informazione porta alla erogazione dei servizi e qui c'è
+
+91
+00:12:04,940 --> 00:12:13,740
+anche il profilo della maggiore efficienza. Anche questo noi in Italia abbiamo cominciato
+
+92
+00:12:13,740 --> 00:12:22,480
+a sperimentarlo. Abbiamo cominciato a sperimentare che è possibile avere un servizio dall'amministrazione
+
+93
+00:12:22,480 --> 00:12:33,600
+senza mettersi in fila per averlo. Possiamo averlo da casa e dal luogo di lavoro. Possiamo
+
+94
+00:12:33,600 --> 00:12:41,980
+organizzare le cose in modo che a qualunque branca dell'amministrazione ci rivolgiamo,
+
+95
+00:12:42,320 --> 00:12:51,240
+possiamo arrivare ad avere i servizi che provengono da qualunque altra amministrazione. Anche
+
+96
+00:12:51,240 --> 00:13:04,620
+questo è democrazia. Io ricordo la prima volta che visitai un paese di radicato totalitarismo
+
+97
+00:13:04,620 --> 00:13:14,880
+comunista. In quel paese non si sapevano neppure gli indirizzi dei ministeri, ma è complicato
+
+98
+00:13:14,880 --> 00:13:22,620
+per i cittadini muoversi tra i ministeri anche quando ne conoscono gli indirizzi. Dare loro
+
+99
+00:13:22,620 --> 00:13:29,880
+un front office e metterli in condizioni di acquisire ciò che loro serve da qualunque
+
+100
+00:13:30,720 --> 00:13:37,420
+amministrazione, perché tutte le amministrazioni sono fra loro connesse, significa far fare
+
+101
+00:13:37,420 --> 00:13:44,860
+un salto di grande progresso ai rapporti tra cittadini e Stato e Governo.
+
+102
+00:13:44,880 --> 00:13:54,900
+Il punto focale perciò per me e spero per la vostra discussione, come lo è stato all'Assemblea
+
+103
+00:13:54,900 --> 00:14:02,100
+del Millegno delle Nazioni Unite, come dovrà esserlo alla prossima riunione del G8 di Genova,
+
+104
+00:14:04,260 --> 00:14:14,360
+nella seguente domanda, è tutto questo trasferibile ai paesi in via di sviluppo? C'è bisogno perché
+
+105
+00:14:14,360 --> 00:14:25,660
+questo nuovo fiore cresca, che il terreno sia quello di un paese già sviluppato? Ebbene
+
+106
+00:14:25,660 --> 00:14:34,340
+la mia risposta, che in questo forum pensiamo possa essere data, è che non è così, che
+
+107
+00:14:34,340 --> 00:14:44,340
+tutto questo a certe condizioni che noi dobbiamo creare è trasferibile e che anzi trasferibile
+
+108
+00:14:44,580 --> 00:14:56,160
+tutto questo ai paesi emergenti si può facilitare e accelerare il passo del loro sviluppo e
+
+109
+00:14:56,160 --> 00:15:05,980
+del loro ingresso in un futuro che non può essere di pochi. Ci sono naturalmente livelli
+
+110
+00:15:05,980 --> 00:15:14,340
+diversi di sviluppo che consentono ingressi diversi delle nuove tecnologie. E quindi,
+
+111
+00:15:14,870 --> 00:15:24,200
+ma non c'è una soglia necessariamente intermedia di sviluppo perché questo accada, anzi, più
+
+112
+00:15:24,200 --> 00:15:32,780
+basso è lo sviluppo e più disperanti sono le condizioni iniziali di povertà, più è
+
+113
+00:15:32,780 --> 00:15:41,520
+possibile che almeno inizialmente le nuove tecnologie suppliscano a carenze che ancora
+
+114
+00:15:41,520 --> 00:15:49,000
+non sono state colmate. Sono anche queste esperienze che abbiamo cominciato a fare.
+
+115
+00:15:49,780 --> 00:15:58,480
+Una donna che sta partorendo in un villaggio il più sperduto di un paese subsaariano può
+
+116
+00:15:58,480 --> 00:16:06,620
+avere l'assistenza di un medico che si trova in un paese lontano attraverso le nuove tecnologie.
+
+117
+00:16:07,620 --> 00:16:17,700
+Bambini o ragazzi o ragazze che vivono in insediamenti dispersi, non raggiunti per il
+
+118
+00:16:17,700 --> 00:16:26,540
+momento neppure da strade, possono ricevere istruzione ed educazione a distanza secondo
+
+119
+00:16:26,540 --> 00:16:36,600
+esperimenti che già abbiamo cominciato a fare. Ci sono ovviamente degli essenziali prerequisiti
+
+120
+00:16:37,620 --> 00:16:50,300
+che occorrono le infrastrutture dell'informatica, occorre che vengano messi a fuoco contenuti
+
+121
+00:16:50,300 --> 00:17:04,720
+appropriati per poter raggiungere utenze così diversificate, occorre soprattutto in primo
+
+122
+00:17:04,720 --> 00:17:20,160
+senso di una grande opera di formazione. Ci tengo a dire una cosa, questo fa parte della
+
+123
+00:17:20,160 --> 00:17:29,760
+nostra azione di intervento nei paesi in via di sviluppo e non può essere soltanto questo
+
+124
+00:17:29,760 --> 00:17:39,980
+ciò che noi facciamo. In una recente conferenza svoltasi a Londra organizzata da Gordon Brown
+
+125
+00:17:39,980 --> 00:17:50,120
+sui bambini, la povertà dei bambini e i bambini soldati, si è parlato molto di questo e io
+
+126
+00:17:50,120 --> 00:17:58,800
+ho detto noi paesi sviluppati dobbiamo portare tecnologia, noi paesi in via di sviluppo,
+
+127
+00:17:58,800 --> 00:18:08,340
+ma guai se diciamo loro questo è il nostro primo impegno perché dobbiamo esserne consapevoli
+
+128
+00:18:08,340 --> 00:18:16,820
+le nuove tecnologie aiuteranno questi paesi ad essere più vicini al benessere domani
+
+129
+00:18:16,820 --> 00:18:25,700
+ma perché lo siano oggi c'è un'altra azione che noi dobbiamo fare, aprire i nostri mercati
+
+130
+00:18:25,700 --> 00:18:34,340
+ai loro prodotti perché con questi prodotti che essi oggi possono vivere ed è portando
+
+131
+00:18:34,340 --> 00:18:44,200
+i loro prodotti liberamente sui nostri mercati che loro possono dare da subito al loro tasso
+
+132
+00:18:44,200 --> 00:18:53,680
+di sviluppo quel respiro che è essenziale perché le loro economie abbiano una prospettiva
+
+133
+00:18:53,680 --> 00:19:02,220
+di crescita, non siamo così sofisticati da ritenere che una volta che abbiamo fatto
+
+134
+00:19:02,220 --> 00:19:10,600
+le azioni necessarie per le nuove tecnologie noi abbiamo assolto ai nostri obblighi nei
+
+135
+00:19:10,600 --> 00:19:18,740
+confronti di chi non ha perché chi non ha può intanto avere vendendo a noi prodotti
+
+136
+00:19:18,740 --> 00:19:30,380
+che oggi non possono entrare sui nostri mercati così come è essenziale che l'azione per
+
+137
+00:19:30,380 --> 00:19:39,380
+l'ingresso delle nuove tecnologie accompagna e sostenga l'azione per la lotta contro
+
+138
+00:19:39,380 --> 00:19:48,720
+le malattie e per la diffusione dell'education in via generale, può suonare ironico che
+
+139
+00:19:48,740 --> 00:19:59,040
+può portare high tech in un paese nel quale il 30% dei bambini non raggiungono l'età
+
+140
+00:19:59,040 --> 00:20:09,180
+adulta a causa di malattie che nei paesi industrializzati non hanno effetti mortali e questo implica
+
+141
+00:20:09,180 --> 00:20:18,000
+altri impegni ma tutti devono essere insieme sostenuti per dare prospettive a chi ha diritto
+
+142
+00:20:18,000 --> 00:20:25,000
+ad una prospettiva e per dare credibilità all'azione del mondo industrializzato.
+
+143
+00:20:26,980 --> 00:20:35,160
+L'Italia porterà per tutto questo, proposte al prossimo incontro del G8, l'Italia già
+
+144
+00:20:35,160 --> 00:20:42,300
+opera nell'ambito delle Nazioni Unite perché queste azioni si muovano parallelamente.
+
+145
+00:20:43,920 --> 00:20:53,460
+Noi abbiamo già cominciato a delineare la costituzione di nuovi trust funds presso le
+
+146
+00:20:53,460 --> 00:21:03,700
+istituzioni multinazionali alle quali i governi e i privati sono chiamati a dare il loro contributo
+
+147
+00:21:03,700 --> 00:21:12,280
+che è in primo luogo indanaro ma può essere come qualcuno mi ha proposto anche in un
+
+148
+00:21:12,300 --> 00:21:22,680
+ore lavoro destinate alla formazione se le maggiori imprese del mondo che sono presenti
+
+149
+00:21:22,680 --> 00:21:31,060
+ora nell'uno ora nell'altro dei paesi in via di sviluppo dedicano una quota minima del
+
+150
+00:21:31,060 --> 00:21:39,980
+lavoro dei dirigenti che li hanno alla formazione sia di base sia informatica quello che è
+
+151
+00:21:39,980 --> 00:21:47,140
+il prerequisito fondamentale per l'ingresso delle nuove tecnologie può trovare un solido
+
+152
+00:21:47,580 --> 00:21:58,240
+appoggio un solido contributo. Vorrei concludere dicendo che perché tutto
+
+153
+00:21:58,240 --> 00:22:06,820
+questo poi proficuamente accada anche nei paesi destinatari le cose devono in più casi
+
+154
+00:22:06,820 --> 00:22:14,920
+cambiare è una cosa che mi permetto di dire dopo che il Presidente Mbeki e altri leaders
+
+155
+00:22:14,920 --> 00:22:26,020
+africani hanno loro stessi lanciato un manifesto per le nuove prospettive africane la cui parola
+
+156
+00:22:26,020 --> 00:22:36,800
+d'ordine è things have to be done differently. Lo e-government è trasparenza, lo e-government
+
+157
+00:22:37,100 --> 00:22:47,780
+è efficienza, lo e-government non dà spazio alle lentezze burocratiche chiude gli spazi
+
+158
+00:22:47,780 --> 00:22:57,340
+per quelle azioni inconfessabili ma spesso presenti di corruzione che caratterizzano
+
+159
+00:22:57,340 --> 00:23:06,520
+molto spesso interventi pubblici che avrebbero finalità di interesse collettivo il tema
+
+160
+00:23:06,520 --> 00:23:15,220
+della governance prima di avere una I davanti, ha davanti l'esigenza di essere costruita
+
+161
+00:23:15,220 --> 00:23:24,680
+e orientata a servire gli interessi collettivi non a servire i ristretti interessi di coloro
+
+162
+00:23:24,680 --> 00:23:31,880
+che governano e delle loro famiglie. La credibilità dei governi, la credibilità
+
+163
+00:23:31,880 --> 00:23:39,080
+dell'azione che altri governi possono fare in collaborazione con i primi dipende da questo,
+
+164
+00:23:39,940 --> 00:23:46,960
+sta crescendo nel mondo industrializzato, una tentazione che io ritengo pericolosa
+
+165
+00:23:48,080 --> 00:23:58,920
+quella di intervenire nei paesi emergenti saltando i governi elettivi ed entrando direttamente
+
+166
+00:23:58,920 --> 00:24:08,800
+con imprese a volte anche con NGOs indipendentemente dai governi. Se questa tendenza prende piede
+
+167
+00:24:08,800 --> 00:24:16,320
+può avere degli effetti distruttivi sugli equilibri democratici del mondo ma perché
+
+168
+00:24:16,320 --> 00:24:24,360
+questa tendenza non prenda piede occorre che la tentazione che la muove venga rimossa,
+
+169
+00:24:24,360 --> 00:24:35,920
+occorre che i governi siano sempre credibili. E il lavoro che voi qui farete renderà più
+
+170
+00:24:35,920 --> 00:24:39,380
+facile farle diversamente. Vi ringrazio.
+
+171
+00:24:55,420 --> 00:24:59,980
+A ragione il Presidente del Consiglio quando richiama l'attenzione.
+
