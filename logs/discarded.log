@@ -3619,3 +3619,6 @@ amato  2026-07-16 23:11:52.339592  https://www.radioradicale.it/scheda/44097/riu
 amato  2026-07-16 23:11:54.756870  https://www.radioradicale.it/scheda/35245/chiusura-di-radio-radicale?i=2616536  ValueError: No timestamps
 amato  2026-07-16 23:19:15.426989  https://www.radioradicale.it/scheda/27170/economia-manovra-finanziaria-per-il-1988-e-rientro-debito-pubblico?i=2683243  ValueError: No timestamps
 amato  2026-07-16 23:19:17.787191  https://www.radioradicale.it/scheda/26181/montalto-il-consiglio-dei-ministri-decide-di-riaprire-la-centrale?i=2690398  ValueError: No timestamps
+amato  2026-07-16 23:31:58.648023  https://www.radioradicale.it/scheda/8718/xliii-congresso-del-partito-socialista-italiano?i=2783005  ValueError: No timestamps
+amato  2026-07-16 23:37:30.568768  https://www.radioradicale.it/scheda/334400/consegna-della-15a-edizione-del-premio-capalbio-2011?i=502795  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/amato/audio_out/_out_334400_amato.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/amato/audio_out/334400_amato.mp3'
+amato  2026-07-17 00:02:39.344947  https://www.radioradicale.it/scheda/212930/cerimonia-di-premiazione-del-premio-giornalistico-dedicato-a-paolo-frajese?i=1229200  ValueError: No timestamps
