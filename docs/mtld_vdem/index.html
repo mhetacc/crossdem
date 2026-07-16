@@ -76,6 +76,13 @@
     font-weight: 600;
     color: #444;
   }
+  .sliders-row{
+    flex-basis: 100%;  /* forces it onto its own line no matter the width */
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 12px;
+  }
   .btn-row {
     display: inline-flex;
     border: 1px solid var(--border);
@@ -153,15 +160,17 @@
     <span class="label">Line Mode</span>
     <div class="btn-row" id="mode-toggle"></div>
   </div>
-  <div class="slider-group">
-    <span class="label">Smoothing</span>
-    <input type="range" id="smooth-slider" min="1" max="15" step="1" value="5" disabled>
-    <span id="smooth-val">5</span>
-  </div>
-  <div class="slider-group">
-    <span class="label">Trend splines steps</span>
-    <input type="range" id="trend-slider" min="0" max="50" step="0.5" value="8" disabled>
-    <span id="trend-val">8.0</span>
+  <div class = "sliders-row">
+    <div class="slider-group">
+      <span class="label">Smoothing</span>
+      <input type="range" id="smooth-slider" min="1" max="15" step="1" value="5" disabled>
+      <span id="smooth-val">5</span>
+    </div>
+    <div class="slider-group">
+      <span class="label">Trend splines steps</span>
+      <input type="range" id="trend-slider" min="0" max="50" step="0.5" value="8" disabled>
+      <span id="trend-val">8.0</span>
+    </div>
   </div>
 </div>
 
@@ -191,7 +200,7 @@ const state = {
   groups: new Set(["Combined"]),
   vdem: new Set(),
   stat: "Median",
-  mode: "Exact",
+  mode: "Smoothed",
   chart: "Line",
   smoothWindow: 5,
   trendS: 8,
@@ -301,7 +310,14 @@ function redraw() {
     barmode: "group",
   };
 
-  Plotly.react(plotDiv, traces, layout, { responsive: true });
+  Plotly.react(plotDiv, traces, layout, {
+    responsive: true,
+    toImageButtonOptions: {
+      filename: "mtld_vdem",          // downloaded file will be "mtld_comparison.png"
+      format: "png",                  // also: "svg", "jpeg", "webp"
+      scale: 2,                       // optional — 2x resolution for a crisper export
+    },
+  });
 }
 
 // ---------- UI construction ----------
@@ -351,8 +367,10 @@ function makeToggle(containerId, options, current, onChange, disabledCheck) {
   });
   return buttons;
 }
-
 function init() {
+  // select all vdem vars by default
+  DATA.vdem_vars.forEach(v => state.vdem.add(v));
+
   const groupGrid = document.getElementById("group-grid");
   DATA.groups.forEach(g => makeCheckbox(groupGrid, g, GROUP_COLORS, state.groups));
 
@@ -376,6 +394,10 @@ function init() {
     trendSlider.disabled = (val !== "Trend");
     redraw();
   });
+
+  // sync slider disabled states with the initial mode
+  smoothSlider.disabled = (state.mode !== "Smoothed");
+  trendSlider.disabled = (state.mode !== "Trend");
 
   function setModeLocked(locked) {
     Object.values(modeButtons).forEach(b => b.disabled = locked);
