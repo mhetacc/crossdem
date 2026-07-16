@@ -3568,3 +3568,17 @@ amato  2026-07-16 14:56:22.965944  https://www.radioradicale.it/scheda/31111/mon
 amato  2026-07-16 15:04:21.459713  https://www.radioradicale.it/scheda/28067/assemblea-nazionale-del-psi?i=2677345  ValueError: No timestamps
 amato  2026-07-16 15:04:23.033148  https://www.radioradicale.it/scheda/27324/meno-debito-meno-stato?i=2682370  ValueError: No timestamps
 amato  2026-07-16 16:04:03.261735  https://www.radioradicale.it/scheda/22561/una-certa-idea-della-sinistra?i=2716284  ValueError: No timestamps
+amato  2026-07-16 16:27:19.407934  https://www.radioradicale.it/scheda/16956/la-cultura-democratica-nellitalia-che-cambia?i=2759365  ValueError: No timestamps
+amato  2026-07-16 16:27:22.050475  https://www.radioradicale.it/scheda/16575/preparazione-del-congresso-psi?i=2761120  ValueError: No timestamps
+amato  2026-07-16 16:27:23.458687  https://www.radioradicale.it/scheda/15884/consumi-una-scelta-ragionata?i=2764062  ValueError: No timestamps
+amato  2026-07-16 16:27:26.975473  https://www.radioradicale.it/scheda/13308/democrazia-liberale-1986?i=2773094  ValueError: No timestamps
+amato  2026-07-16 16:31:21.467458  https://www.radioradicale.it/scheda/12291/droga-e-flussi-informativi-in-europa?i=2776162  ValueError: No timestamps
+amato  2026-07-16 16:37:32.876142  https://www.radioradicale.it/scheda/66940/lesperienza-di-governo-della-sinistra-in-europa-festa-dellunita?i=2354746  ValueError: No timestamps
+amato  2026-07-16 16:37:35.034102  https://www.radioradicale.it/scheda/10460/dc-e-psi-collaborazione-e-competizione?i=2780384  ValueError: No timestamps
+amato  2026-07-16 16:37:37.177710  https://www.radioradicale.it/scheda/1799/quale-modello-per-il-psi?i=224091  ValueError: No timestamps
+amato  2026-07-16 16:37:39.029455  https://www.radioradicale.it/scheda/859/quale-democrazia-per-il-sindacato?i=233820  ValueError: No timestamps
+amato  2026-07-16 16:37:41.983533  https://www.radioradicale.it/scheda/320/i-partiti-sono-da-buttare?i=235038  ValueError: No timestamps
+amato  2026-07-16 16:37:43.731802  https://www.radioradicale.it/scheda/567/perquisizione-al-giornale-lotta-continua?i=234611  ValueError: No timestamps
+amato  2026-07-16 16:37:45.719575  https://www.radioradicale.it/scheda/832/psi-rapporti-tra-sindacato-e-partito?i=222929  ValueError: No timestamps
+amato  2026-07-16 16:37:48.436140  https://www.radioradicale.it/scheda/661025/il-maratoneta-trasmissione-a-cura-dellassociazione-luca-coscioni-per-la-liberta-di?i=4386653  ValueError: No timestamps
+amato  2026-07-16 16:52:39.918154  https://www.radioradicale.it/scheda/520133/trasmissione-a-cura-di-claudio-landi-sui-libri-di-veronica-de-romanis-il-metodo-merkel?i=3754372  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/amato/audio_out/_out_520133_amato.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/amato/audio_out/520133_amato.mp3'
