@@ -1,0 +1,960 @@
+1
+00:00:01,200 --> 00:00:10,000
+un primo giro, se così si può dire, un breve dibattito e anche un secondo tipo di intervento.
+
+2
+00:00:11,540 --> 00:00:19,160
+Vediamo se ci sarà tempo, ma a me fa piacere essere qui oggi pomeriggio perché, tempo
+
+3
+00:00:19,160 --> 00:00:25,900
+addietro, ripropusi con una certa vispolemica un problema che mi sembrava finisse sul binario
+
+4
+00:00:25,900 --> 00:00:34,560
+morto e ha rischiato di finirci, e in fondo la visse con la quale lo affrontai aveva la
+
+5
+00:00:34,560 --> 00:00:44,180
+finalità di così toglierlo dal punto in cui era, perché io sono convinto, come del resto
+
+6
+00:00:44,180 --> 00:00:50,860
+chi mi ha preceduto, che l'Italia ha bisogno di fondazioni e bisogno di banche, ciò di
+
+7
+00:00:50,860 --> 00:00:57,720
+cui non ha bisogno è di fondazioni che gestiscono banche, e allora si tratta di sciogliere questo
+
+8
+00:00:57,720 --> 00:01:05,220
+nodo progressivamente, ottenendo da questa vicenda che abbiamo ereditato dalla nostra
+
+9
+00:01:05,220 --> 00:01:13,900
+storia e che ha tanti aspetti positivi, un unbundling che si direbbe in linguaggio antitrust,
+
+10
+00:01:14,780 --> 00:01:21,820
+un disciogliersi dei fili che legano queste due realtà in modo che ciascuna possa esprimersi
+
+11
+00:01:21,820 --> 00:01:28,740
+al meglio. Capisco che per molte di voi questo può essere difficile da accettare perché
+
+12
+00:01:28,740 --> 00:01:35,540
+la peculiarità della nostra vicenda storica ha fatto sì che al bisogno di fondazioni
+
+13
+00:01:35,540 --> 00:01:42,640
+venisse chiamato a rispondere per primo un ceto di bancari, perché questa è stata la
+
+14
+00:01:42,640 --> 00:01:52,380
+vicenda italiana, per il quale è antropologicamente prima ancora che culturalmente appropriato
+
+15
+00:01:52,380 --> 00:02:01,880
+gestire banche, e in realtà quindi la conversione non è così facile come dall'esterno uno
+
+16
+00:02:01,880 --> 00:02:07,480
+come me può valutarla, per questo posso anche capire che affermazioni a volte unilaterali
+
+17
+00:02:07,480 --> 00:02:13,680
+come quelle che ho fatto io, possono finire addirittura per ferire oltre che per non convincere.
+
+18
+00:02:14,260 --> 00:02:20,380
+E tuttavia chi è fuori deve rendersi conto delle ragioni di chi è dentro, chi è dentro
+
+19
+00:02:20,380 --> 00:02:27,120
+deve rendersi conto delle ragioni di chi è fuori in realtà e c'è un bisogno di comprensione
+
+20
+00:02:27,120 --> 00:02:38,000
+reciproca che tuttavia l'evoluzione così lentamente ma nitidamente intervenuta in questi
+
+21
+00:02:38,000 --> 00:02:46,300
+anni e che è stata ora spiegata, dimostra che dei passi verso quel punto d'arrivo che
+
+22
+00:02:46,300 --> 00:02:55,100
+io ritengo essenziale li si è fatti. Diversamente da quanto si è detto io non mi sono mai pentito
+
+23
+00:02:55,100 --> 00:03:02,480
+della legge che ho fatto e non capisco perché è così quando ormai ci sono tanti ambiti
+
+24
+00:03:02,480 --> 00:03:10,820
+anche più drammatici di questo, dove una falsità detta da qualcuno diventa la inesorabile
+
+25
+00:03:10,820 --> 00:03:17,380
+verità degli anni successivi contro la quale è inutile opporre la verità. Era divertente
+
+26
+00:03:17,380 --> 00:03:24,840
+presentarmi come un pentito e quindi il pentimento è stato. Ho provato inizialmente a smentire
+
+27
+00:03:24,840 --> 00:03:31,800
+questa cosa, poi ho rinunciato perché era impossibile, ho ricordato di aver detto fin
+
+28
+00:03:31,800 --> 00:03:38,040
+dal mio primo intervento sull'argomento che la legge io l'avrei fatta come l'avevo
+
+29
+00:03:38,040 --> 00:03:45,380
+fatta, salvo che io non ci misi non ci avrei messo e ci fu messo dopo il 51% come vincolo
+
+30
+00:03:45,380 --> 00:03:52,020
+ma questo è noto fin dall'inizio, Gustavo mi è testimone autorevolissimo perché era
+
+31
+00:03:52,020 --> 00:04:00,180
+in Parlamento allora, salvo questo perché non c'era altra soluzione ed era una soluzione
+
+32
+00:04:00,180 --> 00:04:06,900
+opportuna quella di affidare inizialmente nel momento della trasformazione da ente pubblico
+
+33
+00:04:06,900 --> 00:04:15,000
+a SPA le azioni dell'SPA alle fondazioni, per ragioni storiche e anche per altre ragioni.
+
+34
+00:04:15,060 --> 00:04:22,000
+Tuttavia il processo che sta intervenendo ora appunto a mio avviso avrebbe dovuto cominciare
+
+35
+00:04:22,000 --> 00:04:29,300
+prima ed è la variabile tempo quella che finisce per provocare dei danni se non è
+
+36
+00:04:29,300 --> 00:04:35,420
+utilizzata bene che avrebbero potuto essere evitati, appunto io mi ricordo che le prime
+
+37
+00:04:35,420 --> 00:04:42,980
+volte che provai a smentire poi smisi questa cosa del pentimento io osservai che non mi
+
+38
+00:04:42,980 --> 00:04:49,200
+sono mai pentito di aver dato ai miei bambini nei primi mesi di vita gli omogeneizzati,
+
+39
+00:04:49,200 --> 00:04:56,240
+mi sarei pentito di averli se li avessi dati quando ormai avevano 15 anni perché forse
+
+40
+00:04:56,240 --> 00:05:02,640
+a quell'età le bistecche erano più adatte e la questione era sia pure con tempi diversi
+
+41
+00:05:02,640 --> 00:05:12,440
+dello stesso tipo proprio perché io non avrei mai messo il 51%, perché non lo avrei messo
+
+42
+00:05:12,440 --> 00:05:18,320
+il 51% perché insomma non si può privatizzare solo la forma giuridica, la privatizzazione
+
+43
+00:05:18,320 --> 00:05:24,600
+della forma giuridica sta e cade col fatto di essere propedeutica ad un allargamento
+
+44
+00:05:25,360 --> 00:05:33,300
+dell'assetto proprietario in effetti perché altrimenti insomma ormai la fantasia giuridica
+
+45
+00:05:33,300 --> 00:05:40,160
+soprattutto del nostro variegato sistema pubblico è tale che può conseguire attraverso
+
+46
+00:05:40,160 --> 00:05:45,720
+la forma dell'ente pubblico economico esattamente i medesimi risultati che ottiene attraverso
+
+47
+00:05:45,720 --> 00:05:54,300
+la SPA quindi se si usa la SPA a questo punto la si usa per consentire la privatizzazione per
+
+48
+00:05:54,300 --> 00:06:02,980
+consentire la immissione di questa impresa economica in un mercato più largo nel quale si sta se si è
+
+49
+00:06:02,980 --> 00:06:08,720
+in condizioni anche di scambiare pacchetti azionari così come convenienza efficienza
+
+50
+00:06:08,720 --> 00:06:15,380
+opportunità di mercato sotto profilo strutturale e possono suggerire per cui il vincolo del
+
+51
+00:06:15,380 --> 00:06:24,380
+51% diventava un handicap sul mercato ed è ovvio che sul mercato il 51% è un handicap
+
+52
+00:06:24,380 --> 00:06:31,040
+perché all'interlocutore dice tutt'al più qui se ti arriverà a convenire potrai fare
+
+53
+00:06:31,040 --> 00:06:36,340
+un investimento finanziario ma se non ti arriverà a convenire fin dal primo anno che ci metti
+
+54
+00:06:36,340 --> 00:06:42,080
+i soldi tu i soldi qui che ci rimetti a fare se non hai nessunissima prospettiva di avere
+
+55
+00:06:42,080 --> 00:06:48,340
+un ruolo decisionale nella gestione magari questo ti sembra una buona banca bisogno di
+
+56
+00:06:48,340 --> 00:06:56,620
+lavorarci dentro e però tu in posizione minoritaria non sei stimolato a farlo quindi era di per sé
+
+57
+00:06:56,620 --> 00:07:07,740
+averci messo il 51% un mettere una gamba nel sacco di queste future imprese e quindi precludere
+
+58
+00:07:07,740 --> 00:07:16,100
+un accesso al mercato a parità con altri soggetti e testimoniava un utilizzo della
+
+59
+00:07:16,100 --> 00:07:25,880
+spa con una funzione molto più marginale di quella alla quale avevo pensato è inevitabile
+
+60
+00:07:25,880 --> 00:07:36,000
+che nonostante la buona volontà delle persone poi la derivazione della proprietà e quindi
+
+61
+00:07:36,000 --> 00:07:45,160
+del potere di nomina dall'ente locale dalla camera di commercio dalle istituzioni locali
+
+62
+00:07:45,160 --> 00:07:52,840
+di vario genere mi riferisco alla banca naturalmente della proprietà della banca finisce per diventare
+
+63
+00:07:52,840 --> 00:07:59,320
+essa stessa una remora lo dico con con tutta franchezza finisce per diventare essa stessa
+
+64
+00:07:59,320 --> 00:08:08,540
+una remora da un lato al processo di aggregazione io sono stato molto deluso dalla difficoltà di
+
+65
+00:08:08,540 --> 00:08:17,560
+aggregare fra di loro le casse di risparmio locali io mi sono a lungo battuto lui che rappresenta
+
+66
+00:08:17,560 --> 00:08:24,720
+una parte forte del sistema bancario italiano dal fatto che l'aggregazione delle nostre banche
+
+67
+00:08:24,720 --> 00:08:33,040
+la dovessero fare quando eravamo giovani i carli ottavi che venivano dalla lombardia e mi pareva
+
+68
+00:08:33,040 --> 00:08:39,160
+molto più appropriato molto più utile molto più rispondente alla struttura policentrica del
+
+69
+00:08:39,160 --> 00:08:49,560
+nostro paese che si avessero delle aggregazioni regionali in punto chi ha vissuto questa storia
+
+70
+00:08:49,560 --> 00:08:57,400
+più di me ne sa anche più di me sa ma quanti ostacoli sono stati trovati e quanta parte di
+
+71
+00:08:57,400 --> 00:09:05,040
+questi ostacoli è legata all'intreccio tra mondi politico culturali se volete locali
+
+72
+00:09:05,040 --> 00:09:16,400
+e localistici e banche locali quanto è stato dovuto è così è un dato di fatto è un dato
+
+73
+00:09:16,400 --> 00:09:23,480
+di fatto questo per tante ragioni insomma ecco ora noi abbiamo avuto un caso parossistico
+
+74
+00:09:24,080 --> 00:09:31,600
+appunto di una comunità locale dei suoi rappresentanti che per anni hanno addirittura rifiutato la
+
+75
+00:09:31,600 --> 00:09:38,900
+forma della società per azioni ecco nel timore che questo spossessasse la comunità locale del suo
+
+76
+00:09:39,460 --> 00:09:48,660
+ma questo è solo la punta dell'iceberg la più visibile con sbandieratori che ne segnalano
+
+77
+00:09:48,660 --> 00:09:56,820
+l'esistenza al di là di questo fenomeni similari ancorché meno sbandierati e meno vistosi
+
+78
+00:09:56,820 --> 00:10:02,500
+sono intervenuti facendo sì che qualunque comunità locale avesse nel suo mercato di
+
+79
+00:10:02,500 --> 00:10:07,760
+nicchia una cassa di risparmio che in quel mercato di nicchia andava bene non vedeva
+
+80
+00:10:07,760 --> 00:10:15,320
+nessun motivo per unirsi alle altre e siamo arrivati al fallimento di tentativi addirittura
+
+81
+00:10:15,320 --> 00:10:21,720
+di avere un unico computer per il personale tentativi neanche federali ma confederali
+
+82
+00:10:22,960 --> 00:10:35,840
+hanno finito per fallire nella stessa regione degli sbandieratori ma non solo in essa inoltre
+
+83
+00:10:37,480 --> 00:10:42,640
+io parlo con franchezza o sapete insomma c'è chi piace c'è che non piace ma le bugie non mi
+
+84
+00:10:42,640 --> 00:10:47,720
+piace dirle dall'altra parte ora sono libero cittadino quindi non è anche da temere di
+
+85
+00:10:47,720 --> 00:10:53,840
+perdere il consenso elettorale di qualcuno non avrei parlato degli sbandieratori così alcuni anni
+
+86
+00:10:53,840 --> 00:11:07,680
+ma ecco secondo punto che va detto noi abbiamo bisogno di aggregazioni e non di salvataggi
+
+87
+00:11:09,120 --> 00:11:18,600
+le aggregazioni devono avere un senso economico imprenditoriale che una efficiente banca friulana
+
+88
+00:11:18,600 --> 00:11:29,980
+vado a comprare quattro sportelli in calabria non ha un grande senso economico ha senso in
+
+89
+00:11:29,980 --> 00:11:37,920
+base ad un principio di tutela dell'esistente che è stato ereditato dai tempi della gestione
+
+90
+00:11:37,920 --> 00:11:46,940
+amministrativa del sistema bancario al quale era sovraordinata una attenta istituzione e rispetto
+
+91
+00:11:46,940 --> 00:11:55,100
+a quello che porta al principio per cui tutto si crea e nulla si distrugge allora si salva
+
+92
+00:11:55,640 --> 00:12:04,020
+tendenzialmente tutto allora c'è una missione che viene compiuta in nome di chi sovraintende
+
+93
+00:12:04,020 --> 00:12:15,680
+all'insieme la missione di salvataggio si viene chiamati e ci si dice tocca a te e allora parte
+
+94
+00:12:15,680 --> 00:12:23,700
+la missione questo non corrisponde a criteri di mercato queste non sono aggregazioni questo
+
+95
+00:12:23,700 --> 00:12:33,080
+tipo l'esistente tipo di proprietà bancaria facilita l'assecondamento di questo congegno
+
+96
+00:12:34,440 --> 00:12:42,460
+una proprietà più privato imprenditoriale avrebbe di sicuro molta maggior forza dialettica nel dire
+
+97
+00:12:43,260 --> 00:12:48,860
+io tutt'al più mi metto con verona ma in calabria non ho e non prevedo di avere interessi
+
+98
+00:12:54,460 --> 00:13:00,600
+o tutt'al più a quel punto si identifica una due banche le quali possano avere questi
+
+99
+00:13:00,600 --> 00:13:07,080
+interessi allora vadano a rinvigorire il sistema bancario meridionale o calabrese che ne ha un
+
+100
+00:13:07,080 --> 00:13:19,080
+bisogno ma non attraverso questa erogazione di attività pubblica di missione pubblica un
+
+101
+00:13:19,080 --> 00:13:31,520
+po a pioggia nel sistema anche sotto questo profilo il tipo di proprietà e il tipo di
+
+102
+00:13:31,520 --> 00:13:45,240
+sposta che poi può venire oggi non facilita il superamento di questo sistema e sporzi
+
+103
+00:13:45,240 --> 00:13:51,980
+ne sono stati fatti ma è chiaro che non sono sufficienti devo dirvi che quello che abbiamo
+
+104
+00:13:51,980 --> 00:13:59,080
+sentito oggi dimostra che insomma nei limiti in cui ne potevano essere capaci date le posizioni
+
+105
+00:13:59,080 --> 00:14:06,580
+di partenza date appunto le culture le casse di risparmio hanno fatto molto per modificare
+
+106
+00:14:06,580 --> 00:14:14,040
+i loro statuti per aprirsi a questa prospettiva futura di concentrazione piuttosto nelle attività
+
+107
+00:14:14,040 --> 00:14:20,720
+non profit che non nella gestione della banca ma ecco qui qual è vero che qualcosa deve
+
+108
+00:14:20,720 --> 00:14:31,240
+essere cambiato intanto ci vuole uno sforzo promozionale più forte per trovarli e formarli
+
+109
+00:14:31,240 --> 00:14:38,520
+al limite i compratori di queste banche da privatizzare perché poi se privatizzi privatizzi
+
+110
+00:14:38,520 --> 00:14:46,080
+ma non è detto che poi tu trovi i compratori dalla sera alla mattina io sto studiando
+
+111
+00:14:46,080 --> 00:14:52,240
+per altre ragioni paesi dell'est che stanno faticosamente cercando di entrare nel mercato
+
+112
+00:14:55,840 --> 00:15:03,740
+insomma la prima cosa di cui si sono preoccupati è stato dar vita conforme se volete di fecondazione
+
+113
+00:15:03,740 --> 00:15:07,920
+artificiale alle quali tutti sanno che io sono tendenzialmente contrario ma non quando
+
+114
+00:15:07,920 --> 00:15:18,900
+si tratta di istituzioni alla fin fine hanno creato fondi pensione già forti nel giro di
+
+115
+00:15:18,900 --> 00:15:27,360
+due tre anni i principali acquirenti interni a parte quelli venuti da fuori di imprese
+
+116
+00:15:27,360 --> 00:15:32,560
+in polonia in ungheria nella repubblica cieca nella repubblica slovaca sono i fondi pensione
+
+117
+00:15:34,880 --> 00:15:43,240
+nati in forme diverse ma fortemente promosse dalle autorità pubbliche le quali giustamente
+
+118
+00:15:43,240 --> 00:15:49,620
+dovendo creare un mercato hanno cercato anche di contribuire a creare degli operatori di
+
+119
+00:15:49,620 --> 00:15:58,060
+mercato nazionali operatori istituzionali investitori istituzionali da noi non so per
+
+120
+00:15:58,060 --> 00:16:07,180
+motivo da quando fu fatto il primo che è l'officio e che era il 24 o 124 non mi ricordo più il
+
+121
+00:16:07,180 --> 00:16:14,300
+numero il decreto legislativo che istituì fondi pensione o era 24 era 124 della primavera del
+
+122
+00:16:14,300 --> 00:16:20,860
+93 siamo arrivati al 96 e l'unica cosa che è accaduta è che il decreto è stato rifatto
+
+123
+00:16:20,860 --> 00:16:29,240
+e reimpastato e così da un decreto all'altro non è ancora successo niente in repubbliche che si
+
+124
+00:16:29,240 --> 00:16:34,940
+trovavano in una condizione similare a quella italiana quali erano le repubbliche dell'autentico
+
+125
+00:16:34,940 --> 00:16:43,120
+est europeo in tre anni si sono creati dei robusti fondi pensione ed è stato relativamente semplice
+
+126
+00:16:43,120 --> 00:16:50,660
+perché si sono fatte delle operazioni se volete artificiali distribuendo in forma di voucher che
+
+127
+00:16:50,660 --> 00:16:58,160
+sono diventati negoziabili tra i cittadini dei titoli espressivi di quote proprietarie delle
+
+128
+00:16:58,160 --> 00:17:04,360
+imprese da privatizzare poi questi sono stati composti in investitori istituzionali quali si
+
+129
+00:17:04,360 --> 00:17:12,260
+sono trovati in mano una volta definita il livello di valore negoziale si sono trovati in mano un
+
+130
+00:17:12,260 --> 00:17:17,660
+piccolo patrimonio da gestire insomma se uno una cosa lo vuole la fa e questi paesi hanno
+
+131
+00:17:17,660 --> 00:17:24,120
+dimostrato che per sottrarsi a compratori escludivamente stranieri questa era una strada
+
+132
+00:17:24,120 --> 00:17:28,980
+percorribile noi poi non è che siamo con giro di mentali come loro perché altri investitori
+
+133
+00:17:28,980 --> 00:17:34,400
+istituzionali in qualche modo già cominciavamo ad averli ma certo qui ci vuole uno sforzo
+
+134
+00:17:34,400 --> 00:17:41,800
+superiore per essere in condizioni di distribuire con la necessaria gradualità come è stato detto
+
+135
+00:17:41,800 --> 00:17:55,320
+io su questo sono d'accordissimo questi pacchetti azionari e poi di sicuro occorre è stato detto
+
+136
+00:17:55,320 --> 00:18:04,940
+anche questo giustamente dare a queste fondazioni un assetto di cui oggi mancano cioè rispetto a
+
+137
+00:18:04,940 --> 00:18:12,240
+quello che le vostre esperienze cominciano a prefigurare la disciplina esistente delle
+
+138
+00:18:12,240 --> 00:18:25,420
+fondazioni è una disciplina inadeguata e questa proprio dovrebbe essere l'occasione per prendere
+
+139
+00:18:25,420 --> 00:18:33,400
+due piccioni con due fave ce ne vogliono due non ne basta una sola ci vuole un adeguato
+
+140
+00:18:33,400 --> 00:18:45,020
+assetto proprietario per le banche ci vuole un adeguata disciplina per le fondazioni è un passo
+
+141
+00:18:45,020 --> 00:18:54,260
+molto importante per il futuro positivo di questo settore che sia ormai condiviso il principio
+
+142
+00:18:55,540 --> 00:19:04,940
+secondo il quale una istituzione non profit deve avere un portafoglio diversificato all'interno
+
+143
+00:19:04,940 --> 00:19:16,400
+del quale non c'è la responsabilità diretta di una o più imprese l'essere non profit significa
+
+144
+00:19:16,400 --> 00:19:24,930
+avere l'unica preoccupazione istituzionale di gestire al meglio in base ai propri fini le risorse
+
+145
+00:19:25,200 --> 00:19:35,390
+di cui si dispone non avere la preoccupazione di dover far quadrare i conti di una impresa
+
+146
+00:19:35,920 --> 00:19:43,450
+dalla quale dipendono le risorse da destinare ai propri fini istituzionali sono due cose che
+
+147
+00:19:43,450 --> 00:19:52,590
+finiscono per diventare fra di loro assolutamente incompatibili quel vincolo di portafoglio
+
+148
+00:19:53,210 --> 00:20:02,090
+tra virgolette della fondazione che deve destinare riservare comunque non meno dell'eventuale aumento
+
+149
+00:20:02,090 --> 00:20:09,490
+di capitale della spa sua insomma è la dimostrazione di questo problema non a caso si pone come un
+
+150
+00:20:11,070 --> 00:20:19,270
+ripeto non è facile accettarlo per chi è nato bancario però può capitare ed è capitato tante
+
+151
+00:20:19,270 --> 00:20:26,310
+volte nella storia che chi è nato in un certo modo ha avuto il suo ruolo e i suoi maggiori
+
+152
+00:20:26,310 --> 00:20:32,670
+successi nel fare tutta un'altra cosa rispetto a quella con la quale aveva cominciato quindi
+
+153
+00:20:32,670 --> 00:20:39,250
+ecco cerchiamo in questo di essere elastici di non vivere nostalgicamente una vicenda che
+
+154
+00:20:39,250 --> 00:20:46,950
+si è vissuta nostalgicamente a questo punto non porta da non porta da nessuna parte e poi
+
+155
+00:20:46,950 --> 00:20:54,410
+permettetemi di dire una verità cattiva per riprendere questo punto o quando ci fu la ribellione
+
+156
+00:20:56,630 --> 00:21:07,650
+sancita in via referendaria io mi avviso giusta ribellione contro la nomina politica di chi
+
+157
+00:21:07,650 --> 00:21:14,810
+gestiva le banche o che questa ribellione doveva riguardare solo la fetta delle nomine fatte dalla
+
+158
+00:21:14,810 --> 00:21:20,270
+politica nazionale mentre chissà perché quelle fatte dalla politica locale invece non riguardavano
+
+159
+00:21:21,770 --> 00:21:27,850
+ribellione sarebbe una ribellione curiosa si può chiedere a bossi una spiegazione di questo
+
+160
+00:21:27,850 --> 00:21:33,930
+fenomeno eventualmente se la nomina politica locale in quanto locale esente dai difetti
+
+161
+00:21:33,930 --> 00:21:39,450
+della nomina politica nazionale ma credo che neanche lui che su queste cose in fondo ha
+
+162
+00:21:39,450 --> 00:21:49,750
+una sensibilità arriverebbe ad ammetterlo quindi bisogna saper accettare che nomine che vengono
+
+163
+00:21:49,750 --> 00:21:58,150
+da enti locali da istituzioni locali sono molto più pertinenti oggi per la sensibilità media
+
+164
+00:21:58,150 --> 00:22:04,270
+della nostra collettività per il rapporto mercato istituzioni mercato politica sono molto più
+
+165
+00:22:04,270 --> 00:22:14,190
+pertinenti se riferite ad istituzioni che svolgono attività sociali culturali eccetera che non se
+
+166
+00:22:14,190 --> 00:22:23,930
+ad attività di impresa poco in fondo si tratterebbe di cambiare dal punto di vista dei criteri di
+
+167
+00:22:23,930 --> 00:22:30,370
+nomina delle fondazioni che probabilmente dovrebbero forse vedere un po' allargato
+
+168
+00:22:30,370 --> 00:22:38,790
+l'ambito delle istituzioni locali chi amate a concorrere con loro terne con loro designazioni
+
+169
+00:22:38,790 --> 00:22:48,150
+ma fondamentalmente i tronchi a cui si attaccano sono i tronchi che danno la linfa vitale rispetto
+
+170
+00:22:48,150 --> 00:22:55,350
+ai loro compiti forse ci si può domandare ma quando si tratta di alberi che crescono
+
+171
+00:22:55,350 --> 00:23:00,390
+bene la domanda al limite superfa se noi non abbiamo anche bisogno di fondazioni di
+
+172
+00:23:01,990 --> 00:23:08,790
+nazionale ma va benissimo che fondazioni di rilievo nazionale siano alberi cresciuti su un
+
+173
+00:23:08,790 --> 00:23:16,510
+tronco locale non c'è nessun motivo di trasferire a istituzioni nazionali va benissimo così perché
+
+174
+00:23:16,510 --> 00:23:23,390
+già oggi questo mondo è un mondo che presenta una scalarità e ci si attende da alcune delle
+
+175
+00:23:23,390 --> 00:23:29,310
+vostre fondazioni che adottino iniziative non soltanto di dimensione locale da altre questo
+
+176
+00:23:29,310 --> 00:23:34,850
+non lo si attende affatto e si trova invece naturale che abbiano un orizzonte locale quindi
+
+177
+00:23:34,850 --> 00:23:43,510
+questo può andare benissimo così ma detto questo ecco è evidente che non la legislazione così
+
+178
+00:23:43,510 --> 00:23:54,730
+come queste sono fondazioni destinate ad uscire da qualunque vigilanza di banca d'italia o di ministri
+
+179
+00:23:54,730 --> 00:24:00,670
+questo deve essere chiaro una volta che il loro portafoglio sia diversificato che non
+
+180
+00:24:00,670 --> 00:24:08,210
+abbiano responsabilità gestionari di banche non si vede per quale motivo debbano né a quel punto
+
+181
+00:24:08,210 --> 00:24:14,430
+mi parebbe aver senso che dovessero ricadere allora sotto quelle tradizionali nella vecchia
+
+182
+00:24:14,430 --> 00:24:20,670
+disciplina che non basta insomma la vigilanza del prefetto così come oggi strutturata sulle
+
+183
+00:24:20,670 --> 00:24:25,680
+fondazioni espressive di patrimoni di signori che avevano un latifondo che non hanno più
+
+184
+00:24:26,210 --> 00:24:31,660
+eccetera eccetera ecco riguarda la fondazione di due secoli fa probabilmente non questa fondazione
+
+185
+00:24:32,630 --> 00:24:39,830
+quindi occorre una nuova disciplina privatistica di questa istituzione che non è prevista perché
+
+186
+00:24:39,830 --> 00:24:46,590
+la fondazione bancaria come tale è destinata a morire la fondazione grande istituzione non
+
+187
+00:24:46,590 --> 00:24:54,290
+del ventunesimo secolo non è contenuta nei primi smilzi articoli del codice civile del
+
+188
+00:24:54,290 --> 00:25:04,370
+1942 quindi qua occorre strutturare una disciplina vi espongo anche una ragione ulteriore a quelle
+
+189
+00:25:04,370 --> 00:25:13,930
+che usualmente si prendono in considerazione e che considero importante è verissimo io ne ho
+
+190
+00:25:13,930 --> 00:25:20,430
+atto con soddisfazione ne sono contento penso che sia utile per il paese che c'è uno sforzo in
+
+191
+00:25:20,430 --> 00:25:27,250
+atto di buona parte di queste fondazioni di passare dall'intervento a pioggia all'intervento a progetto
+
+192
+00:25:28,750 --> 00:25:37,070
+però quanto più l'intervento sarà a progetto tanto più vi accorgerete che diversi progetti
+
+193
+00:25:37,070 --> 00:25:46,290
+non li può gestire direttamente la fondazione uno può darsi il massimo di efficienza possibile
+
+194
+00:25:46,290 --> 00:25:52,250
+ma probabilmente non può trovare al proprio interno nelle convenienti che mantenga al
+
+195
+00:25:52,250 --> 00:25:59,450
+proprio interno tutte le risorse organizzative necessarie a far funzionare quel progetto forse
+
+196
+00:25:59,450 --> 00:26:09,390
+è essenziale che la fondazione possa figliare degli organismi ai quali affida la responsabilità
+
+197
+00:26:09,390 --> 00:26:17,630
+dei progetti all'interno dei quali e nei limiti richiesti trova le risorse specialistiche necessarie
+
+198
+00:26:17,630 --> 00:26:28,850
+a farli funzionare perché insomma se veramente pensiamo che queste fondazioni possano io lo
+
+199
+00:26:28,850 --> 00:26:35,670
+si può ricattare la realtà museale nazionale e se lo possono fare al loro interno un lavoro
+
+200
+00:26:35,670 --> 00:26:43,190
+del genere come diavolo fanno se poi una stessa grande fondazione appunto ne abbiamo è destinata
+
+201
+00:26:43,190 --> 00:26:52,950
+ad occuparsi di musei di assistenza agli anziani il tema delle residenze protette è straordinario
+
+202
+00:26:52,950 --> 00:27:03,950
+io intravedo delle splendide possibili intese tra fondazioni fondi pensione e assicurativi
+
+203
+00:27:03,950 --> 00:27:10,530
+e costruttori per dar vita a dei villaggi per anziani che questi si possano pagare con
+
+204
+00:27:10,530 --> 00:27:16,850
+la loro pensione integrativa opzionalmente trasformata in un usufrutto finché campo
+
+205
+00:27:16,850 --> 00:27:23,790
+su una residenza protetta per anziani che sia più civile di un triste e pensionato
+
+206
+00:27:23,790 --> 00:27:30,830
+per vecchi come oggi molto spesso accade ma si occupa di questo si occupa di musei si
+
+207
+00:27:30,830 --> 00:27:37,310
+occupa di arte libraria eccetera e che c'ha quattro leonardi da vinci dentro che gestiscono
+
+208
+00:27:37,310 --> 00:27:44,270
+tutte queste cose non è assolutamente possibile non è neanche serio perché badate che se
+
+209
+00:27:44,270 --> 00:27:50,010
+c'è una cosa pericolosa dal punto di vista professionale è intendersi di cultura ecco
+
+210
+00:27:50,010 --> 00:27:56,750
+perché poi se uno deve andarla a organizzare questo singolare diventa un terrificante plurale
+
+211
+00:27:56,750 --> 00:28:03,990
+e esige specializzazioni che al singolare non si intravedono neppure quindi occorno degli
+
+212
+00:28:03,990 --> 00:28:09,410
+organismi ai quali affidare risorse finanziarie e questo occorre che ciascuna fondazione possa
+
+213
+00:28:09,410 --> 00:28:16,550
+fare il suo grappolo di organizzazioni e di attività ecco questo esige di sicuro una
+
+214
+00:28:16,550 --> 00:28:23,890
+qualche disciplina legislativa è un po strano ma dato che la vicenda storica è quella che
+
+215
+00:28:23,890 --> 00:28:30,170
+noi abbiamo vissuto torno al punto di partenza abbiamo bisogno di fondazioni e di banche
+
+216
+00:28:30,170 --> 00:28:37,470
+ma non necessariamente di fondazioni che gestiscono banche potrebbe essere anche una medesima
+
+217
+00:28:37,470 --> 00:28:47,990
+disciplina legislativa che va a infilarsi in entrambi questi settori ecco fornendo giustamente
+
+218
+00:28:47,990 --> 00:28:52,910
+sono stati ricordati gli incentivi fiscali necessari a favorire la diversificazione
+
+219
+00:28:52,910 --> 00:29:01,050
+di portafoglio fornendo i necessari impulsi alle proprietà private che mancano da una
+
+220
+00:29:01,050 --> 00:29:09,730
+parte il distacco della fondazione dalla sua ragione originaria e contestualmente la
+
+221
+00:29:09,730 --> 00:29:17,830
+disciplina della fondazione come istituzione non profitto se volete come prototipo della
+
+222
+00:29:17,830 --> 00:29:25,030
+istituzione non profitto il che potrebbe dare a chi vive oggi il mondo delle fondazioni
+
+223
+00:29:25,030 --> 00:29:34,710
+bancarie quella giusta e doverosa remunerazione psicologica che ritengo doverosa cioè nel
+
+224
+00:29:34,710 --> 00:29:43,950
+momento in cui perdo la mia originaria ragiond'essere trovo costruita la strada sulla quale del
+
+225
+00:29:43,950 --> 00:29:49,970
+resto già per conto mio avevo cominciato ad incamminarmi e al di là di questa remunerazione
+
+226
+00:29:49,970 --> 00:29:58,990
+psicologica un passaggio anche opportuno ai fini del dare il coraggio delle operazioni
+
+227
+00:29:58,990 --> 00:30:06,090
+che servono e questo l'incentivo disincentivo fiscale dell'ultima cosa che dico lo consente
+
+228
+00:30:06,090 --> 00:30:14,990
+con relativa facilità perché si può dare una temporalizzazione non strettissima ma
+
+229
+00:30:16,210 --> 00:30:23,950
+percepibile nel corso della quale vanno a decrescere fino a sparire sia gli incentivi
+
+230
+00:30:23,950 --> 00:30:32,370
+fiscali per la privatizzazione della residua proprietà bancaria sia gli incentivi fiscali
+
+231
+00:30:32,770 --> 00:30:40,990
+da riconoscere alle attività non profitto che questi soggetti tardando oltre un certo
+
+232
+00:30:40,990 --> 00:30:48,480
+tempo potrebbero finire per perdere. Giocando contestualmente su queste due tastiere si
+
+233
+00:30:48,690 --> 00:31:01,430
+può arrivare ad una soluzione unica ma a rime baciate sui due fronti. Ho visto dalla relazione
+
+234
+00:31:01,430 --> 00:31:08,090
+che mi ha preceduto che in fondo questo è un cambiamento di destino che il vostro mondo
+
+235
+00:31:08,090 --> 00:31:18,030
+sta accettando e così tratta di prenderne atto sino in fondo senza probabilmente avere
+
+236
+00:31:18,030 --> 00:31:26,990
+delle remore. Molte di voi sono entrate nelle fondazioni con l'aspettativa di avere un lungo
+
+237
+00:31:26,990 --> 00:31:34,410
+futuro di banchieri. Nella nostra vita quello che conta è avere un lungo futuro ma solo
+
+238
+00:31:34,410 --> 00:31:40,710
+quando questo futuro sarà finito potremmo dire ex post in quale qualità lo avevamo
+
+239
+00:31:40,710 --> 00:31:58,790
+vissuto. Bene, il Presidente De Rita come ha pronunciato
+
+240
+00:31:58,790 --> 00:31:59,990
+non poteva farlo.
+
