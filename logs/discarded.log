@@ -3545,3 +3545,5 @@ amato  2026-07-16 07:42:09.160381  https://www.radioradicale.it/scheda/73181/ass
 amato  2026-07-16 08:15:11.231734  https://www.radioradicale.it/scheda/72487/alle-soglie-del-2000-piu-speranze-che-timori?i=2300811  RuntimeError: yt-dlp exited 1
 amato  2026-07-16 08:15:13.145264  https://www.radioradicale.it/scheda/70224/regole-strumenti-e-ruolo-dellautorita-antitrust-in-italia-lezione-del-prof-giuliano?i=2322500  ValueError: No timestamps
 amato  2026-07-16 08:15:15.633050  https://www.radioradicale.it/scheda/70712/liberare-la-tv-regole-risorse-tecnologie-per-una-societa-aperta?i=2318056  ValueError: No timestamps
+amato  2026-07-16 08:20:15.510748  https://www.radioradicale.it/scheda/68961/lutenza-radiotelevisiva-rappresentanza-e-tutela?i=2333694  ValueError: No timestamps
+amato  2026-07-16 08:43:43.005316  https://www.radioradicale.it/scheda/67908/lo-stato-sociale-tra-crisi-e-riforme-il-caso-italia-presentazione-del-libro-di-giuliano?i=2345093  RuntimeError: yt-dlp exited 1
