@@ -3540,3 +3540,8 @@ amato  2026-07-16 03:07:55.528801  https://www.radioradicale.it/scheda/95898/mer
 amato  2026-07-16 04:24:04.470571  https://www.radioradicale.it/scheda/86657/gli-usa-un-modello-per-litalia-dibattito-organizzato-in-occasione-della-pubblicazione?i=2161227  RuntimeError: yt-dlp exited 1
 amato  2026-07-16 06:11:00.386958  https://www.radioradicale.it/scheda/88860/lunione-economica-monetaria-finanziaria-e-sociale-europea-procedure-operative-e-tempi?i=2135351  RuntimeError: yt-dlp exited 1
 amato  2026-07-16 06:32:47.075556  https://www.radioradicale.it/scheda/79068/autorita-indipendenti-di-controllo?i=2237533  ValueError: No timestamps
+amato  2026-07-16 07:23:11.291744  https://www.radioradicale.it/scheda/74487/a-un-passo-dalla-guerra-ustica-storia-di-un-segreto-inconfessabile-presentazione-del?i=2281741  ValueError: No timestamps
+amato  2026-07-16 07:42:09.160381  https://www.radioradicale.it/scheda/73181/assemblea-della-confcooperative-1995?i=2293690  ValueError: No timestamps
+amato  2026-07-16 08:15:11.231734  https://www.radioradicale.it/scheda/72487/alle-soglie-del-2000-piu-speranze-che-timori?i=2300811  RuntimeError: yt-dlp exited 1
+amato  2026-07-16 08:15:13.145264  https://www.radioradicale.it/scheda/70224/regole-strumenti-e-ruolo-dellautorita-antitrust-in-italia-lezione-del-prof-giuliano?i=2322500  ValueError: No timestamps
+amato  2026-07-16 08:15:15.633050  https://www.radioradicale.it/scheda/70712/liberare-la-tv-regole-risorse-tecnologie-per-una-societa-aperta?i=2318056  ValueError: No timestamps
