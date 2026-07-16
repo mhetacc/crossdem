@@ -1,0 +1,560 @@
+1
+00:00:00,620 --> 00:00:05,420
+Radio Radicale, abbiamo qui di fronte a noi il Presidente Giuliana Amato. Presidente Amato,
+
+2
+00:00:05,900 --> 00:00:11,200
+riforma e situazione del nostro sistema bancario. Lei definì il sistema bancario, ormai venti
+
+3
+00:00:11,200 --> 00:00:16,760
+anni fa credo, una foresta pietrificata di cui era necessario intervenire e innovare
+
+4
+00:00:16,760 --> 00:00:21,640
+per renderla più aperta. Tra l'altro è stata proprio lei, insieme col Dottor Draghi, in
+
+5
+00:00:21,640 --> 00:00:26,860
+qualche modo protagonista del cambiamento di questa foresta pietrificata. Ma ora il
+
+6
+00:00:26,860 --> 00:00:34,640
+sistema bancario è diventato una fungaia velenosa. Questa è divertente con me. Io
+
+7
+00:00:34,640 --> 00:00:41,520
+capisco bene che c'è un caso che in questo momento interessa le cronache, che è quello
+
+8
+00:00:41,520 --> 00:00:52,720
+dell'MPS, ma i vizi che si potranno riscontrare, che stanno emergendo in quella situazione, non
+
+9
+00:00:52,720 --> 00:01:02,000
+li attribuirei al nostro sistema bancario nella sua inchierezza, se non per una parte che è
+
+10
+00:01:02,000 --> 00:01:13,000
+importante e che riguarda una delle aspettative non realizzate di chi come me, Draghi e Ciampi
+
+11
+00:01:13,000 --> 00:01:26,080
+prima aveva pensato per spietrificare la foresta ad una trasformazione che facesse delle banche
+
+12
+00:01:26,080 --> 00:01:42,980
+delle società per azioni, con queste azioni inizialmente trasferite a fondazioni che sono
+
+13
+00:01:42,980 --> 00:01:52,680
+dovuto perdere non solo il controllo della banca, ma addirittura il ruolo di azionisti
+
+14
+00:01:52,680 --> 00:02:02,260
+rilevanti per diventare fondazioni non profit, come le grandi fondazioni non profit che ci sono
+
+15
+00:02:02,260 --> 00:02:10,020
+in altri paesi, il cui portafoglio include l'investimento nella banca come include
+
+16
+00:02:10,020 --> 00:02:17,820
+qualunque altro investimento che serve solo ad avere dei ritorni destinati ad essere investiti
+
+17
+00:02:17,820 --> 00:02:27,860
+su quello che in Italia chiamiamo il territorio. Il destino di queste fondazioni doveva essere
+
+18
+00:02:27,860 --> 00:02:38,560
+quello di perdere il controllo della banca e quindi di alleggerire via e più la partecipazione
+
+19
+00:02:39,580 --> 00:02:47,540
+la legge cosiddetta amato, questo non lo prevedeva ancora, è stato un processo lungo e difficile
+
+20
+00:02:47,540 --> 00:02:59,760
+io per far passare, anzi Carli, perché poi io avviai la legge che porta il mio nome ma
+
+21
+00:02:59,760 --> 00:03:09,260
+poi la legge passò nel 90 quando mio successore al tesoro era diventato Guido Carli. Per farla
+
+22
+00:03:09,260 --> 00:03:18,620
+passare in parlamento Carli dovette accettare che le fondazioni avrebbero mantenuto il controllo
+
+23
+00:03:18,620 --> 00:03:28,510
+della banca e quindi il parlamento del 1990 non fu in grado di accettare il disegno che
+
+24
+00:03:28,510 --> 00:03:37,970
+stiamo in testa della sconnessione poi fu attraverso il lungo tormentone degli anni
+
+25
+00:03:37,970 --> 00:03:46,510
+90 che si arriva alla legge Ciampi amato qui alla rovescia, qui era Ciampi che aveva elaborato
+
+26
+00:03:46,510 --> 00:03:55,570
+la legge e amato che firma il decreto delegato quando Ciampi va al Quirinale e bene lì dentro
+
+27
+00:03:55,570 --> 00:04:04,790
+si era riusciti finalmente a dar corpo al disegno, le fondazioni devono lasciare il controllo
+
+28
+00:04:04,790 --> 00:04:17,450
+della banca. E' accaduto poi. Piano piano questo è venuto accadendo e con gli anni abbiamo
+
+29
+00:04:17,450 --> 00:04:25,970
+avuto oggi abbiamo 88 fondazioni, ne abbiamo circa mi pare 18 giù di lì che non hanno più
+
+30
+00:04:25,970 --> 00:04:36,250
+nemmeno la partecipazione bancaria, molte l'hanno portata sotto il 50 per cento e poco più di una
+
+31
+00:04:36,250 --> 00:04:44,490
+diecina ce l'hanno sopra il 50 per cento ma sono tutte molto piccole salvo la fondazione Monte
+
+32
+00:04:44,490 --> 00:04:53,370
+dei Paschi che sotto il 50 è scesa appena appena ora. Perché la Monte dei Paschi? Aspetti perché
+
+33
+00:04:53,370 --> 00:05:01,650
+dobbiamo capire, qui ci sono due cose da capire, una che riguarda l'Italia, il capitalismo italiano
+
+34
+00:05:01,650 --> 00:05:11,310
+e quant'altro l'altra che riguarda Siena. Mentre era in corso il processo di discesa delle fondazioni
+
+35
+00:05:11,310 --> 00:05:23,730
+dal capitale delle banche sopraggiunge la grande crisi e sopraggiunge l'esigenza di rafforzare
+
+36
+00:05:23,730 --> 00:05:31,230
+patrimonialmente le banche, il loro capitale non basta davanti ai rischi che sono accresciuti,
+
+37
+00:05:31,710 --> 00:05:40,450
+devono capitalizzarsi. Il processo di riduzione della presenza delle fondazioni aveva già messo
+
+38
+00:05:40,450 --> 00:05:48,830
+in evidenza la grande difficoltà del capitalismo italiano di offrire azionisti diversi dalle
+
+39
+00:05:48,830 --> 00:05:55,790
+fondazioni. Noi avevamo previsto fin dall'inizio che potesse esserci la partecipazione come azionisti
+
+40
+00:05:55,790 --> 00:06:02,970
+delle imprese industriali ma era stato giustamente stabilito un tetto perché altrimenti la banca
+
+41
+00:06:02,970 --> 00:06:10,050
+diventa banca di casa di un'industria e si creano conflitti di interesse.
+
+42
+00:06:12,010 --> 00:06:20,050
+Gli investitori istituzionali tanto agognati, i fondi pensione e quant'altro sono rimasti
+
+43
+00:06:20,050 --> 00:06:26,950
+quando in Italia sono riusciti ad esistere un po' fuori dalla porta. Cosa accade? Che
+
+44
+00:06:26,950 --> 00:06:33,640
+quando sorge quell'esigenza di capitalizzare le banche è la stessa banca d'Italia che chiede
+
+45
+00:06:33,640 --> 00:06:41,180
+alle fondazioni. Voi dovete contribuire a questa missione di interesse nazionale e le
+
+46
+00:06:41,180 --> 00:06:53,860
+fondazioni nell'arco di pochi anni dal 2007-2008 al 2011 impegnano la bellezza di 6 miliardi
+
+47
+00:06:53,860 --> 00:07:02,200
+in capitalizzazioni oltre un miliardo nell'acquisto di obbligazioni cioè dal punto di vista sistemico
+
+48
+00:07:02,200 --> 00:07:10,000
+la fondazione che doveva cancellare la partecipazione bancaria viene chiamata a
+
+49
+00:07:10,000 --> 00:07:17,780
+mantenerla viene chiamata ad assolvere al ruolo di investitore di lungo periodo investitore
+
+50
+00:07:17,780 --> 00:07:24,180
+istituzionale di investitore istituzionale e quindi come mi è capitato di scrivere più volte
+
+51
+00:07:24,180 --> 00:07:30,400
+diventa una specie di giano bifronte è la fondazione del territorio che non dipende
+
+52
+00:07:30,400 --> 00:07:35,620
+dalla banca e che in quanto fondazione del territorio non ha interesse a dipendere dalla
+
+53
+00:07:35,620 --> 00:07:43,000
+banca perché in quel ruolo ha più interesse a differenziare il rischio ad evitare di dipendere
+
+54
+00:07:43,000 --> 00:07:51,600
+dalle sorti di un'unica impresa dall'altra parte la missione nazionale di ricapitalizzare le banche
+
+55
+00:07:51,600 --> 00:07:59,700
+in tutto questo c'è il caso ancora più speciale di Siena perché alla missione di stare con la
+
+56
+00:07:59,700 --> 00:08:11,120
+la chiama la città non la chiama la banca d'italia in realtà e questa fondazione arriverà in
+
+57
+00:08:11,120 --> 00:08:22,040
+occasione dell'ultima capitalizzazione della banca a indebitarsi pur di mantenere il controllo
+
+58
+00:08:22,040 --> 00:08:34,680
+due anni fa la fondazione mps contrae un debito di centinaia di milioni per mantenere il 51% il
+
+59
+00:08:34,680 --> 00:08:44,240
+paradosso della storia sarà che non avendo altro poi per ripagare il debito dovrà vendere le
+
+60
+00:08:44,240 --> 00:08:51,440
+azioni che aveva comprato indebitandosi per pagare i suoi creditori questo fa capire che
+
+61
+00:08:51,440 --> 00:08:57,000
+lisi era innestata a una spirale negativa per lei era favorevole a questa fusione bnl montere
+
+62
+00:08:57,000 --> 00:09:06,700
+base io ero favorevole a una questione è una cosa che si pose molti anni fa ed era del tutto
+
+63
+00:09:06,700 --> 00:09:15,180
+con il disegno che stava dietro la legge amato la quale in realtà non è che fosse stata fatta
+
+64
+00:09:15,180 --> 00:09:23,320
+solo per scindere le banche dalle fondazioni ma per mettere le banche nella condizione di
+
+65
+00:09:23,320 --> 00:09:30,880
+aggregarsi fra di loro avere delle banche italiane più forti in una fase nella quale si era aperto
+
+66
+00:09:30,880 --> 00:09:39,380
+mercato europeo e le nostre banche più graciline di quelle degli altri paesi europei rischiavano
+
+67
+00:09:39,380 --> 00:09:47,580
+di diventare dei bocconi che le banche di altri paesi si sarebbero mangiati per conquistare il
+
+68
+00:09:47,580 --> 00:09:54,940
+mercato del risparmio italiano quindi era bene presidiarlo con banche più robuste e questo
+
+69
+00:09:54,940 --> 00:10:02,240
+complicava accoppiamenti che la legge amato infatti favoriva con una norma fiscale scritta
+
+70
+00:10:02,240 --> 00:10:08,600
+da bruno visentini l'articolo 7 me lo ricordo ancora di questa legge che
+
+71
+00:10:11,280 --> 00:10:18,820
+venne ritenuta dopo la norma più bella della legge ed io ne sono convinto gli accoppiamenti
+
+72
+00:10:18,820 --> 00:10:26,020
+furono anzi si crearono anche famiglie plurime tra le casse di risparmio piccole e rimanevano
+
+73
+00:10:26,020 --> 00:10:35,800
+alcuni single di media dimensione che era bene si unissero fra di loro bnl ed mps aveva caratteristiche
+
+74
+00:10:35,800 --> 00:10:44,840
+di una utile fusione banca d'italia quando arrivò il momento non la ritenne approvabile
+
+75
+00:10:44,840 --> 00:10:53,560
+perché c'era già allora il problema che la fondazione voleva stare a mps ad un livello
+
+76
+00:10:54,040 --> 00:10:58,800
+troppo elevato secondo banca d'italia e qui il problema è sempre quello il ruolo di che
+
+77
+00:10:58,800 --> 00:11:04,200
+la fondazione mps voleva e ha inteso avere nel controllo di monte dei paschi di siena
+
+78
+00:11:04,200 --> 00:11:14,820
+esattamente e che deve essere fatta di tutta questa vicenda di monte dei paschi di siena
+
+79
+00:11:14,820 --> 00:11:23,680
+e mps percepiva che doveva sposarsi e allora dopo che venne meno l'ipotesi bnl cominciò
+
+80
+00:11:23,680 --> 00:11:33,040
+a ipotizzare un rapporto col san paulo che ancora non si era sposato con insomma non
+
+81
+00:11:33,040 --> 00:11:44,020
+era ancora nata intesa con i milanesi e l'ipotesi aveva un po camminato ma li veniva fuori che
+
+82
+00:11:44,020 --> 00:11:52,660
+con questo grosso azionista che era la fondazione di siena il grosso della banca eventualmente
+
+83
+00:11:52,660 --> 00:11:58,500
+unita sarebbe stato a torino ma il quartier generale dove c'è l'azionista più forte
+
+84
+00:11:58,500 --> 00:12:08,540
+a siena e questo i torinesi lo trovarono inaccettabile la pressione era forte e a quel punto comprarono
+
+85
+00:12:08,540 --> 00:12:16,860
+anton veneta che si stava liberando e i guai del monte dei paschi in realtà sono cominciati
+
+86
+00:12:16,860 --> 00:12:29,060
+lì allora qui si aprono due vicende appunto una è quella del come mps ha ritenuto di sostenere
+
+87
+00:12:29,060 --> 00:12:38,260
+l'enorme sforzo finanziario fatto per comprare anton veneta e l'altra è il senso a quel punto
+
+88
+00:12:38,260 --> 00:12:47,640
+della fondazione che vuole mantenere questo controllo perché la città non è tutta la
+
+89
+00:12:47,640 --> 00:12:57,500
+città in realtà che non accetta che l'mps perda questo suo connotato è stata nel quando
+
+90
+00:12:57,500 --> 00:13:06,180
+sono cominciate le disgrazie un'evoluzione positiva che siena si sia dotata di un amministratore
+
+91
+00:13:06,180 --> 00:13:16,140
+delegato e di un presidente venuti da fuori e che la fondazione sia finalmente stata convinta
+
+92
+00:13:17,000 --> 00:13:23,860
+dalla lezione della storia a scendere nella sua partecipazione parla dell'attuale gestione
+
+93
+00:13:23,860 --> 00:13:32,280
+profumo io mi ricordo insomma i quelli venuti da fuori sono l'amministratore delegato viola e
+
+94
+00:13:32,280 --> 00:13:40,440
+il presidente ci ha voluto questo disastro e infatti insomma se si fosse ascoltato chi lo
+
+95
+00:13:40,440 --> 00:13:46,000
+proponeva prima forse il prezzo sarebbe stato meno alto ora come uscirne però presidente amato
+
+96
+00:13:46,000 --> 00:13:50,920
+perché ci sono stati questi monti bonds se non ho capito male si tratta di un prestito che può
+
+97
+00:13:50,920 --> 00:13:56,860
+essere convertito in nazioni qualore il monte di paschi non riesca a ridare i soldi le risorse
+
+98
+00:13:56,860 --> 00:14:01,740
+finanziarie avuti in prestito ma sarebbe meglio a questo punto una nazionalizzazione della banca
+
+99
+00:14:02,700 --> 00:14:08,500
+se lei parla con gli attuali amministrati la nazionalizzazione è sempre un rimedio
+
+100
+00:14:08,500 --> 00:14:16,740
+estremo io non ritengo che sia utile assumerlo come rimedio iniziale qui è previsto come rimedio
+
+101
+00:14:16,740 --> 00:14:27,000
+estremo perché una volta che la banca riceve questi monti bonds o è in grado di ripagarli
+
+102
+00:14:27,000 --> 00:14:35,320
+o se non li ripaga nei termini previsti lo stato diventa azionista all'ottanta per cento
+
+103
+00:14:35,320 --> 00:14:43,520
+quindi la cosa si risolve da sola e se la banca si mette nella condizione di ripagarli
+
+104
+00:14:45,180 --> 00:14:52,840
+rinvigorendosi e ristrutturandosi beh è molto meglio che non nazionalizzarla quindi confidiamo
+
+105
+00:14:52,840 --> 00:14:59,460
+nella nuova gestione e speriamo per il meglio sistema bancario secondo lei è davvero il nostro
+
+106
+00:14:59,460 --> 00:15:04,560
+sistema bancario solido o a causa dei credit in sofferenza dai 100 150 miliardi le cifre sono
+
+107
+00:15:04,560 --> 00:15:11,220
+un po ballerine e ammette di essere un po superficiale nel darle ci sono alcune problematiche
+
+108
+00:15:11,220 --> 00:15:15,300
+alcune contraddizioni e specialmente il sistema bancario non sta finanziando l'industria
+
+109
+00:15:15,300 --> 00:15:20,160
+l'impresa delle piccole e meno imprese come avrebbero e questo è assolutamente vero ma
+
+110
+00:15:20,160 --> 00:15:35,460
+siamo ancora sotto il sotto la tempesta in realtà perché le banche sono ancora nella fase che è
+
+111
+00:15:35,460 --> 00:15:43,500
+cominciata quando si è chiesto alle fondazioni non lasciate le banche non fate come dice la
+
+112
+00:15:43,500 --> 00:15:55,880
+ma rimanete azioniste di riferimento le banche hanno tuttora bisogno sempre più di ricapitalizzarsi
+
+113
+00:15:55,880 --> 00:16:03,400
+di rafforzarsi e quindi i soldi che riescono a rastrellare sono ancora nella fase che li
+
+114
+00:16:03,400 --> 00:16:09,000
+rastrellano per rafforzare se stesse non per darli a le imprese che però provoca un pochi
+
+115
+00:16:10,120 --> 00:16:18,180
+provoca giganteschi problemi ma noi siamo alle prese con questo appunto riuscire ad arrivare
+
+116
+00:16:18,180 --> 00:16:27,900
+al più presto ad un equilibrio e un ritorno degli scambi nel mercato bancario che permetta
+
+117
+00:16:27,900 --> 00:16:36,120
+ai soldi di girare di più e di fare in modo che ne arrivino anche alle imprese da questo punto
+
+118
+00:16:36,120 --> 00:16:43,100
+di vista la cosa più utile che è accaduta in questi mesi è stato l'avvio dell'unione bancaria
+
+119
+00:16:43,100 --> 00:16:49,840
+europea perché l'avvio dell'unione bancaria può rimettere in moto quello che si chiama il mercato
+
+120
+00:16:49,840 --> 00:16:57,600
+interbancario cioè le banche che prestano i soldi l'una all'altra e che si rimettono a far girare
+
+121
+00:16:57,600 --> 00:17:06,240
+soldi con una maggior fiducia l'una nell'altra a quel punto è chiaro che l'accesso alle risorse
+
+122
+00:17:06,560 --> 00:17:14,460
+da parte delle banche non è più quello delle obbligazioni che emettono per accrescere ciò di
+
+123
+00:17:14,460 --> 00:17:21,760
+cui dispongono ma degli scambi che ci sono fra di loro dei vasi comunicanti che tornano ad essere
+
+124
+00:17:21,760 --> 00:17:28,760
+comunicanti e che al momento sono in larga parte solo in italia o in tutta europa no questo è in
+
+125
+00:17:28,760 --> 00:17:34,500
+tutta europa naturalmente ci sono banche che dispongono di più e banche che dispongono anche
+
+126
+00:17:34,500 --> 00:17:38,580
+sistemi capitalisti in germania stendoci molte grandi imprese probabilmente non hanno problemi
+
+127
+00:17:38,580 --> 00:17:44,280
+di accesso al credito in italia situazione esattamente molto poi del problema bravo
+
+128
+00:17:44,280 --> 00:17:51,000
+dipende dalla struttura del sistema industriale le imprese italiane e che vanno bene in questo
+
+129
+00:17:51,000 --> 00:17:57,400
+periodo le nostre migliori imprese esportatrici sono del tutto disinteressate al funzionamento
+
+130
+00:17:57,400 --> 00:18:03,020
+del sistema bancario perché i soldi se li trovano comunque sul mercato la piccola e media
+
+131
+00:18:03,020 --> 00:18:12,080
+impresa italiana che non riceve soldi dall'agenzia bancaria del suo paese e non viene pagata dallo
+
+132
+00:18:12,080 --> 00:18:20,700
+stato che le paga i propri debiti a 190 giorni di distanza e quella si trova senza ossigeni come
+
+133
+00:18:20,700 --> 00:18:25,060
+fare però perché qui la situazione è molto grave la situazione sociale è abbastanza grave
+
+134
+00:18:25,060 --> 00:18:34,020
+è certo che è molto grave ma non mi chieda non mi chieda ad un vecchio ex medico una ricetta per
+
+135
+00:18:34,020 --> 00:18:41,540
+una situazione così difficile la mia opinione è che lo stato dovrebbe fare il possibile per
+
+136
+00:18:42,420 --> 00:18:50,520
+accelerare i suoi tempi di pagamento e questo trovo davvero che lo trovo incomprensibile devo
+
+137
+00:18:50,520 --> 00:18:58,660
+dire che lo trovo incomprensibile ecco l'altra cosa che ha ricominciato si dice ad accadere che
+
+138
+00:18:58,660 --> 00:19:05,760
+nell'ultimo trimestre del 2012 il credito a differenza di quello che diceva lei un pochettino
+
+139
+00:19:05,760 --> 00:19:11,760
+si sarebbe riaperto insomma non c'è lo stampare moneta purtroppo non c'è non si può fare come in
+
+140
+00:19:11,760 --> 00:19:17,980
+gioco non si può fare non si può fare come in giappone.
+
