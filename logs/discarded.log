@@ -3582,3 +3582,9 @@ amato  2026-07-16 16:37:43.731802  https://www.radioradicale.it/scheda/567/perqu
 amato  2026-07-16 16:37:45.719575  https://www.radioradicale.it/scheda/832/psi-rapporti-tra-sindacato-e-partito?i=222929  ValueError: No timestamps
 amato  2026-07-16 16:37:48.436140  https://www.radioradicale.it/scheda/661025/il-maratoneta-trasmissione-a-cura-dellassociazione-luca-coscioni-per-la-liberta-di?i=4386653  ValueError: No timestamps
 amato  2026-07-16 16:52:39.918154  https://www.radioradicale.it/scheda/520133/trasmissione-a-cura-di-claudio-landi-sui-libri-di-veronica-de-romanis-il-metodo-merkel?i=3754372  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/amato/audio_out/_out_520133_amato.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/amato/audio_out/520133_amato.mp3'
+amato  2026-07-16 17:17:14.701993  https://www.radioradicale.it/scheda/106955/satellite-e-dintorni-approfondimento-settimanele-sulle-nuove-tecnologie?i=1898564  ValueError: No timestamps
+amato  2026-07-16 17:17:16.244523  https://www.radioradicale.it/scheda/104751/satellite-e-dintorni-approfondimento-settimanale-sulle-nuove-tecnologie?i=1923126  ValueError: No timestamps
+amato  2026-07-16 17:17:17.681032  https://www.radioradicale.it/scheda/87936/questioni-di-bioetica-trasmissione-a-cura-di-cinzia-caporale-argomento-della-puntata-il?i=2145594  ValueError: No timestamps
+amato  2026-07-16 17:17:20.237145  https://www.radioradicale.it/scheda/53685/italia-domanda?i=2467552  ValueError: No timestamps
+amato  2026-07-16 17:17:22.076725  https://www.radioradicale.it/scheda/49816/marco-pannella-e-il-presidente-del-consiglio-amato-alla-trasmissione-spazio-5?i=2500761  ValueError: No timestamps
+amato  2026-07-16 17:17:23.624002  https://www.radioradicale.it/scheda/5164/craxi-alla-trasmissione-italia-parla-di-pippo-baudo-ed-enzo-tortora-tra-gli-invitati?i=2806529  ValueError: No timestamps
