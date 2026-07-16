@@ -440,24 +440,36 @@ fetch("data.json")
     <p>
       All PMs' MTLD values are aggregated in three political areas: <i>left</i> (which aggregates left and center left), <i>right</i> (which aggregates right and center right), and <i>center</i>. Moreover, <i>"Combined"</i> aggregates all of them into one. 
     </p>
-
-  <h4>V-DEM Indices</h4>
+  
+  <h5>Line Modes</h5>
     <p>
-      The Democracy Indices by V-Dem are democracy indices published by the V-Dem Institute that describe qualities of different democracies. The dataset focuses on both qualitative and quantitative measurements of democracy, and its curated by a team of experts.
+      Three modes for the MTLD line chart are available: <i>Exact</i> shows the exact median (or average) for each year. <br>
+      <i>Smoothed</i> applies a certain degree of Gaussian smoothing to help graph readability. The smoothing degree can be chosen via a slider. <br>
+      <i>Trend</i> shows a spline regression, thus trying to "fill-in" the gaps in the data by fitting a non-linear regression on it. With a slider it is possibile to choose the amount of steps (of knots) for the spline regression.
+    </p>
+
+  <h4>V-Dem Indices</h4>
+    <p>
+      The Democracy Indices by V-Dem are democracy indices published by the V-Dem Institute that describe qualities of different democracies. The dataset focuses on both qualitative and quantitative measurements of democracy, and its curated by a team of experts.<br>
+      <i>V-Dem version: 16.</i>
     </p>
     <p>
       In the graph, six indices are extracted:
       <ul>
-        <li>Electoral democracy: most general democracy quality index</li>
-        <li>Liberal democracy: focus on liberties</li>
-        <li>Participatory democracy: focus on participation in politics</li>
-        <li>Elections quality: how free and fair the elections are</li>
-        <li>Fairness of law and individual liberties: measures transparency and fair enforcement of the law, and how safeguarded are individuals' rights and liberties </li>
-        <li>Scrutiny of executives: how effectively are executives scrutinized by external bodies</li>
-      </ul>
+        <li><b>Electoral democracy:</b> measures to what extent is the ideal of electoral democracy in its fullest sense achieved. Aggregates indices such as freedom of association and expression, and cleanness of elections (id: <code>v2x_polyarchy</code>);</li>
 
-      
+        <li><b>Liberal democracy:</b> the liberal principle of democracy emphasizes the importance of protecting individual and minority rights against the tyranny of the state and the tyranny of the majority (id: <code>v2x_libdem</code>);</li>
+
+        <li><b>Participatory democracy:</b> the participatory principle of democracy emphasizes active participation by citizens in all political processes, electoral and non-electoral. Thus, direct rule by citizens scores higher (id: <code>v2x_partipdem</code>);</li>
+
+        <li><b>Elections quality:</b> measures how free and fair the elections are, connoted by an absence of registration fraud, systematic irregularities, government intimidation of the opposition, vote buying, and election violence (id: <code>v2xel_frefair</code>);</li>
+
+        <li><b>Fairness of law and individual liberties:</b> measures to what extent are laws transparent and rigorously enforced and public administration impartial, and to what extent do citizens enjoy access to justice, secure property rights, freedom from forced labor, freedom of movement, physical integrity rights, and freedom of religion (id: <code>v2xcl_rol</code>);</li>
+
+        <li><b>Scrutiny of executives:</b> measures to what extent are the legislature and government agencies ,such as comptroller general, general prosecutor, or ombudsman, capable of questioning, investigating, and exercising oversight over the executive (id: <code>v2xlg_legcon</code>).</li>
+      </ul>
     </p>
+
 
 </div>
 </body>
