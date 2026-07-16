@@ -1,0 +1,1256 @@
+1
+00:00:08,780 --> 00:00:13,740
+Grazie a voi per essere stati, non vorrei dire così mattinieri, per Roma forse sì,
+
+2
+00:00:14,400 --> 00:00:20,860
+per essere qui a discutere con noi. Questa seconda giornata ha un tema altrettanto complesso
+
+3
+00:00:20,860 --> 00:00:26,100
+di quello che ha segnato l'apertura della discussione di Micromega, perché è un tema
+
+4
+00:00:26,100 --> 00:00:32,480
+cruciale per le cose che ci aspettano e per quelle che sono già in corso, cioè il tema
+
+5
+00:00:32,480 --> 00:00:40,140
+dei controlli, il tema degli organismi, delle situazioni, degli uomini che in una democrazia
+
+6
+00:00:41,140 --> 00:00:51,040
+garantiscono il funzionamento controllando. Sono state individuate tre luoghi del controllo,
+
+7
+00:00:51,520 --> 00:00:58,160
+la magistratura, il giornalismo, le authorities e su queste questioni noi cercheremo stamattina
+
+8
+00:00:58,160 --> 00:01:04,060
+di svolgere una discussione utile sapendo di avere alle spalle, almeno al mio parere,
+
+9
+00:01:04,200 --> 00:01:12,100
+un periodo in cui singolarmente si è più discusso della legittimità del controllo
+
+10
+00:01:12,100 --> 00:01:20,640
+che dei doveri del controllato. Abbiamo avuto settimane e mesi in cui la messa in discussione
+
+11
+00:01:20,640 --> 00:01:30,150
+è un parere personale del ruolo del compito della magistratura, o del compito del ruolo
+
+12
+00:01:30,580 --> 00:01:37,740
+dei giornalisti del giornalismo, malgrado i limiti che ci sono, hanno preso il sopravvento
+
+13
+00:01:37,740 --> 00:01:45,430
+rispetto all'oggetto del controllo di questi soggetti. Quindi la materia per la discussione
+
+14
+00:01:45,430 --> 00:01:50,550
+che c'è è ampia e interessante, io credo che noi possiamo partire subito, se non sbaglio
+
+15
+00:01:50,550 --> 00:01:57,590
+può cominciare il Presidente Amato e poi dopo la parola a Dottoressa Paciotti.
+
+16
+00:02:03,150 --> 00:02:12,390
+Quindi il mio tema è prevedibilmente le autorità indipendenti, la cosa non credo che stupisca.
+
+17
+00:02:14,350 --> 00:02:23,630
+Per cominciare, può essere, mi torna utile, utilizzare subito un pezzo non ancora pubblicato
+
+18
+00:02:23,630 --> 00:02:29,010
+di un valente amministrativista italiano, Marco Dalberti, che in una voce per la enciclopedia
+
+19
+00:02:29,010 --> 00:02:36,710
+Treccani dedicata alle autorità indipendenti e non ancora pubblicata, ricorda quella tesi
+
+20
+00:02:36,710 --> 00:02:47,170
+inglese secondo la quale l'antenata, la madre delle future autorità indipendenti è la
+
+21
+00:02:47,170 --> 00:02:56,790
+camera stellata, la Star Chamber, che peraltro morì di morte assolutamente sgradevole dopo
+
+22
+00:02:57,670 --> 00:03:06,850
+finita travolta dal proprio disputismo nel corso della grande rivoluzione, quindi dopo
+
+23
+00:03:06,850 --> 00:03:12,670
+il periodo degli Stewart, ma come parabola delle autorità indipendenti, del valore che
+
+24
+00:03:12,670 --> 00:03:19,370
+esse hanno e del rischio che esse portano in sé, di cui sono il primo ad essere consapevole,
+
+25
+00:03:19,370 --> 00:03:25,890
+è una parabola che merita ricordare. La Star Chamber venne creata da Enrico Settimo
+
+26
+00:03:25,890 --> 00:03:33,510
+nel 1487 con una composizione che ricorda quella delle autorità indipendenti del ventesimo
+
+27
+00:03:33,510 --> 00:03:41,910
+secolo, fatta da amministratori particolarmente dotati di espertis tecnica, fatta da giudici
+
+28
+00:03:41,910 --> 00:03:51,430
+o ex giudici, quindi un personale tecnico indipendente, che è predisposta per accogliere
+
+29
+00:03:51,430 --> 00:03:59,090
+le istanze di quelle categorie di cittadini che non trovano tutela nei canali ordinari
+
+30
+00:03:59,090 --> 00:04:07,150
+della common law. La common law era cresciuta attraverso i precedenti formatisi sulle questioni
+
+31
+00:04:07,150 --> 00:04:16,050
+dei proprietari terrieri e quindi apprestava tutele per le azioni stampate sulle esigenze
+
+32
+00:04:16,050 --> 00:04:24,350
+del proprietario, per cui coloro che non appartenevano a queste categorie in genere degli abentes
+
+33
+00:04:24,350 --> 00:04:32,230
+erano al di fuori del raggio d'azione della common law, per cui nasce la Star Chamber
+
+34
+00:04:32,830 --> 00:04:44,710
+come strumento istituzionale di garanzia dei non potenti nei confronti dei potenti. Un caso
+
+35
+00:04:44,710 --> 00:04:50,550
+esemplare che poi passo alla storia della parte nobile della storia della Star Chamber
+
+36
+00:04:50,550 --> 00:04:58,130
+si verifica negli anni venti del Cinquecento in occasione di una grande carestia, quando
+
+37
+00:04:58,130 --> 00:05:09,330
+un signore percepita la durata della carestia decide di ammassare fagioli, carciofi, piselli
+
+38
+00:05:09,330 --> 00:05:18,010
+e quanti altri ortofrutticoli si potevano mangiare nei propri magazzini e li offre a
+
+39
+00:05:18,010 --> 00:05:26,330
+prezzi esorbitanti agli affamati dei dintorni. Gli affamati dei dintorni non hanno udienza
+
+40
+00:05:26,330 --> 00:05:34,110
+nelle corti ordinarie perché la common law non prevede un'azione per questo tipo di
+
+41
+00:05:34,110 --> 00:05:44,410
+torto subito ed è la Star Chamber che accoglie queste istanze e che avvia l'identificazione
+
+42
+00:05:44,410 --> 00:05:52,690
+per via para giudiziale del prezzo equo in situazioni di diseguaglianza tra le parti.
+
+43
+00:05:52,690 --> 00:05:59,650
+Quindi è tipico di quello che sarà poi il ruolo delle autorità indipendenti, arriverà
+
+44
+00:05:59,650 --> 00:06:06,490
+anche a fissare delle tariffe, arriverà a stabilire regole per licenze commerciali.
+
+45
+00:06:08,670 --> 00:06:16,010
+Col passare degli anni diventerà talmente forte per questo suo potere che attirerà
+
+46
+00:06:16,010 --> 00:06:28,850
+l'interesse degli Stuart, perderà in parte la sua indipendenza, acquisterà un eccesso di attribuzioni,
+
+47
+00:06:29,590 --> 00:06:38,030
+diventerà pian piano lo strumento e il simbolo del disputismo del potere e arriverà ad essere
+
+48
+00:06:38,030 --> 00:06:46,430
+rivolta a metà del 600 e quindi tra gli atti storici e liberatori della grande rivoluzione
+
+49
+00:06:46,430 --> 00:06:53,670
+ci sarà liberare il regno dalla camera stellata. Infatti molti di noi la ricordano così come
+
+50
+00:06:53,670 --> 00:06:59,650
+una specie di terribile inquisizione in effetti ma alle spalle aveva questa storia. Ora è
+
+51
+00:06:59,650 --> 00:07:06,870
+una parabola da tenere presente nel valutare il ruolo e il rischio delle autorità indipendenti,
+
+52
+00:07:06,870 --> 00:07:14,750
+di tutte le autorità indipendenti che sia chiaro trovano in effetti nell'ordine giudiziario
+
+53
+00:07:14,750 --> 00:07:24,830
+l'insieme più cospico e più significativo che esiste storicamente. Quello che caratterizza
+
+54
+00:07:24,830 --> 00:07:36,030
+l'evoluzione istituzionale degli ultimi anni è che sono nate per ragioni politico contingenti,
+
+55
+00:07:36,030 --> 00:07:45,250
+volta a volta diverse, diverse autorità indipendenti in diversi paesi europei. Sono gli ultimi due
+
+56
+00:07:45,250 --> 00:07:53,770
+decenni che manifestano questo fenomeno nel Regno Unito, in Francia, in Italia, in Spagna,
+
+57
+00:07:53,950 --> 00:07:59,430
+negli Stati Uniti il fenomeno risale ad un'ondata regolatrice che inizia invece sul finire del
+
+58
+00:08:00,510 --> 00:08:07,710
+scorso, le quali al di là delle differenze che ne caratterizzano l'origine, questo è un capitolo
+
+59
+00:08:07,710 --> 00:08:12,670
+interessante, io l'ho raccontato in un pezzo, poi uno se lo può andare a leggere se gli interessa,
+
+60
+00:08:12,750 --> 00:08:18,070
+ma altri stanno raccontando questa cosa, è curioso che per esempio in Italia ne nascono tre nello
+
+61
+00:08:18,070 --> 00:08:25,390
+stesso anno, nel 1990, tutte per ragioni diverse l'una dall'altra, in realtà non proprio le ragioni
+
+62
+00:08:25,390 --> 00:08:30,350
+per le quali ciascuna di esse è creata, la commissione di garanzia sugli shopperi, l'autorità
+
+63
+00:08:30,350 --> 00:08:36,530
+per la garanzia della concorrenza del mercato, il garante per la radio televisione, le ragioni
+
+64
+00:08:36,530 --> 00:08:41,810
+di ciascuna non hanno nulla a che fare in realtà con le ragioni dell'altra e tuttavia quando uno
+
+65
+00:08:41,810 --> 00:08:47,670
+poi le va a guardare al di là delle diversità che ciascuna ha nei confronti dell'altra si percepisce
+
+66
+00:08:47,670 --> 00:08:55,010
+che c'è una razio comune e che ci sono anche degli elementi sia strutturali sia funzionali
+
+67
+00:08:55,010 --> 00:09:04,350
+questi elementi si riportano ad una missione di tipo latamente giustiziale che si traduce
+
+68
+00:09:04,350 --> 00:09:13,890
+nell'assicurare nuove forme di tutela a diritti e libertà preesistenti che tuttavia non avevano
+
+69
+00:09:13,890 --> 00:09:21,870
+una tutela specifica rispetto ad altri e nel riconoscere come meritevoli di tutela interessi
+
+70
+00:09:21,870 --> 00:09:29,150
+in precedenza erano totalmente sprovvisti di tutela sotto il primo profilo autorità
+
+71
+00:09:29,150 --> 00:09:37,850
+garante della concorrenza e garante dell'editoria e della televisione sono istituzioni di garanzia
+
+72
+00:09:37,850 --> 00:09:44,530
+che si innestano nell'articolo 21 nell'articolo 41 della costituzione dando alla tutela dei diritti
+
+73
+00:09:44,530 --> 00:09:50,970
+ivi previsti una specificità istituzionale che in precedenza mancava tant'è vero che diversi
+
+74
+00:09:50,970 --> 00:09:57,710
+costituzionalisti confrontando la costituzione italiana con altre si erano domandati ma qual è
+
+75
+00:09:57,710 --> 00:10:03,170
+alla fin fine la differenza tra i diritti previsti dalla costituzione e i diritti previsti
+
+76
+00:10:03,170 --> 00:10:08,590
+dalla legge ordinaria dal momento che non c'è alcuna differenza di tutela alla fin fine se
+
+77
+00:10:08,590 --> 00:10:14,950
+viene violata una libertà costituzionale o viene violata una libertà prevista da una legge le
+
+78
+00:10:15,510 --> 00:10:22,110
+cittadino a disposizione sono fondamentalmente le stesse certo rimane il fatto che la legge può
+
+79
+00:10:22,110 --> 00:10:28,010
+cambiare la legge non la costituzione ma una volta che quella libertà è costruita la differenza
+
+80
+00:10:28,010 --> 00:10:34,530
+tra le due non si percepisce e qui mi è già capitato di dire che un'intuizione molto lungimirante
+
+81
+00:10:34,530 --> 00:10:43,150
+aveva avuto il mio partner commerciale Augusto Barbera col quale vendiamo abbastanza bene nelle
+
+82
+00:10:43,150 --> 00:10:49,910
+facoltà di giurisprudenza di scienze politiche il nostro manuale che scrivendo di libertà
+
+83
+00:10:51,310 --> 00:11:02,490
+negli anni 70 aveva già messo il naso su questo punto la garanzia delle libertà costituzionali
+
+84
+00:11:02,490 --> 00:11:09,570
+non può tradorsi soltanto nel fatto che lì sono scritte ma si deve tradurre in un qualche
+
+85
+00:11:09,570 --> 00:11:16,310
+setto istituzionale finalizzato alla loro salvaguardia e aveva utilizzato questa formula
+
+86
+00:11:16,310 --> 00:11:24,010
+la garanzia delle libertà sta in istituzioni delle libertà e non soltanto nel loro essere
+
+87
+00:11:24,010 --> 00:11:30,770
+situazioni giuridiche soggettive come tali riconosciute dall'ordinamento ora Augusto
+
+88
+00:11:30,770 --> 00:11:36,130
+può avere la soddisfazione 30 anni dopo ma la soddisfazione glielo data io d'altra
+
+89
+00:11:36,130 --> 00:11:40,270
+parte essendo io il partner è abbastanza commerciale sia chiaro non vorrei restare
+
+90
+00:11:40,270 --> 00:11:47,630
+equivoci nell'uso di questa parola e la cosa è abbastanza plausibile dire ecco queste autorità
+
+91
+00:11:47,630 --> 00:11:53,930
+sono le istituzioni delle libertà di cui aveva parlato Barbera in quanto danno una
+
+92
+00:11:54,870 --> 00:12:01,710
+specificità contro gli abusi dei poteri che le possono minacciare a queste libertà previste
+
+93
+00:12:01,710 --> 00:12:08,850
+la costituzione il 21 che è probabilmente la più privilegiata nella costituzione il 41 che
+
+94
+00:12:08,850 --> 00:12:19,730
+in un paese con i trascorsi che ha il nostro è bene che sia garantito e c'è inoltre la garanzia
+
+95
+00:12:19,730 --> 00:12:28,650
+di interessi che prima non erano tutelati noi abbiamo alle spalle una storia per cui gli
+
+96
+00:12:28,650 --> 00:12:36,490
+interessi schematizzò molto erano di due tipi o erano del singolo interesse individuale e allora
+
+97
+00:12:36,490 --> 00:12:42,890
+questo va dal giudice ad ottenerne tutela o se non erano del singolo erano pubblici ma pubblici dello
+
+98
+00:12:42,890 --> 00:12:52,830
+stato questa è un'altra vicenda che gli italiani non sempre hanno chiara quando qualcuno gli
+
+99
+00:12:52,830 --> 00:12:59,230
+faccia la nascita del monopolio come monopolio in funzione di interesse collettivo questa è una
+
+100
+00:12:59,230 --> 00:13:04,790
+pia bugia perché i monopoli in Italia come in Francia sono nati a tutela di interessi del
+
+101
+00:13:04,790 --> 00:13:12,770
+potere pubblico poi dopo ci si è accorti che dovevano servire la collettività ma le poste
+
+102
+00:13:12,770 --> 00:13:19,410
+nascono come servizio pubblico perché servono al re per mandare i messaggi ai suoi generali
+
+103
+00:13:20,040 --> 00:13:27,180
+poi a pagamento lo estende ai cittadini e le telecomunicazioni sono poi una filiazione
+
+104
+00:13:27,590 --> 00:13:33,370
+del monopolio delle poste in realtà interesse pubblico all'origine non vuol dire interesse
+
+105
+00:13:33,370 --> 00:13:39,670
+collettivo interesse collettivo come tale non ha una tutela specifica nel nostro tempo emerge
+
+106
+00:13:39,670 --> 00:13:45,410
+che esistono degli interessi che fanno capo ai cittadini ma che non sono esclusivamente
+
+107
+00:13:45,410 --> 00:13:52,250
+dei singoli che sono interessi di comunità di singoli o di fasce trasversali di singoli
+
+108
+00:13:53,570 --> 00:14:00,830
+e questi interessi in quanto tali cominciano a trovare tutela faccio l'esempio banalissimo
+
+109
+00:14:00,830 --> 00:14:07,790
+che sono quelli che ho davanti io io tutelo il consumatore in più modi ma il consumatore
+
+110
+00:14:07,790 --> 00:14:14,330
+che denuncia davanti a me una possibile intesa restrittiva a suo danno o una pubblicità ingannevole
+
+111
+00:14:14,330 --> 00:14:21,530
+non sta tutelando davanti a me il proprio personale interesse ma è direbbe massimo
+
+112
+00:14:21,530 --> 00:14:27,130
+severo giannini esponenziale di un interesse collettivo per questo la legge pretende che
+
+113
+00:14:27,130 --> 00:14:32,490
+sia un consumatore un'associazione di consumatori a farmi la denuncia ma non in nome di un interesse
+
+114
+00:14:33,970 --> 00:14:41,050
+singolare della persona che infatti è denunciante e che da me non ha un risarcimento di danno ma
+
+115
+00:14:41,050 --> 00:14:47,250
+l'eliminazione della causa che danneggia non lui ma l'insieme dei consumatori quindi
+
+116
+00:14:47,250 --> 00:14:54,650
+questo è un'autorità che serve a tutelare questo interesse collettivo nei confronti
+
+117
+00:14:54,650 --> 00:15:01,870
+di poteri più forti questa è la prima caratterizzazione hanno questa finalità che è quella della
+
+118
+00:15:01,870 --> 00:15:16,050
+chamber originaria e nella acquisizione di queste attribuzioni queste autorità e questo
+
+119
+00:15:16,050 --> 00:15:24,550
+è un punto importante o esercitano funzioni che in precedenza non aveva nessuno e che
+
+120
+00:15:24,550 --> 00:15:31,270
+diciamo in modo bypassato trovavano poi sfogo da qualche altra parte perché buchi non ce
+
+121
+00:15:31,270 --> 00:15:41,030
+sono mai in un sistema oppure esercitano da posizione indipendente funzioni che prima
+
+122
+00:15:41,030 --> 00:15:49,950
+erano attualmente o potenzialmente nella disponibilità del potere esecutivo e qui viene il punto
+
+123
+00:15:49,950 --> 00:15:58,290
+buona parte di queste autorità trovano come occasione che le determina una qualche vicenda
+
+124
+00:15:58,290 --> 00:16:06,010
+storico politica dalla quale emerge ostilità a che il potere politico si occupi di quella
+
+125
+00:16:06,010 --> 00:16:18,690
+roba lì e sono in realtà queste autorità uno dei punti di sutura di quella che appare
+
+126
+00:16:18,690 --> 00:16:25,410
+altrimenti una contraddizione del nostro tempo se ci pensate bene al nostro tempo si percepisce
+
+127
+00:16:25,410 --> 00:16:32,350
+ostilità per la politica allo stesso tempo si percepisce una gran voglia di eleggere
+
+128
+00:16:32,350 --> 00:16:39,330
+direttamente il proprio sindaco di eleggere direttamente non so quante diffusa la voglia
+
+129
+00:16:39,330 --> 00:16:43,030
+di eleggere direttamente il primo ministro ma non voglio entrare in un argomento che
+
+130
+00:16:43,030 --> 00:16:47,910
+è oggetto di polemica politica e quindi io me ne tiro fuori ma insomma non è che c'è
+
+131
+00:16:47,910 --> 00:16:53,710
+un ripudio della politica al contrario c'è un desiderio di avere una politica più controllata
+
+132
+00:16:53,710 --> 00:16:59,610
+dall'elettore allo stesso tempo però c'è un desiderio di non vedere la politica occuparsi
+
+133
+00:16:59,610 --> 00:17:06,610
+di certe cose queste due cose non sono in contraddizione tra loro se uno coglie i segni
+
+134
+00:17:06,610 --> 00:17:15,690
+e i precipitati istituzionali di queste due tendenze collettive che percepisce ne percepisce
+
+135
+00:17:15,690 --> 00:17:22,970
+anche la possibile coerenza che si riporta ad un fenomeno diverso io la politica la voglio
+
+136
+00:17:22,970 --> 00:17:30,350
+ma ci sono delle cose che io sono consapevole non possono dipendere dagli indirizzi politici
+
+137
+00:17:30,350 --> 00:17:39,070
+dalle maggioranze dalle variazioni di atteggiamenti che sono legittime per tutto ciò che è propriamente
+
+138
+00:17:39,070 --> 00:17:45,570
+politico ma che diventano arbitrarie quando incidono sulla tutela di diritti la tutela
+
+139
+00:17:45,570 --> 00:17:50,930
+di un diritto costituzionale non può dipendere dalle varianti di indirizzo politico
+
+140
+00:17:53,290 --> 00:17:58,330
+e quindi non è
+
+141
+00:17:58,330 --> 00:18:08,470
+contrarietà la politica ma ridimensionamento del mandato della politica percezione che la politica
+
+142
+00:18:08,470 --> 00:18:18,090
+non è un tutto potenzialmente totalitario dal quale per vicende varie si è staccato un pezzo
+
+143
+00:18:18,090 --> 00:18:24,850
+tuttavia è sempre lì guardato con qualche dubbio che è il potere giudiziario ma che
+
+144
+00:18:24,850 --> 00:18:34,830
+la politica è il dominus e ad essere il dominus di una fascia di questioni che è un potere tra
+
+145
+00:18:34,830 --> 00:18:44,950
+gli altri ma non il potere dal quale si possono staccare in modo che a quel punto diventa incoerente
+
+146
+00:18:45,430 --> 00:18:50,990
+al dei pezzi che però sono pezzi di quel potere se si parte da quella premessa e allora perché
+
+147
+00:18:50,990 --> 00:19:03,950
+si sono staccati da questo punto di vista da questo punto di vista c'è una significativa
+
+148
+00:19:03,950 --> 00:19:12,230
+evoluzione di cui bisogna essere consapevoli fino in fondo dei termini generali del nostro
+
+149
+00:19:13,690 --> 00:19:25,130
+costituzionale il quale in realtà sta pian piano fortunatamente cominciando ad abbandonare la
+
+150
+00:19:25,130 --> 00:19:35,230
+premessa monista che ha ereditato dal lungo e ininterrotto filo rosso che parte dall'assolutismo
+
+151
+00:19:35,230 --> 00:19:42,330
+attraverso la rivoluzione francese il giacobinismo si esprime al suo meglio nelle
+
+152
+00:19:42,330 --> 00:19:49,950
+democrazie totalitarie ma entra in realtà nella stessa costruzione delle democrazie
+
+153
+00:19:51,430 --> 00:19:59,530
+liberali del continente europeo che non riescono a liberarsi dell'idea che in fondo il potere è uno
+
+154
+00:19:59,530 --> 00:20:06,310
+e che ciò che conta per una democrazia è che ne cambi il titolare il fondamentale equivoco
+
+155
+00:20:06,310 --> 00:20:12,890
+di rousseau per il quale ciò che basta a modificare un regime assoluto in regime
+
+156
+00:20:12,890 --> 00:20:19,350
+democratico è che il potere passi dal sovrano all'assemblea rappresentativa della volontà
+
+157
+00:20:20,350 --> 00:20:26,110
+generale hamilton e medison dall'altra parte dell'oceano la vedono in modo tutt'affatto
+
+158
+00:20:26,670 --> 00:20:38,690
+perché la democrazia liberale è quella di locke non è quella di rousseau e locke motivato da
+
+159
+00:20:38,690 --> 00:20:56,090
+profondi sentimenti religiosi fra l'altro è quello nel quale il la necessità e anche il
+
+160
+00:20:56,690 --> 00:21:05,570
+locke accetta la tesi anche obsiana del contratto sociale ma dice nessun uomo può delegare ad altri
+
+161
+00:21:05,570 --> 00:21:15,470
+più di quanto ha in sé e siccome io ho la mia libertà e non ho in me il potere di aggredire
+
+162
+00:21:15,470 --> 00:21:23,410
+la libertà degli altri il potere che io posso delegare alle istituzioni collettive è il potere
+
+163
+00:21:23,410 --> 00:21:29,910
+difenderle la libertà mai di aggredirle e quindi è il potere limitato nessuna istituzione può
+
+164
+00:21:29,910 --> 00:21:38,910
+avere un potere che non sia limitato perché questo potere illimitato non c'è nell'uomo nell'essere
+
+165
+00:21:41,830 --> 00:21:49,710
+umano naturalmente questa questione del potere limitato è una premessa e un dramma delle
+
+166
+00:21:50,470 --> 00:22:03,130
+perché lo si vive quotidianamente proprio nella propria esperienza per dirla in una battuta il
+
+167
+00:22:03,130 --> 00:22:11,530
+potere pubblico è legittimo in quanto difende libertà e quindi serve è fondamentale che
+
+168
+00:22:11,530 --> 00:22:18,710
+ci sia ma se supera un certo confine diventa lui l'oppressore delle libertà per il per le quali
+
+169
+00:22:18,710 --> 00:22:27,530
+esiste dove si colloca questo confine ecco chiunque esercita potere sa che c'è questo
+
+170
+00:22:27,530 --> 00:22:34,310
+problema del confine e sa che la sua funzione di garanzia può diventare una funzione opposta se
+
+171
+00:22:34,310 --> 00:22:45,010
+non ha dentro di sé la percezione del limite e se non ha regole da seguire che garantiscano del
+
+172
+00:22:45,010 --> 00:22:54,330
+ma il primo punto per la nostra cultura continentale è che limitato è per primo il potere politico
+
+173
+00:22:56,290 --> 00:23:14,990
+e che nella sua politicità il suo derivare dalla volontà del corpo elettorale non gli
+
+174
+00:23:14,990 --> 00:23:22,070
+altri fra l'altro vi sono teorizzazioni giandomenico maione che ha scritto forse le
+
+175
+00:23:22,070 --> 00:23:28,890
+cose migliori sul significato costituzionale generale di questo trend delle autorità
+
+176
+00:23:28,890 --> 00:23:39,070
+indipendenti ha rievocato dottrine ottocentesche anche di economisti che identificano il mandato
+
+177
+00:23:39,070 --> 00:23:47,990
+della politica e dicono la politica ha come perno del proprio mestiere le decisioni che
+
+178
+00:23:47,990 --> 00:23:53,750
+attengono a distribuzione e redistribuzione di ricchezza nella collettività perché non
+
+179
+00:23:53,750 --> 00:24:01,570
+può esistere legge metro oggettivo diritto pre costituito quando è in gioco la ripartizione
+
+180
+00:24:01,570 --> 00:24:09,050
+della ricchezza tra categorie sociale in base a bisogni questa è una valutazione che si fa in
+
+181
+00:24:09,050 --> 00:24:15,430
+base a chi si rappresenta alle priorità che si ritengono tali eccetera e ci sarà qualcuno che
+
+182
+00:24:15,430 --> 00:24:20,350
+preferirà certe politiche qualcun altro che preferirà certe altre politiche questo è il
+
+183
+00:24:20,350 --> 00:24:28,150
+suo terreno ma se sono in gioco diritti qual è lo spazio della politica il fatto che sia io
+
+184
+00:24:28,150 --> 00:24:38,070
+eletto dal popolo mi dà diritto di modificare la tutela dei diritti con atti singolari no non me lo
+
+185
+00:24:38,630 --> 00:24:45,910
+solo una concezione profondamente russoiana può attribuire infatti questo è tipico della
+
+186
+00:24:45,910 --> 00:24:52,470
+democrazia totalitaria quello di far discendere dal mandato elettivo una potenzialità illimitata di
+
+187
+00:24:52,470 --> 00:25:04,030
+sfera di sfera d'azione stando così le cose appunto la il radicamento perciò nella nozione
+
+188
+00:25:04,030 --> 00:25:13,110
+di potere limitato e quindi nello schema più a miltoniano che russoiano della democrazia liberale
+
+189
+00:25:13,110 --> 00:25:22,270
+dei poteri tutti distinti e tutti limitati storicamente diversa insisto su questo della
+
+190
+00:25:22,270 --> 00:25:27,370
+nostra idea la nostra idea è che perché ce l'abbiamo nel sangue l'abbiamo ereditato dalla
+
+191
+00:25:27,370 --> 00:25:33,170
+cultura assolutista di tre secoli fa e non ce lo siamo mai levato dalla testa il potere è uno e
+
+192
+00:25:33,170 --> 00:25:39,410
+a seconda di come vanno le cose se ne staccano alcuni pezzi è ovvio che se si parte da questa
+
+193
+00:25:39,410 --> 00:25:47,570
+premessa non è logicamente coerente che quello che era il padre di tutti i poteri non sia poi
+
+194
+00:25:47,570 --> 00:25:54,490
+il pater familias di tutti i figli cugini e nipoti ma se si parte dalla diversa nozione a
+
+195
+00:25:54,490 --> 00:26:02,450
+miltoniana che i poteri non sono i figli della divisione di un unico potere ma sono fin dall'origine
+
+196
+00:26:03,910 --> 00:26:09,770
+ciascuno distinto e ovviamente ciascuno limitato perché è ovvio che poi non potranno essere nelle
+
+197
+00:26:09,770 --> 00:26:15,730
+autorità indipendenti nei giudiziari o nei chiunque altro a pretendere loro per sé l'illimitatezza
+
+198
+00:26:16,490 --> 00:26:24,470
+che non ha che non ha il potere politico ecco se si parte da questa nozione è evidente che tutto
+
+199
+00:26:24,470 --> 00:26:32,130
+finisce per cambiare il tessuto di questi rapporti e questo significa due cose la prima
+
+200
+00:26:32,130 --> 00:26:43,270
+che non ha senso la domanda ma questi a chi rispondono che è una domanda ricorrente nei
+
+201
+00:26:43,270 --> 00:26:49,570
+paesi dell'europa continentale notate questa domanda fu posta anche alla Corte Suprema degli
+
+202
+00:26:50,650 --> 00:26:58,190
+negli anni 30 la cui risposta venne giudicata troppo apodittica ed ellittica da molti ma che
+
+203
+00:26:58,190 --> 00:27:03,710
+era l'unica risposta che sulla base di quella cultura era concepibile dare non rispondono a
+
+204
+00:27:03,710 --> 00:27:09,550
+nessuno perché esercitano un'altra funzione cioè era implicito in questa risposta brevissima della
+
+205
+00:27:09,550 --> 00:27:17,470
+Corte Suprema che stavano fuori dall'area di quelle funzioni per le quali è doveroso che sia politica
+
+206
+00:27:17,470 --> 00:27:23,270
+la decisione ed è quindi doveroso che si risponda ad organi che direttamente o indirettamente fanno
+
+207
+00:27:23,270 --> 00:27:30,690
+capo al corpo elettorale ma questa non è una domanda che tu puoi rivolgere per tutti i poteri
+
+208
+00:27:30,690 --> 00:27:38,510
+a chi rispondono è ammissibile che non adottano delle decisioni è ammissibile che non rispondano
+
+209
+00:27:38,510 --> 00:27:48,230
+al corpo elettorale sì perché non rientrano tra le funzioni per le quali si è responsabili davanti
+
+210
+00:27:48,230 --> 00:27:56,030
+al corpo elettorale in relazione ai legittimi e legittimamente diversi orientamenti che i
+
+211
+00:27:56,030 --> 00:28:01,430
+cittadini hanno rispetto a quella fascia di questioni su cui tutto questo si applica e quindi
+
+212
+00:28:01,430 --> 00:28:07,990
+hanno diritto di pretendere che i loro rappresentanti rispecchino i loro orientamenti questo però
+
+213
+00:28:08,870 --> 00:28:19,090
+non significa che non debbano esservi meccanismi che assicurano altrimenti la limitatezza del potere
+
+214
+00:28:19,090 --> 00:28:29,450
+dei poteri diversi dal potere politico la limitatezza del politico è che alla fine
+
+215
+00:28:29,450 --> 00:28:35,310
+risponde ai suoi elettori ed è bene che non ne abbia altri di limiti a parte naturalmente
+
+216
+00:28:35,310 --> 00:28:42,230
+le regole di condotta dei conflitti interessi la trasparenza ma voglio dire questo sono regole
+
+217
+00:28:42,230 --> 00:28:54,610
+modali non attengono alle decisioni che adotto e perciò chi costruisce autorità indipendenti e
+
+218
+00:28:54,610 --> 00:29:03,230
+chi in primo luogo regola l'esercizio della giurisdizione che è appunto storicamente la
+
+219
+00:29:03,230 --> 00:29:11,970
+più radicata e la più tipizzata di queste forme che stanno fuori dal potere politico
+
+220
+00:29:11,970 --> 00:29:21,610
+deve fare in modo di assicurare che vi sia altrimenti dalla responsabilità politica una
+
+221
+00:29:21,610 --> 00:29:29,750
+garanzia dell'esercizio limitato del potere limitato la prima garanzia è l'indipendenza
+
+222
+00:29:32,390 --> 00:29:41,490
+perché il virus entrò nella star chamber quando gli steward la adocchiarono come cosa
+
+223
+00:29:41,490 --> 00:29:54,610
+che in fondo poteva servire l'indipendenza significa che i meccanismi di nomina devono
+
+224
+00:29:54,610 --> 00:30:03,390
+essere tali da assicurare il massimo di indipendenza possibile in altre parole lo dico con tutta
+
+225
+00:30:03,390 --> 00:30:11,590
+franchezza una nomina di autorità indipendenti che sia strutturata in modo tale che fisiologicamente
+
+226
+00:30:11,590 --> 00:30:17,530
+riproduce all'interno di quell'autorità i rapporti numerici tra una maggioranza e un'opposizione
+
+227
+00:30:17,530 --> 00:30:23,350
+parlamentare non è un meccanismo che garantisce indipendenza garantisce solo equilibrio tra
+
+228
+00:30:23,350 --> 00:30:30,530
+maggioranza ed opposizione ma questa è in principio la negazione dell'indipendenza perché
+
+229
+00:30:30,530 --> 00:30:36,550
+è in principio la riproduzione all'interno dell'autorità indipendente degli equilibri
+
+230
+00:30:36,550 --> 00:30:43,050
+parlamentari la sua conseguenza fisiologica è che nella legislatura successiva se cambiano
+
+231
+00:30:43,050 --> 00:30:48,830
+quegli equilibri bisognerebbe ricambiare anche quest'operazione speculare il che sarebbe la
+
+232
+00:30:48,830 --> 00:30:55,610
+del novetà satisfattiva anche per santomaso che evidentemente non era un congegno rivolto
+
+233
+00:30:55,610 --> 00:31:04,350
+a garanzia di indipendenza se è destinato ad accadere una cosa del genere la seconda
+
+234
+00:31:04,350 --> 00:31:12,530
+garanzia è nella qualità delle regole che a queste autorità viene affidato il compito
+
+235
+00:31:12,530 --> 00:31:22,690
+di tutelare nel caso che mi riguarda ma è anche se volete nella madre di tutte le autorità
+
+236
+00:31:22,690 --> 00:31:29,210
+indipendenti appunto che non è la star chamber in questo caso ma è la funzione giuridizionale
+
+237
+00:31:29,210 --> 00:31:36,570
+regole il più possibile proscrittive e mai prescrittive il più possibile perché anche
+
+238
+00:31:36,570 --> 00:31:41,610
+qui non si può pretendere che il mondo sia tutto bianco tutto nero insomma sono tendenze
+
+239
+00:31:41,610 --> 00:31:48,850
+che poi segnano la strada le regole prescrittive implicano che è l'autorità che decide quali
+
+240
+00:31:48,850 --> 00:31:57,370
+comportamenti deve tenere il controllato per cui finisce inesorabilmente per inerire la
+
+241
+00:31:57,370 --> 00:32:03,370
+scelta dell'autorità indipendenti al raggio di valutazioni che in realtà competono al
+
+242
+00:32:03,370 --> 00:32:09,390
+controllato la regola proscrittiva è una regola che è quella dell'arbitro ci sono delle cose
+
+243
+00:32:09,390 --> 00:32:15,470
+tu non puoi fare poi fai quel che ti pare sei tu dominus della tua attività io non
+
+244
+00:32:15,470 --> 00:32:22,130
+posso dire al giornalista che che cosa deve scrivere non posso dire all'impresa dove deve
+
+245
+00:32:23,090 --> 00:32:31,310
+investire non posso dire all'impresa come deve reclamizzare i suoi prodotti ma ci sono dei
+
+246
+00:32:31,310 --> 00:32:36,450
+comportamenti che non sono le regole del tuo gioco sono queste io ti faccio rispettare le
+
+247
+00:32:36,450 --> 00:32:42,330
+regole del gioco insomma l'arbitro che decide chi vincerà la partita è un arbitro da galera
+
+248
+00:32:43,150 --> 00:32:49,150
+insomma l'arbitro il quale insomma quando se ne accorge fischia se uno da un calcio in uno
+
+249
+00:32:49,150 --> 00:32:53,590
+stinco all'avversario anziché alla palla è un arbitro che fa rispettare le regole del gioco
+
+250
+00:32:53,590 --> 00:33:06,430
+poi vinca chi vinca la partita e lui non si deve impicciare di quale sarà il risultato di quale
+
+251
+00:33:07,040 --> 00:33:14,890
+più possibile non sempre è possibile capite quindi per esempio quando si ha a che fare
+
+252
+00:33:14,890 --> 00:33:23,590
+con prodotti che attengono alla salute è difficile rinunciare alla previsione di standard
+
+253
+00:33:23,590 --> 00:33:29,650
+prescrittivi sulla qualità degli ingredienti che devono stare in un medicamento che viene
+
+254
+00:33:29,650 --> 00:33:37,430
+poi indicato per curare la tonsillite uno può dire mettici quel che ti pare che c'è un interesse
+
+255
+00:33:37,430 --> 00:33:41,630
+che attiene alla vita la salute ad un bene prioritario ma ovunque non vi sia questo
+
+256
+00:33:41,630 --> 00:33:50,490
+tipo di necessità la regola sia il più possibile di questo genere e fornisca certezza di comportamenti
+
+257
+00:33:51,990 --> 00:33:57,350
+questo è un punto importante che non sempre i legislatori tengono presenti con risultato che
+
+258
+00:33:57,350 --> 00:34:05,450
+loro illimitato il potere che dovrebbe essere limitato per contro loro perché io che opera
+
+259
+00:34:05,450 --> 00:34:14,130
+contro gli abusi delle imprese sono anche un garante della libertà delle imprese le imprese
+
+260
+00:34:14,130 --> 00:34:20,230
+devono trovare nelle mie decisioni e nelle regole alle quali io ispiro le mie decisioni
+
+261
+00:34:20,230 --> 00:34:30,990
+delle ragioni di prevedibilità dei comportamenti futuri che saranno sottratti ad una mia decisione
+
+262
+00:34:31,570 --> 00:34:40,530
+se io mi muovo in un ambito di discrezionalità tale per cui non si può sapere sulla base dei
+
+263
+00:34:40,530 --> 00:34:46,070
+miei precedenti quali saranno i comportamenti ammessi o non ammessi io rischio di diventare
+
+264
+00:34:46,070 --> 00:34:55,290
+potere illimitato per fare un esempio che oggi è in discussione la domanda legittima non so
+
+265
+00:34:55,290 --> 00:35:02,850
+qual è la risposta perché non è competenza mia così come è definito l'abuso d'ufficio consente
+
+266
+00:35:02,850 --> 00:35:09,930
+al giudice che se ne occupa di fornire certezze se non le fornisce il problema da che cosa dipende
+
+267
+00:35:09,930 --> 00:35:15,790
+dalla mancata tipicità della definizione della trattispecie penale il che pone addirittura
+
+268
+00:35:16,110 --> 00:35:20,370
+potrebbe addirittura un problema di costituzionalità questo è un esempio che hanno tutti sott'occhio
+
+269
+00:35:20,370 --> 00:35:26,810
+perché oggi in discussione in parlamento ma non è l'unico esempio allora se io non voglio che la
+
+270
+00:35:26,810 --> 00:35:32,690
+mia autorità che l'autorità indipendente che sto costruendo ecco diventi essa illimitato
+
+271
+00:35:32,690 --> 00:35:39,910
+discrezionale devo farle applicare regole che siano il più possibile proscrittive e il
+
+272
+00:35:39,910 --> 00:35:49,970
+più possibile e tali da rendere certi i comportamenti proprio un andamento classico
+
+273
+00:35:50,670 --> 00:35:57,030
+tendono a colpire fatti di corruzione di concussione che sono dei delitti ormai
+
+274
+00:35:58,230 --> 00:36:09,890
+tradizionali tipici e questo è il fatto che ha creato la grande conflitto fra poteri nella
+
+275
+00:36:09,890 --> 00:36:19,850
+discussione diciamo così ma che difficilmente può essere risolto altrimenti che magari
+
+276
+00:36:19,850 --> 00:36:26,290
+modificando la legislazione modificando l'ipotesi di reato ma poi accettando che
+
+277
+00:36:27,370 --> 00:36:38,150
+l'intervento giudiziario colpisca chiunque quel chiunque che sta nelle norme del codice penale
+
+278
+00:36:38,870 --> 00:36:45,930
+non ci sono problemi non è vero problemi ci sono problemi ci sono non solo per quella
+
+279
+00:36:48,030 --> 00:36:55,590
+evanescenza talvolta di ipotesi di reato al di là dicevo della corruzione concussione
+
+280
+00:36:57,610 --> 00:37:04,450
+o simili gli omicidi di mafia non sono cose discutibili ci sono fatte specie di reato
+
+281
+00:37:04,450 --> 00:37:16,630
+che vanno dall'abuso d'ufficio al concorso esterno in associazione mafiosa che sono problematiche
+
+282
+00:37:16,630 --> 00:37:23,290
+e quindi lasciano degli spazi ma questi non attengono certo all'assetto istituzionale
+
+283
+00:37:23,290 --> 00:37:30,090
+o alla garanzia istituzionale o al sistema costituzionale di indipendenza della magistratura
+
+284
+00:37:30,090 --> 00:37:36,960
+attengono alla legislazione ordinaria e alle fattispecie di reato direi che c'è di più
+
+285
+00:37:37,630 --> 00:37:49,010
+c'è un problema di rapporto con l'opinione pubblica di rapporto con il consenso che è
+
+286
+00:37:49,010 --> 00:38:00,210
+fosse il punto cruciale del conflitto perché se può dare una lettura anche piuttosto
+
+287
+00:38:00,210 --> 00:38:11,230
+ovvia e semplice è accaduto che questo intervento giudiziario che ha messo in evidenza la profonda
+
+288
+00:38:11,230 --> 00:38:19,530
+illegalità di un sistema di potere di un sistema politico ha fatto sì che perdesse
+
+289
+00:38:21,110 --> 00:38:28,790
+autorevolezza la cosiddetta classe politica perdesse autorevolezza gli esponenti politici
+
+290
+00:38:28,790 --> 00:38:34,470
+e acquistassero invece grande autorevolezza presso l'opinione pubblica questi soggetti
+
+291
+00:38:34,470 --> 00:38:43,970
+che intervenivano per reprimere questi fatti questo è un fenomeno in qualche modo ovvio
+
+292
+00:38:43,970 --> 00:38:51,610
+è evidente che nella opinione pubblica vengono apprezzati quelli che sembrano far pulizia
+
+293
+00:38:51,610 --> 00:39:01,730
+rispetto a coloro che invece hanno dimostrato di essere soggetti alla necessità di pulizia
+
+294
+00:39:02,170 --> 00:39:13,190
+e però questo non basta non basta perché in realtà c'è stato una modificazione di
+
+295
+00:39:13,190 --> 00:39:24,810
+atteggiamenti tali che è sembrato che gli autori dell'attività classica giudiziaria
+
+296
+00:39:24,810 --> 00:39:32,990
+della repressione penale classica fossero alla ricerca del consenso o comunque è
+
+297
+00:39:32,990 --> 00:39:41,630
+apparso che fossero investiti dal consenso e questo è un problema che non li può vedere
+
+298
+00:39:41,630 --> 00:39:54,790
+strani non possono livitarsi a dire se la gente è contenta di quel che faccio e mi
+
+299
+00:39:54,790 --> 00:40:05,550
+della democrazia che sia autorevole la rappresentanza popolare coloro che noi abbiamo eletto a
+
+300
+00:40:05,550 --> 00:40:12,950
+comporre i parlamenti che sono i nostri che reggono i nostri governanti ci deve stare
+
+301
+00:40:12,950 --> 00:40:20,990
+a cuore che essi siano autorevoli non possiamo accettare che siano oggetto di disprezzo così
+
+302
+00:40:20,990 --> 00:40:30,810
+come oggi ci risentiamo che siano oggetto di disprezzo istituzioni giudiziarie che
+
+303
+00:40:31,910 --> 00:40:38,210
+sia insultata la Corte Costituzionale o i giudici della Cassazione quando decidono qualche
+
+304
+00:40:38,210 --> 00:40:45,470
+cosa che a qualcuno non piace e che quando questo qualcuno ha possibilità di mobilitare
+
+305
+00:40:45,470 --> 00:40:54,790
+sodali di mobilitare opinione pubblica di trovare attorno a sé una mobilitazione contro
+
+306
+00:40:54,790 --> 00:41:02,410
+questa istituzione questa è cosa grave per la democrazia quindi io credo che ci sia una
+
+307
+00:41:02,410 --> 00:41:13,170
+esigenza che coloro che amministrano la giustizia siano sempre consapevoli del fatto che è
+
+308
+00:41:13,170 --> 00:41:21,790
+presentative della volontà popolare siano rispettate e dipende credo anche da atteggiamenti
+
+309
+00:41:21,790 --> 00:41:29,250
+di tutti c'è io credo questo grosso problema culturale in Italia di costume civico che
+
+310
+00:41:29,250 --> 00:41:35,110
+riguarda certamente l'opinione pubblica che riguarda il modo di fare informazione ma che
+
+311
+00:41:35,110 --> 00:41:41,070
+riguarda tutte le istituzioni che riguarda un po tutti perché infatti non siamo scesi
+
+312
+00:41:41,070 --> 00:41:50,330
+da Marte siamo parte di questa cultura e quindi io credo che in questo messo in chiaro che
+
+313
+00:41:50,330 --> 00:41:58,150
+il conflitto in questa materia non riguarda pretese non riguarda nell'esercizio dell'attività
+
+314
+00:41:58,150 --> 00:41:59,990
+pretese di svolgere
+

@@ -1,0 +1,169 @@
+Un'analisi econometrica fatta però molto grezza, nel senso che essendo i gradi di
+libertà molto pochi, era inutile cercare di fare un secondo tipo di analisi. La prima
+analisi econometrica dava che c'era una buona correlazione positiva fra andamento delle
+corsi di cambio. Però, visto che l'autocorrelazione dei residui era elevatissima, già prima si
+capiva che, siccome le quote vengono calcolate da un anno all'altro vedendo la variazione
+delle quantità, quindi a prezzi costanti, e dei cambi, è chiaro che alla fine del
+periodo l'autocorrelazione elevata dei residui mi diceva semplicemente che, grazie, visto
+che c'è già il tasso di cambio che è cambiato, è chiaro che la quota risente di questo.
+Quindi, da un punto di vista dell'analisi econometrica, era chiaro qual era il problema.
+Quindi, io ho fatto poi una serie storica di dati per queste tre valute facendo le variazioni
+con i dati del fondo soltanto sulle quantità, quindi eliminando i corsi di cambio. Eliminando
+i corsi di cambio, fra l'andamento della quota nel lungo periodo e anche nei periodi
+abbastanza brevi, a prescindere da anni, non c'era nessuna correlazione. La seconda
+correlazione fra distribuzione delle quote e tassi di interesse a lungo termine non è
+era visibile da tutto il grafico che non c'era nessuna correlazione positiva. Anzi, nel caso
+dell'OIEN c'era addirittura la correlazione inversa. I tassi di interesse crolavano quasi
+a prescindere da variazioni di breve periodo e la quota dell'OIEN saliva come notto.
+Quindi, a questo punto, abbiamo pensato che, effettivamente, non è che forse non è vero
+che le banche centrali pensano di fare profitti con le loro riserve volutari. Cioè, poi leggendo
+tutta una serie di autori che hanno scelto altri parametri per cercare di capire se questo
+era vero o meno, è venuto fuori che neanche lì si capiva molto. Cioè, anzi, si vedeva
+che non c'era una correlazione stretta fra quote e attesa di profitti dalle banche centrali.
+La mia conclusione è questa, che, a prescindere dal comportamento di alcune singole banche
+centrali, che ci possono sempre essere o anche di una cerchia di paesi, che se non vogliamo
+neanche dire quali possono essere, ma insomma non facciamo speculazioni di nessun tipo – speculazioni
+intellettuali intendevo, non speculazioni valutarie – le banche centrali detengono
+riserve in valuta, soprattutto per problemi di liquidità. E quindi le detengono in dollari,
+in marchi e in yen, perché sono le valute che in generale sono quelle che nel commercio
+internazionale sono quelle più usate. Quindi, in un certo senso, fanno come fanno le imprese
+e le famiglie, tanto per capirci. L'altra cosa che veniva fuori era questa, che soddisfatte
+le condizioni di liquidità, certe monete vanno anche conservate nel portafoglio delle
+banche centrali se un paese ha – se le sue amministrazioni pubbliche, le imprese e le
+famiglie hanno un forte indebitamento verso l'estero in una certa moneta, caso tipico
+dello yen, l'ultimo che lo spiego – se un paese ha una certa esposizione verso lo
+yen, la banca centrale di quel paese non può non detenere i yen, perché nel caso
+disperato che dovesse succedere qualcosa, deve essere pronta a liquidare i yen.
+Quindi esiste sia il problema di liquidità e quindi il problema delle monete più usate.
+Naturalmente la cosa che ora mi viene in mente, è chiaro che le due cose sono combinate,
+una moneta che è fortemente presente nel commercio internazionale e anche una moneta
+che viene detenuta come moneta di riserva è abbastanza ovvio, non solo, ma anche quella
+che viene usata per indebitarsi verso l'estero. In caso del Giappone, abbiamo parlato anche
+di Giappone. Questa mattina, quando la posizione creditoria, l'ha detto il governatore, è
+di mille miliardi di dollari, del Giappone evidentemente da qualche parte andranno a
+finire questi mille miliardi, quindi è chiaro che il mondo si è indebitato verso il Giappone.
+Quindi non si può far a meno di detenere quote in yen o in un'altra moneta che fosse
+nella stessa posizione dello yen. Quello che resta è possibile, certamente, che l'operatore
+in cambio, o diciamo quello che sta nella banca centrale, ovviamente di quelle riserve
+che gli restano libere per problemi di liquidità o del fatto che deve detenere certe valute
+per ragione di indebitamento del suo Paese, il resto ovviamente cercherà di impiegare
+al migliore profitto possibile, ma non che per questo si faccia una speculazione. Oltre
+a questo, io poi a questo di lungo periodo, nel testo c'è anche un ragionamento che
+è una tecnologia ragionata in base ai dati della Brie. Ho semplicemente visto di anno
+in anno come andavano queste cose e anche di anno in anno non si può dire che ci sia
+una correlazione positiva tra quote nelle varie valute e le determinanti di questo,
+le possibili determinanti di profitto per queste valute detenute dalle banche centrali.
+Su suggerimento dei membri del gruppo e su specifica richiesta di William Branson c'è
+un piccolo spostamento di programma. Branson ha avuto l'incarico di commentare i 5 PEPA
+che abbiamo seguiti. Non conosce le conclusioni che io, Michele Frattiani e Dominic Salvatore
+abbiamo tratto, quindi è giusto anticipare l'intervento di William Branson, che attualmente
+è il professore di economia e affari internazionali presso l'unità di Princeton, che ha 20 minuti
+di tempo per il commento. 20 minutes.
+Ho anche avuto il privilegio di incontrare Guido Carli presso la conferenza sul coordinamento
+delle politiche monetarie alcuni anni fa. Io sono un sostenitore americano dell'Unione
+Europea. Forse dalla stampa penserete che sono una rarità, ma questa non è vero. Sono
+un sostenitore perché secondo me non ha un grosso significato avere molte valute in un
+unico mercato. Anzi devo dire che mi sono trovato a parlare con Michael Amerson quando
+era presso la commissione ad una conferenza che si è tenuta a Castel Gandolfo alcuni anni
+fa e parlavamo proprio di una relazione che lui stava preparando in quel momento e ho
+utilizzato una frase, un mercato, una moneta, e lui ha veramente detto, è un'idea geniale,
+devo dire che in parte è il merito di questa definizione Dami. Vorrei cominciare con il
+trattare seppure in linea generale quello che è il tema generale della nostra conferenza,
+sia delle idee per quanto riguarda sistemi monetari futuri. Passerò poi invece a parlare
+più specificatamente dell'Euro e della Banca Centrale Europea. Farò riferimento ai paper
+via via che io tratteggio questi argomenti cercando di attingere ai risultati che sono
+stati tratti dai diversi relatori e cercherò anche di fare riferimento a recenti crisi
+per meglio illustrare alcuni aspetti. Voglio iniziare quindi con il sistema monetario internazionale.
+Io personalmente ancora credo nel mondo tripolare dove è andato Barry, non lo vedo. Comunque
+ritengo che la recente crisi asiatica può aver trovato almeno parzialmente le sue radici
+nel fatto che i paesi ASEAN si erano ancorati al dollaro piuttosto che ancorare le proprie
+valute allo yen. Ciò secondo me ha contribuito al problema. C'è il pericolo tuttavia che
+si verifichi un qualche crollo in Giappone, il che veramente metterebbe in discussione
+tutta la struttura, tutta l'organizzazione del sistema monetario. Per quanto riguarda
+il paper presentato da Artis, diciamo che ha gettato luce sulla presenza di queste aree
+valutarie ottimali e sono state tre le aree valutarie ottimali che secondo me potrebbero
+fare parte di questo mondo tripolare. Una delle difficoltà che incontriamo in questo
+paper è che un mondo tripolare con tre aree valutarie principali tende a stabilire dei
+collegamenti tra Nord e Sud, Europa e Africa, Nord America e America Latina, Giappone e ASEAN.
+C'è un aspetto che non è stato trattato da questo paper e che per me è oggetto di
+interesse, soprattutto recentemente, ossia c'è tutta quella regione del mondo sotto
+la Russia che un tempo apparteneva ad un'unica area valutaria che ha perso il proprio Nord,
+il suo emisfero Nord è scomparso e non è chiaro esattamente come questi paesi possano
+poi collocarsi in questa struttura generale. Tutto questo dibattito sulle aree valutarie
+ottimali che è stato svolto nel paper di Artis potrebbe ben ricollegarsi al paper di
+Fratiani sul mondo bipolare. Ho notato che c'era una versione molto preliminare nel programma
+di questa conferenza che mi era stato inviato in cui nel titolo che era stato dato al paper
+di Fratiani si faceva riferimento al sistema monetario modale a tre valute e poi però
+lo yen ha finito con lo scomparire. Non ho ancora chiesto lumi agli autori ma non so,
+può essere che loro abbiano capito che il mondo stava trasformandosi davanti ai loro
+occhi, che il mondo è diventato bipolare piuttosto che tripolare. Comunque ci sono
+un aspetto relativamente a questo numero tre e cioè che tre rappresenta una situazione
+molto instabile. Se voi per caso vi siete trovati ad allevare tre figli mi capirete immediatamente
+ogni volta che siano tre bambini c'è sempre un'alleanza di due contro uno in altre parole
+è una situazione eternamente instabile. Il problema del coordinamento risulta molto
+più difficile da risolvere che non nel caso che era stato ipotizzato con un mondo bipolare
+quindi a due valute. Riflettendo su questi problemi di instabilità che sono stati oggetto
+dalla nostra discussione sui sistemi monetari internazionali, possiamo fare riferimento
+al paper di Savona sull'aumento del mercato degli strumenti derivati. Sono rimasto molto
+colpito dalla differenza di stime. I loro calcoli ci danno un totale di 1,4 migliaia
+di dollari. La stima del governatore Fazio era di 60.000 miliardi per gli strumenti derivati.
+Non è facile fare questi calcoli perché a un certo punto si tratta di moneta di tipo
+inside e quindi sfuggono ad un calcolo preciso. D'altra parte possono minacciare la stabilità
+in modo abbastanza estremo perché per esempio le banche centrali non possono sapere quali
+sono le passività dei loro sistemi bancari e questo è qualcosa che secondo me ha sicuramente
+contribuito al problema della Tailandia dove c'era questa presenza degli strumenti derivati,
+questa presenza di operazioni, di swap e in cui c'erano delle passività in valuta estera
+e quando poi questa crisi è effettivamente scoppiata queste passività si sono rese
+immediatamente percepibili addirittura sorprendendo la banca centrale. Quindi sì, effettivamente
+anche io posso nutrire qualche preoccupazione per quanto riguarda lo sviluppo del mercato
+dei derivati o quantomeno lo sarei se io fossi un banchiere centrale e se mi dovessi dunque
+preoccupare della solidità del sistema di cui io sono responsabile. Stamani si è anche
+parlato della moneta elettronica e qui forse io non sono del tutto d'accordo con quello
+che è stato detto da Von Hagen con cui peraltro ho collaborato nella stesura di altri paper
+in passato. Secondo me la moneta elettronica è un po' simile al vecchio problema del
+free banking, ossia chiunque lo desideri è in grado di emettere denaro oggi. Basta andare
+sull'internet e di fatto vediamo che la moneta viene emessa, chiunque può emetterla. In
+tal caso l'analogo del sistema del free banking ci dice che questa può essere una situazione
+molto instabile e non so veramente come si possa esercitare un buon controllo su questa
+situazione, però è una situazione che sicuramente ci deve dare da riflettere. Un'altra fonte
+di instabilità che è stata citata è stata sottolineata dal paper di Hagen Green, cioè
+l'abbinamento di due fattori, un sistema finanziario debole e dei cambi fissi. Il concetto che la
+crisi valutaria è viceversa e il paper di Hagen Green a mio avviso ha ben illustrato
+questo concetto. Potrei forse aggiungere che sia l'impressione che la crisi asiatica possa
+essere derivata esclusivamente da quel fattore, come se i paesi avessero seguito semplicemente
+dalla forza di gravità nella loro caduta. Ci potrebbe essere una prospettiva lievemente
+diversa. Ci sono degli sciocchi macroeconomici interni ed esterni che forse erano già presenti
+all'inizio di questo processo e a quel punto la debolezza del sistema bancario accompagnata
+da tentativi di ancorare la propria valuta ha esacerbato il problema. Il concetto che
+c'è una frase nel discorso del governatore Fazio di Stamani, ossia la recente crisi,
+è dovuta da un sistema bancario fragile in debitamento verso l'estero e questo ha
+tanto più acutizzato gli squilibri macroeconomici. Ecco, io direi che in parte tutto ciò può
+essere correlato al fatto che il Giappone, a partire dal 1991, ha conosciuto un tasso
+di crescita praticamente pari a zero e ha quindi cercato di stimolare la propria economia
+con una politica monetaria espansiva, il che ha portato ad un deprezzamento dello yen
+a partire dal 1995. I bassi tassi di interesse in Giappone probabilmente hanno contribuito
+ad alimentare i flussi di capitale verso i paesi ASEAN. Ho lavorato recentemente sull'Indonesia,
+le cui esportazioni verso il Giappone nel 1990 erano 10 miliardi, nel 1997 erano 10 miliardi
+di dollari. In altre parole c'è stata una crescita zero, nonostante che le esportazioni
+verso il resto del mondo da parte di questo medesimo paese, l'Indonesia, si sono più
+che raddoppiate. Direi che qui si possa parlare di shock macroeconomico, un altro shock macroeconomico
+che io vedo quando osservo i dati relative ai paesi ASEAN è rappresentato dai boom di
+investimento soprattutto nel settore immobiliare. Chiunque abbia studiato il modello Mandel sa
+benissimo quali sono le conseguenze di questo tipo di boom di investimenti interni fino
+a quando non c'è poi un acutizzarsi della situazione che in pratica porta ad un rovesciamento
+totale della situazione. Avrei dunque pensato che questi problemi macroeconomici sono stati
+poi acutizzati da quei fenomeni che appunto erano stati illustrati da Iken Green nel suo
+paper. Di nuovo dobbiamo dire che un elemento che ha peggiorato il problema è stato il
+fatto che le valute erano ancorate al dollaro e quindi si stavano apprezzando nei confronti
+dello yen. C'è probabilmente l'utilità di avere in una maggiore flessibilità, ma
+già scanciarsi dal dollaro sarebbe stata una buona soluzione, un buon inizio. E' probabile
+che se ciò fosse avvenuto la situazione non sarebbe fatta così grave. Forse ancorarsi
+ad un paniere di valute comuni nella regione avrebbe potuto dar luogo al ripristino di
+una zona yen, perché loro non dovevano avere un'oscillazione delle proprie valute reciprocamente,
+dovevano piuttosto avere una flessibilità dei loro tassi di cambio rispetto a valute
+interno. Per quanto riguarda poi il paper di Fratiani-Hauskrecht si faceva riferimento
+al problema del coordinamento, si sosteneva che sarebbe stato meglio adottare dei target
+legati all'inflazione, dei target comuni legati all'inflazione. E effettivamente
+se si hanno dei target comuni legati all'inflazione, se si raggiungono in modo abbastanza soddisfacente
+questi target, questo significa avere delle politiche monetarie stabili e probabilmente
+i tassi di cambio del mercato si sarebbero.
