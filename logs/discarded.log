@@ -3734,3 +3734,12 @@ de mita  2026-07-17 18:20:47.274848  https://www.radioradicale.it/scheda/52713/c
 de mita  2026-07-17 19:28:25.657059  https://www.radioradicale.it/scheda/52537/riforme-istituzionali-e-riforme-elettorali-org-dalla-facolta-di-scienze-politiche?i=2476771  RuntimeError: yt-dlp exited 1
 de mita  2026-07-17 19:37:13.446978  https://www.radioradicale.it/scheda/48979/il-rinnovamento-della-politica-e-della-dc?i=2507910  ValueError: No timestamps
 de mita  2026-07-17 19:52:49.692404  https://www.radioradicale.it/scheda/48892/unidea-un-concetto-una-riforma-il-percorso-della-dc?i=2508487  ValueError: No timestamps
+de mita  2026-07-17 20:40:13.183846  https://www.radioradicale.it/scheda/45169/conferenza-programmatica-della-dc?i=2535455  ValueError: No timestamps
+de mita  2026-07-17 20:40:14.973292  https://www.radioradicale.it/scheda/45058/convegno-della-sinistra-dc?i=2536330  ValueError: No timestamps
+de mita  2026-07-17 21:05:22.955701  https://www.radioradicale.it/scheda/45051/convegno-della-sinistra-dc?i=2536471  ValueError: No timestamps
+de mita  2026-07-17 21:05:26.770243  https://www.radioradicale.it/scheda/41887/dopo-la-crisi-del-comunismo-leuropa-e-il-nuovo-ordine-mondiale?i=2562684  ValueError: No timestamps
+de mita  2026-07-17 21:05:28.524938  https://www.radioradicale.it/scheda/42593/crisi-del-sistema-politico-e-ruolo-dei-partiti?i=2558034  ValueError: No timestamps
+de mita  2026-07-17 21:05:30.664278  https://www.radioradicale.it/scheda/41265/la-dc-per-il-nord-est-le-sfide-nelleuropa-centrale?i=2568259  ValueError: No timestamps
+de mita  2026-07-17 21:05:32.891259  https://www.radioradicale.it/scheda/58820/riforma-elettorale-riforme-istituzionali-le-riforme-possibili?i=2419204  ValueError: No timestamps
+de mita  2026-07-17 21:28:27.905271  https://www.radioradicale.it/scheda/46721/schegge-istituzionali?i=2524905  RuntimeError: yt-dlp exited 1
+de mita  2026-07-17 21:28:30.133335  https://www.radioradicale.it/scheda/40701/conferenza-progammatica-della-dc?i=2572440  ValueError: No timestamps
