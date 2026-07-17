@@ -26,7 +26,7 @@ DATA = [
     #("d'alema", "/soggetti/4773/massimo-d-alema"),
     #("ciampi", "/soggetti/17588/carlo-azeglio-ciampi"),
     #("berlusconi", "/soggetti/11165/silvio-berlusconi"),
-    ("amato", "/soggetti/311/giuliano-amato"),
+    #("amato", "/soggetti/311/giuliano-amato"),
     ("de mita", "/soggetti/1781/ciriaco-de-mita"),
     ("craxi", "/soggetti/286/bettino-craxi"),
     ("goria", "/soggetti/831/giovanni-goria"),
