@@ -3732,3 +3732,5 @@ de mita  2026-07-17 17:48:02.585427  https://www.radioradicale.it/scheda/68036/d
 de mita  2026-07-17 18:08:29.923853  https://www.radioradicale.it/scheda/56688/dalla-dc-al-nuovo-partito-popolare?i=2438749  ValueError: No timestamps
 de mita  2026-07-17 18:20:47.274848  https://www.radioradicale.it/scheda/52713/chi-accusa-chi-giudica-chi-amministra-giustizia-e-ordinamento-giudiziario?i=2475242  ValueError: No timestamps
 de mita  2026-07-17 19:28:25.657059  https://www.radioradicale.it/scheda/52537/riforme-istituzionali-e-riforme-elettorali-org-dalla-facolta-di-scienze-politiche?i=2476771  RuntimeError: yt-dlp exited 1
+de mita  2026-07-17 19:37:13.446978  https://www.radioradicale.it/scheda/48979/il-rinnovamento-della-politica-e-della-dc?i=2507910  ValueError: No timestamps
+de mita  2026-07-17 19:52:49.692404  https://www.radioradicale.it/scheda/48892/unidea-un-concetto-una-riforma-il-percorso-della-dc?i=2508487  ValueError: No timestamps
