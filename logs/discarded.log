@@ -3743,3 +3743,14 @@ de mita  2026-07-17 21:05:30.664278  https://www.radioradicale.it/scheda/41265/l
 de mita  2026-07-17 21:05:32.891259  https://www.radioradicale.it/scheda/58820/riforma-elettorale-riforme-istituzionali-le-riforme-possibili?i=2419204  ValueError: No timestamps
 de mita  2026-07-17 21:28:27.905271  https://www.radioradicale.it/scheda/46721/schegge-istituzionali?i=2524905  RuntimeError: yt-dlp exited 1
 de mita  2026-07-17 21:28:30.133335  https://www.radioradicale.it/scheda/40701/conferenza-progammatica-della-dc?i=2572440  ValueError: No timestamps
+de mita  2026-07-17 21:43:41.413927  https://www.radioradicale.it/scheda/37781/le-iniziative-della-sinistra-dc?i=2594070  ValueError: No timestamps
+de mita  2026-07-17 21:50:16.856703  https://www.radioradicale.it/scheda/37376/processo-di-trasformazione-politica-e-istituzioni?i=2597752  ValueError: No timestamps
+de mita  2026-07-17 21:50:18.292348  https://www.radioradicale.it/scheda/37248/ragionando-di-politica?i=2599164  ValueError: No timestamps
+de mita  2026-07-17 21:50:21.858506  https://www.radioradicale.it/scheda/75689/sistema-politico-italiano-confronto-pci-dc-festa-nazionale-dellunita?i=2270621  ValueError: No timestamps
+de mita  2026-07-17 22:01:18.811356  https://www.radioradicale.it/scheda/37313/sicuramente-sinistra-leredita-il-pensiero-la-proposta?i=2598362  ValueError: No timestamps
+de mita  2026-07-17 22:25:47.350410  https://www.radioradicale.it/scheda/34572/enti-locali-ii-conferenza-nazionale-delle-donne-dc?i=2622927  ValueError: No timestamps
+de mita  2026-07-17 22:25:53.606620  https://www.radioradicale.it/scheda/33836/consiglio-nazionale-dc?i=2631429  ValueError: No timestamps
+de mita  2026-07-17 22:35:31.066678  https://www.radioradicale.it/scheda/33403/convegno-della-sinistra-dc-intervento-isolato?i=2635009  ValueError: No timestamps
+de mita  2026-07-17 22:35:33.544467  https://www.radioradicale.it/scheda/58775/i-limiti-delle-ideologie-e-lorizzonte-dei-valori?i=2419640  ValueError: No timestamps
+de mita  2026-07-17 22:35:38.343367  https://www.radioradicale.it/scheda/33052/consiglio-nazionale-della-dc?i=2637904  ValueError: No timestamps
+de mita  2026-07-17 22:35:42.310772  https://www.radioradicale.it/scheda/31019/presentazione-iii-volume-della-storia-della-democrazia-cristiana-dal-1954-al-1968?i=2654538  ValueError: No timestamps
