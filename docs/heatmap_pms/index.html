@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Vocabulary Similarity Matrix by Politician</title>
+<title>Lexicon Similarity Matrix by Politician</title>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.32.0/plotly.min.js"></script>
 <style>
   :root {
@@ -100,8 +100,8 @@
 </head>
 <body>
 
-<h1>Vocabulary Similarity Matrix by Politician</h1>
-<p class="subtitle">Top-1000 word overlap and Jaccard similarity between Italian Prime Ministers, ordered by hierarchical clustering so similar vocabularies sit next to each other.</p>
+<h1>Italian Prime Ministers Lexicon Similarity Matrices</h1>
+<p class="subtitle">Top-1000 overlapping words and Jaccard similarity index between Italian Prime Ministers, ordered by hierarchical clustering.</p>
 
 <div class="panel toggles">
   <div class="toggle-group">
@@ -163,7 +163,7 @@ function redraw() {
 
   const layout = {
     title: state.matrix === "Overlap"
-      ? "Top-1000 Overlap Matrix (words in common)"
+      ? "Top-1000 Overlapping Words Matrix"
       : "Jaccard Similarity Matrix",
     xaxis: { side: "bottom", tickangle: -45 },
     yaxis: { autorange: "reversed" },
@@ -227,20 +227,23 @@ fetch("data.json")
 </script>
 
 <div id="description">
-  <h4>Vocabulary Overlap and Jaccard Similarity</h4>
+  <h4>Lexicon Overlap and Jaccard Similarity</h4>
   <p>
-    For each politician, the 1000 most frequent words used across their speeches are extracted as a set.
-    The <b>Overlap matrix</b> reports how many of these top-1000 words two politicians have in common.
-    The <b>Jaccard Similarity matrix</b> normalizes this by the size of the union of the two sets, giving
-    a score between 0 and 1 that is comparable across pairs regardless of vocabulary size.
+    For each politician, the 1000 most frequent words used across their speeches are extracted.<br>
+    The <b>Overlap matrix</b> reports how many of these top-1000 words two politicians have in common. <br>
+    The <b>Jaccard Similarity matrix</b> uses the full lexicons instead, and computes the Jaccard index for each pair of Prime Ministers.
+  </p>
+
+  <h5>Jaccard Index</h5>
+  <p>
+    The Jaccard index measures similarity between finite non-empty sample sets and is defined as the size of the intersection divided by the size of the union of the sample sets. It can be interpreted as a normalized measure of overlap between two sets.
   </p>
 
   <h5>Ordering</h5>
   <p>
-    Politicians are ordered along both axes using hierarchical clustering (average linkage) on the
-    Jaccard distance (1 − Jaccard similarity). This places politicians with more similar vocabularies
-    next to each other, so clusters of stylistically or thematically related speakers appear as
-    visible blocks along the diagonal.
+    Politicians are ordered along both axes using optimal leaf ordering on the
+    Jaccard distance (1 − Jaccard similarity). This places politicians with more similar lexicons
+    next to each other, aiding in graph readability.
   </p>
 </div>
 
