@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>t-SNE Word Embedding Space by Politician</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.32.0/plotly.min.js"></script>
+<style>
+  :root {
+    --border: #d9d9d9;
+    --bg: #fafafa;
+  }
+  body {
+    font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 24px;
+    color: #222;
+  }
+  h1 {
+    font-size: 1.25rem;
+    margin-bottom: 4px;
+  }
+  .subtitle {
+    color: #666;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 0.9rem;
+  }
+  .panel {
+    border: 1px solid var(--border);
+    background: var(--bg);
+    border-radius: 8px;
+    padding: 14px 16px;
+    margin-bottom: 14px;
+  }
+  .panel h3 {
+    margin: 0 0 8px 0;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #555;
+  }
+  .toggles {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 22px;
+    align-items: center;
+  }
+  .toggle-group {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .toggle-group span.label {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #444;
+  }
+  .btn-row {
+    display: inline-flex;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  .btn-row button {
+    border: none;
+    background: #fff;
+    padding: 6px 12px;
+    font-size: 0.85rem;
+    cursor: pointer;
+    border-right: 1px solid var(--border);
+  }
+  .btn-row button:last-child { border-right: none; }
+  .btn-row button.active {
+    background: #2b6cb0;
+    color: #fff;
+    border-color: #2b6cb0;
+  }
+  .checkbox-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 6px 12px;
+  }
+  .checkbox-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.85rem;
+  }
+  .checkbox-item input {
+    cursor: pointer;
+  }
+  .checkbox-item label {
+    cursor: pointer;
+  }
+  .checkbox-item.all-item {
+    font-weight: 600;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 6px;
+    margin-bottom: 4px;
+    grid-column: 1 / -1;
+  }
+  #title-label {
+    text-align: center;
+    font-size: 1.1rem;
+    margin: 12px 0 4px 0;
+  }
+  #plot {
+    width: 100%;
+    aspect-ratio: 1/1;
+    max-width: 1500px;
+  }
+  #empty-msg {
+    color: #888;
+    font-style: italic;
+    padding: 40px 0;
+    text-align: center;
+    display: none;
+  }
+  #description {
+    max-width: 900px;
+  }
+  #description h4 {
+    margin-bottom: 4px;
+  }
+</style>
+</head>
+<body>
+
+<h1>t-SNE Word Embedding Space by Italian Prime Minister</h1>
+<p class="subtitle">2D/3D projections of each Prime Minister top-1000 words, embedded with fastText Italian word vectors.</p>
+
+<div class="panel toggles">
+  <div class="toggle-group">
+    <span class="label">View</span>
+    <div class="btn-row" id="view-toggle"></div>
+  </div>
+  <div class="toggle-group">
+    <span class="label">Highlight overlap</span>
+    <div class="btn-row" id="highlight-toggle"></div>
+  </div>
+</div>
+
+<div class="panel">
+  <h3>Politicians</h3>
+  <div class="checkbox-grid" id="checkbox-grid"></div>
+</div>
+
+<div id="title-label"></div>
+<div id="plot"></div>
+<div id="empty-msg">No data available.</div>
+
+<script>
+const OVERLAP_COLOR = "#000000";
+const DEFAULT_SELECTED = ["meloni", "degasperi", "fanfani"]; // falls back to first two politicians if not present
+
+let DATA = null;
+
+const state = {
+  view: "2D",
+  highlight: true,
+  selected: new Set(),
+};
+
+function titleHtml(view) {
+  return `t-SNE Word Embeddings Space — ${view}`;
+}
+
+function computeShared(selectedPols) {
+  if (!state.highlight || selectedPols.length < 2) return new Set();
+  const wordOwners = new Map();
+  selectedPols.forEach(pol => {
+    (DATA.byPolitician[pol] || []).forEach(p => {
+      if (!wordOwners.has(p.word)) wordOwners.set(p.word, new Set());
+      wordOwners.get(p.word).add(pol);
+    });
+  });
+  const shared = new Set();
+  wordOwners.forEach((owners, word) => { if (owners.size > 1) shared.add(word); });
+  return shared;
+}
+
+function redraw() {
+  const plotDiv = document.getElementById("plot");
+  const emptyMsg = document.getElementById("empty-msg");
+  document.getElementById("title-label").textContent = titleHtml(state.view);
+
+  const selected = DATA.politicians.filter(p => state.selected.has(p));
+
+  if (!DATA || selected.length === 0) {
+    Plotly.purge(plotDiv);
+    plotDiv.style.display = "none";
+    emptyMsg.style.display = "block";
+    return;
+  }
+  plotDiv.style.display = "block";
+  emptyMsg.style.display = "none";
+
+  const shared = computeShared(selected);
+  const traces = [];
+  const is3D = state.view === "3D";
+
+  selected.forEach(pol => {
+    const pts = (DATA.byPolitician[pol] || []).filter(p => !shared.has(p.word));
+    const color = DATA.colors[pol];
+    const trace = {
+      type: is3D ? "scatter3d" : "scatter",
+      mode: "markers",
+      name: pol.charAt(0).toUpperCase() + pol.slice(1),
+      text: pts.map(p => p.word),
+      hovertemplate: "%{text}<extra>" + pol.charAt(0).toUpperCase() + pol.slice(1) + "</extra>",
+      marker: { size: is3D ? 6 : 6, color: color },
+      x: pts.map(p => is3D ? p.x3 : p.x2),
+      y: pts.map(p => is3D ? p.y3 : p.y2),
+    };
+    if (is3D) trace.z = pts.map(p => p.z3);
+    traces.push(trace);
+  });
+
+  if (shared.size > 0) {
+    const sharedPts = Array.from(shared).map(w => DATA.firstByWord[w]).filter(Boolean);
+    const trace = {
+      type: is3D ? "scatter3d" : "scatter",
+      mode: "markers",
+      name: "Shared Vocabulary",
+      text: sharedPts.map(p => p.word),
+      hovertemplate: "%{text}<extra>Shared</extra>",
+      marker: { size: is3D ? 6 : 6, color: OVERLAP_COLOR, symbol: "diamond" },
+      x: sharedPts.map(p => is3D ? p.x3 : p.x2),
+      y: sharedPts.map(p => is3D ? p.y3 : p.y2),
+    };
+    if (is3D) trace.z = sharedPts.map(p => p.z3);
+    traces.push(trace);
+  }
+
+  const layout = {
+    //height: 750,
+    autosize: true,
+    legend: { orientation: "h", yanchor: "bottom", y: 1.02, xanchor: "center", x: 0.5 },
+    margin: { l: 20, r: 20, t: 40, b: 20 },
+    template: "plotly_white",
+  };
+  if (is3D) {
+    layout.scene = { xaxis: { title: "" }, yaxis: { title: "" }, zaxis: { title: "" } };
+  } else {
+    layout.xaxis = { title: "" };
+    layout.yaxis = { title: "" };
+  }
+
+  Plotly.react(plotDiv, traces, layout, {
+    responsive: true,
+    toImageButtonOptions: { filename: "tsne", format: "png", scale: 2 },
+  });
+}
+
+function makeToggle(containerId, options, current, onChange) {
+  const container = document.getElementById(containerId);
+  container.innerHTML = "";
+  const buttons = {};
+  options.forEach(opt => {
+    const btn = document.createElement("button");
+    btn.textContent = opt;
+    btn.className = opt === current ? "active" : "";
+    btn.addEventListener("click", () => {
+      Object.values(buttons).forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      onChange(opt);
+    });
+    buttons[opt] = btn;
+    container.appendChild(btn);
+  });
+  return buttons;
+}
+
+function buildCheckboxGrid() {
+  const grid = document.getElementById("checkbox-grid");
+  grid.innerHTML = "";
+
+  const allItem = document.createElement("div");
+  allItem.className = "checkbox-item all-item";
+  const allCb = document.createElement("input");
+  allCb.type = "checkbox";
+  allCb.id = "cb-all";
+  const allLabel = document.createElement("label");
+  allLabel.htmlFor = "cb-all";
+  allLabel.textContent = "All";
+  allItem.appendChild(allCb);
+  allItem.appendChild(allLabel);
+  grid.appendChild(allItem);
+
+  const polCheckboxes = {};
+
+  allCb.addEventListener("change", () => {
+    DATA.politicians.forEach(pol => {
+      polCheckboxes[pol].checked = allCb.checked;
+      if (allCb.checked) state.selected.add(pol);
+      else state.selected.delete(pol);
+    });
+    redraw();
+  });
+
+  DATA.politicians.forEach(pol => {
+    const item = document.createElement("div");
+    item.className = "checkbox-item";
+    const cb = document.createElement("input");
+    cb.type = "checkbox";
+    cb.id = "cb-" + pol;
+    cb.checked = state.selected.has(pol);
+    const label = document.createElement("label");
+    label.htmlFor = cb.id;
+    label.textContent = pol.charAt(0).toUpperCase() + pol.slice(1);
+    item.appendChild(cb);
+    item.appendChild(label);
+    grid.appendChild(item);
+    polCheckboxes[pol] = cb;
+
+    cb.addEventListener("change", () => {
+      if (cb.checked) state.selected.add(pol);
+      else state.selected.delete(pol);
+      allCb.checked = DATA.politicians.every(p => state.selected.has(p));
+      redraw();
+    });
+  });
+}
+
+function init() {
+  makeToggle("view-toggle", ["2D", "3D"], state.view, val => {
+    state.view = val;
+    redraw();
+  });
+  makeToggle("highlight-toggle", ["On", "Off"], state.highlight ? "On" : "Off", val => {
+    state.highlight = (val === "On");
+    redraw();
+  });
+
+  // default selection: DEFAULT_SELECTED if present, else first two politicians
+  const present = DEFAULT_SELECTED.filter(p => DATA.politicians.includes(p));
+  const initialSelection = present.length > 0 ? present : DATA.politicians.slice(0, 2);
+  initialSelection.forEach(p => state.selected.add(p));
+
+  buildCheckboxGrid();
+  redraw();
+}
+
+fetch("data.json")
+  .then(r => r.json())
+  .then(json => {
+    DATA = json;
+
+    // index points by politician and build first-occurrence-by-word lookup
+    DATA.byPolitician = {};
+    DATA.firstByWord = {};
+    DATA.points.forEach(p => {
+      if (!DATA.byPolitician[p.politician]) DATA.byPolitician[p.politician] = [];
+      DATA.byPolitician[p.politician].push(p);
+      if (!(p.word in DATA.firstByWord)) DATA.firstByWord[p.word] = p;
+    });
+
+    init();
+  })
+  .catch(err => {
+    document.getElementById("plot").innerHTML =
+      "<p style='color:#c0392b'>Could not load data.json — make sure it sits next to index.html and you're serving this over http(s), not file://.</p>";
+    console.error(err);
+  });
+</script>
+
+<div id="description">
+  <h4>t-SNE Word Embedding Space</h4>
+  <p>
+    For each Prime Minister, the 1000 most frequent words used across their speeches are looked up in a pretrained
+    fastText Italian embedding space and projected into 2D and 3D with t-SNE. 
+  </p>
+  <p>
+    When <b>Highlight overlap</b> is on and two or more politicians are selected, words shared between the
+    selected politicians are drawn once, in black, as a diamond marker, sitting on top of the individual traces.
+  </p>
+
+  <h5>
+    t-SNE
+  </h5>
+  <p>
+    t-distributed stochastic neighbor embedding (t-SNE) is a statistical method for visualizing high-dimensional data by giving each datapoint a location in a two or three-dimensional map. It is intended to clearly denote differences in sets and highlights potential clustering.
+  </p>
+
+  <h5>Word Embedding: fastText</h5>
+  <p>
+    Word embeddings are a way of representing words as vectors in a multi-dimensional space, where the distance and direction between vectors reflect the similarity and relationships among the corresponding words. Its a way to translate words into D-dimensional vectors.
+  </p>
+  <p>
+    fastText is an open-source, free, lightweight library that allows users to learn text representations and text classifiers. For the graph above, pre-trained word vectors were used.
+  </p>
+</div>
+
+
+</body>
+</html>
