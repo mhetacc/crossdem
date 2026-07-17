@@ -3726,3 +3726,9 @@ de mita  2026-07-17 16:23:43.472716  https://www.radioradicale.it/scheda/101244/
 de mita  2026-07-17 16:23:43.827575  https://www.radioradicale.it/scheda/94939/le-nuove-istituzioni-per-litalia-del-duemila-org-nellambito-della-festa-della-famiglia?i=2064307  ValueError: No timestamps
 de mita  2026-07-17 16:30:48.967378  https://www.radioradicale.it/scheda/93118/democrazia-e-riforme-org-dalleuropean-school-of-economics?i=2087700  ValueError: No timestamps
 de mita  2026-07-17 17:21:11.218232  https://www.radioradicale.it/scheda/88470/incontro-con-mino-martinazzoli-ciriaco-de-mita-e-sergio-dantoni-organizzato-dal-partito?i=2139637  ValueError: No timestamps
+de mita  2026-07-17 17:40:50.882990  https://www.radioradicale.it/scheda/78957/il-riordino-delle-istituzioni-la-forma-di-governo-e-le-autonomie-convegno-nazionale?i=2238572  ValueError: No timestamps
+de mita  2026-07-17 17:48:00.814111  https://www.radioradicale.it/scheda/78848/riforma-dello-stato-e-sistema-politico-italiano-org-nellambito-della-festa-dellunita-di?i=2239559  ValueError: No timestamps
+de mita  2026-07-17 17:48:02.585427  https://www.radioradicale.it/scheda/68036/dal-centro-destra-al-centro-sinistra?i=2343736  ValueError: No timestamps
+de mita  2026-07-17 18:08:29.923853  https://www.radioradicale.it/scheda/56688/dalla-dc-al-nuovo-partito-popolare?i=2438749  ValueError: No timestamps
+de mita  2026-07-17 18:20:47.274848  https://www.radioradicale.it/scheda/52713/chi-accusa-chi-giudica-chi-amministra-giustizia-e-ordinamento-giudiziario?i=2475242  ValueError: No timestamps
+de mita  2026-07-17 19:28:25.657059  https://www.radioradicale.it/scheda/52537/riforme-istituzionali-e-riforme-elettorali-org-dalla-facolta-di-scienze-politiche?i=2476771  RuntimeError: yt-dlp exited 1
