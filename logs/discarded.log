@@ -3629,3 +3629,4 @@ amato  2026-07-17 01:19:59.449419  https://www.radioradicale.it/scheda/139281/el
 amato  2026-07-17 01:20:04.008650  https://www.radioradicale.it/scheda/138253/politiche-2001-comizio-di-chiusura-della-campagna-elettorale-con-giuliano-amato-ed?i=1568894  RuntimeError: yt-dlp exited 1
 amato  2026-07-17 01:20:05.660412  https://www.radioradicale.it/scheda/138252/politiche-2001-manifestazione-organizzata-dallulivo-presso-la-sala-eden-mura-medicce?i=1568897  ValueError: No timestamps
 amato  2026-07-17 01:20:09.187206  https://www.radioradicale.it/scheda/138247/litalia-dei-tanti-non-dei-pochi-organizzata-dallulivo-presso-il-teatro-metropolitan?i=1568917  ValueError: No timestamps
+amato  2026-07-17 02:08:23.037559  https://www.radioradicale.it/scheda/137974/lisola-che-verra-organizzata-dallulivo-presso-il-centro-de-laugier?i=1570868  ValueError: No timestamps
