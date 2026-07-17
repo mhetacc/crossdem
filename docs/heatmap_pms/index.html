@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vocabulary Similarity Matrix by Politician</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.32.0/plotly.min.js"></script>
+<style>
+  :root {
+    --border: #d9d9d9;
+    --bg: #fafafa;
+  }
+  body {
+    font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 24px;
+    color: #222;
+  }
+  h1 {
+    font-size: 1.25rem;
+    margin-bottom: 4px;
+  }
+  .subtitle {
+    color: #666;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 0.9rem;
+  }
+  .panel {
+    border: 1px solid var(--border);
+    background: var(--bg);
+    border-radius: 8px;
+    padding: 14px 16px;
+    margin-bottom: 14px;
+  }
+  .panel h3 {
+    margin: 0 0 8px 0;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #555;
+  }
+  .toggles {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 22px;
+    align-items: center;
+  }
+  .toggle-group {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .toggle-group span.label {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #444;
+  }
+  .btn-row {
+    display: inline-flex;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  .btn-row button {
+    border: none;
+    background: #fff;
+    padding: 6px 12px;
+    font-size: 0.85rem;
+    cursor: pointer;
+    border-right: 1px solid var(--border);
+  }
+  .btn-row button:last-child { border-right: none; }
+  .btn-row button.active {
+    background: #2b6cb0;
+    color: #fff;
+    border-color: #2b6cb0;
+  }
+  #plot {
+    width: 100%;
+    aspect-ratio: 1/1;
+    max-width: 1500px;
+  }
+  #empty-msg {
+    color: #888;
+    font-style: italic;
+    padding: 40px 0;
+    text-align: center;
+    display: none;
+  }
+  #description {
+    max-width: 900px;
+  }
+  #description h4 {
+    margin-bottom: 4px;
+  }
+  #description h5 {
+    margin-bottom: 2px;
+  }
+</style>
+</head>
+<body>
+
+<h1>Vocabulary Similarity Matrix by Politician</h1>
+<p class="subtitle">Top-1000 word overlap and Jaccard similarity between Italian Prime Ministers, ordered by hierarchical clustering so similar vocabularies sit next to each other.</p>
+
+<div class="panel toggles">
+  <div class="toggle-group">
+    <span class="label">Matrix</span>
+    <div class="btn-row" id="matrix-toggle"></div>
+  </div>
+</div>
+
+<div id="plot"></div>
+<div id="empty-msg">No data available.</div>
+
+<script>
+const PALETTE = "YlGnBu"; // change to any Plotly colorscale name, e.g. "Viridis", "Blues", "Reds", "Cividis"
+
+let DATA = null;
+
+const state = {
+  matrix: "Overlap",
+};
+
+function currentMatrixValues() {
+  return state.matrix === "Overlap" ? DATA.overlap_matrix : DATA.jaccard_matrix;
+}
+
+function valueFormat(v) {
+  return state.matrix === "Overlap" ? Math.round(v).toString() : v.toFixed(2);
+}
+
+function redraw() {
+  const plotDiv = document.getElementById("plot");
+  const emptyMsg = document.getElementById("empty-msg");
+
+  if (!DATA || !DATA.politicians || DATA.politicians.length === 0) {
+    Plotly.purge(plotDiv);
+    plotDiv.style.display = "none";
+    emptyMsg.style.display = "block";
+    return;
+  }
+  plotDiv.style.display = "block";
+  emptyMsg.style.display = "none";
+
+  const politicians = DATA.politicians;
+  const z = currentMatrixValues();
+  const text = z.map(row => row.map(valueFormat));
+
+  const trace = {
+    type: "heatmap",
+    z: z,
+    x: politicians,
+    y: politicians,
+    colorscale: PALETTE,
+    reversescale: true,
+    text: text,
+    texttemplate: "%{text}",
+    textfont: { size: 11 },
+    hovertemplate: "%{y} vs %{x}<br>Value: %{z}<extra></extra>",
+    colorbar: { title: "" },
+  };
+
+  const layout = {
+    title: state.matrix === "Overlap"
+      ? "Top-1000 Overlap Matrix (words in common)"
+      : "Jaccard Similarity Matrix",
+    xaxis: { side: "bottom", tickangle: -45 },
+    yaxis: { autorange: "reversed" },
+    template: "plotly_white",
+    autosize: true,
+    //height: 700,
+    margin: { l: 100, r: 50, t: 60, b: 100 },
+  };
+
+  Plotly.react(plotDiv, [trace], layout, {
+    responsive: true,
+    toImageButtonOptions: {
+      filename: "heatmap_pms",
+      format: "png",
+      scale: 2,
+    },
+  });
+}
+
+function makeToggle(containerId, options, current, onChange) {
+  const container = document.getElementById(containerId);
+  container.innerHTML = "";
+  const buttons = {};
+  options.forEach(opt => {
+    const btn = document.createElement("button");
+    btn.textContent = opt;
+    btn.className = opt === current.value ? "active" : "";
+    btn.addEventListener("click", () => {
+      current.value = opt;
+      Object.values(buttons).forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      onChange(opt);
+    });
+    buttons[opt] = btn;
+    container.appendChild(btn);
+  });
+  return buttons;
+}
+
+function init() {
+  const matrixRef = { value: state.matrix };
+  makeToggle("matrix-toggle", ["Overlap", "Jaccard"], matrixRef, val => {
+    state.matrix = val;
+    redraw();
+  });
+
+  redraw();
+}
+
+fetch("data.json")
+  .then(r => r.json())
+  .then(json => {
+    DATA = json;
+    init();
+  })
+  .catch(err => {
+    document.getElementById("plot").innerHTML =
+      "<p style='color:#c0392b'>Could not load data.json — make sure it sits next to index.html and you're serving this over http(s), not file://.</p>";
+    console.error(err);
+  });
+</script>
+
+<div id="description">
+  <h4>Vocabulary Overlap and Jaccard Similarity</h4>
+  <p>
+    For each politician, the 1000 most frequent words used across their speeches are extracted as a set.
+    The <b>Overlap matrix</b> reports how many of these top-1000 words two politicians have in common.
+    The <b>Jaccard Similarity matrix</b> normalizes this by the size of the union of the two sets, giving
+    a score between 0 and 1 that is comparable across pairs regardless of vocabulary size.
+  </p>
+
+  <h5>Ordering</h5>
+  <p>
+    Politicians are ordered along both axes using hierarchical clustering (average linkage) on the
+    Jaccard distance (1 − Jaccard similarity). This places politicians with more similar vocabularies
+    next to each other, so clusters of stylistically or thematically related speakers appear as
+    visible blocks along the diagonal.
+  </p>
+</div>
+
+</body>
+</html>
