@@ -3653,3 +3653,6 @@ de mita  2026-07-17 11:45:07.836911  https://www.radioradicale.it/scheda/142463/
 de mita  2026-07-17 12:03:52.632657  https://www.radioradicale.it/scheda/136267/comitato-costituente-della-margherita-presso-lhotel-dazeglio-in-via-cavour?i=1586985  ValueError: No timestamps
 de mita  2026-07-17 12:03:54.611530  https://www.radioradicale.it/scheda/142985/un-fiore-le-sue-radici-il-suo-futuro-i-popolari-la-margherita-il-nuovo-ulivo?i=1526503  ValueError: No timestamps
 de mita  2026-07-17 12:21:17.256756  https://www.radioradicale.it/scheda/133860/comitato-costituente-della-margherita-centro-congressi-mondo-migliore?i=1612002  ValueError: No timestamps
+de mita  2026-07-17 12:27:06.168964  https://www.radioradicale.it/scheda/131888/assemblea-costituente-della-margherita-dal-14-al-15-luglio-hotel-ergife-roma?i=1629577  ValueError: No timestamps
+de mita  2026-07-17 12:48:31.076371  https://www.radioradicale.it/scheda/134950/faccia-a-faccia-organizzato-dal-laboratorio-europa-presso-il-teatro-dellistituto?i=1601162  ValueError: No timestamps
+de mita  2026-07-17 12:53:43.372468  https://www.radioradicale.it/scheda/124732/consiglio-nazionale-del-partito-popolare-italiano-co-palazzo-altemps?i=1703863  RuntimeError: yt-dlp exited 1
