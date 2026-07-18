@@ -4212,3 +4212,9 @@ spadolini  2026-07-18 23:58:25.528462  https://www.radioradicale.it/scheda/21901
 spadolini  2026-07-18 23:58:27.090772  https://www.radioradicale.it/scheda/21464/comizio-del-segretario-del-pri?i=2722035  ValueError: No timestamps
 spadolini  2026-07-19 00:08:36.351876  https://www.radioradicale.it/scheda/7754/elezioni-amministrative-di-napoli-la-campagna-elettorale-del-pri?i=2786329  ValueError: No timestamps
 spadolini  2026-07-19 00:08:38.595670  https://www.radioradicale.it/scheda/2063/i-referendum?i=224539  ValueError: No timestamps
+forlani  2026-07-19 00:39:15.992908  https://www.radioradicale.it/scheda/150145/cara-francesca-presentazione-del-libro-a-cura-di-maria-romana-de-gasperi-che-raccoglie?i=1454388  ValueError: No timestamps
+forlani  2026-07-19 00:43:23.894861  https://www.radioradicale.it/scheda/138559/presentazione-della-biografia-di-fiorentino-sullo-scritta-dagianfranco-rotondi-con?i=1566699  ValueError: No timestamps
+forlani  2026-07-19 00:43:25.368678  https://www.radioradicale.it/scheda/113325/lanticonformista-della-sinistra-italiana-presentazione-del-libro-di-nicola-guiso-e?i=1830904  ValueError: No timestamps
+forlani  2026-07-19 00:45:51.456237  https://www.radioradicale.it/scheda/105001/che-cosa-e-stata-la-dc-tavola-rotonda-organizzata-nellambito-della-v-festa-nazionale?i=1919277  RuntimeError: yt-dlp exited 1
+forlani  2026-07-19 01:00:40.187923  https://www.radioradicale.it/scheda/48270/consiglio-nazionale-della-dc?i=2512643  ValueError: No timestamps
+forlani  2026-07-19 01:00:43.808230  https://www.radioradicale.it/scheda/48269/consiglio-nazionale-della-dc?i=2512657  ValueError: No timestamps
