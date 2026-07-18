@@ -4089,3 +4089,10 @@ goria  2026-07-18 14:49:06.041369  https://www.radioradicale.it/scheda/30903/xvi
 goria  2026-07-18 14:50:24.982336  https://www.radioradicale.it/scheda/24758/crisi-di-governo-verso-il-goria-bis?i=2704062  ValueError: No timestamps
 goria  2026-07-18 14:52:47.722695  https://www.radioradicale.it/scheda/23645/relazione-del-segretario-ciriaco-de-mita-al-consiglio-nazionale-dc?i=2711549  ValueError: No timestamps
 goria  2026-07-18 14:57:25.534287  https://www.radioradicale.it/scheda/22468/incontro-dc-con-il-presidente-della-repubblica?i=2716737  ValueError: No timestamps
+goria  2026-07-18 15:00:07.025196  https://www.radioradicale.it/scheda/13287/governo-riunione-del-consiglio-di-gabinetto?i=2773177  ValueError: No timestamps
+goria  2026-07-18 15:00:13.895330  https://www.radioradicale.it/scheda/23347/meeting-87-per-lamicizia-fra-i-popoli-incontro-con-goria?i=2712567  ValueError: No timestamps
+spadolini  2026-07-18 15:23:02.655171  https://www.radioradicale.it/scheda/57885/passato-e-presente-della-resistenza?i=2428562  RuntimeError: yt-dlp exited 1
+spadolini  2026-07-18 15:43:13.825508  https://www.radioradicale.it/scheda/53749/lonu-e-la-nuova-diplomazia-della-pace?i=2467026  ValueError: No timestamps
+spadolini  2026-07-18 15:50:17.208893  https://www.radioradicale.it/scheda/51872/primo-rapporto-sulle-priorita-nazionali-le-istituzioni?i=2483098  ValueError: No timestamps
+spadolini  2026-07-18 15:55:52.706045  https://www.radioradicale.it/scheda/51541/democrazia-cose?i=2485786  ValueError: No timestamps
+spadolini  2026-07-18 15:55:54.913992  https://www.radioradicale.it/scheda/50671/ii-conferenza-internazionale-sulla-nutrizione-organizzata-dalla-fao-e-dalloms?i=2493302  ValueError: No timestamps
