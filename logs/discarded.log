@@ -4100,3 +4100,8 @@ spadolini  2026-07-18 16:28:50.332201  https://www.radioradicale.it/scheda/49543
 spadolini  2026-07-18 16:35:51.045283  https://www.radioradicale.it/scheda/48137/consiglio-nazionale-del-pri?i=2513820  ValueError: No timestamps
 spadolini  2026-07-18 17:21:11.177480  https://www.radioradicale.it/scheda/44098/memorie-1943-1970?i=2543322  ValueError: No timestamps
 spadolini  2026-07-18 17:50:02.498332  https://www.radioradicale.it/scheda/41695/i-repubblicani-e-lidea-dellitalia-unita?i=2564592  ValueError: No timestamps
+spadolini  2026-07-18 18:27:29.944752  https://www.radioradicale.it/scheda/46721/schegge-istituzionali?i=2524904  RuntimeError: yt-dlp exited 1
+spadolini  2026-07-18 18:40:40.352363  https://www.radioradicale.it/scheda/39176/cocaina-oggi-effetti-sulluomo-e-sulla-societa?i=2582969  RuntimeError: yt-dlp exited 1
+spadolini  2026-07-18 18:49:26.548794  https://www.radioradicale.it/scheda/38657/conferenza-interparlamentare-europea?i=2587089  ValueError: No timestamps
+spadolini  2026-07-18 18:49:28.573049  https://www.radioradicale.it/scheda/38675/europa-unita-e-sicurezza-la-cee-deve-assorbire-la-ueo?i=2586849  ValueError: No timestamps
+spadolini  2026-07-18 19:12:05.825233  https://www.radioradicale.it/scheda/58799/quali-riforme-istituzionali?i=2419435  ValueError: No timestamps
