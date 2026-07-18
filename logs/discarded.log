@@ -4067,3 +4067,9 @@ craxi  2026-07-18 11:13:00.509540  https://www.radioradicale.it/scheda/6250/xlii
 craxi  2026-07-18 11:13:04.530311  https://www.radioradicale.it/scheda/6246/xlii-congresso-del-partito-socialista-italiano?i=2796391  ValueError: No timestamps
 craxi  2026-07-18 11:13:06.846026  https://www.radioradicale.it/scheda/817/elezioni-amministrative-commento-ai-risultati?i=222905  ValueError: No timestamps
 goria  2026-07-18 11:32:36.150367  https://www.radioradicale.it/scheda/46412/per-la-politica-economica-della-prossima-legislatura?i=2526861  ValueError: No timestamps
+goria  2026-07-18 13:01:22.940955  https://www.radioradicale.it/scheda/37248/ragionando-di-politica?i=2599166  ValueError: No timestamps
+goria  2026-07-18 13:13:42.861659  https://www.radioradicale.it/scheda/58794/lintegrazione-europea-tra-capitalismo-oligarchico?i=2419494  ValueError: No timestamps
+goria  2026-07-18 13:13:44.729788  https://www.radioradicale.it/scheda/37312/sicuramente-sinistra-leredita-il-pensiero-la-proposta?i=2598378  ValueError: No timestamps
+goria  2026-07-18 13:13:46.454054  https://www.radioradicale.it/scheda/36483/europa-inizio-semestre-di-presidenza-italiana-della-cee?i=2604911  ValueError: No timestamps
+goria  2026-07-18 13:30:57.057418  https://www.radioradicale.it/scheda/35344/droga-educare-e-non-punire?i=2615604  RuntimeError: yt-dlp exited 1
+goria  2026-07-18 13:42:39.084027  https://www.radioradicale.it/scheda/33928/droga-il-disegno-di-legge-governativo?i=2630015  ValueError: No timestamps
