@@ -4105,3 +4105,7 @@ spadolini  2026-07-18 18:40:40.352363  https://www.radioradicale.it/scheda/39176
 spadolini  2026-07-18 18:49:26.548794  https://www.radioradicale.it/scheda/38657/conferenza-interparlamentare-europea?i=2587089  ValueError: No timestamps
 spadolini  2026-07-18 18:49:28.573049  https://www.radioradicale.it/scheda/38675/europa-unita-e-sicurezza-la-cee-deve-assorbire-la-ueo?i=2586849  ValueError: No timestamps
 spadolini  2026-07-18 19:12:05.825233  https://www.radioradicale.it/scheda/58799/quali-riforme-istituzionali?i=2419435  ValueError: No timestamps
+spadolini  2026-07-18 19:40:47.563457  https://www.radioradicale.it/scheda/34232/diritto-allinformazione?i=2626140  ValueError: No timestamps
+spadolini  2026-07-18 19:40:49.221654  https://www.radioradicale.it/scheda/33130/consiglio-nazionale-del-pri?i=2637162  ValueError: No timestamps
+spadolini  2026-07-18 19:46:56.658721  https://www.radioradicale.it/scheda/58776/tramonto-delle-ideologie-crisi-delle-sinistretutto-era-politica?i=2419639  ValueError: No timestamps
+spadolini  2026-07-18 19:52:26.902497  https://www.radioradicale.it/scheda/31241/etica-e-politica-alle-soglie-del-xxi-secolo?i=2652649  ValueError: No timestamps
