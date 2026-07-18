@@ -4025,3 +4025,9 @@ craxi  2026-07-18 08:05:47.061877  https://www.radioradicale.it/scheda/65592/cam
 craxi  2026-07-18 08:05:48.785577  https://www.radioradicale.it/scheda/44164/attivo-provinciale-del-psi?i=2542967  ValueError: No timestamps
 craxi  2026-07-18 08:15:14.277088  https://www.radioradicale.it/scheda/44632/centesimo-anniversario-della-nascita-di-pietro-nenni?i=2540120  ValueError: No timestamps
 craxi  2026-07-18 08:23:08.480472  https://www.radioradicale.it/scheda/44678/crisi-nel-golfo-persico-la-minaccia-di-un-conflitto-militare-e-la-caduta-del-comunismo?i=2539951  ValueError: No timestamps
+craxi  2026-07-18 08:49:16.285697  https://www.radioradicale.it/scheda/33446/elezioni-amministrative-a-roma-la-campagna-elettorale-del-psi?i=2634797  ValueError: No timestamps
+craxi  2026-07-18 09:09:06.322460  https://www.radioradicale.it/scheda/32508/elezioni-europee-chiusura-della-campagna-elettorale-del-psi?i=2642102  ValueError: No timestamps
+craxi  2026-07-18 09:24:37.765110  https://www.radioradicale.it/scheda/76523/elezioni-amministrative-stralci-da-vari-comizi?i=2264682  ValueError: No timestamps
+craxi  2026-07-18 09:24:40.931916  https://www.radioradicale.it/scheda/76494/elezioni-amministrative-a-trieste-la-campagna-elettorale-del-psi?i=2264739  ValueError: No timestamps
+craxi  2026-07-18 09:24:43.684104  https://www.radioradicale.it/scheda/76400/elezioni-comunali-a-catania-la-campagna-elettorale-del-psi?i=2264983  ValueError: No timestamps
+craxi  2026-07-18 09:30:42.071880  https://www.radioradicale.it/scheda/24493/cinque-si-ai-prossimi-referendum-comizio-del-segretario-psi?i=2705930  ValueError: No timestamps
