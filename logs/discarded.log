@@ -3880,3 +3880,12 @@ craxi  2026-07-18 03:06:55.818122  https://www.radioradicale.it/scheda/35235/con
 craxi  2026-07-18 03:06:57.085110  https://www.radioradicale.it/scheda/33440/assemblea-nazionale-del-partito-socialista-italiano?i=2634806  RuntimeError: yt-dlp exited 1
 craxi  2026-07-18 03:07:01.784174  https://www.radioradicale.it/scheda/33439/assemblea-nazionale-del-partito-socialista-italiano?i=2634827  RuntimeError: yt-dlp exited 1
 craxi  2026-07-18 03:08:48.764571  https://www.radioradicale.it/scheda/33191/congresso-provinciale-del-psi?i=2636572  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/craxi/audio_out/_out_33191_craxi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/craxi/audio_out/33191_craxi.mp3'
+craxi  2026-07-18 03:18:56.159639  https://www.radioradicale.it/scheda/31644/contro-la-droga-una-lotta-mondiale?i=2649053  ValueError: No timestamps
+craxi  2026-07-18 03:28:40.793801  https://www.radioradicale.it/scheda/30728/giuseppe-saragat-e-leredita-del-riformismo-italiano?i=2657409  RuntimeError: yt-dlp exited 1
+craxi  2026-07-18 03:42:08.059521  https://www.radioradicale.it/scheda/28066/assemblea-nazionale-del-psi?i=2677385  ValueError: No timestamps
+craxi  2026-07-18 03:42:10.068586  https://www.radioradicale.it/scheda/27765/il-psi-e-leuropa?i=2679680  ValueError: No timestamps
+craxi  2026-07-18 03:51:49.846599  https://www.radioradicale.it/scheda/26671/leuropa-nella-nuova-fase-della-politica-internazionale?i=2686809  ValueError: No timestamps
+craxi  2026-07-18 03:59:01.880338  https://www.radioradicale.it/scheda/25421/apritisesamo?i=2697503  ValueError: No timestamps
+craxi  2026-07-18 04:09:55.975629  https://www.radioradicale.it/scheda/22482/assemblea-nazionale-del-psi?i=2716588  ValueError: No timestamps
+craxi  2026-07-18 04:09:59.204868  https://www.radioradicale.it/scheda/21314/la-campagna-elettorale-del-psi?i=2722982  ValueError: No timestamps
+craxi  2026-07-18 04:12:47.650805  https://www.radioradicale.it/scheda/20678/riunione-dellinternazionale-socialista?i=2726326  ValueError: No timestamps
