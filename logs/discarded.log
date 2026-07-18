@@ -3889,3 +3889,16 @@ craxi  2026-07-18 03:59:01.880338  https://www.radioradicale.it/scheda/25421/apr
 craxi  2026-07-18 04:09:55.975629  https://www.radioradicale.it/scheda/22482/assemblea-nazionale-del-psi?i=2716588  ValueError: No timestamps
 craxi  2026-07-18 04:09:59.204868  https://www.radioradicale.it/scheda/21314/la-campagna-elettorale-del-psi?i=2722982  ValueError: No timestamps
 craxi  2026-07-18 04:12:47.650805  https://www.radioradicale.it/scheda/20678/riunione-dellinternazionale-socialista?i=2726326  ValueError: No timestamps
+craxi  2026-07-18 04:25:50.177094  https://www.radioradicale.it/scheda/62659/otto-marzo?i=2388895  ValueError: No timestamps
+craxi  2026-07-18 04:25:52.062682  https://www.radioradicale.it/scheda/20139/assemblea-psi?i=2731277  ValueError: No timestamps
+craxi  2026-07-18 04:29:29.653503  https://www.radioradicale.it/scheda/20128/psi-no-al-referendum-contingenza?i=2731618  ValueError: No timestamps
+craxi  2026-07-18 04:29:34.895410  https://www.radioradicale.it/scheda/10628/roma-stato-dare-ed-avere?i=2780041  ValueError: No timestamps
+craxi  2026-07-18 04:29:37.103910  https://www.radioradicale.it/scheda/10548/il-lavoro-nellitalia-che-cambia?i=2780189  ValueError: No timestamps
+craxi  2026-07-18 04:29:42.336645  https://www.radioradicale.it/scheda/9346/droga-congresso-mondiale-delle-comunita-terapeutiche?i=2782038  ValueError: No timestamps
+craxi  2026-07-18 04:29:45.514898  https://www.radioradicale.it/scheda/9010/comunicazione-e-droga?i=2782504  ValueError: No timestamps
+craxi  2026-07-18 04:35:36.101357  https://www.radioradicale.it/scheda/286/riunione-degli-amministratori-del-psi?i=235160  ValueError: No timestamps
+craxi  2026-07-18 04:35:37.982113  https://www.radioradicale.it/scheda/794/riunione-degli-amministratori-del-psi?i=222903  ValueError: No timestamps
+craxi  2026-07-18 04:35:41.432832  https://www.radioradicale.it/scheda/832/psi-rapporti-tra-sindacato-e-partito?i=222930  ValueError: No timestamps
+craxi  2026-07-18 04:35:43.171369  https://www.radioradicale.it/scheda/53602/listruttoria?i=2468212  ValueError: No timestamps
+craxi  2026-07-18 04:48:41.008264  https://www.radioradicale.it/scheda/5164/craxi-alla-trasmissione-italia-parla-di-pippo-baudo-ed-enzo-tortora-tra-gli-invitati?i=2806533  ValueError: No timestamps
+craxi  2026-07-18 04:56:33.393684  https://www.radioradicale.it/scheda/217549/lattualita-in-archivio-la-laicita-dello-stato-le-ingerenze-della-chiesa-il-concordato?i=1206364  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/craxi/audio_out/_out_217549_craxi.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/craxi/audio_out/217549_craxi.mp3'
