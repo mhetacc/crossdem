@@ -1,0 +1,732 @@
+1
+00:00:08,460 --> 00:00:17,500
+In nome della Secreteria Repubblicana esprimo il più profondo ringraziamento a tutti coloro
+
+2
+00:00:17,500 --> 00:00:25,860
+studiosi, presidenti di istituti, amministratori di società, tecnici e ricercatori che hanno
+
+3
+00:00:25,860 --> 00:00:32,140
+accettato il nostro invito a un dibattito su un documento aperto in merito al problema
+
+4
+00:00:32,140 --> 00:00:39,940
+nucleare elaborato dal dipartimento economico del partito che è responsabile l'amico
+
+5
+00:00:39,940 --> 00:00:46,220
+Giorgio Lamalfa e materialmente coordinato dal nostro amico Bianchi responsabile del
+
+6
+00:00:47,540 --> 00:00:52,530
+settore energia. Non vi meravigliate di questi apparati televisivi che non cosidiscono nessuna
+
+7
+00:00:53,710 --> 00:00:59,570
+violazione della nostra sovranità intellettuale, ma cosidiscono solo per noi uno strumento
+
+8
+00:00:59,570 --> 00:01:08,890
+per poter poi questo dibattito avere una cassetta e farlo sentire in tutto il nostro partito,
+
+9
+00:01:09,470 --> 00:01:13,930
+anche perché vogliamo con questa discussione, con questa assemblea di scienziati, in certo
+
+10
+00:01:13,930 --> 00:01:21,870
+modo nuova credo nella storia politica italiana, indicare un limite dei partiti. I partiti
+
+11
+00:01:22,710 --> 00:01:27,390
+hanno spesso la tendenza a occupare tutti gli spazi della società, tendenza che non
+
+12
+00:01:27,390 --> 00:01:33,310
+sembra ricambiata dal Paese. Il nostro sforzo in una materia così profondamente emotiva
+
+13
+00:01:33,310 --> 00:01:39,010
+che ha trovato e sconvolto il Paese dopo la tragedia di Cernobile è quella di non ridigere
+
+14
+00:01:39,010 --> 00:01:46,410
+un testo che rifletta la posizione politica dei repubblicani senza prima averlo sottoposto
+
+15
+00:01:46,410 --> 00:01:51,390
+all'apporto, alla valutazione, alle critiche, ai rilievi, alle cancellazioni degli uomini
+
+16
+00:01:51,390 --> 00:01:59,410
+che qui abbiamo invitato, cioè il testo che è stato mandato a tutti gli invitati e che
+
+17
+00:01:59,410 --> 00:02:04,530
+ha un'elaborazione più completa nel secondo testo ma con poche varianti rispetto al primo,
+
+18
+00:02:05,690 --> 00:02:13,070
+è un testo aperto e io che do poi subito la parola all'amico Bianchi perché lo illustri,
+
+19
+00:02:13,670 --> 00:02:19,210
+farò poi un giro dei tavolo per poter acquisire e poi dopo attraverso il dibattito si potrà
+
+20
+00:02:20,130 --> 00:02:27,870
+allargare tutte le osservazioni sia in merito alla diagnosi dei mali che noi compiamo sia
+
+21
+00:02:27,870 --> 00:02:33,630
+in merito anche alcuni accenni propositivi che giungono particolarmente opportuni dato
+
+22
+00:02:33,630 --> 00:02:39,070
+il momento, stasera stessa c'è una regione di governo in materia e domani c'è un dibattito
+
+23
+00:02:39,910 --> 00:02:44,500
+parlamentare ed esiste anche una proposta avanzata dall'opposizione la quale noi in
+
+24
+00:02:44,500 --> 00:02:52,340
+questo testo ci dichiariamo favorevoli quella di una conferenza, più favorevoli alla conferenza
+
+25
+00:02:53,380 --> 00:03:01,080
+che esamine a fondo il problema piuttosto che alla soluzione referendaria sulla quale
+
+26
+00:03:01,080 --> 00:03:06,240
+formuliamo nel testo una critica ritenendo che la materia non debba essere la materia
+
+27
+00:03:06,240 --> 00:03:12,800
+né di accettazioni né di rifiuto. Noi abbiamo intero la coscienza che l'Italia
+
+28
+00:03:12,800 --> 00:03:19,320
+vive a contatto più o meno stretto con molte decine di centrali nucleari e che il problema
+
+29
+00:03:19,320 --> 00:03:23,960
+sicurezza che dovrebbe dominare questo dibattito non possa essere dato per risolto nemmeno
+
+30
+00:03:23,960 --> 00:03:28,760
+attraverso la più drastica decisione di chiusura completa del programma nucleare italiano,
+
+31
+00:03:29,300 --> 00:03:34,540
+ecco perché riteniamo che non si tratti tanto di una moratoria quanto di una mobilitazione
+
+32
+00:03:34,540 --> 00:03:40,640
+tutte le capacità nazionali internazionali ai fini di predisporre le procedure gli strumenti
+
+33
+00:03:40,640 --> 00:03:46,620
+attuativi soprattutto a livello supernazionale. Abbiamo anche una seconda, non dico certezza
+
+34
+00:03:46,620 --> 00:03:50,280
+perché in materia di scienza non abbiamo certezza, la scienza del rifiuto di ogni mito,
+
+35
+00:03:50,400 --> 00:03:55,880
+di ogni dogma e la ragione laica che poi sempre collegge a se stessa, ma comunque abbiamo
+
+36
+00:03:55,880 --> 00:04:00,940
+constatato che l'Italia è strettamente dipendente dall'importazione di prodotti petroliferi
+
+37
+00:04:00,940 --> 00:04:06,680
+il cui prezzo oscilla fortemente ed è destinato a crescere una prospettiva di meglio lungo
+
+38
+00:04:06,680 --> 00:04:13,480
+io ricordo bene il periodo 1973, ricordo quando uovo l'amalfa era ministro del tesoro
+
+39
+00:04:13,480 --> 00:04:18,980
+nell'epoca dell'attacco dei prezzi petroliferi, dell'impennata agli sceicchi e sembrava
+
+40
+00:04:18,980 --> 00:04:25,120
+che le economie industrializzate fossero state inginocchiate dal colpo di alcuni sceicchi,
+
+41
+00:04:25,140 --> 00:04:32,240
+oggi siamo nella fase di risacca perché i prezzi petroliferi stanno abbassando e questo
+
+42
+00:04:32,240 --> 00:04:37,000
+da grandi occasioni che speriamo non saranno perdute la nostra economia, ma non possiamo
+
+43
+00:04:37,840 --> 00:04:43,420
+dipendere in modo certo interrale dagli umori degli sceicchi e dobbiamo porci il problema
+
+44
+00:04:43,960 --> 00:04:48,000
+dell'apporto che può dare il nucleare e di quello che possono dare lo sviluppo delle
+
+45
+00:04:48,000 --> 00:04:54,060
+altre fonti energetiche alternative agli altri petroliferi. Terzo, constatiamo la posizione
+
+46
+00:04:54,060 --> 00:04:59,000
+del vertice dei paesi industrializzati di Tokyo perché l'Italia nonostante tutto è
+
+47
+00:04:59,000 --> 00:05:05,060
+il settimo paese industriale del mondo e fra l'altro ha assunto dopo Chernobyl determinati
+
+48
+00:05:05,060 --> 00:05:12,460
+impegni internazionali che non possono essere disattesi ma vanno valutati nel quadro di
+
+49
+00:05:12,460 --> 00:05:18,780
+una seria riconsiderazione dell'intero problema, di un serio riesame come noi diciamo che comprende
+
+50
+00:05:18,780 --> 00:05:23,360
+anche, qui c'è un paragrafo apposito, una valutazione altrettanto serie dell'impatto
+
+51
+00:05:24,050 --> 00:05:28,600
+ambientale ed ecco perché abbiamo stesso questo invito anche alcuni ambientalisti e perché
+
+52
+00:05:28,600 --> 00:05:32,980
+noi partito dalla tradizione delle prime battaglie ecologiche e addirittura partito
+
+53
+00:05:32,980 --> 00:05:37,140
+che ha inventato il ministero che si chiama dei beni ambientali quando ancora l'aggettivo
+
+54
+00:05:37,140 --> 00:05:43,580
+ambientale non era usato 15 anni fa. Vogliamo porre questa questione e studiare il contemporaneo
+
+55
+00:05:43,580 --> 00:05:48,060
+fra l'esigenza e lo sviluppo economico e quello tra tutela ambientale. Credo quindi
+
+56
+00:05:48,060 --> 00:05:55,660
+di aver impostato i temi fondamentali che saranno specificati dall'amico Bianchi e voglio
+
+57
+00:05:55,660 --> 00:06:00,460
+soprattutto ancora una volta dire quanto io il partito, la direzione, la serreteria
+
+58
+00:06:00,460 --> 00:06:03,640
+siamo grati agli uomini che ci hanno onorato con la loro presenza.
+
+59
+00:06:14,360 --> 00:06:25,360
+Come il presidente Spadolini ha detto, in questa occasione il partito intende sottoporre
+
+60
+00:06:25,360 --> 00:06:33,420
+la discussione, alla discussione degli scienziati che sono intervenuti.
+
+61
+00:06:53,360 --> 00:07:02,860
+La questione del soddisfacimento della domanda di energia italiana che dopo l'incidente
+
+62
+00:07:02,860 --> 00:07:16,940
+di Chernobyl si pone a tutte le forze politiche al Parlamento e al Governo in maniera particolarmente
+
+63
+00:07:16,940 --> 00:07:22,280
+grave. Noi per dare un contributo il più possibile
+
+64
+00:07:22,280 --> 00:07:29,360
+distaccato dalle emozioni del momento che certamente nessuno ha il diritto di ignorare
+
+65
+00:07:29,360 --> 00:07:36,180
+ma nemmeno di strumentalizzare. Abbiamo predisposto un documento che, come
+
+66
+00:07:36,180 --> 00:07:42,520
+il segretario, te stai ricordando, è aperto, quindi è suscettibile di integrazione, di
+
+67
+00:07:42,520 --> 00:07:49,160
+correzione e di miglioramenti di quanti vorranno e potranno dare il loro contributo.
+
+68
+00:07:49,160 --> 00:08:00,480
+La posizione che nel documento è riportata, io cercherò di sintetizzarlo in maniera...
+
+69
+00:08:00,480 --> 00:08:24,500
+in Italia c'è solo sul nucleare. Hanno esteso il concetto di rischio probabilistico
+
+70
+00:08:24,500 --> 00:08:28,120
+alle grandi opere pubbliche, in particolare alle dighe, già da 10 o 15 anni.
+
+71
+00:08:28,120 --> 00:08:33,560
+In Italia il Ministero dei lavori pubblici sta avviando un lavoro per vedere se estenderlo
+
+72
+00:08:33,560 --> 00:08:41,060
+anche in Italia. Quando sarà fatto ci troveremo di fronte allo stesso problema di trasmissione
+
+73
+00:08:41,060 --> 00:08:46,960
+all'opinione pubblica di un concetto che non è più fatto di certezze ma è fatto di probabilità.
+
+74
+00:08:47,240 --> 00:08:52,020
+D'altra parte sappiamo tutti, è stato detto e ripetuto, che dal punto di vista tecnico
+
+75
+00:08:52,980 --> 00:08:59,140
+affermare una certezza, si può sempre soltanto valutare qualche volta con difficoltà una probabilità.
+
+76
+00:09:02,020 --> 00:09:08,670
+Un accenno alla commissione Chemeni. Se si va a leggere la relazione di Chemeni si prende
+
+77
+00:09:09,180 --> 00:09:15,360
+l'ultima relazione di minoranza della signora Trank, che è la Casalinga. La Casalinga fa
+
+78
+00:09:15,360 --> 00:09:20,050
+un'osservazione molto importante, cioè un'osservazione di minoranza, è contro la
+
+79
+00:09:20,050 --> 00:09:26,010
+relazione. Dice che la relazione non ha valutato i rischi psicologici che ha sopportato la
+
+80
+00:09:26,010 --> 00:09:37,010
+popolazione. I rischi psicologici sono stati gravi. La signora Trank fa una critica in
+
+81
+00:09:37,010 --> 00:09:42,030
+parte al comportamento della stampa ma non soltanto. Questo fatto secondo me va tenuto
+
+82
+00:09:42,030 --> 00:09:49,690
+presente. C'è stato un allineamento un po' troppo facile su provvedimenti che molti
+
+83
+00:09:49,690 --> 00:09:58,510
+valutano essere stati eccessivi, senza tener conto di questo. Sulla promena della DISP
+
+84
+00:09:58,510 --> 00:10:03,330
+europea, della DISP dell'internazionalizzazione, della DISP, concordo con quanto ha detto Naschi,
+
+85
+00:10:03,670 --> 00:10:06,890
+aggiungerei semplicemente che bisogna stare attenti. C'è anche un problema di rapporto
+
+86
+00:10:06,890 --> 00:10:12,090
+con l'industria nazionale, cioè l'ente di sicurezza è un ente che in qualche modo
+
+87
+00:10:12,090 --> 00:10:29,830
+ha una funzione di educazione dell'industria. È difficile esercitare questo ruolo da un
+
+88
+00:10:29,830 --> 00:10:34,690
+ente internazionale, perché le industrie ovviamente hanno delle specificità nazionali
+
+89
+00:10:34,690 --> 00:10:40,810
+e la cosa si renderebbe veramente complicata. Per quanto riguarda i controrelatori, l'idea
+
+90
+00:10:41,350 --> 00:10:46,310
+di Nicola Gabibbo mi sembra molto buona, ma mi sembra anche qui che la risposta di Naschi
+
+91
+00:10:46,310 --> 00:10:52,090
+con la indicazione degli Stati Uniti dove i controrelatori sono le associazioni scientifiche
+
+92
+00:10:52,090 --> 00:10:55,610
+mi sembra molto buona anche perché eviterebbe un fatto che a mio parere in questo momento
+
+93
+00:10:55,610 --> 00:11:01,550
+è gravissimo in Italia. Ci sono alcune persone che sono qualificate del termine di scienziati
+
+94
+00:11:01,550 --> 00:11:06,230
+che continuano a tirare fuori i scheletri, a riesumare i scheletri della letteratura
+
+95
+00:11:06,230 --> 00:11:12,030
+internazionale che sono stati dichiarati patentemente falsi e cito uno per tutti Sternglas, ma Sternglas
+
+96
+00:11:12,030 --> 00:11:20,410
+continua a essere citato ad Atiezzi. Questo è un falso di una gravità anche dal punto
+
+97
+00:11:20,410 --> 00:11:26,050
+di vista scientifico, spaventoso quello fatto da Sternglas. Ci sono persone che continuano
+
+98
+00:11:26,050 --> 00:11:31,390
+a tirare fuori Sternglas. Ora, l'avere il fatto che un'associazione
+
+99
+00:11:31,390 --> 00:11:37,170
+scientifica si prenda il ruolo di controrelatore garantisce prima di tutto una certa serietà,
+
+100
+00:11:37,350 --> 00:11:42,950
+ma poi anche un minimo di feedback su queste affermazioni, cioè la persona che fa una
+
+101
+00:11:42,950 --> 00:11:50,530
+certa affermazione sa che poi si deve confrontare non con un microfono televisivo o con una
+
+102
+00:11:51,080 --> 00:11:59,070
+video, ma con dei colleghi, quindi forse ci sarebbe un filo più di prudenza. Per quanto
+
+103
+00:11:59,070 --> 00:12:05,750
+riguarda i veloci, Giorgio La Maffa chiedeva, secondo me Giorgio non c'è, ma secondo me
+
+104
+00:12:05,750 --> 00:12:14,330
+il problema dei veloci io in questo momento non lo vedrei tanto marcato come reattori
+
+105
+00:12:14,330 --> 00:12:21,550
+veloci, mentre affermerei che lo sviluppo tecnologico nel campo della fissione deve
+
+106
+00:12:22,950 --> 00:12:32,110
+procedere. Non è detto quali saranno i passi più immediati, cioè in questo momento ci
+
+107
+00:12:32,110 --> 00:12:36,990
+sono un pochettino di ripensamenti in casa francese e in casa tedesca, quindi vanno
+
+108
+00:12:36,990 --> 00:12:43,650
+misurate le linee di sviluppo tenendo conto anche dei partners europei. Non credo che
+
+109
+00:12:43,650 --> 00:12:49,270
+abbia molto senso muoversi in modo indipendente, mentre varia affermato nel quadro di un nucleare
+
+110
+00:12:49,270 --> 00:12:55,830
+non residuale la necessità dello sviluppo tecnologico nel campo della fissione. Però
+
+111
+00:12:55,830 --> 00:13:13,630
+io volevo centrare il mio intervento su alcuni aspetti di carattere più economico. Giorgio,
+
+112
+00:13:14,390 --> 00:13:22,670
+piuttosto che centrare l'argomento sui veloci, bisognerebbe insistere sul fatto che occorre
+
+113
+00:13:22,670 --> 00:13:29,110
+uno sviluppo tecnologico della fissione. Quali sono le modalità di attuazione di questo
+
+114
+00:13:30,510 --> 00:13:35,650
+sviluppo? Secondo me non può essere soggetto a una decisione così drastica come veloci
+
+115
+00:13:35,650 --> 00:13:41,930
+sì veloci no, reattori ad alta temperatura sì, reattori ad alta temperatura no. Sono
+
+116
+00:13:41,930 --> 00:13:46,110
+decisioni che devono adattarsi un pochettino, seguire un po' quello che avviene sul piano
+
+117
+00:13:46,110 --> 00:13:51,610
+europeo. Sui veloci l'impressione è che ci sia un certo rallentamento quindi è bene
+
+118
+00:13:52,810 --> 00:14:00,130
+seguire quello che avviene in Europa senza vincolarsi troppo, né prenderlo come bandiera
+
+119
+00:14:00,130 --> 00:14:06,990
+e neppure prenderlo come veto assoluto. Quindi avere una posizione più pragmatista su questo
+
+120
+00:14:07,630 --> 00:14:12,390
+problema. Dicevo però che volevo fare alcune osservazioni più di carattere sull'economia
+
+121
+00:14:12,390 --> 00:14:21,450
+del problema. Prima di tutto partendo perché il nucleare, il nucleare serve, utile? Beh
+
+122
+00:14:22,080 --> 00:14:26,950
+in questo momento il basso prezzo del petrolio ha fatto pensare alcuni che ci sia via una
+
+123
+00:14:26,950 --> 00:14:34,430
+situazione di mercato concorrenziale del petrolio, credo che sia un'assurdità che va chiaramente
+
+124
+00:14:35,170 --> 00:14:39,750
+controbattuta, cioè il mercato del petrolio non è mai stato un mercato concorrenziale,
+
+125
+00:14:39,850 --> 00:14:44,730
+non c'è nessun elemento oggi che possa far pensare che lo diventi anzi tutti gli elementi
+
+126
+00:14:44,730 --> 00:14:50,910
+che abbiamo fanno pensare che il cartello, caso mai, che la situazione di restrizione
+
+127
+00:14:50,910 --> 00:14:58,550
+dell'offerta, restrizione di caratteristica dell'offerta si accentui. Quindi il prezzo
+
+128
+00:14:58,550 --> 00:15:01,770
+futuro del petrolio, il prezzo lungo termine del petrolio non è certamente una variabile
+
+129
+00:15:01,770 --> 00:15:08,710
+oggettiva, non ha alcun senso decidere se fare o non fare investimenti di diversificazione sulla
+
+130
+00:15:08,710 --> 00:15:13,330
+base di una variabile che non è una variabile oggettiva quali il prezzo del petrolio, anzi
+
+131
+00:15:13,330 --> 00:15:18,590
+a nostro parere bisogna rovesciare l'argomento e quelle sono le decisioni di diversificazione
+
+132
+00:15:18,590 --> 00:15:25,590
+che si prendono oggi complessivamente nel mondo industrializzato che renderanno meno pesante
+
+133
+00:15:25,590 --> 00:15:30,930
+l'esosità del cartello petrolifero tra venti o trent'anni nel futuro. Quindi la politica
+
+134
+00:15:30,930 --> 00:15:37,790
+energetica non deve essere condizionata da elucubrazioni sui prezzi del petrolio, è
+
+135
+00:15:37,790 --> 00:15:44,970
+il rovescio, è la politica che determinerà il prezzo. Non molta gente sa che l'attuale
+
+136
+00:15:44,970 --> 00:15:52,690
+produzione nucleare è equivalente a circa il 50% della produzione OPEC. Il nucleare
+
+137
+00:15:52,690 --> 00:15:58,430
+ha giocato in questa congiuntura, il nucleare mondiale, sono quasi 6 milioni di barili
+
+138
+00:15:58,430 --> 00:16:08,030
+di giorno. Questo è un'informazione banale che si ha andando a consultare qualunque elenco
+
+139
+00:16:08,030 --> 00:16:13,450
+di dati sull'energia ma non sempre viene valutato abbastanza. Fonte nucleare è utile
+
+140
+00:16:13,450 --> 00:16:19,010
+già stata. Su questo punto sono completamente d'accordo con quanto diceva Umberto Colombo
+
+141
+00:16:19,010 --> 00:16:25,290
+come critica, come rilievo al documento PRI. Secondo me non si deve assolutamente far riferimento
+
+142
+00:16:25,290 --> 00:16:34,170
+alla domanda, bisogna far riferimento essenzialmente ai problemi di offerta. Fonte nucleare è
+
+143
+00:16:34,170 --> 00:16:40,850
+utile perché si lascia la fonte più facile, anche perché si lascia la fonte più facile
+
+144
+00:16:41,590 --> 00:16:47,810
+ai paesi sottosviluppati. Ricordiamo che per quanto riguarda l'energia elettrica, i consumi
+
+145
+00:16:47,810 --> 00:16:52,010
+di energia elettrica in tutto il mondo industrializzato hanno continuato ad aumentare in tutto il periodo
+
+146
+00:16:52,010 --> 00:16:57,770
+del 1973 ad oggi e la penetrazione di energia elettrica è il 32% in media in Italia, in
+
+147
+00:16:57,770 --> 00:17:04,770
+Europa e negli Stati Uniti ma il 39% in Giappone. Quindi questi dati fanno un pochettino pensare
+
+148
+00:17:04,770 --> 00:17:10,530
+quando facciamo il confronto di questi sistemi. La fonte nucleare può essere conveniente
+
+149
+00:17:10,530 --> 00:17:16,850
+dal lato dei costi, vorrei però sollevare un problema, attenzione, può. Come tutti
+
+150
+00:17:16,850 --> 00:17:24,010
+i prodotti industriali il costo dipende da tante cose. La Bugatti e la Fiat Uno sono
+
+151
+00:17:24,010 --> 00:17:29,230
+tutte due automobili, però il costo reale della Bugatti era infinitamente maggiore del
+
+152
+00:17:29,230 --> 00:17:34,410
+costo reale della Fiat Uno. Ora quello che mi domando è se noi stiamo facendo le Bugatti
+
+153
+00:17:34,410 --> 00:17:40,390
+o stiamo facendo le Fiat Uno? Certamente l'impressione è che il nucleare in Italia è più vicino
+
+154
+00:17:40,390 --> 00:17:46,350
+alla Bugatti che alla Fiat Uno. Allora il problema è, e qui mi reallaccio a quanto
+
+155
+00:17:46,350 --> 00:17:52,790
+diceva Fabio Pistella molto bene, il nucleare va fatto se lo si fa nelle condizioni che
+
+156
+00:17:52,790 --> 00:17:56,690
+portano alla convenienza e attenzione anche alla sicurezza, perché anche il problema
+
+157
+00:17:56,690 --> 00:18:02,390
+di sicurezza è un problema di risorse umane e di capacità del sistema di rispondere.
+
+158
+00:18:02,970 --> 00:18:08,390
+Quindi il nucleare va bene se lo si fa in certe condizioni, sennò è meglio lasciarlo.
+
+159
+00:18:08,390 --> 00:18:10,450
+Basta.
+
+160
+00:18:39,910 --> 00:19:05,750
+Data l'ora sarò schematico, così cercheremo di guadagnare tempo. Le proposte contenute
+
+161
+00:19:05,750 --> 00:19:17,170
+in questo documento mi sembrano una base realistica e razionale e quindi le condivido naturalmente
+
+162
+00:19:17,170 --> 00:19:25,250
+con le precisazioni che sono venute fuori con molta evidenza dal dibattito. In particolare
+
+163
+00:19:26,330 --> 00:19:34,890
+diceva che la dispa al compito di educare l'industria e allora proprio per seguire
+
+164
+00:19:34,890 --> 00:19:40,730
+questa educazione direi che l'industria ha preso atto delle precisazioni che ha fatto
+
+165
+00:19:40,730 --> 00:19:48,650
+Naschi e dichiaro di condividerle in pieno. Quindi mi pare che le proposte fatte con le
+
+166
+00:19:49,550 --> 00:19:56,030
+venute fuori dal dibattito siano accettabili per l'industria. Io vorrei veramente sottolineare
+
+167
+00:19:56,030 --> 00:20:01,950
+quello che molto bene ha detto Pistella. La moratoria per l'industria sarebbe la fine,
+
+168
+00:20:03,010 --> 00:20:09,750
+perché a parte il non riuscire a quadrare i conti, come diceva ed è sempre un argomento
+
+169
+00:20:09,750 --> 00:20:17,390
+di tutto rispetto, ci metterebbe nelle condizioni di perdere definitivamente quel patrimonio
+
+170
+00:20:17,390 --> 00:20:25,110
+tecnologico che noi abbiamo accumulato e abbiamo difeso con le unghie e coi denti per 20 anni.
+
+171
+00:20:26,250 --> 00:20:32,750
+Se adesso venisse fuori chiaramente, perché poi la moratoria, anche se fosse una moratoria
+
+172
+00:20:33,470 --> 00:20:39,530
+breve, sappiamo che in Italia di breve non c'è nulla, quindi vorrebbe dire probabilmente
+
+173
+00:20:39,530 --> 00:20:46,530
+la fine del nucleare. Allora a questo punto veramente, pur essendo noi convinti che il
+
+174
+00:20:46,530 --> 00:20:53,470
+nucleare va fatto, preferiremo che fosse scelta, come diceva Pistella, in modo chiaro
+
+175
+00:20:53,470 --> 00:21:00,350
+la rinunzia totale, piuttosto che tenere una situazione in sospeso che non può produrre
+
+176
+00:21:00,350 --> 00:21:07,510
+nessun vantaggio per nessuno. Io credo che con queste brevissime considerazioni, tanto
+
+177
+00:21:07,510 --> 00:21:16,510
+più che veramente l'argomento è stato dibattuto con una tale larghezza di mezzi per cui è
+
+178
+00:21:17,330 --> 00:21:20,410
+aggiungere qualcosa non sia più produttivo.
+
+179
+00:21:27,470 --> 00:21:39,350
+Io penso che si è stato detto quasi tutto, o tutto, e varie volte, varie volte, chiaramente
+
+180
+00:21:39,350 --> 00:21:45,770
+sottolineerò soltanto alcune cose. Io voglio sottolineare un problema che forse è stato
+
+181
+00:21:45,770 --> 00:21:50,370
+detto ma parenteticamente da molti, cioè un problema che secondo me è importante
+
+182
+00:21:50,370 --> 00:21:55,550
+perché riguarda la sicurezza reale. Cioè finora noi abbiamo parlato della struttura
+
+183
+00:21:55,550 --> 00:21:58,810
+della sicurezza e qualche volta anche della sola struttura della sicurezza.
+
