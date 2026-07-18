@@ -1,0 +1,484 @@
+1
+00:00:29,340 --> 00:00:29,900
+Sottotitoli a cura di QTSS
+
+2
+00:00:58,840 --> 00:00:59,980
+Sottotitoli a cura di QTSS
+
+3
+00:01:28,920 --> 00:01:29,980
+Sottotitoli a cura di QTSS
+
+4
+00:01:58,940 --> 00:01:59,960
+Sottotitoli a cura di QTSS
+
+5
+00:02:28,940 --> 00:02:29,960
+Sottotitoli a cura di QTSS
+
+6
+00:02:59,080 --> 00:02:59,980
+Sottotitoli a cura di QTSS
+
+7
+00:03:28,580 --> 00:03:29,980
+Sottotitoli a cura di QTSS
+
+8
+00:03:58,880 --> 00:03:59,980
+Sottotitoli a cura di QTSS
+
+9
+00:04:28,260 --> 00:04:29,980
+Sottotitoli a cura di QTSS
+
+10
+00:04:59,120 --> 00:04:59,980
+Sottotitoli a cura di QTSS
+
+11
+00:05:29,220 --> 00:05:29,980
+Sottotitoli a cura di QTSS
+
+12
+00:05:58,580 --> 00:05:59,980
+Sottotitoli a cura di QTSS
+
+13
+00:06:29,160 --> 00:06:29,980
+Sottotitoli a cura di QTSS
+
+14
+00:06:58,580 --> 00:06:59,980
+Sottotitoli a cura di QTSS
+
+15
+00:07:28,940 --> 00:07:29,980
+Sottotitoli a cura di QTSS
+
+16
+00:07:59,080 --> 00:07:59,980
+Sottotitoli a cura di QTSS
+
+17
+00:08:28,920 --> 00:08:29,980
+Sottotitoli a cura di QTSS
+
+18
+00:08:59,220 --> 00:08:59,940
+Sottotitoli a cura di QTSS
+
+19
+00:09:29,300 --> 00:09:29,980
+Sottotitoli a cura di QTSS
+
+20
+00:09:58,940 --> 00:09:59,980
+Sottotitoli a cura di QTSS
+
+21
+00:10:29,280 --> 00:10:29,940
+Sottotitoli a cura di QTSS
+
+22
+00:10:59,000 --> 00:10:59,980
+Sottotitoli a cura di QTSS
+
+23
+00:11:29,260 --> 00:11:29,920
+Sottotitoli a cura di QTSS
+
+24
+00:11:58,580 --> 00:11:59,980
+Sottotitoli a cura di QTSS
+
+25
+00:12:28,980 --> 00:12:29,980
+Sottotitoli a cura di QTSS
+
+26
+00:12:59,020 --> 00:12:59,960
+Sottotitoli a cura di QTSS
+
+27
+00:13:28,200 --> 00:13:29,960
+Sottotitoli a cura di QTSS
+
+28
+00:13:59,000 --> 00:13:59,980
+Sottotitoli a cura di QTSS
+
+29
+00:14:29,020 --> 00:14:29,980
+Sottotitoli a cura di QTSS
+
+30
+00:14:58,940 --> 00:14:59,980
+Sottotitoli a cura di QTSS
+
+31
+00:15:28,580 --> 00:15:29,980
+Sottotitoli a cura di QTSS
+
+32
+00:15:59,080 --> 00:15:59,940
+Sottotitoli a cura di QTSS
+
+33
+00:16:29,240 --> 00:16:29,980
+Sottotitoli a cura di QTSS
+
+34
+00:16:59,000 --> 00:16:59,980
+Sottotitoli a cura di QTSS
+
+35
+00:17:28,240 --> 00:17:29,980
+Sottotitoli a cura di QTSS
+
+36
+00:17:58,580 --> 00:17:59,980
+Sottotitoli a cura di QTSS
+
+37
+00:18:29,180 --> 00:18:29,920
+Sottotitoli a cura di QTSS
+
+38
+00:18:59,060 --> 00:18:59,980
+Sottotitoli a cura di QTSS
+
+39
+00:19:29,020 --> 00:19:29,980
+Sottotitoli a cura di QTSS
+
+40
+00:19:58,580 --> 00:19:59,980
+Sottotitoli a cura di QTSS
+
+41
+00:20:29,000 --> 00:20:29,980
+Sottotitoli a cura di QTSS
+
+42
+00:20:59,220 --> 00:20:59,960
+Sottotitoli a cura di QTSS
+
+43
+00:21:28,580 --> 00:21:29,980
+Sottotitoli a cura di QTSS
+
+44
+00:21:58,940 --> 00:21:59,980
+Sottotitoli a cura di QTSS
+
+45
+00:22:28,980 --> 00:22:29,980
+Sottotitoli a cura di QTSS
+
+46
+00:22:58,580 --> 00:22:59,980
+Sottotitoli a cura di QTSS
+
+47
+00:23:28,580 --> 00:23:29,980
+Sottotitoli a cura di QTSS
+
+48
+00:23:58,580 --> 00:23:59,980
+Sottotitoli a cura di QTSS
+
+49
+00:24:28,560 --> 00:24:29,980
+Sottotitoli a cura di QTSS
+
+50
+00:24:58,220 --> 00:24:59,980
+Sottotitoli a cura di QTSS
+
+51
+00:25:29,200 --> 00:25:29,980
+Sottotitoli a cura di QTSS
+
+52
+00:25:59,100 --> 00:25:59,980
+Sottotitoli a cura di QTSS
+
+53
+00:26:28,920 --> 00:26:29,980
+Sottotitoli a cura di QTSS
+
+54
+00:26:59,080 --> 00:26:59,980
+Sottotitoli a cura di QTSS
+
+55
+00:27:28,580 --> 00:27:29,980
+Sottotitoli a cura di QTSS
+
+56
+00:27:59,240 --> 00:27:59,980
+Sottotitoli a cura di QTSS
+
+57
+00:28:28,240 --> 00:28:29,980
+Sottotitoli a cura di QTSS
+
+58
+00:28:58,860 --> 00:28:59,980
+Sottotitoli a cura di QTSS
+
+59
+00:29:28,580 --> 00:29:29,980
+Sottotitoli a cura di QTSS
+
+60
+00:29:58,980 --> 00:29:59,960
+Sottotitoli a cura di QTSS
+
+61
+00:30:28,580 --> 00:30:29,980
+Sottotitoli a cura di QTSS
+
+62
+00:30:58,580 --> 00:30:59,980
+Sottotitoli a cura di QTSS
+
+63
+00:31:28,940 --> 00:31:29,980
+Sottotitoli a cura di QTSS
+
+64
+00:31:58,860 --> 00:31:59,980
+Sottotitoli a cura di QTSS
+
+65
+00:32:28,580 --> 00:32:29,980
+Sottotitoli a cura di QTSS
+
+66
+00:32:59,120 --> 00:32:59,980
+Sottotitoli a cura di QTSS
+
+67
+00:33:28,940 --> 00:33:29,980
+Sottotitoli a cura di QTSS
+
+68
+00:33:58,940 --> 00:33:59,980
+Sottotitoli a cura di QTSS
+
+69
+00:34:29,180 --> 00:34:29,980
+Sottotitoli a cura di QTSS
+
+70
+00:34:59,140 --> 00:34:59,920
+Sottotitoli a cura di QTSS
+
+71
+00:35:29,320 --> 00:35:29,980
+Sottotitoli a cura di QTSS
+
+72
+00:35:58,920 --> 00:35:59,980
+Sottotitoli a cura di QTSS
+
+73
+00:36:28,920 --> 00:36:29,980
+Sottotitoli a cura di QTSS
+
+74
+00:36:58,940 --> 00:36:59,980
+Sottotitoli a cura di QTSS
+
+75
+00:37:28,980 --> 00:37:29,980
+Sottotitoli a cura di QTSS
+
+76
+00:37:58,820 --> 00:37:59,980
+Sottotitoli a cura di QTSS
+
+77
+00:38:29,060 --> 00:38:29,920
+Sottotitoli a cura di QTSS
+
+78
+00:38:58,580 --> 00:38:59,980
+Sottotitoli a cura di QTSS
+
+79
+00:39:28,580 --> 00:39:29,980
+Sottotitoli a cura di QTSS
+
+80
+00:39:58,580 --> 00:39:59,980
+Sottotitoli a cura di QTSS
+
+81
+00:40:29,240 --> 00:40:29,980
+Sottotitoli a cura di QTSS
+
+82
+00:40:58,580 --> 00:40:59,980
+Sottotitoli a cura di QTSS
+
+83
+00:41:28,220 --> 00:41:29,980
+Sottotitoli a cura di QTSS
+
+84
+00:41:58,580 --> 00:41:59,980
+Sottotitoli a cura di QTSS
+
+85
+00:42:29,000 --> 00:42:29,980
+Sottotitoli a cura di QTSS
+
+86
+00:42:58,900 --> 00:42:59,980
+Sottotitoli a cura di QTSS
+
+87
+00:43:28,580 --> 00:43:29,980
+Sottotitoli a cura di QTSS
+
+88
+00:43:58,960 --> 00:43:59,980
+Sottotitoli a cura di QTSS
+
+89
+00:44:29,340 --> 00:44:29,900
+Sottotitoli a cura di QTSS
+
+90
+00:44:38,360 --> 00:44:39,700
+Sottotitoli a cura di QTSS
+
+91
+00:44:39,700 --> 00:44:39,760
+Sottotitoli a cura di QTSS
+
+92
+00:44:42,000 --> 00:44:43,320
+Sottotitoli a cura di QTSS
+
+93
+00:44:44,720 --> 00:44:45,560
+Amici
+
+94
+00:44:47,740 --> 00:44:50,100
+Il secondo festival regionale
+
+95
+00:44:50,100 --> 00:44:54,620
+si inizia nel modo più esaltante
+
+96
+00:44:54,620 --> 00:45:00,960
+Con la presenza del segretario nazionale del nostro partito, onorevole Bettino Craxi,
+
+97
+00:45:12,200 --> 00:45:21,800
+a lui innanzitutto rivolgiamo il nostro ringraziamento più caloroso e raffettuoso. La presenza del
+
+98
+00:45:21,800 --> 00:45:29,320
+compagno Craxi non vuole essere solo un fatto formale, un incontro sia pure importante con
+
+99
+00:45:29,320 --> 00:45:39,380
+le istanze del nostro partito, ma vuole essere anche un momento operativo. Credo che le vicende
+
+100
+00:45:39,380 --> 00:45:49,980
+di questi giorni e la grande questione del Paese di un mezzogiorno che si tenta sempre
+
+101
+00:45:49,980 --> 00:46:00,020
+più di isolare di una condizione difficile sul piano economico sociale dell'ordine pubblico sia
+
+102
+00:46:00,020 --> 00:46:09,560
+al centro dell'attenzione dei socialisti e del nostro partito. Ecco, il nostro festival vuole
+
+103
+00:46:09,560 --> 00:46:18,940
+essere un momento di raccordo con i problemi piccoli e grandi della Sicilia e anche questa
+
+104
+00:46:18,940 --> 00:46:29,800
+visita del compagno Craxi ne vuole essere emblema. Il festival è anche un'occasione per proiettare
+
+105
+00:46:29,800 --> 00:46:37,920
+la nostra città, Catania, bella e tormentata, alla ribalta del dibattito nazionale e per proporre
+
+106
+00:46:37,920 --> 00:46:45,460
+al Paese anche l'immagine diversa della nostra terra. Quella chiamiamo chiamare l'altra Sicilia
+
+107
+00:46:45,920 --> 00:46:54,860
+e come fatti recenti dimostrano non è affatto minoritaria e vuole reagire e parlare. Ed è importante
+
+108
+00:46:54,860 --> 00:47:02,820
+questo messaggio arrivi da un partito, il partito socialista, che si batte per affermare i valori
+
+109
+00:47:02,820 --> 00:47:11,140
+del riformismo e del cambiamento. La nostra speranza, ma anche la nostra certezza, lasciatemi
+
+110
+00:47:11,140 --> 00:47:18,820
+dire che la città, la regione, il Paese capiscono questo messaggio di grande novità, il messaggio
+
+111
+00:47:18,820 --> 00:47:25,980
+della politica socialista. Per questo il festival è un grande appuntamento per i socialisti ma
+
+112
+00:47:25,980 --> 00:47:32,940
+anche un grande appuntamento per la Sicilia. Io credo compagni, amici, che questo è il festival
+
+113
+00:47:32,940 --> 00:47:39,740
+dei socialisti ma anche il vostro festival in cui saremo protagonisti tutti insieme in un grande
+
+114
+00:47:39,740 --> 00:47:46,060
+momento di dibattito complessivo che riguarderà i grandi temi della società siciliana. Con queste
+
+115
+00:47:46,060 --> 00:47:51,420
+poche parole compagni mi accingo a dare la parola al compagno Bettino Craxi, segretario nazionale
+
+116
+00:47:51,420 --> 00:47:52,220
+del partito.
+
+117
+00:48:12,020 --> 00:48:23,100
+Mi sono molto grato dell'invito, sono arrivato puntuale e sono felicissimo di partecipare
+
+118
+00:48:23,100 --> 00:48:30,280
+a questo festival catanese e siciliano e sono soprattutto molto contento di essere a Catania
+
+119
+00:48:30,280 --> 00:48:40,980
+questa sera per fare insieme a voi alcune riflessioni. Una riguarda giusto appunto Catania. Con tutti
+
+120
+00:48:40,980 --> 00:48:52,320
+i suoi problemi, con tutte le sue difficoltà questa grande città siciliana non può permettersi
+
+121
+00:48:52,320 --> 00:48:59,980
+il lusso di avere in crisi il Comune e la Provincia. Non può permettersi.
+
