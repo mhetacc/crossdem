@@ -32,7 +32,7 @@ DATA = [
     #("goria", "/soggetti/831/giovanni-goria"),
     #("spadolini", "/soggetti/253/giovanni-spadolini"),
     #("forlani", "/soggetti/1043/arnaldo-forlani"),
-    ("cossiga", "/soggetti/595/francesco-cossiga"),
+    #("cossiga", "/soggetti/595/francesco-cossiga"),
     ("rumor", "/soggetti/1769/mariano-rumor"),
     ("colombo", "/soggetti/6010/colombo-emilio"),
     ("andreotti", "/soggetti/99/giulio-andreotti"),
