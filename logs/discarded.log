@@ -4285,3 +4285,10 @@ forlani  2026-07-19 04:19:58.865074  https://www.radioradicale.it/scheda/8858/ri
 forlani  2026-07-19 04:20:01.631652  https://www.radioradicale.it/scheda/8658/xx-congresso-del-partito-socialdemocratico-italiano?i=2783114  ValueError: No timestamps
 forlani  2026-07-19 04:40:55.782551  https://www.radioradicale.it/scheda/46100/dc-campagna-elettorale-per-le-politiche-92?i=2529251  ValueError: No timestamps
 forlani  2026-07-19 05:07:26.038799  https://www.radioradicale.it/scheda/58786/comizio-finale-del-segretario-della-democrazia-cristiana?i=2419549  ValueError: No timestamps
+forlani  2026-07-19 05:28:59.382336  https://www.radioradicale.it/scheda/31936/elezioni-europee-apertura-della-campagna-elettorale-della-dc?i=2645995  ValueError: No timestamps
+forlani  2026-07-19 05:30:49.798290  https://www.radioradicale.it/scheda/432275/processo-bagarella-ed-altri-presunta-trattativa-stato-mafia?i=2927164  ValueError: No timestamps
+forlani  2026-07-19 05:43:34.944897  https://www.radioradicale.it/scheda/60774/processo-cusani-affare-enimont?i=2402454  ValueError: No timestamps
+forlani  2026-07-19 05:46:24.997080  https://www.radioradicale.it/scheda/33373/elezioni-amministrative-a-roma-presentazione-della-lista-dc?i=2635186  RuntimeError: yt-dlp exited 1
+forlani  2026-07-19 06:03:03.886465  https://www.radioradicale.it/scheda/30890/xviii-congresso-nazionale-dc?i=2655757  ValueError: No timestamps
+forlani  2026-07-19 06:03:05.880484  https://www.radioradicale.it/scheda/6315/xv-congresso-della-democrazia-cristiana?i=2795320  ValueError: No timestamps
+forlani  2026-07-19 06:03:07.825593  https://www.radioradicale.it/scheda/1520/xiv-congresso-della-democrazia-cristiana?i=223225  ValueError: No timestamps
