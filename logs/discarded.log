@@ -4228,3 +4228,6 @@ forlani  2026-07-19 02:00:15.773447  https://www.radioradicale.it/scheda/40700/c
 forlani  2026-07-19 02:13:46.588774  https://www.radioradicale.it/scheda/41805/solidarieta-tra-i-popoli-ricostruire-insieme-la-pace?i=2563486  RuntimeError: yt-dlp exited 1
 forlani  2026-07-19 02:13:50.151510  https://www.radioradicale.it/scheda/37368/la-dc-la-cosa-le-leghe?i=2598027  ValueError: No timestamps
 forlani  2026-07-19 02:18:58.778140  https://www.radioradicale.it/scheda/58800/nel-mondo-nuovo-sviluppo-e-solidarieta?i=2419415  ValueError: No timestamps
+forlani  2026-07-19 02:56:54.697636  https://www.radioradicale.it/scheda/33463/la-dc-e-le-forze-armate?i=2634717  RuntimeError: yt-dlp exited 1
+forlani  2026-07-19 02:56:56.712718  https://www.radioradicale.it/scheda/33662/la-sinistra-possibile?i=2633074  ValueError: No timestamps
+forlani  2026-07-19 02:56:58.387845  https://www.radioradicale.it/scheda/33052/consiglio-nazionale-della-dc?i=2637898  ValueError: No timestamps
