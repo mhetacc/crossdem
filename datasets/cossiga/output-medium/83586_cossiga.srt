@@ -1,0 +1,368 @@
+1
+00:00:00,000 --> 00:00:08,500
+tendere di presentare un libro di economia da parte di chi per anni è stato a lezione
+
+2
+00:00:08,500 --> 00:00:16,400
+privata della stessa del professor Paolo Savone e ha contestato allo stesso anche se scherzosamente
+
+3
+00:00:16,400 --> 00:00:29,160
+il carattere di scienza dell'economia medesima. E devo dire che questo libro, forse questo
+
+4
+00:00:29,160 --> 00:00:37,360
+sarà un atto di presunzione, ma a ciò mi autorizza la dedica che mi ha fatto nella coppia personale
+
+5
+00:00:37,360 --> 00:00:46,440
+che mi ha voluto donare, che questo libro trae un certo senso, se non le mosse la motivazione
+
+6
+00:00:46,440 --> 00:00:55,180
+appunto da vent'anni di discussione che con lui ho avuto e vent'anni di tentativi,
+
+7
+00:00:55,180 --> 00:01:02,820
+credo talvolta largamente infruttuosi, di insegnarmi i fondamenti dell'economia.
+
+8
+00:01:05,280 --> 00:01:12,380
+Proprio perché, e lì se non altro mi ha convinto dell'importanza di conoscere i
+
+9
+00:01:12,380 --> 00:01:18,140
+rudimenti dell'economia non solo e non soltanto per chi abbia responsabilità di governo,
+
+10
+00:01:18,140 --> 00:01:29,160
+ma anche per il cittadino comune che io e altri amici, tra cui anche Leonardo,
+
+11
+00:01:29,160 --> 00:01:35,980
+soprattutto Leonardo Mandadori, abbiamo pressato su di lui per oltre un anno perché
+
+12
+00:01:35,980 --> 00:01:44,140
+di una monumentale opera, da un monumentale scritto sui fondamenti dell'economia, traessi
+
+13
+00:01:44,140 --> 00:01:55,580
+un libro che fosse diretto a un pubblico più vasto che non quello degli specialisti e fosse
+
+14
+00:01:55,580 --> 00:02:03,380
+sfondato di tutte quelle cose difficilissime da capire tra forme matematiche e diagrammi.
+
+15
+00:02:03,380 --> 00:02:12,660
+Non è stata impresa facile perché spingere e convincere un scienziato dell'economia a privarsi
+
+16
+00:02:12,660 --> 00:02:23,240
+delle cose tanto esteticamente anche accattivanti come i diagrammi, le formule matematiche. Comunque
+
+17
+00:02:25,360 --> 00:02:32,500
+non sforzi da parte sua, dopo sforzi da parte nostra esce questo libro, il quale è basato,
+
+18
+00:02:32,500 --> 00:02:43,860
+muove i passi da due convinzioni. Le convinzioni sono queste. La prima è che nella società moderna,
+
+19
+00:02:44,800 --> 00:02:53,440
+in una società democratica aperta, la conoscenza dei fondamenti dell'economia sia più copertura
+
+20
+00:02:53,440 --> 00:03:07,760
+necessaria ad ogni cittadino per poter esprimere un giudizio e per poter decidere. Poi, dalla
+
+21
+00:03:07,760 --> 00:03:16,960
+convinzione che gli ha sempre avuto del carattere di scienza, almeno nel senso poperiano del
+
+22
+00:03:16,960 --> 00:03:26,120
+termine di ipotesi con la quale si possono spiegare anche in modo applicativo i fenomeni che noi viviamo.
+
+23
+00:03:27,080 --> 00:03:40,560
+Si può dire che questo è una specie di filo rosso che segue, attorno al quale è intessuta tutta la sua fatica,
+
+24
+00:03:41,600 --> 00:03:49,440
+tutta la sua fatica lodevole, ma tutta la sua fatica che credo sarà produttiva. Chiarisco subito che il fatto
+
+25
+00:03:49,440 --> 00:03:59,600
+che questo sia un libro non per specialisti non significa che un libro da leggere al letto
+
+26
+00:03:59,600 --> 00:04:09,360
+prima di addormentarsi. Direi, darei il consiglio a nessuno di portarsi al letto prima di addormentarsi
+
+27
+00:04:09,360 --> 00:04:17,920
+perché probabilmente non si addormenterebbe affatto dato il tipo di ragionamento al quale viene invitato
+
+28
+00:04:17,920 --> 00:04:26,060
+chi questo libro legge. Il programma di questo libro è contenuto appunto nel sottotitolo del libro
+
+29
+00:04:26,060 --> 00:04:40,720
+Come orientarsi nella scienza che condiziona la nostra vita. Il suo libro è concepito come un racconto
+
+30
+00:04:40,720 --> 00:04:51,880
+di viaggio, perché questa è una forma nuova, un racconto di un viaggio che l'uomo comune intraprende
+
+31
+00:04:51,880 --> 00:05:02,040
+nel mondo dell'economia e allora così come quando si intraprende un viaggio si fa il bagaglio,
+
+32
+00:05:02,200 --> 00:05:11,200
+si mettono le cose essenziali, poi si acquista la mappa e dalla mappa si vede in quale paese si va,
+
+33
+00:05:11,780 --> 00:05:21,420
+poi si cerca di capire quali sono i costumi delle persone della terra che si fa visitare questo suo libro appunto
+
+34
+00:05:22,900 --> 00:05:43,700
+costruito in questo modo. E termina con uno strano, con un capitolo dallo strano titolo che è esattamente
+
+35
+00:05:43,700 --> 00:05:51,560
+alcune raccomandazioni per visitare il paese dei balocchi, e il paese dei balocchi tutto sommato sarebbe il nostro,
+
+36
+00:05:54,940 --> 00:06:05,880
+poi tu lo dirai insomma, sarebbe il nostro dove tutti cerchiamo la soluzione dei problemi nella fatina famosa
+
+37
+00:06:05,880 --> 00:06:16,780
+che poi sarebbe la versione antidotica dello stellone d'Italia e dove soprattutto si crede che tutto si possa ottenere
+
+38
+00:06:16,780 --> 00:06:26,200
+senza pagare e che niente ci si debba guadagnare. Come tutti i sardi, come la maggior parte dei sardi,
+
+39
+00:06:26,200 --> 00:06:45,280
+Paolo Savona ha un carattere molto grave, un carattere molto serio, molto grave, ma cosa che forse dei sardi non si sa,
+
+40
+00:06:45,280 --> 00:06:55,740
+ma i sardi sono muniti anche di fortissima ironia e di fortissima autoironia. Questa ironia e questa autoironia nel libro
+
+41
+00:06:56,920 --> 00:07:13,940
+è rintracciabile, addirittura nella forma del sarcasmo, dove ad esempio a proposito dell'uso e dell'abuso che si è fatto del nome
+
+42
+00:07:13,940 --> 00:07:25,960
+di Keynes per giustificare la spendita inutile del pubblico denaro, lui prende in giro coloro i quali si sono riempiti alla bocca di Keynes
+
+43
+00:07:25,960 --> 00:07:38,180
+e spiega come il povero Keynes sia stato volgarmente franteso, oppure l'abbiano voluto frantendere.
+
+44
+00:07:38,180 --> 00:07:47,660
+E qui devo dire che non è che questo lui non lo sapesse per carità, ma io ricordo come due o tre anni fa o nel Timeson,
+
+45
+00:07:47,760 --> 00:07:56,880
+addirittura nell'Economist, via una lettera, nel quale l'economist inglese diceva che era l'ora di smetterla, di dare a Keynes la colpa
+
+46
+00:07:56,880 --> 00:08:03,620
+per il deficit, per la politica dello spending deficit, che lui non si era mai sognato di invitare i governanti a buttare
+
+47
+00:08:03,620 --> 00:08:10,460
+il denaro dalla finestra a mandare il bilancio in rosso che lui voleva di tutte altre cose di quelle che gli è stato detto.
+
+48
+00:08:10,800 --> 00:08:22,620
+Questo spirito di sarcasmo viene a ben vedere in tutto quanto il libro, ma la cosa importante di questo libro
+
+49
+00:08:28,180 --> 00:08:41,620
+è che da questo libro viene come dal suo precedente libro La terzietà del capitalismo, viene fuori una figura di Paolo Savona
+
+50
+00:08:42,780 --> 00:08:56,730
+è come di un liberale, liberale nel senso anglosassore del termine, o come si potrebbe dire un liberale, uno che crede all'economia come scienza
+
+51
+00:08:56,730 --> 00:09:08,930
+che crede quindi alla forza delle leggi economiche, che è contrario alle forzature pseudomoralistiche o pseudosociali delle leggi economiche
+
+52
+00:09:09,790 --> 00:09:19,730
+ma che crede che l'economia riguardi persone vivi, una società viva con i loro bisogni
+
+53
+00:09:19,730 --> 00:09:32,730
+e quindi Paolo Savona è certamente uno molto attento e molto rispettoso delle leggi dell'economia, contrari a queste forzature moralistiche
+
+54
+00:09:32,730 --> 00:09:50,070
+ma il ritenere è che la scienza economica e più che altro la politica economica devono avere un orizzonte, un orizzonte morale che riguarda la persona nel suo complesso.
+
+55
+00:09:50,070 --> 00:10:01,070
+Un ricordo, mi sembra, 2-3 anni fa, passeggiando a New York nella quinta, nella quarantasiesima, ho un ricordo che Paolo Savona
+
+56
+00:10:01,070 --> 00:10:20,310
+mi indicava quelli che erano i frutti di una politica di mercato, possiamo dire, neanche economicamente equilibrata, nella esistenza di molteplici negozi
+
+57
+00:10:20,310 --> 00:10:36,310
+che sfavillavano di gheggisi più moderni ma tutti ripetuti tra di loro anche a distanza di 5-6 mesi e diceva guarda a che cosa ha portato una falsa concezione dell'economia liberale
+
+58
+00:10:36,890 --> 00:10:43,410
+mentre vi sono parti del pianeta dove si soffre la fame.
+
+59
+00:10:46,190 --> 00:11:04,910
+Questo orizzonte morale che si dà Paolo Savona lo porta a ricercare come già aveva fatto nel libro precedente in cui aveva soprattutto preso in esame la dott. sociale cattolica
+
+60
+00:11:04,910 --> 00:11:16,910
+per l'importanza che essa viene ad avere nel mondo occidentale per l'influenza della chiesa cattolica e del suo insegnamento in materia sociale, quindi anche in materia economica
+
+61
+00:11:16,910 --> 00:11:34,150
+su parte consistente non soltanto dei politici ma dei soggetti che operano nel mondo occidentale e alla ricerca di un punto, diciamo così, di equilibrio, ma di equilibrio razionale
+
+62
+00:11:34,150 --> 00:11:50,150
+non un punto di equilibrio geometrico né geometrico né sentimentale tra quelli che l'identifica come il principio della libertà totucor e il principio delle garanzie.
+
+63
+00:11:50,150 --> 00:12:04,460
+Cioè gli ritiene che in fondo due concezioni almeno per quanto riguarda l'economia si siano fronteggiati in questi anni, poi con nomi diversi.
+
+64
+00:12:05,900 --> 00:12:24,460
+Una concezione per cui il principio della libertà è il principio della libertà anche economica intesa come l'accettazione di tutte le conseguenze del meccanismo economico
+
+65
+00:12:28,720 --> 00:12:50,460
+debba essere il principio che guida la società e ad esempio dice che se ti diamo fino alle extreme conseguenze questo principio, ecco, il sogno di qualunque capitalista è di essere un monopolista.
+
+66
+00:12:52,240 --> 00:13:05,460
+Ciò che va contro i principi dell'economia di mercato ma non si può chiedere, tutti in realtà coloro i quali agiscono nella società economica aspirano ad effettare monopolisti.
+
+67
+00:13:07,020 --> 00:13:34,120
+E dall'altra parte il principio delle garanzie e c'è un principio che fu consacrato così direi con spirito moralistico e con molto sentimentalismo da Lord Beveridge per cui l'uomo dovrebbe essere garantito e protetto dalla culla fino alla tomba.
+
+68
+00:13:34,120 --> 00:13:52,120
+E dice che in realtà le due espressioni estreme di questi due principi sono stati da un lato il capitalismo salvaggio o addirittura e soprattutto il capitalismo garantito dal capitalismo non volere democrazia.
+
+69
+00:13:54,360 --> 00:14:17,320
+La storia ci ha dato esempi di capitalismo in regime autoritario-dittatoriale e addirittura di capitalismo garantito da dittature e dall'altra parte la concezione estrema di un sistema di garanzie era dato dal socialismo reale di liegno.
+
+70
+00:14:17,320 --> 00:14:46,060
+E qui lui introduce insomma con molta onestà una distinzione che purtroppo adesso è sfuggita tra quello che è stato lo stato stalinista, cioè lo stato di Stalin, e la concezione forse anche un po' utopica di Lenin che concepiva una sorta di democrazia ma probabilmente aveva ragione Stalin.
+
+71
+00:14:47,320 --> 00:15:05,420
+E quindi sono stati sul piano della storia e sul piano della brutalità politica perché una società e uno stato come le concepiva Lenin probabilmente non avrebbero avuto il modo di realizzarsi o di sussistere.
+
+72
+00:15:05,420 --> 00:15:32,920
+E allora qui sono questi due principi. Il principio della libertà assoluta e il principio della garanzia assoluta. Il principio della libertà assoluta può portare non solo a gravi difunzioni nel campo della società con quello che il costo delle conseguenze della povertà, della fame e così via.
+
+73
+00:15:32,920 --> 00:15:56,080
+E il principio della garanzia assoluta va a portare necessariamente a quello che egli chiama giustamente il socialismo reale, che ha tutta una serie di varie garanzie che certamente non è che egli chi sussume sotto il Leninismo tutte le forme di socialismo reale.
+
+74
+00:15:56,080 --> 00:16:07,960
+Ma socialismo reale lo abbiamo anche ampiamente. Abbiamo frammenti sotto il socialismo reale, l'abbiamo avuti nel nostro Paese e probabilmente ci sono ancora.
+
+75
+00:16:07,960 --> 00:16:27,460
+E egli, non solo lui ma lui è quello che forse ne parla per primo in Italia, è andato a ricercare anche nelle recenti tendenze dell'insegnamento pontificio,
+
+76
+00:16:27,460 --> 00:16:44,980
+perché Paolo Savona è uno dei pochi credo anche che si sia letto le incitini che pontifici e le abbia esaminate e le abbia studiato forse senza di lui, non avrei letto neanche io, sembrava strano che non le legisse a poco.
+
+77
+00:16:46,540 --> 00:17:09,200
+Allora lui lo cerca in un principio di responsabilità, ce lo dice la società moderna, una società che necessariamente deve essere una società che rispetta i meccanismi della scienza economica che sono ispirati ai principi di libertà economica,
+
+78
+00:17:09,200 --> 00:17:26,780
+non dimentichiamoci mai che Marx era un economista classico, non è che Marx non si fosse inventato strane teorie economiche, Marx credeva a tutte quelle leggi,
+
+79
+00:17:26,780 --> 00:17:46,920
+perché non si guardava bene dall'aver inventato leggi economiche e proprio dava un accento di liberazione politica e sociale all'effetto di quelle leggi, cioè il principio di responsabilità, per cui un sistema, perché sia un sistema che porta ad una società democratica,
+
+80
+00:17:46,920 --> 00:18:13,360
+non deve essere basato sulla responsabilità, la responsabilità dell'escente, la responsabilità degli oneri, cioè un sistema che dà a ciascuno la possibilità di scegliere, di assumersi della responsabilità e assumendosi della responsabilità può votarsi alla povertà o può votarsi non di colpo ad essere ma a una vita decorosa.
+
+81
+00:18:15,440 --> 00:18:31,280
+Un'altra cosa che fa parte, diciamo, dello spirito sarcastico, dello spirito ironico del nostro è che parlando della politica economica, tu non hai mai segnato politica economica?
+
+82
+00:18:33,300 --> 00:18:54,280
+Politica economica? Allora lui dice sì, la politica economica e cioè l'intervento dello Stato su alcune variabili del processo economico in modo da produrre effetti positivi da un punto di vista scientifico è una cosa valida.
+
+83
+00:18:54,280 --> 00:19:13,640
+Solo in una sola pagina, in una sola pagina, introduce dei dubbi non sulla validità del concetto scientifico di politica economica, perché questo è come la coperta.
+
+84
+00:19:14,780 --> 00:19:41,200
+Allora, come edi si introduce dei dubbi che la politica economica così come scientificamente concepita sia poi realizzabile, sia perché una politica economica in grado di produrre i suoi effetti dovrebbe avere un background di conoscenza della realtà che oggi, e non solo oggi, anche ieri,
+
+85
+00:19:41,200 --> 00:19:59,200
+ma oggi specialmente in una complessità dei fenomeni economici è difficile avere in tempo reale. E poi perché i meccanismi decisionali propri delle società moderne non permettono di prendere tempestivamente le decisioni
+
+86
+00:20:01,020 --> 00:20:19,320
+di intervenire sulle variabili, che prima bisogna individuare quali sono le variabili sulle quali intervenire, non permettono di agire perché il processo economico e l'effetto delle leggi economiche non è che lo possiamo fermare.
+
+87
+00:20:19,320 --> 00:20:38,600
+Ranno avanti probabilmente quando si interviene in modo sbagliato, e questo è un discorso che dovrebbe sviluppare su quella che nella costituzione di uno stato democratico viene chiamata la costituzione economica.
+
+88
+00:20:40,560 --> 00:21:03,700
+Se poi si vuole guardare con attenzione questo libro, il filo rosso che lo guida, e si vede come dietro questo libro c'è una passione politica, nel senso greco del termine, come questo libro si è in fondo un po' anche un manifesto, sia anche un programmo,
+
+89
+00:21:03,700 --> 00:21:13,700
+anche almeno in questo libro ci siano i prolegomini di un manifesto e di un programma, che io chiamerei il manifesto della responsabilità.
+
+90
+00:21:14,880 --> 00:21:28,500
+E anche per questo, oltre che per il suo sforzo di farci capire cose certamente difficili, ripeto da una legge di notte, io credo che noi dobbiamo essere grati.
+
+91
+00:21:28,500 --> 00:21:46,680
+Dobbiamo essere grati a Paolo Sardona per aver scritto con grande sforzo, non con sforzo intellettuale, ma con lo sforzo di rendere semplici le cose difficili e comprensibili, le cose talvolta incomprensibili, dobbiamo essere grati anche per questo.
+
+92
+00:21:54,800 --> 00:21:56,540
+Eccomi qua.
+
