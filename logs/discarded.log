@@ -4292,3 +4292,7 @@ forlani  2026-07-19 05:46:24.997080  https://www.radioradicale.it/scheda/33373/e
 forlani  2026-07-19 06:03:03.886465  https://www.radioradicale.it/scheda/30890/xviii-congresso-nazionale-dc?i=2655757  ValueError: No timestamps
 forlani  2026-07-19 06:03:05.880484  https://www.radioradicale.it/scheda/6315/xv-congresso-della-democrazia-cristiana?i=2795320  ValueError: No timestamps
 forlani  2026-07-19 06:03:07.825593  https://www.radioradicale.it/scheda/1520/xiv-congresso-della-democrazia-cristiana?i=223225  ValueError: No timestamps
+cossiga  2026-07-19 06:36:23.961381  https://www.radioradicale.it/scheda/232888/da-cavour-a-berlusconi-presentazione-in-anteprima-assoluta-del-nuovo-libro-di?i=1128418  ValueError: No timestamps
+cossiga  2026-07-19 07:10:27.088264  https://www.radioradicale.it/scheda/204534/picconare-o-puntellare-esternazioni-di-francesco-cossiga-con-angelo-panebianco-ed?i=1267521  ValueError: No timestamps
+cossiga  2026-07-19 07:10:28.938970  https://www.radioradicale.it/scheda/200262/geopolitica-dello-spazio-potere-e-ricchezza-nel-futuro-del-pianeta?i=1094567  ValueError: No timestamps
+cossiga  2026-07-19 07:12:05.350050  https://www.radioradicale.it/scheda/197218/la-cultura-politica-di-ispirazione-cristiano-democratica-dalla-nouvelles-equipes?i=1014180  ValueError: No timestamps
