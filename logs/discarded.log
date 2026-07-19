@@ -4283,3 +4283,5 @@ forlani  2026-07-19 04:19:55.186687  https://www.radioradicale.it/scheda/14465/c
 forlani  2026-07-19 04:19:57.037537  https://www.radioradicale.it/scheda/12113/terrorismo-mediorientale-sequestro-della-nave-achille-lauro?i=2776637  ValueError: No timestamps
 forlani  2026-07-19 04:19:58.865074  https://www.radioradicale.it/scheda/8858/riunione-del-consiglio-dei-ministri?i=2782758  ValueError: No timestamps
 forlani  2026-07-19 04:20:01.631652  https://www.radioradicale.it/scheda/8658/xx-congresso-del-partito-socialdemocratico-italiano?i=2783114  ValueError: No timestamps
+forlani  2026-07-19 04:40:55.782551  https://www.radioradicale.it/scheda/46100/dc-campagna-elettorale-per-le-politiche-92?i=2529251  ValueError: No timestamps
+forlani  2026-07-19 05:07:26.038799  https://www.radioradicale.it/scheda/58786/comizio-finale-del-segretario-della-democrazia-cristiana?i=2419549  ValueError: No timestamps
