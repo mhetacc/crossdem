@@ -4296,3 +4296,6 @@ cossiga  2026-07-19 06:36:23.961381  https://www.radioradicale.it/scheda/232888/
 cossiga  2026-07-19 07:10:27.088264  https://www.radioradicale.it/scheda/204534/picconare-o-puntellare-esternazioni-di-francesco-cossiga-con-angelo-panebianco-ed?i=1267521  ValueError: No timestamps
 cossiga  2026-07-19 07:10:28.938970  https://www.radioradicale.it/scheda/200262/geopolitica-dello-spazio-potere-e-ricchezza-nel-futuro-del-pianeta?i=1094567  ValueError: No timestamps
 cossiga  2026-07-19 07:12:05.350050  https://www.radioradicale.it/scheda/197218/la-cultura-politica-di-ispirazione-cristiano-democratica-dalla-nouvelles-equipes?i=1014180  ValueError: No timestamps
+cossiga  2026-07-19 07:33:35.968142  https://www.radioradicale.it/scheda/237158/diciamoci-tutto-enrico-cisnetto-intervista-francesco-cossiga?i=1106947  ValueError: No timestamps
+cossiga  2026-07-19 07:37:08.564340  https://www.radioradicale.it/scheda/161934/con-occhi-nuovi-la-storia-della-mia-conversione?i=1341900  RuntimeError: yt-dlp exited 1
+cossiga  2026-07-19 08:14:32.688903  https://www.radioradicale.it/scheda/157800/lagiustizia-penale-italiana-tra-tensioni-nazionali-e-prospettive-europee-organizzato?i=1383431  ValueError: No timestamps
