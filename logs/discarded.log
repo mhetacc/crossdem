@@ -4454,3 +4454,11 @@ cossiga  2026-07-20 00:24:33.854027  https://www.radioradicale.it/scheda/155179/
 cossiga  2026-07-20 00:24:37.706671  https://www.radioradicale.it/scheda/149573/il-paradosso-socialista-da-turati-e-craxi-a-berlusconi-presentazione-del-libro-di?i=1459015  ValueError: No timestamps
 cossiga  2026-07-20 00:24:38.471328  https://www.radioradicale.it/scheda/149574/verso-una-nuova-civilta-sessione-dinsediamento-del-world-political-forum-organizzato?i=1458972  ValueError: No timestamps
 cossiga  2026-07-20 00:24:39.755544  https://www.radioradicale.it/scheda/145931/dove-va-il-partito-popolare-europeo-organizzato-dal-circolo-la-margherita-aldo-moro?i=1494977  ValueError: No timestamps
+rumor  2026-07-20 00:29:52.280210  https://www.radioradicale.it/scheda/58759/la-forma-partito-nellesperienza-storica-della-dc?i=2419847  ValueError: No timestamps
+rumor  2026-07-20 00:44:37.427314  https://www.radioradicale.it/scheda/58713/le-correnti-nella-storia-della-dc?i=2420197  ValueError: No timestamps
+rumor  2026-07-20 00:44:38.920324  https://www.radioradicale.it/scheda/11283/referendum-contingenza-consiglio-nazionale-dc?i=2778868  ValueError: No timestamps
+rumor  2026-07-20 00:44:40.610483  https://www.radioradicale.it/scheda/22090/strage-di-peteano?i=2719181  ValueError: No timestamps
+rumor  2026-07-20 00:55:59.995085  https://www.radioradicale.it/scheda/19889/xvi-congresso-della-democrazia-cristiana?i=2735358  ValueError: No timestamps
+rumor  2026-07-20 00:56:01.908107  https://www.radioradicale.it/scheda/1520/xiv-congresso-della-democrazia-cristiana?i=223224  ValueError: No timestamps
+andreotti  2026-07-20 01:07:12.782153  https://www.radioradicale.it/scheda/274281/la-nascita-della-repubblica-italiana-raccontata-da-giulio-andreotti?i=706574  ValueError: No timestamps
+andreotti  2026-07-20 01:08:09.136372  https://www.radioradicale.it/scheda/246213/romano-battaglia-intervista-giulio-andreotti?i=1066652  FileNotFoundError: [Errno 2] No such file or directory: '/home/mhetac/Documents/GitHub/crossdem/datasets/andreotti/audio_out/_out_246213_andreotti.mp3' -> '/home/mhetac/Documents/GitHub/crossdem/datasets/andreotti/audio_out/246213_andreotti.mp3'
