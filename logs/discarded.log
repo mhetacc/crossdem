@@ -4516,3 +4516,8 @@ andreotti  2026-07-20 18:21:41.091915  https://www.radioradicale.it/scheda/87790
 andreotti  2026-07-20 18:54:12.020533  https://www.radioradicale.it/scheda/56354/la-presenza-politica-dei-cattolici-in-italia-quarantanni-di-storia?i=2442612  ValueError: No timestamps
 andreotti  2026-07-20 18:54:13.551034  https://www.radioradicale.it/scheda/54853/ezio-vanoni-il-sogno-della-giustizia-fiscale?i=2458174  ValueError: No timestamps
 andreotti  2026-07-20 19:11:18.846894  https://www.radioradicale.it/scheda/48975/presentazione-del-libro-appunti-cinesi-di-antonio-rubbi?i=2507945  ValueError: No timestamps
+andreotti  2026-07-20 19:33:28.771835  https://www.radioradicale.it/scheda/46820/la-cultura-democristiana-tra-chiesa-cattolica-e-identita-cristiana-1918-1948?i=2523768  ValueError: No timestamps
+andreotti  2026-07-20 20:08:32.496424  https://www.radioradicale.it/scheda/43850/governare-la-crisi-dal-1944-ad-oggi?i=2545298  ValueError: No timestamps
+andreotti  2026-07-20 20:17:05.478385  https://www.radioradicale.it/scheda/43028/lefficienza-della-democrazia?i=2554109  ValueError: No timestamps
+andreotti  2026-07-20 20:17:07.256995  https://www.radioradicale.it/scheda/43063/vii-assemblea-nazionale-dei-quadri-cisl?i=2553954  ValueError: No timestamps
+andreotti  2026-07-20 20:21:41.888542  https://www.radioradicale.it/scheda/43667/dalla-rerum-novarum-alla-centesimus-annus?i=2546726  RuntimeError: yt-dlp exited 1
