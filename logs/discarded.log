@@ -4482,3 +4482,11 @@ andreotti  2026-07-20 11:20:27.479760  https://www.radioradicale.it/scheda/14823
 andreotti  2026-07-20 11:45:54.670499  https://www.radioradicale.it/scheda/144611/un-confronto-fra-ieri-e-oggi-nel-mondo-della-politica-e-delle-relazioni-umane-con-due?i=1507363  ValueError: No timestamps
 andreotti  2026-07-20 11:49:15.161200  https://www.radioradicale.it/scheda/147130/i-nonni-della-repubblica-presentazione-del-libro-di-giulio-andreotti-ed-rizzoli?i=1484053  ValueError: No timestamps
 andreotti  2026-07-20 11:57:40.612043  https://www.radioradicale.it/scheda/147140/lo-stato-lintesa-i-musulmani-ditalia-organizzato-dallassociazione-per-le-liberta-e?i=1483938  ValueError: No timestamps
+andreotti  2026-07-20 13:24:15.160107  https://www.radioradicale.it/scheda/139576/due-esperienze-internazionali-a-confronto-organizzato-nellambito-degli-incontri-al?i=1557297  ValueError: No timestamps
+andreotti  2026-07-20 13:25:06.740257  https://www.radioradicale.it/scheda/138425/democrazia-europea-giulio-andreottiincontra-il-mondo-della-cultura-e?i=1567522  RuntimeError: yt-dlp exited 1
+andreotti  2026-07-20 13:28:24.082795  https://www.radioradicale.it/scheda/139051/la-lunga-strada-per-hammamet-presentazione-del-libro-di-arturo-gismondi-organizzata?i=1561850  ValueError: No timestamps
+andreotti  2026-07-20 13:33:47.219501  https://www.radioradicale.it/scheda/129673/libera-societa-e-libero-stato-assemblea-nazionale-della-compagnia-delle-opere?i=1648660  ValueError: No timestamps
+andreotti  2026-07-20 13:44:09.496289  https://www.radioradicale.it/scheda/137360/incontro-con-il-senatore-giulio-andreotti-su-pio-ix-e-sulle-iniziative-culturali-della?i=1576226  ValueError: No timestamps
+andreotti  2026-07-20 13:44:11.064751  https://www.radioradicale.it/scheda/127277/luigi-gedda-ricordo-di-un-uomo-complesso-forum-promosso-dalla-rivista-politica?i=1670053  ValueError: No timestamps
+andreotti  2026-07-20 13:52:43.271820  https://www.radioradicale.it/scheda/136589/solo-euro-o-anche-europa-organizzato-da-progetto-citta-giovani-in-politica-presso-il?i=1583110  ValueError: No timestamps
+andreotti  2026-07-20 14:05:57.394257  https://www.radioradicale.it/scheda/135382/enzo-biagi-intervista-giulio-andreotti-organizzato-da-lapam-federimpresa-presso?i=1596159  ValueError: No timestamps
