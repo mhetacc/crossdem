@@ -4497,3 +4497,7 @@ andreotti  2026-07-20 15:28:42.819935  https://www.radioradicale.it/scheda/12926
 andreotti  2026-07-20 15:54:09.711420  https://www.radioradicale.it/scheda/126353/incontro-con-giulio-andreotti-org-da-progetto-citta-giovani-in-politica-presso-il?i=1679427  ValueError: No timestamps
 andreotti  2026-07-20 15:54:13.351947  https://www.radioradicale.it/scheda/126343/loro-da-mosca-presentazione-del-libro-di-valerio-riva-ed-mondadori-org-da-forza-italia?i=1679585  ValueError: No timestamps
 andreotti  2026-07-20 16:07:51.939166  https://www.radioradicale.it/scheda/115599/i-quattro-del-gesu-presentazione-del-libro-di-giulio-andreotti-presso-la-libreria?i=1806202  ValueError: No timestamps
+andreotti  2026-07-20 16:13:09.694853  https://www.radioradicale.it/scheda/125549/europa-e-terzo-mondo-org-dal-partito-popolare-italiano-nellambito-della-festa?i=1693052  ValueError: No timestamps
+andreotti  2026-07-20 16:13:12.869765  https://www.radioradicale.it/scheda/125270/a-non-domanda-rispondo-presentazione-del-libro-di-giulio-andreotti-ed-rizzoli-org-da?i=1694824  ValueError: No timestamps
+andreotti  2026-07-20 16:21:27.166167  https://www.radioradicale.it/scheda/112369/a-dieci-anni-dalla-caduta-del-muro-di-berlino-istruttoria-per-un-processo-storico-al?i=1840203  ValueError: No timestamps
+andreotti  2026-07-20 16:43:55.665202  https://www.radioradicale.it/scheda/123154/leuropa-ieri-oggi-e-domani-lezione-organizzata-nel-quinto-giorno-del-corso-di-pubblica?i=1721711  ValueError: No timestamps
