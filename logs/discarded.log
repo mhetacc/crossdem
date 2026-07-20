@@ -4532,3 +4532,9 @@ andreotti  2026-07-20 21:46:55.029345  https://www.radioradicale.it/scheda/33836
 andreotti  2026-07-20 22:01:22.661522  https://www.radioradicale.it/scheda/58780/lo-schok-da-perestrojka?i=2419585  ValueError: No timestamps
 andreotti  2026-07-20 22:01:24.708536  https://www.radioradicale.it/scheda/33052/consiglio-nazionale-della-dc?i=2637901  ValueError: No timestamps
 andreotti  2026-07-20 22:01:26.389022  https://www.radioradicale.it/scheda/32967/il-paradosso-della-democrazia-difesa-dellimperfezione?i=2638418  ValueError: No timestamps
+andreotti  2026-07-20 23:43:36.008665  https://www.radioradicale.it/scheda/25062/progettiamo-insieme-il-futuro?i=2701710  ValueError: No timestamps
+andreotti  2026-07-20 23:43:37.524220  https://www.radioradicale.it/scheda/25072/la-vera-politica-e-vivere?i=2701654  ValueError: No timestamps
+andreotti  2026-07-20 23:54:05.348336  https://www.radioradicale.it/scheda/58746/festa-dellamicizia?i=2419989  ValueError: No timestamps
+andreotti  2026-07-21 00:22:42.197001  https://www.radioradicale.it/scheda/16724/libro-il-nuovo-concordato?i=2760327  ValueError: No timestamps
+andreotti  2026-07-21 00:36:28.515253  https://www.radioradicale.it/scheda/14791/per-una-comunicazione-di-pace?i=2768690  ValueError: No timestamps
+andreotti  2026-07-21 00:36:31.739409  https://www.radioradicale.it/scheda/13767/la-politica-estera-dellitalia?i=2771856  ValueError: No timestamps
