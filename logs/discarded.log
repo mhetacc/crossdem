@@ -4512,3 +4512,7 @@ andreotti  2026-07-20 17:46:53.165071  https://www.radioradicale.it/scheda/98462
 andreotti  2026-07-20 17:48:47.798390  https://www.radioradicale.it/scheda/102959/leuropa-e-il-suo-futuro-riflessioni-a-30-anni-dalla-morte-di-gaetano-martino-e-a-40?i=1946322  RuntimeError: yt-dlp exited 1
 andreotti  2026-07-20 17:48:50.251872  https://www.radioradicale.it/scheda/101713/storia-della-dc-lezione-con-il-senatore-giulio-andreotti-nellambito-del-primo-corso-di?i=1964604  ValueError: No timestamps
 andreotti  2026-07-20 17:48:52.325573  https://www.radioradicale.it/scheda/101710/cerimonia-di-inaugurazione-del-primo-corso-di-formazione-politica-e-seguente-incontro?i=1964667  ValueError: No timestamps
+andreotti  2026-07-20 18:21:41.091915  https://www.radioradicale.it/scheda/87790/crisi-dei-partiti-politici-lezione-org-dalla-facolta-di-lettere-della-iii-universita-di?i=2147345  ValueError: No timestamps
+andreotti  2026-07-20 18:54:12.020533  https://www.radioradicale.it/scheda/56354/la-presenza-politica-dei-cattolici-in-italia-quarantanni-di-storia?i=2442612  ValueError: No timestamps
+andreotti  2026-07-20 18:54:13.551034  https://www.radioradicale.it/scheda/54853/ezio-vanoni-il-sogno-della-giustizia-fiscale?i=2458174  ValueError: No timestamps
+andreotti  2026-07-20 19:11:18.846894  https://www.radioradicale.it/scheda/48975/presentazione-del-libro-appunti-cinesi-di-antonio-rubbi?i=2507945  ValueError: No timestamps
