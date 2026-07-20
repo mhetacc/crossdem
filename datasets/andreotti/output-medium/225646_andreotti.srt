@@ -1,0 +1,796 @@
+1
+00:00:00,000 --> 00:00:13,740
+Nel gergo romano dei tempi della mia fanciullezza, la banca d'Italia era il sintomo della ricchezza,
+
+2
+00:00:14,140 --> 00:00:24,000
+quando si faceva una proposta di una specie di banca di Italia, perché era l'emissione della moneta.
+
+3
+00:00:24,740 --> 00:00:35,330
+In un certo senso, ma questa è la fine del ciclo, o comunque di un ciclo, quando si è istituita la moneta unica,
+
+4
+00:00:36,540 --> 00:00:41,000
+allora è venuto a meno un ruolo importante del governatore del casso di canto.
+
+5
+00:00:43,060 --> 00:00:51,760
+Io mi congratulo con Elena Polidori per questo libro, che ho letto volentieri, tanto più che è venuto fuori in un momento
+
+6
+00:00:51,760 --> 00:01:01,040
+in cui ci sono state molte polemiche. Io prima ricordavo Polidori poche settimane prima.
+
+7
+00:01:01,320 --> 00:01:10,220
+Io ero stato ospite di quelle cerimonie che fanno quando festeggiano coloro che sono da trent'anni in banca d'Italia.
+
+8
+00:01:10,620 --> 00:01:19,420
+Ho fatto l'elogio convinto che mantengo della banca d'Italia e mantengo anche nei confronti di fazio.
+
+9
+00:01:19,420 --> 00:01:33,520
+Mi è sembrato molto ingiusto questo suo lapidarlo. Io forse sono fazioso perché fazio veniva giovane a piedi,
+
+10
+00:01:33,620 --> 00:01:39,840
+dal dito a sora a sentire un mio comizio. Quindi in un certo senso io ho una gratitudine.
+
+11
+00:01:40,540 --> 00:01:47,840
+Poi conosco della ciocciaria l'impilità della sua famiglia, come questa famiglia che è cresciuta da niente.
+
+12
+00:01:47,840 --> 00:01:54,920
+Però non è di questo che dobbiamo parlare. Io vorrei dire pochissime cose di presentazione del libro,
+
+13
+00:01:55,280 --> 00:02:02,980
+perché, come sempre, quando si presenta un libro bisogna poi eccitare l'interesse a procurarselo, a leggerlo.
+
+14
+00:02:03,860 --> 00:02:11,680
+Quindi si deve dire tutto. Volevo però aggiungere una cosa e la pongo come studio a Elena Polidori,
+
+15
+00:02:11,680 --> 00:02:16,780
+che può andare a ricercare negli archivi e forse scriverci qualche cosa.
+
+16
+00:02:17,900 --> 00:02:28,720
+La mia fonte era Paratore, non il latinista, Paratore presidente della commissione finanze al Senato,
+
+17
+00:02:29,020 --> 00:02:40,060
+a suo tempo il segretario particolare di Crispi, quindi aveva tutta una sua anedotica, per cui era preziosissimo il colloquio con lui.
+
+18
+00:02:40,060 --> 00:02:44,380
+Una delle cose che più volte mi ha detto fu questa.
+
+19
+00:02:46,440 --> 00:02:59,060
+In piena tensione, ottobre 1922, vigilia della Marcha su Roma, era stata organizzata a impulso del presidente Nitti
+
+20
+00:02:59,700 --> 00:03:05,160
+una grande manifestazione di ex combattenti a Roma il 4 novembre
+
+21
+00:03:05,160 --> 00:03:14,080
+e doveva in un certo senso servire a bilanciare questo movimento di disordine che c'era.
+
+22
+00:03:15,060 --> 00:03:26,640
+Il organizzatore al centro era D'Annunzio e erano stati dati 7 milioni dell'epoca per organizzare questo.
+
+23
+00:03:28,080 --> 00:03:35,740
+Non è improbabile che l'accelerazione della Marcha su Roma, il 28, fosse derivata anche da questo,
+
+24
+00:03:36,100 --> 00:03:43,820
+che certamente poi organizzando una cosa così di ampe dimensioni non è che si teneva il segreto.
+
+25
+00:03:44,100 --> 00:03:53,440
+Allora probabilmente la Marcha su Roma ha recorso e ha reso non solo inutile ma inattuabile questo movimento.
+
+26
+00:03:53,440 --> 00:04:02,440
+Allora c'era la questione dei 7 milioni perché Paratoi naturalmente al suo successore De Stefani,
+
+27
+00:04:03,380 --> 00:04:14,920
+dirgli che in fondo avevano avuto 7 milioni presi dai fondi pubblici e non era agevole.
+
+28
+00:04:15,340 --> 00:04:20,900
+E allora lui mi disse che chi gli aveva risolto tutto era stato Strinker, la banca d'Italia.
+
+29
+00:04:20,900 --> 00:04:27,700
+Quindi non so se con un'emissione straordinaria in qualche maniera, però lo pongo come un elemento di studio
+
+30
+00:04:27,700 --> 00:04:37,580
+siccome non si parla mai di questa discenda d'Annunziana del 4 novembre, per il resto il libro ti parla dei governatori.
+
+31
+00:04:39,540 --> 00:04:52,260
+Prima ha citato Azzolini, io ero all'inizio della mia vita come giornalista politico nell'immediato dopo guerra
+
+32
+00:04:52,260 --> 00:05:01,720
+quando c'era quella terribile istituzione che era l'Alta Corte di Giustizia, il primo processo che fece
+
+33
+00:05:01,720 --> 00:05:10,780
+fu nei confronti del questore di Roma Caruso, fosse ardeatina, condannata a morte ed eseguita in un clima terribile.
+
+34
+00:05:11,680 --> 00:05:24,840
+Vorrei ricordare perché la prima seduta fu a Palazzo di Giustizia e sul lungotevere di fronte c'era un tale tumulto
+
+35
+00:05:24,840 --> 00:05:36,780
+che passò il direttore del carcere Carretta e fu buttato a fiume e fatto morire, quindi vorrei dire il clima era tale,
+
+36
+00:05:37,840 --> 00:05:49,140
+fu condannato a morte il Caruso e il secondo processo fu quello di Azzolini, Azzolini era imputato di non essersi opposto
+
+37
+00:05:49,140 --> 00:05:55,240
+o addirittura di avere favorito la consegna dell'oro della Banca d'Italia ai tedeschi.
+
+38
+00:05:56,040 --> 00:06:05,100
+Quello che prima ha ricordato come opinione dell'unzio era vero perché se Azzolini se ne fosse andato l'8 settembre,
+
+39
+00:06:05,120 --> 00:06:13,860
+come se ne sono andati tanti insieme a Badoglio, lui ritornava e era governatore, nessuno gli avrebbe tolto un capello,
+
+40
+00:06:13,860 --> 00:06:22,860
+lui aveva cercato di articolare questo trasferimento al nord della Banca d'Italia con un grande senso di responsabilità
+
+41
+00:06:22,860 --> 00:06:31,960
+lasciando moltissima gente a Roma e per la verità poi non è che cosa avrebbe potuto fare lui nei confronti dei tedeschi,
+
+42
+00:06:32,180 --> 00:06:39,860
+non è che aveva la forza fisica di poter opporre, quindi questo processo fu però un processo nel clima,
+
+43
+00:06:39,860 --> 00:06:48,860
+lì bisognava lasciar passare un po' di tempo, il clima era un clima di grandissima tensione e tanto è vero non sarò lungo,
+
+44
+00:06:50,580 --> 00:06:59,840
+ma l'accusa era sostenuta da Mario Berenguer, il padre di Enrico e nella sua requisitore chiese la seconda connanna morte
+
+45
+00:06:59,840 --> 00:07:13,100
+Come era stato per il Caruso? Si seppe poi che un camera di consiglio aveva discusso molto e per un voto era stato dato,
+
+46
+00:07:13,280 --> 00:07:22,680
+lì poi bastava non essere condannati a morte, poi dopo le cose erano aggiustate, per un voto lui se l'accavò e fu condannato da 30 anni,
+
+47
+00:07:22,680 --> 00:07:31,900
+posso fare una piccolissima aggiunta così ricreativa che serve un po' di giornata di caldo a rasserenarci,
+
+48
+00:07:32,300 --> 00:07:42,920
+la Corte era presiduta da un vecchio magistrato Lorenzo Maroni, persona molto austera, sempre presidente delle Assise,
+
+49
+00:07:44,480 --> 00:07:49,920
+siccome si occupava anche della disepurazione dei senatori del Regno,
+
+50
+00:07:50,960 --> 00:07:57,220
+De Gasman mi mandò a parlarli a casa per alcuni senatori, tra cui Mario Grespi del Corriere della Sera,
+
+51
+00:07:57,660 --> 00:08:08,070
+e questo abitava dietro il Castel Sant'Angelo, nella casa dove poi ha abitato Nelly, le cose sono un po' strane,
+
+52
+00:08:08,070 --> 00:08:18,190
+e aveva un culto della moglie morta con una cosa che non ho mai visto, grazie a te non ho avuto questa esperienza personale,
+
+53
+00:08:18,750 --> 00:08:26,290
+non ho mai visto uno che aveva una fotografia della moglie, grande, tutta la parete,
+
+54
+00:08:26,510 --> 00:08:34,510
+e siccome la moglie amava i canarini, c'erano dei canarini che spolazzavano, quando andava a trovare usciva sempre un po' decorato,
+
+55
+00:08:36,490 --> 00:08:42,510
+Allora che successe, quando ci fu la sentenza che ebbe solo trent'anni,
+
+56
+00:08:43,730 --> 00:08:47,450
+Benningway scrisse su Italia Libera un corsivo molto duro,
+
+57
+00:08:47,850 --> 00:08:55,430
+dicendo che cosa del resto ci possiamo aspettare da un magistrato che ha vestito la camiscia nera sotto l'ermellino,
+
+58
+00:08:55,970 --> 00:09:01,170
+la sera mi telefonò Maroni al popolo, e scinghiozzava dalla rabbia,
+
+59
+00:09:01,170 --> 00:09:09,190
+e io disse, ma scusi, non abbia pazienza, è un corsivo, non ha memoria nessuna, no, la faccio breve,
+
+60
+00:09:09,670 --> 00:09:15,570
+mi disse lei ha visto come io viva la memoria di mia moglie, e si ho visto certamente così,
+
+61
+00:09:16,690 --> 00:09:23,610
+però dice lei giuro sulla memoria di mia moglie che non ho mai portato la camiscia nera sotto l'ermellino,
+
+62
+00:09:23,610 --> 00:09:31,710
+quindi insomma questo qualche volta mi fa un po' pensare ad un concetto di combinato disposto,
+
+63
+00:09:32,290 --> 00:09:37,610
+un po' astratto che probabilmente forse non esisteva solo nel 1944,
+
+64
+00:09:39,550 --> 00:09:47,090
+insomma il primo contatto fu nei confronti che poi con Obi era fra l'altro persona molto cortese, molto gentile,
+
+65
+00:09:47,670 --> 00:09:52,230
+però c'erano le lotte interne anche lì, perché naturalmente quando se ne va uno subentra un altro,
+
+66
+00:09:52,230 --> 00:09:59,130
+allora poi tutti fanno un passo avanti, insomma la vita è fatta anche di queste cose.
+
+67
+00:10:02,090 --> 00:10:10,910
+Salto per dire però che cos'era il prestigio della Banca d'Italia, Luigi Inaudi poter rimanere governatore della Banca d'Italia
+
+68
+00:10:10,910 --> 00:10:17,070
+facendo il ministro, ministro del Tesoro, e poi creò il ministero del bilancio e divenne il ministro del bilancio,
+
+69
+00:10:17,070 --> 00:10:21,250
+e lo lasciò solo nel maggio del 1948 e poi diventò Presidente della Repubblica,
+
+70
+00:10:21,310 --> 00:10:26,670
+allora forse era un po' esagerato mantenere i due incarichi, insomma,
+
+71
+00:10:26,930 --> 00:10:37,570
+però per dire che cosa ha rappresentato veramente di particolare, insomma, questa specie di valutazione nei confronti della Banca d'Italia,
+
+72
+00:10:37,570 --> 00:10:45,570
+uno con cui ho avuto occasione anche di lavorare fu Menichella, un personaggio di grandissima autorevolezza,
+
+73
+00:10:47,050 --> 00:10:54,730
+ha avuto nell'Iri anche un ruolo di grande importanza, e mi futile in una discussione,
+
+74
+00:10:54,770 --> 00:11:00,050
+so se qualcuno se lo ricorda, ci fu un bancario mezzo pazzo, un certo Giuffre,
+
+75
+00:11:00,050 --> 00:11:13,360
+che faceva la raccolta di crédito dando interessi del 50 per cento, e naturalmente, insomma, acquisiva facilmente dei clienti,
+
+76
+00:11:15,030 --> 00:11:25,330
+poi ci fu anche una inchiesta parlamentare su questo, per il fatto era uno che poi investiva costruendo campanili, costruendo chiese,
+
+77
+00:11:25,330 --> 00:11:36,330
+inizia una bellissima cosa, sono dei civili e niente, però, insomma, ci fu un dimattito alla Camera dei Deputati, piuttosto aspero,
+
+78
+00:11:38,050 --> 00:11:44,130
+fra l'altro verteva anche sulla interpretazione della legge fondamentale, la legge del 36,
+
+79
+00:11:45,150 --> 00:11:59,150
+la legge del 36, che poi però riguarda contemporaneamente l'esercizio del credito e del risparmio, tutte e due le attività,
+
+80
+00:11:59,310 --> 00:12:07,130
+ma siccome da sinistra veniva molta polemica, poi noi non c'entravamo in niente veramente con questo Giuffre, insomma,
+
+81
+00:12:07,130 --> 00:12:16,360
+mi trovai un po' coinvolto, la prima volta che me l'ho detto credevo che fosse l'editore Giuffre su cui libri avevo studiato all'università,
+
+82
+00:12:17,630 --> 00:12:26,110
+e almeno che mi dette una cosa interessante, mi dette una specie di certificato di credito delle Cooperative Rosse delle Milie,
+
+83
+00:12:26,110 --> 00:12:33,370
+che esercitavano contemporaneamente l'accolta di credito, insomma, senza avere l'autorizzazione, l'accolta di risparmio,
+
+84
+00:12:33,930 --> 00:12:42,210
+esercizio del credito senza avere, mi aiutò in questa maniera, la collaborazione è stata sempre forte,
+
+85
+00:12:43,530 --> 00:12:52,110
+ci sono stati poi momenti difficili, momenti difficili, vi occupo anche, perché conservo poi i documenti,
+
+86
+00:12:52,370 --> 00:13:01,250
+perché poi si sono fatte anche molte leggende, ci sono stati momenti difficili in cui persone che venivano esaltate come Sindona,
+
+87
+00:13:01,690 --> 00:13:10,410
+questo nome forse a qualcuno ricorda qualche cosa, Sindona, io l'avevo conosciuta alla Camera di Commercio di Milano,
+
+88
+00:13:10,410 --> 00:13:17,370
+me l'aveva presentato Marinotti in termini in cui Adam Smith sembrava un'orecchiante in confronto,
+
+89
+00:13:18,330 --> 00:13:26,630
+poi era a capo della Decima Banca degli Stati Uniti, poi probabilmente aveva una seconda vita o una terza,
+
+90
+00:13:26,630 --> 00:13:35,070
+poi è finito con uno di quei caffè che insomma non sono molto corroboranti,
+
+91
+00:13:38,070 --> 00:13:52,590
+allora anche durante tutto questo periodo, forse te lo ricordi bene, perché poi particolari siciliani non possono essere quasi amici o quasi nemici,
+
+92
+00:13:52,590 --> 00:14:02,770
+o sono amici o sono nemici, lui era amicissimo di Cuccia, poi ebbero un contrasto, diventano due terribili antagonisti,
+
+93
+00:14:03,470 --> 00:14:12,330
+e naturalmente questo poi portò anche dei riflessi nei confronti dei triangoli di Ministro del Tesoro, Banca di Italia,
+
+94
+00:14:12,330 --> 00:14:30,290
+e tutta questa vicenda drammatica con la morte di Ambrosoli, qui ci fu un momento, anche questo poi è stata fatta una grande interpretazione di carattere politico,
+
+95
+00:14:30,290 --> 00:14:46,270
+poi i momenti di Babbi di Sarcinelli quando furono poi arrestati, fu un'iniziativa, ho qui anche dei documenti, di un magistrato estremamente rigoroso,
+
+96
+00:14:46,830 --> 00:14:58,530
+il quale poi lo stesso interveni per cercare di vedere, di far evocare questa misura, e lui mi spiegò che era rimasto poi molto inquieto,
+
+97
+00:14:58,650 --> 00:15:07,710
+perché era andato a fare un sopralluogo alla Banca di Italia, e probabilmente pensando che non si intendesse molto bene della materia,
+
+98
+00:15:07,710 --> 00:15:21,210
+l'abbiamo trattato pare con una certa trascuratezza, poi se la prendeva probabilmente aveva anche tolto, vedeva indirizzi politici nella Banca di Italia,
+
+99
+00:15:21,350 --> 00:15:31,410
+nel senso che c'era stata una censura data al Banco di Napoli perché aveva anticipato alla democrazia cristiana quello che era il contributo statale,
+
+100
+00:15:31,410 --> 00:15:45,450
+quindi ho ottenuto un credito certo, però certamente poi la lotta politica fece sì che sembro che fosse un'iniziativa anche politica nostra, anche un po' mia particolare,
+
+101
+00:15:45,450 --> 00:15:54,430
+questa di una azione giudiziale nei confronti di Bartini, nei confronti di Sarcinelli,
+
+102
+00:15:56,050 --> 00:16:12,910
+poi è possibile superare questo, però fu un vulnus notevole proprio nei confronti dell'idea della Banca di Italia, perché che abbia una collocazione del tutto super parte,
+
+103
+00:16:13,930 --> 00:16:25,870
+il riflesso che ho detto prima è un conto che però poi forse per una specie di leggere dell'elasticità si è andato a dare addosso in quella maniera,
+
+104
+00:16:25,870 --> 00:16:41,810
+fu estremamente difficile rendersi conto del perché avvenisse, con un personaggio avuto poi più dimestichezza è stato Guido Carli,
+
+105
+00:16:41,810 --> 00:16:53,690
+perché Guido Carli poi è stato ministro, Guido Carli una volta me l'ave invitato all'assemblea del 31 di maggio dove direi che il Presidente del Consiglio non va,
+
+106
+00:16:53,830 --> 00:17:04,930
+io gli mandai un biglietto scherzoso dicendo vada non vengo perché oltretutto non mi piace di sentir criticare tutto quello che abbiamo fatto durante l'anno su tuo consiglio,
+
+107
+00:17:06,190 --> 00:17:18,930
+era un modo scherzoso, è stata vero che sono rimasto in ottimi rapporti con Carli, è stato un pilastro e di Carli ho qualche volta avuto occasione di dirlo,
+
+108
+00:17:19,550 --> 00:17:29,830
+non è mai capitato di vedere in riunioni internazionali quando arriva un ministro italiano, me compreso, che gli altri si alzano in piedi,
+
+109
+00:17:29,830 --> 00:17:45,170
+con Guido Carli si alzavano in piedi, quindi godeva di un prestigio personale, direi a mio avviso più che meritato, ma un prestigio estremamente importante,
+
+110
+00:17:46,210 --> 00:18:03,330
+ho accennato prima e non sto qui adesso a rivangare Fazio, a me Fazio piace non solo per questa sua origine semplice, questa sua linearità che ho sempre visto,
+
+111
+00:18:03,330 --> 00:18:14,650
+ma mi piace anche per alcune sue impostazioni, c'è uno studio di Fazio, non so se l'ha mai pubblicato, l'ho sentito perché era un convegno, l'ho sentito questa reazione, mi colpi,
+
+112
+00:18:15,350 --> 00:18:30,390
+perché andando controcorrente rispetto ad una convinzione fece un'analisi dello sviluppo economico della Francia dimostrando che i momenti migliori dal punto di vista economico-finanziale della Francia,
+
+113
+00:18:30,390 --> 00:18:43,510
+sono stati momenti di grande natalità, quindi era un po' incontrocorrente rispetto a tutto il Maltusianesimo, forse anche questo a qualcuno non piace, voglio dire che è saltata la causa,
+
+114
+00:18:43,610 --> 00:18:48,670
+però qualcuno ci ha inzuppato volentieri il pane anche sotto questo aspetto.
+
+115
+00:18:50,490 --> 00:19:01,030
+Stato prima ricordato Draghi, persona non solo nella nostra amministrazione, aveva giustamente conseguito una collocazione importante,
+
+116
+00:19:01,410 --> 00:19:13,870
+ma la sua esperienza fatta anche all'estero in una posizione di grande prestigio dà una notevole garanzia ulteriore,
+
+117
+00:19:13,870 --> 00:19:27,310
+lui farà certamente bene il suo lavoro anche se, ripeto, oggi la Unità Unica ha tolto una parte delle competenze.
+
+118
+00:19:29,570 --> 00:19:39,230
+Un'ultima cosa, proprio l'importanza però dell'emissione, la vediamo anche con gli alleati,
+
+119
+00:19:39,230 --> 00:19:51,950
+quando gli alleati che emettevano le loro amliere, era un potere eccezionale, con dei controlli teorici notevoli, ma teorici di fatto,
+
+120
+00:19:52,850 --> 00:20:00,010
+però era il momento, credo che non si potesse fare diversamente.
+
+121
+00:20:00,010 --> 00:20:11,670
+Ci sono ancora alcune cose non chiare del governo militare alleati, quando bloccarono una decisione del governo per il cambio della moneta,
+
+122
+00:20:12,630 --> 00:20:24,490
+un'idea di scocimarlo era stata, non è che mi intendessi molto, però ho vissuto proprio quel blocco, siccome era essenziale.
+
+123
+00:20:25,490 --> 00:20:36,810
+Per il resto poi ho finito, poi l'Italia è sempre un grande Paese, in fondo quando adesso vediamo l'occupazione di un Paese,
+
+124
+00:20:37,130 --> 00:20:46,490
+il governo militare, certamente si creano anche una serie di tensioni, però il personaggio che all'inizio,
+
+125
+00:20:49,210 --> 00:20:59,850
+io con l'Italia quasi se lo ricordo, ammiraglio Stone, che fu il primo a capo del governo militare alleato, fece certamente delle cose molto importanti,
+
+126
+00:20:59,950 --> 00:21:12,390
+però anche personalmente, in fondo ci furono due vicende delle quali fu protagonisti in San Pietro, cosa che nel resto della mia vita non ho mai visto.
+
+127
+00:21:12,390 --> 00:21:29,150
+Nella cappella del coro, una prima il suo battesimo, e la seconda il suo matrimonio, in fondo questo umanizzava un poco secondo me la tensione di un momento estremamente difficile.
+
+128
+00:21:29,150 --> 00:21:40,530
+Io vorrei allegrarmi per il libro di Elena Polidori, perché intanto è in termini anche piuttosto brevi, è scritto in un modo molto scorrevole,
+
+129
+00:21:40,770 --> 00:21:51,490
+perché altrimenti il settore potrebbe prestarsi anche a quella specie di ermetismo che alcuni seguono perché hanno paura di non essere abbastanza reputati colpi,
+
+130
+00:21:51,490 --> 00:22:02,430
+che si scrivono quello che a Roma diciamo come l'ha fatta la madre, in un modo semplice, è scritto e ha il contenuto.
+
+131
+00:22:04,230 --> 00:22:16,210
+Allora, io credo che rimanga, per chi soppoperà, poi della Banca d'Italia, anche superato questo capitolo di Crona-Cavaria,
+
+132
+00:22:16,890 --> 00:22:30,550
+dove c'è adesso fatto diventare Lodi, una città importante. Nella curiosa mia vita c'è un contatto con Lodi, però non c'entra niente,
+
+133
+00:22:30,550 --> 00:22:41,970
+perché riguarda poi il 1945. C'era stato il prestito al 350 del Miso Soleri, il primo prestito della ricostruzione importante.
+
+134
+00:22:42,550 --> 00:22:52,550
+Allora si stabilì poi che tutti coloro che facevano parte della consulta nazionale, cioè l'assemblea nominata per preparare le elezioni del 1946,
+
+135
+00:22:53,190 --> 00:23:00,930
+doveva andare una domenica a predicare in provincia a favore della sottoscrittura del prestito. Io fui inviato all'Odito,
+
+136
+00:23:01,490 --> 00:23:09,510
+non so assolutamente se qualcuno certamente, non ho questa presunzione, abbia sottoscritto il prestito in quell'evento.
+
+137
+00:23:09,610 --> 00:23:21,610
+Comunque non c'entra niente quello che è successo poi successivamente a Lodi. Per il resto io mi congratulo con l'Enerpolido e gli ho attaccato un bottone leggermente più lungo di quello che ho ridovuto. Grazie.
+
+138
+00:23:32,810 --> 00:23:43,230
+Innanzitutto anche io voglio congratularmi con Elena, perché Elena si è assunto a un compito difficilissimo per rendere facile la lettura del libro,
+
+139
+00:23:43,230 --> 00:23:58,610
+nel senso che c'erano tanti modi per affrontare il tema banca d'Italia, un modo istituzionale, un modo storico. Elena ha scelto un taglio particolare, gli uomini della banca d'Italia.
+
+140
+00:24:00,330 --> 00:24:18,330
+Questa è una nota e una precisazione. Il discorso di Masti certamente fu un discorso difficile perché significava per noi un salto di qualità notevole.
+
+141
+00:24:18,330 --> 00:24:34,330
+Probabilmente a Masti, ma in questo campo non negli aspetti finanziari, in un campo più generale abbiamo camminato troppo, cioè quando abbiamo fissato la politica estera e di sicurezza comune.
+
+142
+00:24:34,330 --> 00:24:47,490
+Forse se avessimo avuto la prudenza di dire graduale avvicinamento delle politiche estere e di sicurezza dei Paesi membri, forse avremmo fatto qualcosa di più realistico.
+
+143
+00:24:47,490 --> 00:25:08,270
+Quando è venuto a Roma in pendenza della convenzione, Giscard d'Esegne fece una riunione informale al Senato, io lo dissi, però giustamente lui mi disse va beh, ma voi se adesso facciamo un passo indietro è negativo, quindi avete fatto male a fare quella dizione.
+
+144
+00:25:08,270 --> 00:25:28,310
+Per l'altro io vorrei dire che c'è però un indirizzo che non riguarda solo l'aspetto finanziario, ma è un indirizzo di equilibrio necessario tra l'autarchia e l'ecumenismo, l'universalità.
+
+145
+00:25:29,030 --> 00:25:41,310
+Perché l'altro giorno c'è stato un convegno sui 60 anni della Costituente e uno mi ha detto ma c'è qualche cosa di suo nel testo della Costituzione?
+
+146
+00:25:41,310 --> 00:26:04,850
+No, c'è solo una proposta che però non è andata, è in un certo senso analogicamente comparabile, cioè l'articolo 21, quando parla che tutti hanno diritto di esprimere le proprie convinzioni con la libertà.
+
+147
+00:26:04,850 --> 00:26:30,970
+Io avevo fatto un emendamento, avevo messo tutti i cittadini perché volevo che si affermasse un principio con gli altri di reciprocità, perché mi pareva giusto, forse ero ingenuo, mi pareva ingiusto dire ma è possibile che un cegolo vacco può venire qui a aprirci una stazione radio o domani una stazione di televisione?
+
+148
+00:26:30,970 --> 00:26:50,970
+Noi però, se poi la sua porta è chiusa, noi non possiamo farsi niente. Ci fu un po' di dibattito ma era contro il clima di quel momento, era un clima di grande apertura e il presidente del mio gruppo, Gronchi, me lo fece ritirare, quindi di mio non c'è niente.
+
+149
+00:26:51,710 --> 00:27:18,570
+Anche perché poi io a metà dell'assemblea fui nominato sottosegretario, quindi mi occupavo di tutte altre cose fuori che della redazione dell'assemblea costituente, però probabilmente forse una certa meditazione su qualche reciprocità che ci deve essere, insomma alcuni atteggiamenti, alcune decisioni, forse è necessaria.
+
+150
+00:27:18,570 --> 00:27:45,190
+Per il resto vorrei solo dire che noi abbiamo nella legislazione, poi abbiamo avuto un tempo di molta importanza al comitato di credito del risparmio, però devo dire l'esperienza che ho fatto sotto diverse forme di partecipazione, nel comitato di credito certamente il parere del governatore è sempre essenziale.
+
+151
+00:27:50,090 --> 00:28:13,070
+C'è sempre stato, insomma l'idea non è andata male, io credo che noi dobbiamo, ci sono stati dei momenti anche all'interno, per esempio il momento della SME, anche all'interno c'era un relativo di senso,
+
+152
+00:28:13,070 --> 00:28:32,750
+tra il direttore generale e il governatore, io però devo dire che sono gratissimo a Ciampi perché allora noi avevamo anche difficoltà in Parlamento per passare determinate cose,
+
+153
+00:28:32,750 --> 00:29:01,490
+e una mattina che c'era una seduta difficile nel Parlamento, difficile per l'opposizione, ma difficile anche per una parte notevole dei nostri che erano meno duri e polenici, ha fatto quasi una notte a Palazzo Ghigi, Ciampi per aiutarmi proprio a stendere un tipo di relazione che poi la mattina dopo riuscì insomma un po' al slalom a superare quel momento difficile.
+
+154
+00:29:03,370 --> 00:29:24,570
+Penso che i momenti cambiano, vorrei fare un'ultima domanda, siccome sono redusce da un convegno sulla scuola, a me era un po' dispiaciuto un certo tipo di polemica nei confronti della cosiddetta scuola cattolica, intanto voglio una distinzione,
+
+155
+00:29:24,570 --> 00:29:44,910
+se la scuola consiglia scuola pubblica e privata, privata c'è quella commerciale, legittima, e quella invece che può essere la scuola cattolica. Per la scuola cattolica, siccome noi però abbiamo spesso un atteggiamento estremamente rimizio, giochiamo in difesa che è sempre pericoloso per giocare in difesa tutta una partita,
+
+156
+00:29:44,910 --> 00:30:07,130
+allora dobbiamo giocare all'attacco, ho cercato di immaturare i motivi di attacco, li cito per analogia, perché sennò non c'entrerebbe niente con l'argomento per cui siamo qui questa sera, uno degli argomenti che ho trovato, per esempio in una delle sedute del fine dell'ottocento,
+
+157
+00:30:07,130 --> 00:30:37,110
+un deputato chiede al ministro della pubblica istituzione perché non si fanno scuole professionali, e quello risponde, ma lo stato che c'entra con le scuole professionali? Beh, insomma, erano i momenti in cui poi i salesiani, i Giuseppini, hanno creato le scuole professionali, allora forse un misto tra causa ed effetto in alcune zone italiane, l'industrializzazione è nata lì, però poi comparando una cosa di indirizzo, una cosa piccola, mi sono anche divertito, insomma, un po' rotto le scatole, insomma, quello che fa
+
+158
+00:30:37,110 --> 00:30:54,270
+una polemica in questa riunione, io gli ho detto, guardi, sai cosa mi è piaciuto molto, a parte che sono convinto già perché lo conosco bene, nella piccola biografia data nell'agenzia nei confronti del nuovo governatore, c'è scritto che ha studiato all'Istituto Massimo di Roma,
+
+159
+00:30:54,270 --> 00:31:07,590
+l'Istituto dei Gesuiti, questo mi ha fatto estremamente piacere, questo non toglie niente, spero che non dispiazza al governatore, certamente, insomma, credo che comunque non gli ha fatto male quel tipo di istruzione,
+
+160
+00:31:07,590 --> 00:31:24,570
+io appartengo invece alla scuola pubblica e quindi non difendo un qualche cosa di particolaristico, però cerco di essere per quanto possibile giusto, anche se fare politiche ed essere giusto non sempre piuttosto al giro.
+
+161
+00:31:32,010 --> 00:31:45,590
+Insomma, come vedete, sapevano tutto della Banca d'Italia, quindi le promesse sono state mantenute, non so se ci sono delle domande, sennò considerate allora, ce ne andiamo tutti a casa.
+
+162
+00:31:56,390 --> 00:31:59,190
+Domande? Nessuno?
+
+163
+00:32:03,010 --> 00:32:24,590
+Allora, intanto congratulazioni a Elena per questo libro, volevo sapere se, come ha detto prima Massimo Liva, anche tu Elena e anche Andreotti, è d'accordo sul fatto che i nostri banteri sono fermi e che in qualche modo poi faccio sopravvivere a se stesso,
+
+164
+00:32:24,590 --> 00:32:31,210
+potremmo dire, nel senso che le banche sono immobili.
+
+165
+00:32:32,830 --> 00:32:57,170
+Ma io sono un modesto cliente, quello che certamente mi dà un certo shock è vedere nei rendoconti simestrali che uno paga qualche cosa, anche se non c'è stato nessun movimento, per registrare che non c'è stato un movimento si paga un certo numero di euro.
+
+166
+00:32:58,670 --> 00:33:20,590
+Allora, questo concetto di considerare una specie così di alloggio del proprio denaro, per cui uno deve pagare un fitto, mi sembra sia qualcosa che è un po' diverso da quello che c'è.
+
+167
+00:33:20,590 --> 00:33:48,850
+D'altra parte poi una banca deve vivere di investimenti e di raccolta di spalmi, allora non è a caso che quando abbiamo fatto qualche anno fa, no molti anni fa, un complesso di norme legislative contro l'usura, così si chiama il pacchetto, in quella occasione si è ridotto di un punto il tasso dei modi immobiliari.
+
+168
+00:33:48,850 --> 00:34:02,230
+Quindi non è che abbiamo dato un piccolo certificato di usura, però è in quel pacchetto che si è fatto. Per il resto il problema è molto complicato.
+
+169
+00:34:02,230 --> 00:34:22,910
+Noi abbiamo avuto una notevole apertura perché cominciare da Roma, le filiali di molte banche, però quello che è ancora adesso un complesso di difficoltà per gli investimenti è un complesso che c'è.
+
+170
+00:34:22,910 --> 00:34:43,910
+Io non so se questo porterà poi ad una revisione di galattia legislative, questo non lo so, non è mia materia, però certamente fa una certa impressione questo costo che viene adebitato con una certa consistenza,
+
+171
+00:34:43,910 --> 00:35:04,430
+e contemporaneamente questa resa è stata parte di un aggiustamento notevole della nostra finanza, prima aggiustamento è stato ricordato, se si continuava in un indebitamento così forte,
+
+172
+00:35:04,430 --> 00:35:28,030
+con una spesa per il servizio dei credi si andava alla rovina, questo ha portato un certo tipo di equilibrio nuovo che c'è adesso di tassi e di resa del denaro, poi c'è tutto il problema.
+
+173
+00:35:45,730 --> 00:35:57,970
+Non potendo fare più una spesa indipendentemente dalla copertura, perché noi nella Costituzione abbiamo un articolo perfetto, l'articolo 81,
+
+174
+00:35:57,970 --> 00:36:08,290
+che dice che non si può fare una spesa se non c'è la copertura relativa o la soppressione di una spesa di uguale valore.
+
+175
+00:36:08,290 --> 00:36:26,790
+Questo all'inizio è andato bene, poi si creò un accomodamento e si chiamò il volano, perché nella politica è giustissima che ci siano anche dei professori di economia, però finisce che fanno poi premio,
+
+176
+00:36:29,030 --> 00:36:49,790
+creano il volano, che se aveva due risvolti, una spesa si poteva poi coprire per annualità, così che io rispettavo l'articolo 81 per il primo anno, poi per il resto sarà coperto sul bilancio.
+
+177
+00:36:49,790 --> 00:37:03,430
+Il bilancio però rispetto ad un'entrada nuova, questo poteva non essere, e noi siamo andati allora a un tasso di indebitamento molto forte.
+
+178
+00:37:03,910 --> 00:37:15,870
+Per trovare poi denaro noi pagavamo un interesse piuttosto elevato, che era molto ambito, noi avevamo anche investimenti facilmente dall'estero, perché avevamo un tasso di interesse piuttosto forte.
+
+179
+00:37:15,870 --> 00:37:30,670
+Però si era cominciato per essere esatti, si era cominciato un risanamento, questo indipendenziamente da Maxiz, quando c'era il deficit, proprio il deficit in profit, questo si era cominciato.
+
+180
+00:37:30,670 --> 00:37:44,530
+Però certamente avere accettato un vincolo di carattere internazionale, così che non puoi più con la discussione sul bilancio aggiustartelo come le tagliate le fatti in casa.
+
+181
+00:37:44,830 --> 00:37:55,070
+Noi abbiamo avuto, ed è strano sotto un certo aspetto, la simpatia e l'affetto che Carli aveva per Pomicino.
+
+182
+00:37:55,070 --> 00:38:19,290
+Pomicino, quando è stato Presidente della Commissione Finanze e Tesoro, riusciva nella discussione del bilancio a muovere talmente le cartiche, alla fine nessuno di noi capiva più niente di quello che si stava discutendo, con piccole soddisfazioni, perché insomma se c'era l'addizionale della calabria bisogna prorogare dei pezzi, si prorogava l'addizionale della calabria.
+
+183
+00:38:20,590 --> 00:38:38,610
+Quindi il fatto di avere ragione in un certo senso, come politica veniva a essere privata di un certo spazio, però era a mio avviso non solo una cosa necessaria, ma anche alla fine molto utile.
+
+184
+00:38:38,610 --> 00:38:59,530
+Perché insomma se uno non ha questi vincoli, sa di poter crescere la spesa, ora le esigenze spesso ci sono, perché sono tante le esigenze, però questo riguarda ognuno di noi o ognuno delle nostre famiglie, non è che se uno non ha un conto di coprire, alcune cose non le può fare.
+
+185
+00:38:59,530 --> 00:39:11,530
+E' stato lì che si è un po', in effetti, le due cose sono state messe in parallelo, però non allo stesso, non specularmente parallele, e quindi quello è stato un po' l'errore.
+
+186
+00:39:12,550 --> 00:39:31,270
+Poi raggiungere che prima ho dimenticato di dirlo, né la classe politica, né compreso, qualche volta si morde un po' il freno nei confronti dei governatori, anche per un certo senso di invidia, perché i governanti sono molti, il governatore è uno.
+
+187
+00:39:31,270 --> 00:39:54,290
+Allora insomma la nostra categoria, il nostro sindacato, qualche volta fa un po' fatica ad accettare stupidamente, perché è una grandissima garanzia, anzi io mi auguro che non si alterino mai questi equilibri, perché insomma sarebbe una libera uscita di una pericolosità esperimentale.
+
+188
+00:40:05,010 --> 00:40:11,070
+Magari c'è spazio, forse, per un'altra curiosità da soddisfare, se c'è, c'è.
+
+189
+00:40:21,350 --> 00:40:40,190
+Sono abituato per hobby a vedere monete, monete metalliche, monete e carta moneta, secondo me vista appunto l'emissione monetaria della Banca d'Italia da questo punto di vista,
+
+190
+00:40:40,190 --> 00:41:02,290
+un indice di decadenza della Banca d'Italia che ricordo era soltanto, fino al 1926, era soltanto uno dei tre istituti di emissione che emettevano carta moneta, cioè voglio dire, i soldi intasca un cittadino su questa situazione.
+
+191
+00:41:04,350 --> 00:41:22,230
+In un certo senso, scusi, la disciplina della moneta comune è una disciplina che questa garanzia la dà, una critica che è stata fatta, questa non riguarda però solo noi, riguarda un po' tutti, forse i tecnici che hanno poi scelto questa strada,
+
+192
+00:41:22,230 --> 00:41:39,430
+cioè che forse se l'euro fosse stato fatto in carta, avrebbe avuto forse come il dollaro, avrebbe dato la sensazione, un fatto solo di psicologia, di un qualche cosa di più consistente,
+
+193
+00:41:39,430 --> 00:41:58,430
+perché forse all'inizio il fatto di un euro o una lira, insomma, uno era forse abituato, non c'è stato quel rodaggio psicologico, questo è stato fatto, però questo riguarda tutti, non è che possiamo noi fare il...
+
+194
+00:41:58,430 --> 00:42:00,150
+Nel Paese non avevano la moneta di carta?
+
+195
+00:42:00,330 --> 00:42:01,930
+No, no, no, no, no.
+
+196
+00:42:01,950 --> 00:42:03,110
+Esisteva il marco di carta?
+
+197
+00:42:03,110 --> 00:42:25,370
+Sì, sì, no, però, questa è esattamente, non c'è più l'abitudine, però il fatto del dollaro, anche se esiste anche il dollaro dell'argento, che se no uno, però, insomma, è considerato un po' di...
+
+198
+00:42:29,310 --> 00:42:40,690
+Bene, considerata anche l'ora, direi che grazie a tutti, grazie a senatore Andreotti, Massimo Riva, la Longanesi, la Feltrinelli e tutti voi.
+
+199
+00:42:41,090 --> 00:42:42,730
+Grazie soprattutto a Elena Polidori.
+
