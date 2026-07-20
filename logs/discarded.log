@@ -4521,3 +4521,10 @@ andreotti  2026-07-20 20:08:32.496424  https://www.radioradicale.it/scheda/43850
 andreotti  2026-07-20 20:17:05.478385  https://www.radioradicale.it/scheda/43028/lefficienza-della-democrazia?i=2554109  ValueError: No timestamps
 andreotti  2026-07-20 20:17:07.256995  https://www.radioradicale.it/scheda/43063/vii-assemblea-nazionale-dei-quadri-cisl?i=2553954  ValueError: No timestamps
 andreotti  2026-07-20 20:21:41.888542  https://www.radioradicale.it/scheda/43667/dalla-rerum-novarum-alla-centesimus-annus?i=2546726  RuntimeError: yt-dlp exited 1
+andreotti  2026-07-20 20:33:56.438404  https://www.radioradicale.it/scheda/41542/presentazione-libro-di-adriano-ossicini-indipendenza-che-passione?i=2566040  RuntimeError: yt-dlp exited 1
+andreotti  2026-07-20 20:33:59.454757  https://www.radioradicale.it/scheda/58810/question-time-con-andreotti?i=2419312  ValueError: No timestamps
+andreotti  2026-07-20 20:45:16.002629  https://www.radioradicale.it/scheda/40567/il-libro-dalla-repubblica-alla-democrazia-ii-difficile-cammino-delle-riforma-delle?i=2573285  ValueError: No timestamps
+andreotti  2026-07-20 20:45:18.186625  https://www.radioradicale.it/scheda/41103/tavola-rotonda-con-il-governo-italiano?i=2569805  ValueError: No timestamps
+andreotti  2026-07-20 20:49:17.407474  https://www.radioradicale.it/scheda/38986/crisi-del-potere-e-diplomazia-internazionale?i=2584330  ValueError: No timestamps
+andreotti  2026-07-20 20:58:15.288109  https://www.radioradicale.it/scheda/38656/conferenza-interparlamentare-europea?i=2587132  ValueError: No timestamps
+andreotti  2026-07-20 20:58:19.631648  https://www.radioradicale.it/scheda/37835/cee-le-conclusioni-del-consiglio-europeo-svoltosi-a-roma?i=2593266  ValueError: No timestamps
