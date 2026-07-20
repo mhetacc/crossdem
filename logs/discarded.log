@@ -4528,3 +4528,7 @@ andreotti  2026-07-20 20:45:18.186625  https://www.radioradicale.it/scheda/41103
 andreotti  2026-07-20 20:49:17.407474  https://www.radioradicale.it/scheda/38986/crisi-del-potere-e-diplomazia-internazionale?i=2584330  ValueError: No timestamps
 andreotti  2026-07-20 20:58:15.288109  https://www.radioradicale.it/scheda/38656/conferenza-interparlamentare-europea?i=2587132  ValueError: No timestamps
 andreotti  2026-07-20 20:58:19.631648  https://www.radioradicale.it/scheda/37835/cee-le-conclusioni-del-consiglio-europeo-svoltosi-a-roma?i=2593266  ValueError: No timestamps
+andreotti  2026-07-20 21:46:55.029345  https://www.radioradicale.it/scheda/33836/consiglio-nazionale-dc?i=2631439  ValueError: No timestamps
+andreotti  2026-07-20 22:01:22.661522  https://www.radioradicale.it/scheda/58780/lo-schok-da-perestrojka?i=2419585  ValueError: No timestamps
+andreotti  2026-07-20 22:01:24.708536  https://www.radioradicale.it/scheda/33052/consiglio-nazionale-della-dc?i=2637901  ValueError: No timestamps
+andreotti  2026-07-20 22:01:26.389022  https://www.radioradicale.it/scheda/32967/il-paradosso-della-democrazia-difesa-dellimperfezione?i=2638418  ValueError: No timestamps
