@@ -4501,3 +4501,14 @@ andreotti  2026-07-20 16:13:09.694853  https://www.radioradicale.it/scheda/12554
 andreotti  2026-07-20 16:13:12.869765  https://www.radioradicale.it/scheda/125270/a-non-domanda-rispondo-presentazione-del-libro-di-giulio-andreotti-ed-rizzoli-org-da?i=1694824  ValueError: No timestamps
 andreotti  2026-07-20 16:21:27.166167  https://www.radioradicale.it/scheda/112369/a-dieci-anni-dalla-caduta-del-muro-di-berlino-istruttoria-per-un-processo-storico-al?i=1840203  ValueError: No timestamps
 andreotti  2026-07-20 16:43:55.665202  https://www.radioradicale.it/scheda/123154/leuropa-ieri-oggi-e-domani-lezione-organizzata-nel-quinto-giorno-del-corso-di-pubblica?i=1721711  ValueError: No timestamps
+andreotti  2026-07-20 17:23:36.291275  https://www.radioradicale.it/scheda/101599/lezione-di-politica-estera-organizzata-dalla-libera-universita-pio-v?i=1966099  ValueError: No timestamps
+andreotti  2026-07-20 17:29:42.283340  https://www.radioradicale.it/scheda/101867/lezione-di-politica-estera-org-dalla-libera-universita-pio-v?i=1962617  ValueError: No timestamps
+andreotti  2026-07-20 17:29:44.365336  https://www.radioradicale.it/scheda/104050/de-prima-re-pubblica-presentazione-del-libro-di-giulio-andreotti-con-emanuele-macaluso?i=1931235  ValueError: No timestamps
+andreotti  2026-07-20 17:32:14.635206  https://www.radioradicale.it/scheda/100080/lezione-sulla-politica-estera-italiana-organizzata-dalla-libera-universita-pio-v?i=1990797  ValueError: No timestamps
+andreotti  2026-07-20 17:32:16.172711  https://www.radioradicale.it/scheda/101765/il-processo-costituente-nellitalia-del-secondo-dopoguerra?i=1964072  ValueError: No timestamps
+andreotti  2026-07-20 17:32:19.538840  https://www.radioradicale.it/scheda/99213/storia-delle-relazioni-internazionale-org-dalla-libera-universita-pio-v?i=2007605  ValueError: No timestamps
+andreotti  2026-07-20 17:38:01.027391  https://www.radioradicale.it/scheda/98909/la-politica-estera-italiana-nel-secondo-dopoguerra-1-lezione-organizzata-dalla-libera?i=2013379  RuntimeError: yt-dlp exited 1
+andreotti  2026-07-20 17:46:53.165071  https://www.radioradicale.it/scheda/98462/lanno-terribile-1948-il-mondo-si-divide-ed-laterza-presentazione-del-libro-di-aldo?i=2021873  ValueError: No timestamps
+andreotti  2026-07-20 17:48:47.798390  https://www.radioradicale.it/scheda/102959/leuropa-e-il-suo-futuro-riflessioni-a-30-anni-dalla-morte-di-gaetano-martino-e-a-40?i=1946322  RuntimeError: yt-dlp exited 1
+andreotti  2026-07-20 17:48:50.251872  https://www.radioradicale.it/scheda/101713/storia-della-dc-lezione-con-il-senatore-giulio-andreotti-nellambito-del-primo-corso-di?i=1964604  ValueError: No timestamps
+andreotti  2026-07-20 17:48:52.325573  https://www.radioradicale.it/scheda/101710/cerimonia-di-inaugurazione-del-primo-corso-di-formazione-politica-e-seguente-incontro?i=1964667  ValueError: No timestamps
