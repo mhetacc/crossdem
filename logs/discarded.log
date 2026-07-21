@@ -4735,3 +4735,7 @@ renzi  2026-07-21 20:57:20.633030  https://www.radioradicale.it/scheda/437548/di
 renzi  2026-07-21 22:00:01.251728  https://www.radioradicale.it/scheda/516952/festa-de-lunita-di-livorno-matteo-renzi-presenta-avanti-perche-litalia-non-si-ferma?i=3745126  TypeError: string indices must be integers, not 'str'
 renzi  2026-07-21 22:00:03.046178  https://www.radioradicale.it/scheda/516757/festa-regionale-del-partito-democratico-dellemilia-romagna-di-villalunga-matteo-renzi?i=3744725  TypeError: string indices must be integers, not 'str'
 renzi  2026-07-21 22:00:06.163808  https://www.radioradicale.it/scheda/516817/festa-de-lunita-castelfiorentino-incontro-con-matteo-renzi?i=3747598  TypeError: string indices must be integers, not 'str'
+renzi  2026-07-21 22:12:54.482412  https://www.radioradicale.it/scheda/397071/primarie-del-pd-incontro-con-matteo-renzi?i=270061  TypeError: string indices must be integers, not 'str'
+renzi  2026-07-21 22:12:56.118371  https://www.radioradicale.it/scheda/360337/primarie-2012-matteo-renzi-adesso-verona?i=402073  TypeError: string indices must be integers, not 'str'
+renzi  2026-07-21 22:12:56.831848  https://www.radioradicale.it/scheda/359411/matteo-renzi-a-latronico?i=404413  TypeError: string indices must be integers, not 'str'
+renzi  2026-07-21 23:03:49.430910  https://www.radioradicale.it/scheda/684898/processo-per-gli-appalti-consip?i=4515706  RuntimeError: yt-dlp exited 1
