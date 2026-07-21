@@ -16,7 +16,7 @@ import os
 DATA = [
     #("draghi", "/soggetti/46315/mario-draghi"),
     #("meloni", "/soggetti/94729/giorgia-meloni"),
-    #("conte", "/soggetti/110925/giuseppe-conte"),
+    ("conte", "/soggetti/110925/giuseppe-conte"),
     #("gentiloni", "/soggetti/243521/paolo-gentiloni"),
     #("renzi", "/soggetti/74722/matteo-renzi"),
     #("letta", "/soggetti/40755/enrico-letta"),
@@ -35,11 +35,11 @@ DATA = [
     #("cossiga", "/soggetti/595/francesco-cossiga"),
     #("rumor", "/soggetti/1769/mariano-rumor"),
     #("colombo", "/soggetti/6010/colombo-emilio"),
-    ("andreotti", "/soggetti/99/giulio-andreotti"),
-    ("moro", "/soggetti/1325/aldo-moro"),
-    ("leone", "/soggetti/6656/giovanni-leone"),
-    ("segni", "/soggetti/101437/antonio-segni"),
-    ("scelba", "/soggetti/191965/mario-scelba"),
+    #("andreotti", "/soggetti/99/giulio-andreotti"),
+    #("moro", "/soggetti/1325/aldo-moro"),
+    #("leone", "/soggetti/6656/giovanni-leone"),
+    #("segni", "/soggetti/101437/antonio-segni"),
+    #("scelba", "/soggetti/191965/mario-scelba"),
 ]
 # fanfani was done during development
 
@@ -217,7 +217,8 @@ def extract_location(soup: BeautifulSoup) -> str | None:
 
 # ── Timestamp parsing ───────────────────────────────────────────────────────
 
-RE_DURATA = re.compile(r'(\d+:\d+)\s+Durata:\s+(\d+)\s+min', re.I)
+#RE_DURATA = re.compile(r'(\d+:\d+)\s+Durata:\s+(\d+)\s+min', re.I)
+RE_DURATA = re.compile(r'(\d+:\d+)\s+Durata:\s+(\d+)\s+(min|sec)', re.I)
 RE_INT_ID = re.compile(r'^int(\d+)$')
 RE_D_SEC  = re.compile(r'^d(\d+)$')
 
@@ -237,8 +238,15 @@ def parse_timestamps(li, is_clock_time: bool = False, event_start: str | None = 
     if durata_div:
         if m := RE_DURATA.search(durata_div.get_text()):
             raw_time = m.group(1)
-            result["duration_min"] = int(m.group(2))
-            
+            value, unit = int(m.group(2)), m.group(3).lower()
+
+            if unit == "min":
+                result["duration_min"] = value
+            else:  # "sec"
+                # only set if RE_D_SEC (class-based) didn't already populate it
+                if result["duration_seconds"] is None:
+                    result["duration_seconds"] = value
+
             if is_clock_time and event_start:
                 h0, m0 = (int(x) for x in event_start.split(":"))
                 h1, m1 = (int(x) for x in raw_time.split(":"))
@@ -343,6 +351,9 @@ def extract_speech_details(url: str, speaker: str, timeout: int = 20) -> dict:
             m = RE_DURATA.search(durata_div.get_text())
             if m:
                 event_start = m.group(1)
+                print(f"RE_DURATA:     {m}")
+            else:
+                print(f"RE_DURATA:     {m}")
                 
     if (event_start == "0:00"):
         is_clock_time = False
@@ -703,7 +714,9 @@ def main (politician, SUBJECT_URL):
     print(f"-------------------- Politician = {politician} --------------------")
 
     urls = get_all_audio_urls(SUBJECT_URL=SUBJECT_URL)
-
+    # urls = [
+    #     "https://www.radioradicale.it/scheda/722633/intervista-a-giuseppe-conte-sulla-posizione-del-m5s-sulle-missioni-internazionali?i=4725935"
+    # ]
     for url in urls:
         """
         One audio at a time, extract date and timestamps, then download, then trim it based on extracted timestamps, 
