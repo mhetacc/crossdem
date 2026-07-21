@@ -4717,3 +4717,5 @@ draghi  2026-07-21 18:31:34.083609  https://www.radioradicale.it/scheda/109051/i
 draghi  2026-07-21 18:31:35.614351  https://www.radioradicale.it/scheda/94701/verso-la-moneta-unica-europea-org-in-occasione-della-pubblicazione-del-secondo-rapporto?i=2067362  ValueError: No timestamps
 draghi  2026-07-21 18:31:37.015758  https://www.radioradicale.it/scheda/329983/dichiarazioni-di-mario-draghi-al-termine-del-suo-intervento-al-parlamento-europeo?i=515929  ValueError: No timestamps
 draghi  2026-07-21 18:31:42.120847  https://www.radioradicale.it/scheda/241861/cerimonia-di-inaugurazione-del-nuovo-anno-accademico-delluniversita-luiss-guido-carli?i=1085321  RuntimeError: yt-dlp exited 1
+draghi  2026-07-21 19:27:38.251392  https://www.radioradicale.it/scheda/241861/cerimonia-di-inaugurazione-del-nuovo-anno-accademico-delluniversita-luiss-guido-carli?i=1085321  RuntimeError: yt-dlp exited 1
+draghi  2026-07-21 19:58:18.607683  https://www.radioradicale.it/scheda/241861/cerimonia-di-inaugurazione-del-nuovo-anno-accademico-delluniversita-luiss-guido-carli?i=1085321  RuntimeError: yt-dlp exited 1
