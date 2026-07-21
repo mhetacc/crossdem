@@ -4744,3 +4744,4 @@ letta  2026-07-21 23:32:16.434572  https://www.radioradicale.it/scheda/679838/di
 letta  2026-07-21 23:32:17.993454  https://www.radioradicale.it/scheda/510787/festival-delleconomia-di-trento-contro-venti-e-maree-idee-sulleuropa-e-sullitalia?i=3719169  TypeError: string indices must be integers, not 'str'
 letta  2026-07-21 23:48:03.732552  https://www.radioradicale.it/scheda/431817/lectio-magistralis-di-enrico-letta-su-il-ruolo-dellitalia-e-la-sua-capacita-attrattiva?i=2923701  TypeError: string indices must be integers, not 'str'
 letta  2026-07-22 00:20:21.647988  https://www.radioradicale.it/scheda/230886/politica-societa-diritti-di-cittadinanza-europa-mondo-arabo-america-latina?i=1138947  RuntimeError: yt-dlp exited 1
+letta  2026-07-22 00:35:58.932834  https://www.radioradicale.it/scheda/243625/il-sud-non-puo-piu-aspettare-dalla-calabria-proposte-e-risposte?i=1074995  RuntimeError: yt-dlp exited 1

@@ -1,0 +1,600 @@
+1
+00:00:00,000 --> 00:00:07,980
+a chi è sotto emergenza, creare invece un unico numero di accesso al soccorso, all'emergenza
+
+2
+00:00:07,980 --> 00:00:13,860
+e poi l'intervento, l'organizzazione con le tecnologie e consentire l'istradamento
+
+3
+00:00:13,860 --> 00:00:19,640
+della richiesta secondo se è un'emergenza che riguarda un certo tipo o un altro è un'indicazione
+
+4
+00:00:19,640 --> 00:00:25,060
+anche che ci viene dall'Europa, alcuni paesi l'hanno già realizzata, rende anche più
+
+5
+00:00:25,060 --> 00:00:32,860
+semplice la vita dei cittadini e grazie a questa interoperabilità tecnica possiamo
+
+6
+00:00:32,860 --> 00:00:39,420
+anche realizzare una interoperabilità applicativa e quindi un progetto, ripeto, che stiamo alla
+
+7
+00:00:39,420 --> 00:00:49,420
+vigilia di una fase proprio di test sul campo. Ultima mia riflessione in questo dibattito
+
+8
+00:00:49,420 --> 00:00:54,860
+così schematico da parte mia, ripeto, per esigenza di tempo è probabilmente problema
+
+9
+00:00:54,860 --> 00:01:02,720
+a cuore, problema alla base. Questa nuova società dell'informazione, questa nuova
+
+10
+00:01:02,720 --> 00:01:09,140
+società che si avvale di queste tecnologie ci sta dando sicuramente delle opportunità
+
+11
+00:01:09,140 --> 00:01:15,620
+ma sta creando anche dei problemi nuovi e uno dei problemi più difficili da sciogliere
+
+12
+00:01:15,620 --> 00:01:21,640
+a mio modo di vedere è da una parte la difesa proprio attraverso questa società più aperta,
+
+13
+00:01:21,640 --> 00:01:27,080
+più democratica in cui ci sono i diritti nuovi di accesso alla rete, di trasparenza,
+
+14
+00:01:27,340 --> 00:01:33,940
+di partecipazione ma questo è garantito proprio dalla privacy come un diritto fondamentale,
+
+15
+00:01:34,100 --> 00:01:38,980
+come un diritto civile fondamentale in una società che si avvale di queste tecnologie
+
+16
+00:01:38,980 --> 00:01:46,840
+quindi la protezione dell'identità individuale e personale dall'altra che invece l'esigenza
+
+17
+00:01:46,840 --> 00:01:55,000
+della sicurezza che molto spesso entra in conflitto con i diritti della protezione
+
+18
+00:01:55,980 --> 00:02:07,360
+individuale. Queste tecnologie digitali cosa hanno? A oltre a fare tante cose hanno una
+
+19
+00:02:07,360 --> 00:02:13,640
+società digitale rimane traccia di tutto. Allora qui il problema e io credo che noi
+
+20
+00:02:13,640 --> 00:02:21,000
+non dobbiamo affrontarlo in termini ideologici o rigidi, dobbiamo essere molto pragmatici
+
+21
+00:02:21,000 --> 00:02:28,380
+nel trovare quotidianamente o nelle fasi storiche in cui noi viviamo il giusto equilibrio tra
+
+22
+00:02:28,380 --> 00:02:36,660
+privacy, cioè protezione della sfera individuale e esigenza di sicurezza. Certo se mi si chiede
+
+23
+00:02:36,660 --> 00:02:42,420
+oggi una scelta personale ma che poi dobbiamo fare come collettività di dare a priori
+
+24
+00:02:42,420 --> 00:02:48,720
+le informazioni che riguardano la mia identità per volare su un aereo che mi porta negli
+
+25
+00:02:48,720 --> 00:02:55,180
+Stati Uniti ma se questo mi garantisce o mi riduce al massimo il rischio che non ci sia
+
+26
+00:02:55,180 --> 00:03:02,220
+un terrorista sul mio stesso aereo io personalmente sono disposto a dare queste informazioni
+
+27
+00:03:02,220 --> 00:03:07,280
+perché mi garantisce un maggior livello di sicurezza o se volete più banalmente io
+
+28
+00:03:07,280 --> 00:03:13,420
+sono più disponibile ad entrare in una banca che ha delle telecamere e che registra il
+
+29
+00:03:13,420 --> 00:03:19,160
+mio ingresso se questo mi dà, come mi dà, maggiore fiducia che nel momento in cui sono
+
+30
+00:03:19,160 --> 00:03:26,020
+in banca non viene un terrorista o un bandito per fare una rapina in cui possa essere coinvolto
+
+31
+00:03:26,020 --> 00:03:32,120
+e quindi mi invoglia per certi aspetti, c'è un baratto qui tra la mia identità, la mia
+
+32
+00:03:32,120 --> 00:03:38,080
+protezione, la mia sfera individuale privata e il fatto che vengono queste informazioni
+
+33
+00:03:38,620 --> 00:03:44,940
+utilizzate. Il problema però a mio modo di vedere non è qui il baratto, non è il fatto
+
+34
+00:03:44,940 --> 00:03:51,340
+se dobbiamo registrare o meno queste informazioni, questa è una battaglia a modo di vedere un
+
+35
+00:03:51,340 --> 00:03:59,680
+po' di retroguardia e comunque l'esigenza della sicurezza ce la impone. La vera battaglia
+
+36
+00:03:59,680 --> 00:04:06,880
+è nell'utilizzo della memoria delle tecnologie, una volta che sono registrate queste informazioni
+
+37
+00:04:08,120 --> 00:04:16,800
+chi ha il diritto di poter accedere, in quale circostanze, solo in quelle, devono essere
+
+38
+00:04:16,800 --> 00:04:22,460
+viste e conosciute queste informazioni, chi controlla questo accesso, non dobbiamo fare
+
+39
+00:04:22,460 --> 00:04:29,180
+tanto la battaglia dell'acquisizione di questi dati, un'identità elettronica lascia tracce
+
+40
+00:04:29,180 --> 00:04:34,740
+del nostro attività, già la carta di credito oggi lascia tracce se vogliamo comprare o
+
+41
+00:04:34,740 --> 00:04:41,960
+meno quindi non è questo il problema della visibilità dei nostri comportamenti, il problema
+
+42
+00:04:41,960 --> 00:04:48,580
+vero è una volta di fronte all'emergenza, ad attacchi o di terrorismo e abbiamo avuto
+
+43
+00:04:48,580 --> 00:04:56,580
+esempi eclatanti proprio nel nostro Paese, ma o di prevenzione, di attacchi futuri, minacce,
+
+44
+00:04:57,020 --> 00:05:03,600
+chi deve intervenire per conoscere e avere visione di questi dati. Quindi lucida a me
+
+45
+00:05:03,600 --> 00:05:08,200
+di dire che dobbiamo registrare l'informazione, deve essere registrato il grande fratello,
+
+46
+00:05:08,550 --> 00:05:14,520
+ma dobbiamo essere consapevoli che questa è una scelta difficile ma che va fatta considerando
+
+47
+00:05:14,520 --> 00:05:19,300
+anche lo stato, il momento in cui ci troviamo e in questo momento in considerazione anche
+
+48
+00:05:19,300 --> 00:05:26,200
+del tema che oggi dibattiamo del terrorismo, credo che una maggiore rilevanza della sicurezza
+
+49
+00:05:26,960 --> 00:05:32,600
+rispetto a una privacy che comunque nei limiti possibili deve essere difesa e mantenuta è
+
+50
+00:05:32,600 --> 00:05:43,340
+una scelta necessaria, assolutamente necessaria nel quadro però di una certezza giudica che
+
+51
+00:05:43,340 --> 00:05:57,600
+deve essere data a noi cittadini. Grazie. Molte grazie al Ministro Stanca, come avete
+
+52
+00:05:57,600 --> 00:06:04,380
+visto man mano che intervengono gli interlocutori noi abbiamo la conferma delle idee base che
+
+53
+00:06:04,380 --> 00:06:10,160
+hanno mosso questo convegno. Nel momento in cui il Ministro dell'Innovazione Tecnologica
+
+54
+00:06:10,160 --> 00:06:16,340
+parla non può e non fa altro che fare riferimenti a quei protagonisti che abbiamo ascoltato prima,
+
+55
+00:06:16,960 --> 00:06:21,920
+ai responsabili del sistema bancario, delle ferrovie, della distribuzione dell'energia,
+
+56
+00:06:22,700 --> 00:06:27,840
+al Ministro Gasparli che ha parlato due minuti prima, cioè vi è un'integrazione che è nelle
+
+57
+00:06:27,840 --> 00:06:33,800
+parole, deve essere anche nei fatti, perché se il sistema Paese non realizza questa sinergia
+
+58
+00:06:33,800 --> 00:06:39,380
+anche nei confronti di questa minaccia il discorso naturalmente non ha nessun valore
+
+59
+00:06:39,380 --> 00:06:45,720
+nel momento in cui è fatto settore per settore. È chiaro però che a queste responsabilità
+
+60
+00:06:45,720 --> 00:06:52,780
+parziali oltre alla necessità dell'integrazione sul piano orizzontale è anche necessaria
+
+61
+00:06:53,920 --> 00:07:00,000
+un coordinamento ed una guida sul piano verticale che non può che venire dalla Presidenza del
+
+62
+00:07:00,000 --> 00:07:07,020
+Consiglio e poi eventualmente da chi è il protagonista nei confronti della sicurezza
+
+63
+00:07:07,020 --> 00:07:13,180
+nazionale. Grazie ancora comunque all'onorevole Stanca, chiedo adesso all'onorevole Letta
+
+64
+00:07:13,180 --> 00:07:19,800
+che sempre è a siduo e risponde gentilmente alle mie iniziative, voglio ricordare che
+
+65
+00:07:19,800 --> 00:07:26,020
+l'onorevole Letta, già Ministro delle attività produttive nel precedente Governo, rispose
+
+66
+00:07:27,020 --> 00:07:33,140
+affermativamente ai miei appelli quando era Ministro, continua a farlo come rappresentante
+
+67
+00:07:33,140 --> 00:07:40,380
+dell'opposizione, caratterizza sempre con grande stile la bipolarità del bipartisan
+
+68
+00:07:40,380 --> 00:07:44,900
+di questi interventi e lo farà ancora una volta. Prego Gianni.
+
+69
+00:07:46,880 --> 00:07:54,860
+Grazie Luigi Ramponi, io ritengo molto utile la conversazione di oggi e quindi da parte
+
+70
+00:07:54,860 --> 00:08:01,000
+mia c'è stata soprattutto la curiosità di trarre elementi che siano utili, ovviamente
+
+71
+00:08:01,000 --> 00:08:07,820
+dare un contributo, anche se un contributo molto limitato, perché credo che su una materia
+
+72
+00:08:07,820 --> 00:08:13,980
+come questa sia talmente delicata e talmente nuova la sfida che abbiamo di fronte che
+
+73
+00:08:13,980 --> 00:08:21,300
+credo tutti dobbiamo approcciarla con grande umiltà e anche con grande assenza di certezze
+
+74
+00:08:21,300 --> 00:08:26,940
+predefinite, credo che questo sia l'atteggiamento col quale sarebbe importante ed è importante
+
+75
+00:08:26,940 --> 00:08:33,280
+che tutti noi ci muoviamo rispetto a questo tema, soprattutto chi ha responsabilità istituzionale,
+
+76
+00:08:33,280 --> 00:08:39,920
+nel senso che ci muoviamo di fronte a un tema, a un settore in cui le novità dell'innovazione
+
+77
+00:08:40,680 --> 00:08:48,680
+tecnologica, le novità del sistema a rete, della interscambiabilità, delle relazioni,
+
+78
+00:08:49,100 --> 00:08:56,280
+dei movimenti, di ciò che cambia è talmente importante e impressionante che questo incide
+
+79
+00:08:56,280 --> 00:09:01,720
+ovviamente in modo molto, molto rilevante sulle vicende che hanno a che fare anche e soprattutto
+
+80
+00:09:01,720 --> 00:09:06,700
+con le regole, le leggi, le istituzioni e quindi il modo di fare.
+
+81
+00:09:08,380 --> 00:09:15,020
+Io molto rapidamente dirò, mi sono segnato cinque punti, il primo è quello di partenza
+
+82
+00:09:15,020 --> 00:09:21,460
+e quello di partenza è dato proprio dal concetto nuovo di vulnerabilità che abbiamo appreso
+
+83
+00:09:21,460 --> 00:09:27,300
+in questi anni, in questi mesi e che è un concetto diverso da quello del passato, vulnerabilità
+
+84
+00:09:27,300 --> 00:09:32,500
+intesa non più in senso tradizionale, la vulnerabilità tradizionale abbiamo sempre
+
+85
+00:09:32,500 --> 00:09:38,180
+conosciuta o come vulnerabilità dovuta a atti di guerra, vere e propri, quindi il tutto,
+
+86
+00:09:38,600 --> 00:09:45,160
+o vulnerabilità legata a atti di terrorismo contro singoli, quindi dal singolo al tutto.
+
+87
+00:09:45,380 --> 00:09:53,780
+Oggi abbiamo di fronte invece una variegata nuova serie di possibili attacchi alla nostra
+
+88
+00:09:53,780 --> 00:09:58,820
+convivenza, al nostro modo di essere, al nostro modo di vivere che non sono più riconducibili
+
+89
+00:09:58,820 --> 00:10:06,020
+a questa classica bipartizione, ma che sono talmente variegati che finiscono per avere
+
+90
+00:10:06,020 --> 00:10:10,160
+difficoltà anche da parte di chi si mette a ragionare di queste cose analiticamente
+
+91
+00:10:10,160 --> 00:10:15,740
+trovare delle catalogazioni. La vulnerabilità da questo punto di vista quindi trova delle
+
+92
+00:10:15,740 --> 00:10:21,920
+difficili catalogazioni, soprattutto delle difficili capacità di dare risposte semplicemente
+
+93
+00:10:21,920 --> 00:10:27,700
+teoriche, vulnerabilità che a tutto campo totale è assolutamente imprevedibile, credo
+
+94
+00:10:27,700 --> 00:10:33,380
+che le vicende alle quali abbiamo assistito solo alcuni anni prima sarebbero state anche
+
+95
+00:10:34,100 --> 00:10:41,100
+impensabili nella cinematografia, invece le abbiamo viste accadere. Credo che questo elemento
+
+96
+00:10:41,100 --> 00:10:46,280
+sia il vero elemento nuovo di questi anni, che quindi impone un salto di qualità anche
+
+97
+00:10:46,280 --> 00:10:51,900
+nel modo di essere della replica, della reazione, che ovviamente non può più essere soltanto
+
+98
+00:10:51,900 --> 00:10:57,400
+legata a atteggiamenti e approcci classici, ma deve naturalmente dare grande prova di
+
+99
+00:10:57,400 --> 00:11:05,480
+fantasia anche e di capacità di andare su elementi di probabilità molto diversi rispetto
+
+100
+00:11:05,480 --> 00:11:11,940
+al passato, ipotesi che sembravano assolutamente improbabili si sono realizzate, quindi anche
+
+101
+00:11:11,940 --> 00:11:18,320
+la capacità di andare a prevedere l'imprevedibile obbliga un maggiore, naturalmente, dispendio
+
+102
+00:11:18,320 --> 00:11:26,160
+di energie e di risorse. Rispetto a questo faccio un punto particolare scegliendo uno
+
+103
+00:11:26,160 --> 00:11:31,460
+dei temi che nel convegno sono stati affrontati, che a mio avviso è probabilmente in prospettiva
+
+104
+00:11:31,460 --> 00:11:38,400
+uno dei più importanti, che è la vulnerabilità nel campo degli approvvigionamenti energetici
+
+105
+00:11:38,400 --> 00:11:45,440
+e nel campo ovviamente della sicurezza delle fonti. Credo che su questo tema sia necessario
+
+106
+00:11:46,900 --> 00:11:52,280
+una particolare attenzione, soprattutto da un Paese come il nostro, che è particolarmente
+
+107
+00:11:52,280 --> 00:11:58,430
+vulnerabile, lo abbiamo visto perché non c'è stato bisogno di gravi...
+
+108
+00:12:04,840 --> 00:12:09,520
+...particolare attenzione, soprattutto da un Paese come il nostro, che è particolarmente
+
+109
+00:12:09,520 --> 00:12:15,640
+vulnerabile, lo abbiamo visto perché non c'è stato bisogno di gravi...
+
+110
+00:12:27,260 --> 00:12:34,500
+...tirato giù l'intera rete nazionale e questo ci porta a dire che la necessità su questi
+
+111
+00:12:34,500 --> 00:12:40,820
+temi di un'attenzione in campo energetico è una necessità per l'Italia molto, credo,
+
+112
+00:12:41,060 --> 00:12:46,920
+prioritaria particolare. In particolare su questo mi veda indicare tre punti che sono
+
+113
+00:12:46,920 --> 00:12:54,300
+quelli che ritengo essere quelli centrali. Il primo, noi abbiamo una scarsa differenziazione
+
+114
+00:12:54,300 --> 00:13:01,320
+di canali di ingresso nel nostro Paese di alcune delle fonti di energia principali. In particolare
+
+115
+00:13:01,320 --> 00:13:08,720
+abbiamo una, a mio avviso, insufficiente capacità di penetrazione del gas metano attraverso
+
+116
+00:13:09,560 --> 00:13:17,980
+i gas doti esistenti che sono sottodimensionati rispetto alla crescita della domanda di gas
+
+117
+00:13:17,980 --> 00:13:24,840
+metano in previsione futura e quindi già oggi rappresentano in mancanza di sufficienti investimenti
+
+118
+00:13:25,560 --> 00:13:33,580
+una via di ingresso sicuramente sottodimensionata, ristretta, rispetto alla quale la necessità
+
+119
+00:13:33,580 --> 00:13:39,420
+di investimenti, differenziazione, costruzione di nuove vie di accesso al nostro Paese rappresenta
+
+120
+00:13:39,420 --> 00:13:44,520
+una delle priorità che anche in questo caso non c'è bisogno di mettere in campo molta
+
+121
+00:13:44,520 --> 00:13:51,220
+fantasia, è chiara a tutti che questo è un problema, cioè l'ingresso del gas nel nostro
+
+122
+00:13:51,220 --> 00:13:57,700
+Paese del metano è strozzato e quindi eventuali atti terroristici che avessero a che fare
+
+123
+00:13:57,700 --> 00:14:04,600
+con le poche fonti di ingresso oggi esistenti finirebbero per avere facilissimo gioco nel
+
+124
+00:14:04,600 --> 00:14:11,400
+mettere il nostro Paese in ginocchio da questo punto di vista e siccome non sembra che stia
+
+125
+00:14:11,400 --> 00:14:17,700
+accadendo molto in questo metto questo punto come una delle priorità invece sulle quali
+
+126
+00:14:17,700 --> 00:14:24,760
+sia il quasi monopolista nazionale ENI, sia gli altri soggetti pubblici, sia il regolatore
+
+127
+00:14:24,760 --> 00:14:29,000
+e chi ha le responsabilità delle politiche energetiche del Paese deve sicuramente farsi
+
+128
+00:14:29,000 --> 00:14:33,440
+carico di questo punto. C'è un secondo grande tema che è quello che ha a che fare con la
+
+129
+00:14:33,440 --> 00:14:40,860
+modernamento della rete elettrica, come spesso capita nel nostro Paese, spesso è sotto qualunque
+
+130
+00:14:40,860 --> 00:14:48,880
+colore politico, abbiamo una grande capacità di accalorarci su discussioni che fanno moda,
+
+131
+00:14:49,980 --> 00:14:54,340
+abbiamo avuto almeno un buon trimestre in cui non si è parlato altro che del blackout,
+
+132
+00:14:54,660 --> 00:15:01,320
+delle soluzioni della blackout, abbiamo fatto almeno un 4-5 porta a porta che si sono occupati
+
+133
+00:15:01,320 --> 00:15:07,960
+dell'argomento, ne abbiamo parlato in Parlamento, non è stata data nessuna forma di seguito
+
+134
+00:15:07,960 --> 00:15:17,020
+concreto di tipo legislativo, amministrativo ai fatti che sono venuti in evidenza rispetto
+
+135
+00:15:17,020 --> 00:15:23,320
+a quella vicenda, non parlo soltanto del blackout del 27 settembre che in fondo ha rappresentato
+
+136
+00:15:23,320 --> 00:15:30,860
+un elemento molto particolare essendo avvenuto di notte quando la bassa richiesta di energia
+
+137
+00:15:30,860 --> 00:15:36,500
+non aveva portato certo un elemento di sovra, ma parlo del distacchio di energia del mese
+
+138
+00:15:36,500 --> 00:15:41,120
+di giugno che invece avevano portato a una situazione di rapporto tra domande offerte
+
+139
+00:15:41,120 --> 00:15:47,540
+chiaramente in corto circuito, sappiamo tutti che l'avvicinarsi dell'estate riavvicina
+
+140
+00:15:47,540 --> 00:15:53,760
+il problema e affrontiamo l'estate senza aver modificato strutturalmente le cose, aggiungo
+
+141
+00:15:53,760 --> 00:16:04,980
+che è ormai da mesi davanti ai contrasti che stanno bloccando i lavori del Cipe, il finanziamento
+
+142
+00:16:04,980 --> 00:16:13,220
+per il completamento della San Floreano Robbia che rappresenta l'elemento chiave della modernamento
+
+143
+00:16:13,220 --> 00:16:18,260
+delle nostre linee di approvisionamento di energia elettrica, in questo caso dalla Svizzera
+
+144
+00:16:18,260 --> 00:16:24,460
+e che rappresentano uno degli elementi chiave della vicenda, se il Cipe continua a bloccare
+
+145
+00:16:24,460 --> 00:16:29,240
+a non occuparsi di questa cosa noi non soltanto quest'estate ma nemmeno l'estate prossima
+
+146
+00:16:29,240 --> 00:16:36,260
+quella dopo ancora potremmo dire di essere tranquilli dal punto di vista dell'approvvigionamento
+
+147
+00:16:36,260 --> 00:16:43,400
+di energia elettrica dall'estero estante il fatto che la capacità di produzione nazionale
+
+148
+00:16:43,400 --> 00:16:51,840
+con la lentezza nota nell'istituzione, nell'organizzazione, nella messa in essere di nuove centrali elettriche
+
+149
+00:16:51,840 --> 00:16:58,260
+diventa un effetto cronico. Terzo punto il rapporto tra il ruolo pubblico e i processi
+
+150
+00:16:58,260 --> 00:16:59,340
+di liberalizzazione.
+
