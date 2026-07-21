@@ -14,9 +14,9 @@ import os
 
 
 DATA = [
-    #("draghi", "/soggetti/46315/mario-draghi"),
+    ("draghi", "/soggetti/46315/mario-draghi"),
     #("meloni", "/soggetti/94729/giorgia-meloni"),
-    ("conte", "/soggetti/110925/giuseppe-conte"),
+    #("conte", "/soggetti/110925/giuseppe-conte"),
     #("gentiloni", "/soggetti/243521/paolo-gentiloni"),
     #("renzi", "/soggetti/74722/matteo-renzi"),
     #("letta", "/soggetti/40755/enrico-letta"),
@@ -363,13 +363,12 @@ def extract_speech_details(url: str, speaker: str, timeout: int = 20) -> dict:
         print(f"Timestamps format clock eg 17:00 -> 17:30")
 
     
-    # Collect ALL occurrences of the speaker
     for li in soup.select("li.intervento"):
         h2 = li.find("h2")
         if h2 and speaker.lower() in h2.get_text().lower():
             result["speaker_found"] = True
             ts = parse_timestamps(li, is_clock_time=is_clock_time, event_start=event_start)
-            if ts["start_time"] or ts["duration_seconds"] is not None:
+            if ts["start_time"] is not None:          # <-- only real timestamped entries
                 result["interventions"].append(ts)
 
     if not result["speaker_found"]:
