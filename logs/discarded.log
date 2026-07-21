@@ -4732,3 +4732,6 @@ renzi  2026-07-21 20:31:09.288359  https://www.radioradicale.it/scheda/469366/sc
 renzi  2026-07-21 20:37:43.736883  https://www.radioradicale.it/scheda/461202/leopolda-6-terra-degli-uomini-terza-e-conclusiva-giornata?i=3495839  TypeError: string indices must be integers, not 'str'
 renzi  2026-07-21 20:57:18.809833  https://www.radioradicale.it/scheda/448211/assemblea-nazionale-del-partito-democratico?i=3441078  TypeError: string indices must be integers, not 'str'
 renzi  2026-07-21 20:57:20.633030  https://www.radioradicale.it/scheda/437548/direzione-nazionale-del-partito-democratico?i=3402215  TypeError: string indices must be integers, not 'str'
+renzi  2026-07-21 22:00:01.251728  https://www.radioradicale.it/scheda/516952/festa-de-lunita-di-livorno-matteo-renzi-presenta-avanti-perche-litalia-non-si-ferma?i=3745126  TypeError: string indices must be integers, not 'str'
+renzi  2026-07-21 22:00:03.046178  https://www.radioradicale.it/scheda/516757/festa-regionale-del-partito-democratico-dellemilia-romagna-di-villalunga-matteo-renzi?i=3744725  TypeError: string indices must be integers, not 'str'
+renzi  2026-07-21 22:00:06.163808  https://www.radioradicale.it/scheda/516817/festa-de-lunita-castelfiorentino-incontro-con-matteo-renzi?i=3747598  TypeError: string indices must be integers, not 'str'
