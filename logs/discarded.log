@@ -4671,3 +4671,4 @@ andreotti  2026-07-21 03:14:40.199674  https://www.radioradicale.it/scheda/11726
 andreotti  2026-07-21 03:25:45.695380  https://www.radioradicale.it/scheda/8915/allordine-del-giorno-del-governo-la-nuova-legge-contro-la-fame?i=2782671  ValueError: No timestamps
 andreotti  2026-07-21 03:25:47.530077  https://www.radioradicale.it/scheda/8858/riunione-del-consiglio-dei-ministri?i=2782759  ValueError: No timestamps
 andreotti  2026-07-21 03:28:46.945020  https://www.radioradicale.it/scheda/61/crisi-di-governo?i=2820620  ValueError: No timestamps
+andreotti  2026-07-21 04:36:01.232668  https://www.radioradicale.it/scheda/138008/politiche-2001-manifestazione-di-democrazia-europea-presso-il-cinema-santa-lucia-via?i=1570635  ValueError: No timestamps
