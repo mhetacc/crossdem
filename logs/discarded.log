@@ -4846,3 +4846,8 @@ prodi  2026-07-22 10:57:58.042595  https://www.radioradicale.it/scheda/207327/in
 prodi  2026-07-22 10:57:59.758396  https://www.radioradicale.it/scheda/254324/concorrenza-bene-pubblico?i=1024758  TypeError: string indices must be integers, not 'str'
 prodi  2026-07-22 11:00:43.646337  https://www.radioradicale.it/scheda/223320/prima-il-futuro-prima-il-cittadino-nuove-frontiere-nuovi-strumenti?i=1175164  TypeError: string indices must be integers, not 'str'
 prodi  2026-07-22 11:00:44.324224  https://www.radioradicale.it/scheda/223304/il-futuro-del-paese-romano-prodi-incontra-i-giovani?i=1175210  TypeError: string indices must be integers, not 'str'
+prodi  2026-07-22 11:05:34.749629  https://www.radioradicale.it/scheda/218830/faccia-a-faccia-tra-guglielmo-epifani-e-romano-prodi?i=1203301  TypeError: string indices must be integers, not 'str'
+prodi  2026-07-22 11:05:36.936401  https://www.radioradicale.it/scheda/165012/2a-assemblea-nazionale-della-rete-dei-cittadini-per-lulivo?i=1307146  TypeError: string indices must be integers, not 'str'
+prodi  2026-07-22 11:05:38.860409  https://www.radioradicale.it/scheda/159654/ezio-mauro-intervista-romano-prodi-organizzato-dai-democratici-di-sinistra-nellambito?i=1364134  TypeError: string indices must be integers, not 'str'
+prodi  2026-07-22 11:05:40.686726  https://www.radioradicale.it/scheda/157419/new-deal-delle-donne-new-deal-del-paese-leuropa-nel-cuore-di-un-mondo-nuovo-incontro?i=1386545  TypeError: string indices must be integers, not 'str'
+prodi  2026-07-22 11:28:44.819401  https://www.radioradicale.it/scheda/153512/nel-suo-nome-dio-e-il-confronto-delle-civilta-organizzato-dalla-rivista-quindicinale?i=1421350  TypeError: string indices must be integers, not 'str'
