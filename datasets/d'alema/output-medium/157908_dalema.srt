@@ -1,0 +1,708 @@
+1
+00:00:29,340 --> 00:00:29,860
+Sottotitoli a cura di QTSS
+
+2
+00:00:58,900 --> 00:00:59,920
+Sottotitoli a cura di QTSS
+
+3
+00:01:28,940 --> 00:01:29,920
+Sottotitoli a cura di QTSS
+
+4
+00:01:59,240 --> 00:01:59,940
+Sottotitoli a cura di QTSS
+
+5
+00:02:29,740 --> 00:02:29,980
+Sottotitoli a cura di QTSS
+
+6
+00:02:58,160 --> 00:02:59,980
+Sottotitoli a cura di QTSS
+
+7
+00:03:27,380 --> 00:03:29,980
+Sottotitoli a cura di QTSS
+
+8
+00:03:59,760 --> 00:03:59,980
+Sottotitoli a cura di QTSS
+
+9
+00:04:27,680 --> 00:04:29,980
+Sottotitoli a cura di QTSS
+
+10
+00:04:58,480 --> 00:04:59,980
+Sottotitoli a cura di QTSS
+
+11
+00:05:29,760 --> 00:05:29,980
+Sottotitoli a cura di QTSS
+
+12
+00:05:58,580 --> 00:05:59,980
+Sottotitoli a cura di QTSS
+
+13
+00:06:29,700 --> 00:06:29,980
+Sottotitoli a cura di QTSS
+
+14
+00:06:59,060 --> 00:06:59,980
+Sottotitoli a cura di QTSS
+
+15
+00:07:29,160 --> 00:07:29,620
+Sottotitoli a cura di QTSS
+
+16
+00:07:58,580 --> 00:07:59,980
+Sottotitoli a cura di QTSS
+
+17
+00:08:28,500 --> 00:08:29,980
+Sottotitoli a cura di QTSS
+
+18
+00:08:58,880 --> 00:08:59,980
+Sottotitoli a cura di QTSS
+
+19
+00:09:28,960 --> 00:09:29,920
+Sottotitoli a cura di QTSS
+
+20
+00:09:58,580 --> 00:09:59,980
+Sottotitoli a cura di QTSS
+
+21
+00:10:29,740 --> 00:10:29,980
+Sottotitoli a cura di QTSS
+
+22
+00:10:58,580 --> 00:10:59,980
+Sottotitoli a cura di QTSS
+
+23
+00:11:28,580 --> 00:11:29,980
+Sottotitoli a cura di QTSS
+
+24
+00:11:59,840 --> 00:11:59,980
+Sottotitoli a cura di QTSS
+
+25
+00:12:29,680 --> 00:12:29,980
+Sottotitoli a cura di QTSS
+
+26
+00:12:59,760 --> 00:12:59,980
+Sottotitoli a cura di QTSS
+
+27
+00:13:29,460 --> 00:13:29,980
+Sottotitoli a cura di QTSS
+
+28
+00:13:57,360 --> 00:13:59,980
+Sottotitoli a cura di QTSS
+
+29
+00:14:27,720 --> 00:14:29,980
+Sottotitoli a cura di QTSS
+
+30
+00:14:58,980 --> 00:14:59,980
+Sottotitoli a cura di QTSS
+
+31
+00:15:29,540 --> 00:15:29,980
+Sottotitoli a cura di QTSS
+
+32
+00:15:57,720 --> 00:15:59,980
+Sottotitoli a cura di QTSS
+
+33
+00:16:28,360 --> 00:16:29,960
+Sottotitoli a cura di QTSS
+
+34
+00:16:59,240 --> 00:16:59,980
+Sottotitoli a cura di QTSS
+
+35
+00:17:25,860 --> 00:17:29,980
+Sottotitoli a cura di QTSS
+
+36
+00:17:57,560 --> 00:17:59,980
+Sottotitoli a cura di QTSS
+
+37
+00:18:29,580 --> 00:18:29,980
+Sottotitoli a cura di QTSS
+
+38
+00:18:58,680 --> 00:18:59,980
+Sottotitoli a cura di QTSS
+
+39
+00:19:28,600 --> 00:19:29,980
+Sottotitoli a cura di QTSS
+
+40
+00:19:59,600 --> 00:19:59,980
+Sottotitoli a cura di QTSS
+
+41
+00:20:28,280 --> 00:20:29,980
+Sottotitoli a cura di QTSS
+
+42
+00:20:58,580 --> 00:20:59,980
+Sottotitoli a cura di QTSS
+
+43
+00:21:28,640 --> 00:21:29,980
+Sottotitoli a cura di QTSS
+
+44
+00:21:59,620 --> 00:21:59,980
+Sottotitoli a cura di QTSS
+
+45
+00:22:27,420 --> 00:22:29,980
+Sottotitoli a cura di QTSS
+
+46
+00:22:58,560 --> 00:22:59,980
+Sottotitoli a cura di QTSS
+
+47
+00:23:29,580 --> 00:23:29,980
+Sottotitoli a cura di QTSS
+
+48
+00:23:59,660 --> 00:23:59,980
+Sottotitoli a cura di QTSS
+
+49
+00:24:27,540 --> 00:24:29,980
+Sottotitoli a cura di QTSS
+
+50
+00:24:59,440 --> 00:24:59,980
+Sottotitoli a cura di QTSS
+
+51
+00:25:29,500 --> 00:25:29,980
+Sottotitoli a cura di QTSS
+
+52
+00:25:58,340 --> 00:25:59,980
+Sottotitoli a cura di QTSS
+
+53
+00:26:28,580 --> 00:26:29,980
+Sottotitoli a cura di QTSS
+
+54
+00:26:59,160 --> 00:26:59,980
+Sottotitoli a cura di QTSS
+
+55
+00:27:29,580 --> 00:27:29,980
+Sottotitoli a cura di QTSS
+
+56
+00:27:58,700 --> 00:27:59,980
+Sottotitoli a cura di QTSS
+
+57
+00:28:29,680 --> 00:28:29,980
+Sottotitoli a cura di QTSS
+
+58
+00:28:57,760 --> 00:28:59,980
+Sottotitoli a cura di QTSS
+
+59
+00:29:28,880 --> 00:29:29,980
+Sottotitoli a cura di QTSS
+
+60
+00:29:59,780 --> 00:29:59,980
+Sottotitoli a cura di QTSS
+
+61
+00:30:28,580 --> 00:30:29,980
+Sottotitoli a cura di QTSS
+
+62
+00:30:57,560 --> 00:30:59,980
+Sottotitoli a cura di QTSS
+
+63
+00:31:29,800 --> 00:31:29,980
+Sottotitoli a cura di QTSS
+
+64
+00:31:59,100 --> 00:31:59,980
+Sottotitoli a cura di QTSS
+
+65
+00:32:29,840 --> 00:32:29,980
+Sottotitoli a cura di QTSS
+
+66
+00:32:59,640 --> 00:32:59,980
+Sottotitoli a cura di QTSS
+
+67
+00:33:29,100 --> 00:33:29,980
+Sottotitoli a cura di QTSS
+
+68
+00:33:55,660 --> 00:33:59,980
+Sottotitoli a cura di QTSS
+
+69
+00:34:29,600 --> 00:34:29,980
+Sottotitoli a cura di QTSS
+
+70
+00:34:59,220 --> 00:34:59,980
+Sottotitoli a cura di QTSS
+
+71
+00:35:26,200 --> 00:35:29,980
+Sottotitoli a cura di QTSS
+
+72
+00:35:58,920 --> 00:35:59,820
+Sottotitoli a cura di QTSS
+
+73
+00:36:29,160 --> 00:36:29,980
+Sottotitoli a cura di QTSS
+
+74
+00:36:58,200 --> 00:36:59,980
+Sottotitoli a cura di QTSS
+
+75
+00:37:29,660 --> 00:37:29,980
+Sottotitoli a cura di QTSS
+
+76
+00:37:59,320 --> 00:37:59,960
+Sottotitoli a cura di QTSS
+
+77
+00:38:28,340 --> 00:38:29,960
+Sottotitoli a cura di QTSS
+
+78
+00:38:59,820 --> 00:38:59,960
+Sottotitoli a cura di QTSS
+
+79
+00:39:28,560 --> 00:39:29,960
+Sottotitoli a cura di QTSS
+
+80
+00:39:58,840 --> 00:39:59,880
+Sottotitoli a cura di QTSS
+
+81
+00:40:29,720 --> 00:40:29,960
+Sottotitoli a cura di QTSS
+
+82
+00:40:59,380 --> 00:40:59,960
+Sottotitoli a cura di QTSS
+
+83
+00:41:28,100 --> 00:41:29,960
+Sottotitoli a cura di QTSS
+
+84
+00:41:59,640 --> 00:41:59,960
+Sottotitoli a cura di QTSS
+
+85
+00:42:29,540 --> 00:42:29,960
+Sottotitoli a cura di QTSS
+
+86
+00:42:59,320 --> 00:42:59,960
+Sottotitoli a cura di QTSS
+
+87
+00:43:28,940 --> 00:43:29,960
+Sottotitoli a cura di QTSS
+
+88
+00:43:59,800 --> 00:43:59,960
+Sottotitoli a cura di QTSS
+
+89
+00:44:28,920 --> 00:44:29,960
+Sottotitoli a cura di QTSS
+
+90
+00:44:58,580 --> 00:44:59,960
+Sottotitoli a cura di QTSS
+
+91
+00:45:28,260 --> 00:45:29,660
+Sottotitoli a cura di QTSS
+
+92
+00:45:59,560 --> 00:45:59,960
+Sottotitoli a cura di QTSS
+
+93
+00:46:28,680 --> 00:46:29,960
+Sottotitoli a cura di QTSS
+
+94
+00:46:55,260 --> 00:46:57,460
+Sottotitoli a cura di QTSS
+
+95
+00:47:29,360 --> 00:47:29,960
+Sottotitoli a cura di QTSS
+
+96
+00:47:58,720 --> 00:47:59,960
+Sottotitoli a cura di QTSS
+
+97
+00:48:28,940 --> 00:48:29,960
+Sottotitoli a cura di QTSS
+
+98
+00:48:59,240 --> 00:48:59,960
+Sottotitoli a cura di QTSS
+
+99
+00:49:28,620 --> 00:49:29,960
+Sottotitoli a cura di QTSS
+
+100
+00:49:59,640 --> 00:49:59,960
+Sottotitoli a cura di QTSS
+
+101
+00:50:25,760 --> 00:50:29,960
+Sottotitoli a cura di QTSS
+
+102
+00:50:58,900 --> 00:50:59,960
+Sottotitoli a cura di QTSS
+
+103
+00:51:24,680 --> 00:51:29,960
+Sottotitoli a cura di QTSS
+
+104
+00:51:59,480 --> 00:51:59,960
+Sottotitoli a cura di QTSS
+
+105
+00:52:25,760 --> 00:52:29,960
+Sottotitoli a cura di QTSS
+
+106
+00:52:58,180 --> 00:52:59,960
+Sottotitoli a cura di QTSS
+
+107
+00:53:29,740 --> 00:53:29,960
+Sottotitoli a cura di QTSS
+
+108
+00:53:58,560 --> 00:53:59,960
+Sottotitoli a cura di QTSS
+
+109
+00:54:29,740 --> 00:54:29,960
+Sottotitoli a cura di QTSS
+
+110
+00:54:58,500 --> 00:54:59,960
+Sottotitoli a cura di QTSS
+
+111
+00:55:29,600 --> 00:55:29,960
+Sottotitoli a cura di QTSS
+
+112
+00:55:58,540 --> 00:55:59,960
+Sottotitoli a cura di QTSS
+
+113
+00:56:28,680 --> 00:56:29,920
+Sottotitoli a cura di QTSS
+
+114
+00:56:58,560 --> 00:56:59,960
+Sottotitoli a cura di QTSS
+
+115
+00:57:29,260 --> 00:57:29,960
+Sottotitoli a cura di QTSS
+
+116
+00:57:58,100 --> 00:57:59,960
+Sottotitoli a cura di QTSS
+
+117
+00:58:29,240 --> 00:58:29,960
+Sottotitoli a cura di QTSS
+
+118
+00:58:58,940 --> 00:58:59,960
+Sottotitoli a cura di QTSS
+
+119
+00:59:24,700 --> 00:59:26,980
+Sottotitoli a cura di QTSS
+
+120
+00:59:56,460 --> 00:59:56,980
+Sottotitoli a cura di QTSS
+
+121
+01:00:27,600 --> 01:00:29,960
+Sottotitoli a cura di QTSS
+
+122
+01:00:59,440 --> 01:00:59,960
+Sottotitoli a cura di QTSS
+
+123
+01:01:28,800 --> 01:01:29,960
+Sottotitoli a cura di QTSS
+
+124
+01:01:55,020 --> 01:01:59,960
+Sottotitoli a cura di QTSS
+
+125
+01:02:29,540 --> 01:02:29,960
+Sottotitoli a cura di QTSS
+
+126
+01:02:59,060 --> 01:02:59,960
+Sottotitoli a cura di QTSS
+
+127
+01:03:24,900 --> 01:03:29,960
+Sottotitoli a cura di QTSS
+
+128
+01:03:58,180 --> 01:03:59,940
+Sottotitoli a cura di QTSS
+
+129
+01:04:29,420 --> 01:04:29,940
+Sottotitoli a cura di QTSS
+
+130
+01:04:58,960 --> 01:04:59,940
+Sottotitoli a cura di QTSS
+
+131
+01:05:29,720 --> 01:05:29,940
+Sottotitoli a cura di QTSS
+
+132
+01:05:59,280 --> 01:05:59,940
+Sottotitoli a cura di QTSS
+
+133
+01:06:29,080 --> 01:06:29,940
+Sottotitoli a cura di QTSS
+
+134
+01:06:59,040 --> 01:06:59,940
+Sottotitoli a cura di QTSS
+
+135
+01:07:25,900 --> 01:07:29,940
+Sottotitoli a cura di QTSS
+
+136
+01:07:59,280 --> 01:07:59,940
+Sottotitoli a cura di QTSS
+
+137
+01:08:28,540 --> 01:08:29,940
+Sottotitoli a cura di QTSS
+
+138
+01:08:59,140 --> 01:08:59,940
+Sottotitoli a cura di QTSS
+
+139
+01:09:29,220 --> 01:09:29,940
+Sottotitoli a cura di QTSS
+
+140
+01:09:59,460 --> 01:09:59,940
+Sottotitoli a cura di QTSS
+
+141
+01:10:29,720 --> 01:10:29,940
+Sottotitoli a cura di QTSS
+
+142
+01:10:58,140 --> 01:10:59,940
+Sottotitoli a cura di QTSS
+
+143
+01:11:28,980 --> 01:11:29,940
+Sottotitoli a cura di QTSS
+
+144
+01:11:59,680 --> 01:11:59,940
+Sottotitoli a cura di QTSS
+
+145
+01:12:28,880 --> 01:12:29,940
+Sottotitoli a cura di QTSS
+
+146
+01:12:58,540 --> 01:12:59,940
+Sottotitoli a cura di QTSS
+
+147
+01:13:28,540 --> 01:13:29,940
+Sottotitoli a cura di QTSS
+
+148
+01:13:58,000 --> 01:13:59,940
+Sottotitoli a cura di QTSS
+
+149
+01:14:29,020 --> 01:14:29,760
+Sottotitoli a cura di QTSS
+
+150
+01:14:57,780 --> 01:14:59,940
+Sottotitoli a cura di QTSS
+
+151
+01:15:29,360 --> 01:15:29,940
+Sottotitoli a cura di QTSS
+
+152
+01:15:57,560 --> 01:15:59,940
+Sottotitoli a cura di QTSS
+
+153
+01:16:29,260 --> 01:16:29,940
+Sottotitoli a cura di QTSS
+
+154
+01:16:59,560 --> 01:16:59,940
+Sottotitoli a cura di QTSS
+
+155
+01:17:28,640 --> 01:17:29,940
+Sottotitoli a cura di QTSS
+
+156
+01:17:59,800 --> 01:17:59,940
+Sottotitoli a cura di QTSS
+
+157
+01:18:28,540 --> 01:18:29,940
+Sottotitoli a cura di QTSS
+
+158
+01:18:58,400 --> 01:18:59,940
+Sottotitoli a cura di QTSS
+
+159
+01:19:29,840 --> 01:19:29,940
+Sottotitoli a cura di QTSS
+
+160
+01:19:58,780 --> 01:19:59,940
+Sottotitoli a cura di QTSS
+
+161
+01:20:29,120 --> 01:20:29,900
+Sottotitoli a cura di QTSS
+
+162
+01:20:58,800 --> 01:20:59,900
+Sottotitoli a cura di QTSS
+
+163
+01:21:29,660 --> 01:21:29,880
+Sottotitoli a cura di QTSS
+
+164
+01:21:58,540 --> 01:21:59,880
+Sottotitoli a cura di QTSS
+
+165
+01:22:28,480 --> 01:22:29,880
+Sottotitoli a cura di QTSS
+
+166
+01:22:59,480 --> 01:22:59,880
+Sottotitoli a cura di QTSS
+
+167
+01:23:28,520 --> 01:23:29,880
+Sottotitoli a cura di QTSS
+
+168
+01:23:59,660 --> 01:23:59,880
+Sottotitoli a cura di QTSS
+
+169
+01:24:25,120 --> 01:24:29,880
+Sottotitoli a cura di QTSS
+
+170
+01:24:58,620 --> 01:24:59,880
+Sottotitoli a cura di QTSS
+
+171
+01:25:28,480 --> 01:25:29,880
+Sottotitoli a cura di QTSS
+
+172
+01:25:58,480 --> 01:25:59,880
+Sottotitoli a cura di QTSS
+
+173
+01:26:28,900 --> 01:26:29,880
+Sottotitoli a cura di QTSS
+
+174
+01:26:59,660 --> 01:26:59,880
+Sottotitoli a cura di QTSS
+
+175
+01:27:29,660 --> 01:27:29,880
+Sottotitoli a cura di QTSS
+
+176
+01:27:58,480 --> 01:27:59,880
+Sottotitoli a cura di QTSS
+
+177
+01:27:59,900 --> 01:28:00,240
+Sottotitoli a cura di QTSS
+
