@@ -1,0 +1,748 @@
+1
+00:00:00,000 --> 00:00:07,820
+regolamentazione del settore delle telecomunicazioni, in modo da dare alle imprese una maggiore
+
+2
+00:00:07,820 --> 00:00:15,020
+libertà nella messa in atto delle loro strategie aziendali. Nella misura in cui si realizzano
+
+3
+00:00:15,020 --> 00:00:22,580
+le condizioni per una concorrenza sostenibile, la regolamentazione settoriale specifica deve
+
+4
+00:00:22,580 --> 00:00:29,680
+progressivamente lasciare spazio ad un'applicazione più ampia delle regole generali, normali
+
+5
+00:00:29,680 --> 00:00:36,260
+concorrenza. Questo è infatti l'oggetto di un'intensa discussione nell'ambito della
+
+6
+00:00:36,260 --> 00:00:43,880
+Review 99, a cui partecipano tutte le principali istituzioni dell'Unione Europea e che vede
+
+7
+00:00:43,880 --> 00:00:53,140
+mio collega Commissario Erky Likkanen impegnato in prima persona. In Italia i servizi di telecomunicazioni
+
+8
+00:00:53,140 --> 00:00:59,300
+e le infrastrutture di mercato si stanno, lo sappiamo bene, espandendo rapidamente,
+
+9
+00:00:59,760 --> 00:01:06,080
+benché esistano ancora alcuni problemi sui quali tornerò tra un attimo. La crescita
+
+10
+00:01:06,080 --> 00:01:12,760
+più rapida si è verificata nel settore della telefonia mobile. Quello italiano è attualmente
+
+11
+00:01:12,760 --> 00:01:20,560
+il principale mercato europeo in termini di abbonati e di valore. Come Commissario per
+
+12
+00:01:20,560 --> 00:01:26,880
+la politica della concorrenza vorrei delineare le principali caratteristiche della nostra
+
+13
+00:01:26,880 --> 00:01:34,180
+politica in materia di telecomunicazione, il modo in cui intendiamo affrontare i casi
+
+14
+00:01:34,180 --> 00:01:41,300
+di comportamento anticoncorrenziale e diffusioni tra imprese in un'industria caratterizzata
+
+15
+00:01:41,300 --> 00:01:49,060
+da una regolamentazione settoriale specifica, da rapidi sviluppi tecnologici, dalla convergenza
+
+16
+00:01:49,060 --> 00:01:57,420
+e dalla globalizzazione. Regolamentazione settoriale specifica e regole di concorrenza.
+
+17
+00:01:57,860 --> 00:02:05,120
+La regolamentazione settoriale è fondamentale nella prima fase della liberalizzazione per
+
+18
+00:02:05,120 --> 00:02:11,500
+permettere la realizzazione di una concorrenza efficace attraverso l'ingresso sul mercato
+
+19
+00:02:11,500 --> 00:02:18,540
+di nuovi operatori. Il ruolo della normativa comunitaria sulla concorrenza è quello di
+
+20
+00:02:18,540 --> 00:02:24,840
+garantire che questi vantaggi vengano mantenuti e che non venga ostacolata l'innovazione
+
+21
+00:02:24,840 --> 00:02:33,820
+futura. A questo scopo disponiamo di tre strumenti diversi. Il divieto di accordi anticoncorrenziali,
+
+22
+00:02:34,680 --> 00:02:41,980
+il divieto di abuso di posizione dominante e il controllo delle concentrazioni. Le norme
+
+23
+00:02:41,980 --> 00:02:48,840
+antitrust completano la regolamentazione in materia e rimangono interamente applicabili,
+
+24
+00:02:49,120 --> 00:02:55,060
+in particolare per quanto riguarda gli operatori dominanti. Il controllo delle concentrazioni
+
+25
+00:02:55,060 --> 00:03:02,720
+è molto importante e forse lo diventerà ancora più in futuro, in quanto esso mira a garantire
+
+26
+00:03:02,720 --> 00:03:10,020
+che le strutture del mercato rimangano aperte alla concorrenza anche in presenza di processi
+
+27
+00:03:10,020 --> 00:03:18,280
+di consolidamento. In che modo si collegano la regolamentazione preventiva e la concorrenza
+
+28
+00:03:18,280 --> 00:03:25,300
+nel settore delle telecomunicazioni? Come ricorderete, prima del 1998 i monopoli avevano
+
+29
+00:03:25,300 --> 00:03:32,310
+diritti esclusivi nel settore delle telecomunicazioni nella maggior parte degli Stati membri dell'Unione
+
+30
+00:03:32,310 --> 00:03:40,250
+Europea. La liberalizzazione, avviata con il primo gennaio 1998, è stata accompagnata
+
+31
+00:03:40,250 --> 00:03:47,590
+da una regolamentazione che mirava a consentire ai privati di competere con gli ex-monopolisti
+
+32
+00:03:47,590 --> 00:03:56,030
+già presenti sul mercato. Anche se molti nuovi operatori sono entrati nel mercato, non siamo
+
+33
+00:03:56,050 --> 00:04:02,850
+in una situazione di concorrenza sostenibile con un numero sufficiente di nuove imprese
+
+34
+00:04:02,850 --> 00:04:14,570
+in grado di operare indipendentemente. Non siamo ancora in una situazione di concorrenza
+
+35
+00:04:14,570 --> 00:04:21,570
+sostenibile, con un numero sufficiente di nuove imprese in grado di operare indipendentemente
+
+36
+00:04:29,850 --> 00:04:39,830
+a quanto è strettamente necessario per garantire concorrenza ed efficienza economica. La regolamentazione
+
+37
+00:04:39,830 --> 00:04:46,970
+serve infatti per gestire la transizione dai monopoli alla concorrenza e dovrebbe dunque
+
+38
+00:04:46,970 --> 00:04:52,330
+progressivamente essere eliminata con l'aumentare di quest'ultima, cioè della concorrenza.
+
+39
+00:04:52,750 --> 00:04:59,410
+Il primo passo in questa direzione, primo ma che rappresenta un importante elemento della
+
+40
+00:04:59,410 --> 00:05:06,910
+revisione in atto del quadro regolamentare, è l'allineamento del criterio del potere
+
+41
+00:05:06,910 --> 00:05:13,530
+del mercato significativo applicato per la regolamentazione preventiva con il criterio
+
+42
+00:05:13,530 --> 00:05:20,610
+della posizione dominante sul mercato contenuto nelle regole di concorrenza. Si tratta, a
+
+43
+00:05:20,610 --> 00:05:28,110
+nostro giudizio, del modo migliore per avviare la transizione da una regolamentazione asimmetrica
+
+44
+00:05:28,110 --> 00:05:35,790
+specifica al settore verso le norme generali della concorrenza. Esistono diversi esempi
+
+45
+00:05:35,790 --> 00:05:42,190
+di applicazione efficace delle regole di concorrenza comunitarie nel settore delle
+
+46
+00:05:42,190 --> 00:05:49,390
+telecomunicazioni da quando è stata avviata la liberalizzazione. Per quanto riguarda l'abuso
+
+47
+00:05:49,390 --> 00:05:55,410
+di posizione dominante, cioè l'applicazione dell'articolo 82 del trattato, la maggior
+
+48
+00:05:55,410 --> 00:06:03,330
+parte dei casi di cui ci siamo occupati riguardavano questioni relative ai prezzi. Nel 98 e nel
+
+49
+00:06:03,930 --> 00:06:09,890
+1999 abbiamo svolto di nostra iniziativa, l'iniziativa della Commissione europea, due
+
+50
+00:06:09,890 --> 00:06:18,110
+importanti inchieste sui prezzi di terminazione delle chiamate tra operatori fissi e delle
+
+51
+00:06:18,110 --> 00:06:25,790
+interconnessioni tra operatori fissi e mobili dominanti nell'intera Unione europea. Grazie
+
+52
+00:06:25,790 --> 00:06:32,430
+a queste inchieste i prezzi sono significativamente diminuiti in quasi tutti gli Stati membri
+
+53
+00:06:32,430 --> 00:06:38,850
+nei quali erano stati riscontrati i problemi. Gli stessi risultati sono stati ottenuti
+
+54
+00:06:38,850 --> 00:06:47,670
+a seguito di una denuncia che abbiamo ricevuto lo scorso anno da parte di MCI Worldcom, denuncia
+
+55
+00:06:47,670 --> 00:06:53,990
+che riguardava le tariffe di terminazione applicate dai 5 operatori di telefonia mobile
+
+56
+00:06:53,990 --> 00:07:01,910
+dominanti in 3 diversi Stati membri. Dall'avvio delle nostre indagini all'inizio di quest'anno
+
+57
+00:07:01,910 --> 00:07:08,550
+le tariffe in questione sono diminuite fino al 50 per cento per alcuni degli operatori
+
+58
+00:07:08,550 --> 00:07:16,350
+coinvolti. Sono inoltre attualmente in corso 3 inchieste settoriali ai sensi della normativa
+
+59
+00:07:16,350 --> 00:07:22,910
+comunitaria sulla concorrenza. Inchieste di questo tipo ci consentono di affrontare in
+
+60
+00:07:22,910 --> 00:07:30,630
+modo ampio le situazioni nelle quali sembra esservi una distorsione del mercato in modo
+
+61
+00:07:30,630 --> 00:07:38,890
+da identificarne le cause. Da un anno a questa parte abbiamo esaminato i prezzi eccessivi
+
+62
+00:07:38,890 --> 00:07:46,130
+delle linee affittate, le alte tariffe del roaming tra operatori mobili e le condizioni
+
+63
+00:07:46,310 --> 00:07:53,450
+di accesso alle reti locali degli ex monopolisti. L'avvio di un'indagine da parte nostra ha
+
+64
+00:07:53,450 --> 00:08:00,790
+di per sé un effetto deterrente. Ad esempio l'inchiesta sulle linee affittate ha rivelato
+
+65
+00:08:00,790 --> 00:08:07,930
+che le tariffe per le linee in affitto internazionali e interurbane sono notevolmente diminuite
+
+66
+00:08:08,390 --> 00:08:15,610
+in questi ultimi 3 anni in media tra il 10 e il 60 per cento. Esistono tuttavia ancora
+
+67
+00:08:15,610 --> 00:08:22,130
+problemi. In alcuni mercati nazionali i prezzi sono ancora troppo alti, la correttezza e
+
+68
+00:08:22,130 --> 00:08:29,790
+trasparenza di alcuni sistemi di sconto sono opinabili e abbiamo constatato ritardi lunghi
+
+69
+00:08:29,790 --> 00:08:38,470
+e imprevedibili nella fornitura di linee affittate. È dunque necessario avviare procedure formali
+
+70
+00:08:38,470 --> 00:08:45,370
+in alcuni singoli casi specifici. Nei prossimi mesi dovremo tirare le conclusioni dell'indagine
+
+71
+00:08:45,370 --> 00:08:52,330
+sul roaming e potremo decidere di perseguire alcune situazioni specifiche in un mercato
+
+72
+00:08:52,330 --> 00:08:58,190
+che appare altamente concentrato e nel quale quindi eventuali cartelli potrebbero essere
+
+73
+00:08:58,190 --> 00:09:06,850
+messi in atto. Vorrei essere a questo riguardo molto chiaro. Il ridimensionamento del quadro
+
+74
+00:09:06,850 --> 00:09:15,010
+normativo non equivale certo per noi all'adozione di una politica di laissez faire. Per quanto
+
+75
+00:09:15,010 --> 00:09:22,050
+ci riguarda non ci sarà mai l'assenza di controllo. Quando cesserà la regolamentazione
+
+76
+00:09:22,650 --> 00:09:28,450
+specifica il mercato continuerà ad essere sorvegliato dal punto di vista delle regole
+
+77
+00:09:28,450 --> 00:09:34,690
+di concorrenza e questo controllo che come sappiamo è il controllo più fisiologico
+
+78
+00:09:34,690 --> 00:09:41,910
+e meno distorsivo che un mercato possa avere diventerà ancora più rigoroso. Siamo in presenza
+
+79
+00:09:41,910 --> 00:09:47,710
+di un mercato caratterizzato dalla presenza dominante di alcuni operatori. Nella telefonia
+
+80
+00:09:47,710 --> 00:09:55,890
+fissa in media essi detengono una quota di mercato pari al 96% per le chiamate locali
+
+81
+00:09:55,890 --> 00:10:04,350
+e pari all'88% per le chiamate a lunga distanza. Nella telefonia mobile in media essi detengono
+
+82
+00:10:04,350 --> 00:10:11,890
+una quota di mercato del 50%. Infine per l'offerta di servizi internet la quota è
+
+83
+00:10:11,910 --> 00:10:20,630
+circa del 40%. Una parola infine sul controllo delle concentrazioni. In questi ultimi anni
+
+84
+00:10:20,630 --> 00:10:26,070
+il settore delle telecomunicazioni lo sapete perfettamente ha conosciuto un numero crescente
+
+85
+00:10:26,070 --> 00:10:33,730
+di concentrazioni determinato principalmente dalla convergenza tra telecomunicazioni, trasmissioni
+
+86
+00:10:33,730 --> 00:10:40,810
+radio televisive e tecnologia delle informazioni. Ora dalla formidabile crescita della telefonia
+
+87
+00:10:40,810 --> 00:10:47,910
+mobile e dalla crescente globalizzazione della domanda. Dal punto di vista della concorrenza
+
+88
+00:10:47,910 --> 00:10:55,290
+questi cambiamenti sono essenzialmente positivi in quanto permettono l'apertura dei mercati
+
+89
+00:10:55,290 --> 00:11:02,570
+e il miglioramento dell'efficienza dell'impresa. Molte fusioni possono potenzialmente diversificare
+
+90
+00:11:03,050 --> 00:11:09,950
+la scelta e ridurre i prezzi per i consumatori. La commissione deve tuttavia garantire che
+
+91
+00:11:09,950 --> 00:11:16,230
+queste operazioni non mettano in pericolo i vantaggi derivati dalla liberaizzazione.
+
+92
+00:11:16,710 --> 00:11:24,030
+E vorrei qui citarvi alcuni esempi concreti. Una delle primissime decisioni importanti
+
+93
+00:11:24,030 --> 00:11:32,990
+adottate dalla commissione PRODI lo scorso anno è stata l'approvazione soggetta a condizioni
+
+94
+00:11:32,990 --> 00:11:41,730
+di una concentrazione tra ex monopolisti, la svedese Telia e la norvegese Telenor. L'operazione
+
+95
+00:11:41,730 --> 00:11:49,710
+poi non ha avuto luogo, che le parti hanno così deciso, ma abbiamo dimostrato, autorizzando
+
+96
+00:11:49,710 --> 00:11:55,450
+quest'operazione a condizioni, che eravamo pronti a imporre condizioni severi agli ex
+
+97
+00:11:55,450 --> 00:12:02,390
+monopolisti per garantire che la liberalizzazione dei mercati nazionali non venisse ostacolata
+
+98
+00:12:02,390 --> 00:12:09,170
+dalla fuggione. Per assicurare la concorrenza a livello locale, le parti si erano impegnate
+
+99
+00:12:09,170 --> 00:12:17,290
+a cedere le proprie reti televisive via cavo e anche ad offrire ai terzi un accesso non
+
+100
+00:12:17,290 --> 00:12:24,230
+limitato alla rete locale a prezzi inferiori a quelli praticati per gli abbonamenti dei
+
+101
+00:12:24,230 --> 00:12:32,010
+singoli utenti. Nel giugno di quest'anno abbiamo poi vietato la concentrazione tra
+
+102
+00:12:32,010 --> 00:12:39,450
+due imprese statunitensi delle telecomunicazioni, MCI Worldcom, seconda più grande impresa
+
+103
+00:12:39,450 --> 00:12:46,010
+statunitense delle telecomunicazioni, e Sprint, la terza. Avevamo infatti constatato che l'unione
+
+104
+00:12:46,010 --> 00:12:53,430
+tra le vaste reti dorsali internet ad alto livello delle parti avrebbe potuto avere notevoli
+
+105
+00:12:53,430 --> 00:12:59,190
+effetti anticoncorrenziali. Le parti hanno inizialmente proposto di cedere le attività
+
+106
+00:12:59,190 --> 00:13:06,170
+internet di Sprint per ovviare alle preoccupazioni messe in luce dalla Commissione. Una simile
+
+107
+00:13:06,170 --> 00:13:12,130
+eccessione, tuttavia, non avrebbe garantito il ripristino immediato di una concorrenza
+
+108
+00:13:12,130 --> 00:13:20,010
+efficace, in quanto le attività sedute avrebbero continuato a dipendere in modo notevole dalla
+
+109
+00:13:20,010 --> 00:13:28,750
+nuova entità derivante dalla fusione. In altre due più recenti decisioni abbiamo dovuto
+
+110
+00:13:28,750 --> 00:13:38,230
+valutare i possibili effetti della concentrazione tra imprese sui mercati emergenti. Uno è
+
+111
+00:13:38,230 --> 00:13:45,010
+il caso dell'operazione Vodafone-Mannesman. Questa operazione ha suscitato preoccupazioni
+
+112
+00:13:45,010 --> 00:13:53,030
+a livello di concorrenza sul mercato emergente dei servizi seamless di telefonia mobile pan-europei
+
+113
+00:13:53,030 --> 00:14:00,730
+per le imprese multinazionali. Abbiamo ritenuto che l'impresa nata dalla fusione, grazie
+
+114
+00:14:00,730 --> 00:14:07,690
+alla sua notevole presenza mondiale, avrebbe goduto di una posizione eccezionale rispetto
+
+115
+00:14:07,690 --> 00:14:15,090
+ai propri concorrenti. Per ovviare a queste preoccupazioni abbiamo posto la condizione
+
+116
+00:14:15,830 --> 00:14:23,010
+che Vodafone garantisse un accesso non discriminatorio alla propria rete integrata per i mercati
+
+117
+00:14:23,030 --> 00:14:30,300
+nei prossimi tre anni. Altro esempio, la Joint Venture Vis-à-vis, costituita tra Vodafone,
+
+118
+00:14:30,810 --> 00:14:38,290
+Vivendi e Canal+, mira a realizzare un portale internet ad accesso multiplo in tutta Europa,
+
+119
+00:14:39,030 --> 00:14:45,850
+offrendo ai clienti una scelta di servizi web accessibili via personal computer, telefoni
+
+120
+00:14:45,850 --> 00:14:53,010
+mobili e ricevitori televisivi. Abbiamo constatato che l'operazione avrebbe dato luogo alla
+
+121
+00:14:53,030 --> 00:15:00,570
+problemi di concorrenza sui mercati emergenti nazionali ed europei dei portali internet
+
+122
+00:15:01,350 --> 00:15:08,410
+accessibili attraverso televisori e telefoni mobili. Le parti hanno dunque dovuto sottoscrivere
+
+123
+00:15:08,410 --> 00:15:15,050
+impegni, anche in questo caso limitati a tre anni, per garantire che i clienti della Joint
+
+124
+00:15:15,050 --> 00:15:23,010
+Venture siano liberi di scegliere altri portali. Più recentemente ancora, e infine, abbiamo
+
+125
+00:15:25,910 --> 00:15:33,070
+autorizzato l'acquisizione di Time Warner da parte di America Online, che sollevava
+
+126
+00:15:33,070 --> 00:15:40,300
+interrogativi complessi riguardo ad un'eventuale posizione dominante sui mercati delle edizioni
+
+127
+00:15:40,550 --> 00:15:50,250
+musicali via internet. Abbiamo perciò consentito la fusione a condizione che AOL accettasse
+
+128
+00:15:50,250 --> 00:15:56,770
+di separare completamente le proprie attività da quelle di Bertelsmann, con la quale aveva
+
+129
+00:15:56,770 --> 00:16:05,110
+costituito una Joint Venture. Prima di concludere, dopo questa carrellata di esempi concreti,
+
+130
+00:16:05,430 --> 00:16:12,290
+spero utili, vorrei dire due parole sulla situazione italiana. L'autorità per le garanzie nelle
+
+131
+00:16:12,290 --> 00:16:19,510
+comunicazioni ha recentemente adottato una serie di misure importanti, destinate a garantire
+
+132
+00:16:19,510 --> 00:16:25,590
+una maggiore concorrenza sul mercato delle comunicazioni. I cambiamenti più significativi
+
+133
+00:16:25,590 --> 00:16:31,910
+nella legislazione italiana sono la delibera sull'accesso disaggregato a livello di rete
+
+134
+00:16:31,910 --> 00:16:39,670
+locale del marzo 2000, l'adozione in collaborazione con il Ministero del Quadro Normativo e delle
+
+135
+00:16:39,670 --> 00:16:48,550
+licenze per il sistema UMTS, le deliberate del dicembre 99 e dell'aprile 2000 che regolamentano
+
+136
+00:16:48,550 --> 00:16:57,050
+la fornitura all'ingrosso dei servizi ADSL, l'introduzione della preselezione del vettore
+
+137
+00:16:57,050 --> 00:17:03,110
+e della portabilità del numero, nonché il nuovo quadro per le autorizzazioni generali.
+
+138
+00:17:04,430 --> 00:17:10,130
+Le nuove direttive sulla telefonia vocale e sulle linee affittate, tuttavia, non sono
+
+139
+00:17:10,130 --> 00:17:18,530
+ancora state recepite, anche se mi risulta che dovrebbero esserlo tra breve, entro la
+
+140
+00:17:18,530 --> 00:17:24,490
+scelta. In determinati settori, ad esempio per quanto riguarda il riequilibrio tarifario
+
+141
+00:17:24,490 --> 00:17:32,330
+e la numerazione, sono necessarie misure per un ulteriore rafforzamento dell'azione
+
+142
+00:17:32,330 --> 00:17:39,690
+di regolamentazione. La legislazione sulla concorrenza dovrebbe integrare queste iniziative,
+
+143
+00:17:39,890 --> 00:17:46,230
+dato che in molti casi ha mostrato di poter risolvere i problemi in modo flessibile.
+
+144
+00:17:47,230 --> 00:17:55,250
+Vorrei in conclusione sottolineare che via via che si ridurrà la regolamentazione settoriale
+
+145
+00:17:55,250 --> 00:18:02,750
+specifica, le regole di concorrenza comunitarie dovranno svolgere un ruolo sempre più importante
+
+146
+00:18:03,230 --> 00:18:10,650
+se si vuole che i vantaggi della liberalizzazione e dell'innovazione vengano trasmessi ai
+
+147
+00:18:10,650 --> 00:18:17,690
+cittadini europei, alle imprese europee, nella nuova economia digitale. Dobbiamo dunque
+
+148
+00:18:17,690 --> 00:18:25,110
+sorvegliare con attenzione i nuovi mercati emergenti. L'accesso alle reti a prezzi
+
+149
+00:18:25,110 --> 00:18:32,370
+convenienti per tutti gli utenti comunitari rappresenta lo strumento ideale per un utilizzo
+
+150
+00:18:32,370 --> 00:18:39,790
+più diffuso dell'internet. I mezzi utilizzati per navigare in rete devono restare disponibili
+
+151
+00:18:39,790 --> 00:18:47,270
+per i terzi, così come le applicazioni che, diventando praticamente standard universali,
+
+152
+00:18:47,710 --> 00:18:54,870
+creano una posizione dominante. Alcune questioni che non ho ancora esaminato in dettaglio dovranno
+
+153
+00:18:54,870 --> 00:19:01,130
+essere riviste. Si tratta per esempio dei nuovi canali attraverso i quali si svilupperà
+
+154
+00:19:01,130 --> 00:19:08,790
+internet. Grazie alle nuove tecnologie si prevede infatti la fornitura di servizi internet
+
+155
+00:19:08,790 --> 00:19:14,890
+attraverso le reti di telefonia mobile, il che rappresenta un'ulteriore sfida per la
+
+156
+00:19:16,650 --> 00:19:23,530
+concorrenza. Permettetemi infine di sottolineare ancora una volta la complessità della situazione
+
+157
+00:19:23,530 --> 00:19:29,830
+attuale dal punto di vista della politica di concorrenza. Il progresso tecnologico e
+
+158
+00:19:29,830 --> 00:19:36,250
+le nuove attività emergenti ci obbligano a seguire in permanenza, con un monitoraggio
+
+159
+00:19:36,250 --> 00:19:42,470
+molto attento agli sviluppi del mercato e ad aggiornare continuamente i nostri criteri
+
+160
+00:19:42,470 --> 00:19:50,310
+di valutazione sui singoli casi. Ogni giorno apprendiamo fatti nuovi provocati dalla dinamica
+
+161
+00:19:50,310 --> 00:19:56,390
+incessante del progresso tecnologico e dello sviluppo dei mercati. Valuteremo dunque
+
+162
+00:19:56,390 --> 00:20:04,010
+ciascun caso in sé, rimanendo in stretto contatto con gli operatori del settore, con i consulenti
+
+163
+00:20:04,010 --> 00:20:10,610
+legali ed economici delle imprese e con il mondo accademico. Anche per questo motivo
+
+164
+00:20:10,610 --> 00:20:16,750
+vorrei ringraziare gli organizzatori di questo convegno per avermi dato l'opportunità
+
+165
+00:20:16,750 --> 00:20:23,910
+di tenere questo contatto, di esprimermi anche se da lontano su questa importante tematica
+
+166
+00:20:24,450 --> 00:20:29,650
+e auguro una ottima continuazione dei vostri lavori. Grazie.
+
+167
+00:20:31,470 --> 00:20:40,230
+Io non sono obbligato al ringraziamento interattivo, perché, come abbiamo con franchezza detto,
+
+168
+00:20:41,470 --> 00:20:47,350
+il contributo del Comissario Monti è stato registrato sia pure ad hoc e evidentemente
+
+169
+00:20:47,350 --> 00:20:53,510
+allo scopo di questa nostra conferenza, e tuttavia un ringraziamento a nome di tutti
+
+170
+00:20:53,510 --> 00:21:00,350
+che, credo, gli sia moralmente dovuto per la tradizionale, razionalissima capacità
+
+171
+00:21:00,350 --> 00:21:07,390
+di riflettere con equilibrio, a proposito di una politica per nulla scontata in Europa
+
+172
+00:21:07,390 --> 00:21:15,670
+che è la politica della concorrenza, tra comportamenti delle imprese, vantaggi dell'utente e armonizzazione
+
+173
+00:21:15,670 --> 00:21:22,890
+di regole in uno spirito che lo conosciamo da tempo. Il Comissario Monti riferisce sempre
+
+174
+00:21:23,670 --> 00:21:32,670
+al ruolo di garanzia dell'eselezione comunitaria. Noi, con l'intervento del Comissario Monti,
+
+175
+00:21:32,930 --> 00:21:45,110
+siamo usciti dalla volet europea del nostro colloquio e entriamo nella volet italiana,
+
+176
+00:21:45,790 --> 00:21:50,870
+una volet italiana che, lo dico subito, non solo perché sarà introdotta il Prof. Prosperetti,
+
+177
+00:21:50,870 --> 00:21:57,170
+che ha lo sguardo costantemente lungo sulle questioni europee, che conversando ci ha fatto
+
+178
+00:21:57,170 --> 00:22:05,110
+notare come ancora stiamo parlando di un mercato che non ha, nei suoi acchijuridici, la possibilità
+
+179
+00:22:05,110 --> 00:22:10,710
+di definirsi a livello europeo mercato rilevante, perché ancora il mercato rilevante non ha
+
+180
+00:22:10,710 --> 00:22:17,650
+caratteristiche europee, pur essendolo sostanzialmente. Ma perché lo sguardo lungo di chi si occupa
+
+181
+00:22:17,650 --> 00:22:23,610
+dell'economia, in senso teorico e operativo, tra gli operatori italiani che ora intervengano,
+
+182
+00:22:24,030 --> 00:22:31,370
+è naturalmente anche il mercato europeo. Ringrazio tutti coloro che interverranno per
+
+183
+00:22:31,370 --> 00:22:41,750
+l'agenda degli lavori. Ci sarà qualche flessibilità dovuta alle agende personali di cui dobbiamo
+
+184
+00:22:41,750 --> 00:22:46,950
+tenere conto in questa città, non semplicissima, che è Venezia, e sono personalmente sensibili
+
+185
+00:22:46,950 --> 00:22:54,430
+a ulteriori pressioni di vario genere, varia natura, che vorranno essere promosse dagli
+
+186
+00:22:54,430 --> 00:22:59,790
+interessati per anticipare o ritardare i loro interventi. Faremo in modo che tutto si possa
+
+187
+00:22:59,790 --> 00:22:59,990
+svolgere.
+

@@ -4792,3 +4792,5 @@ letta  2026-07-22 03:03:42.520563  https://www.radioradicale.it/scheda/103920/la
 letta  2026-07-22 03:03:45.096880  https://www.radioradicale.it/scheda/91830/passaggio-a-nord-est-lunione-europea-fra-geometrie-variabili-e-cerchi-concentrici-e?i=2096195  TypeError: string indices must be integers, not 'str'
 monti  2026-07-22 03:30:04.320187  https://www.radioradicale.it/scheda/255226/potere-politico-potere-economico-e-integrazione-europea-mario-monti?i=1030581  TypeError: string indices must be integers, not 'str'
 monti  2026-07-22 03:30:14.433601  https://www.radioradicale.it/scheda/235022/centenario-della-nascita-di-giovanbattista-bietti?i=1120829  RuntimeError: yt-dlp exited 1
+monti  2026-07-22 03:47:14.760073  https://www.radioradicale.it/scheda/315272/riforme-in-cerca-dautore-la-sfida-della-trasparenza-contro-la-trappola-del-consenso?i=836027  TypeError: string indices must be integers, not 'str'
+monti  2026-07-22 04:37:03.757970  https://www.radioradicale.it/scheda/140716/con-il-lavoro-oltre-il-lavoro-guida-alla-flessibilita-sostenibile-organizzato-da-job?i=1546182  TypeError: string indices must be integers, not 'str'
