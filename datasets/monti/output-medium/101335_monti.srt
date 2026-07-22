@@ -1,0 +1,712 @@
+1
+00:00:28,580 --> 00:00:29,980
+Grazie.
+
+2
+00:00:34,300 --> 00:00:43,420
+La prima relazione annuale del garante presentata a pochi giorni or sono alle camere sembra
+
+3
+00:00:43,420 --> 00:00:51,100
+confermare quanto tale normativa rispondesse non solo a criteri basilari di civiltà giuridica,
+
+4
+00:00:51,600 --> 00:00:58,820
+ma anche a un reale bisogno di tutela. Ho letto che in questi pochi ma intensi mesi
+
+5
+00:00:58,820 --> 00:01:08,560
+di attività il garante ha già ricevuto 25.000 richieste di informazioni, 250.000 notificazioni
+
+6
+00:01:08,960 --> 00:01:15,460
+e oltre 9.000 richieste di autorizzazione al trattamento di dati sensibili.
+
+7
+00:01:15,820 --> 00:01:23,820
+Al di là dell'aspetto quantitativo mi sembra poi giusto sottolineare come l'impegno personale
+
+8
+00:01:23,820 --> 00:01:32,000
+e il prestigio del Presidente e dei membri scelti per questo incarico abbiano già fatto
+
+9
+00:01:32,000 --> 00:01:38,560
+del garante un punto di riferimento ascoltato e rispettato in una materia che in Italia
+
+10
+00:01:38,560 --> 00:01:45,380
+era stata a lungo e se permettete inspiegabilmente trascurata sul piano legislativo.
+
+11
+00:01:46,920 --> 00:01:52,570
+Oltre all'attività svolta sul piano nazionale voglio sottolineare il contributo del garante
+
+12
+00:01:52,570 --> 00:02:00,310
+all'elaborazione degli orientamenti comunitari e questo lo sottolineo con gratitudine, il
+
+13
+00:02:00,310 --> 00:02:08,390
+contributo del garante all'elaborazione degli orientamenti comunitari nell'ambito del gruppo
+
+14
+00:02:08,390 --> 00:02:17,250
+dei garanti istituito dalla direttiva 9546, gruppo del quale il professor Rodotà ha recentemente
+
+15
+00:02:17,250 --> 00:02:24,430
+assunto la vicepresidenza a conferma del prestigio di cui gode sul piano internazionale.
+
+16
+00:02:24,830 --> 00:02:33,970
+Alle doverose congratulazioni per quanto già realizzato vorrei tuttavia affiancare un auspicio
+
+17
+00:02:33,970 --> 00:02:42,350
+rivolto al futuro e collegato alle mie responsabilità istituzionali di Commissario. Mi riferisco
+
+18
+00:02:42,350 --> 00:02:53,850
+al recepimento della direttiva 9546 nell'ordinamento italiano, recepimento di cui la legge 675
+
+19
+00:02:53,850 --> 00:03:03,170
+costituisce solo una parziale anticipazione ma rispetto al quale alcuni elementi essenziali
+
+20
+00:03:03,170 --> 00:03:10,530
+fanno tuttora difetto e questo a pochissimi mesi dalla scadenza prevista in sede comunitaria,
+
+21
+00:03:11,510 --> 00:03:18,760
+senza entrare ora e in questa sede nel merito delle questioni giuridiche che andranno risolte
+
+22
+00:03:19,070 --> 00:03:26,200
+di qui al 24 ottobre, questa è la data, mi preme tuttavia ricordare che la direttiva
+
+23
+00:03:26,590 --> 00:03:40,510
+persegue due obiettivi indissociabili, da un lato si tratta della protezione dei dati
+
+24
+00:03:41,370 --> 00:03:48,530
+europea, se è vero che il primo di questi obiettivi costituisce il presupposto logico
+
+25
+00:03:48,530 --> 00:03:55,250
+del secondo, è anche vero che il coronamento di quest'ultimo e cioè della libera circolazione
+
+26
+00:03:55,250 --> 00:04:01,710
+rappresenta un passaggio ineludibile ai fini del corretto recepimento della direttiva.
+
+27
+00:04:02,130 --> 00:04:10,050
+Il mio auspicio è che nelle prossime settimane e nell'ambito della delega ricevuta dal Parlamento
+
+28
+00:04:10,050 --> 00:04:17,400
+di Comunità, a questo fine il governo italiano possa completare il quadro normativo nazionale
+
+29
+00:04:18,290 --> 00:04:25,390
+nei modi e nei tempi imposti dagli obblighi comunitari che derivano dalla direttiva 95-46.
+
+30
+00:04:26,510 --> 00:04:33,550
+Per quanto mi riguarda vi assicuro che i miei servizi alla Commissione saranno come sempre
+
+31
+00:04:33,550 --> 00:04:40,990
+a completa disposizione delle autorità italiane per sciogliere eventuali dubbi e assicurare
+
+32
+00:04:40,990 --> 00:04:47,950
+la corretta articolazione della normativa nazionale rispetto al disposto comunitario.
+
+33
+00:04:49,790 --> 00:04:55,850
+Vengo più vicino all'oggetto specifico di questo convegno, le regole a tutela della
+
+34
+00:04:55,850 --> 00:05:03,530
+riservatezza nelle reti telematiche. Nonostante l'inflazione di incontri e convegni
+
+35
+00:05:03,550 --> 00:05:10,370
+dedicati a Internet in generale, trovo la scelta degli organizzatori particolarmente
+
+36
+00:05:10,370 --> 00:05:17,270
+felice per due principali ragioni. In primo luogo perché le reti telematiche rappresentano
+
+37
+00:05:17,850 --> 00:05:25,150
+un serio banco di prova per la tutela effettiva della riservatezza. Mi riferisco alla perseguibilità
+
+38
+00:05:25,990 --> 00:05:33,330
+in concreto dei comportamenti illegiti. La caratteristica di Internet è quella di trascendere
+
+39
+00:05:33,330 --> 00:05:41,210
+le frontiere geografiche e abbattere quelle temporali in misura tale da far ritenere che
+
+40
+00:05:41,210 --> 00:05:48,070
+nell'asso di tempo necessario per redigere un atto di citazione o un avviso di garanzia,
+
+41
+00:05:48,250 --> 00:05:56,930
+l'attività illecita sarà già stata delocalizzata in direzione dei cieli più clementi. Questo
+
+42
+00:05:56,930 --> 00:06:04,170
+è d'altronde uno degli argomenti che militano in favore di un'autorità di controllo indipendente
+
+43
+00:06:04,170 --> 00:06:11,290
+e garante del rispetto della normativa esistente, la cui funzione è anche quella di assistere
+
+44
+00:06:11,290 --> 00:06:19,290
+i cittadini smarriti nell'abirinto del diritto internazionale privato e delle convenzioni
+
+45
+00:06:19,290 --> 00:06:25,710
+internazionali. Su questo aspetto credo di poter dire che il modello europeo ha dimostrato
+
+46
+00:06:25,710 --> 00:06:35,270
+tutta la sua validità. So bene che in altri ordinamenti giuridici la tutela della riservatezza
+
+47
+00:06:35,270 --> 00:06:44,230
+è rimessa esclusivamente alla capacità di reazione in forma di richieste risarcitorie
+
+48
+00:06:44,230 --> 00:06:51,350
+del singolo individuo, ma non posso esimermi dal pensare che in questo tipo di soluzione
+
+49
+00:06:51,350 --> 00:07:02,170
+sono insiti due rischi opposti ma ugualmente rilevanti, quello di una eccessiva giudizializzazione
+
+50
+00:07:02,170 --> 00:07:09,110
+delle controversi, con l'onerosità che questa comporta per tutte le parti interessate e
+
+51
+00:07:09,110 --> 00:07:16,170
+al tempo stesso il rischio che la soluzione si riveli illusoria per il cittadino normale
+
+52
+00:07:16,250 --> 00:07:23,370
+in ragione del costo e dei tempi oggettivamente disuasivi della giustizia ordinaria.
+
+53
+00:07:24,190 --> 00:07:33,290
+In secondo luogo se internet è un banco di prova per la tutela della riservatezza, l'ultima
+
+54
+00:07:33,290 --> 00:07:40,450
+rappresenta a sua volta la precondizione per lo sviluppo di quello che viene comunemente
+
+55
+00:07:40,450 --> 00:07:47,270
+definito come commercio elettronico. Tutte le ricerche di mercato e i sondaggi realizzati
+
+56
+00:07:47,270 --> 00:07:55,790
+negli ultimi anni concordano infatti su un punto l'importanza che gli utenti attuali
+
+57
+00:07:55,790 --> 00:08:10,430
+e potenziali delle reti telematiche annettono alla protezione dei dati personali. Questi
+
+58
+00:08:11,310 --> 00:08:17,870
+risultati sono un'ottacolo allo sviluppo del commercio elettronico, in realtà al contrario
+
+59
+00:08:17,870 --> 00:08:24,710
+ne rappresenta il presupposto necessario dal punto di vista degli utenti. Come ogni forma
+
+60
+00:08:24,710 --> 00:08:31,530
+di commercio anche questa suppone infatti l'incontro di una offerta e di una domanda
+
+61
+00:08:31,530 --> 00:08:37,970
+e le preoccupazioni espresse sul versante della domanda rappresentano un passaggio che
+
+62
+00:08:37,970 --> 00:08:44,550
+non si può eludere se si vuole garantire al commercio elettronico un decollo reale
+
+63
+00:08:44,550 --> 00:08:51,540
+e duraturo. Queste esigenze sono in effetti alla base delle ragioni che hanno portato
+
+64
+00:08:52,310 --> 00:09:01,550
+all'adozione della Direttiva 9546 difese dalla Commissione in tutte le sedi internazionali
+
+65
+00:09:01,550 --> 00:09:07,990
+attualmente impegnate nella definizione di regole e di principi applicabili al commercio
+
+66
+00:09:08,430 --> 00:09:16,950
+elettronico. Vorrei citare senza pretesa di essere esaustivo in primo luogo l'Organizzazione
+
+67
+00:09:16,950 --> 00:09:23,610
+Mondiale del Commercio nel contesto della quale la Commissione propone di avviare una
+
+68
+00:09:23,610 --> 00:09:30,910
+discussione finalizzata alla definizione di alcuni principi vincolanti su scala globale.
+
+69
+00:09:30,910 --> 00:09:38,030
+Anche l'Organizzazione per la cooperazione e lo sviluppo economico che ha deciso di riservare
+
+70
+00:09:38,030 --> 00:09:45,070
+alla privacy un posto di rilievo nell'ordine del giorno del prossimo vertice di Ottawa
+
+71
+00:09:45,690 --> 00:09:53,630
+al quale sarò presente con i miei colleghi commissari Britain e Bank. E poi il Consiglio
+
+72
+00:09:53,630 --> 00:10:00,490
+d'Europa nel cui ambito la Commissione ha coordinato con successo la posizione degli
+
+73
+00:10:00,490 --> 00:10:07,910
+stati membri al fine dell'elaborazione delle linee guida per la protezione della riservatezza
+
+74
+00:10:07,910 --> 00:10:17,130
+su internet. Vorrei fare una osservazione circa una dimensione
+
+75
+00:10:17,130 --> 00:10:23,890
+internazionale della Direttiva Europea sulla protezione dei dati personali che forse non
+
+76
+00:10:23,890 --> 00:10:31,890
+è questa dimensione sempre così presente nel dibattito. Ebbene è proprio la Direttiva
+
+77
+00:10:31,890 --> 00:10:38,490
+Europea sulla protezione dei dati personali che dal prossimo ottobre consentirà all'Unione
+
+78
+00:10:38,490 --> 00:10:48,570
+Europea di impedire il flusso di dati personali a quei Paesi terzi che non garantiscano un
+
+79
+00:10:48,570 --> 00:10:59,850
+livello adeguato di protezione della riservatezza. E spome ognuno può immaginare quanto grave
+
+80
+00:10:59,850 --> 00:11:12,050
+sarebbe per l'ordinato flusso delle informazioni e dei dati a livello globale se ci trovassimo
+
+81
+00:11:12,050 --> 00:11:20,310
+nelle condizioni di dover impedire il flusso da parte europea di dati personali a Paesi
+
+82
+00:11:20,310 --> 00:11:26,250
+non sufficientemente garantisti da questo punto di vista, proprio per evitare questo
+
+83
+00:11:26,250 --> 00:11:34,410
+da tempo la Commissione preme sui partner internazionali a partire dagli Stati Uniti
+
+84
+00:11:34,410 --> 00:11:42,030
+affinché adeguino le loro normative o almeno le loro prassi, purché con garanzie sulle
+
+85
+00:11:42,050 --> 00:11:50,770
+sufficienti per portarle normative e prassi a questo livello adeguato di protezione che
+
+86
+00:11:50,770 --> 00:11:58,830
+è tipico dell'ordinamento che ci siamo dati in Europa proprio per evitare disturbi al
+
+87
+00:11:58,830 --> 00:12:06,290
+flusso internazionale. Torno sulla problematica del commercio elettronico per osservare che
+
+88
+00:12:06,290 --> 00:12:13,750
+questa non si esaurisce certo nei soli aspetti relativi alla tutela dei dati personali.
+
+89
+00:12:13,950 --> 00:12:20,590
+Qui, se mi è consentito, vorrei esprimere la mia soddisfazione per il fatto che questo
+
+90
+00:12:20,590 --> 00:12:27,950
+convegno che ho seguito a distanza, ma in questa materia la distanza conta sempre meno,
+
+91
+00:12:28,390 --> 00:12:36,270
+ha dedicato una sessione specifica alla protezione della proprietà intellettuale. Infatti è
+
+92
+00:12:36,290 --> 00:12:43,450
+essenziale comprendere bene quali siano gli obiettivi dei due diversi tipi di protezione
+
+93
+00:12:43,450 --> 00:12:48,950
+che in tutti e due i casi riguardano diritti soggettivi, la protezione della proprietà
+
+94
+00:12:48,950 --> 00:12:55,850
+intellettuale, la protezione dei dati personali. Per quello che riguarda la proprietà intellettuale,
+
+95
+00:12:56,730 --> 00:13:04,590
+già in passato la Commissione ne ha riconosciuto l'importanza vitale per la creazione di un
+
+96
+00:13:04,590 --> 00:13:11,330
+sviliente che stimoli la creatività e gli investimenti in modo da realizzare le condizioni
+
+97
+00:13:11,330 --> 00:13:17,830
+perché si possano cogliere le opportunità offerte dal mercato unico europeo. Negli ultimi
+
+98
+00:13:17,830 --> 00:13:25,610
+dieci anni la Commissione ha svolto un'attività particolarmente intensa che ha portato alla
+
+99
+00:13:25,610 --> 00:13:32,070
+definizione del quadro giuridico del diritto della proprietà intellettuale. Le cinque
+
+100
+00:13:32,070 --> 00:13:41,270
+direttive già adottate costituiscono a giudizio non solo nostro un quadro giuridico solido
+
+101
+00:13:41,270 --> 00:13:48,350
+per la protezione delle opere distribuite all'interno del mercato unico. Il ruolo
+
+102
+00:13:48,350 --> 00:13:55,450
+della tutela della proprietà intellettuale è destinato ad acquisire sempre maggiore
+
+103
+00:13:55,450 --> 00:14:02,490
+importanza nella società dell'informazione. In questo mercato in rapida evoluzione la
+
+104
+00:14:02,490 --> 00:14:09,390
+produzione e il valore aggiunto dei beni e servizi protetti da diritto d'autore sono
+
+105
+00:14:09,390 --> 00:14:15,330
+cresciuti in maniera considerevole negli ultimi anni come noi e il contesto giuridico deve
+
+106
+00:14:15,330 --> 00:14:23,230
+garantire tale sviluppo nel rispetto dell'equilibrio degli interessi contrapposti. Inoltre le nuove
+
+107
+00:14:23,230 --> 00:14:31,430
+tecnologie hanno agevolato un ulteriore incremento dello sfruttamento transfrontaliero delle
+
+108
+00:14:31,430 --> 00:14:47,970
+opere letterarie, musicali o audiovisive e delle altre esecuzioni. Le nuove tecnologie
+
+109
+00:14:47,970 --> 00:14:55,430
+hanno agevolato un ulteriore incremento dello sfruttamento transfrontaliero delle opere
+
+110
+00:14:55,430 --> 00:15:01,170
+letterarie, musicali o audiovisive e delle altre esecuzioni.
+
+111
+00:15:17,970 --> 00:15:25,550
+Prende necessario garantire un effettivo mercato unico per i prodotti e servizi tutelati da
+
+112
+00:15:25,550 --> 00:15:34,830
+tali diritti. A livello comunitario la commissione ha presentato il 10 dicembre 1997 una proposta
+
+113
+00:15:34,830 --> 00:15:41,510
+di direttiva sull'armonizzazione di alcuni aspetti del diritto d'autore e dei diritti
+
+114
+00:15:41,510 --> 00:15:49,610
+connessi nella società dell'informazione. La commissione come sua politica generale
+
+115
+00:15:49,610 --> 00:15:56,890
+in questa fase cerca di ridurre al minimo la produzione di nuova legislazione europea.
+
+116
+00:15:57,350 --> 00:16:05,530
+Ci sono però dei campi, dei settori, degli aspetti del mercato unico emergenti che richiedono
+
+117
+00:16:05,530 --> 00:16:13,730
+proprio perché il settore nasce unico e non frammentato in 15 settori nazionali la predisposizione
+
+118
+00:16:13,730 --> 00:16:18,810
+di un adeguato quadro regolamentare. E' il caso della società dell'informazione che
+
+119
+00:16:18,810 --> 00:16:27,090
+ci vede molto impegnati in una attività di formazione legislativa di questo quadro e
+
+120
+00:16:27,090 --> 00:16:32,170
+qui in particolare l'accenno è al diritto d'autore nella società dell'informazione.
+
+121
+00:16:32,410 --> 00:16:39,830
+Questa proposta di direttiva è il risultato di un compromesso che ritengo equilibrato
+
+122
+00:16:40,350 --> 00:16:47,170
+tra i diritti di proprietà dei prestatori di contenuti, per esempio l'industria del
+
+123
+00:16:47,170 --> 00:16:54,750
+software, l'industria fonografica, i produttori di film, gli editori e dall'altra parte gli
+
+124
+00:16:54,750 --> 00:17:01,790
+interessi perfettamente legittimi dei consumatori, degli utenti e dei prestatori di servizi
+
+125
+00:17:01,790 --> 00:17:11,010
+online. Naturalmente altre iniziative fondamentali sul piano comunitario sono necessarie per garantire
+
+126
+00:17:11,010 --> 00:17:18,910
+la libera circolazione dei servizi in ambito internet e a queste vorrei dedicare gli ultimissimi
+
+127
+00:17:18,910 --> 00:17:27,870
+minuti di questo mio intervento. Il commercio elettronico è destinato a beneficiare dell'esistenza
+
+128
+00:17:27,870 --> 00:17:34,790
+del mercato unico europeo e al tempo stesso contribuirà alla sua riuscita. Le dimensioni
+
+129
+00:17:34,790 --> 00:17:41,990
+del mercato unico vanno ben al di là della massa critica necessaria per assicurare il
+
+130
+00:17:41,990 --> 00:17:48,870
+breakeven point di molti servizi elettronici e poi a somiglianza del commercio elettronico
+
+131
+00:17:49,330 --> 00:17:57,850
+il mercato unico europeo non conosce frontiere e è un lavoro quotidiano a battere il mercato
+
+132
+00:17:57,870 --> 00:18:05,430
+unico, frontiere che in forma occulta a qualche volta si cerca di erigere. In conseguenza
+
+133
+00:18:05,430 --> 00:18:12,310
+il mercato unico fornisce le fondamenti ideali e già pronte su cui basare un quadro regolamentare
+
+134
+00:18:12,310 --> 00:18:19,170
+appropriato. Nostro obiettivo è incoraggiare lo sviluppo del commercio elettronico in
+
+135
+00:18:19,170 --> 00:18:27,210
+Europa, il commercio elettronico richiede un quadro legislativo leggero, chiaro, coerente
+
+136
+00:18:27,210 --> 00:18:34,370
+e prevedibile che fornisca certezza giuridica alle imprese e ai consumatori, protezione
+
+137
+00:18:34,370 --> 00:18:41,610
+adeguata degli obiettivi di interesse generali e promozione di un ambiente competitivo. Non
+
+138
+00:18:41,610 --> 00:18:50,170
+è tanto necessario imporre nuove regole quanto chiarire e adattare le regole esistenti al
+
+139
+00:18:50,170 --> 00:18:57,190
+fine di rimuovere le barriere legali e l'incertezza giuridica e promuovere lo sviluppo del commercio
+
+140
+00:18:57,210 --> 00:19:05,410
+elettronico. Questo approccio che in inglese si definirebbe enabling e che consiste nella
+
+141
+00:19:05,410 --> 00:19:12,890
+rimozione delle barriere deve essere sottolineato. I servizi della commissione stanno esaminando
+
+142
+00:19:13,170 --> 00:19:20,470
+un certo numero di questioni che sono ponte di incertezza giuridica o di barriere regolamentari
+
+143
+00:19:20,470 --> 00:19:28,250
+derivanti dalla divergenza delle legislazioni nazionali. Tali questioni stanno frenando
+
+144
+00:19:28,250 --> 00:19:34,950
+lo sviluppo del commercio elettronico ed è mia intenzione assontarle in una proposta
+
+145
+00:19:34,950 --> 00:19:41,530
+di direttiva in corso di preparazione. La direttiva chiarirà alcune notioni giuridiche
+
+146
+00:19:41,530 --> 00:19:48,550
+a livello comunitario e si tratta di questioni che riguardano tra l'altro la definizione
+
+147
+00:19:48,550 --> 00:19:55,230
+del luogo di stabilimento dei fornitori di servizi della società dell'informazione,
+
+148
+00:19:56,110 --> 00:20:03,070
+il diritto contrattuale, ad esempio riconoscimento dei contratti elettronici, le comunicazioni
+
+149
+00:20:03,630 --> 00:20:10,790
+commerciali, ad esempio deve considerarsi o no come pubblicità un sito commerciale sulla
+
+150
+00:20:10,790 --> 00:20:18,530
+rete, la responsabilità dei fornitori di accesso e di servizi internet, in particolare
+
+151
+00:20:19,040 --> 00:20:26,670
+la questione delicata della responsabilità indiretta per gli atti confiuti da terzi e
+
+152
+00:20:26,670 --> 00:20:32,730
+alcuni aspetti delle professioni regolamentari, in particolare la possibilità di fornire
+
+153
+00:20:32,730 --> 00:20:40,000
+alcuni servizi in livello. In conclusione, un'ultima riflessione mi sembra importante
+
+154
+00:20:40,370 --> 00:20:46,810
+per rispondere alla domanda posta nel titolo stesso di questo convegno, quali regole?
+
+155
+00:20:48,550 --> 00:20:55,670
+Non c'è dubbio che la natura globale di internet mal si concilia con regole puramente nazionali,
+
+156
+00:20:56,530 --> 00:21:04,060
+quanto alle regole definite a livello comunitario queste trovano applicazione in un'area economica
+
+157
+00:21:04,350 --> 00:21:10,730
+che già esprime la più grossa percentuale degli scambi internazionali, inoltre queste
+
+158
+00:21:10,730 --> 00:21:18,000
+regole esercitano una forza di attrazione non trascurabile nei paesi candidati all'adesione
+
+159
+00:21:18,000 --> 00:21:24,860
+dell'Europa centro-orientale, il che ci porta a un mercato di oltre mezzo miliardo di persone.
+
+160
+00:21:25,740 --> 00:21:31,640
+Certo non si tratta ancora di regole mondiali, come quelle che sarebbero auspicabili per
+
+161
+00:21:31,640 --> 00:21:38,540
+la società globale dell'informazione, tuttavia queste regole comuni rappresentano storicamente
+
+162
+00:21:38,540 --> 00:21:47,980
+il primo e unico esempio di integrazione giuridica volontaria tra stati sovranci, la storia offerta
+
+163
+00:21:48,690 --> 00:21:56,500
+altri esempi di integrazione ma condotti con metodi più asimmetrici e fondati sulla
+
+164
+00:21:56,500 --> 00:22:03,540
+forza spesso fisica. A mio modo di vedere la globalizzazione degli scambi simbolizzata
+
+165
+00:22:03,540 --> 00:22:10,780
+da internet rende lecito sperare che l'esempio comunitario possa rappresentare un modello
+
+166
+00:22:10,780 --> 00:22:17,600
+di riferimento per un'area geografica più vasta. Infine l'esistenza di regole comuni
+
+167
+00:22:17,600 --> 00:22:24,900
+rafforza enormemente la capacità negoziale dei paesi europei in sede internazionale e
+
+168
+00:22:24,900 --> 00:22:32,320
+questo non mi sembra proprio un aspetto trascurabile. L'ultima battuta signor Presidente, oggi
+
+169
+00:22:32,320 --> 00:22:42,640
+è la giornata dell'Europa, si discute in questo convegno tutta una serie di problemi
+
+170
+00:22:42,640 --> 00:22:53,820
+che sono legati tra l'altro alla tutela della privacy che viene così autorevolmente
+
+171
+00:22:53,820 --> 00:23:03,740
+asserita e condotta in Italia dal garante. Spesso i cittadini anche in Italia pensano
+
+172
+00:23:03,740 --> 00:23:10,680
+all'Europa come a qualche cosa di lontano, a qualche cosa che in questa fase storica
+
+173
+00:23:11,440 --> 00:23:18,640
+porta ai cittadini dei singoli stati membri dei pesi, degli oneri, degli addempimenti,
+
+174
+00:23:18,760 --> 00:23:26,820
+delle valutazioni. In questo momento mi piace ricordare che l'Europa porta in realtà, ma
+
+175
+00:23:26,820 --> 00:23:34,180
+spesso non siamo capaci come cittadini di coglierlo, come responsabili europei di spiegarlo,
+
+176
+00:23:34,180 --> 00:23:43,040
+una valorizzazione del cittadino rispetto alla società. L'esempio della privacy mi
+
+177
+00:23:43,040 --> 00:23:53,580
+sembra significativo, quanti cittadini italiani sanno che la tutela della privacy così recentemente
+
+178
+00:23:53,580 --> 00:23:59,980
+introdotta in Italia, così estranea diciamolo pure alla tradizione della cultura italiana,
+
