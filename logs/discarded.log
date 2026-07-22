@@ -4806,3 +4806,5 @@ monti  2026-07-22 07:36:18.382269  https://www.radioradicale.it/scheda/70482/lau
 monti  2026-07-22 07:43:05.543392  https://www.radioradicale.it/scheda/464978/processo-alle-agenzie-di-rating-standard-poors-e-fitch-e-a-cinque-manager-e-analisti?i=3513171  TypeError: string indices must be integers, not 'str'
 dini  2026-07-22 07:43:54.116812  https://www.radioradicale.it/scheda/497536/150-anni-di-diplomazia-italiana-li-dimostra?i=3888463  RuntimeError: yt-dlp exited 1
 dini  2026-07-22 07:47:45.284186  https://www.radioradicale.it/scheda/243625/il-sud-non-puo-piu-aspettare-dalla-calabria-proposte-e-risposte?i=1074983  RuntimeError: yt-dlp exited 1
+dini  2026-07-22 08:13:25.181034  https://www.radioradicale.it/scheda/110196/festa-nazionale-dellamicizia-sulla-neve-presso-il-palazzo-comunale-17-24-gennaio-1999?i=1862674  TypeError: string indices must be integers, not 'str'
+dini  2026-07-22 08:34:33.019711  https://www.radioradicale.it/scheda/96249/litalia-e-leuropa-alan-friedman-intervista-il-ministro-degli-esteri-lamberto-dini?i=2048589  TypeError: string indices must be integers, not 'str'
