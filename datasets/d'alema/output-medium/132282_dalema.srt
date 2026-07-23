@@ -1,0 +1,432 @@
+1
+00:00:05,960 --> 00:00:20,380
+Diamo scusa agli amici fotografi e diamo inizio a questo nostro incontro. Questo nostro incontro
+
+2
+00:00:20,380 --> 00:00:28,220
+è anche la presentazione di un libro, un libro che è stato già presentato e che molti
+
+3
+00:00:28,220 --> 00:00:36,940
+hanno avuto occasione di leggere, che è un libro molto molto stimolante, e il dialogo
+
+4
+00:00:36,940 --> 00:00:45,060
+tra due militanti del movimento sindacale, del movimento dei lavoratori, che appartengono
+
+5
+00:00:45,060 --> 00:00:53,560
+a due generazioni diverse, vuol dire una più giovane, Vittorio Foad, è una battuta a scontato.
+
+6
+00:00:54,960 --> 00:01:06,140
+Io rinvio alla lettora del libro. Ed è questo dialogo affronta il grande tema delle trasformazioni,
+
+7
+00:01:06,300 --> 00:01:13,980
+della trasformazione del lavoro, dell'epoca in cui viviamo, un'epoca di grandi mutamenti,
+
+8
+00:01:14,360 --> 00:01:23,440
+il tempo del sapere e sul modo in cui questi mutamenti, del modo di produrre, dell'organizzazione
+
+9
+00:01:23,440 --> 00:01:30,420
+sociale, influiscono sul lavoro, non solo sull'organizzazione del lavoro, ma anche
+
+10
+00:01:30,420 --> 00:01:38,600
+sul lavoro come componente essenziale della vita umana, sull'etica del lavoro. Noi abbiamo
+
+11
+00:01:39,160 --> 00:01:45,760
+pensato di cogliere questa occasione per fare due cose che ci sono sembrate importanti.
+
+12
+00:01:48,320 --> 00:01:57,660
+Noi, dico la Fondazione italiana europei, mettere a confronto su un tema che non è
+
+13
+00:01:57,660 --> 00:02:04,360
+di grandissima attualità, ma non è un tema della congiuntura politico-sindacale, il nuovo
+
+14
+00:02:04,360 --> 00:02:09,300
+presidente di Confindustria, Antonio Damato, che ringraziamo per aver accettato il nostro
+
+15
+00:02:09,300 --> 00:02:17,600
+invito, e il segretario generale della CGL, Sergio Conferati. Questa è la prima cosa.
+
+16
+00:02:18,780 --> 00:02:26,920
+La seconda occasione che abbiamo colto, alla quale teniamo di più, è stata anche quella
+
+17
+00:02:27,940 --> 00:02:38,400
+di rendere omaggio a Vittorio Foga, che qualche giorno fa ha compiuto 90 anni e che è stato
+
+18
+00:02:38,400 --> 00:02:48,080
+giustamente molto festeggiato per questo. Siccome lo vediamo sulla breccia della riflessione
+
+19
+00:02:49,040 --> 00:02:54,200
+politica, abbiamo pensato che il modo migliore per festeggiarlo, per noi che siamo una fondazione
+
+20
+00:02:54,200 --> 00:03:02,600
+culturale, fosse quello di discutere delle idee che gli ci propone sul nostro tempo, sul
+
+21
+00:03:02,600 --> 00:03:11,760
+tempo che verrà. Queste sono le ragioni che rendono questa occasione così gradita
+
+22
+00:03:11,760 --> 00:03:22,400
+a noi. Abbiamo pensato di organizzare la discussione così. Sarà introdotta da Maurizio Descina.
+
+23
+00:03:22,620 --> 00:03:30,420
+Maurizio Descina è professore al Politecnico di Milano, e il suo curriculum non ve lo leggo.
+
+24
+00:03:31,060 --> 00:03:38,640
+Noi, fondazione dell'Europa, lo consideriamo uno dei maggiori esperti della Information
+
+25
+00:03:38,640 --> 00:03:48,660
+Technology, dell'economia basata sulla conoscenza. Gli abbiamo chiesto di introdurre con una
+
+26
+00:03:48,660 --> 00:03:58,380
+breve comunicazione il dibattito che poi vedrà come protagonisti, come discussano. Poi vedremo
+
+27
+00:03:58,380 --> 00:04:03,500
+se devono parlare una volta sola o se preferiscono brevemente anche interloquire tra di loro,
+
+28
+00:04:04,360 --> 00:04:14,140
+cofferati ed amato. Poi Ranieri, che dirà qualcosa, e Foa dirà qualcosa quando vuole.
+
+29
+00:04:14,360 --> 00:04:21,060
+Abbiamo un accordo di così, assolutamente libero nel corso di questa. Quando ritiene
+
+30
+00:04:21,060 --> 00:04:26,800
+di dire qualcosa, gli daremo la parola. Grazie. La parola al professor Maurizio Descina.
+
+31
+00:04:27,600 --> 00:04:36,120
+Grazie, Presidente. Buonasera a tutti. Non è certo facile introdurre in pochi minuti
+
+32
+00:04:36,120 --> 00:04:42,720
+quali sono i tratti più significativi della cosiddetta economia della rete, la net economy.
+
+33
+00:04:43,680 --> 00:04:56,780
+Certamente la domanda che oggi ci poniamo è una domanda importante. È una domanda
+
+34
+00:04:57,920 --> 00:05:06,460
+Quali sono i, se ci sono delle cose, rispondersi anche. In fondo è importante che la cosa abbia
+
+35
+00:05:06,460 --> 00:05:11,460
+questo, non dico proprio un tavolo di trattativa perché qui non ci sono da fare delle trattative,
+
+36
+00:05:11,720 --> 00:05:26,760
+ma da mettere a confronto delle proposte, da mettere a confronto delle idee. Allora,
+
+37
+00:05:27,640 --> 00:05:34,420
+non nel senso che gli imprenditori non lavorano, però voi rappresentate il capitale, capitale
+
+38
+00:05:34,420 --> 00:05:40,820
+e lavoro, una vecchia storia. La definizione mi è reparsa giusta, non vedo
+
+39
+00:05:41,500 --> 00:05:55,880
+perché. Il libro di Vittorio di Andrea ha dal mio punto di vista un grandissimo pregio,
+
+40
+00:05:55,880 --> 00:06:00,560
+perché dà sistematicità ad una serie di ragionamenti.
+
+41
+00:06:00,580 --> 00:06:06,120
+Il costitetto anno web, forse il professore Decemo ce lo può spiegare che cos'è. Quanto
+
+42
+00:06:06,120 --> 00:06:10,420
+è un anno web? Tre mesi, quindi ventiquattro mesi, quanti anni web sono?
+
+43
+00:06:11,200 --> 00:06:17,420
+Sì, però non vorrei che già stamane mi è capitato di dover commentare che però 35
+
+44
+00:06:17,420 --> 00:06:26,000
+minuti di intervento web sono due ore, quindi prosseguiamo diciamo, sempre a base dello
+
+45
+00:06:26,000 --> 00:06:30,920
+stesso criterio di velocità. Ma comunque io credo, io mi riservo poi di
+
+46
+00:06:30,920 --> 00:06:40,900
+dire qualcosa, ma credo che abbiamo messo a fuoco una serie di temi che il libro indubbiamente
+
+47
+00:06:40,900 --> 00:06:49,140
+stimola e anche abbiamo misurato quanto è difficile realizzare quello che io pensavo
+
+48
+00:06:49,140 --> 00:06:55,680
+che venisse colto, perché questo volume nella parte finale c'è una provocazione che ho trovato
+
+49
+00:06:55,680 --> 00:07:03,340
+molto interessante, cioè in sostanza si dice di fronte a questo mutamento epocale e alle
+
+50
+00:07:03,340 --> 00:07:10,420
+sue sfide, dal momento che la competitività si gioca soprattutto sul terreno dell'autonomia
+
+51
+00:07:10,420 --> 00:07:16,480
+e della creatività del lavoro, si potrebbe immaginare anziché un antagonismo, una sorta
+
+52
+00:07:16,480 --> 00:07:24,620
+di patto progressista tra impresa, cultura e lavoro.
+
+53
+00:07:26,460 --> 00:07:31,640
+Ora ovviamente patto progressista non significa la fine di una dialettica fra le parti, di
+
+54
+00:07:31,640 --> 00:07:38,340
+un confronto, anche di un conflitto, però questa dialettica la si immagina dentro una
+
+55
+00:07:38,340 --> 00:07:47,980
+sfida comune, dentro una prospettiva in cui le grandi forze sociali del nostro Paese prendano
+
+56
+00:07:47,980 --> 00:07:56,120
+coscienza che è in gioco qualcosa che ci coinvolge tutti, in cui è difficile che una
+
+57
+00:07:56,120 --> 00:08:02,500
+parte possa prevalere sull'altra, è difficile, io ritengo, che si possa ottenere una grande
+
+58
+00:08:02,500 --> 00:08:08,680
+autonomia e creatività del lavoro indebolendo la rappresentanza e i diritti del lavoro,
+
+59
+00:08:08,760 --> 00:08:15,120
+naturalmente è anche difficile pensare che se noi non sollecitiamo le imprese, in questo
+
+60
+00:08:15,120 --> 00:08:20,320
+io raccolgo una parte delle osservazioni di Namato, non abbiamo politiche pubbliche anche
+
+61
+00:08:20,320 --> 00:08:26,920
+che incoraggiano le imprese a crescere di dimensione, a investire sull'innovazione, anche se io
+
+62
+00:08:26,920 --> 00:08:32,600
+sono un po' meno pessimista di lui sul sistema italiano delle imprese, diciamo che lui ha
+
+63
+00:08:32,600 --> 00:08:37,400
+descritto in un modo tale che io se fossi un imprenditore non mi scriverei all'associazione
+
+64
+00:08:38,380 --> 00:08:46,360
+che lui presce, mi fa piacere, ma la descrizione di questo mondo delle imprese italiane che
+
+65
+00:08:46,360 --> 00:08:52,480
+non sono in grado di competere sotto nessun profilo, secondo me non rende giustizia ad
+
+66
+00:08:52,480 --> 00:08:58,660
+una evoluzione, ad una trasformazione, ad una rinnovata capacità competitiva, ma comunque
+
+67
+00:08:58,660 --> 00:09:05,920
+io credo che, quindi io vorrei chiarire, non sono per niente pessimista, sono convinto
+
+68
+00:09:05,920 --> 00:09:09,880
+che abbiamo delle grandi opportunità davanti a noi, certo se ce le bruciamo giorno dopo
+
+69
+00:09:09,880 --> 00:09:13,040
+giorno il quadro poi non è dei migliori insomma.
+
+70
+00:09:26,580 --> 00:09:36,880
+Il senso che la passione e la curiosità intellettuale con cui vive gli eventi del nostro tempo e
+
+71
+00:09:36,880 --> 00:09:43,960
+la sua curiosità verso il futuro sono uno stimolo straordinario per tutti. La discussione
+
+72
+00:09:43,960 --> 00:09:52,460
+è stata vivace, era ragionevole che fosse così, io credo che il nostro tempo e il nostro
+
+73
+00:09:52,480 --> 00:10:00,600
+tempo, il paese in questi anni abbia fatto dei passi e non piccoli nella direzione giusta
+
+74
+00:10:00,600 --> 00:10:08,840
+anche se forse si poteva fare qualche passo ulteriore. Ritengo che non spetta a me, io
+
+75
+00:10:08,840 --> 00:10:13,700
+non sono più, io faccio parte dei cinquantenni espulsi dal processo produttivo che si sono
+
+76
+00:10:13,700 --> 00:10:22,400
+rimessi a studiare, quindi momentaneamente almeno, con la speranza di non essere marginati
+
+77
+00:10:22,400 --> 00:10:30,580
+sempre attraverso la capacità di aggiornamento, mi sono rimesso a fare la formazione, siccome
+
+78
+00:10:30,580 --> 00:10:37,080
+non c'è sul mercato me la sono organizzata un po' da solo, questo almeno lo rivendico,
+
+79
+00:10:38,200 --> 00:10:45,880
+ma nel senso che non ho la responsabilità di sviluppare confronti, sulla vicenda del
+
+80
+00:10:45,880 --> 00:10:52,060
+commercio ho contribuito a impostare il confronto con l'Unione Europea, con la Commissione
+
+81
+00:10:52,060 --> 00:11:01,160
+e so che noi abbiamo ottenuto, non so se sia possibile ottenere molto di più dal punto
+
+82
+00:11:01,160 --> 00:11:06,740
+di vista delle misure incettive, so che c'è una posizione che ha delle rigidità, noi
+
+83
+00:11:06,740 --> 00:11:11,760
+avevamo chiesto anche qualcosa in più ad Europa, cioè la possibilità di applicare
+
+84
+00:11:11,760 --> 00:11:17,660
+le imprese che emergono, il complesso dei benefici che si applicano alle nuove imprese,
+
+85
+00:11:18,080 --> 00:11:23,600
+di considerare le nuove investimenti anche agli effetti fiscali, questo l'aveva chiesto
+
+86
+00:11:23,600 --> 00:11:28,380
+il governo italiano, il Commissario Monti ci ha detto di no, la Commissione Europea ci
+
+87
+00:11:28,380 --> 00:11:36,140
+ha risposto di no, io ritengo che dobbiamo considerare anche questo vincolo, dopo di
+
+88
+00:11:36,140 --> 00:11:40,880
+che, sono d'accordo con Sergio, le cose che abbiamo deciso insieme è bene cominciare
+
+89
+00:11:40,880 --> 00:11:46,700
+a sperimentarle, il che non ci impedisce di cominciare a progettare anche possibilità
+
+90
+00:11:46,700 --> 00:11:54,120
+ulteriori, perché io in questo ritengo forse c'è una sfumatura, io non credo che sia
+
+91
+00:11:54,120 --> 00:12:00,860
+inutile parlare di grandi riforme che per oggi non si fanno, perché disegnare anche
+
+92
+00:12:00,860 --> 00:12:07,500
+le prospettive future è uno stimolo anche per compiere dei passi più piccoli, forse
+
+93
+00:12:07,500 --> 00:12:13,280
+qui c'è una divisione del lavoro, la politica ha anche il compito di disegnare scenari futuri,
+
+94
+00:12:13,360 --> 00:12:19,740
+forse il sindacalismo è tenuto per ragioni professionali a rimanere di più con i piedi
+
+95
+00:12:19,740 --> 00:12:29,700
+per terra, però io vorrei dire una cosa, che tenevo molto a questo confronto, perché
+
+96
+00:12:29,700 --> 00:12:36,340
+vedete io ritengo che è un confronto importante per il Paese tra personalità forti e anche
+
+97
+00:12:36,340 --> 00:12:44,100
+in una certa misura ragionevolmente confliggenti, ma che io ritengo è giusto ed è positivo
+
+98
+00:12:44,100 --> 00:12:54,660
+che dialoghino, poi ci può anche essere il conflitto, ma quello che non ci possiamo
+
+99
+00:12:54,660 --> 00:13:02,020
+permettere sono le guerre per errore, perché queste non servono a nessuno di quelli che
+
+100
+00:13:02,020 --> 00:13:09,460
+vi partecipano. Se può essere utile, io concludo davvero i miei ringraziamenti con un invito,
+
+101
+00:13:09,640 --> 00:13:14,920
+la Fondazione Italia Europea non è un terreno neutro, non so benissimo, è un'istituzione
+
+102
+00:13:14,920 --> 00:13:20,680
+culturale che si colloca nell'ambito del campo progressista, della sinistra, del centrosinistra,
+
+103
+00:13:22,120 --> 00:13:28,160
+però è un punto di incontro di forze intellettuali e della società civile che sono significative.
+
+104
+00:13:30,020 --> 00:13:34,760
+Noi ci offriamo non soltanto per i dibatti dei pubblici, noi facciamo anche un grande
+
+105
+00:13:34,760 --> 00:13:42,120
+lavoro di approfondimento che ha un carattere più ristretto, noi ci offriamo come una sede
+
+106
+00:13:42,120 --> 00:13:49,480
+per ragionare insieme, anche a livello degli esperti, degli uffici studi, noi ci offriamo
+
+107
+00:13:49,480 --> 00:13:55,700
+come un terreno nel quale si può ragionare insieme, in modo vistaccato, senza il vincolo
+
+108
+00:13:55,700 --> 00:14:00,060
+a raggiungere degli accordi o a fare le dichiarazioni ai giornali quando si esce dagli esperti.
+
