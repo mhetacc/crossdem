@@ -1,0 +1,404 @@
+1
+00:00:10,700 --> 00:00:17,660
+Allora, siccome il tempo che abbiamo a disposizione non è molto, si aggiungeranno altri interlocutori
+
+2
+00:00:17,660 --> 00:00:35,500
+durante il corso di questa ora che abbiamo a disposizione per allietare il lavoro su un argomento entusiasmante,
+
+3
+00:00:35,500 --> 00:00:48,500
+abbiamo immaginato anche che un rinfresco possa essere la cosa migliore per cui nella stanza accanto o di là per chi le volesse c'è la possibilità.
+
+4
+00:00:48,500 --> 00:01:05,560
+Io faccio una sintesi del lavoro che presentiamo oggi e del lavoro che c'è alle spalle, questa sintesi sarà una sintesi sul testo,
+
+5
+00:01:05,560 --> 00:01:21,560
+sulle serie di cose che abbiamo fatto precedentemente, l'onorevole Roberto Pinza che è qui alla mia sinistra e il professor Giuliano Amato
+
+6
+00:01:21,560 --> 00:01:37,560
+che non completeranno questa sintesi, Amato ha un problema questa mattina che è dovuto a una cosa improvvisa che ha avuto stamattina e dovrebbe raggiungerci più tardi.
+
+7
+00:01:37,560 --> 00:02:05,560
+Nel frattempo però quello che mi preme comunque fare è di illustrare gli elementi essenziali di questa proposta che sono facilmente recuperabili da una lettura del testo, ma che credo rispetto ai quali alcuni di questi sono importanti da sottolineare.
+
+8
+00:02:07,460 --> 00:02:27,740
+Innanzitutto il testo come potete vedere è un testo che è frutto di un lavoro di un gruppo di esperti che hanno lavorato qui all'AREL da un po' di tempo.
+
+9
+00:02:29,560 --> 00:02:56,640
+Il progenitore di questo progetto è il libro dell'AREL, L'Indipendenza delle Autorità, di cui trovate copia lì dietro, che abbiamo pubblicato al febbraio di quest'anno e che conteneva una serie di credo abbastanza approfondite valutazioni che partivano da diverse riflessioni,
+
+10
+00:02:56,640 --> 00:03:12,880
+da diverse esperienze fatte nella scorsa legislatura. Una di queste era la relazione finale della Commissione, preseduta da Cerulli-Relli, che aveva espresso una serie di proposte di riforma delle autorità.
+
+11
+00:03:12,880 --> 00:03:40,800
+Nel testo della Commissione di Cerulli-Relli viene una serie di indicazioni che in quel libro sono non solo commentate, ma a quelle valutazioni sono aggiunte anche una serie di considerazioni, e quindi la relazione di Cerulli-Relli ha fatto oggetto di un primo approfondimento.
+
+12
+00:03:40,800 --> 00:04:02,440
+Durante la presentazione di quel volume, nella primavera scorsa, Giuliana Amato lanciò l'idea di un approfondimento che potesse portare alla stesura di un testo unitario, e il lavoro che oggi viene presentato è il frutto di questo lavoro.
+
+13
+00:04:03,280 --> 00:04:15,860
+Il testo è stato presentato al Senato, prima i firmatari Giuliana Amato e Nicola Mancino, e alla Camera, i primi firmatari siamo io e Roberto Pinza.
+
+14
+00:04:20,560 --> 00:04:44,080
+Queste cose le dico perché il testo che presentiamo non è quindi un'improvvisazione di queste settimane, legata a un'accelerazione che l'annuncio del Ministro della Funzione Pubblica di presentare da parte del Governo una proposta possa aver fatto.
+
+15
+00:04:44,080 --> 00:05:03,080
+Questo è un lavoro che ha alle sue spalle sostanzialmente un anno di lavoro e che certo propone un impianto che è un impianto proprio, i cui profili essenziali voglio rapidamente spiegare.
+
+16
+00:05:07,960 --> 00:05:24,680
+Innanzitutto la scelta di fare un disegno di legge quadro sulla materia e quindi di andare a regolare in modo con alcuni principi di omogeneità una materia che fino a oggi è regolata senza omogeneità.
+
+17
+00:05:24,680 --> 00:05:50,480
+Cioè fino a oggi le diverse autorità sono nate ognuno con una propria legge istitutiva e questo ha portato forti eterogenità, diversi aree, nel libro le chiamavamo un po' di zone grigie di competenze tra le diverse autorità e una disomogeneità nei criteri di nomina
+
+18
+00:05:50,480 --> 00:06:06,480
+e quindi nella legittimazione che le autorità stesse hanno alle loro spalle nei rapporti col Governo ognuna è regolata in un suo modo, nei rapporti con il Parlamento ognuna è regolata in un modo diverso.
+
+19
+00:06:10,220 --> 00:06:28,020
+Abbiamo ritenuto opportuno che fosse utile e necessario una normativa di sistema su questo tema, quindi questa è la prima scelta fatta, una normativa di sistema.
+
+20
+00:06:28,020 --> 00:06:42,460
+La seconda scelta fatta lasciando alcune specificità perché non riteniamo opportuno che vi sia una copertura omogenea totale su tutte le questioni.
+
+21
+00:06:42,460 --> 00:07:06,300
+In particolare si individuano alcuni temi sui quali si è scelta l'omogeneità, questi temi sono innanzitutto i criteri di nomina delle autorità, ne abbiamo individuato, abbiamo scelto come criterio di nomina quello attualmente in vigore per l'autorità, per l'energia e per il gas.
+
+22
+00:07:06,300 --> 00:07:25,640
+Il criterio di nomina, cioè della nomina da parte del Governo, quindi l'assegnazione alla nomina al Governo con un parere vincolante da parte del Parlamento, in particolare della Commissione parlamentare, ai due terzi della sua composizione.
+
+23
+00:07:25,640 --> 00:07:48,770
+Quindi una indicazione che è nelle mani del Governo ma con un obbligo di una maggioranza molto ampia, una maggioranza qualificata, che consente appunto al criterio di indipendenza di essere effettivamente suffragato in modo reale.
+
+24
+00:07:50,870 --> 00:08:13,790
+Una seconda questione di omogeneità è nel numero dei componenti, si individuano in 5 per ogni autorità, anche qui ogni legge fino a oggi aveva individuato per ogni autorità una situazione differente, abbiamo individuato in 5 il numero di componenti che possa essere il migliore possibile.
+
+25
+00:08:13,790 --> 00:08:32,790
+Alla luce anche delle attuali esperienze, i 3 dell'autorità per l'energia e per il gas, gli 8 delle telecomunicazioni, abbiamo retenuto che 5 fosse da questo punto di vista il numero col quale il funzionamento è meglio svolto.
+
+26
+00:08:34,870 --> 00:09:02,770
+Siccome il lavoro che presentiamo è potenzialmente un lavoro aperto ai contributi e quindi al miglioramento, perché riteniamo che possa esserci una buona discussione politico, parlamentare, accademica su questo tema, voglio indicare anche il fatto che attorno ai temi della Nomina si è sviluppata anche nella riflessione del gruppo di lavoro.
+
+27
+00:09:02,790 --> 00:09:32,030
+E' una cosa che io condivido completamente, l'idea di mettere appunto, ma appunto questo potrà essere fatto in seguito anche in una discussione successiva, una logica di sfasature delle Nomine, sfasature temporali che consenta una continuità nel lavoro delle autorità, ma appunto con una sfasatura che non faccia, che non crei una situazione di cambio totale ogni volta.
+
+28
+00:09:32,790 --> 00:09:40,770
+E' una cosa che appunto si termina un periodo di indicazione e di Nomina.
+
+29
+00:09:40,770 --> 00:09:48,570
+Altri criteri di omogeneità riguardano i rapporti con il Governo e i rapporti con il Parlamento.
+
+30
+00:10:11,930 --> 00:10:28,210
+Esprime e che fa salve le competenze che le attuali leggi istitutive assegnano al Governo nei rapporti con le diverse autorità.
+
+31
+00:10:28,210 --> 00:10:41,500
+Più complessa invece la parte che riguarda i rapporti con il Parlamento, perché si cerca con questa proposta di inserire una novità che noi riteniamo utile.
+
+32
+00:10:41,500 --> 00:10:59,760
+La novità è quella di inserire sostanzialmente il Parlamento come soggetto terzo nella dialettica delle autorità con il Governo e quindi di inserire il Parlamento in questo rapporto che oggi vede il Parlamento abbastanza fuori.
+
+33
+00:10:59,760 --> 00:11:14,140
+In particolare si crea all'articolo 13 questa commissione speciale parlamentare bicamerale sui rapporti con le autorità.
+
+34
+00:11:14,140 --> 00:11:30,780
+Potete trovare all'articolo 13 questa novità, una commissione bicamerale che serve a tenere il raccordo tra il Parlamento e le autorità.
+
+35
+00:11:30,780 --> 00:11:41,500
+Ha il compito di dare quel parere ai due terzi, che è il parere rispetto alla nomina dei componenti dell'autorità che dicevo prima.
+
+36
+00:11:44,020 --> 00:12:08,480
+Ha il compito di esprimersi rispetto alle proposte che le autorità fanno al Governo per quanto riguarda il miglioramento della legislazione nei differenti campi e svolge il rapporto con le autorità con i suoi componenti per quanto riguarda l'espressione delle relazioni annuali che le autorità svolgono.
+
+37
+00:12:13,120 --> 00:12:15,500
+Mettiamo una sedia qui per tabaccia.
+
+38
+00:12:24,400 --> 00:12:25,440
+Bruno, qua.
+
+39
+00:12:44,460 --> 00:13:11,200
+Quindi la proposta della commissione parlamentare bicamerale, che è nella nostra impostazione, è il luogo che dovrebbe rendere il rapporto tra il Parlamento e le autorità un rapporto solido, reale, molto più forte del rapporto abbastanza labile che l'attuale situazione eterogenea dal punto di vista normativo ha fino a oggi creato.
+
+40
+00:13:11,500 --> 00:13:34,980
+Quindi una delle finalità principali del progetto è quella di rendere il Parlamento più forte, più in grado di esprimere in modo compiuto i propri pareri, le proprie valutazioni e di entrare in una logica triangolare nel rapporto tra autorità e Governo.
+
+41
+00:13:34,980 --> 00:13:42,520
+Questa è quindi la proposta dell'istituzione di questa commissione bicamerale su questo tema.
+
+42
+00:13:43,860 --> 00:13:53,840
+Vi sono alcuni altri elementi importanti di omogeneizzazione e alcune novità che voglio sottolineare.
+
+43
+00:14:22,480 --> 00:14:39,560
+Il tentativo è quello dell'articolo 10, del disegno che proponiamo, che è quello di inserire un tentativo obbligatorio di conciliazione, prima del ricorso amministrativo,
+
+44
+00:14:39,560 --> 00:15:02,640
+che consenta quindi di evitare il maggior numero possibile di contenziosi, che ripeto essere soprattutto per quanto riguarda le imprese, tutti i soggetti che hanno nei rapporti con le autorità,
+
+45
+00:15:02,640 --> 00:15:18,880
+uno degli elementi essenziali trovano in questo eccesso di contenzioso uno dei problemi che ha creato una difficoltà nel rapporto tra le autorità e il resto delle istituzioni,
+
+46
+00:15:18,880 --> 00:15:36,780
+e del rapporto delle autorità con i singoli soggetti che appunto sono sottoposti alle sentenze delle autorità stesse.
+
+47
+00:15:36,780 --> 00:15:56,930
+L'articolo 7 affronta l'altra questione sulla quale cerchiamo di creare maggiore omogeneità, e quella della trasparenza delle procedure sulle quali le autorità sviluppano le loro attività, in particolare le attività che poi sfosciano in sentenze.
+
+48
+00:15:56,930 --> 00:16:17,050
+E anche questo è una materia che appunto è estremamente importante nel rapporto con i diversi soggetti che poi sono sottoposti per l'appunto alle sentenze o appunto al potere regolamentare delle autorità.
+
+49
+00:16:18,910 --> 00:16:22,770
+Alcuni principi generali che ritengo importante richiamare.
+
+50
+00:16:22,870 --> 00:16:32,190
+Innanzitutto ci siamo posti il problema della copertura costituzionale delle autorità, questo già nel lavoro, nel libro era presente.
+
+51
+00:16:32,730 --> 00:16:42,050
+Questa è una delle conclusioni importanti della commissione Cerulli-Irelli, il tema della copertura costituzionale.
+
+52
+00:16:44,050 --> 00:17:04,030
+Il principio che sta alla base del ragionamento che noi facciamo è quello di considerare, sicuramente utile nel momento nel quale si rimetterà a mano alla costituzione, affrontare il tema della copertura costituzionale dal punto di vista formale,
+
+53
+00:17:04,030 --> 00:17:15,110
+ma noi riteniamo che la copertura costituzionale dal punto di vista sostanziale sia già garantita sostanzialmente dalla costituzione materiale europea.
+
+54
+00:17:17,370 --> 00:17:38,110
+In alcuni casi la presenza delle autorità è obbligatoriamente richiesta dalle norme comunitarie, questo di per sé è un elemento che garantisce costituzionalmente.
+
+55
+00:17:41,170 --> 00:18:00,400
+La filosofia che sta alla base di questa proposta, della quale appunto siamo presentatori e che nelle nostre intenzioni vuole essere un contributo a una discussione che ormai è diventata molto forte e approfondita nel nostro Paese,
+
+56
+00:18:01,360 --> 00:18:26,780
+è quello di garantire l'indipendenza delle autorità ma allo stesso tempo di farle funzionare meglio, perché un funzionamento non efficace, non efficiente, dell'autorità è una delle motivazioni che possono spingere a considerare negativa la vita o la presenza o il lavoro delle autorità in alcuni settori.
+
+57
+00:18:26,780 --> 00:18:43,140
+Mentre invece una più efficace organizzazione dei rapporti dell'autorità tra di loro, dell'autorità con il governo, dell'autorità con il Parlamento è sicuramente un fatto di grande utilità.
+
+58
+00:18:45,040 --> 00:19:02,120
+Per quanto riguarda l'aspetto, tra virgolette, organizzativo delle singole autorità, voi trovate all'articolo 5 in particolare ogni autorità gode di forte autonomia.
+
+59
+00:19:03,540 --> 00:19:14,120
+E infine l'ultimo tema che voglio affrontare è quello invece della organizzazione delle competenze delle diverse autorità.
+
+60
+00:19:17,460 --> 00:19:39,800
+Nel riordino che noi proponiamo, al termine ovviamente di una riflessione abbastanza articolata, voglio dire che il gruppo di esperti che qui ha lavorato su questo tema è un gruppo di esperti molto articolato e ricco nelle sue competenze,
+
+61
+00:19:39,800 --> 00:19:59,860
+perché questa commissione che ha lavorato sotto il coordinamento di Cerulli Relli stesso, di Fabio Gobbo, di Franco Grassini, ha lavorato con alcune competenze che vengono da diversi mondi e da diverse esperienze anche professionali.
+
+62
+00:19:59,860 --> 00:20:24,360
+E quindi il lavoro al termine di questo gruppo, che ha interagito con noi, abbiamo individuato la scelta finale, che è quella di, rifaccio sostanzialmente l'elenco, così faccio credo prima da questo punto di vista,
+
+63
+00:20:24,360 --> 00:20:45,360
+di assegnare all'autorità per energia e per il gas la competenza nel campo delle risorse idriche e quindi di andare a regolare in questo modo anche quel settore e di far evolvere la regolazione di quel settore,
+
+64
+00:20:45,360 --> 00:21:13,720
+di assegnare all'autorità per telecomunicazione la competenza nel settore dei servizi postali, di assegnare all'antitrust la competenza su tutto ciò che riguarda la materia delle concentrazioni e della tutela della concorrenza anche nel settore bancario,
+
+65
+00:21:13,720 --> 00:21:19,980
+materia che attualmente invece è di competenza della panca d'Italia.
+
+66
+00:21:19,980 --> 00:21:44,780
+La CONSOB diventerebbe insieme all'ISWAP e alla COVIP, nella nostra impostazione, un'unica autorità che ha competenza generale sulle questioni di natura finanziaria
+
+67
+00:21:44,780 --> 00:22:05,960
+e quindi si andrebbero a fondere tre autorità, l'ISWAP, la COVIP e la CONSOB stessa in un'unica autorità sul modello inglese sostanzialmente che avrebbe competenza sui servizi finanziari.
+
+68
+00:22:07,300 --> 00:22:21,620
+Abbiamo ritenuto che l'autorità per l'informatizzazione della pubblica amministrazione, che ha svolto bene il suo compito fino a oggi, debba continuare a svolgerlo e abbiamo semplicemente preso atto della situazione esistente,
+
+69
+00:22:21,620 --> 00:22:41,660
+cioè abbiamo cambiato l'addizione da autorità in agenzia, nel senso che riteniamo che il lavoro che in questi otto anni l'AIPA ha svolto sia di per sé un lavoro che sotto l'addizione agenzia ha trovato con la massima autonomia
+
+70
+00:22:41,660 --> 00:23:07,660
+e quindi una continuità con gli otto anni che ci sono stati e che noi vogliamo salvaguardare con questa semplice modifica di edizione che semplicemente prende atto di quello che è accaduto in questi otto anni mantenendo le stesse criterie di autonomia gestionale, le stesse criterie di nomina dei componenti stessi.
+
+71
+00:23:11,280 --> 00:23:30,660
+Ho detto tante cose, molte potrebbero essere aggiunte, però io mi fermerei qui e chiederei appunto a Roberto Pinza di aggiungere le sue considerazioni, posso soltanto dire il fatto che la presentazione di questo testo
+
+72
+00:23:32,580 --> 00:23:59,160
+vuole essere, l'ho detto prima, un contributo a un dibattito che ha visto l'intervento del governo in queste ultime settimane, un intervento che è stato molto significativo e che rispetto a un'impostazione iniziale che a noi era sembrata non corrispondente all'impostazione che noi abbiamo,
+
+73
+00:23:59,160 --> 00:24:18,360
+cioè un'impostazione che era stata annunciata dal Ministro della Funzione Pubblica con una serie di strade diverse scelte rispetto a quelle che noi scegliamo, posso soltanto accennare ma non dico niente di più,
+
+74
+00:24:18,360 --> 00:24:36,860
+mi sembra che oggi l'intervento del Ministro della Funzione Pubblica sul sole 24 ore rappresenti un piccolo passo indietro rispetto all'impostazione iniziale che a noi sembrava molto pericolosa,
+
+75
+00:24:36,860 --> 00:24:51,860
+nel senso che era un'impostazione iniziale che su alcuni temi finiva per riportare sotto le competenze del governo una serie di competenze che invece a nostro avviso,
+
+76
+00:24:51,860 --> 00:25:08,860
+stante soprattutto la situazione di non privatizzazione completa di una serie di soggetti importanti, penso all'ENEL, penso all'ENI, penso soprattutto ai soggetti dell'energia,
+
+77
+00:25:08,860 --> 00:25:24,880
+l'idea che ritorni sotto le competenze del governo una competenza di regolazione nel campo energetico nel momento nel quale ENEL e ENI, quindi soggetti il cui controllo è saldamente in mano al governo,
+
+78
+00:25:26,580 --> 00:25:34,640
+e non sembra che la situazione cambierà nell'arco dei prossimi mesi, ci sembrava e ci sembra una scelta profondamente sbagliata.
+
+79
+00:25:34,640 --> 00:25:54,640
+Ripeto, mi sembra che oggi sia stato fatto un piccolo passo indietro e non posso che di questo essere soddisfatto, probabilmente anche il lavoro che è stato fatto in questi giorni e una serie di valutazioni che sono emersi da parte di tanti soggetti,
+
+80
+00:25:54,640 --> 00:26:02,900
+hanno probabilmente su questo tema rimesso alcuni punti fermi che ritengo assolutamente essenziali.
+
+81
+00:26:03,280 --> 00:26:16,920
+Le autorità sono uno strumento essenziale per il funzionamento del sistema economico, dei suoi rapporti con il sistema istituzionale e per la creazione di mercati effettivamente concorrenziali.
+
+82
+00:26:16,920 --> 00:26:30,200
+È un fenomeno che è in corso in tutti i paesi europei e non solo, credo che le stesse cose che ci sono oggi sui giornali su quello che Monti sta facendo da questo punto di vista lo dimostrano,
+
+83
+00:26:30,560 --> 00:26:43,720
+e quindi nella nostra valutazione è maturo in Italia il tempo per il quale un ordinamento di questo genere possa effettivamente svolgersi.
+
+84
+00:26:43,720 --> 00:27:01,720
+Spero che questo contributo possa andare in questa direzione, la presenza qui anche del Presidente della Commissione Attività Produttive della Camera vuole essere un percorso istituzionale il più lineare possibile da parte nostra,
+
+85
+00:27:01,720 --> 00:27:18,700
+cioè noi offriamo questo nostro contributo al Parlamento e abbiamo una forte aspettativa sul fatto che questo contributo possa trovare delle strade per fare passi avanti
+
+86
+00:27:18,700 --> 00:27:35,980
+e possa entrare una serie di indicazioni, di novità, di proposte che qui facciamo, possano fare dei passi avanti e possano quindi andare verso degli elementi di concretizzazione che riteniamo sicuramente utili.
+
+87
+00:27:36,740 --> 00:27:38,000
+Lascio la parola a Roberto Pinzi.
+
+88
+00:27:38,000 --> 00:27:44,500
+Per vendere, oltre che uno che compre e uno che vende, anche un'autorità che dà il suo budget, mi sembra che...
+
+89
+00:27:44,500 --> 00:27:46,920
+Non è una cattiva idea.
+
+90
+00:27:47,720 --> 00:27:47,960
+Come?
+
+91
+00:27:48,060 --> 00:27:49,180
+Perché ci vuole un compratore.
+
+92
+00:27:49,180 --> 00:27:56,000
+Ci vuole un venditore, un compratore, il compratore ce n'è sempre, per tutto il compratore, ma al prezzo giusto, ed è lui che dice qual è il prezzo giusto.
+
+93
+00:27:59,220 --> 00:28:14,700
+Quindi io credo che sia questo un problema che, se vi permettete, è più facile dirlo dell'opposizione.
+
+94
+00:28:18,620 --> 00:28:29,700
+Per completare l'incontro di oggi, è un incontro ovviamente fatto soprattutto per presentare questo testo e per acquisire alcuni pareri che sono stati qui espressi.
+
+95
+00:28:31,820 --> 00:28:43,480
+Avremo altre occasioni di approfondimento e quindi vi rimanderò alle ulteriori occasioni di approfondimento, tra l'altro appunto questo imprevisto di Amato ci obbligherà a riconvocare la cosa.
+
+96
+00:28:43,480 --> 00:28:58,220
+Però chiederei ai giornalisti presenti se c'è bisogno di qualche delucidazione, di qualche commento in più, credo che siamo a disposizione per questo.
+
+97
+00:29:05,420 --> 00:29:23,620
+Il rischio c'è, però noi crediamo che sia un rischio che da questo punto di vista può trovare un superamento, una soluzione positiva, se c'è l'impegno e la buona volontà ovviamente.
+
+98
+00:29:35,100 --> 00:29:47,520
+No, qualche chiarimento in più sulla razio, sottostante all'idea di trasferire dalla Banca Italia all'Antitrust il controllo anche sulle banche.
+
+99
+00:30:04,120 --> 00:30:16,320
+Ma su questo mi pare che è stato già chiarito la nostra posizione, nel senso che noi riteniamo che regolazione e garanzia vanno insieme, grazie.
+
+100
+00:30:16,320 --> 00:30:25,940
+Io credo che possiamo chiudere, ci riaggiorniamo, grazie.
+
+101
+00:30:46,320 --> 00:30:46,680
+Grazie.
+

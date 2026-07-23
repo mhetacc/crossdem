@@ -5099,3 +5099,4 @@ letta  2026-07-23 16:49:12.056646  https://www.radioradicale.it/scheda/431817/le
 letta  2026-07-23 16:49:14.953435  https://www.radioradicale.it/scheda/230886/politica-societa-diritti-di-cittadinanza-europa-mondo-arabo-america-latina?i=1138947  RuntimeError: yt-dlp exited 1
 letta  2026-07-23 16:49:21.828229  https://www.radioradicale.it/scheda/243625/il-sud-non-puo-piu-aspettare-dalla-calabria-proposte-e-risposte?i=1074995  RuntimeError: yt-dlp exited 1
 letta  2026-07-23 16:49:22.694189  https://www.radioradicale.it/scheda/142460/dialogo-intorno-alleuropa-presentazione-del-libro-di-lucio-caracciolo-ed-enrico-letta?i=1531250  TypeError: string indices must be integers, not 'str'
+letta  2026-07-23 17:09:23.602038  https://www.radioradicale.it/scheda/139927/il-futuro-della-sinistra-il-futuro-dellulivo-organizzato-dai-democratici-di-sinistra?i=1552569  TypeError: string indices must be integers, not 'str'
