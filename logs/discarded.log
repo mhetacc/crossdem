@@ -5314,3 +5314,13 @@ d'alema  2026-07-24 04:48:59.747066  https://www.radioradicale.it/scheda/75104/i
 d'alema  2026-07-24 04:49:01.405149  https://www.radioradicale.it/scheda/95552/guardiamoci-in-faccia-e-faccia-a-faccia-tra-fausto-bertinotti-e-massimo-dalema-a?i=2057585  TypeError: string indices must be integers, not 'str'
 d'alema  2026-07-24 04:49:03.794762  https://www.radioradicale.it/scheda/66701/assemblea-precongressuale-della-federazione-napoletana-del-pds?i=2356633  TypeError: string indices must be integers, not 'str'
 d'alema  2026-07-24 04:54:50.990783  https://www.radioradicale.it/scheda/60075/i-giovani-con-i-progressisti-per-governare-litalia?i=2408369  TypeError: string indices must be integers, not 'str'
+d'alema  2026-07-24 06:05:31.691685  https://www.radioradicale.it/scheda/52235/conferenza-programmatica-del-pds-per-larea-metropolitana-di-napoli?i=2480126  TypeError: string indices must be integers, not 'str'
+d'alema  2026-07-24 06:05:34.104522  https://www.radioradicale.it/scheda/52003/i-giovani-la-sinistra-la-democrazia?i=2482438  TypeError: string indices must be integers, not 'str'
+d'alema  2026-07-24 06:17:37.647579  https://www.radioradicale.it/scheda/48982/sinistra-di-governo-o-governo-delle-sinistre-rifondazione-comunista-e-le-strategie?i=2507873  RuntimeError: yt-dlp exited 1
+d'alema  2026-07-24 06:17:39.013127  https://www.radioradicale.it/scheda/49006/per-una-sinistra-di-governo?i=2507568  TypeError: string indices must be integers, not 'str'
+d'alema  2026-07-24 06:17:40.520392  https://www.radioradicale.it/scheda/48914/la-richiesta-del-governo-amato-per-i-pieni-poteri-in-materia-economica-la-rivolta?i=2508290  TypeError: string indices must be integers, not 'str'
+d'alema  2026-07-24 06:17:41.347408  https://www.radioradicale.it/scheda/55922/manifestazione-di-chiusura-del-i-campeggio-nazionale-della-sinistra-giovanile-contro-la?i=2447225  TypeError: string indices must be integers, not 'str'
+d'alema  2026-07-24 06:17:43.775324  https://www.radioradicale.it/scheda/46205/consiglio-nazionale-della-sinistra-giovanile?i=2528652  TypeError: string indices must be integers, not 'str'
+d'alema  2026-07-24 06:17:44.632791  https://www.radioradicale.it/scheda/75736/come-cambia-la-politica-italiana-confronto-dc-pds-organizzato-nellambito-della-festa?i=2270031  TypeError: string indices must be integers, not 'str'
+d'alema  2026-07-24 06:17:45.332293  https://www.radioradicale.it/scheda/41696/incontrare-la-storia-70-anni-dopo-unita-socialista?i=2564588  TypeError: string indices must be integers, not 'str'
+d'alema  2026-07-24 06:17:47.128476  https://www.radioradicale.it/scheda/47867/vecchie-etichette-e-vecchi-palazzi-oltre-la-retorica-della-riforma?i=2516037  TypeError: string indices must be integers, not 'str'
