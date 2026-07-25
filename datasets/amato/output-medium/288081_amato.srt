@@ -1,0 +1,832 @@
+1
+00:00:00,000 --> 00:00:05,160
+detto questo mi taccio perché ho già detto troppe sciocchezze e lascio la
+
+2
+00:00:05,160 --> 00:00:10,660
+parola invece al professore Amato. Non sono sciocchezze Fabia perché il
+
+3
+00:00:10,820 --> 00:00:17,680
+problema, questo sta meglio sotto, il problema dell'analisi economica applicata
+
+4
+00:00:17,680 --> 00:00:23,520
+al diritto pubblico è appunto che il diritto pubblico inteso almeno come
+
+5
+00:00:23,520 --> 00:00:29,700
+arena sulla quale si muovono gli attori pubblici ai quali sono affidati interessi
+
+6
+00:00:29,700 --> 00:00:40,940
+e interessi collettivi non è il mercato. È diverso proprio ontologicamente dalla
+
+7
+00:00:41,560 --> 00:00:49,300
+quell'arena di relazioni interprivate che sono determinate dalla motivazioni
+
+8
+00:00:49,300 --> 00:00:54,540
+economiche e quindi dalla ricerca di appagamenti economici.
+
+9
+00:00:54,540 --> 00:01:03,120
+Il tema è questo che l'analisi economica del diritto è nata per aiutare e gli ha
+
+10
+00:01:03,120 --> 00:01:11,440
+aiutati in modo straordinario giudici e avvocati e legislatori nell'applicare
+
+11
+00:01:11,440 --> 00:01:17,280
+bene le leggi capendo bene il comportamento dei privati nell'applicare
+
+12
+00:01:17,280 --> 00:01:24,680
+bene le leggi che riguardano le relazioni interprivate e qui come appunto
+
+13
+00:01:24,680 --> 00:01:30,400
+venne scritto a suo tempo in quegli anni nei quali si venne affermando ormai
+
+14
+00:01:30,680 --> 00:01:38,300
+oltre 50 anni fa l'analisi economica del diritto che al buon senso degli
+
+15
+00:01:38,300 --> 00:01:44,800
+avvocati e dei giudici che aveva stratificato dei concetti e dei
+
+16
+00:01:44,800 --> 00:01:51,920
+paradigmi interpretativi si poteva sostituire con una freschezza di analisi
+
+17
+00:01:51,920 --> 00:01:57,780
+e di miglior comprensione dei comportamenti dei privati un'analisi
+
+18
+00:01:57,780 --> 00:02:03,340
+dettata dall'economia e quanziché da questa stratificazione di cultura
+
+19
+00:02:03,340 --> 00:02:08,300
+giuridica. L'analisi economica del diritto deve la sua fortuna
+
+20
+00:02:08,300 --> 00:02:13,920
+fondamentalmente a questo. Oggi in una materia di cui Roberto
+
+21
+00:02:13,920 --> 00:02:21,760
+Dolesi e io in particolare qui ci occupiamo che è l'antitrust e la concorrenza non esiste
+
+22
+00:02:21,760 --> 00:02:29,100
+avvocato che sia in condizioni di tutelare gli interessi dei suoi clienti se
+
+23
+00:02:29,100 --> 00:02:35,540
+non è padrone dell'analisi economica del diritto perché è con quell'analisi che
+
+24
+00:02:35,540 --> 00:02:41,340
+suggerirà il significato dei comportamenti tenuti dal suo cliente che
+
+25
+00:02:41,340 --> 00:02:47,380
+quindi non ha violato la legge antitrust ovvero è vittima di una violazione di
+
+26
+00:02:47,380 --> 00:02:54,020
+legge antitrust di un altro operatore economico e sa che il giudice si baserà
+
+27
+00:02:54,020 --> 00:03:01,560
+su tutto questo per adottare la sua decisione. Il diritto pubblico inteso
+
+28
+00:03:01,560 --> 00:03:07,000
+come regolazione dei rapporti tra gli operatori istituzionali stiamo attenti
+
+29
+00:03:07,000 --> 00:03:13,900
+perché poi appunto la legge è un atto di diritto pubblico anche quando regola i
+
+30
+00:03:13,900 --> 00:03:21,760
+comportamenti interprivati ma intendendo l'analisi del diritto pubblico se ne può avvalere ma
+
+31
+00:03:22,640 --> 00:03:35,480
+è oggetto di domanda quanto se ne può avvalere visto che al suo interno vi sono motivazioni,
+
+32
+00:03:36,280 --> 00:03:42,820
+comportamenti, finalità che sono diverse da quelle economiche. Il libro serve a capire
+
+33
+00:03:42,820 --> 00:03:55,240
+quanto serve e non pretende giustamente con una giusta distanza dall'entusiasmo del neofita
+
+34
+00:03:56,520 --> 00:04:03,520
+di imporre e dire guardate ecco ho trovato la panacea che ora vi spiega tutto anche del
+
+35
+00:04:03,520 --> 00:04:09,340
+diritto pubblico in questa stessa chiave. In realtà può essere molto esplicativo per
+
+36
+00:04:09,340 --> 00:04:19,880
+diversi aspetti di funzionamento della baracca pubblica ma con dei limiti e con Giulio in
+
+37
+00:04:19,880 --> 00:04:26,860
+particolare avevamo discusso dei limiti che alla fine sono comparsi anche nel titolo
+
+38
+00:04:26,860 --> 00:04:34,680
+analisi economica del diritto pubblico teorie applicazione e limiti. Naturalmente anche
+
+39
+00:04:34,680 --> 00:04:43,900
+sui limiti occorre non avere pietà perché a volte l'operatore del diritto pubblico
+
+40
+00:04:43,900 --> 00:04:53,240
+è indotto a dire ma a me applicare le regole del mercato ma quando mai ma io sono una figura
+
+41
+00:04:53,240 --> 00:04:59,680
+pubblica io penso solo all'interesse collettivo dalla sera alla mattina e anche dalla mattina
+
+42
+00:04:59,680 --> 00:05:04,740
+alla sera, no per evitare che si pensi che poi invece la mattina alla sera chi sa che
+
+43
+00:05:04,740 --> 00:05:18,120
+fa? No sempre 24 ore su 24 e quindi cosa centro io con un'analisi che volta a capire in qual
+
+44
+00:05:18,120 --> 00:05:24,520
+modo ciascun operatore privato che sta sul mercato cerca di tutelare al meglio il proprio
+
+45
+00:05:24,520 --> 00:05:30,840
+privato interesse cosa che è assolutamente legittima sul mercato, il mercato funziona
+
+46
+00:05:30,840 --> 00:05:38,720
+così mentre il presupposto del diritto pubblico è l'altro capite? Ecco ora è chiaro che
+
+47
+00:05:38,720 --> 00:05:45,600
+questo diverso presupposto genera dei limiti all'applicabilità di quell'analisi ma è
+
+48
+00:05:45,600 --> 00:05:53,680
+doveroso sondare quanto si applica perché il limite anziché essere vero potrebbe essere,
+
+49
+00:05:53,680 --> 00:06:05,100
+vi faccio accampato dall'operatore, ecco vi faccio un esempio banalissimo proprio nell'ambito
+
+50
+00:06:05,100 --> 00:06:14,700
+della crisi finanziaria è emerso che i regolatori delle attività finanziarie non in tutti i paesi
+
+51
+00:06:14,700 --> 00:06:24,200
+quindi ci sono state delle differenze da paese a paese hanno chiuso tutti e due gli occhi davanti
+
+52
+00:06:24,200 --> 00:06:31,040
+a comportamenti irresponsabili degli operatori finanziari per dirla con linguaggio non da
+
+53
+00:06:31,040 --> 00:06:38,580
+analisi economica ma da cristiani che parlano tranquilli così fra di loro dopo perché prima
+
+54
+00:06:42,820 --> 00:06:50,680
+allora si è andati alla ricerca della perché questo è accaduto come mai non se ne sono
+
+55
+00:06:50,680 --> 00:06:57,900
+accorti? Allora voi avete una serie di risposte ecco perché in particolare il sistema finanziario
+
+56
+00:06:58,520 --> 00:07:08,480
+statunitense era stato sempre molto efficiente e siccome i fenomeni più osè sono accaduti negli
+
+57
+00:07:08,480 --> 00:07:15,400
+stati uniti si è ritenuto che l'efficienza tradizionalmente acquisita di quel sistema
+
+58
+00:07:15,400 --> 00:07:22,960
+fosse una garanzia adeguata e che non valesse la pena di entrarci troppo dentro poi in realtà
+
+59
+00:07:22,960 --> 00:07:30,440
+i profitti si generavano quindi per quale ragione uno doveva fermare questa meravigliosa macchina
+
+60
+00:07:30,440 --> 00:07:42,500
+che produceva guadagna all'infinito le spiegazioni sono diverse ma una spiegazione che viene data
+
+61
+00:07:42,500 --> 00:07:49,680
+proprio in chiave di analisi economica del diritto c'era un autore famoso Stigler che
+
+62
+00:07:50,240 --> 00:07:56,240
+aveva introdotto questa valutazione dei comportamenti di ciascun operatore dice
+
+63
+00:07:56,240 --> 00:08:03,880
+facciamo l'ipotesi che ciascun operatore anche pubblico si comporti nel modo più
+
+64
+00:08:03,880 --> 00:08:11,280
+coerente alla preservazione dei suoi personali interessi esattamente l'ipotesi che offende
+
+65
+00:08:11,280 --> 00:08:17,960
+qualunque operatore pubblico perché uno si offende tutela solo l'interesse collettivo
+
+66
+00:08:19,300 --> 00:08:30,820
+ne è venuto fuori una domanda ma cosa fanno nella vita coloro che passano qualche anno
+
+67
+00:08:30,820 --> 00:08:39,320
+come componenti di autorità di regolazione in materia finanziaria ed è venuto fuori
+
+68
+00:08:39,320 --> 00:08:45,980
+che noi pubblichiamo nella nostra rivista un saggio su questo che appare nel numero
+
+69
+00:08:45,980 --> 00:08:54,180
+di mercato concorrenza e regole che è in uscita credo questa settimana e li vengono fuori le
+
+70
+00:08:54,180 --> 00:09:06,040
+percentuali di presenza prima e dopo la permanenza nelle autorità di regolazione finanziaria dei
+
+71
+00:09:06,040 --> 00:09:11,840
+componenti delle medesime nei consigli d'amministrazione di società finanziarie
+
+72
+00:09:13,140 --> 00:09:21,200
+allora ne è nata una dottrina di suggerita dall'analisi economica che
+
+73
+00:09:21,440 --> 00:09:28,880
+potrà anche essere rifiutata con orrore ma che mi ma che dite mai io penso solo alla
+
+74
+00:09:28,880 --> 00:09:41,300
+famiglia i bambini non adatto e la dottrina delle cosiddette revolving doors delle porte
+
+75
+00:09:41,300 --> 00:09:50,540
+girevoli tipiche del grand hotel gente che va gente che viene ecco di persone che girano
+
+76
+00:09:50,540 --> 00:09:59,180
+dall'autorità di regolazione allora alle società interessate come come non è tendono
+
+77
+00:09:59,180 --> 00:10:11,000
+ad essere benevole verso le società interessate adducendo ragioni oggettive uno la mette lì ma
+
+78
+00:10:11,000 --> 00:10:18,000
+giusto che la metta lì non è detto che spieghi sempre non è detto che valga in tutti i casi non
+
+79
+00:10:18,000 --> 00:10:27,640
+è detto che tutti gli operatori pubblici operino e però esiste questo meccanismo io ho questionato
+
+80
+00:10:27,640 --> 00:10:35,440
+come si dice in toscana con gli autori perché ho sostenuto che vi sono diverse situazioni vi
+
+81
+00:10:36,320 --> 00:10:46,740
+le conosco e le conoscono anche loro nelle quali il titolare della carica pubblica sa che perde
+
+82
+00:10:46,740 --> 00:10:55,360
+totalmente il suo prestigio e la sua credibilità se assolve male al suo compito pubblico cioè se
+
+83
+00:10:55,360 --> 00:11:04,180
+si può dire di lui o di lei che quello che sta facendo lo sta facendo per sistemare i figli o
+
+84
+00:11:04,760 --> 00:11:13,920
+o peggio qualche amico degli amici perché allora lì con la coppola le cose vanno male assai e quindi
+
+85
+00:11:13,920 --> 00:11:25,480
+in realtà la molla della tutela del suo interesse personale è una molla che lo tiene sempre fermo
+
+86
+00:11:25,480 --> 00:11:36,100
+sull'interesse pubblico perché a quel punto anche questo è spiegato dalla stessa analisi
+
+87
+00:11:36,100 --> 00:11:44,340
+economica il ruolo istituzionale come fattore rilevante per il soddisfacimento dell'interesse
+
+88
+00:11:44,340 --> 00:11:53,320
+privato prevale su interessi tra virgolette privati allora bisogna saper distinguere queste
+
+89
+00:11:53,320 --> 00:12:03,480
+situazioni in realtà no naturalmente se uno va su questa strada potrebbe Alla Hirschmann un
+
+90
+00:12:03,480 --> 00:12:12,000
+grande vecchio professore contestare in parte l'analisi economica stessa applicata ai privati
+
+91
+00:12:12,580 --> 00:12:22,420
+in nome della motivazione altruista che però è è sempre dello stesso tipo in realtà e che io
+
+92
+00:12:23,800 --> 00:12:33,640
+faccio valere me stesso col mio interesse privato che è sollecitato anziché dall' ottenere profitto
+
+93
+00:12:33,640 --> 00:12:44,540
+strangolando anche il mio consumatore o il mio prossimo dall'essere altruista no io appunto
+
+94
+00:12:44,540 --> 00:12:50,940
+ponendo nell'occasione dell'altra presentazione questa domanda facevo l'esempio che non c'entra
+
+95
+00:12:50,940 --> 00:12:57,280
+assolutamente niente sia chiaro quindi preciso non c'entra assolutamente niente però è utile
+
+96
+00:12:57,280 --> 00:13:07,140
+ai profani come me e alcuni di loro a capire questo passaggio ecco madre Teresa era altruista
+
+97
+00:13:07,140 --> 00:13:18,880
+o egoista ponetemi questa domanda la risposta che darete era che era entrambe le cose se ci
+
+98
+00:13:20,220 --> 00:13:30,960
+a servire gli altri che lei servendo gli altri appagava se stessa se gli avesse venduto delle
+
+99
+00:13:30,960 --> 00:13:38,380
+medicine cinesi false ricavandone un alto profitto sarebbe stata infelice una donna come quella non
+
+100
+00:13:38,380 --> 00:13:45,100
+ne avrebbe cavato la soddisfazione che l'analisi economica attribuisce al venditore medio in
+
+101
+00:13:45,100 --> 00:13:54,420
+perché aveva questa di questa diva quindi esiste anche e quindi bisogna saper connettere saper
+
+102
+00:13:54,420 --> 00:14:02,100
+connettere queste cose un altro rischio che nel settore pubblico corre l'analisi economica
+
+103
+00:14:03,020 --> 00:14:13,120
+e quello se ne accennava prima lo diceva fabio di trattare come rapporti di causalità delle
+
+104
+00:14:14,540 --> 00:14:22,220
+rischio che corre molto meno nel nell'analisi del mercato perché l'analisi del mercato è
+
+105
+00:14:22,220 --> 00:14:30,520
+tendenzialmente di situazioni singole situazioni specifiche con quella impresa quel consorzio di
+
+106
+00:14:30,520 --> 00:14:41,180
+imprese quel mercato su cui stanno quattro imprese tre imprese due imprese quello specifico accordo
+
+107
+00:14:41,180 --> 00:14:50,720
+che abbiamo stipulato noi due ecco a quel punto all'interno di una ma il diritto pubblico come
+
+108
+00:14:50,720 --> 00:14:59,090
+arena nella quale si muovono operano interessi pubblici molti tipici e mette insieme fasci di
+
+109
+00:14:59,280 --> 00:15:10,180
+realtà mette insieme fasci di situazione e lo fa in modi che determinano che pongono in evidenza
+
+110
+00:15:10,180 --> 00:15:18,480
+le correlazioni ma queste correlazioni sono rapporti di causa effetto includono dei rapporti
+
+111
+00:15:18,480 --> 00:15:25,500
+di causa effetto nell'analisi economic appunto dei comportamenti privati è relativamente più
+
+112
+00:15:25,500 --> 00:15:39,500
+facile arrivare a dire causa effetto e allora io posso dire stupendo i giuristi stupendo i
+
+113
+00:15:40,160 --> 00:15:47,800
+perché è lì sulle rive del michigan loro dimostrarono che erano fesserie alcuni concetti
+
+114
+00:15:47,800 --> 00:15:56,020
+nei quali noi credevamo il prezzo massimo non si può fissare mai mai perché è un accordo sui
+
+115
+00:15:56,020 --> 00:16:06,060
+prezzi e gli accordi sui prezzi sono per definizioni e violazioni della concorrenza se il il produttore
+
+116
+00:16:06,060 --> 00:16:16,580
+il quale stabilisce il prezzo per i suoi distributori vincolandoli a non superare un
+
+117
+00:16:16,580 --> 00:16:24,460
+certo massimo questo ha una ragione economica trasparente e un economista la capiva prima di
+
+118
+00:16:24,460 --> 00:16:30,380
+un giurista oggi i giuristi che un po' perspicaci sono hanno imparato a capirlo subito anche loro
+
+119
+00:16:30,380 --> 00:16:38,640
+sia chiaro non è che chiamiamo l'economista per dire dottore ci faccia dire 33 un numero
+
+120
+00:16:38,640 --> 00:16:45,160
+economista non sappiamo se no l'abbiamo capito da solo però l'abbiamo capito da loro cioè
+
+121
+00:16:45,160 --> 00:16:54,340
+il produttore che cosa sta facendo sta cercando di evitare che il singolo distributore del suo
+
+122
+00:16:54,340 --> 00:17:02,480
+prodotto e lui ne ha tanti sul mercato geografico grandissimo pur di fare il massimo di soldi
+
+123
+00:17:02,480 --> 00:17:11,580
+possibile sulla fornitura di quel prodotto visto che il prodotto va lo venda al prezzo per lui
+
+124
+00:17:11,580 --> 00:17:18,700
+più remunerativo tanto poi lui cambierà prodotto che gli frega lui è un distributore ma se alza
+
+125
+00:17:19,300 --> 00:17:26,520
+lui distributore ci guadagna un sacco di soldi ma poi i clienti cambiano prodotto e il produttore
+
+126
+00:17:26,520 --> 00:17:35,560
+a quel punto ci rimette quindi il produttore ha più interesse a che il suo prodotto in distribuzione
+
+127
+00:17:35,560 --> 00:17:42,460
+vada ad un prezzo che rimane competitivo rispetto al prezzo dei potenziali con cui qui il rapporto
+
+128
+00:17:42,460 --> 00:17:51,600
+di causa effetto lo vedete subito appunto no è ragionevole questa sequenza di aspettative e allora
+
+129
+00:17:51,600 --> 00:18:02,400
+dice si ammette non si ammette benissimo ecco nel diritto pubblico le connessioni io non ho
+
+130
+00:18:02,400 --> 00:18:11,680
+nessuna ma nessuna simpatia per la tesi che lui diceva che la ragione per cui dopo una guerra
+
+131
+00:18:11,680 --> 00:18:17,180
+cambiano le costituzioni è la redistribuzione del reddito che si è determinata nella guerra
+
+132
+00:18:17,180 --> 00:18:29,300
+perché c'è dell'altro cioè io arrivo ad impiccare uno a testa in giù a piazzale l'oreto per un
+
+133
+00:18:29,300 --> 00:18:39,020
+insieme di ragioni non perché m'ha fatto diminuire il reddito ma magari che ne so perché ha fatto
+
+134
+00:18:39,020 --> 00:18:45,960
+ha contribuito a che mia zia venisse deportata da auschwitz o mia figlia venisse deportata da
+
+135
+00:18:45,960 --> 00:18:52,760
+auschwitz perché io sono sempre stato comunista e non accetto di essere governato da un regime
+
+136
+00:18:52,760 --> 00:19:01,220
+fascista per mille altre ragioni e buon ma c'è un'esplosione contro il vecchio regime voglio
+
+137
+00:19:01,220 --> 00:19:08,310
+dire le ideologie fra l'altro e qui sarebbe un altro argomento ancora hanno un peso enorme
+
+138
+00:19:08,960 --> 00:19:16,740
+nel guidare i comportamenti collettivi di tipo politico e a volte prescindono anche appunto
+
+139
+00:19:16,740 --> 00:19:24,720
+dalla distribuzione del reddito la distribuzione del reddito da sola non spiega mai molto perché
+
+140
+00:19:24,720 --> 00:19:31,900
+se spiegasse noi oggi dovremmo fare una nuova costituzione con la fregatura che ci hanno tirato
+
+141
+00:19:31,900 --> 00:19:41,760
+addosso con 10 anni di spostamento drastico della ricchezza prodotta in direzione del capitale a
+
+142
+00:19:41,760 --> 00:19:49,240
+danno dei redditi da lavoro ma invece questo non accade per mille altre ragioni in più le
+
+143
+00:19:49,240 --> 00:19:56,260
+correlazioni appunto bisogna stare molto attenti scusate se alleggerisco ma appunto se c'è una
+
+144
+00:19:56,260 --> 00:20:02,680
+categoria della quale non fidarsi sulle correlazioni rapporto causa-effetto non sono tanto i poveri
+
+145
+00:20:02,680 --> 00:20:12,060
+economisti qua con noi quanto gli studiosi che fanno ricerca medica perché è tipico di un certo
+
+146
+00:20:12,060 --> 00:20:22,300
+modello di ricerca io c'ho 100 che hanno il cancro e ho deciso che voglio capire la carota
+
+147
+00:20:22,300 --> 00:20:29,220
+e il cancro io ho trovato pure uno che mi finanzia una ricerca sulla carota il cancro allora io li
+
+148
+00:20:29,220 --> 00:20:35,360
+divido in due gruppi i malati di cancro che mangiano carota e i malati di cancro che non
+
+149
+00:20:35,360 --> 00:20:45,720
+mangiano risultato alla fine sarà che quelli che non mangiano la carota campano di più se ne deduce
+
+150
+00:20:45,720 --> 00:20:52,740
+che la carota produce o aggrava il cancro ora questa è una deduzione completamente prima di
+
+151
+00:20:52,740 --> 00:21:00,040
+senso completamente prima di senso è casuale possono esserci delle situazioni nelle quali
+
+152
+00:21:00,040 --> 00:21:07,360
+questo tipo di indagine produce oltre che una correlazione anche un causa-effetto questo può
+
+153
+00:21:07,360 --> 00:21:16,680
+accadere ma non accade sempre e non sempre queste correlazioni appunto il caso della carota che era
+
+154
+00:21:16,680 --> 00:21:25,480
+accaduto non l'ho inventato era accaduto era di questo genere così per esempio per dirne un'altra
+
+155
+00:21:25,480 --> 00:21:35,720
+sistemi elettorali ed evito non è vero cioè c'è anche la conformazione delle forze politiche
+
+156
+00:21:36,320 --> 00:21:44,240
+prendete l'italia l'italia maggioritaria è un imbroglio nato no perché noi abbiamo avuto o lo
+
+157
+00:21:44,240 --> 00:21:51,900
+è stata negli scorsi anni poi un po' è migliorata devo dire da ultimo perché insomma un po' di
+
+158
+00:21:51,900 --> 00:21:59,600
+votatura pian piano è intervenuta ma noi per anni abbiamo avuto miriadi di piccoli partiti che
+
+159
+00:21:59,860 --> 00:22:09,260
+prima delle elezioni esercitavano il proprio potere di ricatto sui partiti maggiori e dicevano tu in
+
+160
+00:22:09,260 --> 00:22:21,400
+quel collegio lì di luca arrivi al 47 per cento e il tuo opponent arriva al 49 per cento eccomi qua
+
+161
+00:22:21,400 --> 00:22:32,280
+io sono il partito delle figlie di santa zitta e ciò il 2,5 per cento col mio 2,5 per cento vinci
+
+162
+00:22:32,280 --> 00:22:42,680
+senza perdi che vogliamo fare allora io alle figlie di santa zitta prometto 46 in parlamento
+
+163
+00:22:42,680 --> 00:22:51,020
+perché mi diano e si alleino con me perché in questo modo insomma io ho comunque di più
+
+164
+00:22:51,020 --> 00:22:57,180
+benissimo naturalmente le figlie di santa zitta si presentano sotto la mia sottana perché solo io
+
+165
+00:22:57,320 --> 00:23:06,160
+ho titolo a presentarmi agli elettori col mio simbolo vinciamo le elezioni e poi eccoli che
+
+166
+00:23:06,160 --> 00:23:12,020
+appena entrati in parlamento escono da sotto la mia sottana e si mettono in proprio e questo è
+
+167
+00:23:12,020 --> 00:23:17,700
+sentito dalle nostre regole parlamentari si mettono in proprio e a quel punto continuano
+
+168
+00:23:17,700 --> 00:23:26,480
+il gioco assolutamente di tipo proporzionale antico risultato con sistema elettorale maggioritario hai
+
+169
+00:23:26,480 --> 00:23:36,280
+la stessa propensione all'inanzamento del debito che già olson era stato aveva attribuito ai sistemi
+
+170
+00:23:36,280 --> 00:23:43,980
+proporzionali perché perché non è il sistema elettorale da solo ma è la conformazione del
+
+171
+00:23:43,980 --> 00:23:53,300
+sistema politico correlata al sistema elettorale che determina il tipo di negoziato che c'è tra
+
+172
+00:23:53,300 --> 00:24:00,460
+le forze politiche quindi l'effetto che questo produce sul bilancio dello stato ecco detto questo
+
+173
+00:24:00,970 --> 00:24:10,380
+e chiudo le domande tipologicamente suggerite dall'analisi economica sono di grandissimo
+
+174
+00:24:10,380 --> 00:24:18,000
+interesse se ci si prova ad applicarle al diritto pubblico e il bello di questo libro che è un
+
+175
+00:24:18,000 --> 00:24:27,440
+libro laico se posso usare senza fraintendimenti questa parola cioè nel senso che insomma è
+
+176
+00:24:27,790 --> 00:24:36,040
+e che loro ci provano sistematicamente ma non vi vogliono infinocchiare non vi vogliono far
+
+177
+00:24:36,040 --> 00:24:43,800
+credere che ovunque funziona loro fanno questo sondaggio generalizzato sul diritto pubblico che
+
+178
+00:24:43,800 --> 00:24:50,390
+in più casi da risultati del tutto analoghi a quelli del diritto privato in altri casi no ma
+
+179
+00:24:50,390 --> 00:24:59,570
+insomma se si pensa che nel diritto tra i privati è chiaro che la regolazione in base al vecchio
+
+180
+00:24:59,570 --> 00:25:07,270
+principio di cause tende a ritenersi utile quando i privati da soli non ci riescono a sistemare le
+
+181
+00:25:07,270 --> 00:25:14,770
+cose poi noi in italia che la chiamiamo sussidiarietà questa roba qui ma insomma è abbastanza normale che
+
+182
+00:25:14,770 --> 00:25:20,270
+se lo stato non sta tra i piedi quando noi possiamo fare da soli siamo tutti contenti credo che
+
+183
+00:25:20,930 --> 00:25:27,610
+anche quelli di rifondazione comunista secondo me sono contenti insomma poi uno le cose le racconta
+
+184
+00:25:27,610 --> 00:25:34,370
+come gli serve ma avere lo stato tra i piedi quando uno può fare da solo è una fondamentale regola
+
+185
+00:25:34,370 --> 00:25:42,030
+che tutti siamo pronti a seguire e quindi si dice la regolazione pubblica serve quando riduce
+
+186
+00:25:42,030 --> 00:25:48,690
+i costi di transazione che i privati da soli non sarebbero in modo di sbrugliare il caso classico
+
+187
+00:25:48,690 --> 00:25:56,010
+quando studiavamo la nascita dello stato sociale era i lavoratori chiedono l'assicurazione malattia
+
+188
+00:25:56,470 --> 00:26:03,670
+per ciascun singolo imprenditore pagare le malattie dei suoi lavoratori diventava un rischio
+
+189
+00:26:03,670 --> 00:26:12,610
+gigantesco meglio per tutti contribuire con una quota ad un fondo e poi è il fondo che paga
+
+190
+00:26:12,610 --> 00:26:18,390
+coloro che si sono ammalati o che hanno avuto l'incidente o poi la vecchiaia no quindi ecco
+
+191
+00:26:18,390 --> 00:26:24,970
+qui con la regolazione pubblica si diffondono i costi di transazione e diventano tollerabili
+
+192
+00:26:24,970 --> 00:26:35,690
+ecco quando siamo nell'ambito degli interessi collettivi è solo per ridurre i costi di transazione
+
+193
+00:26:35,690 --> 00:26:42,590
+che la regolazione è concepibile ci sono regolazioni che si fanno non per ridurre i costi di transazione
+
+194
+00:26:42,590 --> 00:26:49,870
+ma per altre ragioni e quando le si fa per altre ragioni siamo sicuri che servono e quali sono
+
+195
+00:26:49,870 --> 00:26:59,030
+queste altre ragioni ecco questa è una è una bellissima domanda il raffronto che fa breccia
+
+196
+00:26:59,030 --> 00:27:05,750
+nel suo capitolo tra i regimi dittatoriali e i regimi democratici lo dovreste leggere perché
+
+197
+00:27:05,750 --> 00:27:11,610
+oggi è una discussione di grandissimo interesse questo quadro se uno la mette tutta in termini
+
+198
+00:27:11,610 --> 00:27:19,990
+di efficienza ma insomma il regime dittatoriale vale molto di più è rapido decide subito insomma
+
+199
+00:27:19,990 --> 00:27:28,330
+non c'ha tutte queste perdite di tempo ma siamo sicuri che è davvero più efficiente decidendo
+
+200
+00:27:28,330 --> 00:27:35,390
+senza aver tenuto conto sufficientemente delle preferenze dei suoi cittadini perché non ha
+
+201
+00:27:35,390 --> 00:27:42,450
+attivato gli strumenti per consentire ai cittadini di esprimere le preferenze per cui alla lunga
+
+202
+00:27:42,950 --> 00:27:50,350
+può essere un pentolone in implosione che poi esplode perché adotta decisioni rapidissime ma
+
+203
+00:27:50,350 --> 00:27:55,930
+non sono quelle che corrispondono alle aspettative e alle preferenze dei cittadini insomma ecco
+
+204
+00:27:56,550 --> 00:28:04,850
+questo nessuno si pone le domande così se non chi fa analisi economica e da questo punto di vista
+
+205
+00:28:04,850 --> 00:28:12,230
+nonostante sia una pizza diabolica questo libro assolutamente diabolica cioè non ve lo portate
+
+206
+00:28:12,230 --> 00:28:21,990
+sul comodino perché no vabbè può darsi che alla seconda pagina vi addormentate e non tentate di
+
+207
+00:28:21,990 --> 00:28:29,870
+fare l'operazione che a volte fate con quei bei romanzoni rilegati in grosso che ne leggete una
+
+208
+00:28:29,870 --> 00:28:33,950
+poi non c'è mai il dialogo per alleggerire
+

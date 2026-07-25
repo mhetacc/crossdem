@@ -1,0 +1,668 @@
+1
+00:00:05,060 --> 00:00:13,440
+Allora, siamo qui riuniti per andare alle origini della giustizia costituzionale negli
+
+2
+00:00:13,440 --> 00:00:20,940
+Stati Uniti. Casualmente uno dei presenti ha scritto un libro sull'argomento, ma questo
+
+3
+00:00:20,940 --> 00:00:32,640
+è così insomma, by the way lo dico, funziona, funziona. No, è uno di quei temi sui quali
+
+4
+00:00:32,640 --> 00:00:46,780
+vale sempre la pena tornare, soprattutto in paesi nei quali le aspettative dalla giustizia
+
+5
+00:00:46,780 --> 00:01:00,420
+costituzionali sono sempre elevate, si ha difficoltà a attivare i risultati che ci si
+
+6
+00:01:00,420 --> 00:01:09,700
+aspetta e poi ci si domanda da che cosa vengono quando arrivano, perché se c'è una cosa
+
+7
+00:01:09,700 --> 00:01:17,340
+che colpisce delle grandi decisioni su cui si è costruita la giustizia costituzionale
+
+8
+00:01:17,340 --> 00:01:32,380
+nel mondo e è analogo la forza del diritto europeo attraverso la Corte di Giustizia Europea,
+
+9
+00:01:32,380 --> 00:01:41,000
+ciò è accaduto quando si leggono le decisioni attraverso argomenti di una semplicità disarmante,
+
+10
+00:01:41,400 --> 00:01:51,340
+allora uno si domanda ma alla fin fine che ci voleva dirlo? Cioè quando la Corte europea
+
+11
+00:01:53,120 --> 00:02:02,360
+in Costa verso Senel riprendendo la Corte costituzionale italiana che aveva adottato
+
+12
+00:02:02,360 --> 00:02:10,040
+una decisione di cui fino a ieri ci si vergognava, oggi forse ricomincia un clima adatto a quelle
+
+13
+00:02:10,040 --> 00:02:16,940
+decisioni lì, ma insomma la Corte di Giustizia disse ma che senso avrebbe che il fatto che
+
+14
+00:02:16,940 --> 00:02:24,860
+voi stati membri avete dato competenza a legiferare su certe materie all'Unione Europea se poi in
+
+15
+00:02:24,860 --> 00:02:31,480
+quelle materie non c'è il primato del diritto europeo sul diritto nazionale sarebbe perfettamente
+
+16
+00:02:31,480 --> 00:02:38,740
+inutile perché a quel punto chiunque andrebbe con le sue leggi per i fatti suoi rispetto alla
+
+17
+00:02:38,740 --> 00:02:51,000
+voi avete conferito. Quando noi eravamo afflitti dai decreti legge molti anni fa che erano
+
+18
+00:02:51,000 --> 00:03:02,800
+diventati veicoli di qualunque normativa parlamentare e stando 60 giorni in Parlamento si moltiplicavano
+
+19
+00:03:02,800 --> 00:03:10,800
+i commi di cui erano portatori quindi partivano tipo littorina ad una volta con due vetture
+
+20
+00:03:11,700 --> 00:03:19,640
+diventavano di quei treni merci che ci vuole un quarto d'ora vederli passare e aspetta un bel
+
+21
+00:03:19,640 --> 00:03:26,980
+giorno la Corte costituzionale disse ma se il decreto legge determinato da necessità ed urgenza
+
+22
+00:03:26,980 --> 00:03:34,290
+60 giorni deve essere o convertito o respinto non è che sta per un anno e mezzo in Parlamento
+
+23
+00:03:34,580 --> 00:03:43,660
+attraverso reiterazioni successive tant'è vero che in questi giorni io avevo cominciato a chiedermi
+
+24
+00:03:43,660 --> 00:03:53,560
+può darsi se qualcuno si decide che fra qualche tempo leggeremo una decisione della nostra Corte
+
+25
+00:03:53,560 --> 00:04:00,940
+costituzionale in cui è scritto ma se l'articolo 72 dice che le leggi si approvano articolo per
+
+26
+00:04:00,940 --> 00:04:08,720
+articolo è frode della Costituzione trasformare gli articoli in commi e approvare una legge fatta
+
+27
+00:04:08,720 --> 00:04:16,520
+di un unico articolo costituito da 700 commi il giorno che la leggeremo diremo è assolutamente
+
+28
+00:04:16,520 --> 00:04:23,880
+ovvio cioè è un argomento irrefutabile non c'è discussione come non ci fu discussione sulla
+
+29
+00:04:23,880 --> 00:04:33,120
+decisione che è lì sulla reiterazione perché discendeva dal dal congegno costituzionale la
+
+30
+00:04:33,120 --> 00:04:38,720
+giustizia costituzionale americana che poi la giustizia costituzionale nel mondo è nata così
+
+31
+00:04:38,720 --> 00:04:50,060
+perché poi Marbury versus Madison è tutta su una frase e bella frase in cui Marshall scrive ma se
+
+32
+00:04:50,060 --> 00:04:57,040
+ad uno stesso caso sono applicabili una legge ordinaria e la Costituzione che dicono cose
+
+33
+00:04:57,040 --> 00:05:04,380
+diverse io se non altro perché ho giurato fedeltà alla Costituzione devo far prevalere la Costituzione
+
+34
+00:05:04,380 --> 00:05:13,780
+chi può dire il contrario e poi è andata avanti così perché questa era una legge federale e poi
+
+35
+00:05:13,780 --> 00:05:21,900
+sette anni dopo nel 1810 una legge della Georgia si può far prevalere la Costituzione su una legge
+
+36
+00:05:21,900 --> 00:05:34,360
+della Georgia? Beh sì perché se la Costituzione è la suprema legge del Paese e se il Paese
+
+37
+00:05:34,360 --> 00:05:42,460
+poi sei anni dopo ancora e se sono le corti supreme degli Stati a dire no però sono io che
+
+38
+00:05:42,460 --> 00:05:51,460
+decido non sei tu ancora con un argomento ovvio la corte suprema disse ma sono io che ho la
+
+39
+00:05:52,220 --> 00:06:00,200
+giurisdizione voi leggete io ho portato questa Costituzione piccolina l'articolo 3 della
+
+40
+00:06:00,200 --> 00:06:07,080
+Costituzione americana è una paginetta di questo libro piccolo piccolo e quindi ci si
+
+41
+00:06:07,080 --> 00:06:14,980
+traggono tutte queste cose appunto uno dei temi interessanti ma io sono solo il moderatore qui e
+
+42
+00:06:14,980 --> 00:06:27,120
+mi fermo è capire ma da che cosa nasce una decisione che è modificativa in realtà di equilibri
+
+43
+00:06:27,120 --> 00:06:39,980
+esistenti ed è tuttavia costruita su argomenti logici quasi banali che una volta adottati
+
+44
+00:06:39,980 --> 00:06:57,100
+diventano irrefutabili alle spalle solo la irrefutabilità della logica oppure c'è
+
+45
+00:06:57,100 --> 00:07:06,180
+usare quel semplicismo e non essere arrestato e arrestato forse no ma insomma estremizzo
+
+46
+00:07:06,820 --> 00:07:18,300
+ecco c'è una storia di legge superiore dietro c'è una storia di forza del giudice nel sistema
+
+47
+00:07:18,300 --> 00:07:28,580
+istituzionale e c'è appunto una storia di diversissima da quella nostra europea diversissima
+
+48
+00:07:28,580 --> 00:07:38,560
+da quella francese che riprendendo la antica guerra della common law contro l'astetio contro
+
+49
+00:07:38,560 --> 00:07:44,580
+in realtà più che l'astetio lo la legge del principe all'inizio del seicento inglese ha
+
+50
+00:07:44,580 --> 00:07:53,020
+portato insieme ai pellegrini l'idea che c'è una legge superiore a cui il legislatore è subordinato
+
+51
+00:07:53,020 --> 00:08:06,700
+un'idea locchiana e lo spiegherà Hamilton nel 78° paper dei federalist papers non è il governo
+
+52
+00:08:06,700 --> 00:08:18,900
+dei giudici questo è il governo della costituzione e quando prevale la costituzione è sbagliato dire
+
+53
+00:08:18,900 --> 00:08:29,540
+che i giudici si sono messi sopra i legislatori questo è un tema enorme ed è questo tema in
+
+54
+00:08:29,540 --> 00:08:38,520
+probabilità probabilmente l'accettazione di questo che sta sotto gli argomenti semplici forse dove questo
+
+55
+00:08:38,520 --> 00:08:45,840
+non è accettato gli argomenti semplici diventano complicati dove io che ho il mandato elettivo
+
+56
+00:08:46,680 --> 00:08:57,460
+sono il potere al singolare così come era il potere al singolare chi era investito dal papa
+
+57
+00:08:57,460 --> 00:09:07,760
+o dall'imperatore del suo potere statuale ecco dove è così allora la logica elementare con cui si fa
+
+58
+00:09:07,760 --> 00:09:17,780
+prevalere la legge superiore non riesce ad operare quindi insomma i giudici sono dei semplicioni che
+
+59
+00:09:17,780 --> 00:09:24,300
+si collocano su sistemi complessi questa potrebbe essere una conclusione un po' stravagante di
+
+60
+00:09:24,300 --> 00:09:35,860
+mia introduzione a seguito della quale dunque qui si va per anzianità accademica quindi parlano
+
+61
+00:09:35,860 --> 00:09:45,920
+prima i più giovani e poi via via salvo l'autore del libro che casualmente sul tavolo oggi quindi
+
+62
+00:09:49,880 --> 00:09:58,340
+dunque io anche perché viene da una corte costituzionale nazionale che ha messo in dubbio
+
+63
+00:09:58,340 --> 00:10:07,440
+il primato del diritto comunitario era la corte costituzionale italiana del 1964 per dire ragazzi
+
+64
+00:10:07,440 --> 00:10:15,980
+non facciamo scherzi qua il diritto comunitario sopravvive se gli si riconosce il primato nelle
+
+65
+00:10:15,980 --> 00:10:23,260
+materie confidate alla comunità sulle leggi nazionali anteriori o posteriori che siano adottate
+
+66
+00:10:23,260 --> 00:10:32,020
+nelle stesse materie marshal questo lo ha spiegato ora e nel libro ovviamente ci si sofferma molto
+
+67
+00:10:32,020 --> 00:10:41,440
+questo era interessato a districarsi nel merito del caso perché lui insomma aveva dei dubbi
+
+68
+00:10:41,440 --> 00:10:48,760
+sulla sostanza ma non voleva mettersi contro la nuova amministrazione allora l'unico modo di
+
+69
+00:10:48,760 --> 00:10:57,030
+tirarsi fuori era dire perché questo va saputo qui c'è una legge che attribuisce a me corte
+
+70
+00:10:57,550 --> 00:11:09,230
+il potere di giudicare su un ricorso diretto non previsto dalla costituzione allora per cavarsi
+
+71
+00:11:09,230 --> 00:11:19,210
+di impaccio e mandare con dio marbury senza accogliere né respingere ma comunque se la
+
+72
+00:11:19,210 --> 00:11:26,610
+corte non prende in considerazione il caso marbury lo perde lui trova il modo senza entrare
+
+73
+00:11:26,610 --> 00:11:36,030
+merito di dire che non può giudicare e il suo modo di dire che non può giudicare è dichiarare
+
+74
+00:11:36,030 --> 00:11:44,130
+contraria alla costituzione la legge che gli attribuisce il potere di decidere perché la
+
+75
+00:11:44,130 --> 00:11:54,650
+legge prevede un caso di ricorso diretto ulteriore a quelli previsti dall'articolo 3 della costituzione
+
+76
+00:11:54,650 --> 00:12:02,570
+che era poi la cosa che somigliava al precedente più precedente che era che era ocden come si
+
+77
+00:12:02,570 --> 00:12:10,310
+chiamava quel caso il primissimo in cui loro non accettano il ricorso dei veterani per la
+
+78
+00:12:10,310 --> 00:12:21,350
+stessa ragione era più o meno la stessa cosa in effetti e allora si potrebbe aggiungere il controllo
+
+79
+00:12:21,350 --> 00:12:31,250
+di costituzionalità come profilo incidentale e naturale della funzione giurisdizionale nasce
+
+80
+00:12:31,250 --> 00:12:39,990
+come espediente tattico per liberarsi di un problema concreto ma vedete non è possibile
+
+81
+00:12:39,990 --> 00:12:49,290
+che sia così perché affinché nasca come espediente tattico deve essere sostanzialmente
+
+82
+00:12:49,290 --> 00:12:57,850
+accettabile deve avere delle radici non può essere una pensata nel momento io pensate che
+
+83
+00:12:57,850 --> 00:13:08,690
+io lavoro su questo dal dal 63 fece il mio primo seminario su marbury versus medison nel 63 quindi
+
+84
+00:13:08,690 --> 00:13:18,870
+45 anni fa no di più 46 anni fa provate a pensare che in assenza di corte costituzionale
+
+85
+00:13:18,870 --> 00:13:27,150
+la cassazione un bel giorno per liberarsi di un problema dice ma è naturale che è intrinseco
+
+86
+00:13:27,150 --> 00:13:35,310
+alla mia funzione giurisdizionale quello di dichiarare non valida una legge che contrasta
+
+87
+00:13:35,310 --> 00:13:42,930
+con la costituzione perché se io ho una legge ordinaria e la costituzione che si applicano
+
+88
+00:13:42,930 --> 00:13:50,090
+allo stesso caso e che confliggono fra di loro io devo far prevalere la costituzione l'argomento
+
+89
+00:13:50,090 --> 00:13:57,790
+è ovvio sia in italiano sia in inglese soltanto che in inglese marshal l'ha fatto ed è andata
+
+90
+00:13:57,790 --> 00:14:05,270
+avanti così perché poi il caso citato non citato però tutta la giurisprudenza successiva
+
+91
+00:14:05,270 --> 00:14:13,190
+fletcher hunter versus martin slessi quei casi che citavo prima danno per scontato che allora
+
+92
+00:14:13,190 --> 00:14:21,510
+appunto la domanda è l'ultima che faceva ora cesare perché negli stati uniti può essere scontato
+
+93
+00:14:21,510 --> 00:14:35,250
+che un argomento così banale rimane perché c'ha una storia alle spalle perché corrisponde a
+
+94
+00:14:35,250 --> 00:14:43,850
+perché quel sistema giuridico nasce perché dei disgraziati hanno lasciato l'europa dove la
+
+95
+00:14:43,850 --> 00:14:52,190
+legge ordinaria violava quelli che secondo loro erano loro diritti naturali per andare in un
+
+96
+00:14:52,190 --> 00:14:58,910
+posto dove nessuna legge ordinaria potesse violare i loro diritti questo è il punto
+
+97
+00:14:58,910 --> 00:15:07,970
+noi invece siamo figli di tutti di alcune rivoluzioni inglesi o francesi che siano in
+
+98
+00:15:07,970 --> 00:15:13,330
+cui i nostri diritti li abbiamo messi nelle mani delle assemblee parlamentari in realtà
+
+99
+00:15:13,330 --> 00:15:21,570
+e abbiamo detto siamo contenti così tu re vai pure alla ghigliottina noi affidiamo i nostri
+
+100
+00:15:21,570 --> 00:15:27,850
+diritti ad assemblee che ci rappresentano perché il nostro problema è che tu non ci
+
+101
+00:15:27,850 --> 00:15:36,210
+rappresenti e vogliamo che sui nostri diritti decidano assemblee da noi elette sono due
+
+102
+00:15:36,210 --> 00:15:43,410
+storie diverse queste qua e portano una serie di conseguenze dannatamente diverse per cui oggi
+
+103
+00:15:43,410 --> 00:15:51,750
+le abbiamo ricongiunte ma oggi in tempi di maggioritarizzazione della politica da noi
+
+104
+00:15:51,750 --> 00:16:02,230
+è riemerza l'insofferenza verso chi non titolare di un mandato elettivo mette in discussione io
+
+105
+00:16:02,230 --> 00:16:08,490
+sono stato eletto e tu no sta zitto ecco questo è l'argomento costituzionale più forte nel
+
+106
+00:16:08,490 --> 00:16:16,030
+nostro sistema tu eri nel mezzo e nel mezzo rimani Ettore quindi parli te ora siamo sicuri
+
+107
+00:16:16,030 --> 00:16:31,030
+sì sì siamo sicuri io guardo sto zitto zitto io sono per rispetto al pubblico tenuto a informare
+
+108
+00:16:31,030 --> 00:16:41,730
+che sono convocato in un'assemblea di illustri costituzionalisti mentre io sono nella migliore
+
+109
+00:16:41,730 --> 00:16:54,210
+ripotesi dedito alla storia costituzionale anche se anche se aspetta aspetta anche se
+
+110
+00:16:54,210 --> 00:17:03,070
+nei confronti di costituzionalisti qui presenti io ho dei grandi motivi di gratitudine in vita mia
+
+111
+00:17:04,070 --> 00:17:11,470
+non solo verso costituzionale comparato avere sopportato senza morderti l'orecchio tutto quello
+
+112
+00:17:11,470 --> 00:17:20,040
+che hai detto è prova di una grande amicizia di una grande no in realtà avete entrambi ragione
+
+113
+00:17:20,630 --> 00:17:28,490
+a sottolineare l'importanza del contesto però il pregio che noi costituzionalisti comparati
+
+114
+00:17:28,490 --> 00:17:37,350
+abbiamo è che quindi ci consente di andare oltre questa vostra immersione nel contesto e di saper
+
+115
+00:17:37,350 --> 00:17:48,270
+cogliere nel nei fatti che accadono una sedimentazione che nel tempo fa emergere qualcosa che all'origine
+
+116
+00:17:48,270 --> 00:17:55,330
+non c'era perché non c'è dubbio la giudice io torno sul punto la giudice a beviù fu addirittura
+
+117
+00:17:55,330 --> 00:18:02,810
+discusse e scartata dalla condizione magari senza discuterne proprio funditus però ne
+
+118
+00:18:02,810 --> 00:18:10,890
+discussero e se il proprio ci fosse stato qualcuno che la voleva sarebbero arrivati ad
+
+119
+00:18:10,890 --> 00:18:17,190
+una determinazione invece proprio lo lasciarono fuori perché è verissimo quello che tu dici la
+
+120
+00:18:17,190 --> 00:18:23,870
+preoccupazione principale allora era la stessa che anima un nostro consiglio europeo o una
+
+121
+00:18:23,870 --> 00:18:31,630
+conferenza intergovernativa e i rapporti con gli stati e la forza rispettiva tra gli organismi
+
+122
+00:18:32,330 --> 00:18:41,270
+di livello superiore che si creano i singoli stati ed è vero che letteralmente l'articolo 5
+
+123
+00:18:41,270 --> 00:18:49,070
+dice questa costituzione le leggi che verranno fatte in conseguenza di essa i trattati adottati
+
+124
+00:18:49,070 --> 00:18:57,050
+sotto l'autorità degli stati uniti saranno la legge suprema di questo paese quindi è chiarissimo
+
+125
+00:18:57,050 --> 00:19:05,390
+che c'è quella preoccupazione così come è chiaro come dicevo poc'anzi che a marshal di
+
+126
+00:19:05,390 --> 00:19:13,350
+tutto gli importava forchè del giudice a review lui aveva il suo problema tra adams madison marbury
+
+127
+00:19:13,350 --> 00:19:22,210
+e quant'altro però ecco come fa io torno a dire perché dice quello che dice e perché fra
+
+128
+00:19:22,210 --> 00:19:27,830
+l'altro però un barlume di coscienza ce lo ha perché dice anche una frase che dice ci
+
+129
+00:19:27,830 --> 00:19:38,830
+sono delle le costituzioni lui expound che è l'interpretazione che in italiano diventa
+
+130
+00:19:39,230 --> 00:19:47,990
+anche se non vuol dire la stessa cosa ma diciamo in questi termini perché c'è alle spalle la
+
+131
+00:19:47,990 --> 00:19:55,450
+storia della common law perché certo quando lord coke 1610 e del famoso giudizio dice che
+
+132
+00:19:55,450 --> 00:20:04,910
+sarà nulla invalida qualunque legge che contrasti con i diritti dei cavalieri e beh lui si limita
+
+133
+00:20:04,910 --> 00:20:11,250
+a dire c'è una legge superiore del compito normale del giudice far valere la common law in effetti
+
+134
+00:20:11,250 --> 00:20:19,690
+quindi lui sta applicando la common law in qualche modo principi di common law e poi sarà nel 900
+
+135
+00:20:19,690 --> 00:20:26,350
+che diremo che questa è la cosa nuova che chiamiamo judicial review ma noi chiamiamo
+
+136
+00:20:26,350 --> 00:20:33,570
+judicial review questa specie di torcillone che è venuto fuori da quella storia che parte
+
+137
+00:20:33,570 --> 00:20:41,690
+a londra e arriva negli stati uniti e la storia della legge superiore che prima è la storia
+
+138
+00:20:41,690 --> 00:20:50,750
+della common law poi diventa la storia della costituzione io arriverei a dire che condivido
+
+139
+00:20:50,750 --> 00:20:59,570
+la tua gratitudine all'autrice però non fino al punto di dire ecco ci ha detto cos'è il mito
+
+140
+00:20:59,570 --> 00:21:13,330
+ma i miti fanno parte della storia in effetti e i miti non nascono sul nulla non può mai
+
+141
+00:21:13,330 --> 00:21:22,460
+nascere sul nulla umi quel mito lì nell'europa del parlamentarismo dell'assenza della legge
+
+142
+00:21:22,460 --> 00:21:32,580
+superiore dell'età semua e prima sono io sovrano poi divento io assemblea rappresentativa ma
+
+143
+00:21:32,580 --> 00:21:39,540
+quindi con questo monismo del potere che è caratteristico a quel mito non poteva nascere
+
+144
+00:21:39,540 --> 00:21:48,060
+tant'è vero che come ricordava cesare la judicial review fatica ancora ad affermarsi e parte con
+
+145
+00:21:48,660 --> 00:21:56,660
+insomma ci mette oltre 80 insomma enzo a nome delle corti costituzionali e dei comparatisti
+
+146
+00:21:56,660 --> 00:22:05,340
+reagisci con garbo agli insulti sanguinosi che ettore ci ha indirizzato no anch'io sono
+
+147
+00:22:05,340 --> 00:22:11,340
+convinto che i miti non nascono da nulla nascono dall'humus della storia sinceramente ci siamo
+
+148
+00:22:11,340 --> 00:22:19,000
+scaldati non per finta non non come nel wrestling che fanno finta di darsi perché
+
+149
+00:22:19,000 --> 00:22:26,800
+ora si tratta di capire se è follia nostra o se è molto affascinante il tema e il tema
+
+150
+00:22:26,800 --> 00:22:32,200
+è effettivamente molto affascinante peccato che non abbiamo potuto discutere a fondo quest'ultimo
+
+151
+00:22:32,200 --> 00:22:41,040
+punto cioè la distanza che riesce a prendere una corte suprema dalla maggioranza politica perché
+
+152
+00:22:41,040 --> 00:22:49,660
+timorosa di esserne delegittimata e allo stesso tempo deve difendere la sua forza di contropotere
+
+153
+00:22:49,660 --> 00:22:56,940
+e quindi si muove tra questi due tra questo scilla e caridi e allora la vedete che alla fin fine
+
+154
+00:22:56,940 --> 00:23:05,820
+dice guantanamo no guantanamo no le commissioni militari no ma per dirlo deve percepire che già
+
+155
+00:23:05,820 --> 00:23:14,560
+nell'opinione pubblica quanto basta per sostenerla al di là magari della presidenza alla quale in
+
+156
+00:23:14,560 --> 00:23:22,300
+quel momento sta dando uno schiaffo ma il periodo difficilissimo del mccartismo e quindi la difesa
+
+157
+00:23:22,300 --> 00:23:31,260
+del primo ammendamento in una situazione del genere insomma ed è affascinante studiare
+
+158
+00:23:31,260 --> 00:23:40,720
+sentenze adottate in contesti e lì contesti sono fondamentali diversi per vedere come questi se
+
+159
+00:23:40,720 --> 00:23:49,940
+volete si barcaminano ed è alla fine ammirevole vedere come una corte suprema riesce davanti a
+
+160
+00:23:49,940 --> 00:23:58,340
+mille difficoltà a mantenere il suo prestigio questo se volete su questo chiudiamo è il fascino
+
+161
+00:23:58,340 --> 00:24:08,980
+perverso del potere cioè chiunque riesca per numerosi anni a mantenere intatto il proprio
+
+162
+00:24:08,980 --> 00:24:18,200
+potere la propria legittimazione dimostra che sa usare delle qualità in acque molto difficili è
+
+163
+00:24:18,200 --> 00:24:25,320
+la ragione per cui tutti ammiriamo venezia che non c'entra niente con le corti supreme ma che
+
+164
+00:24:25,320 --> 00:24:32,440
+essendo nata dalle palafitte è riuscita per sette secoli a battersela coi turchi che all'epoca
+
+165
+00:24:33,120 --> 00:24:40,300
+erano ancora più forti di ora insomma ecco ma questo è tutto un altro tema e avendo fatto
+
+166
+00:24:40,300 --> 00:24:47,440
+le 7 poi il portiere ci chiude dentro prima che lo faccia consiglio a tutti di uscire grazie a tutti
+
+167
+00:24:47,440 --> 00:24:56,100
+poi se però che 6 ottobre 2009 chissà che cacchio stanno facendo
+

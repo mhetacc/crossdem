@@ -1,0 +1,852 @@
+1
+00:00:00,000 --> 00:00:05,180
+Il Parlamento italiano tra passato e futuro è affidato all'onorevole Giuliana Amato.
+
+2
+00:00:05,220 --> 00:00:05,800
+Prego.
+
+3
+00:00:10,960 --> 00:00:18,580
+Signor Presidente della Camera, signor Presidente Scalfaro, autorità, amici tanti che siete
+
+4
+00:00:18,580 --> 00:00:24,260
+presenti a questa celebrazione, che è un po' la celebrazione di Giovanni Pieraccini oltre
+
+5
+00:00:24,260 --> 00:00:31,620
+del Parlamento, in fondo, che permette a tutti noi, compiendo i settant'anni come io ho già
+
+6
+00:00:31,620 --> 00:00:37,140
+fatto, di scrivere un libro sui miei primi settant'anni, cosa che anni fa non avremmo
+
+7
+00:00:37,140 --> 00:00:46,260
+osato fare. Io ho un vecchio legame con l'ISLE, ricordo buona parte degli anni che ricorda
+
+8
+00:00:46,260 --> 00:00:52,480
+anche Giovanni, ci cominciai a lavorare da giovane assistente universitario alla mia
+
+9
+00:00:52,480 --> 00:00:59,060
+prima ricerca sull'attività normativa del Governo e di ritorno anni dopo dagli Stati
+
+10
+00:00:59,060 --> 00:01:06,860
+Uniti, erano i primi anni sessanta, quindi molto tempo fa, avendo appreso l'ade l'importanza
+
+11
+00:01:06,860 --> 00:01:14,000
+del drafting, iniziai io quella che poi è diventata la scuola di tecnica della legislazione
+
+12
+00:01:14,520 --> 00:01:20,520
+con un gruppo di allievi che poi sono cresciuti, Adriano Soi ora Prefetto della Repubblica
+
+13
+00:01:20,520 --> 00:01:28,320
+è uno di questi, e facemmo un bellissimo disegno di legge sulla violenza sessuale che
+
+14
+00:01:28,320 --> 00:01:36,400
+poi fu tra i fattori prodromici del trasferimento di quel reato, tra i reati contro la persona
+
+15
+00:01:36,400 --> 00:01:46,640
+cui prima era ritenuto estraneo, e c'erano anche altre cose. Ho apprezzato moltissimo
+
+16
+00:01:46,640 --> 00:01:52,920
+poi la richiesta che mi venne dall'amico Silvio, a cui anche sono legato da tantissimi
+
+17
+00:01:52,920 --> 00:01:59,980
+anni, di prendere immeritatamente il posto di Leopoldo Elia nella Presidenza del Consiglio
+
+18
+00:01:59,980 --> 00:02:06,280
+Scientifico. A me oggi si chiede una cosa non facile, ma in fondo l'ha già fatta il
+
+19
+00:02:06,280 --> 00:02:13,580
+Presidente Fini molto bene nel suo intervento iniziale, di ripercorrere un po' non i 50
+
+20
+00:02:13,580 --> 00:02:21,120
+anni dell'Isle, ma i 50 anni e più del nostro Parlamento. La mia valutazione è simile
+
+21
+00:02:21,120 --> 00:02:31,860
+alla sua, ma cominciamo con ordine. La Costituente assanci la forma di governo parlamentare come
+
+22
+00:02:31,860 --> 00:02:40,320
+tutti sappiamo, ma lo fece con un atteggiamento condiviso fortemente critico verso il parlamentarismo
+
+23
+00:02:40,320 --> 00:02:48,700
+che aveva preceduto e secondo molti consentito l'instaurazione di un regime autoritario
+
+24
+00:02:48,700 --> 00:02:57,100
+in Italia. Rispetto a quel parlamentarismo la locuzione che più era in uso tra i Costituenti
+
+25
+00:02:57,100 --> 00:03:06,620
+era le degenerazioni del parlamentarismo, degenerazioni che fondamentalmente si riconducevano
+
+26
+00:03:06,620 --> 00:03:16,640
+a due fattori, la incapacità di esprimere maggioranze solide, un po' perché le maggioranze
+
+27
+00:03:16,640 --> 00:03:26,780
+erano fondate sui legami personali tra i parlamentari che portarono al trasformismo, un po' perché
+
+28
+00:03:26,780 --> 00:03:35,180
+in ragione anche di ciò il potere del Parlamento era stato in quegli anni più il potere negativo
+
+29
+00:03:35,180 --> 00:03:42,660
+di far cadere i governi che non il potere positivo di promuoverne la Costituzione e
+
+30
+00:03:42,660 --> 00:03:51,900
+di assecondarne la vita condividendone solidamente gli indirizzi. Ma nonostante le critiche al
+
+31
+00:03:51,900 --> 00:04:01,280
+parlamentarismo, e sebbene si discutesse di alternative alla forma di governo parlamentare
+
+32
+00:04:01,280 --> 00:04:09,060
+denoto che Caramandrei e in qualche modo anche Tosato sostennero la possibilità di una
+
+33
+00:04:09,060 --> 00:04:16,460
+forma di governo presidenziale, la scelta fu, come tutti sappiamo, per il governo parlamentare
+
+34
+00:04:16,460 --> 00:04:26,640
+di cui bisognava evitare che cadesse nelle degenerazioni del parlamentarismo, rafforzando
+
+35
+00:04:27,580 --> 00:04:36,100
+stabilità del governo. Cito quasi testualmente il famoso ordine del giorno per assi che rappresentò
+
+36
+00:04:36,100 --> 00:04:43,440
+il punto di incontro tra gli stabilizzatori e i parlamentaristi. Se ci si domanda perché,
+
+37
+00:04:43,460 --> 00:04:51,180
+ed è importante domandarsi perché, si arrivò direi unanimemente alla scelta della forma
+
+38
+00:04:51,180 --> 00:04:59,460
+di governo parlamentare che non assicurava un potere distinto e separato ad alcun titolare
+
+39
+00:04:59,460 --> 00:05:07,400
+dell'esecutivo, vi sono una pluralità di ragioni. In primo luogo, di sicuro, il Presidente Scalfaro
+
+40
+00:05:07,400 --> 00:05:16,120
+poi mi può sempre smentire, c'era l'incertezza sul futuro. Non dimentichiamo che uniti nell'Assemblea
+
+41
+00:05:17,070 --> 00:05:26,000
+erano partiti profondamente divisi sulle prospettive future del Paese, lo ricordava Pocanzi Giovanni,
+
+42
+00:05:26,380 --> 00:05:34,260
+e quindi in questa incertezza una forma di governo che non assicurasse un plus potere
+
+43
+00:05:34,260 --> 00:05:42,600
+al vincitore era quella che a tutte le parti in gioco pareva la più opportuna per affrontare
+
+44
+00:05:42,600 --> 00:05:50,640
+senza rischi eccessivi il futuro. C'era poi, e questa era la convinzione dei Costituenti,
+
+45
+00:05:50,940 --> 00:05:59,460
+la forza di partiti radicati o che si andavano radicando nella società che era per loro il
+
+46
+00:05:59,460 --> 00:06:08,280
+vero antidoto alle degenerazioni del parlamentarismo fondato sui rapporti fra individui nei gruppi
+
+47
+00:06:08,280 --> 00:06:14,940
+parlamentari prima dell'esperienza fascista. Questo lo dicevano tutti i protagonisti,
+
+48
+00:06:15,080 --> 00:06:22,120
+io lo ricordavo di recente Lerio Basso arrivò addirittura a scrivere, non è più il tempo della
+
+49
+00:06:22,120 --> 00:06:31,740
+democrazia parlamentare, siamo ormai alla democrazia dei partiti. Aveva ben ragione che ormai i partiti,
+
+50
+00:06:31,740 --> 00:06:40,020
+spesso sul modello in Italia del partito fascista che fu il primo ad organizzare le masse nella
+
+51
+00:06:40,020 --> 00:06:48,260
+vita pubblica, ma pluralizzando tutto questo si avevano partiti radicati nella società che avevano
+
+52
+00:06:48,260 --> 00:06:55,780
+una loro forza e una capacità quindi di fare ciò a cui noi tutti siamo abituati di concepire e
+
+53
+00:06:55,780 --> 00:07:04,740
+ingegnare i gruppi parlamentari non come assemblaggi di liberi individui eletti ciascuno per conto
+
+54
+00:07:04,740 --> 00:07:14,220
+proprio, ma come proiezioni dei partiti e quindi trasferimenti in Parlamento dei loro indirizzi e
+
+55
+00:07:14,220 --> 00:07:21,660
+delle loro determinazioni. Era questa forza che secondo i costituenti trasferendosi sulle
+
+56
+00:07:21,660 --> 00:07:29,340
+istituzioni potevano rendere necessari meccanismi di stabilizzazione, ma c'era anche qualcos'altro che
+
+57
+00:07:29,340 --> 00:07:40,340
+va tenuto presente nella fare del Parlamento il luogo principale della decisione e nel fare della
+
+58
+00:07:40,340 --> 00:07:48,820
+processualità del funzionamento del Parlamento la sequenza necessaria per il raggiunzimento della
+
+59
+00:07:48,820 --> 00:07:57,100
+decisione. C'era forse l'elemento culturalmente più importante nella discontinuità tra il precedente
+
+60
+00:07:57,100 --> 00:08:05,520
+regime e il sistema democratico e questo consisteva nel fatto che l'interesse generale non ha un unico
+
+61
+00:08:05,520 --> 00:08:14,040
+interprete, che non ve nessuno che possa avere una legittimazione talmente esclusiva da poter dire
+
+62
+00:08:15,040 --> 00:08:24,480
+il bene comune lo interpreto io perché la definizione del bene comune in un sistema democratico si
+
+63
+00:08:24,480 --> 00:08:33,240
+cominciò a dire parte dalle visioni che di esso hanno le diverse parti politiche ed è dal loro
+
+64
+00:08:33,240 --> 00:08:42,820
+confronto concorso che scaturisce poi la scelta finale del decisore. Io ricordo ancora, stasera è
+
+65
+00:08:43,900 --> 00:08:53,280
+ricordi che a me studente del quarto anno di giurisprudenza che si stava laureando sui partiti
+
+66
+00:08:53,280 --> 00:09:02,340
+politici alla fine degli anni 50, tutto questo lo spiegò meravigliosamente Sergio Cotta che da poco
+
+67
+00:09:02,340 --> 00:09:12,560
+insegnava filosofia del diritto a Roma e che proprio mi rese partecipe di questa per me scoperta e per
+
+68
+00:09:12,560 --> 00:09:24,240
+molti italiani scoperta che sono necessariamente parziali i punti di vista di ciascuno e che è
+
+69
+00:09:24,240 --> 00:09:35,040
+dalla combinazione di queste parzialità e non da un a prioristico e compiuto sistema che si viene
+
+70
+00:09:35,040 --> 00:09:48,600
+costruendo l'interesse generale che poi prende quota e si radica nel paese. Questo è un elemento
+
+71
+00:09:48,600 --> 00:09:59,540
+che è anche determinante quindi che accompagna nonostante la tendenza a produrre ideologia dei
+
+72
+00:09:59,540 --> 00:10:09,680
+partiti italiani dell'epoca che accompagna la loro convivenza in Parlamento e che porta all'avvio di
+
+73
+00:10:09,680 --> 00:10:22,120
+una vita istituzionale in cui si cerca senza averne realizzato le indicazioni di attuare l'ordine
+
+74
+00:10:22,120 --> 00:10:32,200
+del giorno per assi. Nel numero che la rassegna parlamentare dedicò ai 50 anni della Repubblica
+
+75
+00:10:32,200 --> 00:10:44,640
+esattamente nel 1998, l'allora direttore apriva la ricostruzione e ricognizione dicendo esplicitamente
+
+76
+00:10:44,640 --> 00:10:54,700
+che la realizzazione di questo disegno era largamente fondata sull'adozione di quel principio
+
+77
+00:10:54,700 --> 00:11:05,500
+proporzionalistico che, previsto in Costituzione, articolo 82, era poi dominante all'interno dei
+
+78
+00:11:05,500 --> 00:11:16,540
+regolamenti parlamentari perché era questo che aveva consentito che attraverso le procedure parlamentari
+
+79
+00:11:16,540 --> 00:11:26,360
+i diversi punti di vista potessero confrontarsi fra di loro e avere la fondata percezione
+
+80
+00:11:26,360 --> 00:11:34,040
+che alla decisione finale si potesse arrivare in modo che si era tenuto conto l'uno dell'altro.
+
+81
+00:11:34,040 --> 00:11:41,880
+Naturalmente la cultura a cui saremmo arrivati successivamente avrebbe parlato di consociazione,
+
+82
+00:11:42,060 --> 00:11:48,560
+avrebbe usato termini della incultura del nostro tempo che dovrebbero appartenere più ai dialetti
+
+83
+00:11:48,560 --> 00:11:54,640
+che alla lingua italiana e che quindi in quest'Aula mi rifiuto, perché rispetto il Parlamento,
+
+84
+00:11:54,640 --> 00:12:07,020
+di usarli combinazioni, ci furono anche combinazioni, ci furono anche emendamenti incrociati,
+
+85
+00:12:07,140 --> 00:12:15,760
+ma ci fu qualcosa in un Paese che viveva ancora il dramma della demonizzazione di cui parlava Giovanni,
+
+86
+00:12:15,760 --> 00:12:26,040
+ci fu la accettazione da parte di una opposizione che era antisistema delle decisioni del Parlamento
+
+87
+00:12:26,040 --> 00:12:33,200
+come decisioni istituzionali da rispettare. Questo lo ha ricordato più volte prima di diventare
+
+88
+00:12:33,200 --> 00:12:40,480
+Presidente della Repubblica sulla base della sua lunga esperienza parlamentare e Giorgio Napolitano,
+
+89
+00:12:40,480 --> 00:12:48,240
+che in più di un'occasione ha notato e ha scritto quando noi, perché lui apparteneva a quel partito,
+
+90
+00:12:49,360 --> 00:12:55,740
+cominciammo a percepire che quella decisione non era della maggioranza a cui ci opponevamo,
+
+91
+00:12:55,880 --> 00:13:01,920
+ma era stata raggiunta in un modo tale che era la decisione del Parlamento della Repubblica,
+
+92
+00:13:02,160 --> 00:13:10,440
+questo la imponeva al rispetto della collettività e di tutti. Io ho sempre considerato questo
+
+93
+00:13:11,000 --> 00:13:20,100
+pari per me laico alla liquefazione del sangue di San Gennaro, nel senso che produce proprio
+
+94
+00:13:20,100 --> 00:13:32,780
+il fatto istituzionale lo scioglimento di una contrapposizione e la riconoscibilità nell'istituzione
+
+95
+00:13:32,780 --> 00:13:40,980
+di una legittimazione che tale è per tutti. Fu un risultato straordinario che appunto si deve
+
+96
+00:13:40,980 --> 00:13:49,120
+a questa processualità che è propria del Parlamento e che non a caso poi in altri
+
+97
+00:13:49,120 --> 00:13:58,500
+procedimenti viene ricondotta quella nozione inglese del due process, del giusto procedimento che giusto
+
+98
+00:13:58,500 --> 00:14:06,260
+in quanto tutti hanno modo di concorrervi anche se poi qualcuno ha la responsabilità di decidere.
+
+99
+00:14:08,040 --> 00:14:15,300
+Fu su questo abbrivio che si aprì quella che il Presidente Fini poi ricordava poc'anzi come la
+
+100
+00:14:15,300 --> 00:14:22,400
+seconda fase, quella della centralità del Parlamento, perché una volta divenuto l'istituzione
+
+101
+00:14:22,400 --> 00:14:32,940
+in cui tutti riconoscono la legittimazione, il Parlamento allarga i suoi strumenti, sono gli
+
+102
+00:14:32,940 --> 00:14:41,500
+anni delle indagini conoscitive, delle commissioni in sede informativa, in sede politica che prendono
+
+103
+00:14:41,500 --> 00:14:52,060
+piede nel 1969 e vengono poi riconosciute nel nuovo regolamento del 71 e poi prendono piede ed è il
+
+104
+00:14:52,060 --> 00:15:03,420
+proprio del Parlamento che merita quella definizione famosa di Hegel che Andrea Manzella
+
+105
+00:15:03,420 --> 00:15:12,760
+ha sempre riportato nel suo diritto parlamentare, il Parlamento portico tra lo Stato e la società
+
+106
+00:15:12,760 --> 00:15:21,200
+civile e che poi i vari costituzionalisti utilizzeranno con lessico meno affascinante
+
+107
+00:15:21,200 --> 00:15:28,500
+il Parlamento mediatore fra i gruppi della comunità e lo Stato di Alberto Predieri e
+
+108
+00:15:28,500 --> 00:15:37,620
+altre definizioni analoghe. Poi però quando arrivano i primi segni di crisi nei partiti che
+
+109
+00:15:37,620 --> 00:15:46,200
+si come sempre accade si manifestano in termini di conflittualità interna ai partiti stessi alle
+
+110
+00:15:46,200 --> 00:15:58,120
+coalizioni in cui essi si combinano arrivano vistosi i segni delle degenerazioni del
+
+111
+00:15:58,120 --> 00:16:08,660
+parlamentarismo in realtà e si comincia a scrivere, lo feci io fra gli altri, che un sistema nel quale
+
+112
+00:16:08,660 --> 00:16:16,620
+tutti partecipano e nessuno decide ovvero nel quale il momento della decisione è una specie di
+
+113
+00:16:16,620 --> 00:16:24,800
+happening che prescinde totalmente dagli indirizzi in precedenza enunciati è un sistema che ha bisogno
+
+114
+00:16:24,800 --> 00:16:36,300
+di cambiamenti. Si prende a parlare di grandi riforme, si riprende la discussione dilemmatica
+
+115
+00:16:36,300 --> 00:16:44,540
+tra forma di governo presidenziale e forma di governo parlamentare, si adottano però le riforme
+
+116
+00:16:44,540 --> 00:16:55,500
+dei rami bassi che hanno una efficacia correttiva. Si introduce la sessione di bilancio che delimita
+
+117
+00:16:55,500 --> 00:17:04,260
+il tempo entro il quale con contingentamenti stretti e con un ruolo preminente della commissione
+
+118
+00:17:04,780 --> 00:17:15,860
+arriva ad essere discusso e approvato il bilancio, si introducono contingentamenti di tempi che
+
+119
+00:17:15,860 --> 00:17:27,780
+investono anche la legislazione extra bilancio, si riduce lo spazio del voto segreto, che era
+
+120
+00:17:27,780 --> 00:17:35,680
+veramente la fonte dell'happening. Io mi sono trovato vicepresidente del Consiglio con Giovanni
+
+121
+00:17:35,680 --> 00:17:44,660
+Goria Presidente, con l'ultimo governo che dovette fronteggiare il voto segreto indifferenziato,
+
+122
+00:17:44,840 --> 00:17:51,940
+beh insomma a distanza di anni ancora mi ricordo questo continuo su e giù tra l'aula e la saletta
+
+123
+00:17:51,940 --> 00:17:58,640
+del governo per andare a decidere ogni dieci minuti che cosa fare davanti ad un voto inatteso
+
+124
+00:17:58,640 --> 00:18:08,140
+completamente diverso da quello atteso. E fu anche secondo me in questa stessa chiave poco
+
+125
+00:18:08,140 --> 00:18:16,640
+tempo dopo la bella decisione della Corte Costituzionale che ci privò della possibilità
+
+126
+00:18:16,640 --> 00:18:26,180
+di reiterare i decreti legge, che parve all'inizio limitativa del governo ma che in realtà ne rafforzò
+
+127
+00:18:26,180 --> 00:18:34,700
+la posizione davanti a un Parlamento che caricava di vagoni e di vagoni l'ultimo treno per Yuma
+
+128
+00:18:34,700 --> 00:18:41,920
+che Yuma poi non l'avrebbe raggiunta mai perché con tutti questi vagoni non riusciva ad andare
+
+129
+00:18:41,920 --> 00:18:51,860
+avanti. Da allora il decreto legge è diventato fin troppo facilmente utilizzabile in realtà.
+
+130
+00:18:53,080 --> 00:19:01,120
+Ma poi è sopravenuta la fase successiva. Io non riprenderò alcuni argomenti giustamente toccati
+
+131
+00:19:01,120 --> 00:19:11,900
+dal Presidente Fini che investono l'erosione di quel monopolio di legislazione nazionale che il
+
+132
+00:19:11,900 --> 00:19:22,060
+Parlamento aveva perché c'è Brussel, ci sono altri fatti che comunque lo ridimensionano. Il
+
+133
+00:19:22,060 --> 00:19:31,360
+vero problema è che la crisi aggravata dai partiti porta da noi all'adozione di un principio
+
+134
+00:19:32,120 --> 00:19:42,180
+maggioritario al quale non eravamo abituati, che modificò profondamente il funzionamento del
+
+135
+00:19:42,180 --> 00:19:49,600
+Parlamento. Il punto sul quale io vorrei attirare la vostra attenzione è questo, che non è sia
+
+136
+00:19:49,600 --> 00:19:56,840
+chiaro contro il principio maggioritario in quanto tale, ma la conseguenza che da noi e
+
+137
+00:19:57,280 --> 00:20:06,640
+da noi perché non necessariamente ciò è accaduto altrove, esso ha portato, sempre in quel numero
+
+138
+00:20:06,640 --> 00:20:17,220
+del cinquantenario veniva preconizzata un decadimento del Parlamento. Il Presidente
+
+139
+00:20:17,220 --> 00:20:26,360
+Fini ha parlato con garbo da Presidente di fase critica che ancora perdura. Io ritengo che questo
+
+140
+00:20:26,360 --> 00:20:36,560
+sia accaduto e che non fosse un destino inevitabile e che il decadimento del Parlamento
+
+141
+00:20:36,560 --> 00:20:46,780
+in un sistema diventato elettoralmente maggioritario esprime una cultura che evidentemente non aveva
+
+142
+00:20:47,840 --> 00:20:58,620
+assimilato a sufficienza quella condivisione di fondo che fa sì che in ogni caso la maggioranza,
+
+143
+00:20:58,900 --> 00:21:06,520
+ancorché sia stata eletta con il principio maggioritario, si riconosca e sia riconosciuta
+
+144
+00:21:06,520 --> 00:21:15,220
+come una parte, non come il tutto. Vi sono sistemi fondati sul principio maggioritario in cui la
+
+145
+00:21:15,220 --> 00:21:24,100
+forma di governo non è l'involucro del potere del vincitore. In Italia chiunque fosse il vincitore
+
+146
+00:21:24,720 --> 00:21:33,500
+ha funzionato come involucro del suo potere con distorzioni gravi dei meccanismi istituzionali.
+
+147
+00:21:33,540 --> 00:21:41,820
+Non possiamo far finta di non sapere che noi non abbiamo voluto mai adottare il voto bloccato previsto
+
+148
+00:21:41,820 --> 00:21:50,160
+dalla Costituzione della Quinta Repubblica, ma abbiamo frodato la Costituzione con i maxi emendamenti che
+
+149
+00:21:50,160 --> 00:21:57,800
+traducono in un unico articolo 300 articoli di finanziaria e sottopongono quell'unico articolo
+
+150
+00:21:57,800 --> 00:22:05,800
+a voto di fiducia. Non possiamo ignorare che aveva perfettamente ragione Carlo Esposito quando
+
+151
+00:22:05,800 --> 00:22:14,660
+scriveva che la conversione parlamentare del decreto legge è essenziale perché il decreto
+
+152
+00:22:14,660 --> 00:22:23,560
+legge è un atto legislativo adottato da organo incompetente a legiferare, ma necessitato a
+
+153
+00:22:23,560 --> 00:22:32,540
+legiferare in ragione dell'urgenza, per cui poi è il Parlamento che dà una legittimazione stabile
+
+154
+00:22:32,540 --> 00:22:39,060
+a quell'atto legislativo. Se così è, non può essere assoggettato a questione di fiducia eppure
+
+155
+00:22:39,060 --> 00:22:52,680
+noi tutti abbiamo assoggettato il decreto legge a questione di fiducia. Oggi capita più spesso che
+
+156
+00:22:52,680 --> 00:22:59,000
+i Presidenti delle Camere siano chiamati a difendere le prerogative del Parlamento che
+
+157
+00:22:59,000 --> 00:23:09,280
+non a fare spazio ai poteri di indirizzo del Governo. Questa è diventata la nostra realtà.
+
+158
+00:23:09,840 --> 00:23:18,820
+E quindi ci dobbiamo domandare oggi se il Parlamento è un organo che è arrivato alla
+
+159
+00:23:18,820 --> 00:23:29,120
+sua senilità, se ne è venuto meno il bisogno e se non ne è venuto meno il bisogno come fare a
+
+160
+00:23:29,120 --> 00:23:40,500
+recuperarlo. Io sono convinto e non per retorica filo parlamentare che il ruolo del Parlamento è
+
+161
+00:23:40,500 --> 00:23:51,300
+richiamato non soltanto laddove ci si accorge, come ci si è accorti nell'Unione Europea, che non
+
+162
+00:23:51,300 --> 00:24:02,000
+basta a garantire rappresentanza e collegamento con le opinioni nazionali, il pur democraticamente
+
+163
+00:24:02,000 --> 00:24:10,860
+eletto Parlamento europeo, ma va integrato il suo lavoro con una presenza che non interferisce
+
+164
+00:24:10,860 --> 00:24:16,800
+con il Parlamento europeo ma che è l'equalimenti essenziale dei parlamenti nazionali. Dobremmo
+
+165
+00:24:16,800 --> 00:24:23,260
+riflettere sullo spazio che il trattato di Lisbona dà, e prima non c'era, ai parlamenti
+
+166
+00:24:23,260 --> 00:24:30,380
+nazionali, ma ancor più dalla constatazione che è della nostra vita quotidiana, che la
+
+167
+00:24:30,380 --> 00:24:39,360
+vita democratica è schiacciata dalla immanenza di un'opinione pubblica che viene sollecitata
+
+168
+00:24:39,360 --> 00:24:46,660
+ad esprimersi e che condiziona il comportamento delle istituzioni politiche senza alcun tempo
+
+169
+00:24:46,660 --> 00:24:54,860
+di informazione, senza alcuna processualità per dipanare gli argomenti. Siamo affollati
+
+170
+00:24:54,860 --> 00:25:03,940
+no attribuiti a maggioranze dei nostri elettori interpellati senza fornir loro alcuna informazione
+
+171
+00:25:03,940 --> 00:25:10,880
+sugli argomenti su cui poi peseranno i loro sì e i loro no e mentre i professori dicono
+
+172
+00:25:10,880 --> 00:25:17,300
+introducete più democrazia deliberativa. Mentre Amartya Sen dice ma alla fin fine
+
+173
+00:25:17,300 --> 00:25:23,380
+voi occidentali vi ritenete le fonti della democrazia ma voi avete inventato le elezioni,
+
+174
+00:25:23,380 --> 00:25:30,780
+il modo come si discute tra parti democratiche, lo abbiamo praticato molto meglio. Noi bene
+
+175
+00:25:30,780 --> 00:25:38,700
+il Parlamento è questo, quelle regole processuali che consentirono decenni fa a parti così
+
+176
+00:25:38,700 --> 00:25:49,800
+lontane fra di loro di cominciare a capirsi fino a legittimare l'una o l'altra, ma l'istituzione
+
+177
+00:25:49,800 --> 00:25:59,560
+in cui sono presenti è la fabbrica naturale di un consenso maturo, di un consenso che
+
+178
+00:25:59,560 --> 00:26:09,680
+si viene formando attraverso informazione e attraverso consapevolezza. Certo si è così
+
+179
+00:26:09,680 --> 00:26:16,120
+la domanda è come facciamo a recuperarlo, come facciamo a vincere le nostre distorzioni,
+
+180
+00:26:16,120 --> 00:26:23,220
+come facciamo a salvare la forza di cui un governo ha bisogno mettendo la fronte di una
+
+181
+00:26:23,220 --> 00:26:30,740
+forza e non di una debolezza di Parlamento. Qui si è riaperta in Italia oggi la discussione
+
+182
+00:26:30,740 --> 00:26:38,400
+e io mi fermo alle soglie della discussione. C'è chi dice l'unico modo è andare verso
+
+183
+00:26:38,400 --> 00:26:46,640
+una forma di governo presidenziale che liberando il rapporto governo-parlamento dal rapporto
+
+184
+00:26:46,640 --> 00:26:55,500
+di fiducia dia come negli Stati Uniti al Parlamento quella forza autonoma che oggi con il sistema
+
+185
+00:26:55,500 --> 00:27:04,060
+maggioritario viene schiacciata dalle ragioni di governo della maggioranza. Chi sostiene
+
+186
+00:27:04,060 --> 00:27:12,620
+questa tesi deve peraltro essere in condizioni di dimostrare che in un Paese come il nostro
+
+187
+00:27:12,620 --> 00:27:21,280
+nel quale le distanze continuano ad essere così elevate tra le parti, la legittimazione
+
+188
+00:27:21,280 --> 00:27:28,540
+reciproca è così difficile tra le parti che noi siamo capaci e questa fu una delle ragioni
+
+189
+00:27:28,540 --> 00:27:36,560
+che mi facevano guardare con interesse al presidenzialismo in altri Paesi saper guardare
+
+190
+00:27:36,560 --> 00:27:44,400
+all'eletto al vertice dello Stato da una maggioranza come al rappresentante di tutti. Siamo capaci
+
+191
+00:27:44,400 --> 00:27:52,520
+di farlo noi italiani? Il modo in cui ci stiamo comportando dimostra che siamo capaci di farlo
+
+192
+00:27:52,520 --> 00:28:00,300
+perché se non lo siamo con un'elezione diretta rischiamo di buttare a mare ciò che in fondo
+
+193
+00:28:00,300 --> 00:28:08,740
+ci sta più caro avere al vertice dello Stato una figura che nel sistema attuale è percepita
+
+194
+00:28:08,740 --> 00:28:16,900
+come il rappresentante di tutti e non a caso chiunque sia gode sempre di un consenso che
+
+195
+00:28:17,530 --> 00:28:26,040
+di quello che viene riconosciuto anche al più popolare dei capi di parte. Dimostrazione
+
+196
+00:28:26,040 --> 00:28:36,180
+non facile. Chi, confesso come me, vuole dimostrare che all'interno della forma di governo parlamentare
+
+197
+00:28:36,180 --> 00:28:43,820
+noi siamo capaci di recuperare la forza del Parlamento e di ricreare quell'equilibrio
+
+198
+00:28:43,820 --> 00:28:53,360
+deve dimostrare come si fa, deve dimostrare a quali congegni e a quali altri ingredienti
+
+199
+00:28:53,360 --> 00:29:01,500
+si può fare appello per evitare che qualunque governo quando arriva il momento finisca per
+
+200
+00:29:01,500 --> 00:29:09,480
+far prevalere le proprie ragioni su tutta la processualità parlamentare. Qualcosa si
+
+201
+00:29:09,480 --> 00:29:15,440
+può sempre fare. Non voglio entrare in questa discussione, ma c'è una cosa che ho in testa
+
+202
+00:29:15,440 --> 00:29:24,200
+che non riesco a non dire. Come la Corte Costituzionale, ai tempi in cui c'era Enzo Cheli qui presenti,
+
+203
+00:29:24,240 --> 00:29:31,620
+un bel giorno disse, e cinque anni prima nessuno l'avrebbe detto, guardate che reiterare i decreti
+
+204
+00:29:31,620 --> 00:29:38,040
+legge vi farà anche comodo ma viola l'articolo 77 della Costituzione nel quale è scritto
+
+205
+00:29:38,040 --> 00:29:45,700
+che entro 60 giorni il decreto va convertito. Potrebbe anche arrivare a concludere, guardate
+
+206
+00:29:45,700 --> 00:29:53,440
+che impacchettare dei max emendamenti a voi fa comodo, ma questo viola l'articolo 72 nel
+
+207
+00:29:53,440 --> 00:30:00,540
+quale è scritto che le leggi si approvano articolo per articolo e voi volete farci credere
+
+208
+00:30:00,540 --> 00:30:06,140
+che un'intera legge di 300 articoli si può trasformare in un unico articolo. Questo
+
+209
+00:30:06,140 --> 00:30:13,840
+non si può fare. È una cosa che io indico, ma voglio concludere dicendo è una discussione
+
+210
+00:30:13,840 --> 00:30:22,300
+che ci accingiamo ad affrontare che sarà una discussione difficile. Fa incombere su chi
+
+211
+00:30:22,300 --> 00:30:29,820
+l'affronta oneri della prova non facili ed è importante che alla decisione si arrivi
+
+212
+00:30:29,820 --> 00:30:36,920
+quando quest'onere della prova è stato assolto. Qualunque cambiamento è un cambiamento
+
+213
+00:30:36,920 --> 00:30:40,540
+che può essere benefico per le nostre istituzioni.
+
