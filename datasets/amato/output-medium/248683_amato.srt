@@ -1,0 +1,740 @@
+1
+00:00:12,520 --> 00:00:29,700
+Per me è differente, basta massacrare l'autorità, ma non ci possedete qua, perché c'è questo
+
+2
+00:00:29,700 --> 00:00:38,640
+fare, spostiamo, allora bisogna spostarsi un po', si va bene, o di qua o di là, spostiamo
+
+3
+00:00:38,640 --> 00:00:47,540
+un po' qua, ecco di là, spostiamo i campotti, i campotti li mettiamo su questa sedia, Mario,
+
+4
+00:00:47,540 --> 00:01:17,500
+no, c'è questa sedia qua, c'è questa sedia qua,
+
+5
+00:01:17,540 --> 00:01:31,120
+ma che cavolo di acustica c'è, rimbomba tutto, vediamo bene, questo non l'ho provato, eh,
+
+6
+00:01:31,120 --> 00:01:48,340
+mamma mia, io mi sento a disagio, nella veste di Cocele Branti, che c'è? C'è anche radio
+
+7
+00:01:52,580 --> 00:02:10,340
+radicale, allora non puoi introdurre l'autore, allora si comincia, dunque noi disattendiamo
+
+8
+00:02:10,340 --> 00:02:19,140
+le ultime indicazioni del sommo pontipice e celebriamo in italiano voltati verso di
+
+9
+00:02:19,140 --> 00:02:31,600
+voi, comunque è ancora previsto, può fare, no? Siamo qua riuniti fratelli e sorelle per
+
+10
+00:02:33,460 --> 00:02:41,560
+presentare, e questo ambiente mi crea un problema, mi sento imbarazzato, non ci sono
+
+11
+00:02:41,560 --> 00:02:57,240
+abituati, per presentare questo libro, Diritto della concorrenza di Cristoforo Osti, che c'è?
+
+12
+00:02:57,240 --> 00:03:10,120
+Ah ecco così è finita, sempre qualcosa in mano, del quale parleranno qui a voi, riconoscete tutti,
+
+13
+00:03:10,400 --> 00:03:16,120
+da Mario Libertini, ad Antonio Catricalà, a Roberto Bartolis, l'unico che non ha titolo a
+
+14
+00:03:16,120 --> 00:03:22,700
+parlarne è Cristoforo Osti, però in base a regole consolidate siamo costretti a dargli la parola
+
+15
+00:03:24,120 --> 00:03:32,200
+affinché possa difendersi da tutto ciò che noi diremo a proposito di questo libro. Vabbè,
+
+16
+00:03:32,440 --> 00:03:41,260
+visto che ho la bocca aperta, comincio a parlarne un momento io come si dice al riborno, il libro ha
+
+17
+00:03:41,260 --> 00:03:49,980
+chiaramente una finalità che enuncia e quindi lo dice coraggiosamente, cioè nelle poche parole che
+
+18
+00:03:49,980 --> 00:04:00,740
+vero emergerà che io considero Osti uno bravo e anche coraggioso, ma tanto coraggioso da diventare
+
+19
+00:04:00,740 --> 00:04:10,020
+temerario e a volte è opportuno porre dei limiti anche al coraggio quando diventa temerarietà.
+
+20
+00:04:11,760 --> 00:04:21,120
+Lui enuncia lo scopo del suo lavoro, cioè lui dice il diritto della concorrenza è un diritto
+
+21
+00:04:21,720 --> 00:04:32,100
+particolarmente intricato perché si intrecciano norme nazionali e norme europee perché col passare
+
+22
+00:04:32,940 --> 00:04:42,920
+è un diritto vivente che oltre alla conoscenza delle norme comporta anche la conoscenza di una
+
+23
+00:04:42,920 --> 00:04:52,800
+casistica sempre più ampia e anche variegata per cui i significati attribuiti alle norme finiscono
+
+24
+00:04:52,800 --> 00:05:03,200
+essere nel tempo diversi a seconda di chi le ha interpretate. Primo punto. Secondo punto, il diritto
+
+25
+00:05:03,200 --> 00:05:13,000
+della concorrenza come tutti i rami del diritto che attraversano common law e civil law e questo è
+
+26
+00:05:13,000 --> 00:05:22,040
+esemplare come disciplina trasversale tra i due mondi del diritto che noi siamo abituati a
+
+27
+00:05:22,040 --> 00:05:31,760
+frequentare è anche oggetto di metodologie di esposizione che sono figlie dell'uno e dell'altro
+
+28
+00:05:31,760 --> 00:05:43,180
+mondo, metodologie di tipo continentale e quindi tendenzialmente deduttive dai principi alla
+
+29
+00:05:43,180 --> 00:05:53,400
+soluzione del problema, metodologie da common law imperniate sulla casistica e quindi sulla
+
+30
+00:05:53,400 --> 00:06:03,940
+sequenza dei casi. Nelle sottolineare le difficoltà che pongono i due metodi di indagine,
+
+31
+00:06:04,260 --> 00:06:14,200
+ha assolutamente ragione, cioè il nostro metodo deduttivo è un metodo che gira gira finisce alla
+
+32
+00:06:14,200 --> 00:06:24,380
+massima e allora uno non sa dalla massima quanta distanza c'è rispetto alla specificità del caso
+
+33
+00:06:24,380 --> 00:06:33,860
+concreto che deve risolvere. Allo stesso tempo il metodo casistico che si segue in common law è
+
+34
+00:06:33,860 --> 00:06:42,660
+un metodo che lascia il poveretto alla disperata ricerca della chiave di lettura, del principio che
+
+35
+00:06:42,660 --> 00:06:52,340
+non viene mai enunciato e che come un puzzle forse la sua testa riesce a ricomporre mettendo
+
+36
+00:06:52,340 --> 00:07:01,780
+insieme tutte le tessere dei casi che ha esaminato. Chi di noi ha esperienza di insegnamento in
+
+37
+00:07:01,780 --> 00:07:11,900
+università americane o inglesi percepisce proprio il bisogno dello studente americano o inglese di
+
+38
+00:07:11,900 --> 00:07:18,580
+cogliere il principio. Infatti l'insegnante continentale è gradito per questo perché
+
+39
+00:07:19,900 --> 00:07:26,820
+semplifica il loro mondo in effetti e gli fa intravedere fin dall'inizio il principio e
+
+40
+00:07:26,820 --> 00:07:34,740
+quando quello legge il caso già ha un modo di raffrontarlo ad una geometria possibile nella
+
+41
+00:07:34,740 --> 00:07:44,140
+quale collocare questi elementi. Allora ecco qua il coraggio di Cristoforo Osti dice oi boh io voglio
+
+42
+00:07:44,140 --> 00:07:53,800
+fare in modo che lo studente e l'avvocato che sono i miei due clienti tra virgolette lo dice
+
+43
+00:07:54,200 --> 00:08:03,800
+i miei clienti di questo mio lavoro siano messi in condizioni di capire autonomamente come si
+
+44
+00:08:03,800 --> 00:08:15,340
+risolvono i problemi che via via il diritto antitrust pone e quindi offro loro un manuale,
+
+45
+00:08:15,340 --> 00:08:25,500
+un volume che si sottrae ai difetti dell'uno e dell'altro metodo ecco che sentendosi spiegare
+
+46
+00:08:25,500 --> 00:08:33,040
+l'osti, l'osti si impaurisce dice a Cipicchia che cosa ose che ma è proprio questo secondo me fa
+
+47
+00:08:33,040 --> 00:08:43,520
+bene in realtà e io questo lo apprezzo e noto che nel libro ci sono diversi passaggi che mettono
+
+48
+00:08:43,520 --> 00:08:56,080
+in evidenza questa sua e così tensione verso una metodologia poi in qualche modo mista che
+
+49
+00:08:56,080 --> 00:09:06,540
+riesca a seguito della esposizione del tema alla fine a identificare i problemi che si
+
+50
+00:09:06,980 --> 00:09:17,360
+e come le cose dette prima servono a risolvere i singoli problemi insomma ci sono diversi esempi
+
+51
+00:09:17,360 --> 00:09:36,020
+ne ho annotato uno che è particolarmente chiaro nell'esplicitare il metodo seguito e anche
+
+52
+00:09:36,560 --> 00:09:44,360
+e come funziona il potere di esenzione come noi vecchi continuiamo a chiamarlo perché di
+
+53
+00:09:44,360 --> 00:09:52,080
+questo in realtà si è sempre trattato e quindi quelle quattro condizioni alle quali ha soggettata
+
+54
+00:09:52,080 --> 00:09:58,400
+la possibilità di dichiarare non restrittiva un'intesa in ragione dei benefici che arreca
+
+55
+00:09:58,400 --> 00:10:11,440
+il modo in cui ne rende partecipe il consumatore eccetera eccetera ora pensate che quando affronta
+
+56
+00:10:12,000 --> 00:10:18,240
+il i temi tipo nozione di impresa ordini professionali parla anche degli ordini
+
+57
+00:10:18,240 --> 00:10:23,560
+professionali che è prova di coraggio perché alla fine fine fa anche l'avvocato dopo tutto no
+
+58
+00:10:24,320 --> 00:10:34,000
+eppure senza colpo ferire ammette che si tratti di imprese lo dà assolutamente per scontato io
+
+59
+00:10:34,000 --> 00:10:40,380
+mi aspettavo che quando nella parte iniziale parla della nozione di impresa dicesse beh però
+
+60
+00:10:40,680 --> 00:10:47,300
+questa cosa degli avvocati in fondo è un po' tirata via è un po' dura no no assolutamente insomma
+
+61
+00:10:47,300 --> 00:10:56,340
+questo è molto apprezzato da chi avendo gestito autorità è assolutamente infastidito dal tempo
+
+62
+00:10:56,340 --> 00:11:03,360
+che hanno fatto perdere gli ordini professionali e dai soldi che si sono fatti girare tra di loro
+
+63
+00:11:03,360 --> 00:11:11,300
+scrivendo inutili memorie nelle quali inutilmente si sosteneva che la nozione di impresa era
+
+64
+00:11:11,300 --> 00:11:21,860
+inapplicabile a quell'essere umano tutto testa e niente braccia che è l'avvocato va bene va bene
+
+65
+00:11:21,860 --> 00:11:37,260
+così c'è una cosa che mi sta a cuore dire ci sono poi altri punti che mi interesserebbe sollevare
+
+66
+00:11:37,260 --> 00:11:49,060
+ma non voglio poi parlare troppo dove è che lui è temerario ecco lui è temerario in alcuni
+
+67
+00:11:50,040 --> 00:12:03,620
+presupposti sottostanti al suo studio del diritto della concorrenza che esprimono una sua posizione
+
+68
+00:12:04,420 --> 00:12:14,080
+di fondamentale sfiducia verso tutta questa roba qua in fondo è una sua convinzione che ogni tanto
+
+69
+00:12:14,080 --> 00:12:27,680
+fa emergere in ciò che scrive non solo in questo libro che vi siano amminare dall'interno il diritto
+
+70
+00:12:27,680 --> 00:12:39,300
+antitrust alcune scelte politiche che lo hanno determinato e che gli affidano dei compiti che
+
+71
+00:12:39,300 --> 00:12:55,160
+in fondo esso non può assolvere e che finiscono per minarne la stessa credibilità ora vi spiego per
+
+72
+00:12:55,160 --> 00:13:05,550
+non lo conoscono di che cosa si tratta secondo me ha torto ecco su questo ha torto e una volta che
+
+73
+00:13:05,780 --> 00:13:13,260
+ho aperto la torto allora ci vado dentro con la scimitarra come sempre si fa con garbo quando
+
+74
+00:13:13,260 --> 00:13:24,900
+ci si recensisce fra di noi ha torto due volte ha torto la prima volta perché lui sta scrivendo
+
+75
+00:13:24,900 --> 00:13:35,800
+un libro nel quale dice allo studente ora ti spiego come fai a risolvere da solo i problemi
+
+76
+00:13:35,800 --> 00:13:43,100
+che pone questa robusta disciplina intricata complessa e fin dall'inizio gli dà la sensazione
+
+77
+00:13:43,400 --> 00:13:50,820
+che sia una roba nella quale non vale la pena che non vale la pena di prendere sul serio allora
+
+78
+00:13:50,820 --> 00:13:58,460
+qui francamente ecco mette in una situazione difficile il lettore perché fin dalle prime
+
+79
+00:13:58,460 --> 00:14:06,680
+pagine gli dice ma qui c'è stata da parte di chi ha scritto queste norme una delega a chi le
+
+80
+00:14:06,680 --> 00:14:15,520
+deve applicare che è tanto visibile quanto risibile lui adora lasciarsi andare ogni tanto
+
+81
+00:14:15,520 --> 00:14:28,460
+a questi aggettivi che sorprudenzio non userebbe mai ma lui gli scappano e c'ha questo gusto così
+
+82
+00:14:28,460 --> 00:14:40,040
+di come dire io qua mi sono annotato sbarazzino un po sbarazzino ora quanto questo gusto sbarazzino
+
+83
+00:14:40,040 --> 00:14:50,000
+sia compatibile con la suefazione di cui il giovane ha bisogno per entrare qua dentro ecco
+
+84
+00:14:50,000 --> 00:14:58,620
+questo francamente lascio all'autore valutarlo questo è il primo punto rispetto al quale ho avuto
+
+85
+00:14:58,620 --> 00:15:07,080
+io tendo a dire che qui c'è qualcosa che come si suol dire meriterrà correggere nella seconda
+
+86
+00:15:07,080 --> 00:15:17,640
+edizione noi abbiamo lavorato insieme ad uno scritto di cristofero osti sugli aiuti di stato
+
+87
+00:15:17,640 --> 00:15:26,020
+nel quale era presente la stessa propensione sbarazzina ecco non resiste come dire è un
+
+88
+00:15:26,020 --> 00:15:35,720
+ottimo trottatore ma ogni tanto fa uno scarto come per far capire ma il cavallo mica è nato per
+
+89
+00:15:36,440 --> 00:15:42,400
+fa lo scarto e il fantino a quel punto si domanda ma che vuol fare sto cavallo vuole trottare o
+
+90
+00:15:42,400 --> 00:15:50,480
+vuole galoppare ecco c'è questo amore istintivo per il galoppo come modulo naturale di usare le
+
+91
+00:15:50,480 --> 00:15:58,140
+quattro zampe di un cavallo questo è il cavallo antitraste secondo punto secondo me sbagliata
+
+92
+00:15:58,140 --> 00:16:09,180
+il merito questa posizione nei in relazione ai modi in cui essa si manifesta quando attribuisce
+
+93
+00:16:09,780 --> 00:16:19,580
+l'antitrast ad un fine politico immediato l'antitrast nasce nel momento in cui si
+
+94
+00:16:19,580 --> 00:16:27,520
+decide di tutelare la piccola impresa davanti alle concentrazioni industriali così è
+
+95
+00:16:27,520 --> 00:16:38,720
+esplicita la contrapposizione delle constituencies ai tempi dello Sherman Act ed è diversamente
+
+96
+00:16:39,180 --> 00:16:51,360
+esplicita anche quando vengono concepite le norme antitrast del trattato di Roma per cui lui dice
+
+97
+00:16:51,360 --> 00:16:58,590
+queste robe che non stanno in piedi in effetti a un certo momento nostro signore ha dovuto inventare
+
+98
+00:16:58,900 --> 00:17:05,940
+l'analisi economica per dare un senso a queste norme che altrimenti non lo avrebbero avute sintetizzo
+
+99
+00:17:05,940 --> 00:17:16,320
+con una qualche però senza barare esattamente questo è quello che dice anzi c'è anche per
+
+100
+00:17:16,320 --> 00:17:21,880
+questo l'analisi economica ma fondamentalmente è come se l'anche non ci fosse perché altrimenti
+
+101
+00:17:22,320 --> 00:17:32,900
+non avrebbero avuto senso sono figlie di questa scelta politica io non sono convinto che sia
+
+102
+00:17:32,900 --> 00:17:42,520
+così sono convinto e questa è la storia che l'antitrast era nato ben prima dello Sherman Act
+
+103
+00:17:42,520 --> 00:17:51,060
+esisteva in common law con una lunga tradizione giurisprudenziale e che
+
+104
+00:17:51,060 --> 00:18:02,680
+la vicenda dei piccoli vessati dai trusts di Rockefeller ed altri è stata semplicemente
+
+105
+00:18:02,680 --> 00:18:13,180
+l'occasione il trigger che ha fatto scattare una nuovazione normativa dell'antitrast rappresentata
+
+106
+00:18:13,180 --> 00:18:20,600
+dallo Sherman Act che fra l'altro usa un linguaggio che era già notissimo alla common law per definire
+
+107
+00:18:20,600 --> 00:18:32,660
+le intese restrittive e che poi i concetti che attraverso lo Sherman Act entrano poi nel secolo
+
+108
+00:18:32,660 --> 00:18:42,040
+d'oro dell'antitrast che è il XX secolo sono concetti che come accade nell'esperienza giuridica
+
+109
+00:18:42,860 --> 00:18:52,980
+vengono via via riempiti dei loro contenuti dal ricorso a discipline ritenute pertinenti dagli
+
+110
+00:18:52,980 --> 00:19:06,020
+secondo un modulo che è tipico di tutti e un bestinte begriffe compreso il buon costume
+
+111
+00:19:06,020 --> 00:19:22,960
+o compresa la buona fede e quindi anche concetti cibilistici. Il fenomeno che è intervenuto è in
+
+112
+00:19:22,960 --> 00:19:37,540
+che è che in una fase iniziale le norme antitrust non è corretto insomma le norme a tutela della
+
+113
+00:19:37,540 --> 00:19:52,940
+concorrenza sono in realtà tutela della libertà di contratto ed è proprio in questa chiave che la
+
+114
+00:19:52,940 --> 00:20:01,780
+il contratto restrittivo della concorrenza oppure l'intesa la conspiracy restrittiva
+
+115
+00:20:01,780 --> 00:20:09,280
+della concorrenza sono le due fattispecie note alla giurisprudenza ben prima che arrivassero
+
+116
+00:20:09,280 --> 00:20:18,420
+Sherman Act e tutte e due utilizzate in base ad una rule of reason che distingue tra le
+
+117
+00:20:19,300 --> 00:20:31,080
+ragionevoli e quindi se il la clausola restrittiva è ancillare alla vendita dell'esercizio è una
+
+118
+00:20:31,080 --> 00:20:41,080
+restrizione ragionevole della libertà di contratto del venditore dell'esercizio se non è ancillare
+
+119
+00:20:41,080 --> 00:20:50,620
+è irragionevolmente restrittiva della libertà di contratto analogamente per le intese col passare
+
+120
+00:20:50,620 --> 00:21:01,720
+degli anni si arriva ad una chiarificazione in base alla quale la l'oggetto il diciamo il bene
+
+121
+00:21:01,720 --> 00:21:11,740
+protetto non è più la libertà di contratto ma è la concorrenzialità del mercato che è una
+
+122
+00:21:11,740 --> 00:21:18,840
+nozione che la scienza economica a partire dall'economia classica e quindi a partire da
+
+123
+00:21:18,840 --> 00:21:30,140
+marshal che io e tanti altri l'hanno notato non a caso il suo manuale classico è coedo dello
+
+124
+00:21:30,780 --> 00:21:40,540
+viene a riempire di sé il significato di queste norme quindi diventa poi naturale che col passare
+
+125
+00:21:40,540 --> 00:21:50,140
+del tempo si crea una tensione tra l'occasione politica che aveva portato alla creazione
+
+126
+00:21:50,840 --> 00:21:59,300
+all'approvazione delle norme la protezione dei piccoli e il significato che si viene chiarendo
+
+127
+00:21:59,300 --> 00:22:09,040
+della concorrenzialità un significato che nel contesto europeo rimane sempre un po' ambivalente
+
+128
+00:22:09,040 --> 00:22:17,760
+perché in europa tutela della concorrenza tutela dei concorrenti insomma rimane sempre un tema in
+
+129
+00:22:17,760 --> 00:22:33,400
+modo aperto ecco ma io indurrei fra cristoforo ad essere a rinunciare in qualche modo ad essere
+
+130
+00:22:33,400 --> 00:22:47,100
+sbalazzino nel momento in cui scrive un manuale ecco certo ci sono alcune cose nelle quali i suoi
+
+131
+00:22:47,100 --> 00:22:56,420
+aggettivazione un po' così spinta anch'io la amo quando per esempio definisce surreale e certo
+
+132
+00:22:56,420 --> 00:23:05,100
+il giovane dice ma io che sto a studiare una cosa surreale però ha ragione quando definisce
+
+133
+00:23:05,100 --> 00:23:16,640
+surreale la distinzione che si cerca di fare cioè la riconduzione all'intesa dell'abuso di
+
+134
+00:23:16,640 --> 00:23:28,900
+dominante rappresentato dalla produttore che esercita tutto il suo potere nei confronti dei
+
+135
+00:23:28,900 --> 00:23:38,440
+suoi distributori li costringe a non fare vendite parallele a rispettare ciascuno la
+
+136
+00:23:38,440 --> 00:23:47,140
+propria esclusiva e qua per poterla raggiungere più facilmente laddove non vi sia la posizione
+
+137
+00:23:47,140 --> 00:23:52,900
+dominante si dice questa è un'intesa e lui dice giustamente ma è sull'articolo 81 3
+
+138
+00:23:52,900 --> 00:24:01,100
+mentre formalisticamente se sei nell'articolo 82 l'articolo 82 paragrafo 3 non esiste dopodiché
+
+139
+00:24:01,100 --> 00:24:05,880
+tra l'altro l'autorità o per meglio dire la commissione tra virgolette ti frega perché
+
+140
+00:24:05,880 --> 00:24:11,460
+il mercato in un modo talmente ristretto che sai comunque una situazione d'articolo 82 cioè la
+
+141
+00:24:11,460 --> 00:24:16,980
+definizione del mercato rilevante segue passo per passo questo spostamento da questo secondo
+
+142
+00:24:16,980 --> 00:24:27,080
+d'articolo 81 82 questo secondo me è un tipico caso che evidenzia che controllare l'applicazione
+
+143
+00:24:27,080 --> 00:24:32,440
+dei diretti antitrust in base a queste categorie giudici che ha delle conseguenze che forse
+
+144
+00:24:32,440 --> 00:24:38,840
+chiamare surreali ma che sicuramente sono inappaganti dopodiché allora che cosa devi fare secondo me
+
+145
+00:24:38,840 --> 00:24:45,440
+devi tornare al concetto economico sottostante e le categorie economico sottostanti sono a mio
+
+146
+00:24:45,440 --> 00:24:52,600
+giudizio collusione esclusione cioè tu capisci se un certo comportamento che poi inquadri nello
+
+147
+00:24:52,600 --> 00:24:59,100
+strumento giuridico più appropriato crea un problema di concorrenza se ha degli aspetti
+
+148
+00:24:59,100 --> 00:25:05,700
+di collusione e ha degli aspetti di esclusione questo mi pare che roberto pardolesi non lo contesti
+
+149
+00:25:05,700 --> 00:25:12,480
+ci possono essere dei fenomeni diciamo che vuoi perché sono marginali voi semplicemente perché
+
+150
+00:25:12,480 --> 00:25:16,940
+io non ho tenuto conto quando scritto un manuale purtroppo o per fortuna il diritto antitrust ci
+
+151
+00:25:16,940 --> 00:25:24,140
+porta continuamente esempi di comportamenti che sollevano nuovi problemi di inquadramento però
+
+152
+00:25:24,140 --> 00:25:30,660
+di nuovo la mia personale convinzione è che è anche un caso come independent inc indipendentamente
+
+153
+00:25:30,660 --> 00:25:36,680
+dal fatto che nel mio manuale ci siano quelli dieci parole che lo contemplano espressamente o no e se
+
+154
+00:25:36,680 --> 00:25:42,700
+non ci sono nella prossima edizione se mai ce ne sarà una aggiungerò queste 16 parole comunque non
+
+155
+00:25:42,700 --> 00:25:47,180
+potrei che risolvere il problema facendolo cadere vuoi nella categoria dell'esclusione vuoi nella
+
+156
+00:25:47,180 --> 00:25:50,700
+categoria della collusione non mi pare che quanto è stato detto smentisca questo fatto
+
+157
+00:26:04,540 --> 00:26:12,400
+ma se forse dato che hanno aspettato ora se c'è qualcuno che
+
+158
+00:26:24,560 --> 00:26:39,020
+ma lo dico seriamente sembra di no vabbè insomma secondo me è stato un eccellente dibattito il
+
+159
+00:26:39,020 --> 00:26:48,080
+che era prova che il libro lo suscitava e quindi è un libro che merita leggere ecco una cosa sola
+
+160
+00:26:48,080 --> 00:26:57,480
+permettetemi di aggiungere e che riprende le cose che diceva da ultimo roberto e la sua foga
+
+161
+00:26:57,480 --> 00:27:18,060
+contro il tornare dei formalismi quello che noi vediamo in termini di culture giuridiche con le
+
+162
+00:27:20,600 --> 00:27:28,780
+in un tempo nel quale sempre più per mille ragioni che ora non è il caso di ricordare ad
+
+163
+00:27:28,780 --> 00:27:37,950
+una una ma solo di evocare ci si chiede da più parti ma in fondo la concorrenza ci serve o no e
+
+164
+00:27:38,820 --> 00:27:45,840
+può anche capitare che dopo essere stati eletti presidenti della repubblica francese si cerchi di
+
+165
+00:27:46,540 --> 00:27:57,020
+il che è la prova di una situazione nella quale ciò che abbiamo dato sempre per scontato e cioè
+
+166
+00:27:57,020 --> 00:28:07,420
+che una economia più rispettosa dei principi della concorrenza a larga benefici a vantaggio
+
+167
+00:28:08,460 --> 00:28:18,600
+oggi in ragione del mercato globale e quant'altro viene percepita da molti nei nostri paesi come un
+
+168
+00:28:18,600 --> 00:28:28,340
+qualcosa che torna a beneficio di altri e quindi non che allarga spazi ma li restringe questo crea
+
+169
+00:28:28,340 --> 00:28:38,680
+una forte difficoltà all'uso delle categorie alle quali il formalismo ci ha abituato che in
+
+170
+00:28:38,680 --> 00:28:46,560
+termini di antitrust detto con linguaggio più banale da giuristi feriali è le presunzioni
+
+171
+00:28:47,400 --> 00:28:56,680
+perché in realtà il formalismo genera presunzioni la per sé rule che è la classica espressione del
+
+172
+00:28:56,680 --> 00:29:03,680
+formalismo è se rientra in questa categoria è proibito se rientra in un'altra categoria non è
+
+173
+00:29:03,680 --> 00:29:16,600
+proibito mi colpisce un fatto che quando gli stati uniti per la prima volta percepirono la concorrenza
+
+174
+00:29:16,600 --> 00:29:26,180
+come un rischio forte ed era gli anni 70 quando fu proprio in ragione della cresciuta concorrenzialità
+
+175
+00:29:26,180 --> 00:29:33,620
+tedesca e giapponese sui mercati americani loro decisero che avevano bisogno di rafforzare in
+
+176
+00:29:33,620 --> 00:29:41,900
+realtà le loro imprese le loro reti distributive fu quello il momento che portò le dottrine di
+
+177
+00:29:41,900 --> 00:29:49,700
+Chicago e quindi l'analisi economica non più industrialista di halvard ad essere adottate
+
+178
+00:29:49,700 --> 00:29:57,400
+dalla Corte Suprema questo nella chiave che abbiamo discusso oggi soprattutto Roberto l'ha
+
+179
+00:29:57,400 --> 00:30:04,440
+fatto che cosa significa che il diritto della concorrenza non poteva più farcela usando le
+
+180
+00:30:04,440 --> 00:30:13,460
+presunzioni del per sé ma doveva dimostrare di volta in volta che l'effetto restrittivo si
+
+181
+00:30:13,460 --> 00:30:20,000
+e se te non mi dimostri che l'effetto restrittivo si produce non rompere le
+
+182
+00:30:20,000 --> 00:30:29,560
+scatole e lascia correre altrimenti sei intrusivo questo noi oggi percepiamo il
+
+183
+00:30:29,560 --> 00:30:36,880
+bisogno di una crescente analisi economica come il bisogno di dimostrare sempre più
+
+184
+00:30:36,880 --> 00:30:44,500
+qual è l'effetto che si produce e percepiamo che con le presunzioni non si può più andare avanti
+
+185
+00:30:44,780 --> 00:30:50,620
+infatti leghina è giusta per questo perché non c'è nessuna ragione al mondo che
+
