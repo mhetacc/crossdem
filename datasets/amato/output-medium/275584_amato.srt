@@ -1,0 +1,1720 @@
+1
+00:00:02,900 --> 00:00:17,040
+Dunque, io sarei per cominciare, immagino che anche voi lo siate. Questa è una bella
+
+2
+00:00:17,040 --> 00:00:22,160
+occasione per discutere qui dentro cosa che almeno qui dentro non è ancora accaduta,
+
+3
+00:00:22,160 --> 00:00:32,740
+devo ammettere che altrove è già accaduto che si discutesse della crisi incombente che rende il
+
+4
+00:00:32,740 --> 00:00:52,140
+titolo così, De futuro, il titolo del libro che ci dà occasione di questo dibattito comunque è un
+
+5
+00:00:52,140 --> 00:01:02,540
+come ci arriveremo e che cosa faremo e che cosa si può fare per andare oltre, quindi certo non ci
+
+6
+00:01:02,540 --> 00:01:11,520
+sentiamo ancora oltre al punto a cui siamo. È difficile fare il dibattito ignorando il libro
+
+7
+00:01:12,640 --> 00:01:24,380
+che è un volume collettaneo che però ha due editors che sono anche autori di più di un
+
+8
+00:01:24,380 --> 00:01:35,110
+pezzo, Emilio Barucci e Marcello Messori che sono qua con noi, ci permette di riflettere insieme
+
+9
+00:01:35,110 --> 00:01:45,050
+oggi su quelli che sono ormai i temi ai mecanonici di questo tipo di dibattito. Che cosa è successo
+
+10
+00:01:45,050 --> 00:01:53,630
+esattamente? Quali sono le ragioni di questa crisi? Qui chiunque se ne sia occupato nota che ci sono
+
+11
+00:01:53,630 --> 00:02:01,290
+posizioni diverse e spesso anche pelose su questo argomento. No, l'economia non c'entra niente,
+
+12
+00:02:01,290 --> 00:02:10,410
+è solo una questione finanziaria. C'è chi lo dice con finalità anche diverse da altri, c'è chi
+
+13
+00:02:10,410 --> 00:02:17,250
+lo dice perché non ha un euro da spendere sull'economia e quindi dice è un problema solo
+
+14
+00:02:17,250 --> 00:02:23,710
+finanziario con nuove regolazioni finanziarie, lo risolviamo, l'economia ci pensa nostro Signore.
+
+15
+00:02:23,710 --> 00:02:42,750
+C'è chi lo dice perché in realtà vuole sottolineare un'indole che con altra terminologia si potrebbe
+
+16
+00:02:42,750 --> 00:02:51,310
+definire non strutturale della vicenda e delle sue cause. C'è chi all'opposto dice questa è una
+
+17
+00:02:51,310 --> 00:03:01,090
+ragione che ha solo nell'economia le sue vere ragioni e allora scarica sull'economia. C'è chi
+
+18
+00:03:01,290 --> 00:03:10,750
+adduce delle responsabilità umane nella vicenda, c'è chi nega che si possa parlare di responsabilità
+
+19
+00:03:10,750 --> 00:03:21,150
+sostenendo che è stata una vicenda molto complessa, difficilmente governabile nella quale quindi non
+
+20
+00:03:21,150 --> 00:03:32,050
+sono state né la vidità né la irresponsabilità di alcuno a provocare le disfunzioni alle quali
+
+21
+00:03:32,050 --> 00:03:41,690
+abbiamo assistito ma è stato un concatenarsi di vicende complesse. C'è chi dice che è stato un
+
+22
+00:03:41,690 --> 00:03:48,030
+fallimento del mercato, c'è chi dice che è stato un fallimento dello Stato, c'è chi dice,
+
+23
+00:03:48,030 --> 00:03:55,390
+ovviamente, ragione che se fallimento è stato lo è stato di entrambi. La tesi più facile da
+
+24
+00:03:55,390 --> 00:04:04,270
+dimostrare è questa qua e quindi qua troviamo tutte queste tematiche e poi troviamo le messe
+
+25
+00:04:04,270 --> 00:04:13,150
+a fuoco specifiche dei protagonisti, delle cose che tutti abbiamo imparato, i derivati, i prodotti
+
+26
+00:04:14,390 --> 00:04:24,030
+strutturati, i titoli tossici, i titoli non tossici, le banche e le istituzioni finanziarie,
+
+27
+00:04:24,130 --> 00:04:32,630
+insomma tutte queste robe qua e poi c'è il dopo. Ecco quindi lo schema è questo e i partecipanti
+
+28
+00:04:32,630 --> 00:04:39,810
+qui potranno sbizzarrirsi sui vari capitoli che poi, detti in altre parole, sono il prima,
+
+29
+00:04:39,810 --> 00:04:46,110
+il durante e il dopo, che tendono ad essere i capitoli di qualunque vicenda umana, in effetti,
+
+30
+00:04:46,310 --> 00:04:53,550
+il prima, il durante e il dopo. Anche qui abbiamo un prima, un durante e un dopo. Io mi limito da
+
+31
+00:04:53,550 --> 00:05:00,810
+introduttore a dire due cose, appunto. Come l'ho vissuta io, ex post la mia sensazione,
+
+32
+00:05:02,770 --> 00:05:09,330
+responsabilità non responsabilità, è un dato di fatto che nessuno contesta che sono stati
+
+33
+00:05:09,330 --> 00:05:17,670
+dei rischi eccessivi, ritenuti ex post eccessivi tanto dagli operatori sottoposti a regole
+
+34
+00:05:17,670 --> 00:05:25,770
+prudenziali specifiche come quelle di Basilea 2 che tuttavia hanno potuto ignorare creando dei
+
+35
+00:05:25,770 --> 00:05:33,870
+veicoli, così si chiamano nel gergo tecnico sottratti a quelle regole, quanto dalle istituzioni
+
+36
+00:05:33,870 --> 00:05:39,630
+più schiettamente finanziarie. Quindi se quando eravamo piccoli ci avevano detto che erano gli
+
+37
+00:05:39,630 --> 00:05:46,070
+hedge funds, quelli che prendevano i rischi eccessivi e lì l'alto tasso di interesse lo
+
+38
+00:05:46,070 --> 00:05:56,810
+segnalava, in questa attitudine al rischio eccessivo si è largamente diffusa. Io la vivo
+
+39
+00:05:56,810 --> 00:06:07,230
+così pensando a Isoprime, al mercato della casa e a quant'altro, come se un pifferaio abilissimo
+
+40
+00:06:07,230 --> 00:06:18,210
+di nome Grispan avesse convinto tutti che i rischi erano finiti e che ormai mettendo acqua
+
+41
+00:06:18,210 --> 00:06:25,290
+nel motore la macchina avrebbe girato, girato, girato senza mai fermarsi. Io me lo ricordo,
+
+42
+00:06:25,290 --> 00:06:33,370
+perché me lo ricordo, era uno straordinario incantatore di serpenti, bravissimo, frequentavamo
+
+43
+00:06:34,590 --> 00:06:42,410
+Grispan insieme, Piero, Barucci ed io e quando si metteva a raccontarci che era finito il ciclo
+
+44
+00:06:42,410 --> 00:06:52,050
+economico, che ormai girava e parlava con quella voce fra l'altro non facile da sentire perché
+
+45
+00:06:52,050 --> 00:07:00,810
+era soffusa, era un po' come ce l'ho io oggi con corde vocali un po' perché l'ho usata tutto il
+
+46
+00:07:00,810 --> 00:07:16,290
+giorno. Il ciclo è finito, la tecnologia è ormai in grado di buttare acqua sulle corde,
+
+47
+00:07:16,290 --> 00:07:23,370
+quando le corde si scaldano troppo, quindi c'è una domanda eccessiva rispetto all'offerta e quindi
+
+48
+00:07:23,370 --> 00:07:29,390
+c'è il rischio che si rompa, ecco che la tecnologia riequilibra perché genera una
+
+49
+00:07:29,390 --> 00:07:37,350
+produttività crescente, crescente, crescente che non fa mai surriscaldare l'economia. Quindi la
+
+50
+00:07:38,180 --> 00:07:48,730
+del ciclo non c'è più e quindi avanti i miei prodi, tutti avanti, tutti avanti, andate avanti,
+
+51
+00:07:49,570 --> 00:08:00,000
+i prezzi crescevano, non c'è dubbio che in questo clima l'attitudine a misurare il rischio si è in
+
+52
+00:08:00,000 --> 00:08:12,020
+qualche modo si è resa ottusa, nel senso è stata ottenebrata, ecco è stata ottenebrata e complicandosi
+
+53
+00:08:12,020 --> 00:08:17,840
+i titoli è stato palese che non veniva più misurato il rischio. Questo libro lo dimostra
+
+54
+00:08:17,840 --> 00:08:27,060
+in modo specifico, non era sempre il mark to market ma era il mark to model viene scritto
+
+55
+00:08:27,060 --> 00:08:33,520
+giustamente in uno di questi pezzi perché si usava ormai il modello e quindi era in relazione
+
+56
+00:08:33,520 --> 00:08:39,400
+al modello in quello che accadeva. Per non parlare delle agenzie di rating appunto le quali,
+
+57
+00:08:40,020 --> 00:08:46,640
+perso il contatto col singolo operatore di cui bisognava misurare il merito di credito,
+
+58
+00:08:46,740 --> 00:08:55,700
+si riferivano alla categoria e davano il rating sulla base dei comportamenti passati della
+
+59
+00:08:55,700 --> 00:09:05,160
+tipologia. Si presterebbe a interessantissime riflessioni anche sull'uso dei criteri presuntivi
+
+60
+00:09:05,600 --> 00:09:16,300
+per produrre effetti reali, è curioso perché, permettetemi questa divagazione, noi disciplinari,
+
+61
+00:09:16,440 --> 00:09:25,640
+noi giuristi nell'ambito in cui ora invidio Piero, lui ha un compito operativo che io perzo che è
+
+62
+00:09:25,640 --> 00:09:35,240
+antitrust. Abbiamo imparato dagli economisti a sostituire i criteri presuntivi con i criteri
+
+63
+00:09:35,240 --> 00:09:43,880
+reali, quindi quello che nel gergo antitrust si chiama essere passati dal form based approach
+
+64
+00:09:43,880 --> 00:09:52,540
+to effect based approach, è stata l'analisi economica di insegnarcelo, ci ritroviamo istituzioni
+
+65
+00:09:52,540 --> 00:09:59,260
+economiche che frequentano economisti più che giuristi che passano i criteri presuntivi, ma
+
+66
+00:09:59,260 --> 00:10:07,460
+questa è stata un'evoluzione di una vicenda che è partita col pifferaio in qualche modo, che ha
+
+67
+00:10:07,460 --> 00:10:17,580
+creato un clima irreale in cui tutto questo si è svolto e quindi è facilitato poi sotterraneamente
+
+68
+00:10:17,580 --> 00:10:25,380
+da quest'altra formula magica, ma io alla fin fine il rischio non me lo tengo più in pancia,
+
+69
+00:10:25,400 --> 00:10:34,100
+lo diffondo nel mondo intero e quindi anche se è eccessivo, moltiplicato per milioni di compratori,
+
+70
+00:10:34,280 --> 00:10:41,980
+di derivati, non è più quello che sarebbe stato se me lo fossi tenuto su tutto io e si è diffusa
+
+71
+00:10:41,980 --> 00:10:49,800
+questa idea che il rischio suddiviso è un rischio che scompare e poi è ripiombato come un'onda di
+
+72
+00:10:49,800 --> 00:10:55,880
+ritorno sulla testa di quelli che l'avevano suddiviso, cioè il rischio suddiviso non è un
+
+73
+00:10:55,880 --> 00:11:05,660
+rischio che scompare ma è un boomerang, questo abbiamo capito alla fine della storia. Un'ultima
+
+74
+00:11:05,660 --> 00:11:12,680
+osservazione sul dopo bruscamente perché non voglio rubare altro tempo, sul dopo gli autori
+
+75
+00:11:12,680 --> 00:11:26,420
+mi hanno sorpreso perché nell'insieme il libro sta su tesi che sono quelle che io condivido, fallimento
+
+76
+00:11:26,420 --> 00:11:33,660
+del mercato e dello Stato, responsabilità frammiste a complessità di situazione,
+
+77
+00:11:33,660 --> 00:11:46,040
+governabilità difficile, per la cura, intervento abbastanza pesante dello Stato, determinato
+
+78
+00:11:46,040 --> 00:11:55,340
+dall'emergenza ma futuro che sarà segnato certo da regolazioni più attente, da vigilanza migliore
+
+79
+00:11:55,340 --> 00:12:02,700
+di quelle che ci sono state finora, ma insomma così come funziona un normale mercato avrei detto io,
+
+80
+00:12:04,500 --> 00:12:12,240
+perciò più segnato da regole arbitrali di quanto abbia finito per accadere in quel clima
+
+81
+00:12:12,240 --> 00:12:23,560
+da pifferaio negli anni trascorsi. Io continuo a vederla così nonostante le nazionalizzazioni
+
+82
+00:12:23,560 --> 00:12:31,940
+che stanno intervenendo. L'introduzione dei due autori che era stata scritta prima degli ultimi
+
+83
+00:12:31,940 --> 00:12:46,140
+fatti di Romagna presenta poi un post-critum che dice che è possibile che nelle intenzioni dei
+
+84
+00:12:46,140 --> 00:12:53,180
+policy makers le nazionalizzazioni avrebbero una natura straordinaria e temporanea, però in
+
+85
+00:12:53,180 --> 00:13:01,320
+quanto si verificano scatenano gli animal spirits dello Stato proprietario in qualche modo, questo è
+
+86
+00:13:01,320 --> 00:13:08,660
+ciò che si dicono e quindi è una rottura che segna la cancellazione degli assetti economici
+
+87
+00:13:08,660 --> 00:13:14,600
+e finanziari vigenti prima della crisi, che segnerebbe, ora io sto forzando un po', uso
+
+88
+00:13:14,600 --> 00:13:23,200
+l'indicativo dove voi avete. Io questo non lo vedo, cioè non lo ritengo proprio storicamente
+
+89
+00:13:23,740 --> 00:13:30,760
+e culturalmente possibile. Ci saranno alcuni animal spirits dello Stato proprietario che si
+
+90
+00:13:30,760 --> 00:13:39,060
+cateneranno. Ci saranno telefonate che arriveranno perché venga dato il credito all'impresa Amato,
+
+91
+00:13:39,220 --> 00:13:45,340
+che è un amico mio, piuttosto che ad altre imprese, ma sono le telefonate che arrivano ai
+
+92
+00:13:45,340 --> 00:13:52,820
+giornali che pur non essendo di proprietà pubblica vengono ritenuti destinatari naturali di questo
+
+93
+00:13:52,820 --> 00:13:59,140
+genere di telefonata, in questo caso non perché si dia un credito a qualcuno ma perché si scriva
+
+94
+00:13:59,140 --> 00:14:08,220
+un articolo benevolo e non malevolo su qualcuno, questo è evidente. La mia convenzione è che
+
+95
+00:14:08,220 --> 00:14:17,180
+superata questa crisi, quando verrà superata e sarà superata, ci sarà un riflusso di questa
+
+96
+00:14:17,180 --> 00:14:29,120
+tide, ci sarà un riflusso che non è sostenibile nelle nostre società, per le culture che in queste
+
+97
+00:14:29,120 --> 00:14:46,520
+che si torni agli anni trenta. Questo non ritengo che possa accadere. Una cosa che mi domando è se
+
+98
+00:14:46,520 --> 00:14:52,280
+questo davvero segna la fine della banca universale, questo sarei curioso di avere le vostre risposte
+
+99
+00:14:52,280 --> 00:15:00,960
+perché si dice negli Stati Uniti che torniamo a prima, risepariamole, ritorniamo al Galzigalacte,
+
+100
+00:15:03,000 --> 00:15:10,020
+quindi che dobbiamo fare in Italia? Cancelliamo Carli? Io glielo dissi quando lui la volle fare
+
+101
+00:15:10,020 --> 00:15:16,600
+che era troppo presto e che noi non avevamo ancora il personale per offrire i servizi finanziari
+
+102
+00:15:16,600 --> 00:15:24,460
+nelle nostre banche, quindi avremmo dovuto rivolgersi e fare l'outsourcing come in concreto accadde.
+
+103
+00:15:24,780 --> 00:15:33,060
+Però non so se questa è effettiva parte della cura, cioè negare alcuni progressi, ma qui io mi
+
+104
+00:15:33,060 --> 00:15:40,720
+fermo e allora come ci organizziamo? Secondo me gli ultimi che dovrebbero parlare sono i due
+
+105
+00:15:40,720 --> 00:15:48,540
+curatori del libro secondo regole proprie della presentazione. Noi qui fingiamo che non sia una
+
+106
+00:15:48,540 --> 00:15:55,860
+presentazione perché io ho detto che è un dibattito, però alcune regole di quel genere
+
+107
+00:15:55,860 --> 00:16:05,260
+conviene mantenerle e quindi che usiamo? L'ordine alfabetico a questo punto va, quindi facciamo prima
+
+108
+00:16:05,260 --> 00:16:12,580
+Marcello, poi Ignazio, poi Beppe Zadra e poi i due autori. Professor De Cecco,
+
+109
+00:16:12,800 --> 00:16:21,060
+ella ha la parola. Naturalmente se parlate un'ora l'uno, noi poi vi lasciamo qui perché una certora
+
+110
+00:16:21,060 --> 00:16:28,940
+al portone chiude e domattina vi riattiviamo. In realtà, sì, Ignazio, questo ce lo devi un po' di,
+
+111
+00:16:28,960 --> 00:16:34,480
+tu poi hai scritto questa bella cosa sulla crisi finanziaria e le previsioni degli economisti,
+
+112
+00:16:34,480 --> 00:16:41,200
+quindi ci devi dire se tu stavi col dito nel buco mentre gli altri non prevedevano o se non
+
+113
+00:16:41,200 --> 00:16:48,600
+prevedevi. Io a questo riguardo vi voglio dire una cosa che è successa in questa stanza esattamente
+
+114
+00:16:49,160 --> 00:16:59,180
+due anni fa. In questa stanza noi facciamo i lunch per i soci sostenitori con i quali ha una
+
+115
+00:16:59,180 --> 00:17:06,640
+chiacchierata confidenziale al lunch un personaggio italiano ed era due anni fa Mario Draghi,
+
+116
+00:17:07,080 --> 00:17:16,820
+governatore, il quale dedicò i suoi 20 minuti di chiacchierata al lunch con fortissima preoccupazione
+
+117
+00:17:17,680 --> 00:17:27,740
+a spiegare che cosa poteva succedere se qualcuno bucava la bolla immobiliare negli Stati Uniti e
+
+118
+00:17:27,740 --> 00:17:38,360
+se un subprime 1 fosse andato in default quali conseguenze? Quindi lui a quel tempo aveva già
+
+119
+00:17:38,360 --> 00:17:45,240
+questa preoccupazione ed era in mare aperto, non avrei potuto pretendere dal governatore della
+
+120
+00:17:45,240 --> 00:17:54,400
+Banca d'Italia che constatato questo evitasse chi si... Ma la cosa che più mi colpì fu che i suoi
+
+121
+00:17:54,400 --> 00:18:04,240
+interlocutori intorno al tavolo molti dei quali banchieri si rivelarono dopo del tutto disinteressati
+
+122
+00:18:04,240 --> 00:18:11,460
+a questa parte cruciale del discorso del governatore e gli posero delle domande che
+
+123
+00:18:11,460 --> 00:18:20,200
+riguardavano altri temi più in quel momento attuali per la vita delle nostre banche. Ecco
+
+124
+00:18:20,200 --> 00:18:29,820
+questo a proposito di prevedere è una cosa che mi è tornata in mente da ultimo, Ignazio. Grazie
+
+125
+00:18:31,020 --> 00:18:40,260
+mille. Io invece di fare un dibattito perché mi è stato chiesto di presentare un libro,
+
+126
+00:18:40,660 --> 00:18:48,040
+presenterò il libro dicendo alcune cose sulle questioni sulle quali più mi sono soffermato,
+
+127
+00:18:48,960 --> 00:18:56,640
+cominciando a dire che è un instant book, è scritto durante la crisi, è scritto in real time,
+
+128
+00:18:57,140 --> 00:19:03,500
+qui si può usare l'inglese credo essendo, è una delle due lingue del luogo. Ma è un libro
+
+129
+00:19:03,500 --> 00:19:09,600
+straordinariamente meditato e insolitamente coordinato per essere un libro collettaneo
+
+130
+00:19:10,960 --> 00:19:16,680
+nei suoi contributi. Ma nei pezzi chiave lui ha fatto la parte dell'autore, questo non vale.
+
+131
+00:19:17,560 --> 00:19:29,640
+Però c'è un'analisi delle origini della crisi, un'analisi dell'oggi, intermediari, mercati e c'è
+
+132
+00:19:29,640 --> 00:19:36,520
+un'analisi di prospettive e forse anche valutazioni proposte per l'autore della crisi che è nel
+
+133
+00:19:36,520 --> 00:19:43,840
+complesso molto organica. Il summing up dei fattori che hanno scatenato la crisi è notevolmente
+
+134
+00:19:45,480 --> 00:19:49,960
+approfondito. Credo che sia particolarmente importante anche però andare a vedere oltre i
+
+135
+00:19:49,960 --> 00:19:56,820
+fattori scatenanti cosa c'è dietro, perché i subprime sono una cosa importante ma sono una cosa
+
+136
+00:19:56,820 --> 00:20:03,900
+piccola, sono un trilione di 11 trilioni di muti americani di cui forse il 20 per cento poteva
+
+137
+00:20:03,900 --> 00:20:13,700
+essere il rischio, quindi 200-300 miliardi da cui le stime originali, e forse si sarebbero
+
+138
+00:20:13,700 --> 00:20:19,040
+risolto tutto se quei 200 miliardi si fossero acquistati direttamente e ma con senno di poi.
+
+139
+00:20:21,800 --> 00:20:26,400
+Inoltre condividendo la maggior parte delle valutazioni e le proposte che sono nel libro
+
+140
+00:20:26,400 --> 00:20:33,460
+mi è difficile in realtà entrare in un dibattito con gli autori, però forse può essere utile
+
+141
+00:20:34,880 --> 00:20:43,680
+soffermarsi su alcune delle cose più interessanti che io ho letto. Credo che se dovessi fare una
+
+142
+00:20:43,680 --> 00:20:50,520
+osservazione e l'osservazione sarebbe che pur essendoci un capitolo credo importante non dei
+
+143
+00:20:50,520 --> 00:20:57,930
+due autori ma di tamborini e tragetti sull'aspetto macroeconomico, delle ragioni macroeconomiche
+
+144
+00:20:58,440 --> 00:21:06,350
+che stanno dietro la crisi, io mi sarei soffermato di più da quelle ragioni macroeconomiche a entrare
+
+145
+00:21:07,350 --> 00:21:14,110
+aspetti macro istituzionali sul come se ne esce. Ovviamente la professione degli economisti si
+
+146
+00:21:14,110 --> 00:21:21,190
+dice nesce male, la professione degli economisti è quella degli ingegneri finanziari forse non
+
+147
+00:21:21,190 --> 00:21:29,810
+debbolita oltre mai come quella dei banchieri ovviamente, ma la domanda è dove erano i politici
+
+148
+00:21:29,810 --> 00:21:50,310
+e dove erano i giuristi regolatori, perché da uomini pratici i politici e i regolamentatori
+
+149
+00:21:50,310 --> 00:21:57,750
+sono in realtà come diceva Keynes niente affatto liberi dalle influenze intellettuali e sono
+
+150
+00:21:57,750 --> 00:22:02,190
+solamente schiavi di qualche economista defunto, andiamo a trovare chi è l'economista defunto
+
+151
+00:22:02,190 --> 00:22:14,990
+dentro questo, non è Keynes. La tesi di Barucci e Messori è che tra i due polli delle spiegazioni
+
+152
+00:22:14,990 --> 00:22:22,890
+che ci sono e delle anche analisi prospettiche che si tratta di una crisi grave ma passegera
+
+153
+00:22:23,830 --> 00:22:30,650
+e con qualche intervento di revisione delle regole, revisione delle istituzioni se ne
+
+154
+00:22:30,650 --> 00:22:37,850
+esce più forti che prima rispetto a quella e rispetto alla crisi opposta che in realtà
+
+155
+00:22:37,850 --> 00:22:44,830
+la crisi è irreversibile e come unica soluzione prevede il ritorno alla preistoria neanche
+
+156
+00:22:46,370 --> 00:22:54,710
+propongono una tesi intermedia, cioè che vi siano da identificare e da correggere gravi
+
+157
+00:22:54,710 --> 00:23:01,050
+distorsioni nel funzionamento dei mercati, nella regolazione dei mercati, nel modo in
+
+158
+00:23:01,050 --> 00:23:11,770
+cui gli intermediari sono strutturati ma con questo si può ritornare con più stabilità
+
+159
+00:23:11,770 --> 00:23:18,890
+in un trend di innovazione perché l'innovazione finanziaria in particolare è fondamentale
+
+160
+00:23:18,890 --> 00:23:26,870
+in quanto completa in qualche modo i mercati. Completare i mercati è gergo economico,
+
+161
+00:23:27,530 --> 00:23:32,650
+complicato, non è neanche da spiegare, si usa in termini giornalistici così ma è una
+
+162
+00:23:32,650 --> 00:23:38,150
+cosa molto complessa ma sostanzialmente si inserisce in uno schema di riferimento teorico
+
+163
+00:23:38,150 --> 00:23:45,810
+molto importante che è quello che ha prevalso nella disciplina economica sicuramente da
+
+164
+00:23:45,810 --> 00:23:52,590
+Keynes in poi, Keynes non era proprio là dentro ed è quello dell'equilibrio generale.
+
+165
+00:23:53,330 --> 00:24:01,590
+L'equilibrio generale dice sostanzialmente che può esistere un vettore di prezzi in
+
+166
+00:24:01,590 --> 00:24:06,690
+grado di equilibrare tutti i mercati perché valgono delle condizioni, tra le condizioni
+
+167
+00:24:06,690 --> 00:24:14,650
+che vi sia la possibilità di definire tutte le contingenze e cioè tutti gli eventi che
+
+168
+00:24:14,650 --> 00:24:20,670
+per ogni contingenza ci sia un mercato che ne tenga conto in questo caso sostanzialmente
+
+169
+00:24:20,670 --> 00:24:29,870
+su base probabilistica. Ora la tesi loro è intermedia, io non so se è una terza via
+
+170
+00:24:29,870 --> 00:24:35,210
+o se è una forte revisione di quella attuale sicuramente non è un ritorno al passato perché
+
+171
+00:24:35,210 --> 00:24:42,290
+come diceva Matto è passato non un ritorno. Dove si va? Io sono ancora un attimo più
+
+172
+00:24:42,290 --> 00:24:50,830
+cauto e dirò un attimo perché credo la parte macroeconomica è molto importante. Si forse
+
+173
+00:24:50,830 --> 00:24:59,990
+in 1987 è una data importante, Greenspan intervenne per risolvere un problema tecnico della borsa
+
+174
+00:25:00,830 --> 00:25:10,710
+di Wall Street dando tutta la liquidità necessaria per evitare che le contrattazioni si chiudessero.
+
+175
+00:25:12,330 --> 00:25:18,670
+Io preferisco partire da un'altra data, è la data da cui io parto è quella caduta del
+
+176
+00:25:18,670 --> 00:25:24,610
+muro di Berlino. Io credo che quello che è successo al muro di Berlino è fondamentale
+
+177
+00:25:24,610 --> 00:25:34,750
+perché da un lato si è innescata la globalizzazione, l'apertura dei mercati, la vittoria se volete
+
+178
+00:25:34,750 --> 00:25:45,810
+del mercato e il mercato è diventato rapidamente globale, dall'altro si è liberata una scorta
+
+179
+00:25:45,810 --> 00:25:51,610
+di innovazioni reali nell'elettronica, nelle telecomunicazioni che prima erano usate a
+
+180
+00:25:51,610 --> 00:26:01,270
+fin bellici e se n'è fatta un uso nella vita di tutti i giorni nel privato che poi
+
+181
+00:26:01,270 --> 00:26:07,650
+ha portato alla rivoluzione delle nuove tecnologie, delle informazioni, delle comunicazioni e
+
+182
+00:26:07,650 --> 00:26:16,930
+alla nuova economia. La nuova economia è quella che ha fatto cambiare a Greenspan radicalmente
+
+183
+00:26:16,930 --> 00:26:23,350
+la sua interpretazione su quello che succedeva nella borsa americana perché fino al 1996
+
+184
+00:26:24,170 --> 00:26:33,010
+Greenspan era convinto che ci fosse una euforia, una irrazionalità nell'andamento dei prezzi
+
+185
+00:26:33,010 --> 00:26:40,630
+di borsa dal 1998 in poi dice no, l'economia americana ha uno shock di produttività straordinario
+
+186
+00:26:40,630 --> 00:26:49,150
+che giustifica le valutazioni verso l'alto della borsa. Questo è un momento storicamente
+
+187
+00:26:49,150 --> 00:26:54,610
+fondamentale per tutta la nostra vita però credo che sia dietro anche a quello che succede
+
+188
+00:26:54,610 --> 00:27:04,350
+adesso. Gli economisti sono tanti di varie natura, sono i microeconomisti, microeconomisti,
+
+189
+00:27:05,890 --> 00:27:16,690
+finanziari, che la crisi fosse anticipabile nel modo in cui si è andata sviluppando forse
+
+190
+00:27:16,690 --> 00:27:27,350
+solo Nouriel Roubini, ci è arrivato per caso e probabilmente con un po' di azzardo, ma
+
+191
+00:27:27,350 --> 00:27:34,350
+nel 2000, che poi ha un nome da magozzurlino, Nouriel, ma è tra l'altro Nouriel, è studiato
+
+192
+00:27:34,350 --> 00:27:39,710
+da Bocconi, parla italiano, è un economista italiano, sì sì lo so ma il suo nome non
+
+193
+00:27:39,710 --> 00:27:45,910
+rende scientificamente credibile quello che dice, non è colpa sua poverino, io lo conosco
+
+194
+00:27:47,670 --> 00:27:57,530
+adesso, comunque il punto fondamentale è che noi adesso abbiamo avuto secondo me il
+
+195
+00:27:57,530 --> 00:28:04,170
+risultato di ciò che nel 2000 già era molto chiaro e nel 2000 era chiaro sulla base di
+
+196
+00:28:04,170 --> 00:28:08,590
+quello che si chiamava lo squilibrio della bilancia dei pagamenti dei Stati Uniti, le
+
+197
+00:28:08,590 --> 00:28:14,850
+global imbalances, gli squilibri globali, di questo gli economisti erano assolutamente
+
+198
+00:28:14,850 --> 00:28:22,150
+consapevoli, hanno cercato disperatamente molti modi di allertare gli uomini pratici,
+
+199
+00:28:22,290 --> 00:28:29,670
+è molto difficile allertare gli uomini pratici, specialmente se hanno poi dietro di loro delle
+
+200
+00:28:29,670 --> 00:28:35,390
+lobbies che chiaramente puntano in una certa direzione e anche se il discorso che si fa
+
+201
+00:28:35,390 --> 00:28:43,590
+loro è un discorso non nero bianco ma grigio, ha varie creazioni di grigio, nel 2000 ci
+
+202
+00:28:43,590 --> 00:28:50,910
+è avuto un interessante tema a Jackson Hole, quel posto dove Marcello Dicecco pensa che
+
+203
+00:28:50,910 --> 00:29:00,910
+avvengono cose turche e in quell'occasione, non turche, da banche centrali, da stregone,
+
+204
+00:29:02,490 --> 00:29:08,210
+e a Jackson Hole vanno i banchieri centrali, i governatori di solito, vanno gli economisti
+
+205
+00:29:08,210 --> 00:29:19,470
+più importanti sul fronte macro internazionale monetario, vanno giornalisti, leaders dei
+
+206
+00:29:19,470 --> 00:29:26,210
+grandi giornali economici e non vanno i capi economisti delle grandi instituzioni internazionali,
+
+207
+00:29:26,330 --> 00:29:33,630
+io andai lì come capo economista dell'Ox e discussi il contributo di Hobsfeld e Rogoff,
+
+208
+00:29:33,630 --> 00:29:39,570
+Hobsfeld e Rogoff analizzarono la bilancia regolamenti americana e dissero qui c'è un
+
+209
+00:29:39,570 --> 00:29:44,810
+problema grosso, gli americani esportano molto meno di quanto importano, non si riesce a
+
+210
+00:29:44,810 --> 00:29:51,860
+rovesciare questo, l'unico modo per rovesciarlo è contabilmente un apprezzamento del dollaro
+
+211
+00:29:55,090 --> 00:30:03,490
+del 30, 40, 80 a seconda delle varie ipotesi che c'erano, se i mercati sono flessibili
+
+212
+00:30:03,490 --> 00:30:07,750
+di meno, se i mercati sono rigidi si crea più inflazione e quindi c'è più difficoltà
+
+213
+00:30:07,750 --> 00:30:13,630
+abbassare. Io discussi quello, mi sembravano dei conti fatti abbastanza bene, erano fatti
+
+214
+00:30:13,630 --> 00:30:20,210
+con un modello nuovo di economia internazionale, io feci vedere che anche un modello vecchio
+
+215
+00:30:20,210 --> 00:30:26,550
+che per gli economisti che sono in sala è quello di Mandela e Fleming empiricamente
+
+216
+00:30:26,550 --> 00:30:32,810
+stimato si otterrevano risultati molto simili, ma il punto fondamentale che mi chiedevo è
+
+217
+00:30:32,810 --> 00:30:40,290
+benissimo, questo è un esercizio fondamentalmente contabile, qui manca l'elemento scatenante,
+
+218
+00:30:40,510 --> 00:30:46,010
+come si fa a correggere la bilancia pagamento americana? Secondo me la bilancia pagamento
+
+219
+00:30:46,010 --> 00:30:51,370
+americana si correggia soltanto alzando il tasto di risparmio delle famiglie americane,
+
+220
+00:30:51,790 --> 00:30:58,810
+ma il punto fondamentale all'epoca era no, per correggerla facciamo deprezzare il dollaro
+
+221
+00:30:58,810 --> 00:31:03,490
+e si risolve tutto, perché deprezzando il dollaro sostanzialmente si esporta di più,
+
+222
+00:31:03,950 --> 00:31:10,610
+si importa di meno perché costa di più importare, si spostano le imprese a produrre per le esportazioni,
+
+223
+00:31:11,490 --> 00:31:14,970
+quindi in qualche modo si mette in moto un meccanismo virtuoso solo di prezzi creativi,
+
+224
+00:31:14,990 --> 00:31:21,050
+in realtà c'è un problema forte di assorbimento, ma il punto importante è che sulla causa,
+
+225
+00:31:21,330 --> 00:31:29,950
+come sarebbe avvenuto, io pensavo forse ci sarà dopo tutta questa euforia nella borsa,
+
+226
+00:31:30,230 --> 00:31:35,630
+un crollo di borsa e c'è stato, e quel crollo di borsa avrebbe portato all'aggiustamento
+
+227
+00:31:35,630 --> 00:31:42,130
+perché avrebbe reso la ricchezza degli americani molto bassa e quindi avrebbe stimolato a risparmiare
+
+228
+00:31:42,130 --> 00:31:49,090
+di più per ricostituirla, oppure ci sarebbe stata una fuga dal dollaro, una fuga dal
+
+229
+00:31:49,090 --> 00:31:54,890
+dollaro perché un'economia americana come quella alla fine non riesce più a rendere
+
+230
+00:31:54,890 --> 00:32:01,350
+quanto promesso dalla nuova economia e chi ha investito lì sarebbe uscito. Tutte e due
+
+231
+00:32:01,350 --> 00:32:08,990
+le mie valutazioni erano sbagliate, era corretto che senza un trigger, senza un elemento scatenante
+
+232
+00:32:08,990 --> 00:32:16,350
+non saremmo riusciti a rientrare da quella global imbalance, ma quello che era sbagliato
+
+233
+00:32:16,350 --> 00:32:24,210
+era il fatto che in effetti caduta la borsa si è creata un'altra bolla e su questo la
+
+234
+00:32:24,210 --> 00:32:30,690
+responsabilità dell'accesso di liquidità, un continuo di accesso di liquidità, cominciato
+
+235
+00:32:30,690 --> 00:32:39,730
+nel 1987, seguito con la crisi asiatica, con la soluzione del problema del hedge fund LTCM,
+
+236
+00:32:39,950 --> 00:32:45,690
+con l'year 2000, non so se vi ricordate, tutti erano spaventatissimi per creere il 2000,
+
+237
+00:32:45,690 --> 00:32:53,150
+io mi ricordo Ferguson venne a Loxley e ci raccontò come sarebbe stato il mondo quando
+
+238
+00:32:53,150 --> 00:32:58,210
+tutti i programmi sarebbero fermati perché nei programmi erano scritti 1900 e non c'erano
+
+239
+00:32:58,210 --> 00:33:06,610
+il 2000 e così via. Dopodiché la crisi del 2000 e dello stock market, le torri gemelle,
+
+240
+00:33:08,050 --> 00:33:14,270
+qual è la politica monetaria? Sempre di evitare la recessione con la politica monetaria perché
+
+241
+00:33:14,270 --> 00:33:19,450
+in America la politica monetaria non va soltanto a stabilizzare le condizioni monetarie ma
+
+242
+00:33:19,450 --> 00:33:27,790
+va a ridare la recessione. Questa paura della recessione ha prodotto molta liquidità, ma
+
+243
+00:33:27,790 --> 00:33:36,030
+che cosa è che ha lasciato gli equilibri così come erano? Due cose, la prima ovviamente
+
+244
+00:33:36,030 --> 00:33:42,150
+il fatto che con l'innovazione, l'innovazione finanziaria, questa straordinaria capacità
+
+245
+00:33:42,150 --> 00:33:48,290
+degli americani di consumare ben più delle loro possibilità indebitandosi e che è molto
+
+246
+00:33:48,290 --> 00:33:57,050
+bene chiarita in questo testo, si è affermata con forza e lì effettivamente l'abbiamo
+
+247
+00:33:57,050 --> 00:34:06,070
+vista adesso con i mutui, con l'uso del real estate della casa come collaterale non soltanto
+
+248
+00:34:06,070 --> 00:34:11,810
+a garanzia dell'acquisto della casa ma addirittura per avere altri presti e fare altri acquisti.
+
+249
+00:34:11,810 --> 00:34:17,770
+La seconda è che in quel momento entra per la globalizzazione, come dicevo per l'avvertura
+
+250
+00:34:17,770 --> 00:34:26,070
+dei mercati, un altro agente e entra la Cina e ci sono molte interpretazioni, l'interpretazione
+
+251
+00:34:26,070 --> 00:34:30,930
+di Greenspan è che non è colpa sua, è colpa dei cinesi che risparmiavano troppo poco,
+
+252
+00:34:31,130 --> 00:34:36,570
+è troppo, mentre gli americani risparmiavano troppo poco, io credo che, e questa varie
+
+253
+00:34:36,570 --> 00:34:41,150
+economisti anche la condividono, credo che Olivier Blanchard la pensi così, io non la
+
+254
+00:34:41,150 --> 00:34:46,270
+penso così perché l'ho vissuta in diretta e secondo me il reale, il razionale, quello
+
+255
+00:34:46,270 --> 00:34:50,930
+che viene prima spiega quello che viene dopo, le aspettative razionali in questo caso non
+
+256
+00:34:50,930 --> 00:35:01,330
+si applicano. Si è molto difficile e quindi cronologicamente è venuta prima la caduta
+
+257
+00:35:01,330 --> 00:35:07,430
+della condizione risparmia americana e poi la domanda quindi rivolta soddisfatta dai
+
+258
+00:35:07,430 --> 00:35:14,530
+paesi emergenti, l'accumulo di surplus nelle bilanze dei pagamenti di questi paesi, l'investimento
+
+259
+00:35:14,530 --> 00:35:21,110
+dei surplus sotto forma di riserve soprattutto sui mercati finanziari americani, l'abbassamento
+
+260
+00:35:21,110 --> 00:35:25,190
+delle tasse di interesse a lungo termine con l'abbassamento delle tasse di interesse a
+
+261
+00:35:25,190 --> 00:35:29,970
+lungo termine, l'abbassamento dei rendimenti per gli intermediari finanziari, la ricerca
+
+262
+00:35:29,970 --> 00:35:36,190
+di rendimenti più alti necessariamente collegati a rischi più alti e di questo c'era consapevolezza,
+
+263
+00:35:36,190 --> 00:35:42,770
+potrei veggervi un passo delle considerazioni finali del governatore Fazio del 2002-2003
+
+264
+00:35:42,770 --> 00:35:52,010
+credo, io non è che c'ero, in cui raccontava esattamente i rischi di questo tipo e il problema
+
+265
+00:35:52,010 --> 00:35:59,070
+era che non si riusciva a mettere d'accordo a livello di cooperazione internazionale i
+
+266
+00:35:59,070 --> 00:36:04,350
+vari agenti per correggere questo tipo di squilibri, i squilibri sono nati crescendo
+
+267
+00:36:04,350 --> 00:36:13,570
+nel tempo, non si sono letti necessariamente nelle posizioni nette sull'estero dei diversi
+
+268
+00:36:13,570 --> 00:36:18,990
+paesi, è vero che la posizione dei cinesi è andata crescendo come credito, ma quella
+
+269
+00:36:18,990 --> 00:36:23,190
+fondamentale era quella dei giapponesi che rimaneva e che erano preceduti i cinesi in
+
+270
+00:36:23,190 --> 00:36:29,310
+questa loro azione di intermediazione reale, quella americana veniva corretta di volta
+
+271
+00:36:29,310 --> 00:36:34,470
+in volta perché essendo una voluta di riserva loro potevano ogni tanto deprezzarla e ogni
+
+272
+00:36:34,470 --> 00:36:40,350
+volta che la deprezzavano abbassavano sostanzialmente le loro passività e si riduceva lo squilibrio
+
+273
+00:36:40,350 --> 00:36:50,790
+sul piano della posizione netta, ma l'accumulata dei disavanzi era sempre più alta, io credo
+
+274
+00:36:50,790 --> 00:36:56,310
+questa cosa vada a profondità di più perché credo che nella parte prospettiva sia molto
+
+275
+00:36:56,310 --> 00:37:02,350
+importante la questione di come rivedere il sistema monetario internazionale, Bretton
+
+276
+00:37:02,350 --> 00:37:07,570
+Woods fu introdotto per questi fini, io credo che abbiano ragione in coloro che parlano
+
+277
+00:37:07,570 --> 00:37:14,970
+a noi a Bretton Woods, è molto difficile immaginarla però è chiaro che senza una soluzione di
+
+278
+00:37:14,970 --> 00:37:23,970
+medio termine in cui il dollaro in qualche modo vada gradualmente nella direzione che
+
+279
+00:37:23,970 --> 00:37:31,050
+già nel 2000 si pensava e in cui però ci sia una stabilità di fondo per questi movimenti
+
+280
+00:37:31,050 --> 00:37:38,550
+debba essere immaginata. Pochi altri punti su questo libro, il libro
+
+281
+00:37:38,550 --> 00:37:44,350
+dice ovviamente il triggering però l'elemento scatenante è stato di natura finanziaria,
+
+282
+00:37:44,810 --> 00:37:51,450
+di natura finanziaria si sono create delle istituzioni troppo grandi per fallire o troppo
+
+283
+00:37:51,450 --> 00:37:58,110
+interconnesse per fallire e quindi lo Stato interviene per salvarle quelle di cui parlava
+
+284
+00:37:58,110 --> 00:38:03,870
+Marcello prima, è molto interessante osservare che anche di questo c'era consapevolezza,
+
+285
+00:38:04,010 --> 00:38:11,230
+nel 1997 ci fu un grande convegno per esempio organizzato da Sarcinelli alla BNL esattamente
+
+286
+00:38:11,230 --> 00:38:21,030
+su questo tema e ci fu in quell'anno dopo la crisi asiatica un lavoro del gruppo del
+
+287
+00:38:21,030 --> 00:38:24,790
+30 di adesso ma ci fu un lavoro del gruppo del 30 anche di allora curato soprattutto
+
+288
+00:38:24,790 --> 00:38:32,510
+da Hyman che veniva credo da Mary Lynch nel quale si diceva beh non sono troppo grandi
+
+289
+00:38:32,510 --> 00:38:38,470
+né troppo interconnesse, sono troppo complesse queste grandi istituzioni perché possano
+
+290
+00:38:38,470 --> 00:38:44,370
+essere vigilate dalle autorità di vigilanza, devono essere vigilate da loro stessi, bisogna
+
+291
+00:38:44,370 --> 00:38:50,010
+che si costruiscano all'interno dei sistemi di supervisione molto più sofisticati. Io
+
+292
+00:38:50,010 --> 00:38:56,410
+ero il discussante anche di questa cosa e a me sembrava un po' strapagante ma devo
+
+293
+00:38:56,410 --> 00:39:04,710
+dire che era molto difficile argomentare sulla base della maggiore informazione del vigilante,
+
+294
+00:39:05,110 --> 00:39:12,010
+quello che forse bisognava dire e io infatti argomentai su una necessità di usare un metodo
+
+295
+00:39:12,010 --> 00:39:18,030
+di confronto tra pari di più trasparenza a cose di questo genere forse in realtà
+
+296
+00:39:18,030 --> 00:39:25,930
+bisognava dire erano regole diverse, storicamente voi sapete che ci sono stati momenti nella
+
+297
+00:39:25,930 --> 00:39:31,490
+storia in cui imprese sempre più grandi, sempre più complesse sono diventate troppo
+
+298
+00:39:31,490 --> 00:39:36,330
+potenti e sono state a questo punto per legge gli Stati Uniti hanno inventato l'antitrust
+
+299
+00:39:36,330 --> 00:39:48,010
+divise e la ITT è stata l'ultima ma c'è un libretto carino che per sicurezza non
+
+300
+00:39:48,030 --> 00:39:55,570
+marcello conosce che si chiama the death of the banker e riguarda the decline and fall
+
+301
+00:39:55,570 --> 00:40:01,750
+of the great financial dynasties and the triumph of the small investor questo avvenne negli
+
+302
+00:40:01,750 --> 00:40:11,670
+anni 20-30 con la crisi degli anni 30 si ridusse la dimensione e il grande potere di mercato
+
+303
+00:40:11,670 --> 00:40:19,050
+di questi grandi banchieri forse questa too big and too interconnected to fail è qualcosa
+
+304
+00:40:19,050 --> 00:40:27,010
+che deve farci riflettere se anche in questo caso queste grandi superstiti che non sono
+
+305
+00:40:27,010 --> 00:40:32,310
+più banche di investimento solo perché tutte le banche di investimento sono ormai diventate
+
+306
+00:40:32,310 --> 00:40:39,130
+parte o partner di banche commerciali quelle banche universali di cui parlava Giuliano
+
+307
+00:40:39,130 --> 00:40:44,990
+amato prima quello che bisogna chiedersi è se a un certo punto nel futuro noi non
+
+308
+00:40:44,990 --> 00:40:54,370
+rivedremo proprio da parte dell'autorità di regolamentazione e di regolazione della concorrenza
+
+309
+00:40:54,370 --> 00:41:00,050
+americana in uno spacchettamento. Secondo punto ruolo delle nazionalizzazioni
+
+310
+00:41:00,050 --> 00:41:08,170
+sono molto spaventati Barucci e Messori perché dicono il rischio è che per risolvere le
+
+311
+00:41:08,170 --> 00:41:16,910
+questioni attuali si ricorra a un elemento alla bomba atomica la bomba atomica la nazionalizzazione
+
+312
+00:41:16,910 --> 00:41:23,770
+è il ritorno al passato peggiore in cui poi c'è il conflitto c'è di interessi c'è
+
+313
+00:41:23,770 --> 00:41:33,110
+la politica e così via è vero che c'è una retorica della transizione questa è una fase
+
+314
+00:41:33,110 --> 00:41:39,690
+transitoria però chi lo sa non si può mai dire noi abbiamo un po' di paura non lo so
+
+315
+00:41:39,690 --> 00:41:45,750
+questo è un qualcosa interessante io lo vedo un po' come quando dovesse avvenire un passaggio
+
+316
+00:41:45,750 --> 00:41:51,950
+intermedio di purificazione dal mercato allo stato per poi ritorno al mercato l'esperienza
+
+317
+00:41:51,950 --> 00:41:59,970
+svedese è positiva degli anni 90 inizi anni 90 ovviamente è molto modesta la Svezia come
+
+318
+00:41:59,970 --> 00:42:07,110
+dimensione rispetto a quello che si sta vedendo adesso per esempio in Regno Unito ma ricorderei
+
+319
+00:42:07,110 --> 00:42:15,550
+anche il Giappone e ricorderei la Corea io ho vissuto la Corea nel 98 99 la Corea a un
+
+320
+00:42:15,550 --> 00:42:22,210
+certo punto ha nazionalizzato un intero sistema e poi lo ha riprivatizzato e coloro che pensavano
+
+321
+00:42:22,210 --> 00:42:29,390
+che la caduta del reddito del 98 del meno 15% e più avrebbe dato il colpo di grazia
+
+322
+00:42:29,390 --> 00:42:34,150
+la Corea si sono sovrennemente sbagliati perché la Corea è riuscita a riuscirne fuori
+
+323
+00:42:34,150 --> 00:42:40,890
+quindi anche qui forse c'è qualcosa da dire sono d'accordo quando dicono che il mercato
+
+324
+00:42:40,890 --> 00:42:46,470
+non va visto come un meccanismo statico è in effetti il mercato un organismo vivente
+
+325
+00:42:46,470 --> 00:42:52,570
+di cui occorre prendersi cura continuamente perché chiaramente si può ammalare è un
+
+326
+00:42:52,570 --> 00:42:57,450
+mercato che richiede la concorrenza ma richiede anche le regole richiede la protezione dei
+
+327
+00:42:57,450 --> 00:43:03,750
+deboli in ogni caso loro dicono attenzione i limiti di vari processi di liberalizzazione
+
+328
+00:43:03,750 --> 00:43:10,070
+in campo finanziario e le difficoltà regolamentari non significano che bisogna a questo punto
+
+329
+00:43:11,230 --> 00:43:17,630
+imporre una regolamentazione direttiva e dire a ogni intermediario quanto credito deve fare
+
+330
+00:43:17,630 --> 00:43:25,870
+a chi la pianificazione del credito è un problema grosso ma non implica soprattutto
+
+331
+00:43:26,550 --> 00:43:40,450
+che la nostra organizzazione socio economico politica debba rinunciare a promuovere la concorrenza
+
+332
+00:43:40,450 --> 00:43:47,030
+in quei settori che non sono i settori dell'intermediazione finanziaria la concorrenza nella manifatturiero
+
+333
+00:43:47,610 --> 00:43:54,570
+nei servizi volta a erodere le rendite e a garantire libero accesso loro dicono alle
+
+334
+00:43:54,570 --> 00:44:00,550
+crediti dei servizi nazionali e locali ma la nostra economia è fondata sull'intermediazione
+
+335
+00:44:00,550 --> 00:44:05,530
+creditizia cioè è l'intermediazione del risparmio, la trasformazione del risparmio,
+
+336
+00:44:05,570 --> 00:44:11,790
+un investimento è la base della nostra crescita e del nostro sviluppo quello che bisogna chiedersi
+
+337
+00:44:11,790 --> 00:44:23,230
+è se il credito è un bene pubblico o se la banca, l'intermediario è una impresa di
+
+338
+00:44:23,230 --> 00:44:29,990
+valere quindi come impresa di pubblica e utilità bisogna fare attenzione a come viene occorrono
+
+339
+00:44:29,990 --> 00:44:37,630
+le autorità che garantiscano che quello che fa ha degli effetti positivi sul piano
+
+340
+00:44:37,630 --> 00:44:44,730
+del benessere sui coloro che interagiscono con questa impresa sia dal lato dei risparmiatori
+
+341
+00:44:45,190 --> 00:44:53,210
+depositanti sia dal lato delle imprese che questo credito usano e questo è un problema
+
+342
+00:44:53,230 --> 00:45:00,250
+questo credo il senso della frase del governatore quando diceva è essenziale che le condizioni
+
+343
+00:45:00,250 --> 00:45:05,730
+di credito a livello locale non sconfinino in un ruolo di pressione sulle banche che
+
+344
+00:45:05,730 --> 00:45:09,390
+spinga ad allentare rispetto di criteri di sana e prudente gestione della selezione
+
+345
+00:45:09,390 --> 00:45:16,810
+alcantela e continua quindi attenzione a guidare le banche per via amministrativa.
+
+346
+00:45:16,810 --> 00:45:24,670
+Il ruolo dello Stato comunque è finisco, come assicuratore di ultima estanza è la cosa
+
+347
+00:45:24,670 --> 00:45:29,250
+più interessante perché il problema grosso è che noi abbiamo due tipi di rischi, abbiamo
+
+348
+00:45:29,250 --> 00:45:35,290
+un rischio assicurabile e abbiamo un rischio che non può essere assicurato, loro fanno
+
+349
+00:45:35,290 --> 00:45:40,670
+riferimento a una cosa che ho scritto io, pensate al rischio di longevità, noi tutti
+
+350
+00:45:40,670 --> 00:45:46,790
+adesso ci possiamo assicurare perché siamo tutti venuti dalla stessa età e uno per l'altro
+
+351
+00:45:47,790 --> 00:45:54,170
+chi se ne va prima e chi se ne va dopo possiamo partecipare e in qualche modo avere una buona
+
+352
+00:45:54,170 --> 00:46:00,510
+assicurazione per il futuro, ma se tutti noi improvvisamente viviamo 10 anni di più
+
+353
+00:46:00,510 --> 00:46:05,250
+chi ci paga? Questo rischio è un rischio fondamentale sul quale il ruolo dello Stato
+
+354
+00:46:05,250 --> 00:46:13,790
+è importantissimo e io credo che questo manca in questa fase e manca soprattutto l'equilibrio
+
+355
+00:46:13,790 --> 00:46:18,950
+nell'uso della matematica finanziaria, io credo che lì veramente c'è stato un errore
+
+356
+00:46:18,950 --> 00:46:24,410
+di fondo, credo che gli economisti debbano fare mea culpa, credo che il rischio non sia
+
+357
+00:46:24,410 --> 00:46:31,430
+sempre un rischio sulla base del quale costruire i modelli, molte volte il mark to market non
+
+358
+00:46:31,430 --> 00:46:36,370
+era possibile perché non c'era il market, ma anche il mark to model era impossibile
+
+359
+00:46:36,370 --> 00:46:44,850
+perché il modello presupponeva un mondo reale che non era quello e era come alcuni hanno
+
+360
+00:46:44,850 --> 00:46:51,470
+detto un mark to dream, occorrono delle convenzioni in generale ritornando ancora al Keynes,
+
+361
+00:46:51,510 --> 00:46:56,530
+questo è il Keynes secondo me più interessante e il Keynes che ha fondato la convenzione
+
+362
+00:46:57,160 --> 00:47:01,950
+più importante è quella di Bretton Woods, macro per il sistema monetario internazionale
+
+363
+00:47:01,950 --> 00:47:11,890
+ma anche le convenzioni servono ad avere dei valori long to value del 100% e più che consentono
+
+364
+00:47:11,890 --> 00:47:19,990
+di avere dei buffer di capitale o dei limiti al debitamento o dei, si chiamano dynamic
+
+365
+00:47:19,990 --> 00:47:25,610
+provisioning, accumulazione di riserve nei tempi buoni, più o meno ad hoc ma in ogni
+
+366
+00:47:25,610 --> 00:47:33,050
+caso che diano un po' di stabilità. Finisco con l'osservazione che voi dite che il coordinamento
+
+367
+00:47:33,050 --> 00:47:39,490
+internazionale è flebile e Marcello dice addirittura questi sbagliano tutto, può essere,
+
+368
+00:47:39,970 --> 00:47:45,370
+in realtà io credo che molto di più di quanto non si percepisca si sta facendo una serie
+
+369
+00:47:45,830 --> 00:47:54,030
+internazionali, siano esse l'Europa, il G20, il financial stability forum, è molto difficile,
+
+370
+00:47:54,030 --> 00:48:02,090
+c'è un'espressione americana che dice che è molto facile fare l'armchair quarterbacking,
+
+371
+00:48:02,150 --> 00:48:06,530
+nel senso che siamo tutti allenatori della nazionale di calcio però poi ci mandiamo
+
+372
+00:48:06,530 --> 00:48:13,890
+un altro là dentro e quindi credo che è molto difficile esprimere devoluzioni sull'efficacia
+
+373
+00:48:13,890 --> 00:48:17,590
+adesso di questo coordinamento, credo che ci sia, credo però che abbiano anche ragione
+
+374
+00:48:17,590 --> 00:48:23,570
+a dire che sia necessario individuare delle autorità sopranazionali per esempio in Europa
+
+375
+00:48:23,570 --> 00:48:28,690
+per la regolamentazione dei mercati finanziari e dei gruppi transfrontalieri, per ora abbiamo
+
+376
+00:48:28,690 --> 00:48:39,750
+poco, per ora abbiamo solo il rapporto della Rosiera. La regolamentazione dei mercati finanziari
+
+377
+00:48:39,750 --> 00:48:43,650
+e dei gruppi transfrontalieri, per ora abbiamo poco, per ora abbiamo solo il rapporto della
+
+378
+00:48:43,650 --> 00:48:58,530
+Rosiera. Va bene, grazie, sì insomma chissà quante cose accadono che non percepiamo,
+
+379
+00:48:59,030 --> 00:49:07,450
+però per riprendere un punto chiave della tua analisi e cioè il disavanzo americano,
+
+380
+00:49:07,450 --> 00:49:15,370
+il disavanzo americano è stato sempre visto come un qualcosa di sostenibile da parte del
+
+381
+00:49:15,370 --> 00:49:22,610
+paese che ha il signoraggio della moneta, è diventato alla lunga insostenibile come
+
+382
+00:49:22,610 --> 00:49:30,790
+debito privato, grazie proprio a questo congegno che ha aumentato la capacità d'acquisto della
+
+383
+00:49:30,790 --> 00:49:38,570
+famiglia americana non aumentando il reddito guadagnato ma aumentando i debiti. Allora
+
+384
+00:49:38,570 --> 00:49:46,830
+qui sorgono due problemi, uno di coordinamento perché quando il fondo monetario è arrivato
+
+385
+00:49:46,830 --> 00:49:53,910
+a percepire come rischio quello finanziario negli ultimi anni e ha inventato il financial
+
+386
+00:49:53,910 --> 00:50:00,770
+risk assessment non lo ha applicato agli Stati Uniti che erano il paese col disavanzo
+
+387
+00:50:00,770 --> 00:50:08,950
+più grosso, ha continuato a ritenere su suggerimento non dei juristi che fosse comunque sostenibile
+
+388
+00:50:08,950 --> 00:50:13,550
+per ragioni che attenevano all'efficienza finanziaria degli Stati Uniti, questo è il
+
+389
+00:50:13,550 --> 00:50:19,190
+primo punto. Il secondo punto è che è chiaro, questo hai ragione, che la cura di una cosa
+
+390
+00:50:19,190 --> 00:50:25,830
+del genere non è solo valutaria anche se un maggior coordinamento valutario è un'esigenza
+
+391
+00:50:25,830 --> 00:50:37,770
+che scaturisce dalla vicenda del nostro tempo perché io sarò un semplicione ma se fossi
+
+392
+00:50:37,770 --> 00:50:44,910
+una famiglia americana che deve spendere centinaia di dollari al mese per l'assistenza sanitaria
+
+393
+00:50:45,670 --> 00:50:54,050
+e altrettanti per mandare i figli alla scuola media in molte circostanze e non avrei altro
+
+394
+00:50:54,050 --> 00:51:02,990
+che il debito per finanziare i miei consumi correnti, a quel punto io ho bisogno di addirittura
+
+395
+00:51:02,990 --> 00:51:11,250
+riforme social interne a un paese del genere per poter evitare lo squilibrio, altro che
+
+396
+00:51:11,250 --> 00:51:18,510
+il coordinamento valutario, cioè il coordinamento valutario a un certo punto si ferma, se mi
+
+397
+00:51:18,510 --> 00:51:26,730
+svalutate il dollaro, benissimo, io esporterò di più, però te che sei a lavorare nella
+
+398
+00:51:26,730 --> 00:51:32,750
+mia azienda continuerai a pagare dollari svalutati per di più per mandare a scuola
+
+399
+00:51:32,750 --> 00:51:37,990
+tuo figlio e per assicurarti l'assistenza sanitaria. Quindi qua ho una risposta perché
+
+400
+00:51:37,990 --> 00:51:48,490
+io purtroppo devo andarmene perché ho alle 19 il Grimm al Grete Institute, quindi mi
+
+401
+00:51:48,490 --> 00:51:53,330
+sento che l'assistenza passa al più anziano in ruolo che è Marcello De Cecco, il quale
+
+402
+00:51:53,330 --> 00:51:59,930
+quindi potrà poi concludere bistrattando tutti. Di quello che ha detto Zandra mi viene
+
+403
+00:51:59,930 --> 00:52:10,650
+da dire che ha proprio riprodotto l'atmosfera meglio che io avevo cercato di evocarvi con
+
+404
+00:52:10,650 --> 00:52:16,430
+la storia del pifferaio, perché in pratica ha detto nulla funzionava più come prima,
+
+405
+00:52:16,890 --> 00:52:27,190
+tutto ha cominciato a funzionare in modi sconosciuti, il mondo si era talmente dilatato che in questo
+
+406
+00:52:27,190 --> 00:52:41,910
+mondo dilatato nulla... e allora siamo andati tutti così, tutti siamo andati senza regole
+
+407
+00:52:41,910 --> 00:52:47,150
+appresso a qualcuno che ci aveva detto che col calcolatore si calcolava che il rischio
+
+408
+00:52:47,150 --> 00:52:57,770
+non c'era e appresso a Griezmann che ci diceva che l'aumento della produttività avrebbe
+
+409
+00:52:57,770 --> 00:53:05,950
+comunque coperto. Quindi non mi è chiaro chi è stato quello che davvero ha detto al
+
+410
+00:53:05,950 --> 00:53:13,150
+momento che era nudo. Io mi sbaglierò, Zandra ha cercato di dire gli economisti lo hanno
+
+411
+00:53:13,150 --> 00:53:22,030
+detto, il re era il politico, poi c'era un po' coi giuristi, ma insomma a questo ciascuno
+
+412
+00:53:22,030 --> 00:53:32,690
+c'è la domanda che c'è in questo mondo incantato nel quale noi abbiamo vissuto sotto
+
+413
+00:53:32,690 --> 00:53:47,390
+l'incantamento, io non lo vedo quello che si era messo sufficientemente fuori da creare
+
+414
+00:53:47,390 --> 00:53:55,670
+lo shock prima che arrivasse in forma di crisi, questa è la mia sensazione. Cosa vuole?
+
+415
+00:53:55,770 --> 00:54:02,470
+Noi ministri del Tesoro ci ritroviamo lì in una stanza, arriva Griezmann, ci fa questa
+
+416
+00:54:02,470 --> 00:54:07,790
+meravigliosa cantata, ciascuno ha la storia vissuta in base alla propria esperienza,
+
+417
+00:54:08,650 --> 00:54:15,610
+nessuno di noi aveva neanche la competenza tecnica per contrastare Griezmann e dire
+
+418
+00:54:15,610 --> 00:54:21,850
+eh là là, ma insomma è davvero così, l'unico che l'aveva forse in quel giro in cui ero
+
+419
+00:54:21,850 --> 00:54:27,230
+io era Larry Summers, ma era in quel momento d'accordo con Griezmann.
+
+420
+00:54:33,430 --> 00:54:43,570
+Si, la pensava uguale, tutti la pensavano così e quindi i regolatori si sono tenuti
+
+421
+00:54:43,570 --> 00:54:52,830
+fuori, uno dei miei bersagli preferiti oggi è la SEC, la quale ha sostenuto con altri
+
+422
+00:54:52,830 --> 00:55:02,370
+che la complessità tecnica di queste operazioni finanziarie era tale che c'era asimmetria
+
+423
+00:55:02,370 --> 00:55:08,170
+informativa tra il regolatore e il regolato e quindi il regolatore era bene che stesse
+
+424
+00:55:08,170 --> 00:55:14,290
+fuori perché non aveva lo stesso livello di informazioni, voi capite che quando poi
+
+425
+00:55:14,290 --> 00:55:21,310
+ci si accorge, questo è troppo, che tra i regolati c'era Madoff, è chiaro che la sua
+
+426
+00:55:21,310 --> 00:55:27,830
+complessità non era al di là della capacità intellettiva del regolatore.
+
+427
+00:55:34,650 --> 00:55:40,950
+Allora, io mi scuso veramente soprattutto con voi che vi vorrei sentire ma mi sono intrappolato
+
+428
+00:55:40,950 --> 00:55:49,330
+in un eccesso di cose, quindi devo andare via, scusatemi, Marcello mi raccomando, concludi
+
+429
+00:55:54,010 --> 00:55:54,650
+di...
+
+430
+00:55:54,650 --> 00:56:00,610
+Bene, l'ultimissima parola, pure da in piedi te la prendi.
+
