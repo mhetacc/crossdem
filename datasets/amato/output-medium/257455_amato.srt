@@ -1,0 +1,1940 @@
+1
+00:00:00,000 --> 00:00:01,800
+l'informazione e in questo caso
+
+2
+00:00:01,800 --> 00:00:03,680
+un tema di concorrenza lo
+
+3
+00:00:03,680 --> 00:00:07,040
+scambio di informazione ancora
+
+4
+00:00:07,040 --> 00:00:08,960
+abbiamo poi anche soprattutto in
+
+5
+00:00:08,960 --> 00:00:11,080
+qualche maniera la vicenda alla
+
+6
+00:00:11,080 --> 00:00:12,480
+quale si richiama il titolo di
+
+7
+00:00:12,480 --> 00:00:13,900
+questo volume, cioè quella del
+
+8
+00:00:13,900 --> 00:00:15,420
+cartello a perdere, una vicenda
+
+9
+00:00:15,420 --> 00:00:17,560
+che in Italia ha portato a una
+
+10
+00:00:17,560 --> 00:00:19,260
+multa di una certa rilevanza da
+
+11
+00:00:19,260 --> 00:00:21,240
+parte e dell'autorità antitrass
+
+12
+00:00:21,240 --> 00:00:24,420
+che vedeva opposte eh due
+
+13
+00:00:24,420 --> 00:00:26,760
+figure maiuscola importanti come
+
+14
+00:00:26,760 --> 00:00:28,420
+il capo del cartello tra
+
+15
+00:00:28,420 --> 00:00:30,920
+virgolette Alfonso Desiata da una
+
+16
+00:00:30,920 --> 00:00:32,280
+parte e dall'altra il presidente
+
+17
+00:00:32,280 --> 00:00:34,400
+di allora dell'antitrust Giuseppe
+
+18
+00:00:34,400 --> 00:00:37,000
+Tesauro ed è una questione che
+
+19
+00:00:37,000 --> 00:00:39,000
+credo possa servirci anche un po'
+
+20
+00:00:39,500 --> 00:00:40,940
+come eh filorosso come
+
+21
+00:00:40,940 --> 00:00:42,360
+indicazione per entrare
+
+22
+00:00:42,360 --> 00:00:44,680
+all'interno dei singoli temi
+
+23
+00:00:44,680 --> 00:00:47,940
+perché il lato eh più curioso e
+
+24
+00:00:47,940 --> 00:00:49,280
+che soprattutto uno dei saggi
+
+25
+00:00:49,280 --> 00:00:51,700
+contenuti in questo volume cerca
+
+26
+00:00:51,700 --> 00:00:53,940
+di enfatizzare è appunto il
+
+27
+00:00:53,940 --> 00:00:56,900
+cartello a perdere eh quindi
+
+28
+00:00:56,900 --> 00:00:58,260
+bisogna chiedersi in qualche
+
+29
+00:00:58,260 --> 00:01:01,080
+maniera eh in che mesura c'era
+
+30
+00:01:01,080 --> 00:01:03,140
+effettivamente questa contestata
+
+31
+00:01:03,140 --> 00:01:04,980
+intesa sui prezzi in una
+
+32
+00:01:04,980 --> 00:01:06,320
+situazione nelle quale le
+
+33
+00:01:06,320 --> 00:01:08,440
+imprese che erano supposte avere
+
+34
+00:01:08,440 --> 00:01:09,960
+un'intesa sui prezzi accusavano
+
+35
+00:01:10,680 --> 00:01:11,940
+persistenti e strutturali
+
+36
+00:01:13,340 --> 00:01:15,700
+perdite io non voglio portare via
+
+37
+00:01:15,700 --> 00:01:17,700
+eh un minuto di più e
+
+38
+00:01:17,700 --> 00:01:18,840
+ringraziando ancora il
+
+39
+00:01:18,840 --> 00:01:19,900
+professor Amato Franco del
+
+40
+00:01:19,900 --> 00:01:21,160
+Benedetti che ringraziamo anche
+
+41
+00:01:21,160 --> 00:01:22,340
+per la prefazione al volume
+
+42
+00:01:22,340 --> 00:01:23,400
+Carlo Lottieri, il professor
+
+43
+00:01:23,400 --> 00:01:25,540
+Pardolesi e Antonio Pilati vado
+
+44
+00:01:25,540 --> 00:01:27,020
+immediatamente a cedergli il
+
+45
+00:01:27,020 --> 00:01:28,960
+microfono e la parola.
+
+46
+00:01:32,280 --> 00:01:35,180
+No no non sapevo se sì sì no no
+
+47
+00:01:35,180 --> 00:01:36,900
+io accetto l'ordine alfabetica
+
+48
+00:01:36,900 --> 00:01:38,200
+presenta per me in dubbi
+
+49
+00:01:38,800 --> 00:01:41,040
+vantaggi ma non sapevo se c'era
+
+50
+00:01:41,040 --> 00:01:42,720
+una regia che dava la parola
+
+51
+00:01:42,720 --> 00:01:47,060
+a Franco e e eh dunque e il
+
+52
+00:01:47,060 --> 00:01:50,020
+titolo del libro è bello il
+
+53
+00:01:50,020 --> 00:01:52,880
+libro sostiene una causa a mio
+
+54
+00:01:52,880 --> 00:01:55,620
+avviso sostenibile la sostiene
+
+55
+00:01:55,620 --> 00:01:57,400
+come un estremismo che la rende
+
+56
+00:01:57,400 --> 00:02:01,560
+inaccettabile e e quindi io
+
+57
+00:02:01,560 --> 00:02:04,000
+eh finisco per dissentire più
+
+58
+00:02:04,000 --> 00:02:08,000
+di quanto acconsenta e e spiego
+
+59
+00:02:08,000 --> 00:02:12,960
+perché? Ritenendo che eh la
+
+60
+00:02:12,960 --> 00:02:15,220
+conclusione che parte da
+
+61
+00:02:15,220 --> 00:02:15,940
+un po' di motivazioni
+
+62
+00:02:15,940 --> 00:02:17,880
+fattuali finisca per diventare
+
+63
+00:02:17,880 --> 00:02:21,880
+più ideologica che è pragmatica.
+
+64
+00:02:22,320 --> 00:02:25,580
+Mi spiego il titolo è bello ma
+
+65
+00:02:25,580 --> 00:02:28,820
+di per sé non non dice nulla. È
+
+66
+00:02:28,820 --> 00:02:31,340
+ben possibile ed è accaduto che
+
+67
+00:02:31,340 --> 00:02:33,120
+imprese che si trovano in
+
+68
+00:02:33,120 --> 00:02:35,800
+difficoltà facciano un cartello
+
+69
+00:02:35,800 --> 00:02:38,440
+per sottrarsi ad una situazione
+
+70
+00:02:38,440 --> 00:02:41,940
+di perdita quindi può accadere
+
+71
+00:02:41,940 --> 00:02:44,520
+che fotografando una situazione
+
+72
+00:02:44,520 --> 00:02:46,620
+in un momento dato si
+
+73
+00:02:46,620 --> 00:02:48,480
+registrino insieme
+
+74
+00:02:48,480 --> 00:02:50,540
+comportamenti collusivi
+
+75
+00:02:50,540 --> 00:02:53,200
+intenzionalmente adottati e
+
+76
+00:02:53,200 --> 00:02:55,840
+perdite ovviamente nessuno
+
+77
+00:02:56,120 --> 00:02:58,440
+gestisce imprese e nessuno fa
+
+78
+00:02:58,440 --> 00:03:00,860
+cartelli allo scopo di perdere
+
+79
+00:03:00,860 --> 00:03:03,660
+ma che si ritrovi un cartello
+
+80
+00:03:03,660 --> 00:03:06,500
+in una situazione in cui vi sono
+
+81
+00:03:06,500 --> 00:03:07,500
+iniziati a trovare le perdite
+
+82
+00:03:07,500 --> 00:03:09,300
+è una situazione da chiarire
+
+83
+00:03:09,300 --> 00:03:11,060
+non è una situazione già
+
+84
+00:03:11,060 --> 00:03:13,880
+chiarita. Questo è la mia prima
+
+85
+00:03:13,880 --> 00:03:16,120
+osservazione. La mia seconda
+
+86
+00:03:16,120 --> 00:03:20,340
+osservazione è che nel caso che
+
+87
+00:03:20,340 --> 00:03:22,600
+ha dato in qualche modo
+
+88
+00:03:22,600 --> 00:03:25,240
+l'occasione a questo libro
+
+89
+00:03:25,240 --> 00:03:32,940
+l'autorità italiana ha eh
+
+90
+00:03:32,940 --> 00:03:33,860
+l'autorità italiana che era
+
+91
+00:03:33,860 --> 00:03:37,440
+obiettabile allora ed è sempre
+
+92
+00:03:37,440 --> 00:03:40,660
+più obiettato oggi. Il
+
+93
+00:03:40,660 --> 00:03:44,220
+principio del che ha che porta
+
+94
+00:03:44,220 --> 00:03:47,500
+a considerare quello che
+
+95
+00:03:47,500 --> 00:03:50,220
+tecnicamente è un fattore
+
+96
+00:03:50,220 --> 00:03:53,160
+facilitante lo scambio di
+
+97
+00:03:53,160 --> 00:03:55,800
+informazioni come una violazione
+
+98
+00:03:55,800 --> 00:03:56,200
+dell'autorità antitruste per
+
+99
+00:03:56,200 --> 00:04:00,260
+sé. Cioè come una sorta di
+
+100
+00:04:00,260 --> 00:04:03,440
+presunzione iuri set de jure
+
+101
+00:04:03,440 --> 00:04:06,320
+della esistenza di un cartello
+
+102
+00:04:06,320 --> 00:04:08,740
+in ragione di uno scambio di
+
+103
+00:04:08,740 --> 00:04:13,360
+informazioni. Ora su questo
+
+104
+00:04:13,360 --> 00:04:15,800
+punto si può lavorare. Mi
+
+105
+00:04:15,800 --> 00:04:18,200
+permetto di dire che per il
+
+106
+00:04:18,200 --> 00:04:19,780
+solfatto che un'autorità
+
+107
+00:04:19,780 --> 00:04:21,760
+antitrusta ha adottato una
+
+108
+00:04:21,760 --> 00:04:23,280
+decisione di questo genere
+
+109
+00:04:23,280 --> 00:04:26,960
+arrivare a eh scrivere con
+
+110
+00:04:26,960 --> 00:04:29,860
+crescente e indignato entusiasmo
+
+111
+00:04:29,860 --> 00:04:31,480
+che è meglio liberarsi
+
+112
+00:04:31,480 --> 00:04:34,260
+dell'antitrust che è peggio
+
+113
+00:04:34,260 --> 00:04:36,360
+della pianificazione sovietica
+
+114
+00:04:36,360 --> 00:04:39,040
+o che gli equivale significa
+
+115
+00:04:39,040 --> 00:04:42,240
+essere un po' usciti insomma una
+
+116
+00:04:42,240 --> 00:04:44,320
+di quelle cose che Giannelli
+
+117
+00:04:44,320 --> 00:04:46,360
+scolpisce imputandole al sole
+
+118
+00:04:46,360 --> 00:04:46,960
+perché non so se posso
+
+119
+00:04:46,960 --> 00:04:50,840
+permettermi ecco eh è troppo
+
+120
+00:04:50,840 --> 00:04:52,880
+questo e non ritengo
+
+121
+00:04:52,880 --> 00:04:55,560
+parlando di libri mi permetto
+
+122
+00:04:55,560 --> 00:04:57,460
+una libertà che in politica non
+
+123
+00:04:57,460 --> 00:04:59,580
+mi sono mai permesso perché lì
+
+124
+00:04:59,580 --> 00:05:01,240
+ci sono sensibilità che poi
+
+125
+00:05:01,240 --> 00:05:02,880
+reagiscono prescindendo dai
+
+126
+00:05:02,880 --> 00:05:05,580
+fatti ma nei libri io ho sempre
+
+127
+00:05:05,580 --> 00:05:07,860
+accettato su di me critiche di
+
+128
+00:05:07,860 --> 00:05:09,600
+questo genere e critiche di
+
+129
+00:05:09,600 --> 00:05:14,360
+questo genere faccio sui libri
+
+130
+00:05:14,360 --> 00:05:16,040
+perché è una citazione che
+
+131
+00:05:16,040 --> 00:05:17,800
+sorreggia una conclusione del
+
+132
+00:05:17,800 --> 00:05:21,400
+genere perché Bork fu ma fu ed è
+
+133
+00:05:21,400 --> 00:05:23,500
+rimasto maestro
+
+134
+00:05:23,500 --> 00:05:26,820
+particolarmente severo di un
+
+135
+00:05:26,820 --> 00:05:29,760
+antitrust pieno di presunzioni
+
+136
+00:05:29,760 --> 00:05:33,360
+di un antitrust fondato su
+
+137
+00:05:33,360 --> 00:05:37,720
+regolette che eh lui ed altri di
+
+138
+00:05:37,720 --> 00:05:39,380
+l'antitrust di Chicago misero
+
+139
+00:05:39,380 --> 00:05:42,440
+giustamente in dubbio già negli
+
+140
+00:05:42,440 --> 00:05:45,000
+anni sessanta ma non ha mai
+
+141
+00:05:45,000 --> 00:05:47,740
+messo in dubbio la utilità
+
+142
+00:05:47,740 --> 00:05:50,060
+come tale dell'antitrust in
+
+143
+00:05:50,060 --> 00:05:53,100
+particolare e tutto il
+
+144
+00:05:53,100 --> 00:05:56,280
+contributo imputabile a lui e ai
+
+145
+00:05:56,280 --> 00:05:58,460
+suoi colleghi che hanno lavorato
+
+146
+00:05:58,460 --> 00:06:01,180
+con lui e sulla base delle sue
+
+147
+00:06:01,180 --> 00:06:03,420
+posizioni e posizioni ha
+
+148
+00:06:03,420 --> 00:06:05,540
+portato a smontare
+
+149
+00:06:05,540 --> 00:06:09,020
+larghissimamente tutte le
+
+150
+00:06:09,020 --> 00:06:12,120
+presunzioni o de o o o
+
+151
+00:06:13,700 --> 00:06:17,700
+relative alle violazioni
+
+152
+00:06:17,700 --> 00:06:20,040
+attribuite a integrazioni
+
+153
+00:06:20,040 --> 00:06:23,840
+verticali eh mh accordi
+
+154
+00:06:26,440 --> 00:06:30,200
+non ha mai avuto dubbi anzi se
+
+155
+00:06:30,200 --> 00:06:33,000
+si dovesse trarre una sintesi è
+
+156
+00:06:33,000 --> 00:06:35,120
+che se c'è un terreno sul quale
+
+157
+00:06:35,120 --> 00:06:37,880
+Bork dice l'antitrust serve e fa
+
+158
+00:06:37,880 --> 00:06:40,280
+bene ad indagare è quello sul
+
+159
+00:06:40,280 --> 00:06:41,500
+quale si trovano le
+
+160
+00:06:41,500 --> 00:06:44,840
+assicurazioni diciamo che o
+
+161
+00:06:44,840 --> 00:06:47,460
+competono fra di loro o se hanno
+
+162
+00:06:47,460 --> 00:06:50,100
+la cattiva idea di eh adottare
+
+163
+00:06:50,100 --> 00:06:51,620
+comportamenti collusivi
+
+164
+00:06:51,620 --> 00:06:52,900
+riadottano in chiave
+
+165
+00:06:52,900 --> 00:06:53,720
+perché non è necessariamente
+
+166
+00:06:53,720 --> 00:06:55,940
+orizzontale perché eh
+
+167
+00:06:55,940 --> 00:06:58,280
+trattasi di produttori del
+
+168
+00:06:58,280 --> 00:07:00,400
+medesimo prodotto del medesimo
+
+169
+00:07:00,400 --> 00:07:03,800
+servizio quindi dirino non si
+
+170
+00:07:03,800 --> 00:07:06,940
+scappa qual è la la questione
+
+171
+00:07:06,940 --> 00:07:09,280
+appunto sulla quale io avrei
+
+172
+00:07:09,280 --> 00:07:13,040
+portato eh eh eh la la
+
+173
+00:07:13,040 --> 00:07:15,080
+discussione sulla quale è utile
+
+174
+00:07:15,080 --> 00:07:17,000
+portarla e sulla quale siamo
+
+175
+00:07:17,000 --> 00:07:19,880
+oggi perché è il tema in realtà
+
+176
+00:07:19,880 --> 00:07:23,200
+del nostro tempo appunto quello
+
+177
+00:07:23,200 --> 00:07:27,780
+che ha grazie anche a Chicago ma
+
+178
+00:07:27,780 --> 00:07:31,360
+non solo ha progressivamente
+
+179
+00:07:32,000 --> 00:07:35,300
+rinunciato ai semplicismi delle
+
+180
+00:07:35,300 --> 00:07:38,080
+violazioni per sé ed è
+
+181
+00:07:38,700 --> 00:07:40,920
+progressivamente passato quasi
+
+182
+00:07:41,600 --> 00:07:43,080
+interamente alla rule of
+
+183
+00:07:43,080 --> 00:07:43,260
+law. La rule of law
+
+184
+00:07:43,260 --> 00:07:46,540
+basata sul eh cosiddetto
+
+185
+00:07:46,540 --> 00:07:49,440
+effect based approach devi
+
+186
+00:07:49,440 --> 00:07:53,420
+regolarmente dimostrare che si è
+
+187
+00:07:53,420 --> 00:07:56,580
+prodotto un effetto negativo e
+
+188
+00:07:56,580 --> 00:07:59,620
+qui eh ovviamente è una
+
+189
+00:07:59,620 --> 00:08:02,840
+splendida sfida perché dobbiamo
+
+190
+00:08:02,840 --> 00:08:04,660
+usare per farlo l'analisi
+
+191
+00:08:04,660 --> 00:08:06,900
+economica e i test che ci
+
+192
+00:08:06,900 --> 00:08:09,620
+offrono gli economisti non sono
+
+193
+00:08:09,620 --> 00:08:16,260
+affatto eh eh testati per darci
+
+194
+00:08:16,260 --> 00:08:20,080
+ragionevole garanzie di eh una
+
+195
+00:08:20,080 --> 00:08:23,180
+eh effettiva rispondenza alla
+
+196
+00:08:23,180 --> 00:08:26,420
+realtà dell'effetto che con i
+
+197
+00:08:26,420 --> 00:08:28,320
+loro metodi si riesce a
+
+198
+00:08:28,320 --> 00:08:30,940
+identificare e quindi siamo
+
+199
+00:08:30,940 --> 00:08:33,200
+pochettino oggi in quest'ampas
+
+200
+00:08:33,200 --> 00:08:34,800
+che non vogliamo più usare le
+
+201
+00:08:34,800 --> 00:08:36,760
+effettive risunzioni ma abbiamo
+
+202
+00:08:36,760 --> 00:08:38,820
+spesso delle difficoltà con
+
+203
+00:08:38,820 --> 00:08:40,520
+l'effett based approccio a
+
+204
+00:08:40,520 --> 00:08:43,460
+misurare qual è l'effetto. Ma eh
+
+205
+00:08:43,460 --> 00:08:46,740
+siamo su questo filone. Ora
+
+206
+00:08:46,740 --> 00:08:48,860
+torno al punto di partenza e
+
+207
+00:08:48,860 --> 00:08:52,160
+poi chiudo rapidamente. Ma io ho
+
+208
+00:08:52,160 --> 00:08:54,480
+sempre pensato che lo scambio
+
+209
+00:08:54,480 --> 00:08:57,020
+di informazioni valga sempre
+
+210
+00:08:57,020 --> 00:08:59,500
+come eh facilitating factor.
+
+211
+00:08:59,500 --> 00:09:01,820
+Non non non ho mai pensato che
+
+212
+00:09:01,820 --> 00:09:04,360
+dovesse valere per sé. Può
+
+213
+00:09:04,360 --> 00:09:06,000
+esserlo? Cioè non è che lo
+
+214
+00:09:06,000 --> 00:09:08,360
+scambio di informazioni e non è
+
+215
+00:09:08,360 --> 00:09:10,440
+che l'adozione di standard
+
+216
+00:09:10,440 --> 00:09:13,380
+creino di per sé una presunzione
+
+217
+00:09:13,380 --> 00:09:15,440
+opposta. Lo scambio di
+
+218
+00:09:15,440 --> 00:09:16,960
+informazioni non è mai
+
+219
+00:09:16,960 --> 00:09:18,900
+espressione di collusione.
+
+220
+00:09:19,420 --> 00:09:21,960
+L'adozione di standard è per
+
+221
+00:09:21,960 --> 00:09:24,440
+definizione una cosa che non
+
+222
+00:09:24,440 --> 00:09:26,680
+comporta affatto la possibilità
+
+223
+00:09:26,680 --> 00:09:28,520
+di concertazioni e collusioni.
+
+224
+00:09:28,680 --> 00:09:30,700
+Non è così. Se si vuole
+
+225
+00:09:30,700 --> 00:09:32,840
+sostenere questo si sostiene
+
+226
+00:09:32,840 --> 00:09:35,120
+una posizione di parte che non
+
+227
+00:09:35,120 --> 00:09:36,700
+è scientificamente e
+
+228
+00:09:36,700 --> 00:09:39,000
+razionalmente sostenibile. Se
+
+229
+00:09:39,000 --> 00:09:41,100
+effett based approach ha da
+
+230
+00:09:41,100 --> 00:09:43,240
+essere non ci può essere la
+
+231
+00:09:43,240 --> 00:09:45,000
+presunzione negativa ma non ci
+
+232
+00:09:45,000 --> 00:09:46,300
+può essere neanche la
+
+233
+00:09:46,300 --> 00:09:48,560
+presunzione positiva. Lo scambio
+
+234
+00:09:48,560 --> 00:09:51,060
+di informazioni ha in un
+
+235
+00:09:51,060 --> 00:09:53,760
+mercato fortemente oligopolistico
+
+236
+00:09:53,760 --> 00:09:56,200
+quando arriva ad un livello di
+
+237
+00:09:56,200 --> 00:09:58,840
+disaggregazione da identificare
+
+238
+00:10:00,240 --> 00:10:01,980
+preventivamente la quantità
+
+239
+00:10:02,340 --> 00:10:04,860
+delle vendite e di prezzi di
+
+240
+00:10:04,860 --> 00:10:07,840
+vendita da parte dei concorrenti
+
+241
+00:10:07,840 --> 00:10:12,780
+e e e non può che comportare e
+
+242
+00:10:12,780 --> 00:10:14,920
+e e degli effetti collusivi in
+
+243
+00:10:14,920 --> 00:10:17,380
+realtà. Qui siamo ai limiti del
+
+244
+00:10:17,380 --> 00:10:18,840
+per sé ma non per una
+
+245
+00:10:18,840 --> 00:10:21,680
+presunzione ma perché il fatto
+
+246
+00:10:21,680 --> 00:10:21,960
+è che la presunzione
+
+247
+00:10:21,960 --> 00:10:25,080
+produce naturalmente quella
+
+248
+00:10:25,080 --> 00:10:26,920
+conseguenza. Insomma c'è un caso
+
+249
+00:10:26,920 --> 00:10:31,540
+famoso UK del millenovecentonovantadue
+
+250
+00:10:31,540 --> 00:10:33,580
+in cui questa vicenda era
+
+251
+00:10:33,580 --> 00:10:35,080
+indiscutibile tanto
+
+252
+00:10:35,080 --> 00:10:37,000
+indiscutibile che i piccoli
+
+253
+00:10:37,000 --> 00:10:38,580
+venivano costretti ad
+
+254
+00:10:38,580 --> 00:10:41,200
+aggregarsi per evitare che loro
+
+255
+00:10:41,200 --> 00:10:42,900
+sottraessero le loro poche
+
+256
+00:10:42,900 --> 00:10:45,380
+vendite alla previa conoscenza
+
+257
+00:10:45,380 --> 00:10:48,400
+di tutti. Insomma questo ce ne
+
+258
+00:10:48,400 --> 00:10:49,820
+dobbiamo rendere conto.
+
+259
+00:10:49,980 --> 00:10:52,000
+L'imprenditore non ama la
+
+260
+00:10:52,000 --> 00:10:54,900
+concorrenza. Dice di amarla ma
+
+261
+00:10:54,900 --> 00:10:56,680
+non la ama e ha ragione a non
+
+262
+00:10:56,680 --> 00:10:58,760
+amarla. Perché ha ha ragione
+
+263
+00:10:58,760 --> 00:11:00,680
+come tutti gli esseri umani a
+
+264
+00:11:00,680 --> 00:11:03,120
+cercare certezze e a tenere
+
+265
+00:11:03,120 --> 00:11:05,060
+comportamenti che lo sottraggano
+
+266
+00:11:05,060 --> 00:11:07,720
+a rischio. Ma vi sono dei
+
+267
+00:11:08,400 --> 00:11:09,760
+comportamenti che è più che
+
+268
+00:11:09,760 --> 00:11:11,760
+lecito che adotti per sottrarsi
+
+269
+00:11:11,760 --> 00:11:13,780
+al rischio dei comportamenti in
+
+270
+00:11:13,780 --> 00:11:15,880
+cui le certezze che si dà
+
+271
+00:11:15,880 --> 00:11:18,020
+fanno venir meno quella cosa
+
+272
+00:11:18,020 --> 00:11:20,020
+che si chiama rischio di mercato
+
+273
+00:11:20,360 --> 00:11:22,360
+che è l'unica ragione per la
+
+274
+00:11:22,360 --> 00:11:24,220
+quale preferiamo il mercato
+
+275
+00:11:24,220 --> 00:11:25,960
+all'Unione Sovietica dal punto
+
+276
+00:11:25,960 --> 00:11:28,020
+di vista economico. Non
+
+277
+00:11:28,020 --> 00:11:29,980
+dimentichiamocelo questo che
+
+278
+00:11:29,980 --> 00:11:33,080
+se pretendiamo dal mercato le
+
+279
+00:11:33,080 --> 00:11:35,280
+stesse certezze che avevano
+
+280
+00:11:35,280 --> 00:11:37,240
+quelli del Gosplan allora
+
+281
+00:11:37,240 --> 00:11:39,100
+spiegatemi perché io devo
+
+282
+00:11:39,100 --> 00:11:41,080
+preferire il mercato al Gosplan.
+
+283
+00:11:41,140 --> 00:11:42,900
+Vado sullo stesso terreno
+
+284
+00:11:42,900 --> 00:11:45,140
+ideologico su cui ogni tanto va
+
+285
+00:11:45,140 --> 00:11:47,720
+il libro per dimostrare quanto
+
+286
+00:11:47,720 --> 00:11:49,720
+sia sgradevole il terreno
+
+287
+00:11:49,720 --> 00:11:51,200
+ideologico e come tutti
+
+288
+00:11:51,200 --> 00:11:53,360
+diventiamo opinabili quando
+
+289
+00:11:53,360 --> 00:11:57,900
+andiamo lì. Perciò
+
+290
+00:11:57,900 --> 00:11:59,260
+nel caso
+
+291
+00:12:01,620 --> 00:12:04,320
+delle assicurazioni italiane
+
+292
+00:12:04,320 --> 00:12:06,220
+il vero punto
+
+293
+00:12:06,220 --> 00:12:07,920
+sul quale la posizione
+
+294
+00:12:07,920 --> 00:12:09,930
+dell'antitrust veniva contestato
+
+295
+00:12:10,420 --> 00:12:11,880
+era quello ma è un mercato
+
+296
+00:12:12,620 --> 00:12:14,080
+legopolistico? Quante
+
+297
+00:12:14,080 --> 00:12:15,920
+sono queste compagnie?
+
+298
+00:12:16,580 --> 00:12:17,960
+Questo è il tema
+
+299
+00:12:17,960 --> 00:12:19,740
+da discutere poi la conclusione
+
+300
+00:12:19,740 --> 00:12:21,700
+può essere l'una o l'altra ma
+
+301
+00:12:21,700 --> 00:12:24,140
+c'è stata da parte dell'antitrust
+
+302
+00:12:24,140 --> 00:12:26,040
+un'adeguata discussione sulla
+
+303
+00:12:26,040 --> 00:12:27,840
+effettiva o era un caso
+
+304
+00:12:27,840 --> 00:12:29,780
+simile per l'appunto a UK
+
+305
+00:12:29,780 --> 00:12:31,900
+Tractor dove c'erano una
+
+306
+00:12:31,900 --> 00:12:33,760
+pluralità di operatori ma
+
+307
+00:12:33,760 --> 00:12:35,880
+diversi erano necessariamente
+
+308
+00:12:36,540 --> 00:12:38,260
+diciamo subalterni
+
+309
+00:12:38,260 --> 00:12:40,050
+questa è probabilmente la
+
+310
+00:12:40,050 --> 00:12:41,510
+conclusione che aveva
+
+311
+00:12:41,510 --> 00:12:43,950
+l'antitrust del caso. Ecco
+
+312
+00:12:43,950 --> 00:12:45,990
+in ogni caso e questa è la mia
+
+313
+00:12:45,990 --> 00:12:48,050
+conclusione io credo che tutti
+
+314
+00:12:48,050 --> 00:12:50,130
+diamo un contributo
+
+315
+00:12:50,130 --> 00:12:52,330
+utile a
+
+316
+00:12:52,330 --> 00:12:54,200
+rafforzare e
+
+317
+00:12:55,270 --> 00:12:55,470
+e dire
+
+318
+00:12:55,470 --> 00:12:58,050
+la concorrenza come
+
+319
+00:12:58,590 --> 00:13:00,120
+regno dei comportamenti
+
+320
+00:13:00,790 --> 00:13:02,070
+non assoggettati
+
+321
+00:13:02,070 --> 00:13:04,070
+a regole arbitrarie
+
+322
+00:13:04,070 --> 00:13:06,170
+tutti contribuiamo
+
+323
+00:13:06,170 --> 00:13:07,930
+a evitare
+
+324
+00:13:07,930 --> 00:13:10,190
+che le autorità antitrust
+
+325
+00:13:10,190 --> 00:13:12,350
+si lasciino andare
+
+326
+00:13:12,350 --> 00:13:14,430
+a comportamenti intrusivi
+
+327
+00:13:14,430 --> 00:13:15,870
+è giusto e questo
+
+328
+00:13:15,870 --> 00:13:18,290
+fa bene il libro a segnalare
+
+329
+00:13:18,290 --> 00:13:20,250
+il rischio che l'antitrust
+
+330
+00:13:20,250 --> 00:13:22,270
+diventi una autorità
+
+331
+00:13:22,550 --> 00:13:23,670
+intrusiva
+
+332
+00:13:23,670 --> 00:13:26,410
+vi sono dei terreni sui quali
+
+333
+00:13:26,410 --> 00:13:27,990
+lo sta diventando
+
+334
+00:13:27,990 --> 00:13:30,450
+ma non è questo il momento
+
+335
+00:13:30,450 --> 00:13:32,030
+per parlarne
+
+336
+00:13:32,030 --> 00:13:34,270
+poi quando faremo il botto lo facciamo
+
+337
+00:13:34,270 --> 00:13:35,670
+tutto insieme
+
+338
+00:13:35,670 --> 00:13:39,130
+vi sono dei terreni sui quali
+
+339
+00:13:39,130 --> 00:13:41,650
+lo sta diventando ma
+
+340
+00:13:41,650 --> 00:13:43,370
+rispetto a questo
+
+341
+00:13:43,370 --> 00:13:44,890
+va spinta
+
+342
+00:13:44,890 --> 00:13:47,610
+ad abbandonare il per sé
+
+343
+00:13:47,610 --> 00:13:49,170
+la nostra
+
+344
+00:13:49,170 --> 00:13:50,870
+autorità arriva
+
+345
+00:13:50,870 --> 00:13:53,290
+in qualche modo terza perché
+
+346
+00:13:53,290 --> 00:13:55,150
+prima di sicuro arrivano
+
+347
+00:13:55,150 --> 00:13:56,990
+le autorità americane con
+
+348
+00:13:56,990 --> 00:13:58,770
+l'analisi economica
+
+349
+00:13:58,770 --> 00:14:01,550
+i primi a mettere in discussione
+
+350
+00:14:01,550 --> 00:14:03,510
+addirittura il price fixing
+
+351
+00:14:03,510 --> 00:14:05,070
+come violazione per sé
+
+352
+00:14:05,070 --> 00:14:06,790
+sono stati gli americani
+
+353
+00:14:06,790 --> 00:14:08,870
+l'hanno fatto sul prezzo massimo
+
+354
+00:14:09,510 --> 00:14:11,670
+con queste cose
+
+355
+00:14:11,670 --> 00:14:13,490
+bisogna confrontarsi
+
+356
+00:14:19,210 --> 00:14:21,010
+ma quello lì ha ammazzato
+
+357
+00:14:23,270 --> 00:14:25,710
+vale la pena di tenere in piedi
+
+358
+00:14:25,710 --> 00:14:26,970
+una struttura
+
+359
+00:14:26,970 --> 00:14:29,350
+questa è la domanda, poi potersi che la risposta sia
+
+360
+00:14:29,350 --> 00:14:30,990
+positiva, sto dicendo
+
+361
+00:14:30,990 --> 00:14:33,330
+le sfide
+
+362
+00:14:33,330 --> 00:14:34,470
+che vada
+
+363
+00:14:34,470 --> 00:14:35,930
+se noi crediamo
+
+364
+00:14:35,930 --> 00:14:37,970
+come tu hai detto di credere
+
+365
+00:14:37,970 --> 00:14:40,730
+quando questa affermazione è stata qui fatta
+
+366
+00:14:40,730 --> 00:14:43,060
+che se non ci sono barriere all'ingresso
+
+367
+00:14:44,170 --> 00:14:45,190
+e queste barriere
+
+368
+00:14:45,190 --> 00:14:47,060
+all'ingresso le pone sostanzialmente
+
+369
+00:14:47,870 --> 00:14:49,250
+i poteri pubblici
+
+370
+00:14:49,250 --> 00:14:51,030
+poi potersi che quando
+
+371
+00:14:51,030 --> 00:14:52,410
+siano molto forti
+
+372
+00:14:52,410 --> 00:14:55,010
+potersi che se c'è un potere molto
+
+373
+00:14:55,010 --> 00:14:56,930
+forte, dominante, una banca
+
+374
+00:14:56,930 --> 00:14:58,430
+molto potente
+
+375
+00:14:58,430 --> 00:15:00,050
+questa poi riesca ad influire
+
+376
+00:15:00,050 --> 00:15:02,410
+di questo bisogna ragionare
+
+377
+00:15:02,410 --> 00:15:04,610
+riesce a influire sui poteri pubblici
+
+378
+00:15:04,610 --> 00:15:06,410
+magari anche addirittura
+
+379
+00:15:06,410 --> 00:15:08,370
+sui, a livello
+
+380
+00:15:08,370 --> 00:15:10,770
+locale, sulle autorità locali
+
+381
+00:15:10,770 --> 00:15:12,950
+per impedire l'ingresso
+
+382
+00:15:12,950 --> 00:15:14,630
+l'acquisizione di sportelli
+
+383
+00:15:14,630 --> 00:15:16,510
+da parte di altri e così via
+
+384
+00:15:17,370 --> 00:15:18,170
+possiamo
+
+385
+00:15:18,170 --> 00:15:20,410
+ragionare sul ruolo dell'antitrust
+
+386
+00:15:20,410 --> 00:15:22,730
+nel contenere problemi
+
+387
+00:15:22,730 --> 00:15:24,370
+economici, la mia personale
+
+388
+00:15:24,370 --> 00:15:25,730
+convinzione è
+
+389
+00:15:25,730 --> 00:15:28,210
+questo non è la legge, non è l'economia
+
+390
+00:15:28,210 --> 00:15:29,630
+questa è la democrazia
+
+391
+00:15:56,710 --> 00:15:59,470
+due minuti, una battuta
+
+392
+00:15:59,470 --> 00:16:00,670
+no, perché se
+
+393
+00:16:00,670 --> 00:16:03,450
+se di replico diventa lunga voglio dire
+
+394
+00:16:03,450 --> 00:16:05,070
+no, perché
+
+395
+00:16:06,850 --> 00:16:07,650
+eh
+
+396
+00:16:07,650 --> 00:16:10,070
+ne hai detto troppe
+
+397
+00:16:10,310 --> 00:16:11,790
+perché si possa replicare
+
+398
+00:16:11,790 --> 00:16:13,690
+perché invece qua ci sono
+
+399
+00:16:13,690 --> 00:16:15,830
+italiani che ancora sono
+
+400
+00:16:15,830 --> 00:16:18,170
+perseguitati dall'immagine
+
+401
+00:16:18,170 --> 00:16:19,870
+di loro che risulta
+
+402
+00:16:19,870 --> 00:16:21,610
+da un giudizio penale
+
+403
+00:16:21,610 --> 00:16:23,730
+ingiusto che hanno subito
+
+404
+00:16:23,730 --> 00:16:24,330
+e
+
+405
+00:16:25,490 --> 00:16:28,230
+meritano la stessa solidarietà
+
+406
+00:16:28,230 --> 00:16:30,160
+che meriti tu anche se
+
+407
+00:16:30,330 --> 00:16:32,230
+l'efficacia
+
+408
+00:16:32,230 --> 00:16:33,990
+del giudizio ingiusto
+
+409
+00:16:33,990 --> 00:16:36,210
+nei confronti di una associazione
+
+410
+00:16:36,210 --> 00:16:37,970
+di assicurazioni finisce per
+
+411
+00:16:37,970 --> 00:16:39,670
+essere multipla rispetto a quella
+
+412
+00:16:39,670 --> 00:16:42,470
+di quel poveretto. Ma che facciamo?
+
+413
+00:16:43,610 --> 00:16:44,150
+Scriviamo
+
+414
+00:16:44,150 --> 00:16:46,140
+un libro per abolire la giustizia
+
+415
+00:16:47,130 --> 00:16:48,890
+nel primo caso
+
+416
+00:16:48,890 --> 00:16:50,050
+cioè tu
+
+417
+00:16:50,050 --> 00:16:51,510
+insomma tu sei
+
+418
+00:16:51,510 --> 00:16:52,750
+e vedo e punto
+
+419
+00:16:52,750 --> 00:16:55,970
+eh tu sei partito
+
+420
+00:16:55,970 --> 00:16:57,710
+proprio con l'esasperazione
+
+421
+00:16:58,650 --> 00:17:00,230
+per l'accusa
+
+422
+00:17:00,230 --> 00:17:01,430
+di collusione
+
+423
+00:17:01,430 --> 00:17:03,430
+che continua a pesarti
+
+424
+00:17:03,430 --> 00:17:05,370
+in ragione di una decisione
+
+425
+00:17:05,370 --> 00:17:07,770
+dell'antitrust cassata dal giudice
+
+426
+00:17:07,770 --> 00:17:09,870
+amministrativo in qualche modo
+
+427
+00:17:09,870 --> 00:17:11,510
+allora eh
+
+428
+00:17:12,070 --> 00:17:13,710
+io sono in difficoltà
+
+429
+00:17:13,710 --> 00:17:15,550
+a reagire perché capisco
+
+430
+00:17:15,550 --> 00:17:17,190
+che eh tu sei
+
+431
+00:17:17,190 --> 00:17:19,270
+giustamente turbato e qui
+
+432
+00:17:19,270 --> 00:17:20,630
+io io io sono
+
+433
+00:17:21,270 --> 00:17:22,350
+ingiustamente privo di
+
+434
+00:17:22,350 --> 00:17:24,630
+turbative e quindi è
+
+435
+00:17:24,630 --> 00:17:27,150
+uneven il il il
+
+436
+00:17:27,150 --> 00:17:29,030
+il discorso fra di noi e
+
+437
+00:17:29,030 --> 00:17:30,830
+e nei termini così
+
+438
+00:17:30,830 --> 00:17:32,830
+diciamo non turbati
+
+439
+00:17:32,830 --> 00:17:34,770
+e con i con i quali io
+
+440
+00:17:34,770 --> 00:17:36,950
+penso la cosa io
+
+441
+00:17:36,950 --> 00:17:38,810
+continuo a pensare
+
+442
+00:17:38,810 --> 00:17:41,750
+che il mercato
+
+443
+00:17:41,750 --> 00:17:43,630
+crei delle nicchie
+
+444
+00:17:43,630 --> 00:17:45,510
+per poteri privati
+
+445
+00:17:45,510 --> 00:17:47,270
+che sono negatori
+
+446
+00:17:47,270 --> 00:17:48,430
+della libertà
+
+447
+00:17:48,430 --> 00:17:51,130
+voluta da Hayek eh
+
+448
+00:17:51,130 --> 00:17:52,570
+non meno di altri
+
+449
+00:17:52,570 --> 00:17:54,530
+poteri abusivi e
+
+450
+00:17:54,530 --> 00:17:56,430
+mi dispiace che un uomo
+
+451
+00:17:56,430 --> 00:17:58,090
+per il quale ho una enorme
+
+452
+00:17:58,090 --> 00:18:00,170
+stima come Hayek possa
+
+453
+00:18:00,170 --> 00:18:02,330
+servire da scudo non
+
+454
+00:18:02,330 --> 00:18:04,390
+della libertà ma del potere
+
+455
+00:18:04,390 --> 00:18:06,470
+abusivo non ritengo
+
+456
+00:18:06,470 --> 00:18:08,610
+che abusivo sia soltanto
+
+457
+00:18:08,610 --> 00:18:10,550
+il potere pubblico quando
+
+458
+00:18:10,550 --> 00:18:12,170
+eccede dai suoi limiti
+
+459
+00:18:12,170 --> 00:18:14,490
+può esserlo anche il privato
+
+460
+00:18:14,490 --> 00:18:16,090
+quindi capisci io ti rispondo
+
+461
+00:18:16,090 --> 00:18:17,710
+con questi grandi assiomi
+
+462
+00:18:17,710 --> 00:18:20,090
+insomma se è così io devo
+
+463
+00:18:20,090 --> 00:18:22,610
+evitare nel combatterlo
+
+464
+00:18:22,610 --> 00:18:24,230
+di dare spazi
+
+465
+00:18:24,230 --> 00:18:26,270
+a loro volta abusivi al
+
+466
+00:18:26,270 --> 00:18:28,150
+potere pubblico e
+
+467
+00:18:28,150 --> 00:18:29,630
+quindi ho un problema
+
+468
+00:18:30,490 --> 00:18:32,170
+delicatissimo di equilibrio
+
+469
+00:18:32,170 --> 00:18:33,550
+che ogni volta va
+
+470
+00:18:34,130 --> 00:18:35,610
+verificato ogni volta va
+
+471
+00:18:36,410 --> 00:18:37,950
+raffrontato e che viene
+
+472
+00:18:37,950 --> 00:18:39,990
+nel tempo migliorando
+
+473
+00:18:39,990 --> 00:18:41,910
+sia pure con tutte le
+
+474
+00:18:41,910 --> 00:18:43,650
+difficoltà eh
+
+475
+00:18:43,650 --> 00:18:46,110
+delle quali parlavamo prima
+
+476
+00:18:46,110 --> 00:18:47,930
+eh i
+
+477
+00:18:47,930 --> 00:18:49,810
+l'ignency programs
+
+478
+00:18:49,810 --> 00:18:52,270
+stanno lì a dimostrare
+
+479
+00:18:52,270 --> 00:18:54,110
+che eh i cartelli
+
+480
+00:18:54,110 --> 00:18:56,150
+esistono vengono
+
+481
+00:18:56,530 --> 00:18:58,630
+combinati per fregare
+
+482
+00:18:58,630 --> 00:19:00,070
+il consumatore e
+
+483
+00:19:00,070 --> 00:19:02,190
+i concorrenti in
+
+484
+00:19:02,190 --> 00:19:03,830
+riunioni fugaci
+
+485
+00:19:03,830 --> 00:19:04,010
+nella
+
