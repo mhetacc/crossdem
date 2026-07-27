@@ -18,7 +18,7 @@ for pol, df in politicians_dfs.items():
     vals = df["mtld"].dropna().tolist()
     data[pol] = {
         "mtld": vals,
-        "color": POL_COLORS[pol],
+        "color": POL_INFO[pol]["color"],
     }
 
 with OUT_PATH.open("w", encoding="utf-8") as f:
