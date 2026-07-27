@@ -5931,3 +5931,5 @@ amato  2026-07-27 12:05:48.190304  https://www.radioradicale.it/scheda/507832/la
 amato  2026-07-27 12:05:48.626980  https://www.radioradicale.it/scheda/293546/serata-europea-dove-va-leuropa-1989-2009-tra-illusione-e-scetticismo?i=640992  TypeError: string indices must be integers, not 'str'
 amato  2026-07-27 12:05:50.305663  https://www.radioradicale.it/scheda/232554/dibattito-dal-titolo-vivere-sicuri-una-priorita-per-il-governo-e-per-il-centrosinistra?i=1128795  TypeError: string indices must be integers, not 'str'
 amato  2026-07-27 12:05:51.927898  https://www.radioradicale.it/scheda/240682/lezioni-sulleuropa?i=1082853  TypeError: string indices must be integers, not 'str'
+amato  2026-07-27 13:47:13.734466  https://www.radioradicale.it/scheda/159102/le-prospettive-delleconomia-non-ce-sviluppo-senza-europa-58a-assemblea-generale?i=1371111  TypeError: string indices must be integers, not 'str'
+amato  2026-07-27 13:56:36.319687  https://www.radioradicale.it/scheda/158590/leuropa-che-vogliamo-dal-sogno-al-progetto-organizzato-dalla-lista-uniti-nellulivo?i=1376277  TypeError: string indices must be integers, not 'str'
