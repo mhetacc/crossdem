@@ -5949,3 +5949,4 @@ amato  2026-07-28 10:14:19.888187  https://www.radioradicale.it/scheda/159102/le
 amato  2026-07-28 10:14:22.094210  https://www.radioradicale.it/scheda/158590/leuropa-che-vogliamo-dal-sogno-al-progetto-organizzato-dalla-lista-uniti-nellulivo?i=1376277  TypeError: string indices must be integers, not 'str'
 amato  2026-07-28 10:14:24.196172  https://www.radioradicale.it/scheda/141695/lucia-annunziata-intervista-giuliano-amato-nellambito-della-festa-nazionale-de-lunita?i=1537608  TypeError: string indices must be integers, not 'str'
 amato  2026-07-28 11:41:23.373027  https://www.radioradicale.it/scheda/139585/il-fututo-della-sinistra-organizzato-dai-democratici-di-sinistra-nellambito-della?i=1557184  TypeError: string indices must be integers, not 'str'
+amato  2026-07-28 12:58:05.525067  https://www.radioradicale.it/scheda/140760/lallargamento-ad-est-dellunione-europea-sfide-ed-opportunita-per-litalia-presentazione?i=1545736  RuntimeError: yt-dlp exited 1
