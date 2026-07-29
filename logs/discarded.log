@@ -5967,3 +5967,4 @@ amato  2026-07-29 10:25:34.479165  https://www.radioradicale.it/scheda/139585/il
 amato  2026-07-29 10:25:35.916083  https://www.radioradicale.it/scheda/126199/tra-premiership-e-leadership-incontro-con-giuliano-amato-organizzato-nellambito-della?i=1681976  TypeError: string indices must be integers, not 'str'
 amato  2026-07-29 10:25:37.589720  https://www.radioradicale.it/scheda/121106/assemblea-annuale-della-confcommercio-co-palazzo-dei-congressi-viale-della-pittura?i=1742342  TypeError: string indices must be integers, not 'str'
 amato  2026-07-29 13:57:28.489119  https://www.radioradicale.it/scheda/111391/socialismo-e-liberta-in-ricordo-di-carlo-rosselli-org-dai-democratici-di-sinistra-co?i=1850022  RuntimeError: yt-dlp exited 1
+amato  2026-07-29 15:41:21.152155  https://www.radioradicale.it/scheda/108822/i-riformisti-al-governo-delleuropa-sfide-scelte-attori-organizzato-da-italianieuropei?i=1878599  RuntimeError: yt-dlp exited 1
