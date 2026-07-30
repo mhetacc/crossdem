@@ -1,0 +1,896 @@
+1
+00:00:08,080 --> 00:00:18,280
+Cominciare? Sono le 6 e 5, è piacevole stare insieme, ma insomma a una certa ora si comincia,
+
+2
+00:00:18,740 --> 00:00:28,700
+no? Nono, sento che il microfono funziona. Ma per vita lo dobbiamo lasciare, tu devi
+
+3
+00:00:28,700 --> 00:00:43,460
+metterti l'ansi. Allora, il panel è incompleto, per quanto riguarda Francoiseppi resterà incompleto,
+
+4
+00:00:44,400 --> 00:00:51,000
+si è scusato con noi, non era in condizioni di venire e lo ha fatto tempestivamente sapere.
+
+5
+00:00:51,440 --> 00:00:58,680
+Per quanto riguarda il sottosegretario Vita sta arrivando, ma non possiamo concedere al
+
+6
+00:00:58,680 --> 00:01:06,680
+euro star, dopo 30 minuti scatta il diritto al bonus e per noi il diritto di cominciare,
+
+7
+00:01:06,700 --> 00:01:19,920
+sono le 6 e 5 e quindi cominciamo, ma è di sicuro in arrivo. Nell'introdurre questa discussione
+
+8
+00:01:21,340 --> 00:01:28,660
+volevo semplicemente segnalare agli amici che parleranno del libro alcune opzioni che io vedo
+
+9
+00:01:28,660 --> 00:01:35,120
+sull'argomento, che mi paiono importanti. Intanto, permettetemi di dire, e lo dico con
+
+10
+00:01:35,760 --> 00:01:40,500
+piacere ai due autori, che questo è un libro di grande valore, a mio avviso, che merita
+
+11
+00:01:40,500 --> 00:01:45,460
+di essere letto, speriamo che l'editore qui presente lo distribuisca con efficacia, come
+
+12
+00:01:45,460 --> 00:01:52,760
+usualmente sa fare, perché ha due caratteristiche che lo segnalano positivamente. La prima è
+
+13
+00:01:52,760 --> 00:02:00,220
+che è esplicativo in misura davvero rimarchevole rispetto ad una materia caratterizzata da
+
+14
+00:02:00,220 --> 00:02:07,440
+un linguaggio tecnologico e da un insieme di concetti che fanno capo a discipline tecniche
+
+15
+00:02:07,440 --> 00:02:14,440
+che per il normale essere umano a volte sono difficili da chiappare. Io ho fatto nella
+
+16
+00:02:14,440 --> 00:02:21,440
+mia esperienza antitrust numerose audizioni con personale, telecom, omni, etc. che vengono
+
+17
+00:02:21,440 --> 00:02:27,120
+davanti a noi a sostenere le loro cause e a un certo punto dissi a uno, non dico di
+
+18
+00:02:27,120 --> 00:02:33,500
+quale società, che insomma parlare come scriveva Ronchei una volta non è obbligatorio e che
+
+19
+00:02:33,500 --> 00:02:39,600
+quindi se riuscivano a parlare in un italiano comprensibile la cosa era più gradita. Questo
+
+20
+00:02:39,600 --> 00:02:45,420
+libro è scritto in un italiano molto comprensibile e non credo che ciò vada a scapito della
+
+21
+00:02:45,420 --> 00:02:51,500
+precisione tecnica dei concetti affrontati. Per questo chi ha e tanti di noi le hanno
+
+22
+00:02:51,500 --> 00:02:57,760
+curiosità sul mondo tecnologico nel quale entriamo ne è più facilmente appagato che
+
+23
+00:02:57,760 --> 00:03:03,380
+non leggendo altre cose che poi hanno bisogno di 70 dizionari tecnici per essere tradotte
+
+24
+00:03:03,380 --> 00:03:09,900
+in un linguaggio comprensibile. La seconda qualità che io ho colto in questo libro è
+
+25
+00:03:09,900 --> 00:03:17,980
+che c'è ancora qualcuno, e io gliene sono grato, che affronta queste cose con una forte
+
+26
+00:03:17,980 --> 00:03:25,000
+carica morale, cioè con l'aspettativa che in chi ha la responsabilità di mezzi di comunicazione,
+
+27
+00:03:25,240 --> 00:03:33,440
+e in particolare in chi ce l'ha grazie al contribuente con service public, debba esserci
+
+28
+00:03:33,440 --> 00:03:43,380
+un senso forte di missione pubblica, non a scapito della qualità, ma anzi, ed è un
+
+29
+00:03:43,380 --> 00:03:49,180
+filo rosso continuo che poi esplode nelle ultime pagine, dedicate in particolare al
+
+30
+00:03:49,180 --> 00:03:56,720
+servizio pubblico, che è pregevole. Riferito all'Europa, siamo sempre alle prese con il
+
+31
+00:03:56,720 --> 00:04:03,860
+buono che l'Europa ha partorito e con le cattive modalità con le quali lo stiamo difendendo
+
+32
+00:04:03,860 --> 00:04:09,400
+col rischio di perderlo, per cui in nome del buono lo stiamo forse distruggendo ed è un
+
+33
+00:04:09,400 --> 00:04:16,140
+appello a salvaguardarlo e quindi ad affrontare con coraggio la sfida dell'innovazione proprio
+
+34
+00:04:16,140 --> 00:04:24,340
+per salvaguardare questa missione pubblica. Questo l'ho trovato molto bello. Le opzioni
+
+35
+00:04:24,340 --> 00:04:30,000
+che io vedo, sollevate ce ne sono tante, vi volevo sottolineare tre punti, poi naturalmente
+
+36
+00:04:30,000 --> 00:04:35,640
+siccome ciascuno ci ha pensato per conto suo, poi va per conto suo, si fa sempre finta di
+
+37
+00:04:35,640 --> 00:04:42,100
+rispondere a domande nei dibattiti. Io vedo principalmente queste tre questioni. La prima,
+
+38
+00:04:44,300 --> 00:04:53,820
+la società tecnologica che metterà davanti a ciascuno potenzialmente almeno 600 canali,
+
+39
+00:04:53,820 --> 00:05:00,520
+sarà una società in cui ci sarà più pluralismo o meno pluralismo. La domanda può sembrare
+
+40
+00:05:00,520 --> 00:05:08,660
+paradossale ma è così. Ecco, non c'è dubbio che offre opportunità di creare a diversi
+
+41
+00:05:08,660 --> 00:05:14,900
+livelli, con diversi breakeven finanziari, con diverse aspettative di servire diversi
+
+42
+00:05:14,900 --> 00:05:22,620
+segmenti di utenza, potenzialità di pluralismo enorme, quali non ne abbiamo mai avuto. Però
+
+43
+00:05:22,620 --> 00:05:29,120
+allo stesso tempo sarà talmente elevato questo pluralismo e forse dopo che sarà avvenuta
+
+44
+00:05:29,120 --> 00:05:36,460
+la convergenza tra i mezzi, potrà essere talmente complicata tecnologicamente in parte
+
+45
+00:05:36,460 --> 00:05:42,540
+almeno la fruizione di alcuni di questi canali che è consistente il rischio che le nostre
+
+46
+00:05:42,540 --> 00:05:50,280
+società si dividano in due. Nella quota minoritaria dei tecnologicamente sofisticati che sono
+
+47
+00:05:50,280 --> 00:05:57,640
+in grado di muoversi tra le tecnologie e nella parte maggioritaria dell'utente normale che
+
+48
+00:05:57,640 --> 00:06:02,900
+torna stanco dal lavoro la sera e quel lavoro non necessariamente è avvenuto traficando
+
+49
+00:06:02,900 --> 00:06:09,940
+con tecnologie, che arriverà a ricevere i prodotti attraverso service providers che
+
+50
+00:06:09,940 --> 00:06:16,640
+abbanno preparato dei pacchetti a basso costo e facilmente accessibili. E quindi ci sarà
+
+51
+00:06:16,640 --> 00:06:26,220
+un serio problema di organizzazione del pluralismo. A me pare che la sciagura millenarista,
+
+52
+00:06:26,700 --> 00:06:33,260
+la tecnologia porterà al grande monopolio non sia vera e questo è importante perché
+
+53
+00:06:33,260 --> 00:06:39,680
+la tecnologia porta pluralismo, non monopolio, ma che l'organizzazione del pluralismo e
+
+54
+00:06:39,680 --> 00:06:44,460
+quindi la risorsa umana che è quella che provvede all'organizzazione del pluralismo
+
+55
+00:06:44,460 --> 00:06:51,700
+può trasformarlo nel suo contrario, il che ci dà spazi di preoccupazione ma anche spazi
+
+56
+00:06:51,700 --> 00:06:57,540
+di reazione, di raccogliere la sfida. E' importante questo, se vi posso raccontare un aneddoto
+
+57
+00:06:57,540 --> 00:07:05,160
+quando ero in CGL e con Bruno Trentino organizzammo ed altri tutta la roba dei piani di impresa,
+
+58
+00:07:05,220 --> 00:07:10,580
+delle informazioni ai lavoratori, cosa nella quale credevamo moltissimo, alcune imprese
+
+59
+00:07:10,580 --> 00:07:17,020
+ci scaricarono addosso tonnellate di informazioni col che ci paralizzarono, perché erano talmente
+
+60
+00:07:17,020 --> 00:07:23,820
+tante che nessuno di noi era in grado di decifrarle ed eravamo ignoranti quanto lo eravamo prima.
+
+61
+00:07:24,040 --> 00:07:31,680
+Ecco, c'è un rischio similare in questa vicenda. Secondo punto importante, che ne sarà delle
+
+62
+00:07:31,680 --> 00:07:39,300
+televisioni europee in tutta questa vicenda? Perché il grosso del mercato evidentemente
+
+63
+00:07:39,300 --> 00:07:44,860
+sarà nelle mani di service providers collegati ai grandi produttori di programmi, non certo
+
+64
+00:07:44,860 --> 00:07:53,800
+ai mercati di nicchia. E qui c'è un giusto allarme per le televisioni europee di cui
+
+65
+00:07:53,800 --> 00:08:00,500
+fa parte l'allarme per le televisioni italiani, due colossi dai piedi d'argilla, e vengono
+
+66
+00:08:00,500 --> 00:08:08,660
+definiti nel libro, i quali si troveranno davanti alla sfida mortale dei gruppi più
+
+67
+00:08:08,660 --> 00:08:16,940
+organizzati nel mondo nel produrre programmi concepiti con linguaggio universale capaci
+
+68
+00:08:16,940 --> 00:08:23,580
+di raggiungere utenze di paesi diversi in multilingua. Viene notato giustamente nel
+
+69
+00:08:23,580 --> 00:08:31,760
+libro che televisioni come la stessa RAI e Mediaset devono larga parte del loro palinsesto
+
+70
+00:08:31,760 --> 00:08:40,780
+al loro ruolo per il momento inevitabile di intermediari necessari tra il produttore
+
+71
+00:08:40,780 --> 00:08:47,300
+di programmi, il produttore del film americano, della telenovela americana, del documentario
+
+72
+00:08:47,300 --> 00:08:53,000
+americano e l'utente, perché quel produttore non è in grado di raggiungere da solo. Allora
+
+73
+00:08:53,000 --> 00:09:00,420
+il suo programma viene comparato e viene trasmesso da questi. Via satellite e in multilingue
+
+74
+00:09:00,420 --> 00:09:07,300
+non ci sarà più bisogno di questa intermediazione. E allora che ne sarà? Ecco, qui c'è tutto
+
+75
+00:09:07,300 --> 00:09:14,380
+uno spazio che si apre per la riorganizzazione dell'industria culturale europea. Questo è
+
+76
+00:09:14,380 --> 00:09:19,560
+un argomento sul quale io parlerei ben più di quanto mi è consentito introducendo un
+
+77
+00:09:19,560 --> 00:09:25,720
+dibattito, ma io ho più volte per prenderla dal lato più elementare. Io non ho mai accettato
+
+78
+00:09:25,720 --> 00:09:31,120
+e per questo ho fatto arrabbiare Cittomaselli, ho fatto arrabbiare Michiché, tanti altri
+
+79
+00:09:31,120 --> 00:09:36,960
+che la nostra debolezza nei confronti degli americani è solo figlia della loro forza
+
+80
+00:09:36,960 --> 00:09:41,740
+prevaricante, perché sono grandi e grossi, perché hanno già un mercato interno di 200
+
+81
+00:09:41,740 --> 00:09:46,880
+milioni potenziali di utenti prima che il loro prodotto arrivi di qua. Questo è assolutamente
+
+82
+00:09:46,880 --> 00:09:54,020
+vero, ma chi ci obbliga a concepire e a produrre soltanto programmi che al di là della provincia
+
+83
+00:09:54,020 --> 00:09:59,400
+di Piombino ormai, prima era quella di Roma, ora è quella di Piombino che non è provincia,
+
+84
+00:09:59,460 --> 00:10:08,260
+ma lo dico apposta pensando al primo e miglior film di un autore toscano, non hanno corso
+
+85
+00:10:08,260 --> 00:10:16,540
+legale. Per chi ci condanna a organizzare il finanziamento della produzione televisiva
+
+86
+00:10:16,540 --> 00:10:23,360
+di opere cinematografiche dando ad un signore che viene indebitamente chiamato produttore
+
+87
+00:10:23,360 --> 00:10:30,700
+un prepagamento integrale sulla vendita dell'idea del quale prepagamento questo signore cercherà
+
+88
+00:10:30,700 --> 00:10:36,220
+di risparmiare il più possibile nel fare la produzione del cui successo commerciale
+
+89
+00:10:36,220 --> 00:10:41,700
+a lui non interessa niente perché tanto è già stato pagato. Ci vuole molto ad organizzare
+
+90
+00:10:41,700 --> 00:10:47,020
+una parte del finanziamento con incentivi che crescono al crescere della diffusione
+
+91
+00:10:47,020 --> 00:10:53,080
+sul mercato europeo internazionale del prodotto, almeno per una parte di questi prodotti. Ci
+
+92
+00:10:53,080 --> 00:11:00,380
+vuole molto a organizzare in termini finanziari e produttivi una produzione che riesca ad
+
+93
+00:11:00,380 --> 00:11:07,340
+esprimere personaggi universalmente accettabili come John Wayne. In fondo John Wayne non l'ha
+
+94
+00:11:07,340 --> 00:11:13,720
+inventato il numero 200 milioni di utenti americani, l'ha inventato una intelligente
+
+95
+00:11:13,720 --> 00:11:20,660
+capacità organizzativa. Se io voglio produrre un qualcosa che va in tutto il mondo, ecco,
+
+96
+00:11:20,660 --> 00:11:28,220
+io probabilmente avrò meno cicloni ma avrò più altre cose, insomma, e mi saprò misurare
+
+97
+00:11:28,220 --> 00:11:36,360
+su quel mercato. Questo è il problema che si porrà e chi non lo saprà affrontare sarà
+
+98
+00:11:36,360 --> 00:11:43,140
+tagliato fuori perché a quel punto non sarà più in grado di esserci perché non servirà
+
+99
+00:11:43,140 --> 00:11:50,480
+più neanche come intermediario. E la TV pubblica? Ecco, qui ci sono le pagine finali. Qual è
+
+100
+00:11:50,480 --> 00:11:58,360
+lo spazio? Qui c'è ed è una istanza che è rimasta in molti di noi l'idea che servizio
+
+101
+00:11:58,360 --> 00:12:05,060
+pubblico non è una nozione giuridica ma è una nozione culturale. E siamo in molti a
+
+102
+00:12:05,060 --> 00:12:10,360
+ritenere, e qui lo troverete ovvio per questa parte il libro di Olivi, ma ai me ci sono
+
+103
+00:12:10,360 --> 00:12:14,800
+delle verità che non cessano di essere vere per il fatto di essere state ripetute mille
+
+104
+00:12:14,800 --> 00:12:22,840
+volte, che appunto l'inseguimento della televisione commerciale fa sì che questo servizio pubblico
+
+105
+00:12:22,840 --> 00:12:29,060
+sia tale soltanto di nome. Ecco, c'è una bevanda che si chiama Coca-Cola, tra le altre, c'è
+
+106
+00:12:29,060 --> 00:12:33,920
+una televisione, tra le altre, che viene chiamata servizio pubblico. Ma se questa diventa
+
+107
+00:12:33,920 --> 00:12:41,360
+la fine allora effettivamente non ha più molto spazio. Viene fatto notare che probabilmente
+
+108
+00:12:41,360 --> 00:12:47,760
+il recupero dell'informazione e della diretta, questa è giustissima questa osservazione,
+
+109
+00:12:48,240 --> 00:12:55,060
+in un mondo nel quale per via tecnologica saranno probabilmente trasmessi programmi
+
+110
+00:12:55,060 --> 00:13:02,480
+richiesti a domanda dall'utente, se ne desume che ciò che residua principalmente è la diretta.
+
+111
+00:13:02,700 --> 00:13:08,400
+Quindi è il ritorno alla diretta in realtà l'elemento dirimente e discriminante, perché
+
+112
+00:13:08,400 --> 00:13:15,380
+io non posso chiedere a Telepiù né alla futura pay-per-view di farmi avere un programma
+
+113
+00:13:15,380 --> 00:13:20,500
+che riguarda un evento non ancora accaduto. E' un'osservazione anche questa banale, ma
+
+114
+00:13:20,500 --> 00:13:26,680
+è importantissima. Come è importante per il servizio pubblico, e questo è un altro
+
+115
+00:13:26,680 --> 00:13:33,980
+punto che io vi segnalo, deve stare o no nella televisione tematica il servizio pubblico
+
+116
+00:13:33,980 --> 00:13:39,760
+oppure deve stare solo nella generalista che ha difeso anche troppo in passato come
+
+117
+00:13:40,700 --> 00:13:47,720
+propria specialità esclusiva. Io personalmente sono tra i sostenitori della tesi che tanto
+
+118
+00:13:47,720 --> 00:13:54,360
+più sarà servizio pubblico quanto più entrerà nella tematica e personalmente io ho fatto
+
+119
+00:13:54,360 --> 00:13:59,540
+quello che era nelle mie possibilità per consentire alla RAI, perché non venisse vietato
+
+120
+00:13:59,540 --> 00:14:05,480
+alla RAI, di entrare nella televisione tematica, perché lo ritengo parte essenziale del servizio
+
+121
+00:14:05,480 --> 00:14:11,120
+pubblico. Certo c'è tematica e tematica, giorni fa ha un seminario italo-inglese a
+
+122
+00:14:11,120 --> 00:14:19,500
+cui forse alcuni di voi avranno partecipato, la nuova simpaticissima ministra dell'informazione
+
+123
+00:14:19,500 --> 00:14:29,340
+che si occupa di queste cose per il Governo del Regno Unito preoccupatissima per la globalizzazione
+
+124
+00:14:29,340 --> 00:14:36,080
+delle trasmissioni televisive ci riferiva come televisione tematica di grande successo
+
+125
+00:14:36,080 --> 00:14:42,120
+quella instaurata grazie ad una signora giovane che non si muove mai dal suo appartamento
+
+126
+00:14:42,120 --> 00:14:47,960
+a New York con una telecamera fissa sul suo letto dove lei per 12 ore al giorno o sola
+
+127
+00:14:47,960 --> 00:14:54,700
+in compagnia fa una serie di esercizi e questa è televisione tematica di grande successo.
+
+128
+00:14:54,700 --> 00:15:04,760
+Ecco non mi aspetto, c'è un'altra televisione tematica che è diversa da questa sulla quale
+
+129
+00:15:04,760 --> 00:15:11,560
+mi aspetto che si impegni il servizio pubblico e si caratterizzi e tanto più lo potrà fare
+
+130
+00:15:11,560 --> 00:15:18,560
+in quanto non si metta con altri. Io non ho capito se l'idea di tutti insieme appassionatamente
+
+131
+00:15:19,900 --> 00:15:29,660
+tecnologicamente e commercialmente in teli più è un'idea che nasce dal bisogno di avere
+
+132
+00:15:29,660 --> 00:15:37,540
+la RAI come mamma anche lì o da una volontà della RAI di metterci insieme ad altri. Questo
+
+133
+00:15:37,540 --> 00:15:43,240
+io proprio non lo so, quello che so e sono d'accordo con gli autori è che è spaventosamente
+
+134
+00:15:43,240 --> 00:15:52,260
+sbagliato oltre che assolutamente anticoncorrenziale che la RAI, servizio pubblico, non competa
+
+135
+00:15:52,260 --> 00:15:59,940
+sul piano della acquisizione della clientela e della qualità dei programmi con i privati
+
+136
+00:15:59,940 --> 00:16:08,120
+che in questo caso se no c'è poco da garantire non resta nulla e compito di chi governa le
+
+137
+00:16:10,400 --> 00:16:17,980
+clienti entrare in questo nuovo campo di contraddizione senza farsi vincere dalla
+
+138
+00:16:17,980 --> 00:16:23,780
+stanchezza. Riconosco che la stanchezza è facile, soprattutto chi lavora in televisione
+
+139
+00:16:23,780 --> 00:16:29,920
+lo sa, abbiamo vissuto in vent'anni due rivoluzioni, vent'anni fa abbiamo dovuto cambiare tutti
+
+140
+00:16:29,920 --> 00:16:34,240
+i nostri modi perché intervenuto dal monopolio e siamo passati alla concorrenza alla televisione
+
+141
+00:16:34,240 --> 00:16:39,940
+commerciale. Eravamo appena convinti di esserci riadattati a questo sistema che tutto viene
+
+142
+00:16:39,940 --> 00:16:46,540
+rimesso in discussione, quindi è facile cedere alla stanchezza, ma non è possibile farsene
+
+143
+00:16:46,540 --> 00:16:55,740
+vinci. Bisogna sapere che bisogna giocare su tutti i tavoli della medialità, che ad
+
+144
+00:16:55,740 --> 00:17:01,980
+esempio chi opera nel campo della televisione oggi arriva nella casa, ma la casa moderna
+
+145
+00:17:01,980 --> 00:17:10,160
+è la casa salotto, è la casa cinema, è la casa ufficio, è la casa scuola e quindi
+
+146
+00:17:10,160 --> 00:17:15,900
+non puoi se vuoi arrivare nella casa non fornire un servizio che copra tutto questo
+
+147
+00:17:15,900 --> 00:17:26,760
+spazio. Sapere che bisogna evitare di vedere i nuovi business come strumenti di copertura
+
+148
+00:17:26,760 --> 00:17:34,280
+e di difesa dei vecchi business, questo è un rischio drammatico che corre, che gli operatori
+
+149
+00:17:34,280 --> 00:17:40,520
+nuovi che entrano nel sistema vientrano come un'esigenza di difesa del loro core business
+
+150
+00:17:40,520 --> 00:17:45,300
+e del loro business tradizionale. No, il business nuovo va giocato con generosità per quello
+
+151
+00:17:45,300 --> 00:17:50,260
+che, torno a dire, se vogliamo sviluppare il sistema, se vogliamo fare entrare sto
+
+152
+00:17:50,260 --> 00:17:57,700
+paese anche in quest'area innovativa, in questa stessa, accettando il rischio e quindi
+
+153
+00:17:57,700 --> 00:18:02,860
+accettando anche quel tanto... ...riguarda alla vita quotidiana e quindi le
+
+154
+00:18:02,860 --> 00:18:10,240
+utenze domestiche quotidiane. Questo è un grande piano che investi nel tutto la scuola,
+
+155
+00:18:10,460 --> 00:18:16,980
+ma investe in pari tempo la sanità, che investe in pari tempo l'assistenza domiciliare, che
+
+156
+00:18:16,980 --> 00:18:22,800
+resta non soltanto le imprese che operano nella comunicazione, nell'editoria, nella
+
+157
+00:18:22,800 --> 00:18:29,160
+posta, ma anche le assicurazioni, l'ambiente, ma anche appunto, come dicevo, i servizi
+
+158
+00:18:29,160 --> 00:18:36,400
+domestici, insomma traducendolo banalmente che riguarda il gas, l'elettricità, l'acqua,
+
+159
+00:18:36,400 --> 00:18:58,820
+le imprese, insomma, o è una rivoluzione epoca... ...in questo caso che accentua quella
+
+160
+00:18:58,820 --> 00:19:04,560
+che un tempo si chiamava la società dei due terzi. Bene, da questo punto di vista io penso
+
+161
+00:19:04,560 --> 00:19:12,040
+che per esempio la RAI abbia di fronte a sé una grande emissione di gerizio. Leggendo
+
+162
+00:19:12,040 --> 00:19:19,060
+il libro mi veniva in mente, molti di voi lo ricordano, il regime di monopolio negli
+
+163
+00:19:19,060 --> 00:19:28,120
+anni 50, ci fu una grande trasmissione, non è mai troppo tardi quella del maestro Manzi,
+
+164
+00:19:28,120 --> 00:19:37,500
+che era allora un assai più popolare di quanto non siano oggi popolari certi conduttori
+
+165
+00:19:37,500 --> 00:19:44,140
+televisivi. La trasmissione si chiamava non è mai troppo tardi e la RAI dette effettivamente,
+
+166
+00:19:44,280 --> 00:19:51,400
+anche con grandi riconoscimenti internazionali, un grande contributo all'unificazione linguistica
+
+167
+00:19:51,400 --> 00:19:58,440
+del Paese. Bene, penso che a distanza di alcuni decenni un servizio pubblico che io proporrei
+
+168
+00:19:58,440 --> 00:20:04,560
+di chiamare da questo momento, poi non dico da questo momento in cui lo dico io, dico
+
+169
+00:20:04,560 --> 00:20:12,920
+da questa fase, diciamo di chiamarlo RIME TV, e cioè Servizio Pubblico Radio-Televisivo
+
+170
+00:20:12,920 --> 00:20:21,320
+Multimediale. Sarebbe, penso, un suggerimento, caro Vita, da poter dare al legislatore
+
+171
+00:20:21,320 --> 00:20:34,060
+nel momento in cui va a realizzare la riforma del servizio pubblico. Naturalmente la globalizzazione
+
+172
+00:20:34,060 --> 00:20:40,960
+investe non soltanto l'informazione ma anche i prodotti dell'industria dell'intrattenimento
+
+173
+00:20:40,960 --> 00:20:46,980
+e forse qua si può trovare una risposta alle domande che più insistentemente in questi
+
+174
+00:20:46,980 --> 00:20:52,220
+giorni ho visto sui giornali, ma come mai c'è stato il flop di Fantastico, ma come
+
+175
+00:20:52,220 --> 00:20:56,740
+mai c'è il flop di Pippo Baudo e così via. Beh, c'è anche una risposta un po' più
+
+176
+00:20:56,740 --> 00:21:03,800
+profonda di quella che è stata data, e cioè il mutamento del consumo europeo. Oppure
+
+177
+00:21:03,800 --> 00:21:16,960
+qualcuno di voi si aspettava, qui si dice con una pagina molto amara, lo ricordava adesso
+
+178
+00:21:17,460 --> 00:21:22,540
+questa tradizione culturale, basta guardare questa sala, insomma, la nostra storia, che
+
+179
+00:21:22,540 --> 00:21:29,020
+per quale motivo oscuro io ancora non ho capito, oltre a quelli apparenti, si sia bloccata
+
+180
+00:21:29,020 --> 00:21:40,920
+in Italia la TV via cavo negli anni 70, cioè relegando l'Italia ad un'emmarginazione nello
+
+181
+00:21:40,920 --> 00:21:45,780
+sviluppo tra quella scelta, tutta ben in quegli anni, in un breve lasso di tempo. Se voglio
+
+182
+00:21:45,780 --> 00:21:50,820
+fare facile propaganda dei governi, no, non sono fin troppo ovvio. E il blocco della
+
+183
+00:21:50,820 --> 00:21:57,380
+TV a colori, grazie a tutto il balletto pulse can, il blocco della TV via cavo e qualche
+
+184
+00:21:57,380 --> 00:22:04,580
+mente non particolarmente ispirata fece inserire nella legge del 75 quel comma sulla TV via
+
+185
+00:22:04,580 --> 00:22:15,760
+cavo monocanale. E poi una ritardata, come dire, valutazione anche del rischio di tutto
+
+186
+00:22:15,760 --> 00:22:21,900
+questo comportava, insomma, tutto questo è a contrario, invece, dall'idea di come sia
+
+187
+00:22:21,900 --> 00:22:30,580
+importante aprire questa nuova stagione, una sorta di appassionata nuova stagione riformatrice
+
+188
+00:22:30,580 --> 00:22:37,260
+con le forze disponibili e andando un po' più avanti, in cui vengo all'attualità
+
+189
+00:22:37,260 --> 00:22:46,120
+per concludere questo mio contributo, peraltro interessato a riflettere di questi argomenti
+
+190
+00:22:46,120 --> 00:22:51,400
+anche in altre occasioni, perché sono temi di grandissimo e straordinario rilievo anche
+
+191
+00:22:51,400 --> 00:23:02,960
+per la politica. Dicevo, questo salto io credo debba essere un po' altro rispetto a un certo
+
+192
+00:23:02,960 --> 00:23:10,200
+dibattito che mi pare cogliere in queste giornate rispetto al futuro della RAI. Sto assistendo,
+
+193
+00:23:10,960 --> 00:23:16,680
+ora, siccome sono stato per anni dall'opposizione fautore del concetto guida che il governo si
+
+194
+00:23:16,680 --> 00:23:23,020
+deve impicciare del servizio pubblico, mi ricordo polemiche con chi invece interferiva,
+
+195
+00:23:23,140 --> 00:23:28,440
+non posso fare nulla, non posso dire quasi nulla, perché non voglio interferire, però
+
+196
+00:23:29,220 --> 00:23:39,240
+leggo e con una certa sofferenza osservo però qual è il terreno del dibattito che oggi
+
+197
+00:23:39,800 --> 00:23:45,420
+si sta determinando sul servizio pubblico, che a mio modo di vedere dovrebbe essere proprio
+
+198
+00:23:45,420 --> 00:23:50,980
+quello che il libro invita tutti noi ad avere, cioè quale progettualità nuova di un servizio
+
+199
+00:23:50,980 --> 00:23:57,000
+pubblico, quale stagione nella multimedialità un servizio pubblico rinnovato, parlo di quello
+
+200
+00:23:57,000 --> 00:24:02,760
+radio televisivo, poi deve avere in quale nuovo contesto tecnologico. Mi pare che invece
+
+201
+00:24:02,760 --> 00:24:08,620
+si stia molto al di qua di questo dibattito. È un problema ed è anche un grande rischio,
+
+202
+00:24:08,620 --> 00:24:17,280
+perché io sono convintissimo che il modello storico di servizio pubblico oggi volge al
+
+203
+00:24:17,280 --> 00:24:25,100
+tramonto, perché è ovvio che sia così, l'evoluzione tecnologica, culturale non può
+
+204
+00:24:25,100 --> 00:24:33,980
+che essere questa e prima che si rende conto dell'urgenza di un salto, di uno scarto, prima
+
+205
+00:24:34,460 --> 00:24:41,720
+si evita un altro ritardo a cui poi fare seguire seminari di autocritica, riflessioni, altri
+
+206
+00:24:41,720 --> 00:24:50,200
+volumi di ripensamento. Credo che sia questo un problema. Ho avuto modo di parlarne con
+
+207
+00:24:50,200 --> 00:24:54,900
+diversi dirigenti della RAI, perché poi una lunga frequentazione in questo settore mi
+
+208
+00:24:54,900 --> 00:25:00,460
+permette di avere anche qualche rapporto meno formale diplomatico. E al di là della grande
+
+209
+00:25:00,460 --> 00:25:07,000
+discussione che sta avvenendo attorno a un'ipotesi di sotturazione della RAI, su cui ci sarà
+
+210
+00:25:07,000 --> 00:25:15,580
+fatto pure un ragionamento. Mi chiedo se quello è il problema, se il grande tema oggi dell'agenda
+
+211
+00:25:15,580 --> 00:25:30,440
+politica che attiene al servizio pubblico è come tutelarlo meglio, fare un po' di
+
+212
+00:25:31,440 --> 00:25:37,620
+autocoscienziale, positivo, andando con ragionamento dentro la multimedialità. Quanto al rapporto
+
+213
+00:25:37,620 --> 00:25:46,740
+con la politica, ecco perché mi agganciavo a quello che diceva un'Anca, senza fare demagogia
+
+214
+00:25:46,740 --> 00:25:55,220
+e senza fariseismi del tutto impropri, credo che la politica tutta debba fare un passo indietro,
+
+215
+00:25:55,220 --> 00:26:01,720
+ma non per sottrarsi al governo della comunicazione, ma per poterlo poi realizzare davvero, perché
+
+216
+00:26:02,800 --> 00:26:10,400
+finché lo sforzo sovrumano della politica è attorno ad argomenti di quotidiano rilievo,
+
+217
+00:26:10,640 --> 00:26:17,760
+magari o apparente rilievo, perdendo di vista poi la strategia, la politica non riuscirà
+
+218
+00:26:17,760 --> 00:26:24,500
+mai a governare questi processi. Vedete, io lo dico anche criticamente, ma anche autocriticamente
+
+219
+00:26:24,500 --> 00:26:33,260
+per quello che serve in questi casi, ma non so se è più importante occuparsi di una cosa
+
+220
+00:26:33,260 --> 00:26:39,540
+specifica, un segmento, penso anche a polemiche recenti, con grande sforzo poi di polemiche
+
+221
+00:26:39,540 --> 00:26:46,260
+e non cogliere che oggi il grande tema politico in Italia, in Europa e giustamente Amato parlava
+
+222
+00:26:46,260 --> 00:26:52,360
+dell'Europa nei repugni degli Stati Uniti, grande spazio europeo come tema nuovo, moderno
+
+223
+00:26:52,360 --> 00:26:58,340
+della unità europea, non sono monetaria, non è anche culturale, comunicativa. Se non
+
+224
+00:26:58,340 --> 00:26:59,860
+invece è quello di capire.
+
