@@ -1,0 +1,940 @@
+1
+00:00:00,000 --> 00:00:10,180
+elevata, ha reso possibile lo studio e quindi anche la realizzazione di nuovi servizi che
+
+2
+00:00:10,180 --> 00:00:19,260
+possono consentire di portare all'utente o dovunque sia necessario diffondere l'informazione
+
+3
+00:00:19,260 --> 00:00:23,180
+di tipo complesso in tempo reale.
+
+4
+00:00:24,020 --> 00:00:32,540
+E allora questo fa venire chiaro che l'appetito vi è mangiando, abbiamo a disposizione questi
+
+5
+00:00:32,540 --> 00:00:38,860
+strumenti molto potenti e allora il problema è individuare dei servizi di tipo innovativo
+
+6
+00:00:38,860 --> 00:00:46,760
+che possono consentire di aumentare molto il tipo di trasmissione di informazione e il
+
+7
+00:00:46,760 --> 00:00:51,280
+tipo di elaborazione che si può fare in tempo reale sulle informazioni.
+
+8
+00:00:51,280 --> 00:01:01,220
+E allora l'idea è quella di costituire un sistema complesso di trasmissione dell'informazione
+
+9
+00:01:01,220 --> 00:01:06,340
+che si basa di volta in volta su portanti diversi, il portante via etere, il portante
+
+10
+00:01:06,340 --> 00:01:14,040
+via cavo, il portante via fibra ottica e il sistema nel suo complesso mette a disposizione
+
+11
+00:01:14,040 --> 00:01:24,620
+di chiunque è chiaro in un futuro la possibilità di poter ricevere in tempo reale informazioni
+
+12
+00:01:24,620 --> 00:01:27,320
+piuttosto complesse.
+
+13
+00:01:28,920 --> 00:01:35,520
+La cosa fondamentale diventa che avendoci a disposizione questa capacità molto elevata
+
+14
+00:01:35,520 --> 00:01:42,800
+allora è possibile inserire all'interno del sistema di trasmissione globale a cui si
+
+15
+00:01:42,800 --> 00:01:51,240
+anche l'intelligenza e questo è un altro salto di qualità rispetto al passato, intelligenza
+
+16
+00:01:51,240 --> 00:01:56,400
+nel senso che avendo a che fare con un sistema complesso in cui il messaggio, l'informazione
+
+17
+00:01:56,400 --> 00:02:04,920
+deve trovare le sue strade e deve poter essere elaborato e riadattato in tempo reale in diverse
+
+18
+00:02:04,920 --> 00:02:10,260
+situazioni occorre anche un'intelligenza che consente di mantenere intanto un controllo
+
+19
+00:02:10,260 --> 00:02:20,100
+generalizzato su tutto il sistema, ma anche consente di poter reperire e ristabilire la
+
+20
+00:02:20,100 --> 00:02:23,360
+validità del messaggio in ogni momento in cui questo sia possibile.
+
+21
+00:02:24,100 --> 00:02:32,500
+Allora da qui ci si svizzarrisce rispetto alle varie opportunità che possiamo individuare.
+
+22
+00:02:32,680 --> 00:02:38,280
+Si parla ormai oggi di multimedialità, credo che il professor Cappuccini questa mattina
+
+23
+00:02:38,280 --> 00:02:45,120
+abbia fatto riferimento a questa tematica. Multimedialità non significa altro che mettere
+
+24
+00:02:45,120 --> 00:02:51,680
+insieme i segnali di vario tipo che nel passato sui sistemi tradizionali viaggiavano separatamente,
+
+25
+00:02:51,780 --> 00:03:00,720
+quindi la voce, le immagini, il movimento e così via, e mettere insieme tutti questi sistemi offre
+
+26
+00:03:00,720 --> 00:03:11,280
+l'opportunità di avere in tempo reale sulla propria scrivania, sull'apparecchio TV, ma chiamarlo
+
+27
+00:03:11,280 --> 00:03:15,820
+apparecchio TV ormai è limitativo perché diventa un qualcosa di complesso, al suo interno ci sono
+
+28
+00:03:16,460 --> 00:03:21,620
+anche degli elementi di intelligenza, cioè dei calcolatori veri e propri, e quindi consente
+
+29
+00:03:21,620 --> 00:03:29,420
+a ciascuno di avere in tempo reale informazioni abbastanza complete e complesse. È chiaro che
+
+30
+00:03:29,420 --> 00:03:35,340
+questo discorso della multimedialità, del mettere insieme i vari tipi di segnali che oggi sono
+
+31
+00:03:35,340 --> 00:03:40,880
+disponibili, è un discorso su cui si comincia a ragionare. Oggi la stampa su questo, siccome fa
+
+32
+00:03:40,880 --> 00:03:46,180
+notizia, ne parla molto, però bisogna essere coscienti che ancora la strada da fare è abbastanza
+
+33
+00:03:46,180 --> 00:03:50,940
+lunga e c'è molto da lavorare. Questo non toglie che già alcune realizzazioni parziali della
+
+34
+00:03:50,940 --> 00:03:59,400
+multimedialità si cominciano a vedere e si vedranno sempre più nel prossimo futuro. Nel momento in
+
+35
+00:03:59,400 --> 00:04:05,680
+cui è possibile trasmettere grosse quantità di informazioni in tempo reale, informazioni costituite
+
+36
+00:04:05,680 --> 00:04:09,840
+anche da immagini in movimento, che sono quelle che hanno il maggior contenuto di informazioni e
+
+37
+00:04:09,840 --> 00:04:17,880
+quindi richiedono maggiore capacità di trasmissione, si possono allora individuare
+
+38
+00:04:17,880 --> 00:04:26,560
+anche delle tecnologie che consentono uno collogo interattivo tra trasmettitore e ricevitore.
+
+39
+00:04:26,560 --> 00:04:34,200
+Da qui si parla di TV interattiva, di video on demand e quindi le possibilità che possono
+
+40
+00:04:34,200 --> 00:04:43,120
+essere aperte nel prossimo futuro, di teleditatica, teleconferenza già oggi possibile anche se informe
+
+41
+00:04:44,960 --> 00:04:50,180
+limitate, telemedicina e così via. Tutte opportunità che ci si offrono nel prossimo
+
+42
+00:04:50,180 --> 00:04:56,520
+futuro rispetto alle quali dobbiamo però capire poi come muoverci per risolvere alcuni problemi
+
+43
+00:04:56,960 --> 00:05:02,380
+di tipo particolare. Quali sono questi problemi? Il problema principale è che nel momento in cui
+
+44
+00:05:02,380 --> 00:05:08,040
+c'è un sistema di trasmissione globale che consente appunto questo scambio di informazioni
+
+45
+00:05:08,040 --> 00:05:16,240
+si pone subito un problema di accesso al sistema, quindi diciamo di democrazia rispetto a questi
+
+46
+00:05:16,840 --> 00:05:23,120
+sistemi complessi. Su questo il dibattito in altri paesi che sono più avanti di noi negli
+
+47
+00:05:23,120 --> 00:05:30,300
+Stati Uniti per esempio già è molto vivo, c'è una grossa contesa tra l'amministrazione Clinton
+
+48
+00:05:30,300 --> 00:05:39,560
+da una parte e dall'altra la nuova maggioranza repubblicana al Senato rispetto all'accesso ai
+
+49
+00:05:39,560 --> 00:05:53,520
+sistemi di trasmissione delle informazioni. Da una parte il Presidente e il suo staff
+
+50
+00:05:53,520 --> 00:05:59,580
+ritengono che il modello da seguire è il modello internet, che ormai tutti voi conoscete
+
+51
+00:05:59,580 --> 00:06:05,520
+perché se ne parla anche questo, se ne parla continuamente sulla stampa, quindi un processo,
+
+52
+00:06:05,520 --> 00:06:12,640
+un sistema estremamente democratico, dall'altra da parte della maggioranza repubblicana al
+
+53
+00:06:12,640 --> 00:06:19,040
+Senato c'è il modello del libero mercato, quindi la possibilità di una competizione
+
+54
+00:06:19,040 --> 00:06:27,760
+molto viva e molto aspra tra i vari concorrenti per poter accedere alla struttura di rete,
+
+55
+00:06:27,760 --> 00:06:34,600
+quindi per poter fornire e elaborare le informazioni per il grosso pubblico.
+
+56
+00:06:39,160 --> 00:06:51,720
+Queste breve considerazioni spero che abbiano fatto capire che noi ci confrontiamo in questo
+
+57
+00:06:52,560 --> 00:07:01,080
+Le opportunità possono essere molto grandi, però bisogna partire con il piede giusto.
+
+58
+00:07:01,160 --> 00:07:08,160
+Da qui credo l'importanza di momenti di discussione come questi in cui si mettono a fuoco i vari
+
+59
+00:07:08,160 --> 00:07:13,820
+aspetti e perché se si capisce il problema tecnologico e le opportunità che la nuova
+
+60
+00:07:13,820 --> 00:07:21,040
+tecnologia offre, allora è anche più facile prepararsi a far sì che queste nuove opportunità
+
+61
+00:07:21,040 --> 00:07:30,120
+per tutti e non soltanto per pochi come qualche volta in questo Paese è successo nel passato.
+
+62
+00:07:31,000 --> 00:07:37,040
+Io spero di aver svolto il mio compito e so che il professor Amato i tempi eri stretti,
+
+63
+00:07:37,240 --> 00:07:38,740
+quindi volentieri lascio.
+
+64
+00:07:42,820 --> 00:07:53,320
+Grazie al professor Orlandi. Ora interverrà il Presidente dell'autorità garante della concorrenza,
+
+65
+00:07:53,380 --> 00:07:59,980
+che non era presente stamane, ma penso abbia potuto prendere in visione il documento di lavoro
+
+66
+00:07:59,980 --> 00:08:07,120
+della fondazione. La parola Giuliano Amato. Grazie. Le mie scuse per la mia assenza di stamani
+
+67
+00:08:07,660 --> 00:08:15,460
+non ero neppure a Roma. Io ho letto il testo e intanto mi voglio rallegrare con la fondazione
+
+68
+00:08:15,460 --> 00:08:23,320
+Inaudi per aver posto nel suo insieme il problema, ancorché non sarei sincero se non dicesse che
+
+69
+00:08:23,320 --> 00:08:36,440
+proprio per la parte più innovativa di cui giustamente lui parlava mi è sembrato ed è
+
+70
+00:08:36,880 --> 00:08:43,920
+di un tempo medio lungo che io non condivido e in relazione a questa aspettativa di un tempo
+
+71
+00:08:43,920 --> 00:08:51,000
+medio lungo c'è un rinvio di una normativa più specifica per i mezzi diversi dalla televisione
+
+72
+00:08:51,000 --> 00:09:00,500
+via etere che io invece da giorni vox e clamans in semi deserto cerco di sostenere essere
+
+73
+00:09:01,540 --> 00:09:08,820
+coessenziale alla disciplina delle reti via etere affinché non ci troviamo nella condizione in cui
+
+74
+00:09:08,820 --> 00:09:19,540
+ci trovammo vent'anni fa quando poi la situazione di fatto prese la mano e il legislatore non poté
+
+75
+00:09:19,540 --> 00:09:27,860
+fare altro che codificare la situazione di fatto. Non dimentichiamo e ci tornerò che quando Telecom
+
+76
+00:09:27,860 --> 00:09:35,700
+dice che mancano solo gli ultimi venti metri che connettono ciascun asse portante della
+
+77
+00:09:35,700 --> 00:09:47,480
+rete cavo alle singole case dice una verità perché il cablaggio sta diventando una realtà
+
+78
+00:09:47,480 --> 00:09:58,160
+e confrontando questa realtà per ora virtuale in senso proprio con i tempi nei quali negli
+
+79
+00:09:58,160 --> 00:10:04,100
+stati uniti dalla posa della rete alla sua utilizzazione è passato un tempo rapidissimo
+
+80
+00:10:04,960 --> 00:10:13,800
+una legge che venisse fatta in questi due anni oso pensare nel suo insieme salvo la parte par condicio
+
+81
+00:10:13,800 --> 00:10:22,200
+che probabilmente verrebbe anticipata a settimane rischierebbe di uscire se ignorasse questa parte
+
+82
+00:10:22,200 --> 00:10:30,600
+quando questa parte già realtà e i danni potrebbero essere gravi. Mi soffermerò soprattutto su questo
+
+83
+00:10:30,600 --> 00:10:38,140
+perché è la cosa che sento di più non senza aver notato che per la parte che regola più
+
+84
+00:10:38,720 --> 00:10:44,860
+il testo merita apprezzamento a mio avviso naturalmente è rimesso alla valutazione del
+
+85
+00:10:44,860 --> 00:10:53,700
+legislatore e non alla mia ma non c'è dubbio che il rafforzamento della istituzione garante
+
+86
+00:10:54,320 --> 00:11:00,260
+è un rafforzamento di per sé importante anche con norme che a volte vengono dimenticate ho visto
+
+87
+00:11:00,260 --> 00:11:09,680
+con interesse che si è pensato che avere personale a comando è un diminuzio e noto che
+
+88
+00:11:09,680 --> 00:11:15,160
+l'autorità che presiedo è in condizione di lavorare con efficacia perché ha personale
+
+89
+00:11:15,160 --> 00:11:22,000
+proprio il garante per l'editoria e la televisione non lo ha a personale comandato cioè l'attenzione
+
+90
+00:11:22,000 --> 00:11:30,700
+a questi dettagli la trovo meritevole anche per questo ho obietto per il fatto che si arriva
+
+91
+00:11:30,700 --> 00:11:36,880
+a questi dettagli nel regolare il garante e si abbandona il cavo al futuro e il satellite al futuro
+
+92
+00:11:38,760 --> 00:11:48,180
+entro su questo perché se per due ragioni se non si prende atto della potenzialità e allo
+
+93
+00:11:48,180 --> 00:11:56,060
+stesso tempo della attualità della differenziazione dei mezzi di comunicazione televisiva che stiamo
+
+94
+00:11:56,060 --> 00:12:01,980
+per avere si rischia di fare una legge che resta indietro e viene lasciata indietro dai
+
+95
+00:12:01,980 --> 00:12:12,020
+fatti e che lo possiamo pur dire non cambia la sostanza del problema rinverdita da ultimo
+
+96
+00:12:12,020 --> 00:12:17,640
+da po perché non l'ha scoperto per la verità ma con la sua autorevolezza la rinverdita ed
+
+97
+00:12:17,640 --> 00:12:23,320
+il problema se la televisione è un mezzo intrinsecamente stupido è fatto per instupidire
+
+98
+00:12:23,320 --> 00:12:29,900
+il prossimo o se è un mezzo utilizzato prevalentemente in modo stupido e con lo scopo
+
+99
+00:12:29,900 --> 00:12:37,480
+o l'effetto di instupidire il prossimo che sembra essere questa la sostanza del problema che poi
+
+100
+00:12:37,480 --> 00:12:47,620
+tocca direttamente la questione democratica ora io sono tra quelli che pensano che non è
+
+101
+00:12:47,620 --> 00:12:53,500
+la finalità o l'effetto naturale di istupidire il prossimo come non lo è il cinema al quale
+
+102
+00:12:54,160 --> 00:13:02,780
+l'italia di questi decenni deve probabilmente gran parte della sua cultura e della sua vivacità
+
+103
+00:13:02,780 --> 00:13:14,780
+culturale e civile e tuttavia c'è un rapporto scusate se parlo proprio con schemi da antitrust
+
+104
+00:13:14,780 --> 00:13:22,500
+ma c'è un rapporto tra il modo in cui è cresciuta da noi la televisione e questi effetti
+
+105
+00:13:23,720 --> 00:13:32,320
+popperianamente lamentati in essa e ciò che sta per accadere questo lo può cambiare a condizione
+
+106
+00:13:32,320 --> 00:13:39,620
+che sia regolato adeguatamente altrimenti può non cambiarlo e diventare ancora più rischioso
+
+107
+00:13:39,620 --> 00:13:47,020
+da questo punto di vista vi faccio notare una cosa subito in partenza che dovrebbe essere
+
+108
+00:13:47,020 --> 00:13:54,380
+chiara ma che a volte viene accolta con stupito assenso da chi e non ci aveva mai riflettuto
+
+109
+00:13:55,120 --> 00:14:04,520
+abbastanza l'evoluzione imprenditoriale tecnologica e finanziaria che la televisione ha avuto
+
+110
+00:14:04,520 --> 00:14:15,500
+in Europa ed in particolare da noi ha fatto diventare implicito ciò che non è affatto
+
+111
+00:14:15,500 --> 00:14:23,460
+implicito e non è affatto ovvio e cioè che l'impresa televisiva sia per sua natura l'impresa
+
+112
+00:14:23,460 --> 00:14:33,720
+che confeziona i programmi che li organizza e che li trasmette al consumatore se così
+
+113
+00:14:33,720 --> 00:14:43,380
+fosse quella televisiva sarebbe l'unica industria culturale per natura costruita con una sorta
+
+114
+00:14:43,380 --> 00:14:49,600
+di integrazione verticale incorporata tra attività diverse non è così per il libro
+
+115
+00:14:49,600 --> 00:14:55,880
+non è così per il cinema non è così per il giornale non c'è nessuna ragione che sia
+
+116
+00:14:55,880 --> 00:15:02,540
+così per la televisione ma noi abbiamo dato per scontato che invece fosse così per la
+
+117
+00:15:02,540 --> 00:15:08,780
+televisione nell'industria del io mi riferisco alle industrie culturali e io colloco quella
+
+118
+00:15:08,780 --> 00:15:16,620
+televisiva tra le industrie culturali potenzialmente nel libro è pacifico che ci sono esseri umani
+
+119
+00:15:16,620 --> 00:15:25,640
+che scrivono libri ci sono altri esseri umani collocati in una diversa collocazione che
+
+120
+00:15:25,640 --> 00:15:32,600
+un'impresa editoriale che collocano questi libri in collane o esseri umani che scrivono
+
+121
+00:15:32,600 --> 00:15:39,280
+articoli altri esseri umani che costruiscono riviste cioè fanno il palinsesto degli articoli
+
+122
+00:15:40,580 --> 00:15:49,960
+e lo mettono a stampa e vi sono altre imprese terze che distribuiscono ai consumatori il
+
+123
+00:15:49,960 --> 00:15:56,760
+libro sono quindi tre attività distinte a nessuno viene in mente che in natura debba
+
+124
+00:15:56,760 --> 00:16:02,320
+essere la stessa impresa quella che scrive l'articolo quella che lo monta nella rivista
+
+125
+00:16:02,320 --> 00:16:09,340
+quello che lo manda agli utenti l'industria del cinema è o dovrebbe o potrebbe essere
+
+126
+00:16:09,340 --> 00:16:20,380
+la stessa cosa si fanno i film li si danno alla distribuzione la distribuzione li passa
+
+127
+00:16:20,380 --> 00:16:29,840
+alle sale cinematografiche sono tre imprese distinte produzione distribuzione sale e quando
+
+128
+00:16:29,840 --> 00:16:35,980
+si pongono o si arriva a delle situazioni alle quali pure si può arrivare e anche per
+
+129
+00:16:37,620 --> 00:16:45,420
+integrazione verticale si percepisce che c'è stato un fenomeno di concentrazione e il fenomeno
+
+130
+00:16:45,420 --> 00:16:53,860
+di concentrazione al di là di certi limiti viene represso limitato dalle autorità antitrust
+
+131
+00:16:53,860 --> 00:17:01,640
+tutte le volte che ad esempio avendo una data casa di distribuzione o addirittura di produzione
+
+132
+00:17:01,640 --> 00:17:13,480
+in ipotesi il monopolio delle sale può condannare alla indigenza e alla impotenza e alla paralisi
+
+133
+00:17:13,480 --> 00:17:19,400
+coloro che vogliono produrre film in modo indipendente da quella produzione da quella
+
+134
+00:17:21,620 --> 00:17:30,780
+distribuzione molti di voi immagino sono giornalisti non è mai venuto in mente a
+
+135
+00:17:30,780 --> 00:17:39,920
+sono due attività queste assolutamente distinte perché si è dato per scontato che la televisione
+
+136
+00:17:39,920 --> 00:17:46,420
+è per definizione un'impresa integrata nel quale questi tre passaggi sono di per sé
+
+137
+00:17:46,420 --> 00:17:55,100
+addendi di un unicum l'impresa televisiva ecco questo è figlio di una vicenda che allo stesso
+
+138
+00:17:55,100 --> 00:18:03,060
+tempo è imprenditoriale tecnologica e finanziaria tecnologica è evidentemente la disponibilità
+
+139
+00:18:03,060 --> 00:18:11,960
+soltanto dell'etere per trasmettere finanziaria perché è in relazione all'emissione via etere
+
+140
+00:18:11,960 --> 00:18:17,960
+che raggiunge un'utenza indiscriminata che non è in grado di scegliere ciò che vuole perché lo
+
+141
+00:18:17,960 --> 00:18:24,560
+può scegliere col telecomando ma non può escludere a priori o non può collegarsi a priori solo con
+
+142
+00:18:24,560 --> 00:18:30,420
+gli uni e non con gli altri si arrivano arrivano il selettore e il telecomando ma sta tutto in
+
+143
+00:18:30,420 --> 00:18:37,760
+quel telecomando il modulo di finanziamento che è stato trovato con intelligenza dagli
+
+144
+00:18:37,760 --> 00:18:42,640
+imprenditori e che era più coerente a questo era il finanziamento attraverso pubblicità
+
+145
+00:18:43,240 --> 00:18:52,360
+il finanziamento attraverso pubblicità tende a portare tutti verso l'audience più alta
+
+146
+00:18:53,000 --> 00:19:02,500
+perché le imprese che comprano spazi sono propense a dare quegli spazi a chi ha più audience e questo
+
+147
+00:19:02,500 --> 00:19:08,820
+porta naturalmente ad un processo di integrazione noi abbiamo creduto che le imprese regionali
+
+148
+00:19:08,820 --> 00:19:16,940
+potessero avere una vitalità molto elevata ma vivono di vita grama cercando di tenere separati
+
+149
+00:19:16,940 --> 00:19:26,060
+i mercati pubblicitari locali che li alimentano dal mercato nazionale o comunque l'insieme dell'utenza
+
+150
+00:19:34,520 --> 00:19:41,660
+e vivono di vita grama cercando di tenere separati i mercati pubblicitari locali che
+
+151
+00:19:41,660 --> 00:19:48,500
+li alimentano dal mercato nazionale o comunque l'insieme dell'utenza
+
+152
+00:20:06,880 --> 00:20:14,160
+ma c'è una propensione naturale al monopolio quando si verza in questa situazione e direi
+
+153
+00:20:14,160 --> 00:20:21,420
+piaccia o non piaccia che il monopolio in termini economici è più efficiente dal punto di vista
+
+154
+00:20:21,420 --> 00:20:29,060
+puramente finanziario della concorrenza ed è semplicissimo il perché immaginate che gli
+
+155
+00:20:29,060 --> 00:20:35,280
+utenti della televisione in totale siano 100 o 100 milioni o 100 miliardi non ha importanza
+
+156
+00:20:36,960 --> 00:20:43,820
+presumibilmente questi 100 si potrebbero dividere in tre preferenze di tipologie di programmi per
+
+157
+00:20:43,820 --> 00:20:51,340
+cui supponiamo 60 preferiscono il programma di tipo a 20 preferiscono il programma di
+
+158
+00:20:51,340 --> 00:20:58,460
+tipo b 20 preferiscono il programma di tipo c se avete tre reti distinte in concorrenza
+
+159
+00:20:58,460 --> 00:21:03,600
+ci sarà la naturale propensione dei titolari di queste reti a buttarsi tutte e tre sul
+
+160
+00:21:03,600 --> 00:21:11,440
+programma tipo a perché è quello che assicura la massima utenza 60 e tutti e tre tenderanno
+
+161
+00:21:11,440 --> 00:21:16,960
+a scartare il programma tipo b o tipo c anche perché i loro finanziatori li incoraggeranno
+
+162
+00:21:16,960 --> 00:21:25,100
+andare col tipo a risultato i 60 si ripartiranno fra le tre reti e i 20 e 20 saranno ignorati
+
+163
+00:21:25,100 --> 00:21:30,860
+quindi in realtà perdono audience se è un monopolista lui potrà dare sulla rete a il
+
+164
+00:21:30,860 --> 00:21:35,520
+programma di tipo a sulla rete b il programma di tipo b sulla rete c il programma di tipo
+
+165
+00:21:35,520 --> 00:21:43,940
+c e fa il pieno credo che chi ha scoperto in italia che meno di tre reti non vale la
+
+166
+00:21:43,940 --> 00:21:49,400
+pena questo ragionamento se lo sia fatto prima di quanto me lo sia fatto io il che naturalmente
+
+167
+00:21:49,400 --> 00:21:55,060
+finisce poi per creare tutta una serie di problemi che su questo mercato sono ancora
+
+168
+00:21:55,060 --> 00:22:00,400
+più importanti di quelli che ora evocavo e che riguardano il pluralismo e la libertà
+
+169
+00:22:00,400 --> 00:22:06,300
+di pensiero perché questo è un mercato che è governato in termini costituzionari dall'articolo
+
+170
+00:22:06,300 --> 00:22:12,800
+21 prima ancora che dall'articolo 41 cioè libertà di pensiero prima ancora che libertà
+
+171
+00:22:12,800 --> 00:22:22,200
+economica ma ecco vedete questo non è una necessità del mezzo televisivo è una caratteristica
+
+172
+00:22:22,200 --> 00:22:28,000
+che esso ha avuto in una certa fase tecnologica in una certa fase storica in determinati
+
+173
+00:22:28,000 --> 00:22:33,980
+paesi che lo hanno preso in questo modo e che quindi hanno generato discipline che
+
+174
+00:22:33,980 --> 00:22:43,160
+hanno dato per scontata l'integrazione verticale e culture assolutamente integrate è pacifico
+
+175
+00:22:43,160 --> 00:22:50,760
+cioè è un ovvietà un argomento che è una non verità per essere presenti nella televisione
+
+176
+00:22:50,760 --> 00:22:57,360
+bisogna avere molti soldi bisogna essere in prese grosse perché solo così si possono
+
+177
+00:22:57,360 --> 00:23:04,880
+sostenere i costi necessari per l'investimento tecnologico e i costi necessari per fare i
+
+178
+00:23:04,880 --> 00:23:13,300
+programmi che sono costosi e quelli per mandarli all'utente questa ovvietà che è la spiegazione
+
+179
+00:23:13,300 --> 00:23:20,980
+del duopolio italiano che lascia pochissimi margini di libertà ad altri è una non verità
+
+180
+00:23:20,980 --> 00:23:28,600
+perché non è affatto detto che sia necessario che debbano gravare sulla medesima impresa
+
+181
+00:23:28,600 --> 00:23:35,160
+i costi degli impianti tecnologici i costi della produzione dei programmi i costi dell'emissione
+
+182
+00:23:35,160 --> 00:23:40,800
+via etere dei programmi stessi non debbano gravare sulla stessa impresa e non gravano
+
+183
+00:23:40,800 --> 00:23:47,460
+nell'editoria i costi dell'innovazione tecnologica che hanno portato dal piombo dei tipografi
+
+184
+00:23:47,460 --> 00:23:52,800
+al piccolo computer con cui il giornalista si scrive da solo l'articolo nei costi della
+
+185
+00:23:52,800 --> 00:23:58,540
+distribuzione che sono sostenuti da altri operatori economici con la loro parte di
+
+186
+00:23:58,540 --> 00:24:12,800
+ritorno sull'insieme della produzione. Se tutto questo viene considerato ovvio si accetta
+
+187
+00:24:12,800 --> 00:24:21,140
+la propensione al monopolio, la si lima perché altro non si fa che limarla, si dà per scontato
+
+188
+00:24:21,140 --> 00:24:29,480
+che sia un bene correre tutti verso il programma da sessanta anche perché è quello più finanziato
+
+189
+00:24:29,480 --> 00:24:40,680
+e Popper lancia il suo giusto grido d'allarme. La pluralità dei mezzi che ora avremo a disposizione
+
+190
+00:24:40,680 --> 00:24:51,100
+non tra secoli, ma tra mesi, dà al mercato una connotazione tutt'affatto diversa, nella
+
+191
+00:24:51,100 --> 00:24:58,940
+quale non è più così ovvio, così avrebbero detto alcuni dei nostri vecchi e gemone in
+
+192
+00:24:58,940 --> 00:25:06,040
+termini di cultura televisiva l'esigenza dell'essere big che appare ovvia quando non
+
+193
+00:25:06,040 --> 00:25:15,600
+è affatto, in cui è possibile una differenziazione degli stessi mercati, in cui è perciò possibile
+
+194
+00:25:15,600 --> 00:25:22,460
+una minore integrazione verticale, in cui è possibile forse quella che è la leva dell'autentica
+
+195
+00:25:22,460 --> 00:25:30,760
+rivoluzione futura, il passaggio da quasi totale finanziamento via advertising al largo
+
+196
+00:25:30,760 --> 00:25:39,540
+ad opera direttamente del consumatore, attraverso la sottoscrizione dei programmi e delle stazioni
+
+197
+00:25:39,540 --> 00:25:45,820
+alle quali desidera accedere, così come si vanno a comprare libri, così come si vanno
+
+198
+00:25:45,820 --> 00:25:51,280
+a comprare giornali, così come finché ci viene consentito andiamo a scegliere i firm
+
+199
+00:25:55,720 --> 00:26:09,600
+La televisione via cavo è una televisione che per definizione è in grado di selezionare
+
+200
+00:26:09,600 --> 00:26:17,740
+i pacchetti di programmi che vuole trasmettere le fonti dalle quali li può prendere i gruppi
+
+201
+00:26:17,740 --> 00:26:26,620
+di utenti ai quali le vuole indirizzare. Una emittente via cavo la potremmo mettere
+
+202
+00:26:26,620 --> 00:26:33,780
+noi due, coi nostri stipendi di professori, decidendo che vogliamo servire in un'area
+
+203
+00:26:33,780 --> 00:26:43,340
+metropolitana tre gruppi di utenti, i pescatori, gli anziani e le lesbiche. Ci costruiamo
+
+204
+00:26:43,340 --> 00:26:50,620
+un pacchetto che è fatto di due ore generali che possiamo comprare dalla Fininvest, da
+
+205
+00:26:50,620 --> 00:26:58,080
+Telemonte Carlo, dalla RAI, non ha importanza, le compriamo di lì. Prendiamo un'ora di
+
+206
+00:26:58,080 --> 00:27:07,640
+musica che andiamo a scovare da qualche parte e prendiamo due ore dedicate specificamente
+
+207
+00:27:07,640 --> 00:27:14,900
+a temi che interessano i pescatori, ovvero gli anziani, ovvero le lesbiche. Costruiamo
+
+208
+00:27:14,900 --> 00:27:23,560
+questo pacchetto e lo vendiamo per abbonamento. Noi siamo finanziati dagli abbonamenti, non
+
+209
+00:27:23,560 --> 00:27:33,120
+siamo finanziati dalla pubblicità. Non sto dicendo cose che appaiono sciocchezze a chi
+
+210
+00:27:33,120 --> 00:27:41,680
+la salunga sapendo la corta. Vi segnalo che già nel 1993 il 55% delle famiglie americane
+
+211
+00:27:41,680 --> 00:27:49,480
+avevano abbonamenti via cavo, il 55% delle famiglie americane, e una miriade di stazioni
+
+212
+00:27:49,480 --> 00:27:55,450
+come quella che io ora stavo descrivendo erano già nate in quel Paese. Vi ricordo che in
+
+213
+00:27:56,390 --> 00:28:06,930
+90 si è discusso a lungo se accanto ad ABC, CBS ed NBC si poteva mettere su una quarta
+
+214
+00:28:06,930 --> 00:28:15,270
+rete nazionale. Si discusse a lungo, la Federal Communication Commission pensò e ponzò sull'argomento,
+
+215
+00:28:15,370 --> 00:28:21,110
+poi prese piedi del cavo e nessuno ne ha più parlato, perché in realtà quel bisogno di
+
+216
+00:28:21,110 --> 00:28:34,610
+programmi venne soddisfatto largamente attraverso il cavo. La stazione cavo è un'edicola,
+
+217
+00:28:37,090 --> 00:28:45,170
+è esattamente un'edicola e a quell'edicola noi possiamo portare pacchetti di programmi che
+
+218
+00:28:45,170 --> 00:28:54,590
+abbiamo liberamente costruito noi stessi. E c'è questo finanziamento differenziato che naturalmente
+
+219
+00:28:54,590 --> 00:29:00,490
+non sarà mai tutto di un tipo o tutto di un altro. Già in Italia vediamo, e non solo in Italia,
+
+220
+00:29:00,610 --> 00:29:09,370
+che la Pay TV conta principalmente sui sottoscrittori ma introduce una quota sia pure limitata di
+
+221
+00:29:10,410 --> 00:29:16,810
+finanziamento con pubblicità. Ma la stessa pubblicità, e questo è un punto importantissimo,
+
+222
+00:29:17,330 --> 00:29:23,890
+può essere interessata a questi mercati differenziati perché vanno a gruppi di utenti che guardano
+
+223
+00:29:23,890 --> 00:29:30,930
+magari questo e non altro. Quindi mentre oggi se arriva Telemonte Carlo e dice io vi offro tutta
+
+224
+00:29:30,930 --> 00:29:39,350
+la mia rete, è evidente che viene guardata con una certa compassione e gli si dice ma scusa tu
+
+225
+00:29:39,350 --> 00:29:49,850
+a parità di limite orario di spot se ne hai trenta ne fai trenta, se vado dal signor fedele lui a
+
+226
+00:29:49,850 --> 00:29:56,530
+parità di limite trenta per tre fa novanta e quindi io vado da lui perché devo venire da te, lui poi
+
+227
+00:29:56,530 --> 00:30:03,230
+avrà di sicuro più audience. Perché il mercato è unico ed è tutto concentrato, ma se il mercato
+
+228
+00:30:03,230 --> 00:30:12,750
+si differenzia e io so che posso attraverso quella emittente raggiungere le lesbiche, i pescatori,
+
+229
+00:30:13,010 --> 00:30:18,850
+gli anziani è già fin troppo generico, il volontariato, io ne ho parlato più volte con una
+
+230
+00:30:18,850 --> 00:30:24,970
+rivista di volontariato che potrebbe convertirsi alla TV in un sistema del genere, ecco allora ci
+
+231
+00:30:24,970 --> 00:30:31,510
+possono essere delle produzioni che hanno interesse ad andare a questi target specifici che ora
+
+232
+00:30:31,510 --> 00:30:36,590
+cercano in modo molto più approssimativo attraverso la differenziazione per fasce orarie
+
+233
+00:30:36,590 --> 00:30:44,550
+sulle reti nazionali e concorrere al finanziamento insieme ai sottoscrittori di queste emittenti.
+
+234
+00:30:45,450 --> 00:30:53,850
+Allora vedete come diventa pluralistico il sistema in natura, cioè come si scioglie quella sua
+
+235
+00:30:53,850 --> 00:31:00,010
+propensione alla unicità che ha portato a far ritenere ragionevole...
+
