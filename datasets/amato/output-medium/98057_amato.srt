@@ -1,0 +1,1548 @@
+1
+00:00:00,000 --> 00:00:07,000
+10 minuti vorremmo iniziare la tavola tonda perchè poi il professor Amato deve partire
+
+2
+00:00:07,740 --> 00:00:14,000
+e penso che anche altri siano nelle stesse condizioni.
+
+3
+00:00:24,320 --> 00:00:31,000
+Dai figliore, se impieghiamo un quarto d'ora per passarsi la roba.
+
+4
+00:00:48,320 --> 00:00:54,760
+Vabbè, buon pomeriggio a tutti, mio nome è Laura Pontigia e la mia relazione consiste
+
+5
+00:00:54,760 --> 00:01:00,380
+in una breve presentazione dell'Europian Telecommunication Office e dell'attività
+
+6
+00:01:00,380 --> 00:01:06,380
+che svolgiamo. Cercherò poi di stabilire qualche punto di contatto tra la nostra attività
+
+7
+00:01:06,380 --> 00:01:16,080
+e gli argomenti discussi nel convegno di oggi. Per raccontare la storia dell'ETO, dell'Europian
+
+8
+00:01:16,080 --> 00:01:21,880
+Telecommunication Office, dobbiamo cominciare dicendo che c'era una volta la CET, che è
+
+9
+00:01:21,880 --> 00:01:27,520
+la conferenza europea delle poste telecomunicazioni, che inizialmente era costituita dagli enti
+
+10
+00:01:27,520 --> 00:01:34,740
+di poste telecomunicazioni quando non c'era ancora la divisione tra operatori e regolatori.
+
+11
+00:01:35,620 --> 00:01:41,960
+Attualmente è la conferenza europea dei regolatori delle telecomunicazioni e copre 43 paesi europei.
+
+12
+00:01:42,420 --> 00:01:54,060
+La CET è divisa in tre sottocomitati che sono il Comitato Europeo delle Regolatori Postali,
+
+13
+00:01:54,260 --> 00:01:59,780
+l'European Radio Communications Office e l'ECPRA, l'European Committee for Telecommunications Regulatory Affairs,
+
+14
+00:01:59,780 --> 00:02:07,260
+che è costituito dagli enti di regolamentazione di questi 43 paesi europei nel settore delle telecomunicazioni.
+
+15
+00:02:07,940 --> 00:02:13,920
+L'ECPRA e l'ERC non sono degli uffici permanenti, sono appunto dei comitati che si riuniscono
+
+16
+00:02:13,920 --> 00:02:20,240
+tre volte all'anno e hanno poi costituito degli uffici permanenti che hanno tutte e due sede a Copenaglia,
+
+17
+00:02:20,360 --> 00:02:27,200
+sono l'European Radio Communications Office e l'European Telecommunications Office, che è l'ETO di cui faccio parte.
+
+18
+00:02:30,000 --> 00:02:39,360
+L'ETO è stato creato nel settembre del 1994, costituito da un gruppo di esperti, siamo soltanto dieci persone,
+
+19
+00:02:39,460 --> 00:02:44,390
+di cui dieci esperti, e operiamo appunto per conto dell'ECPRA, essendone l'ufficio permanente,
+
+20
+00:02:45,920 --> 00:02:51,920
+ed elaboriamo per l'ECPRA e per la Commissione Europea strategie e suggerimenti sui principali obiettivi
+
+21
+00:02:51,920 --> 00:02:57,920
+della regolamentazione delle telecomunicazioni nei 43 paesi europei dell'ECPRA.
+
+22
+00:03:03,020 --> 00:03:10,720
+Mentre dimostro l'Europa dell'ECPRA, questi paesi in blu sono tutti quelli che fanno i 43 paesi che fanno parte dell'ECPRA,
+
+23
+00:03:11,160 --> 00:03:15,060
+ho detto che noi lavoriamo per la Commissione Europea perché quando l'ufficio è stato creato,
+
+24
+00:03:15,160 --> 00:03:19,780
+è stato anche firmato un accordo quadro tra l'ufficio e la Commissione Europea,
+
+25
+00:03:19,780 --> 00:03:28,080
+e all'interno di questo accordo quadro la Commissione Europea, in particolare la DG13, ci commissiona degli studi sul settore delle telecomunicazioni
+
+26
+00:03:28,080 --> 00:03:31,780
+che sono di interesse ovviamente anche per l'ECPRA e tutti gli altri paesi.
+
+27
+00:03:34,280 --> 00:03:44,520
+Le attività dell'ETO, le principali attività dell'ETO, sono tre, sono in tre campi, licensing, numbering,
+
+28
+00:03:44,520 --> 00:03:50,520
+e poi abbiamo un one stop shopping per la concessione delle licenze.
+
+29
+00:03:51,840 --> 00:04:00,480
+Vi farò una breve presentazione di licensing e dello one stop shopping che sono i due settori di cui mi occupo io direttamente.
+
+30
+00:04:00,840 --> 00:04:12,980
+Per quanto riguarda il numbering vi mando alla breve slide che è stata distribuita e poi ovviamente potete contattare il nostro ufficio se siete interessati.
+
+31
+00:04:12,980 --> 00:04:21,040
+Nel campo del licensing abbiamo effettuato un primo gruppo di studi che sono stati conclusi l'anno scorso per la Commissione Europea, per la DG13,
+
+32
+00:04:22,640 --> 00:04:33,120
+e questi studi sono consistiti nel fare delle proposte di armonizzazione delle condizioni di autorizzazione per i servizi già liberalizzati,
+
+33
+00:04:33,780 --> 00:04:40,120
+quindi servizi dati, altri servizi liberalizzati, gli SPCS satelliti e le reti satellitari.
+
+34
+00:04:40,120 --> 00:04:53,560
+Io in particolare ho curato i primi due e questi studi sono consistiti nel confrontare come la regolamentazione, le autorizzazioni per poter fornire questi servizi,
+
+35
+00:04:53,820 --> 00:05:00,920
+sono regolamentate nei diversi Paesi europei, ovviamente sono regolamentate in maniera diversa,
+
+36
+00:05:00,920 --> 00:05:08,760
+in che si riferiscano tutte ad una direttiva della Commissione Europea, in particolare per i primi due alla 388.
+
+37
+00:05:09,380 --> 00:05:16,000
+In ogni caso poi ogni Paese ha delle procedure, delle condizioni di concessione delle autorizzazioni che sono diverse le une dall'altra.
+
+38
+00:05:16,000 --> 00:05:30,560
+Il risultato di questi studi è stata una lista di armonizzazione di tali condizioni, cercando di proporre soltanto quelle condizioni che non siano onerose per i fornitori di servizi.
+
+39
+00:05:31,620 --> 00:05:39,900
+Il secondo gruppo di studi che stiamo svolgendo attualmente sono quasi finiti, sono il primo sulle condizioni di autorizzazione per i servizi delle comunicazioni mobili,
+
+40
+00:05:39,900 --> 00:05:47,340
+uno sulla regolamentazione dell'operatore con significativo potere di mercato, uno sulle esigenze essenziali, uno sulla protezione dei consumatori.
+
+41
+00:05:47,760 --> 00:05:56,120
+Di questi ultimi tre vi è stato distribuito un riassunto, questi studi sono stati presentati recentemente all'industria, a un workshop a Bruxelles,
+
+42
+00:05:56,320 --> 00:06:00,520
+e verranno finalizzati e consegnati alla Commissione Europea a dicembre.
+
+43
+00:06:00,520 --> 00:06:07,860
+In questo caso per questi studi che sono sempre fatti per la Commissione Europea non possiamo fare proposte di armonizzazione
+
+44
+00:06:07,860 --> 00:06:16,500
+perché si riferiscono a una regolamentazione molto nuova in alcuni Paesi addirittura inesistente al momento o in via dell'elaborazione,
+
+45
+00:06:16,780 --> 00:06:23,680
+e comunque in una situazione in cui nessun Paese ha ancora in realtà visto come la regolamentazione nazionale funziona.
+
+46
+00:06:23,680 --> 00:06:30,980
+Prima di poterla armonizzare è stato chiesto da parte dei Paesi rappresentanti dell'Extra un po' di tempo,
+
+47
+00:06:31,020 --> 00:06:41,220
+quindi abbiamo semplicemente raccolto informazioni su come la regolamentazione di questi argomenti è organizzata nei diversi Paesi europei,
+
+48
+00:06:41,340 --> 00:06:46,680
+abbiamo cercato di fare dei confronti e di individuare dei trends delle posizioni comuni.
+
+49
+00:06:48,000 --> 00:06:57,160
+L'altro aspetto che voglio presentare nel nostro ufficio è il one-stop shopping, la procedura one-stop shopping per la concessione delle licenze.
+
+50
+00:06:57,280 --> 00:07:04,680
+Si riferisce ai servizi liberalizzati dalla 388, quindi servizi dati, servizi a valore aggiunto e gruppi chiusi d'utente.
+
+51
+00:07:06,540 --> 00:07:13,620
+L'esempio classico è un fornitore di questi servizi che vuole fornire lo stesso servizio in diversi Paesi europei.
+
+52
+00:07:13,620 --> 00:07:21,180
+La procedura normale sarebbe quella di rivolgersi al regolatore di ciascun Paese, scoprire come tale servizio viene regolizzato in quel Paese,
+
+53
+00:07:21,260 --> 00:07:25,840
+ottenere tutte le informazioni necessarie, fare una richiesta di autorizzazione dove necessario,
+
+54
+00:07:25,940 --> 00:07:33,500
+aspettare la risposta con tutti i problemi che questo può creare, il fatto di dover contattare tanti enti diversi.
+
+55
+00:07:33,580 --> 00:07:40,120
+La procedura one-stop shopping offre a tutti questi operatori un unico punto di contatto, che è il nostro ufficio,
+
+56
+00:07:40,120 --> 00:07:46,020
+e quindi tutte le informazioni necessarie sono raccolti in un database che è disponibile su internet.
+
+57
+00:07:46,880 --> 00:07:55,140
+Ogni service provider si può rivolgere a questa fonte di informazioni, sapere esattamente quale procedura deve seguire in tutti i Paesi.
+
+58
+00:07:56,160 --> 00:08:03,260
+Però non solo questo, noi abbiamo anche elaborato un application form, quindi una richiesta di autorizzazione,
+
+59
+00:08:03,260 --> 00:08:10,620
+che è un unico modulo valido per tutti i Paesi, e tutto viene svolto in unica lingua, che è l'inglese,
+
+60
+00:08:10,700 --> 00:08:15,540
+quindi un punto di contatto, un'unica richiesta di autorizzazione, un'unica lingua,
+
+61
+00:08:15,820 --> 00:08:22,720
+e soprattutto un tempo limite in cui le amministrazioni nazionali devono emettere l'autorizzazione.
+
+62
+00:08:24,920 --> 00:08:33,020
+In sostanza, il service provider, dopo averci contattato e ottenuto la copia della richiesta di autorizzazione,
+
+63
+00:08:33,140 --> 00:08:39,680
+la compila per tutti i Paesi in cui è interessato, la spedisce al nostro ufficio, noi controlliamo che sia compilata nel modo giusto,
+
+64
+00:08:39,720 --> 00:08:46,720
+noi mandiamo copia a tutti gli enti di regolamentazione dei Paesi, nei quali il fornitore di servizi vuole fornire il servizio.
+
+65
+00:08:48,060 --> 00:08:54,720
+Gli enti di regolamentazione hanno un massimo di sei settimane per rispondere negativamente o positivamente alla concessione di tala autorizzazione,
+
+66
+00:08:56,040 --> 00:09:00,220
+dopodiché mandano a noi la risposta, positiva o negativa, noi...
+
+67
+00:09:00,220 --> 00:09:09,980
+Spero che il new entrant ringrazi il ex monopolista, non si è mai visto e non si vedrà oggi, quindi lei non pretenda alle cinque di averlo,
+
+68
+00:09:09,980 --> 00:09:19,980
+perché stiamo qui fino a notte e lui non lo dice, ci rincontreremo, li rincontrerete, ma insomma non possiamo perdere l'aereo aspettando che lui lo dira, non lo dirà, non lo dirà.
+
+69
+00:09:21,700 --> 00:09:30,440
+Siamo anche cresciuti nell'offrire una qualità di un certo tipo alla nostra clientela, e noi siamo passati da una qualità misurata.
+
+70
+00:09:32,400 --> 00:09:37,420
+Ce la fa? Alla fine, si fa alla fine l'autocritico.
+
+71
+00:09:39,120 --> 00:09:44,740
+Questo non può essere preteso, non siamo nella Cina descritta da Bertolucci.
+
+72
+00:09:50,140 --> 00:09:58,920
+Siamo passati da una qualità misurata ad una qualità percepita, oggi abbiamo degli indicatori estremamente interessanti,
+
+73
+00:09:59,080 --> 00:10:05,340
+come l'assistenza nelle reti dati che ha raggiunto il 94%, che è un indicatore di tipo nordamericano,
+
+74
+00:10:05,340 --> 00:10:14,340
+ma stiamo al 18% sul provisioning, siamo al 18% del 90%, ma pensiamo di superare il 90%.
+
+75
+00:10:18,300 --> 00:10:20,100
+Tutto, questo per definizione.
+
+76
+00:10:21,820 --> 00:10:27,220
+E poi il grosso miglioramento che abbiamo fatto, perché è stato un miglioramento di tipo culturale,
+
+77
+00:10:27,420 --> 00:10:31,740
+è stato quello della conoscenza del business system e del cliente,
+
+78
+00:10:32,100 --> 00:10:38,700
+con tutta una serie di offerte mirate ai flussi comunicazionali dei clienti, addirittura verificando di volta in volta.
+
+79
+00:10:38,700 --> 00:10:45,860
+L'offerta nostra è quella del competitor, perché un'altra filosofia è quella che non si deve seguire ad ogni costo,
+
+80
+00:10:46,000 --> 00:10:50,660
+il prezzo del competitor può allora l'offerta a migliori performance.
+
+81
+00:10:51,880 --> 00:11:02,460
+Abbiamo poi anche, e c'è stato riconosciuto, un sistema di controllo, una mappa di rischio sulla grande clientela affari,
+
+82
+00:11:02,460 --> 00:11:10,620
+oggi ne controlliamo un 10.000, in cui noi riportiamo un indice di vulnerabilità e un indice di profittabilità.
+
+83
+00:11:11,720 --> 00:11:19,640
+L'attenzione è quello di spostare dal quadrante al rischio con massima vulnerabilità e massima profittabilità verso il quacome,
+
+84
+00:11:20,400 --> 00:11:27,880
+offrendo servizi di eccellenza, offrendo innovatività e offrendo... poi vedremo se ci riusciremo oppure no,
+
+85
+00:11:27,880 --> 00:11:36,020
+ma almeno quello che volevo dimostrare è che la messa in onda di questi strumenti stanno ad indicare
+
+86
+00:11:36,020 --> 00:11:43,340
+che noi ci credevamo nella competizione dal momento che abbiamo cominciato a partire e a prepararci molti anni fa,
+
+87
+00:11:43,540 --> 00:11:47,600
+non certo per dire quanto siamo bravi, ma se è stato preinteso.
+
+88
+00:12:05,760 --> 00:12:18,280
+Noi siamo un po' neutrali, nel senso che noi sinceramente non riusciamo a capire se una rete alternativa,
+
+89
+00:12:18,280 --> 00:12:25,500
+non è che non abbiamo fatto dei conti, non riusciamo a capire se una rete alternativa,
+
+90
+00:12:25,880 --> 00:12:30,740
+fra 2-3 anni, 4 anni quando sarà disponibile, perché ci vogliono investimenti notevoli,
+
+91
+00:12:30,800 --> 00:12:38,440
+pensare che dei fili, delle fibre, delle dorsali, siano una rete di telecomunicazioni per quello detto precedentemente
+
+92
+00:12:38,440 --> 00:12:47,140
+in termini di servizi, innovazione, qualità del servizio, customer care, filiera completa, ci vogliono fortissimi investimenti.
+
+93
+00:12:47,140 --> 00:12:53,040
+E allora con il ritmo di discesa che oggi tutti gli operatori hanno, compreso noi,
+
+94
+00:12:53,280 --> 00:13:02,960
+noi oggi siamo alti sul 2 megabit, e lei lo sa benissimo, sul 2 megabit lunga distanza e leggermente sul 64, tutti gli altri circuiti,
+
+95
+00:13:02,980 --> 00:13:10,320
+ma sono gli altri in questo momento che servono alla competizione, siamo perfettamente allineati se non inferiore alle alzate europee,
+
+96
+00:13:10,320 --> 00:13:20,320
+ma con il programma che si ha di discesa, io ho qualche dubbio sulla reddittività o sul fatto che questi operatori
+
+97
+00:13:20,320 --> 00:13:27,320
+possano fare dei prezzi migliori anche perché poi con l'interconnessione le reti alternative serviranno solo
+
+98
+00:13:27,320 --> 00:13:35,400
+per collegare i nodi della rete dell'operatore, ma non per andare fino a casa del cliente dove è più comodo usare
+
+99
+00:13:35,400 --> 00:13:41,080
+il local loop con l'interconnessione, con tutta una serie di arricchimenti che il local loop sta avendo in questo momento,
+
+100
+00:13:41,200 --> 00:13:50,600
+basta pensare il discorso di una SDN che al 2000 avrà 3 milioni di canali equivalenti, il discorso della DSL, dell'XDSL,
+
+101
+00:13:50,620 --> 00:13:56,960
+del DSL che porta da 8 megabit fino a 50 megabit, mentre faccio un po' fatica a pensare che sia quello,
+
+102
+00:13:56,960 --> 00:14:02,960
+e allora sarà soltanto delle reti che interconnetteranno dei nodi.
+
+103
+00:14:03,900 --> 00:14:21,180
+Io ho un risultato, un risultato che vorrei esporre ma più così come su un operator alternativo che è partito molto tempo fa,
+
+104
+00:14:21,180 --> 00:14:32,480
+alcuni anni fa in Gran Bretagna, e che è stato riportato un po' come castadi in tutti i convegni perché era partito in modo molto aggressivo,
+
+105
+00:14:32,640 --> 00:14:40,800
+Energis in Gran Bretagna. Energis che cosa ha fatto? Aveva una dorsale, così come oggi hanno le reti alternative italiane,
+
+106
+00:14:41,560 --> 00:14:52,620
+sui 3-4 mila chilometri di cavo in fibra ottica, era investito fino a portarla a 47 mila chilometri di cavo in fibra,
+
+107
+00:14:52,700 --> 00:14:58,620
+che comincia ad essere una rete estremamente interessante. Ecco, il risultato dal 94 al 96,
+
+108
+00:14:59,600 --> 00:15:10,720
+noi siamo neutrale, non vediamo né un rischio, non vediamo, non possiamo vedere un'opportunità se effettivamente le reti saranno tali da essere messe sul mercato in modo competitivo.
+
+109
+00:15:11,660 --> 00:15:20,640
+Fatta questa premessa, e mi pare che questa premessa, dico sul discorso degli sviluppi della information technology, di cui oggi si è parlato tantissimo,
+
+110
+00:15:23,780 --> 00:15:32,940
+dico, i problemi però non sono venuti fuori, i problemi sono questi, poi se le reti alternative sono competitive, che ben vengano?
+
+111
+00:15:32,940 --> 00:15:40,940
+No, credevo che io mi casse scaglie a investire quello che c'ha in informatica, così fuori uno scherzo.
+
+112
+00:15:41,700 --> 00:15:48,780
+Allora va bene, apriamo la discussione, io premetto che ho grande simpatia e stima dell'ingegner di Genova,
+
+113
+00:15:48,880 --> 00:16:02,420
+e questa è la ragione per cui mi permetto di sfotticchiarlo, d'altra parte l'ex monopolista, attuale monopolista, che vogliamo scherzare, si presta a questo tipo.
+
+114
+00:16:02,420 --> 00:16:13,080
+Però, ecco, la discussione che c'è stata finora, un dilemma lo ha messo bene in evidenza che esiste, cioè due dilemmi ha messo in evidenza,
+
+115
+00:16:13,480 --> 00:16:22,660
+e lui ha fatto bene ad esplicitarlo alla fine, quello che lui ha esplicitato alla fine è quello tra price competition e competition-free service,
+
+116
+00:16:22,660 --> 00:16:34,120
+e di questo io sono convinto, tant'è vero che all'inizio, se ve lo ricordate quando ho aperto questa discussione, dicevo che un tema al quale non abbiamo riflettuto abbastanza,
+
+117
+00:16:34,420 --> 00:16:42,660
+in relazione alla tariffazione che il regolatore in ogni caso farà e che vedremo a quanti dei prezzi si dovrà riferire,
+
+118
+00:16:43,580 --> 00:16:52,280
+il bundling e l'unbundling dei servizi che dovranno essere o potranno essere forniti sarà un passaggio assolutamente cruciale in realtà,
+
+119
+00:16:52,280 --> 00:17:01,220
+perché poi appunto la convergenza si realizza sui servizi ormai, perché le infrastrutture e la convergenza erano già belle realizzate,
+
+120
+00:17:01,380 --> 00:17:10,760
+e in realtà oggi non c'è problema, e questo è un punto importante che del resto era già immerso, lei lo aveva detto,
+
+121
+00:17:10,760 --> 00:17:21,780
+noi non è detto che faremo price competition, noi avvalendoci da un lato dell'esperienza di British Telecom, dall'altro della clientela alla quale in primo luogo punteremo,
+
+122
+00:17:22,900 --> 00:17:34,460
+penseremo alla qualità e alla tipologia dei servizi per una clientela di qualità, insomma questa è comunque concorrenza, insomma che implica investimento peraltro.
+
+123
+00:17:34,460 --> 00:17:42,460
+Vabbè, margine probabilmente non ci tolga la speranza perché tanto ce l'abbiamo non conoscendo ancora i vostri conti,
+
+124
+00:17:43,460 --> 00:17:54,840
+margine per riduzioni di prezzi e di tariffe e riteniamo che ce ne siano ancora, no no sì vanno giù, insomma quella cosa iettatoria inglese non mi è piaciuta molto,
+
+125
+00:17:56,380 --> 00:18:08,660
+vediamo poi questo è un altro problema, l'altro dilemma che è emerso anche se non esplicitato è proprio quello al quale soprattutto voglio dire i giovani che vedo che ce ne sono,
+
+126
+00:18:09,060 --> 00:18:19,840
+che magari fanno tesi su innovazione e concentrazione, ecco qui bisogna avere la cortezza di saper vedere entrambi i lati della questione perché ci sono due lati di questa questione,
+
+127
+00:18:19,840 --> 00:18:35,940
+la tesi che si chiama di Schumpeter che forse lui non ha mai avuto ma che insomma ormai porta in realtà il suo nome non è che sia priva di riscontri e in fondo gli stessi monopolisti delle telecomunicazioni
+
+128
+00:18:35,940 --> 00:18:53,180
+possono essere addotti come un riscontro di questo non c'è dubbio che grazie alle risorse di cui in quanto monopolisti hanno potuto disporre hanno elevato il livello tecnologico e la innovazione nel settore in cui stavano lavorando,
+
+129
+00:18:53,180 --> 00:19:11,680
+questo non c'è il minimo dubbio, vabbè possono avere avuto i loro alti e basi, la domanda che però dovete avere nella testa io infatti non ho mai dato ragione a quella tesi non dando ragione a quella opposta ma dicendo che non è dimostrato fino in fondo
+
+130
+00:19:11,680 --> 00:19:33,640
+che la tesi che l'innovazione figlia della concentrazione è inesorabilmente corretta, il dubbio che questa tesi pone è legato alla interazione tra introduttore di una tecnologia innovativa e utilizzatori non come consumers ma come customers
+
+131
+00:19:33,640 --> 00:19:56,040
+di questa innovazione tecnologica ai fini dell'innovazione successiva, questa interazione è assolutamente dimostrata, allora la domanda che ci si può porre è in questi settori a monopolio legale noi abbiamo avuto tanta innovazione ma quanta in più avremmo potuto averne
+
+132
+00:19:56,040 --> 00:20:19,540
+se ci fossero stati più providers che stimolati ciascuno dalla ricerca di un proprio spazio avessero lavorato su quella innovazione per cavarne qualcosa di ancora più innovativo, è un dato di fatto che tre quarti dell'innovazione è statisticamente nella storia
+
+133
+00:20:19,540 --> 00:20:41,760
+figlia di invenzioni dell'utilizzatore non figlia dell'inventore originale della tecnologia, la interazione necessaria tra introduttore e applicatore della tecnologia l'offre il mercato concorrenziale, non l'offre certo il mercato monopolista su questo non c'è il minimo dubbio
+
+134
+00:20:41,760 --> 00:21:01,720
+allora uno si può una domanda però se tutti partissero tanti in un mercato concorrenziale nessuno metterebbe le risorse necessarie alla prima innovazione sarebbero tutti sull'osso e quindi mentre almeno qui, insomma io ora non lo voglio chiudere ma voglio dire soprattutto per i giovani che ci riflettono
+
+135
+00:21:01,720 --> 00:21:19,040
+questo è veramente uno degli splendidi dilemmi che l'economia offre e che offre il rapporto tra concentrazione e concorrenza puri ma forse questo è il momento di sentire un po' i nostri amici presenti
+
+136
+00:21:19,040 --> 00:21:45,620
+era certo che l'ingegner Piola a questo punto non resistiva ma da parte ne ha facoltà di dirci quello che pensano poi ci possiamo tornare tutti, qui c'è un gelatone per lei se lo prenda lo tenga vicino alle labbra, spero che funzionino, tecnologia, non funziona, forse va aperto, c'è un on e un off direbbe l'ingegner di Genova che parla come Ronchei una volta
+
+137
+00:21:50,520 --> 00:21:58,040
+No, non funziona, sono due on, ce n'è uno di sicurezza
+
+138
+00:22:08,380 --> 00:22:27,940
+Tecnologia è sempre un problema importante, lo stavo dicendo che a mio avviso, sono due fatti da commenti, il primo è questo, mi avviso se penso di vista una cosa fondamentale che è la fidesa temporale, che ci piaccia o meno il gioco delle future, il futuro scenario telecomunicazione in Italia si decideranno i prossimi 2-3 anni
+
+139
+00:22:29,040 --> 00:22:39,880
+Che significa? Primo, che le reti di alternatività che abbiamo fatto tutto il giorno serviranno a niente, ognuno di queste reti deve essere fluibile, richiederà come diceva di Genova almeno 2-3 anni
+
+140
+00:22:39,880 --> 00:23:03,320
+Quindi fondamentalmente, chi oggi vuole operare nel campo delle telecomunicazioni, in concorrenza a Telecom Italia, non può più utilizzare oggi la retta di Telecom Italia, ma ci sono altre alternative
+
+141
+00:23:03,320 --> 00:23:09,640
+Quindi, il problema sembra un problema del costo delle tariffe di Telecom Italia per il periodo tra pochi minuti
+
+142
+00:23:09,640 --> 00:23:28,340
+Il punto chiave quindi è, nella fidesa di una finestra temporale che abbiamo davanti, dobbiamo utilizzare le attuali rette, e non dimentichiamo che a mio avviso è facilmente dimostrabile che oggi la retta di Telecom Italia, se fosse prezzata al prezzo giusto, sarebbe più economica di ogni altra retta
+
+143
+00:23:28,340 --> 00:23:37,480
+Che ancora non esiste, io penso, lo so, per dichiarazione stessa dell'Emer, se invece di avere la loro retta andassero oggi a fare i servizi con Telecom Italia, aspetterebbero di meno
+
+144
+00:23:37,480 --> 00:23:52,680
+Quindi il problema delle trattive ha poche influenze in questo discorso, ma ha sempre una influenza molto importante, quali sono le condizioni per accedere alla retta di Telecom Italia, e qui il discurso probabilmente tarifico si parla prima
+
+145
+00:23:52,680 --> 00:24:05,680
+Secondo aspetto, si parla molto dell'autorità, anche questo va visto in uno scenario da fidesa che abbiamo adesso, il mondo delle telecomunicazioni, il futuro in Italia, verrà fatto indipendentemente dell'autorità
+
+146
+00:24:05,680 --> 00:24:14,720
+Per l'autorità, a un momento che la creano, ci vorrà almeno due anni o tre anni prima che possano trovare i funzionari, le persone
+
+147
+00:24:17,100 --> 00:24:35,360
+Per l'autorità di fatto, non sarà operativa prima di tre anni
+
+148
+00:24:35,360 --> 00:24:42,520
+Poi non vi ho detto che l'autorità, noi siamo tutti entusiasti, lo diciamo pubblicamente, che è ancora funzionata l'autorità antitrust
+
+149
+00:24:42,520 --> 00:24:44,700
+Non vi ho detto che l'autorità non sarà operativa prima di tre anni
+
+150
+00:24:45,540 --> 00:24:56,700
+E' il primo del stesso tipo di autorevolezza che l'altra autorità espressa, qui c'è un'incognita, sia sul tempo che avrà impiegato per farlo e sia poi da come è costruita questa autorità
+
+151
+00:24:57,400 --> 00:25:06,880
+Questo è il secondo punto, il terzo punto importante è questo, durante questo intervento, si parla relativamente poco, sarà la parte finale di questa discussione
+
+152
+00:25:12,300 --> 00:25:21,160
+Si parla molto di tecnologia, la tecnologia è un problema che oggi nel campo delle telecomunicazioni non ti avete poca importanza, perché facci ad aggiungere equivalenza
+
+153
+00:25:21,160 --> 00:25:28,540
+Il vero problema che distinguirà i vicitori futuri nelle telecomunicazioni è un nome marketing, che oggi non ho mai visto
+
+154
+00:25:28,540 --> 00:25:41,340
+Se andiamo a vedere l'esperienza Omnite verso Team, vediamo che è una cosa molto interessante che la prima volta si è fatto nei campi delle telecomunicazioni un confronto tra due aziende sul piano del marketing
+
+155
+00:25:41,340 --> 00:25:52,680
+dove entravano le aziende e hanno fatto un ottimo lavoro, il futuro delle telecomunicazioni quindi non dipenderà da avere o non avere infrastrutture, da avere o non avere tecnologie che erano tutte
+
+156
+00:25:52,680 --> 00:26:06,720
+Il futuro della telecomunicazione dipenderà fondamentalmente dal modo con cui le aziende delle telecomunicazioni verranno dirette, nella creazione di nuovi servizi, di nuove offerte, dell'innovare nel portare la clientela a servizi che oggi la clientela non ha
+
+157
+00:26:06,720 --> 00:26:21,760
+Questo è la tatta vincente, e non è nemmeno, come diceva prima Pompei, legato alla globalità dell'offerta, perché si dimostra anzi che le aziende più vincenti, e l'MFS è indicata prima come un buon esempio, sono quelle che hanno preso la nicchia
+
+158
+00:26:21,760 --> 00:26:33,700
+come si dimostra ad esempio che le aziende di nicchia delle telecomunicazioni mobile hanno speso successi più significativi delle aziende che hanno fatto invece delle telefono mobile parte del package globale
+
+159
+00:26:33,700 --> 00:26:49,900
+Quindi fondamentalmente marketing è una cosa molto importante, e voglio citare per finire una frase che mi ha detto un mio amico che venne dall'America, mi ha detto, sai Piole, le telecomunicazioni sono delle cose troppo importanti per lasciarle in mano alle aziende delle telecomunicazioni
+
+160
+00:26:49,900 --> 00:26:54,360
+Il futuro delle telecomunicazioni sarà in mano alle aziende che oggi vende suocce e copacola
+
+161
+00:26:59,820 --> 00:27:06,820
+Lo lasciamo questo per chi altro chiede la parola, ci sono altre interviste, Franco vuoi dire qualcosa?
+
+162
+00:27:18,820 --> 00:27:32,140
+Il pomeriggio per me vale quella frase iniziale sulla propensione regolatoria che discende dalla formazione dello Stato nazionale
+
+163
+00:27:33,200 --> 00:27:43,020
+e che forse sta nei sensi di colpa della sinistra, per cui è più figlia di Colbert e di Marx
+
+164
+00:27:44,360 --> 00:27:56,420
+Probabilmente si potrebbe dire che l'accentramento amministrativo e il marxismo sono forse un po' come l'uomo e la scimmia hanno forse un antenato in comune, ma questo sarebbe un discorso che porterà di più in mano
+
+165
+00:27:57,200 --> 00:28:00,820
+No, no, è l'altro, è il contrario
+
+166
+00:28:05,280 --> 00:28:17,520
+Poi a un certo punto sono uscito e ho utilizzato un telefono GSM per telefonare al mio agente di cambio dicendogli di comprare delle telecom
+
+167
+00:28:17,520 --> 00:28:21,520
+Perchè secondo me questo è quello che viene fuori dal pomeriggio
+
+168
+00:28:22,340 --> 00:28:33,520
+Nel senso che adesso la telecom sta diventando come l'AT&T degli anni migliori
+
+169
+00:28:35,260 --> 00:28:42,720
+Prima era un po' antipatica da qualche stigma negativo in quanto pubblico, soprattutto ultimamente
+
+170
+00:28:42,720 --> 00:28:49,580
+Ma adesso è diventata privata e quindi è diventata anche simpatica
+
+171
+00:28:49,580 --> 00:28:56,940
+Tanta gente l'ha comparata alle azioni, si è saldata, si è operata questa saldatura con i poteri forti
+
+172
+00:28:56,940 --> 00:29:08,100
+Quali sono appunto forti perchè hanno messo pochissimi soldi, tra l'altro si sono fatti anche pregare, per poter comandare sui soldi di coloro che hanno messo i soldi senza avere i poteri
+
+173
+00:29:08,100 --> 00:29:13,100
+Io quindi credo che oramai non ci sia più niente da fare
+
+174
+00:29:14,460 --> 00:29:21,360
+Perchè in Italia non si vede il giudice green che possa oramai attaccare a telecom
+
+175
+00:29:21,360 --> 00:29:23,960
+Oltretutto sarebbe un giudice verde, chi ha chiamato?
+
+176
+00:29:24,160 --> 00:29:27,040
+Ma lo lasciamo perdere, questo non c'entra molto
+
+177
+00:29:27,040 --> 00:29:30,880
+E quindi per questo io credo che non ci sia...
+
+178
+00:29:30,880 --> 00:29:37,040
+Il GSM è stata così una cosa, un po' un'invenzione, una strana invenzione europea
+
+179
+00:29:37,040 --> 00:29:42,080
+Cacciata giù con la martellate un po' dall'Europa, da Van Myrd
+
+180
+00:29:42,080 --> 00:29:50,200
+E qui non dall'Antitrust, perchè l'Antitrust non poteva interferire su queste materie che sono riserva di Stato
+
+181
+00:29:50,200 --> 00:29:54,700
+Ecco, c'è stato un momento in cui questo era possibile
+
+182
+00:29:54,700 --> 00:30:05,220
+E' stato un momento quando si trattava di vedere se si fosse potuto fare quello che in America gloriosamente chiamano break up
+
+183
+00:30:05,220 --> 00:30:08,460
+E in Italia sprezzantemente spezzatino
+
+184
+00:30:08,460 --> 00:30:14,160
+Ma lì il colbertismo ha chiuso l'unica finestra che c'era
+
+185
+00:30:14,160 --> 00:30:17,960
+Poi ce n'è stata ancora una di finestra, forse
+
+186
+00:30:17,960 --> 00:30:21,720
+E' stata chiusa quando c'è stata dell'autorità
+
+187
+00:30:21,720 --> 00:30:29,600
+E questo è stata chiusa quando il colbertismo si è, che è impersonato dal nostro Presidente del Consiglio
+
+188
+00:30:29,600 --> 00:30:35,720
+Si è saldata con l'ossessione televisiva della sinistra
+
+189
+00:30:36,280 --> 00:30:39,460
+E questa ha prodotto...
+
+190
+00:30:39,460 --> 00:30:44,420
+Ossessione televisiva diffusa, ma devo dire in modo particolare della sinistra
+
+191
+00:30:44,420 --> 00:30:51,180
+Io ricordo perfettamente quando noi facevamo la legge per l'autorità delle telecomunicazioni
+
+192
+00:30:51,180 --> 00:30:53,240
+Che era delle telecomunicazioni
+
+193
+00:30:53,240 --> 00:30:57,300
+A un certo momento arrivano gli emendamenti di Carlo Rognoni e tutti insieme a dire
+
+194
+00:30:57,300 --> 00:31:04,560
+No, qui dobbiamo prendere quest'occasione perché dobbiamo fare l'antitrust contro Berlusconi
+
+195
+00:31:04,560 --> 00:31:07,760
+E di lì è nato questa autorità, qui è una delle...
+
+196
+00:31:07,760 --> 00:31:12,940
+Io non sono normalmente molto d'accordo con le ambizioni
+
+197
+00:31:14,760 --> 00:31:19,380
+Non sono molto d'accordo con alcune cose che dice il mio amico Franco Tattò
+
+198
+00:31:19,380 --> 00:31:21,380
+Ma devo essere...
+
+199
+00:31:22,080 --> 00:31:26,800
+Quello che ha detto prima Pompeo a proposito dell'autorità mi trova completamente d'accordo
+
+200
+00:31:26,800 --> 00:31:33,380
+Posso andare avanti, posso fermarmi, ma credo che...
+
+201
+00:31:35,320 --> 00:31:43,280
+Allora vado avanti, a un momento che ho evocato Tattò, io credo che qui, senza entrare
+
+202
+00:31:43,280 --> 00:31:46,100
+E quindi le ambizioni telefoniche dell'ENEL
+
+203
+00:31:46,100 --> 00:31:54,540
+In generale quello che l'ENEL fa in questo periodo di oramai impregisatamente lunga transizione
+
+204
+00:31:54,540 --> 00:32:01,200
+Perché con il veto di Bertinotti in questa transizione non si sa quando finirà la transizione privata
+
+205
+00:32:01,200 --> 00:32:06,100
+Anche io sono rimasto colpito dalla frase avevamo una rete surdimensionata
+
+206
+00:32:06,960 --> 00:32:16,040
+Perché questo pone il problema fondamentale che è il problema del problema delle attende pubbliche
+
+207
+00:32:16,040 --> 00:32:23,820
+Il problema che oggi è diventato ancora più critico quando l'ente pubblica economica è stata trasformata in SPA
+
+208
+00:32:24,540 --> 00:32:29,280
+E quando la titolarità dell'SPA è stata portata al Tesoro
+
+209
+00:32:29,280 --> 00:32:31,900
+Allora chi è che controlla questi piani?
+
+210
+00:32:32,240 --> 00:32:38,540
+E qui viene fuori delle cose interessanti quando l'ENEL dice
+
+211
+00:32:40,560 --> 00:32:42,060
+L'ENEL dice
+
+212
+00:32:42,060 --> 00:32:46,380
+Io voglio entrare nelle telecomunicazioni per due ragioni
+
+213
+00:32:46,380 --> 00:32:52,620
+Primo, perché il Tesoro, il mio azionista, mi ha detto di valorizzare gli assi
+
+214
+00:32:53,980 --> 00:32:59,000
+Secondo, perché io in questo modo faccio al paese il regalo della concorrenza
+
+215
+00:32:59,000 --> 00:33:00,660
+Perché altrimenti non ci sarebbe
+
+216
+00:33:00,660 --> 00:33:04,980
+Perché sennò la gara per il terzo gestore vedrebbe sostanzialmente la sola alba
+
+217
+00:33:10,380 --> 00:33:12,540
+Sono due affermazioni
+
+218
+00:33:12,540 --> 00:33:15,020
+La prima non è dimostrata
+
+219
+00:33:15,020 --> 00:33:17,760
+E la seconda non è dimostrabile
+
+220
+00:33:17,760 --> 00:33:19,480
+Io dico perché
+
+221
+00:33:20,360 --> 00:33:22,240
+Valorizza l'asset
+
+222
+00:33:22,240 --> 00:33:23,220
+Lo dice lui
+
+223
+00:33:23,760 --> 00:33:25,660
+Ma qualcuno ha visto un piano
+
+224
+00:33:25,660 --> 00:33:27,600
+Io spero che al Tesoro lo abbiano visto
+
+225
+00:33:27,600 --> 00:33:30,800
+Io non so come faccia a valorizzare l'asset
+
+226
+00:33:30,800 --> 00:33:33,660
+Perché lui prende un ramo d'azienda
+
+227
+00:33:33,660 --> 00:33:35,620
+Lo conferisce in un'azienda
+
+228
+00:33:35,620 --> 00:33:38,880
+Poi dopo deve trasformare in una nuova società
+
+229
+00:33:38,880 --> 00:33:40,840
+Quindi ha definito la interfaccia
+
+230
+00:33:40,840 --> 00:33:42,900
+Ha definito tutti i prezzi di interscambio
+
+231
+00:33:42,900 --> 00:33:44,720
+Come verranno pagati alle telefonate
+
+232
+00:33:46,260 --> 00:33:49,960
+Poi chiede a far entrare degli altri azionisti
+
+233
+00:33:49,960 --> 00:33:52,600
+Gli altri azionisti portano solo i soldi?
+
+234
+00:33:54,120 --> 00:33:55,380
+Io ho qualche dubbio
+
+235
+00:33:55,380 --> 00:33:57,300
+Però comunque nessuno ce l'ha detto
+
+236
+00:33:58,060 --> 00:34:00,620
+E poi i finanziamenti futuri
+
+237
+00:34:00,620 --> 00:34:01,440
+Chi li mette?
+
+238
+00:34:01,600 --> 00:34:03,260
+Esce in questo modo l'ENEL
+
+239
+00:34:03,260 --> 00:34:06,420
+Tutte cose che nessuno ne sa niente
+
+240
+00:34:06,420 --> 00:34:11,260
+Io spero solo che Mario Draghi abbia ricevuto questi piani
+
+241
+00:34:11,260 --> 00:34:13,500
+Che li abbia esaminati, che li ha trovato che vanno bene
+
+242
+00:34:13,500 --> 00:34:15,420
+Che li abbia permesso al Ministro, non lo so
+
+243
+00:34:15,900 --> 00:34:19,120
+Quindi comunque il fatto che lui valorizzi l'asset
+
+244
+00:34:19,120 --> 00:34:21,380
+E che non ci siano altre strategie per valorizzarlo
+
+245
+00:34:22,000 --> 00:34:23,520
+Noi non abbiamo visto nessun piano
+
+246
+00:34:23,520 --> 00:34:26,440
+Quindi abbiamo solo la parola di Brutto
+
+247
+00:34:26,440 --> 00:34:28,520
+Il quale ovviamente è un uomo d'onore
+
+248
+00:34:29,740 --> 00:34:31,340
+E poi la seconda
+
+249
+00:34:31,340 --> 00:34:34,180
+Che solo lui può garantire concorrenza
+
+250
+00:34:34,180 --> 00:34:38,720
+Questa è una frase non dimostrabile per petizione di principio
+
+251
+00:34:38,720 --> 00:34:45,000
+Perché è il fatto stesso che entri nell'arena competitiva
+
+252
+00:34:45,000 --> 00:34:49,640
+Un monopolista pubblico a impedire che nascono dei concorrenti
+
+253
+00:34:49,640 --> 00:34:51,740
+Quindi questa è una frase non dimostrabile
+
+254
+00:34:53,640 --> 00:34:57,280
+E poi ci sarebbe qualcosa da dire sul fatto
+
+255
+00:34:58,980 --> 00:35:04,000
+Se mercati e concorrenze siano beni ai quali dare un prezzo
+
+256
+00:35:04,000 --> 00:35:05,520
+Oppure no, ma su questo
+
+257
+00:35:06,520 --> 00:35:09,360
+Dei fronte a tanta presenza mi tarcio
+
+258
+00:35:11,160 --> 00:35:11,880
+Grazie
+
+259
+00:35:11,880 --> 00:35:13,040
+Ci sono altri?
+
+260
+00:35:13,560 --> 00:35:16,500
+In fondo è un'occasione unica di così
+
+261
+00:35:16,500 --> 00:35:20,860
+Si possono investire di critiche educate in un colpo solo
+
+262
+00:35:20,860 --> 00:35:24,240
+Chi rappresenta l'Enel, la Telecom, le ferrovie
+
+263
+00:35:24,240 --> 00:35:26,720
+Il professor Baccava ha dato un'occasione
+
+264
+00:35:26,720 --> 00:35:30,600
+La Snam ancora non avete capito quante critiche merita
+
+265
+00:35:30,600 --> 00:35:32,980
+Ma insomma merita anche lì
+
+266
+00:35:32,980 --> 00:35:36,600
+Poi c'è Omnitel in una posizione un po' diffirata
+
+267
+00:35:36,600 --> 00:35:38,980
+Vi è stata offerta un'occasione rara
+
+268
+00:35:39,850 --> 00:35:42,520
+Se non la volete utilizzare che ci posso fare?
+
+269
+00:35:42,680 --> 00:35:45,300
+Il consumatore è contento, il monopolio gode
+
+270
+00:35:59,880 --> 00:36:01,980
+Una famiglia numerosa
+
+271
+00:36:01,980 --> 00:36:04,180
+E per quel motivo odio il silenzio
+
+272
+00:36:04,180 --> 00:36:05,960
+E per quello che mi sono messo
+
+273
+00:36:05,960 --> 00:36:10,140
+Comunque penso che già stamattina
+
+274
+00:36:10,140 --> 00:36:15,740
+È dato un suggerimento alla preoccupazione di Telecom Italia
+
+275
+00:36:15,740 --> 00:36:20,380
+Che l'interconnessione sarebbe solo
+
+276
+00:36:20,380 --> 00:36:20,840
+Un'occasione rara
+
+277
+00:36:20,840 --> 00:36:24,540
+Un'autostrade di fibrotiche fra i nodi
+
+278
+00:36:24,540 --> 00:36:26,840
+Però l'ultimo milio fino al cliente
+
+279
+00:36:27,600 --> 00:36:29,840
+E' sempre un incarico e può congestire
+
+280
+00:36:30,440 --> 00:36:32,580
+La rete di Telecom Italia
+
+281
+00:36:32,580 --> 00:36:36,280
+Spesso abbiamo detto che la soluzione per questo
+
+282
+00:36:36,280 --> 00:36:38,300
+E' il unban loop
+
+283
+00:36:38,840 --> 00:36:43,260
+In quale sia il problema della congestione risolta
+
+284
+00:36:43,260 --> 00:36:47,840
+Sia anche forse c'è un passo verso un approccio
+
+285
+00:36:47,840 --> 00:36:52,120
+E' un po' interessante per risuodere il problema del access deficit
+
+286
+00:36:52,120 --> 00:36:54,920
+Oppure del servizio generale
+
+287
+00:36:54,920 --> 00:36:58,520
+E quello penso che ci sono ampi esempi
+
+288
+00:36:58,520 --> 00:37:00,960
+Che può essere una soluzione ragionevole
+
+289
+00:37:00,960 --> 00:37:02,680
+Per risuodere questo problema
+
+290
+00:37:02,680 --> 00:37:06,220
+Secondo commento sul commento dell'Ingenier Pio
+
+291
+00:37:06,840 --> 00:37:10,960
+Che quando qualcuno si mette in competizione con Telecom Italia
+
+292
+00:37:10,960 --> 00:37:14,380
+Ovviamente non può sfruttare della rete di Telecom Italia
+
+293
+00:37:15,380 --> 00:37:18,500
+Non sono a cento per cento d'accordo
+
+294
+00:37:19,040 --> 00:37:21,320
+Con questa posizione
+
+295
+00:37:21,320 --> 00:37:25,320
+Primo penso che l'apertura del mercato
+
+296
+00:37:25,320 --> 00:37:27,180
+Non è stato creato per fare crescere
+
+297
+00:37:27,180 --> 00:37:29,280
+Delle società come Pirelli
+
+298
+00:37:30,140 --> 00:37:32,560
+Dall'altra parte penso anche che
+
+299
+00:37:32,560 --> 00:37:36,380
+L'ingresso e le barriere per entrare nel mercato
+
+300
+00:37:37,460 --> 00:37:41,160
+Devono venire di un modello di costo di base
+
+301
+00:37:41,160 --> 00:37:44,060
+Di nuovo parliamo dell'autority
+
+302
+00:37:44,060 --> 00:37:46,980
+Che dovrebbe definire qual è questo costo di base
+
+303
+00:37:46,980 --> 00:37:51,300
+Per accelerare l'ingresso di società
+
+304
+00:37:51,300 --> 00:37:52,600
+Nel nuovo mercato
+
+305
+00:37:52,600 --> 00:37:55,660
+Usufruando delle risorse esistente
+
+306
+00:37:55,660 --> 00:38:00,040
+Non ho detto che dobbiamo solo usufruire
+
+307
+00:38:00,040 --> 00:38:02,640
+L'infrastruttura di Telecom Italia
+
+308
+00:38:02,880 --> 00:38:05,280
+Io mi aspetto anche che
+
+309
+00:38:05,280 --> 00:38:08,200
+Fra poco quando si mettono sul mercato
+
+310
+00:38:10,220 --> 00:38:12,660
+Anche le altre società
+
+311
+00:38:12,660 --> 00:38:15,140
+Che noi abbiamo anche la possibilità
+
+312
+00:38:15,140 --> 00:38:17,080
+Da vedere un listino di interconnessione
+
+313
+00:38:17,080 --> 00:38:18,580
+Per la loro rete
+
+314
+00:38:18,580 --> 00:38:22,660
+Come quando noi arriviamo con la rete internazionale
+
+315
+00:38:22,660 --> 00:38:24,160
+Pan Europea
+
+316
+00:38:24,160 --> 00:38:26,260
+Siamo anche obbligato da offrire
+
+317
+00:38:26,260 --> 00:38:29,660
+Ad altre società incluso Telecom Italia
+
+318
+00:38:29,660 --> 00:38:35,380
+La possibilità di usufruire questa rete internazionale
+
+319
+00:38:35,380 --> 00:38:37,400
+E' l'unica cosa che vorrei raggiungere
+
+320
+00:38:37,400 --> 00:38:41,380
+Spero che...
+
+321
+00:38:50,280 --> 00:38:54,120
+Io allora, non fate lunghi discorsi
+
+322
+00:38:54,120 --> 00:38:55,820
+Perché siamo tutti stanchi
+
+323
+00:38:55,820 --> 00:38:58,740
+Non lo ascoltiamo più dopo qualche minuto
+
+324
+00:38:58,740 --> 00:39:01,260
+Però è uno spazio a questo punto
+
+325
+00:39:01,260 --> 00:39:03,240
+L'ordine di interazione tra di voi
+
+326
+00:39:03,240 --> 00:39:05,700
+E di reazione alle cose che sono state dette
+
+327
+00:39:05,700 --> 00:39:07,120
+E' giusto che ci sia
+
+328
+00:39:07,120 --> 00:39:09,420
+L'ordine ve lo lascio in libertà
+
+329
+00:39:09,420 --> 00:39:11,880
+A questo punto Pompei ha chiesto per primo
+
+330
+00:39:11,880 --> 00:39:14,600
+Quindi se lo prende
+
+331
+00:39:15,180 --> 00:39:15,700
+Grazie
+
+332
+00:39:15,700 --> 00:39:18,880
+Sì, volevo provare a rispondere brevemente
+
+333
+00:39:20,240 --> 00:39:24,000
+Al rilievo che ha formulato il senatore de Penetri
+
+334
+00:39:25,540 --> 00:39:28,700
+L'Enel ha un'assonista che è il Ministero del Tesoro
+
+335
+00:39:28,700 --> 00:39:30,600
+Ha un'autorità concedente
+
+336
+00:39:30,600 --> 00:39:33,060
+Che limita molto come giusto che sia
+
+337
+00:39:34,460 --> 00:39:36,580
+La libertà di movimento dell'Enel
+
+338
+00:39:36,580 --> 00:39:38,280
+Che è il Ministero dell'Industria
+
+339
+00:39:38,280 --> 00:39:43,020
+A tutto sono sopraordinate due autorità indivendenti
+
+340
+00:39:43,540 --> 00:39:46,260
+Una già costituita che è quella per l'energia
+
+341
+00:39:46,260 --> 00:39:48,220
+E un'altra in via di costituzione
+
+342
+00:39:48,220 --> 00:39:50,180
+Che è quella per le comunicazioni
+
+343
+00:39:50,800 --> 00:39:51,400
+Ora
+
+344
+00:39:52,860 --> 00:39:56,200
+Se c'è stata qualche mancanza di comunicazione
+
+345
+00:39:56,200 --> 00:39:59,520
+Certamente ci sarà stata in termini di predisposizione dei piani
+
+346
+00:39:59,520 --> 00:40:01,340
+Comunicazione e quant'altro
+
+347
+00:40:01,340 --> 00:40:06,780
+Ecco, vorrei che non dimenticassimo che noi siamo sempre molto rigidi
+
+348
+00:40:06,780 --> 00:40:10,100
+Nel ritenere che il nostro azionista debba essere il governo
+
+349
+00:40:10,100 --> 00:40:12,660
+E che quindi spetti al governo dire certe cose
+
+350
+00:40:12,660 --> 00:40:14,300
+In termini di contenuti
+
+351
+00:40:14,300 --> 00:40:16,520
+Poi pensare che questi quattro signori
+
+352
+00:40:18,080 --> 00:40:22,120
+Così possano aver dato la loro luce verde
+
+353
+00:40:22,120 --> 00:40:24,420
+A un progetto indubbiamente molto complesso
+
+354
+00:40:24,420 --> 00:40:28,540
+Senza averne verificato tutti quanti i risvolti
+
+355
+00:40:28,540 --> 00:40:30,800
+Forse mostra una sfiducia
+
+356
+00:40:30,800 --> 00:40:33,380
+Che io, a differenza dell'ingegnere
+
+357
+00:40:33,380 --> 00:40:36,860
+A differenza del senatore del Benedetti, non nutro
+
+358
+00:40:36,860 --> 00:40:39,200
+Quanto al fatto poi che sia
+
+359
+00:40:40,640 --> 00:40:42,860
+Che l'Enel di per sé
+
+360
+00:40:42,860 --> 00:40:44,960
+possa aumentare la concorrenza
+
+361
+00:40:44,960 --> 00:40:47,260
+Questa è un'affermazione che non abbiamo mai fatto
+
+362
+00:40:47,260 --> 00:40:51,080
+Abbiamo fatto un'affermazione un pochino diversa
+
+363
+00:40:51,080 --> 00:40:55,300
+L'affermazione che abbiamo fatto è che c'è un processo concorrenziale in atto
+
+364
+00:40:55,300 --> 00:40:56,820
+E' un processo concorrenziale
+
+365
+00:40:56,820 --> 00:40:59,120
+In cui pensiamo di poter contribuire
+
+366
+00:40:59,120 --> 00:41:01,280
+Non solo con le infrastrutture che apportiamo
+
+367
+00:41:01,280 --> 00:41:03,820
+Ma anche con la competenza che abbiamo maturato
+
+368
+00:41:03,820 --> 00:41:07,720
+E certamente se la concorrenza è un obiettivo comune come deve esserlo
+
+369
+00:41:07,720 --> 00:41:11,460
+E' chiaro che ci muoviamo esattamente nell'ambito
+
+370
+00:41:13,680 --> 00:41:15,200
+Due commenti rapidi
+
+371
+00:41:15,200 --> 00:41:17,160
+Invece su quello che diceva Piolo
+
+372
+00:41:17,160 --> 00:41:19,360
+E che diceva anche l'ingegnere di Genova
+
+373
+00:41:19,360 --> 00:41:22,400
+Il mondo futuro non è un mondo di infrastrutture
+
+374
+00:41:22,400 --> 00:41:23,260
+E un mondo di servizi
+
+375
+00:41:23,260 --> 00:41:27,140
+Quindi alla fine il messaggio è che non perdere tanto tempo queste infrastrutture
+
+376
+00:41:27,140 --> 00:41:29,240
+Cerchiamo di concentrarci sui servizi
+
+377
+00:41:29,240 --> 00:41:32,000
+Io credo che questa cosa qui sia vera
+
+378
+00:41:32,000 --> 00:41:33,560
+Però devo anche dirvi una cosa
+
+379
+00:41:33,560 --> 00:41:36,560
+Che è l'unico esempio di successo nel mondo delle telecomunicazioni
+
+380
+00:41:37,280 --> 00:41:40,380
+Da pochi anni a questa parte è MFS Worldcom
+
+381
+00:41:40,380 --> 00:41:43,420
+Che tutto fa meno che competere sui servizi
+
+382
+00:41:43,420 --> 00:41:45,440
+Delle parti delle infrastrutture
+
+383
+00:41:45,440 --> 00:41:48,160
+Allora attenzione a dare modelli
+
+384
+00:41:48,160 --> 00:41:51,140
+E a definire modelli di sviluppo e di comportamento
+
+385
+00:41:51,140 --> 00:41:55,360
+Che poi di fatto nella pratica competitiva di tutti i giorni
+
+386
+00:41:55,360 --> 00:41:57,320
+Possono trovare delle argomentazioni
+
+387
+00:41:57,320 --> 00:41:59,620
+Altrettante argomentazioni di segno negativo
+

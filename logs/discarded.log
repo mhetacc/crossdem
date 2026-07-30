@@ -6089,3 +6089,4 @@ amato  2026-07-30 11:14:12.755888  https://www.radioradicale.it/scheda/126199/tr
 amato  2026-07-30 11:14:13.526673  https://www.radioradicale.it/scheda/121106/assemblea-annuale-della-confcommercio-co-palazzo-dei-congressi-viale-della-pittura?i=1742342  TypeError: string indices must be integers, not 'str'
 amato  2026-07-30 13:00:22.129848  https://www.radioradicale.it/scheda/102647/la-storia-politica-dellunione-europea-presentazione-del-libro-di-giuseppe-mammarella-e?i=1950789  RuntimeError: yt-dlp exited 1
 amato  2026-07-30 13:43:29.276996  https://www.radioradicale.it/scheda/102645/sinistra-e-riformismo-per-una-nuova-fondazione-di-cultura-politica-org-da-sinistra-e?i=1950826  TypeError: string indices must be integers, not 'str'
+amato  2026-07-30 15:34:06.743356  https://www.radioradicale.it/scheda/119372/a-ciascuno-il-suo-mestiere-presentazione-del-libro-di-sergio-cofferati-e-gaetano?i=1763332  RuntimeError: yt-dlp exited 1
