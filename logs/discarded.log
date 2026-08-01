@@ -7736,3 +7736,13 @@ cossiga  2026-08-01 17:59:38.643974  https://www.radioradicale.it/scheda/160867/
 cossiga  2026-08-01 18:23:06.645717  https://www.radioradicale.it/scheda/105616/chiusura-della-prima-festa-nazionale-delludr-organizzata-dellunione-democratici-per-la?i=1912130  TypeError: string indices must be integers, not 'str'
 cossiga  2026-08-01 18:23:07.967882  https://www.radioradicale.it/scheda/43605/visita-del-presidente-della-repubblica-francesco-cossiga-nuovo-museo-di-arte-moderna?i=2547007  TypeError: string indices must be integers, not 'str'
 cossiga  2026-08-01 18:34:02.579565  https://www.radioradicale.it/scheda/127816/processo-a-calogero-mannino-per-concorso-esterno-in-associazione-mafiosa?i=1666113  RuntimeError: yt-dlp exited 1
+cossiga  2026-08-01 19:26:43.718511  https://www.radioradicale.it/scheda/23398/la-situazione-di-emergenza-in-valtellina?i=2712261  TypeError: string indices must be integers, not 'str'
+cossiga  2026-08-01 19:26:45.127700  https://www.radioradicale.it/scheda/1522/xiv-congresso-della-democrazia-cristiana?i=223284  TypeError: string indices must be integers, not 'str'
+rumor  2026-08-01 19:30:06.685311  https://www.radioradicale.it/scheda/58713/le-correnti-nella-storia-della-dc?i=2420197  TypeError: string indices must be integers, not 'str'
+rumor  2026-08-01 19:30:07.396557  https://www.radioradicale.it/scheda/11283/referendum-contingenza-consiglio-nazionale-dc?i=2778868  TypeError: string indices must be integers, not 'str'
+rumor  2026-08-01 19:30:09.255979  https://www.radioradicale.it/scheda/22090/strage-di-peteano?i=2719181  TypeError: string indices must be integers, not 'str'
+rumor  2026-08-01 19:30:15.393421  https://www.radioradicale.it/scheda/19889/xvi-congresso-della-democrazia-cristiana?i=2735358  TypeError: string indices must be integers, not 'str'
+rumor  2026-08-01 19:30:17.062088  https://www.radioradicale.it/scheda/1520/xiv-congresso-della-democrazia-cristiana?i=223224  TypeError: string indices must be integers, not 'str'
+andreotti  2026-08-01 19:51:29.476396  https://www.radioradicale.it/scheda/251012/inaugurazione-del-master-enrico-mattei-in-medio-oriente-nel-centenario-della-nascita?i=1036982  TypeError: string indices must be integers, not 'str'
+andreotti  2026-08-01 19:51:31.708043  https://www.radioradicale.it/scheda/158728/ideale-e-impegno-politico-nellambito-della-25a-edizione-del-meeting-di-rimini-dal?i=1374798  TypeError: string indices must be integers, not 'str'
+andreotti  2026-08-01 19:51:33.197805  https://www.radioradicale.it/scheda/157365/una-vita-per-la-politica-dibattito-organizzato-nellambito-degli-incontri-al-caffe?i=1386810  TypeError: string indices must be integers, not 'str'
