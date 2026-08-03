@@ -748,8 +748,8 @@ def main (politician, SUBJECT_URL):
             print(f"  ✗ Failed: {e}")
             continue
 
-if __name__ == "__main__":
-    for politician, SUBJECT_URL in DATA:
-        main(politician, f"{BASE_URL}/{SUBJECT_URL}")
+#if __name__ == "__main__":
+#    for politician, SUBJECT_URL in DATA:
+#        main(politician, f"{BASE_URL}/{SUBJECT_URL}")
 
-#trim_to_1s(f"{BASE_DIR}/datasets/d'alema/audio_out")
+trim_to_1s(f"{BASE_DIR}/datasets/andreotti/audio_out")
