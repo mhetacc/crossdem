@@ -33,8 +33,9 @@ degasperi,1951-05-6,Venezia,low,mid,mid,pol_adv
 degasperi,1953-04-19,Roma,low,low,low,none
 degasperi,1953-05-1,Torino,low,high,high,pol_adv
 degasperi,1953-05-3,Firenze,low,low,low,none
-degasperi,1953-05-3,Firenze,low,mid,mid,pol_adv
-degasperi,1953-05-6,Venezia,low,high,mid,pol_adv
+degasperi,1953-05-7,Ascoli Piceno,low,mid,mid,pol_adv
+degasperi,1953-05-10,Genova,low,mid,mid,pol_adv
+degasperi,1953-05-14,Bologna,low,high,mid,pol_adv
 degasperi,1953-05-17,Matera,low,mid,low,pol_adv
 degasperi,1953-05-21,Avellino,low,mid,mid,pol_adv
 degasperi,1953-05-24,Vittorio Veneto,low,mid,mid,pol_adv
@@ -48,4 +49,3 @@ degasperi,1954-07-24,Roma,low,low,low,none
 degasperi,1946-08-30,Roma,low,mid,mid,none
 degasperi,1946-10-9,Roma,low,mid,low,none
 degasperi,1946-11-3,Roma,mid,high,high,pol_adv
-
