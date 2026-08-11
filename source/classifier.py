@@ -46,7 +46,7 @@ Install deps:
     pip install ollama
 
 Usage:
-    python classify_corpus_qwen.py
+    $ cd ~/crossdem/source/ && source ~/crossdem/venv/bin/activate && python3 classifier.py
 """
 
 import os

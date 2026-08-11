@@ -55,10 +55,10 @@ last_commit = 0.0
 transcription_since_last_commit = 0
 
 """
-Execution: 
-$ source crossdem/venv/bin/activate
-$ cd crossdem/nodebooks/
-$ python3 radarad_scraper.py
+Usage: 
+    $ source ~/crossdem/venv/bin/activate
+    $ cd ~/crossdem/nodebooks/
+    $ python3 radarad_scraper.py
 """
 
 ###################################################
