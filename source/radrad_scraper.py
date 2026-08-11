@@ -35,11 +35,11 @@ DATA = [
     #("cossiga", "/soggetti/595/francesco-cossiga"),
     #("rumor", "/soggetti/1769/mariano-rumor"),
     #("colombo", "/soggetti/6010/colombo-emilio"),
-    ("andreotti", "/soggetti/99/giulio-andreotti"),
-    ("moro", "/soggetti/1325/aldo-moro"),
-    ("leone", "/soggetti/6656/giovanni-leone"),
-    ("segni", "/soggetti/101437/antonio-segni"),
-    ("scelba", "/soggetti/191965/mario-scelba"),
+    #("andreotti", "/soggetti/99/giulio-andreotti"),
+    #("moro", "/soggetti/1325/aldo-moro"),
+    #("leone", "/soggetti/6656/giovanni-leone"),
+    #("segni", "/soggetti/101437/antonio-segni"),
+    #("scelba", "/soggetti/191965/mario-scelba"),
 ]
 # fanfani was done during development
 
@@ -752,4 +752,4 @@ def main (politician, SUBJECT_URL):
 #    for politician, SUBJECT_URL in DATA:
 #        main(politician, f"{BASE_URL}/{SUBJECT_URL}")
 
-trim_to_1s(f"{BASE_DIR}/datasets/andreotti/audio_out")
+#trim_to_1s(f"{BASE_DIR}/datasets/andreotti/audio_out")
