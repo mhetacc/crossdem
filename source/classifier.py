@@ -386,6 +386,7 @@ def classify_levels(text: str, path: str) -> dict | None:
         schema=JSON_SCHEMA_LEVELS,
         valid_cols={c: LEVEL_VALUES for c in LEVEL_COLS},
         tag=f"{OLLAMA_MODEL_LEVELS} levels",
+        think=False,    # Otherwise burn all tokens in thinking phase
     )
 
 
@@ -397,7 +398,7 @@ def classify_target(text: str, path: str) -> dict | None:
         schema=JSON_SCHEMA_TARGET,
         valid_cols={"target": TARGET_VALUES},
         tag=f"{OLLAMA_MODEL_TARGET} target",
-        think=False,  # Qwen3 needs this or content comes back empty
+        think=False,    # Otherwise burn all tokens in thinking phase
     )
 
 
@@ -434,6 +435,7 @@ def run_pass(files: list, *, group_label: str, model_tag: str,
         for row in rows:
             if not needs_fn(row):
                 stats["skipped_already"] += 1
+                print(f"  [SKIP-ALREADY] {path} ({group_label}): row already labeled")
                 continue
 
             text = (row.get("text") or "").strip()
