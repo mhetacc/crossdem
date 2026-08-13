@@ -76,9 +76,10 @@ POL_INFO = {
     "meloni":      {"leaning": "R",  "color": "#4363d8"},
 }
 
-POL_INFO = {
-    "gentiloni":   {"leaning": "CL", "color": "#911eb4"},
-}
+#POL_INFO = {
+#    "gentiloni":   {"leaning": "CL", "color": "#911eb4"},
+#}
+
 
 DISPLAY_NAME_OVERRIDES = {
     "dalema": "D'Alema",
@@ -268,7 +269,7 @@ def find_speech_files() -> list:
     files = []
     for pol in POLITICIANS_TO_PROCESS:
         if pol == 'degasperi':
-            pattern = os.path.join(PMS_DIR, pol, "degasperi_speeches.csv")
+            pattern = os.path.join(PMS_DIR, pol, "splitted", "*csv")
         else:
             pattern = os.path.join(PMS_DIR, pol, "csv_out", "*.csv")
         matches = sorted(glob.glob(pattern))
