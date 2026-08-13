@@ -1,52 +1,35 @@
 """
-classify_corpus_qwen.py
+classify_corpus_split.py
 
-Walks every per-speech CSV in PMS_DIR/<politician>/csv_out/*.csv and, for any
-speech that is MISSING (or has empty) one or more of the four crossdem label
-columns:
+Same as classify_corpus_qwen.py, but the four crossdem label columns are now
+produced by TWO different local LLMs instead of one:
 
-    hate_speech     : low | mid | high
-    negativity      : low | mid | high
-    aggressiveness  : low | mid | high
-    target          : none | pol_adv | minor_etn | minor_gnd | minor_rel
+    hate_speech, negativity, aggressiveness  -> Gemma  (OLLAMA_MODEL_LEVELS)
+    target                                   -> Qwen   (OLLAMA_MODEL_TARGET)
 
-...classifies it with Qwen2.5-7B-Instruct (via Ollama) and writes the labels
-back into that SAME csv file, overwriting it in place. Speeches that already
-have all four fields filled are left untouched (skipped) — so the script is
-naturally resumable: re-running it only processes what's left to do.
+Each speech is checked independently for each group of columns, so:
+  - a speech missing only "target" gets ONE call (to the target model)
+  - a speech missing only level cols gets ONE call (to the level model)
+  - a speech missing everything gets TWO calls (one per model)
+  - a speech that already has all 4 fields filled is skipped entirely, as
+    before -> the script stays resumable.
 
-"Overwriting" here means: the row's 4 label columns are added/updated and the
-file is rewritten with the same rows + (possibly new) header. Everything else
-in the row is preserved as-is.
-
-Assumes BASE_DIR / DATA_DIR / PMS_DIR / POL_INFO are already defined
-(e.g. from your crossdem setup cell/module, see setup.py) before this
-script/cell runs.
-
-Design notes (mirrors compare_llm_classifiers.py):
-- Uses Ollama's JSON-schema `format` param for grammar-constrained decoding.
-- temperature=0 for reproducibility.
-- VERBOSE=True prints, for every call: the file path, the text fed to the
-  model, the raw model output, and the parsed prediction.
-- Only Qwen is used here (compare_llm_classifiers.py already established it
-  outperforms Mistral on your validation set).
+Everything else (file discovery, CSV read/write, retry logic, verbosity)
+is unchanged from classify_corpus_qwen.py.
 
 REQUIRES YOU TO CHECK / EDIT:
-1. TEXT_COL below — the column holding the speech transcript in your
-   csv_out files (may differ from the validation CSVs' "text" column —
-   verify against an actual csv_out file before running).
-2. OLLAMA_MODEL tag — verify with `ollama list`.
-3. The RUBRIC text in SYSTEM_PROMPT should match your manual annotation
-   rubric — kept identical to compare_llm_classifiers.py, update both
-   together if you change it.
-4. POLITICIANS_TO_PROCESS — defaults to every key in POL_INFO. Trim this
-   list if you only want to (re)run a subset.
+1. TEXT_COL / "text" column assumption (see original script's note).
+2. OLLAMA_MODEL_LEVELS / OLLAMA_MODEL_TARGET tags below — verify the exact
+   local tags with `ollama list`. "gemma4" and "qwen 3.5" aren't tags I
+   recognize; I've defaulted to gemma3:4b and qwen3:4b as the closest real
+   models — swap these strings if your local tags differ.
+3. POLITICIANS_TO_PROCESS — defaults to every key in POL_INFO.
 
 Install deps:
     pip install ollama
 
 Usage:
-    $ cd ~/crossdem/source/ && source ~/crossdem/venv/bin/activate && python3 classifier.py
+    $ cd ~/crossdem/source/ && source ~/crossdem/venv/bin/activate && python3 classify_corpus_split.py
 """
 
 import os
@@ -56,11 +39,6 @@ import time
 import glob
 from ollama import Client
 import pandas
-import glob
-import time
-import json
-import csv
-import os
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath("__file__")))  # go to ~/crossdem/ by jumping up twice
 DATA_DIR = os.path.join(BASE_DIR, "datasets")
@@ -70,38 +48,36 @@ IMGS_DIR = os.path.join(os.getcwd(), "imgs")
 
 os.makedirs(IMGS_DIR, exist_ok=True)
 
-# De Gasperi was not scraped, a dataset with all speeches was taken from https://github.com/StefanoMenini/De-Gasperi-s-Corpus/
-#degasperi_df = pandas.read_csv(f"{DATA_DIR}/degasperi/degasperi_speeches.csv")
+POL_INFO = {
+    "degasperi":   {"leaning": "C",  "color": "#2f4f4f"},
+    "fanfani":     {"leaning": "CL", "color": "#e6194B"},
+    "leone":       {"leaning": "C",  "color": "#ff4500"},
+    "rumor":       {"leaning": "C",  "color": "#7f0067"},
+    "colombo":     {"leaning": "C",  "color": "#008080"},
+    "andreotti":   {"leaning": "CR", "color": "#c00000"},
+    "cossiga":     {"leaning": "CR", "color": "#e6beff"},
+    "forlani":     {"leaning": "CR", "color": "#ffe119"},
+    "spadolini":   {"leaning": "C",  "color": "#a9a9a9"},
+    "craxi":       {"leaning": "CL", "color": "#ffd8b1"},
+    "goria":       {"leaning": "C",  "color": "#000075"},
+    "demita":      {"leaning": "CL", "color": "#808000"},
+    "amato":       {"leaning": "L",  "color": "#aaffc3"},
+    "ciampi":      {"leaning": "C",  "color": "#9A6324"},
+    "berlusconi":  {"leaning": "R",  "color": "#800000"},
+    "dini":        {"leaning": "CL", "color": "#fabed4"},
+    "prodi":       {"leaning": "CL", "color": "#469990"},
+    "dalema":      {"leaning": "L",  "color": "#dcbeff"},
+    "monti":       {"leaning": "CR", "color": "#bfef45"},
+    "letta":       {"leaning": "L",  "color": "#f032e6"},
+    "renzi":       {"leaning": "CL", "color": "#42d4f4"},
+    "gentiloni":   {"leaning": "CL", "color": "#911eb4"},
+    "conte":       {"leaning": "CL", "color": "#f58231"},
+    "draghi":      {"leaning": "C",  "color": "#3cb44b"},
+    "meloni":      {"leaning": "R",  "color": "#4363d8"},
+}
 
 POL_INFO = {
-    "degasperi":   {"leaning": "C",  "color": "#2f4f4f"},  # dark slate grey — PM from 1945
-    "fanfani":     {"leaning": "CL", "color": "#e6194B"},  # red — 1954
-    #"scelba":      {"leaning": "CR", "color": "#8b4513"},  # saddle brown — 1954 (no data)
-    #"segni":       {"leaning": "CR", "color": "#1e90ff"},  # dodger blue — 1955 (no data)
-    "leone":       {"leaning": "C",  "color": "#ff4500"},  # orange-red — 1963
-    #"moro":        {"leaning": "CL", "color": "#556b2f"},  # dark olive green — 1963 (no data)
-    "rumor":       {"leaning": "C",  "color": "#7f0067"},  # deep magenta/plum — 1968
-    "colombo":     {"leaning": "C",  "color": "#008080"},  # dark teal — 1970
-    "andreotti":   {"leaning": "CR", "color": "#c00000"},  # bright crimson — 1972
-    "cossiga":     {"leaning": "CR", "color": "#e6beff"},  # light violet — 1979
-    "forlani":     {"leaning": "CR", "color": "#ffe119"},  # yellow — 1980
-    "spadolini":   {"leaning": "C",  "color": "#a9a9a9"},  # grey — 1981
-    "craxi":       {"leaning": "CL", "color": "#ffd8b1"},  # apricot — 1983
-    "goria":       {"leaning": "C",  "color": "#000075"},  # navy — 1987
-    "demita":     {"leaning": "CL", "color": "#808000"},  # olive — 1988
-    "amato":       {"leaning": "L",  "color": "#aaffc3"},  # mint — 1992
-    "ciampi":      {"leaning": "C",  "color": "#9A6324"},  # brown — 1993
-    "berlusconi":  {"leaning": "R",  "color": "#800000"},  # dark red / maroon — 1994
-    "dini":        {"leaning": "CL", "color": "#fabed4"},  # pink — 1995
-    "prodi":       {"leaning": "CL", "color": "#469990"},  # teal — 1996
-    "dalema":     {"leaning": "L",  "color": "#dcbeff"},  # lavender — 1998
-    "monti":       {"leaning": "CR", "color": "#bfef45"},  # lime — 2011
-    "letta":       {"leaning": "L",  "color": "#f032e6"},  # magenta — 2013
-    "renzi":       {"leaning": "CL", "color": "#42d4f4"},  # cyan — 2014
-    "gentiloni":   {"leaning": "CL", "color": "#911eb4"},  # purple — 2016
-    "conte":       {"leaning": "CL", "color": "#f58231"},  # orange — 2018
-    "draghi":      {"leaning": "C",  "color": "#3cb44b"},  # green — 2021
-    "meloni":      {"leaning": "R",  "color": "#4363d8"},  # blue — 2022
+    "gentiloni":   {"leaning": "CL", "color": "#911eb4"},
 }
 
 DISPLAY_NAME_OVERRIDES = {
@@ -117,14 +93,21 @@ CHECK_INTEGRITY = False
 
 # --------------------------------------------------------------------------- #
 # CONFIG — check this section before running
-# --------------------------------------------------------------------------- #      
+# --------------------------------------------------------------------------- #
 
-LABEL_COLS = ["hate_speech", "negativity", "aggressiveness", "target"]
+LEVEL_COLS = ["hate_speech", "negativity", "aggressiveness"]
+TARGET_COLS = ["target"]
+LABEL_COLS = LEVEL_COLS + TARGET_COLS  # kept for reference / full-row checks
 
 LEVEL_VALUES = ["low", "mid", "high"]
 TARGET_VALUES = ["none", "pol_adv", "minor_etn", "minor_gnd", "minor_rel"]
 
-OLLAMA_MODEL = "qwen2.5:7b-instruct-q4_K_M"   # <-- CHECK exact local tag
+# <-- CHECK these exact local tags with `ollama list`. Best-guess mapping:
+#     "gemma4 e4b"   -> gemma3:4b
+#     "qwen 3.5 4b"  -> qwen3:4b  (Qwen has no "3.5" line; Qwen3 4B is the
+#                                  closest real model)
+OLLAMA_MODEL_LEVELS = "gemma4:e4b"
+OLLAMA_MODEL_TARGET = "qwen3.5:4b"
 
 RETRIES = 3
 RETRY_SLEEP_S = 2
@@ -133,22 +116,18 @@ RETRY_SLEEP_S = 2
 VERBOSE = True
 PRINT_TEXT_CHARS = 400  # set to None to print the full speech text every call
 
-# which politician subfolders (under PMS_DIR) to walk; defaults to every
-# politician in POL_INFO. Note: degasperi's and meloni's big combined CSVs
-# (degasperi_speeches.csv / meloni_validation.csv) are NOT per-speech files
-# and are intentionally not touched by this script — only PMS_DIR/<pol>/csv_out/*.csv
-
 POLITICIANS_TO_PROCESS = list(POL_INFO.keys())
-#POLITICIANS_TO_PROCESS = ['gentiloni']
 
 client = Client()  # assumes `ollama serve` is running locally
 
 # --------------------------------------------------------------------------- #
-# PROMPT — identical to compare_llm_classifiers.py, keep both in sync
+# PROMPTS — split from the original combined SYSTEM_PROMPT
 # --------------------------------------------------------------------------- #
 
-SYSTEM_PROMPT = """Sei un annotatore esperto di scienze politiche e linguistica computazionale.
-Il tuo compito è classificare un discorso pronunciato da un Presidente del Consiglio italiano secondo quattro dimensioni.
+RUBRIC_HEADER = """Sei un annotatore esperto di scienze politiche e linguistica computazionale.
+Il tuo compito è classificare un discorso pronunciato da un Presidente del Consiglio italiano."""
+
+SYSTEM_PROMPT_LEVELS = RUBRIC_HEADER + """
 
 ---
 ### DIMENSIONI E CATEGORIE
@@ -167,13 +146,6 @@ Il tuo compito è classificare un discorso pronunciato da un Presidente del Cons
    - low: tono pacato, formale, istituzionale.
    - mid: presenza moderata di polemica, velate stoccate o sarcasmo istituzionale.
    - high: tono marcatamente polemico, attacchi diretti e personali, linguaggio di scontro.
-
-4) target: il bersaglio principale di eventuale ostilità/critica nel discorso (assegna il target anche se i punteggi sopra sono "low", identificando verso chi è orientato il discorso).
-   - none: nessun bersaglio specifico identificabile.
-   - pol_adv: avversari politici, opposizioni, partiti, burocrazia europea o altre istituzioni.
-   - minor_etn: minoranze etniche, persone straniere, migranti di specifiche etnie.
-   - minor_gnd: minoranze di genere, donne, comunità LGBTQ+.
-   - minor_rel: minoranze religiose (es. musulmani, ebrei).
 
 ---
 ### ESEMPI GUIDA PER LA CALIBRAZIONE
@@ -220,6 +192,28 @@ Il tuo compito è classificare un discorso pronunciato da un Presidente del Cons
   - "Siete dei traditori del popolo italiano, dei cospiratori servili che prendono ordini da potenze e burocrazie straniere."
   - "La vostra ipocrisia fa schifo: avete le mani sporche di sangue per le politiche criminali che avete approvato!"
 
+---
+### FORMATO DI OUTPUT
+
+Rispondi ESCLUSIVAMENTE con un oggetto JSON con queste tre chiavi, senza testo
+aggiuntivo, markdown o spiegazioni."""
+
+SYSTEM_PROMPT_TARGET = RUBRIC_HEADER + """
+
+---
+### DIMENSIONE E CATEGORIE
+
+target: il bersaglio principale di eventuale ostilità/critica nel discorso (assegna il target
+anche se il discorso è nel complesso pacato, identificando verso chi è orientato).
+   - none: nessun bersaglio specifico identificabile.
+   - pol_adv: avversari politici, opposizioni, partiti, burocrazia europea o altre istituzioni.
+   - minor_etn: minoranze etniche, persone straniere, migranti di specifiche etnie.
+   - minor_gnd: minoranze di genere, donne, comunità LGBTQ+.
+   - minor_rel: minoranze religiose (es. musulmani, ebrei).
+
+---
+### ESEMPI GUIDA PER LA CALIBRAZIONE
+
 #### Esempi per `target`:
 - **none**:
   - "Oggi approviamo la riforma del codice della strada per ridurre gli incidenti e tutelare i giovani."
@@ -245,18 +239,25 @@ Il tuo compito è classificare un discorso pronunciato da un Presidente del Cons
 ---
 ### FORMATO DI OUTPUT
 
-Rispondi ESCLUSIVAMENTE con un oggetto JSON con queste quattro chiavi, senza testo
+Rispondi ESCLUSIVAMENTE con un oggetto JSON con questa unica chiave, senza testo
 aggiuntivo, markdown o spiegazioni."""
 
-JSON_SCHEMA = {
+JSON_SCHEMA_LEVELS = {
     "type": "object",
     "properties": {
         "hate_speech": {"type": "string", "enum": LEVEL_VALUES},
         "negativity": {"type": "string", "enum": LEVEL_VALUES},
         "aggressiveness": {"type": "string", "enum": LEVEL_VALUES},
+    },
+    "required": LEVEL_COLS,
+}
+
+JSON_SCHEMA_TARGET = {
+    "type": "object",
+    "properties": {
         "target": {"type": "string", "enum": TARGET_VALUES},
     },
-    "required": ["hate_speech", "negativity", "aggressiveness", "target"],
+    "required": TARGET_COLS,
 }
 
 
@@ -280,15 +281,23 @@ def find_speech_files() -> list:
 # Row helpers
 # --------------------------------------------------------------------------- #
 
-def needs_classification(row: dict) -> bool:
-    """True if any of the 4 label columns is missing from the row, or empty/blank."""
-    for col in LABEL_COLS:
+def _cols_missing(row: dict, cols: list) -> bool:
+    """True if any of `cols` is missing from the row, or empty/blank."""
+    for col in cols:
         val = row.get(col)
         if val is None:
             return True
         if str(val).strip() == "":
             return True
     return False
+
+
+def needs_level_classification(row: dict) -> bool:
+    return _cols_missing(row, LEVEL_COLS)
+
+
+def needs_target_classification(row: dict) -> bool:
+    return _cols_missing(row, TARGET_COLS)
 
 
 def read_speech_csv(path: str):
@@ -300,8 +309,6 @@ def read_speech_csv(path: str):
 
 
 def write_speech_csv(path: str, rows: list, fieldnames: list):
-    # ensure the 4 label columns are present in the header (appended at the
-    # end if they weren't already there), everything else preserved as-is
     out_fieldnames = list(fieldnames)
     for col in LABEL_COLS:
         if col not in out_fieldnames:
@@ -317,61 +324,98 @@ def write_speech_csv(path: str, rows: list, fieldnames: list):
 # Classification
 # --------------------------------------------------------------------------- #
 
-def classify_one(text: str, path: str) -> dict | None:
+def classify_one(text: str, path: str, *, model: str, system_prompt: str,
+                  schema: dict, valid_cols: dict, tag: str,
+                  think: bool | None = None) -> dict | None:
+    """
+    Generic single-call classifier.
+    valid_cols: {col_name: [allowed values]} — used to validate the response.
+    tag: short label for log lines, e.g. "gemma3:4b levels" / "qwen3:4b target".
+    think: pass False for Qwen3-family models to suppress reasoning tokens
+           (they otherwise return empty/garbage `content` with the reasoning
+           in `message.thinking` instead). Leave None for non-thinking models.
+    """
     for attempt in range(1, RETRIES + 1):
         if VERBOSE:
             preview = text if PRINT_TEXT_CHARS is None else text[:PRINT_TEXT_CHARS]
             truncated_note = "" if PRINT_TEXT_CHARS is None or len(text) <= PRINT_TEXT_CHARS else " [truncated]"
             print(f"\n{'=' * 80}")
-            print(f"[qwen2.5-7b] {path}  attempt {attempt}/{RETRIES}")
+            print(f"[{tag}] {path}  attempt {attempt}/{RETRIES}")
             print(f"--- PROMPT FED TO MODEL ({len(text)} chars{truncated_note}) ---")
             print(preview)
 
         try:
-            resp = client.chat(
-                model=OLLAMA_MODEL,
+            chat_kwargs = dict(
+                model=model,
                 messages=[
-                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "system", "content": system_prompt},
                     {"role": "user", "content": text},
                 ],
-                format=JSON_SCHEMA,
+                format=schema,
                 options={"temperature": 0},
             )
+            if think is not None:
+                chat_kwargs["think"] = think
+
+            resp = client.chat(**chat_kwargs)
             raw = resp["message"]["content"]
 
             if VERBOSE:
                 print(f"--- RAW MODEL OUTPUT ---\n{raw}")
 
             parsed = json.loads(raw)
-            # validate values are in-range; raises if not
-            assert parsed["hate_speech"] in LEVEL_VALUES
-            assert parsed["negativity"] in LEVEL_VALUES
-            assert parsed["aggressiveness"] in LEVEL_VALUES
-            assert parsed["target"] in TARGET_VALUES
+            for col, allowed in valid_cols.items():
+                assert parsed[col] in allowed
 
             if VERBOSE:
                 print(f"--- PARSED PREDICTION --- {parsed}")
 
             return parsed
         except Exception as e:
-            print(f"  [qwen2.5-7b] {path} attempt {attempt}/{RETRIES} failed: {e}")
+            print(f"  [{tag}] {path} attempt {attempt}/{RETRIES} failed: {e}")
             time.sleep(RETRY_SLEEP_S)
     return None
+
+
+def classify_levels(text: str, path: str) -> dict | None:
+    return classify_one(
+        text, path,
+        model=OLLAMA_MODEL_LEVELS,
+        system_prompt=SYSTEM_PROMPT_LEVELS,
+        schema=JSON_SCHEMA_LEVELS,
+        valid_cols={c: LEVEL_VALUES for c in LEVEL_COLS},
+        tag=f"{OLLAMA_MODEL_LEVELS} levels",
+    )
+
+
+def classify_target(text: str, path: str) -> dict | None:
+    return classify_one(
+        text, path,
+        model=OLLAMA_MODEL_TARGET,
+        system_prompt=SYSTEM_PROMPT_TARGET,
+        schema=JSON_SCHEMA_TARGET,
+        valid_cols={"target": TARGET_VALUES},
+        tag=f"{OLLAMA_MODEL_TARGET} target",
+        think=False,  # Qwen3 needs this or content comes back empty
+    )
 
 
 # --------------------------------------------------------------------------- #
 # Main
 # --------------------------------------------------------------------------- #
 
-def main():
-    files = find_speech_files()
-    print(f"Found {len(files)} speech files under csv_out/ across {len(POLITICIANS_TO_PROCESS)} politicians.")
+def run_pass(files: list, *, group_label: str, model_tag: str,
+             needs_fn, classify_fn) -> dict:
+    """
+    One full sweep over every speech file, filling in ONLY the columns this
+    pass is responsible for (per needs_fn). Keeping this to a single model
+    for the whole pass means Ollama loads it once and doesn't swap it out of
+    GPU memory mid-corpus.
+    """
+    print(f"\n----- PASS: {group_label} ({model_tag}) -----")
 
-    n_skipped_already = 0
-    n_skipped_no_text = 0
-    n_classified = 0
-    n_failed = 0
-    n_files_saved = 0
+    stats = dict(skipped_already=0, skipped_no_text=0, classified=0,
+                 failed=0, files_saved=0)
 
     for path in files:
         try:
@@ -387,38 +431,69 @@ def main():
         file_changed = False
 
         for row in rows:
-            if not needs_classification(row):
-                n_skipped_already += 1
+            if not needs_fn(row):
+                stats["skipped_already"] += 1
                 continue
 
             text = (row.get("text") or "").strip()
             if not text:
-                print(f"  [SKIP] {path}: empty '{"text"}' field, cannot classify.")
-                n_skipped_no_text += 1
+                print(f"  [SKIP] {path}: empty 'text' field, cannot classify.")
+                stats["skipped_no_text"] += 1
                 continue
 
-            result = classify_one(text, path)
+            result = classify_fn(text, path)
             if result is None:
-                print(f"  [FAIL] giving up on {path} after {RETRIES} retries.")
-                n_failed += 1
-                continue
-
-            row.update(result)
-            file_changed = True
-            n_classified += 1
+                print(f"  [FAIL] {model_tag} giving up on {path} after {RETRIES} retries.")
+                stats["failed"] += 1
+            else:
+                row.update(result)
+                file_changed = True
+                stats["classified"] += 1
 
         if file_changed:
             write_speech_csv(path, rows, fieldnames)
-            n_files_saved += 1
+            stats["files_saved"] += 1
             print(f"  [SAVED] {path}")
 
+    return stats
+
+
+def main():
+    files = find_speech_files()
+    print(f"Found {len(files)} speech files under csv_out/ across {len(POLITICIANS_TO_PROCESS)} politicians.")
+    print(f"Levels model: {OLLAMA_MODEL_LEVELS}  |  Target model: {OLLAMA_MODEL_TARGET}")
+
+    # Pass 1: every level (hate_speech/negativity/aggressiveness) call, one
+    # model loaded for the whole sweep.
+    levels_stats = run_pass(
+        files,
+        group_label="hate_speech / negativity / aggressiveness",
+        model_tag=OLLAMA_MODEL_LEVELS,
+        needs_fn=needs_level_classification,
+        classify_fn=classify_levels,
+    )
+
+    # Pass 2: every target call. By the time this starts, Ollama only needs
+    # to swap models once (Gemma -> Qwen) instead of per-row.
+    target_stats = run_pass(
+        files,
+        group_label="target",
+        model_tag=OLLAMA_MODEL_TARGET,
+        needs_fn=needs_target_classification,
+        classify_fn=classify_target,
+    )
+
     print("\n===== SUMMARY =====")
-    print(f"Files scanned:           {len(files)}")
-    print(f"Files rewritten:         {n_files_saved}")
-    print(f"Speeches classified:     {n_classified}")
-    print(f"Already labeled (skip):  {n_skipped_already}")
-    print(f"Empty text (skip):       {n_skipped_no_text}")
-    print(f"Failed after retries:    {n_failed}")
+    print(f"Files scanned:                    {len(files)}")
+    print(f"Files rewritten (levels pass):     {levels_stats['files_saved']}")
+    print(f"Files rewritten (target pass):     {target_stats['files_saved']}")
+    print(f"Speeches: levels labeled:          {levels_stats['classified']}  ({OLLAMA_MODEL_LEVELS})")
+    print(f"Speeches: target labeled:          {target_stats['classified']}  ({OLLAMA_MODEL_TARGET})")
+    print(f"Already labeled, levels pass:      {levels_stats['skipped_already']}")
+    print(f"Already labeled, target pass:      {target_stats['skipped_already']}")
+    print(f"Empty text (skip), levels pass:    {levels_stats['skipped_no_text']}")
+    print(f"Empty text (skip), target pass:    {target_stats['skipped_no_text']}")
+    print(f"Failed calls after retries:        {levels_stats['failed'] + target_stats['failed']}")
 
 
 if __name__ == "__main__":
