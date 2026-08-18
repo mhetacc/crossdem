@@ -78,9 +78,9 @@ POL_INFO = {
     "meloni":      {"leaning": "R",  "color": "#4363d8"},
 }
 
-POL_INFO = {
-    "gentiloni":   {"leaning": "CL", "color": "#911eb4"},
-}
+#POL_INFO = {
+#    "gentiloni":   {"leaning": "CL", "color": "#911eb4"},
+#}
 
 
 DISPLAY_NAME_OVERRIDES = {
