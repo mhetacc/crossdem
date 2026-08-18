@@ -2,15 +2,18 @@
 classify_corpus_split.py
 
 Same as classify_corpus_qwen.py, but the four crossdem label columns are now
-produced by TWO different local LLMs instead of one:
+produced by ONE local LLM (gemma4:e4b), called with DIFFERENT `think` settings
+depending on the dimension:
 
-    hate_speech, negativity, aggressiveness  -> Gemma  (OLLAMA_MODEL_LEVELS)
-    target                                   -> Qwen   (OLLAMA_MODEL_TARGET)
+    hate_speech, target             -> gemma4:e4b think ON
+    negativity, aggressiveness      -> gemma4:e4b think OFF
 
 Each speech is checked independently for each group of columns, so:
-  - a speech missing only "target" gets ONE call (to the target model)
-  - a speech missing only level cols gets ONE call (to the level model)
-  - a speech missing everything gets TWO calls (one per model)
+  - a speech missing only "target" (but already has hate_speech) still
+    triggers a think=ON call, since hate_speech+target share a pass
+  - a speech missing only level cols (negativity/aggressiveness) gets ONE
+    think=OFF call
+  - a speech missing everything gets TWO calls (one think=ON, one think=OFF)
   - a speech that already has all 4 fields filled is skipped entirely, as
     before -> the script stays resumable.
 
@@ -19,17 +22,16 @@ is unchanged from classify_corpus_qwen.py.
 
 REQUIRES YOU TO CHECK / EDIT:
 1. TEXT_COL / "text" column assumption (see original script's note).
-2. OLLAMA_MODEL_LEVELS / OLLAMA_MODEL_TARGET tags below — verify the exact
-   local tags with `ollama list`. "gemma4" and "qwen 3.5" aren't tags I
-   recognize; I've defaulted to gemma3:4b and qwen3:4b as the closest real
-   models — swap these strings if your local tags differ.
+2. OLLAMA_MODEL tag below — verify the exact local tag with `ollama list`.
+   "gemma4:e4b" isn't a tag I recognize; swap this string if your local tag
+   differs (e.g. gemma3:4b).
 3. POLITICIANS_TO_PROCESS — defaults to every key in POL_INFO.
 
 Install deps:
     pip install ollama
 
 Usage:
-    $ cd ~/crossdem/source/ && source ~/crossdem/venv/bin/activate && python3 classify_corpus_split.py
+    $ cd ~/crossdem/source/ && source ~/crossdem/venv/bin/activate && python3 classifier.py
 """
 
 import os
@@ -76,9 +78,9 @@ POL_INFO = {
     "meloni":      {"leaning": "R",  "color": "#4363d8"},
 }
 
-#POL_INFO = {
-#    "gentiloni":   {"leaning": "CL", "color": "#911eb4"},
-#}
+POL_INFO = {
+    "gentiloni":   {"leaning": "CL", "color": "#911eb4"},
+}
 
 
 DISPLAY_NAME_OVERRIDES = {
@@ -96,19 +98,17 @@ CHECK_INTEGRITY = False
 # CONFIG — check this section before running
 # --------------------------------------------------------------------------- #
 
-LEVEL_COLS = ["hate_speech", "negativity", "aggressiveness"]
-TARGET_COLS = ["target"]
-LABEL_COLS = LEVEL_COLS + TARGET_COLS  # kept for reference / full-row checks
+# Columns grouped by which `think` setting they're classified under, NOT by
+# model (there's only one model now).
+THINK_COLS = ["hate_speech", "target"]        # think=True
+NOTHINK_COLS = ["negativity", "aggressiveness"]  # think=False
+LABEL_COLS = ["hate_speech", "negativity", "aggressiveness", "target"]  # output column order
 
 LEVEL_VALUES = ["low", "mid", "high"]
 TARGET_VALUES = ["none", "pol_adv", "minor_etn", "minor_gnd", "minor_rel"]
 
-# <-- CHECK these exact local tags with `ollama list`. Best-guess mapping:
-#     "gemma4 e4b"   -> gemma3:4b
-#     "qwen 3.5 4b"  -> qwen3:4b  (Qwen has no "3.5" line; Qwen3 4B is the
-#                                  closest real model)
-OLLAMA_MODEL_LEVELS = "gemma4:e4b"
-OLLAMA_MODEL_TARGET = "qwen3.5:4b"
+# <-- CHECK this exact local tag with `ollama list`.
+OLLAMA_MODEL = "gemma4:e4b"
 
 RETRIES = 3
 RETRY_SLEEP_S = 2
@@ -122,13 +122,14 @@ POLITICIANS_TO_PROCESS = list(POL_INFO.keys())
 client = Client()  # assumes `ollama serve` is running locally
 
 # --------------------------------------------------------------------------- #
-# PROMPTS — split from the original combined SYSTEM_PROMPT
+# PROMPTS — split by think-mode group (hate_speech+target vs. negativity+aggressiveness)
 # --------------------------------------------------------------------------- #
 
 RUBRIC_HEADER = """Sei un annotatore esperto di scienze politiche e linguistica computazionale.
 Il tuo compito è classificare un discorso pronunciato da un Presidente del Consiglio italiano."""
 
-SYSTEM_PROMPT_LEVELS = RUBRIC_HEADER + """
+# think=True group: hate_speech + target
+SYSTEM_PROMPT_THINK = RUBRIC_HEADER + """
 
 ---
 ### DIMENSIONI E CATEGORIE
@@ -138,15 +139,13 @@ SYSTEM_PROMPT_LEVELS = RUBRIC_HEADER + """
    - mid: presente in forma velata, allusiva, tramite "dog whistles" o pregiudizi impliciti.
    - high: presente in forma esplicita, deumanizzante o aperta ostilità sistematica.
 
-2) negativity: tono complessivo negativo del discorso (critica, pessimismo, minacce percepite, allarmismo).
-   - low: tono prevalentemente neutro, costruttivo o positivo.
-   - mid: presenza moderata di toni critici o allarmi su specifici problemi nazionali.
-   - high: tono fortemente cupo, allarmista, focalizzato su crisi imminenti o declino.
-
-3) aggressiveness: aggressività verbale, toni polemici o ostili verso interlocutori/avversari.
-   - low: tono pacato, formale, istituzionale.
-   - mid: presenza moderata di polemica, velate stoccate o sarcasmo istituzionale.
-   - high: tono marcatamente polemico, attacchi diretti e personali, linguaggio di scontro.
+2) target: il bersaglio principale di eventuale ostilità/critica nel discorso (assegna il target
+   anche se il discorso è nel complesso pacato, identificando verso chi è orientato).
+   - none: nessun bersaglio specifico identificabile.
+   - pol_adv: avversari politici, opposizioni, partiti, burocrazia europea o altre istituzioni.
+   - minor_etn: minoranze etniche, persone straniere, migranti di specifiche etnie.
+   - minor_gnd: minoranze di genere, donne, comunità LGBTQ+.
+   - minor_rel: minoranze religiose (es. musulmani, ebrei).
 
 ---
 ### ESEMPI GUIDA PER LA CALIBRAZIONE
@@ -164,6 +163,53 @@ SYSTEM_PROMPT_LEVELS = RUBRIC_HEADER + """
   - "L'immigrazione è un'invasione pianificata che porterà degrado e criminalità nelle nostre città. Bisogna eliminarla sistematicamente strada per strada, casa per casa."
   - "Questi gruppi parassitari infestano la nostra società e vanno estirpati prima che distruggano definitivamente la nostra razza e la nostra storia."
   - "Alcune minoranze sono portatrici biologiche di violenza e inciviltà: vanno cacciate con ogni mezzo dal nostro suolo patrio."
+
+#### Esempi per `target`:
+- **none**:
+  - "Oggi approviamo la riforma del codice della strada per ridurre gli incidenti e tutelare i giovani."
+  - "Il piano di digitalizzazione della pubblica amministrazione consentirà di ridurre radicalmente i tempi di attesa."
+  - "I finanziamenti per la prevenzione del dissesto idrogeologico copriranno tutte le regioni a rischio."
+- **pol_adv**:
+  - "La precedente maggioranza ha lasciato buchi di bilancio incalcolabili per fare propaganda elettorale."
+  - "L'Unione Europea pretende di imporre direttive ideologiche che penalizzano le nostre filiere produttive nazionali."
+  - "La magistratura politicamente orientata continua a travalicare i propri confini costituzionali per ostacolare l'esecutivo."
+- **minor_etn**:
+  - "È necessario bloccare le partenze e combattere le reti di clandestinità che destabilizzano la sicurezza nazionale."
+  - "Certi flussi migratori incontrollati provenienti dall'Africa subsahariana importano modelli criminali inaccettabili."
+  - "Non tollereremo zone di franchigia gestite da bande etniche straniere nelle periferie dei nostri capoluoghi."
+- **minor_gnd**:
+  - "Ci opporremo a chi vuole scardinare la famiglia naturale imponendo teorie ideologiche nelle scuole."
+  - "La propaganda sull'identità di genere mira a cancellare la figura della madre e il ruolo biologico della donna."
+  - "I diritti delle donne vengono calpestati dall'ossessione per il politicamente corretto e la fluidità di genere."
+- **minor_rel**:
+  - "Alcune comunità religiose pretendono di applicare le proprie leggi teocratiche sul nostro territorio nazionale."
+  - "Il proliferare di centri di preghiera abusivi legati all'Islam radicale rappresenta una minaccia diretta ai nostri valori laici."
+  - "Non faremo concessioni a chi usa il proprio culto per giustificare la sottomissione femminile e l'odio verso l'Occidente."
+
+---
+### FORMATO DI OUTPUT
+
+Rispondi ESCLUSIVAMENTE con un oggetto JSON con queste due chiavi (hate_speech, target),
+senza testo aggiuntivo, markdown o spiegazioni."""
+
+# think=False group: negativity + aggressiveness
+SYSTEM_PROMPT_NOTHINK = RUBRIC_HEADER + """
+
+---
+### DIMENSIONI E CATEGORIE
+
+1) negativity: tono complessivo negativo del discorso (critica, pessimismo, minacce percepite, allarmismo).
+   - low: tono prevalentemente neutro, costruttivo o positivo.
+   - mid: presenza moderata di toni critici o allarmi su specifici problemi nazionali.
+   - high: tono fortemente cupo, allarmista, focalizzato su crisi imminenti o declino.
+
+2) aggressiveness: aggressività verbale, toni polemici o ostili verso interlocutori/avversari.
+   - low: tono pacato, formale, istituzionale.
+   - mid: presenza moderata di polemica, velate stoccate o sarcasmo istituzionale.
+   - high: tono marcatamente polemico, attacchi diretti e personali, linguaggio di scontro.
+
+---
+### ESEMPI GUIDA PER LA CALIBRAZIONE
 
 #### Esempi per `negativity`:
 - **low**:
@@ -196,69 +242,25 @@ SYSTEM_PROMPT_LEVELS = RUBRIC_HEADER + """
 ---
 ### FORMATO DI OUTPUT
 
-Rispondi ESCLUSIVAMENTE con un oggetto JSON con queste tre chiavi, senza testo
-aggiuntivo, markdown o spiegazioni."""
+Rispondi ESCLUSIVAMENTE con un oggetto JSON con queste due chiavi (negativity, aggressiveness),
+senza testo aggiuntivo, markdown o spiegazioni."""
 
-SYSTEM_PROMPT_TARGET = RUBRIC_HEADER + """
-
----
-### DIMENSIONE E CATEGORIE
-
-target: il bersaglio principale di eventuale ostilità/critica nel discorso (assegna il target
-anche se il discorso è nel complesso pacato, identificando verso chi è orientato).
-   - none: nessun bersaglio specifico identificabile.
-   - pol_adv: avversari politici, opposizioni, partiti, burocrazia europea o altre istituzioni.
-   - minor_etn: minoranze etniche, persone straniere, migranti di specifiche etnie.
-   - minor_gnd: minoranze di genere, donne, comunità LGBTQ+.
-   - minor_rel: minoranze religiose (es. musulmani, ebrei).
-
----
-### ESEMPI GUIDA PER LA CALIBRAZIONE
-
-#### Esempi per `target`:
-- **none**:
-  - "Oggi approviamo la riforma del codice della strada per ridurre gli incidenti e tutelare i giovani."
-  - "Il piano di digitalizzazione della pubblica amministrazione consentirà di ridurre radicalmente i tempi di attesa."
-  - "I finanziamenti per la prevenzione del dissesto idrogeologico copriranno tutte le regioni a rischio."
-- **pol_adv**:
-  - "La precedente maggioranza ha lasciato buchi di bilancio incalcolabili per fare propaganda elettorale."
-  - "L'Unione Europea pretende di imporre direttive ideologiche che penalizzano le nostre filiere produttive nazionali."
-  - "La magistratura politicamente orientata continua a travalicare i propri confini costituzionali per ostacolare l'esecutivo."
-- **minor_etn**:
-  - "È necessario bloccare le partenze e combattere le reti di clandestinità che destabilizzano la sicurezza nazionale."
-  - "Certi flussi migratori incontrollati provenienti dall'Africa subsahariana importano modelli criminali inaccettabili."
-  - "Non tollereremo zone di franchigia gestite da bande etniche straniere nelle periferie dei nostri capoluoghi."
-- **minor_gnd**:
-  - "Ci opporremo a chi vuole scardinare la famiglia naturale imponendo teorie ideologiche nelle scuole."
-  - "La propaganda sull'identità di genere mira a cancellare la figura della madre e il ruolo biologico della donna."
-  - "I diritti delle donne vengono calpestati dall'ossessione per il politicamente corretto e la fluidità di genere."
-- **minor_rel**:
-  - "Alcune comunità religiose pretendono di applicare le proprie leggi teocratiche sul nostro territorio nazionale."
-  - "Il proliferare di centri di preghiera abusivi legati all'Islam radicale rappresenta una minaccia diretta ai nostri valori laici."
-  - "Non faremo concessioni a chi usa il proprio culto per giustificare la sottomissione femminile e l'odio verso l'Occidente."
-
----
-### FORMATO DI OUTPUT
-
-Rispondi ESCLUSIVAMENTE con un oggetto JSON con questa unica chiave, senza testo
-aggiuntivo, markdown o spiegazioni."""
-
-JSON_SCHEMA_LEVELS = {
+JSON_SCHEMA_THINK = {
     "type": "object",
     "properties": {
         "hate_speech": {"type": "string", "enum": LEVEL_VALUES},
+        "target": {"type": "string", "enum": TARGET_VALUES},
+    },
+    "required": THINK_COLS,
+}
+
+JSON_SCHEMA_NOTHINK = {
+    "type": "object",
+    "properties": {
         "negativity": {"type": "string", "enum": LEVEL_VALUES},
         "aggressiveness": {"type": "string", "enum": LEVEL_VALUES},
     },
-    "required": LEVEL_COLS,
-}
-
-JSON_SCHEMA_TARGET = {
-    "type": "object",
-    "properties": {
-        "target": {"type": "string", "enum": TARGET_VALUES},
-    },
-    "required": TARGET_COLS,
+    "required": NOTHINK_COLS,
 }
 
 
@@ -293,12 +295,12 @@ def _cols_missing(row: dict, cols: list) -> bool:
     return False
 
 
-def needs_level_classification(row: dict) -> bool:
-    return _cols_missing(row, LEVEL_COLS)
+def needs_think_classification(row: dict) -> bool:
+    return _cols_missing(row, THINK_COLS)
 
 
-def needs_target_classification(row: dict) -> bool:
-    return _cols_missing(row, TARGET_COLS)
+def needs_nothink_classification(row: dict) -> bool:
+    return _cols_missing(row, NOTHINK_COLS)
 
 
 def read_speech_csv(path: str):
@@ -331,10 +333,9 @@ def classify_one(text: str, path: str, *, model: str, system_prompt: str,
     """
     Generic single-call classifier.
     valid_cols: {col_name: [allowed values]} — used to validate the response.
-    tag: short label for log lines, e.g. "gemma3:4b levels" / "qwen3:4b target".
-    think: pass False for Qwen3-family models to suppress reasoning tokens
-           (they otherwise return empty/garbage `content` with the reasoning
-           in `message.thinking` instead). Leave None for non-thinking models.
+    tag: short label for log lines, e.g. "gemma4:e4b think=on" / "gemma4:e4b think=off".
+    think: True/False to explicitly toggle Ollama's reasoning mode for this
+           call. Leave None to fall back to the model's default.
     """
     for attempt in range(1, RETRIES + 1):
         if VERBOSE:
@@ -353,7 +354,11 @@ def classify_one(text: str, path: str, *, model: str, system_prompt: str,
                     {"role": "user", "content": text},
                 ],
                 format=schema,
-                options={"temperature": 0},
+                options={
+                    "temperature": 0,
+                    "num_ctx": 35000,   # handles longest speech in whole dataset
+                    "num_predict": -1,  # infinite
+                },
             )
             if think is not None:
                 chat_kwargs["think"] = think
@@ -378,27 +383,29 @@ def classify_one(text: str, path: str, *, model: str, system_prompt: str,
     return None
 
 
-def classify_levels(text: str, path: str) -> dict | None:
+def classify_think(text: str, path: str) -> dict | None:
+    """hate_speech + target, think=True."""
     return classify_one(
         text, path,
-        model=OLLAMA_MODEL_LEVELS,
-        system_prompt=SYSTEM_PROMPT_LEVELS,
-        schema=JSON_SCHEMA_LEVELS,
-        valid_cols={c: LEVEL_VALUES for c in LEVEL_COLS},
-        tag=f"{OLLAMA_MODEL_LEVELS} levels",
-        think=False,    # Otherwise burn all tokens in thinking phase
+        model=OLLAMA_MODEL,
+        system_prompt=SYSTEM_PROMPT_THINK,
+        schema=JSON_SCHEMA_THINK,
+        valid_cols={"hate_speech": LEVEL_VALUES, "target": TARGET_VALUES},
+        tag=f"{OLLAMA_MODEL} think=on",
+        think=True,
     )
 
 
-def classify_target(text: str, path: str) -> dict | None:
+def classify_nothink(text: str, path: str) -> dict | None:
+    """negativity + aggressiveness, think=False."""
     return classify_one(
         text, path,
-        model=OLLAMA_MODEL_TARGET,
-        system_prompt=SYSTEM_PROMPT_TARGET,
-        schema=JSON_SCHEMA_TARGET,
-        valid_cols={"target": TARGET_VALUES},
-        tag=f"{OLLAMA_MODEL_TARGET} target",
-        think=False,    # Otherwise burn all tokens in thinking phase
+        model=OLLAMA_MODEL,
+        system_prompt=SYSTEM_PROMPT_NOTHINK,
+        schema=JSON_SCHEMA_NOTHINK,
+        valid_cols={"negativity": LEVEL_VALUES, "aggressiveness": LEVEL_VALUES},
+        tag=f"{OLLAMA_MODEL} think=off",
+        think=False,
     )
 
 
@@ -410,9 +417,8 @@ def run_pass(files: list, *, group_label: str, model_tag: str,
              needs_fn, classify_fn) -> dict:
     """
     One full sweep over every speech file, filling in ONLY the columns this
-    pass is responsible for (per needs_fn). Keeping this to a single model
-    for the whole pass means Ollama loads it once and doesn't swap it out of
-    GPU memory mid-corpus.
+    pass is responsible for (per needs_fn). Keeping this to a single `think`
+    setting for the whole pass avoids toggling reasoning mode mid-corpus.
     """
     print(f"\n----- PASS: {group_label} ({model_tag}) -----")
 
@@ -464,39 +470,38 @@ def run_pass(files: list, *, group_label: str, model_tag: str,
 def main():
     files = find_speech_files()
     print(f"Found {len(files)} speech files under csv_out/ across {len(POLITICIANS_TO_PROCESS)} politicians.")
-    print(f"Levels model: {OLLAMA_MODEL_LEVELS}  |  Target model: {OLLAMA_MODEL_TARGET}")
+    print(f"Model: {OLLAMA_MODEL}  |  think=on: {THINK_COLS}  |  think=off: {NOTHINK_COLS}")
 
-    # Pass 1: every level (hate_speech/negativity/aggressiveness) call, one
-    # model loaded for the whole sweep.
-    levels_stats = run_pass(
+    # Pass 1: hate_speech + target, think=True for the whole sweep (avoids
+    # toggling reasoning mode row by row).
+    think_stats = run_pass(
         files,
-        group_label="hate_speech / negativity / aggressiveness",
-        model_tag=OLLAMA_MODEL_LEVELS,
-        needs_fn=needs_level_classification,
-        classify_fn=classify_levels,
+        group_label="hate_speech / target",
+        model_tag=f"{OLLAMA_MODEL} think=on",
+        needs_fn=needs_think_classification,
+        classify_fn=classify_think,
     )
 
-    # Pass 2: every target call. By the time this starts, Ollama only needs
-    # to swap models once (Gemma -> Qwen) instead of per-row.
-    target_stats = run_pass(
+    # Pass 2: negativity + aggressiveness, think=False for the whole sweep.
+    nothink_stats = run_pass(
         files,
-        group_label="target",
-        model_tag=OLLAMA_MODEL_TARGET,
-        needs_fn=needs_target_classification,
-        classify_fn=classify_target,
+        group_label="negativity / aggressiveness",
+        model_tag=f"{OLLAMA_MODEL} think=off",
+        needs_fn=needs_nothink_classification,
+        classify_fn=classify_nothink,
     )
 
     print("\n===== SUMMARY =====")
-    print(f"Files scanned:                    {len(files)}")
-    print(f"Files rewritten (levels pass):     {levels_stats['files_saved']}")
-    print(f"Files rewritten (target pass):     {target_stats['files_saved']}")
-    print(f"Speeches: levels labeled:          {levels_stats['classified']}  ({OLLAMA_MODEL_LEVELS})")
-    print(f"Speeches: target labeled:          {target_stats['classified']}  ({OLLAMA_MODEL_TARGET})")
-    print(f"Already labeled, levels pass:      {levels_stats['skipped_already']}")
-    print(f"Already labeled, target pass:      {target_stats['skipped_already']}")
-    print(f"Empty text (skip), levels pass:    {levels_stats['skipped_no_text']}")
-    print(f"Empty text (skip), target pass:    {target_stats['skipped_no_text']}")
-    print(f"Failed calls after retries:        {levels_stats['failed'] + target_stats['failed']}")
+    print(f"Files scanned:                        {len(files)}")
+    print(f"Files rewritten (think=on pass):       {think_stats['files_saved']}")
+    print(f"Files rewritten (think=off pass):      {nothink_stats['files_saved']}")
+    print(f"Speeches: hate_speech/target labeled:  {think_stats['classified']}  ({OLLAMA_MODEL}, think=on)")
+    print(f"Speeches: negativity/aggr. labeled:    {nothink_stats['classified']}  ({OLLAMA_MODEL}, think=off)")
+    print(f"Already labeled, think=on pass:        {think_stats['skipped_already']}")
+    print(f"Already labeled, think=off pass:       {nothink_stats['skipped_already']}")
+    print(f"Empty text (skip), think=on pass:      {think_stats['skipped_no_text']}")
+    print(f"Empty text (skip), think=off pass:     {nothink_stats['skipped_no_text']}")
+    print(f"Failed calls after retries:            {think_stats['failed'] + nothink_stats['failed']}")
 
 
 if __name__ == "__main__":
