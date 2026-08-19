@@ -1,2 +1,2 @@
-politician,historical_date,location,title,url,audio_file,text
-andreotti,2000-01-27,ROMA,Commento alla costituzione della commissione bicamerale su tangentopoli,https://www.radioradicale.it/scheda/117016/commento-alla-costituzione-della-commissione-bicamerale-su-tangentopoli?i=1788487,crossdem/datasets/andreotti/audio_out/117016_andreotti.mp3,che sarebbe la cosa migliore. Sottotitoli creati dalla comunità Amara.org
+politician,historical_date,location,title,url,audio_file,text,hate_speech,negativity,aggressiveness,target
+andreotti,2000-01-27,ROMA,Commento alla costituzione della commissione bicamerale su tangentopoli,https://www.radioradicale.it/scheda/117016/commento-alla-costituzione-della-commissione-bicamerale-su-tangentopoli?i=1788487,crossdem/datasets/andreotti/audio_out/117016_andreotti.mp3,che sarebbe la cosa migliore. Sottotitoli creati dalla comunità Amara.org,low,,,none
