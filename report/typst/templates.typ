@@ -4,7 +4,9 @@
 
 == Tables
 
-=== Single Table
+=== Not Colored
+
+==== Single Table
 
 
 #v(1.5em)
@@ -95,7 +97,7 @@ Another single table.
 #v(1em)
 
 
-=== Stacked Tables
+==== Stacked Tables
 
 #figure(
   caption: [Sample rows from `iot_records_tenant_01` (top) and `iot_records_tenant_02` (bottom).],
@@ -137,6 +139,170 @@ Another single table.
 ) <tab:tabthree>
 #v(1em)
 
+=== Colored
+
+== Tables
+
+=== Single Table
+
+`1fr` means one fraction of the available space, while `auto` means the column width is determined by its content.
+
+#v(1.5em)
+#figure(
+  table(
+    columns: (1fr, 1.2fr, 1fr, 1fr, 0.9fr, 1fr),
+    align: (horizon, horizon, horizon, horizon, horizon, horizon),
+    stroke: none,
+    inset: 5pt,
+    fill: (col, row) => {
+      if row == 0 { rgb("#B5001B") }
+      else if calc.rem(row, 2) == 0 { rgb("#B5001B33") }
+      else { white }
+    },
+
+    // Header row
+    table.header(
+      text(fill:white)[*_Protocol_*],
+      text(fill:white)[*_Frequency Band_*],
+      text(fill:white)[*_Range_*],
+      text(fill:white)[*_Data Rate_*],
+      text(fill:white)[*_Power Consumption_*],
+      text(fill:white)[*_Encryption_*]
+    ),
+    table.hline(stroke: 0.5pt),
+
+    // BLE
+    [*Bluetooth Low Energy (BLE)*],
+    [2.4 GHz ISM],
+    [100m (v4.2) \ 200m (v5.0)],
+    [Up to 2 Mbps (v5.0)],
+    [Very Low],
+    [128-bit AES-CCM],
+
+    // ZigBee
+    [*ZigBee*],
+    [2.4 GHz (Global) \ 868 MHz (EU) \ 915 MHz (US)],
+    [Up to 100m],
+    [20-250 kbps],
+    [Very Low],
+    [128-bit AES],
+
+    // LoRa/LoRaWAN
+    [*LoRa/ \ LoRaWAN*],
+    [Sub-GHz ISM bands],
+    [~5 km (urban) \ ~15 km (rural)],
+    [0.3-50 kbps (typical)],
+    [Very Low],
+    [128-bit AES],
+
+    // NB-IoT
+    [*NB-IoT*],
+    [Licensed LTE bands \ (180 kHz bandwidth)],
+    [~1 km (urban) \ ~10 km (rural)],
+    [127 kbps (downlink) \ 159 kbps (uplink)],
+    [Low],
+    [LTE security \ mechanisms],
+
+    // 6LoWPAN
+    [*6LoWPAN & RPL*],
+    [2.4 GHz (Global) \ 915 MHz (US) \ 868 MHz (EU)],
+    [Up to 100m],
+    [Up to 250 kbps],
+    [Very Low],
+    [AES-CCM \ (802.15.4 MAC)]
+  ),
+  caption: [Comparison of IoT wireless communication protocols]
+) <tab:tabone>
+#v(1.5em)
+
+Another single table.
+
+#v(1em)
+#figure(
+  table(
+    columns: (auto, auto, 1fr, auto),
+    align: (center, left, left, left),
+    stroke: none,
+    inset: 5pt,
+    fill: (col, row) => {
+      if row == 0 { rgb("#B5001B") }
+      else if calc.rem(row, 2) == 0 { rgb("#B5001B33") }
+      else { white }
+    },
+    text(fill:white)[*_Level_*], text(fill:white)[*_Field_*], text(fill:white)[*_Description_*], text(fill:white)[*_Example_*],
+    table.hline(stroke: 0.5pt),
+    [1], [`tenant_id`], [Logical isolation between organizations], [`agroTech01`],
+    [2], [`site_type`], [Type of agricultural facility], [`greenhouse`, `open field`],
+    [3], [`site_id`], [Physical site identifier], [`GH-001`],
+    [4], [`section_id`], [Section within the site], [`section-2`],
+    [5], [`zone_id`], [Operational zone], [`zone-A`],
+    [6], [`entity_type`], [Device category], [`sensor`, `actuator`],
+    [7], [`entity_subclass`], [Specific device type], [`temp`, `ph`, `water pump`],
+    [8], [`entity_id`], [Unique device identifier], [`mqtt-device-03`],
+    [9], [`message_type`], [Message classification], [`data`, `cmd`, `status`, `alert`],
+    [10], [`target_id`], [Target device for commands (optional)], [`cooler-001`],
+  ),
+  caption: [10-level topic hierarchy structure]
+) <tab:tabtwo>
+#v(1em)
+
+
+=== Stacked Tables
+
+#figure(
+  caption: [Sample rows from `iot_records_tenant_01` (top) and `iot_records_tenant_02` (bottom).],
+  grid(
+    columns: 1,
+    row-gutter: 1em,
+
+    [
+      _Table iot\_records\_tenant\_01_
+      #table(
+        columns: (auto, auto, auto, auto, auto),
+        align: (left, left, center, center, left),
+        inset: (x: 3pt, y: 7pt),
+        stroke: none,
+        fill: (col, row) => {
+          if row == 0 { rgb("#B5001B") }
+          else if calc.rem(row, 2) == 0 { rgb("#B5001B33") }
+          else { white }
+        },
+        table.header(
+          text(fill:white)[*_time_*], text(fill:white)[*_device\_id_*], text(fill:white)[*_tenant\_id_*], text(fill:white)[*_type_*], text(fill:white)[*data (JSONB)*],
+        ),
+        table.hline(stroke: 0.5pt),
+        mc[2025-11-10 08:03:12 UTC], mc[temp\_001], mc[tenant\_01], mc[data],   mc[{"value": 22.4, "unit": "C"}],
+        mc[2025-11-10 08:05:44 UTC], mc[fan\_003],  mc[tenant\_01], mc[status], mc[{"running": true, "speed": "medium"}],
+        mc[2025-11-10 08:07:01 UTC], mc[temp\_001], mc[tenant\_01], mc[alert],  mc[{"code": "OVER_THRESHOLD", "value": 29.1}],
+        mc[2025-11-10 08:09:33 UTC], mc[fan\_003],  mc[tenant\_01], mc[cmd],    mc[{"action": "set_speed", "target": "high"}],
+      )
+    ],
+
+    [
+      _Table iot\_records\_tenant\_02_
+      #table(
+        columns: (auto, auto, auto, auto, auto),
+        align: (left, left, center, center, left),
+        inset: (x: 3pt, y: 7pt),
+        stroke: none,
+        fill: (col, row) => {
+          if row == 0 { rgb("#B5001B") }
+          else if calc.rem(row, 2) == 0 { rgb("#B5001B33") }
+          else { white }
+        },
+        table.header(
+          text(fill:white)[*_time_*], text(fill:white)[*_device\_id_*], text(fill:white)[*_tenant\_id_*], text(fill:white)[*_type_*], text(fill:white)[*data (JSONB)*],
+        ),
+        table.hline(stroke: 0.5pt),
+        mc[2025-11-10 08:10:22 UTC], mc[temp\_007], mc[tenant\_02], mc[data],   mc[{"value": 18.9, "unit": "C"}],
+        mc[2025-11-10 08:10:25 UTC], mc[air\_008],  mc[tenant\_02], mc[data],   mc[{"value": 412, "unit": "ppm"}],
+        mc[2025-11-10 08:12:01 UTC], mc[temp\_007], mc[tenant\_02], mc[status], mc[{"online": true, "battery": 87}],
+      )
+    ],
+  )
+) <tab:tabthree>
+#v(1em)
+
 == Figures
 
 `#align()` without any arguments defaults to _center_.
@@ -145,20 +311,20 @@ Another single table.
 
 #v(0.5em)
 #align(center)[
-    #figure(image("images/iot-layers.png", width: 7.5cm), 
+    #figure(image("images/italian_prime_ministers.jpg", width: 7.5cm), 
     caption: "Architecture of IoT (A: 3-layers) (B: 5-layers)")
     <fig:figone>
 ]
 
 === Double Figures
 
-#align(bottom)[
+#align()[
    #figure(
     grid(
     columns: (1fr, 1fr), // Divide width into two equal columns
     gutter: 5pt, 
-    image("images/req-resp.png", width: 100%),       // Space between figures
-    image("images/pub-sub.png", width: 110%),
+    image("images/italian_prime_ministers.jpg", width: 50%),       // Space between figures
+    image("images/italian_prime_ministers.jpg", width: 110%),
   ),
   caption: [Comparison between (a) Request-Response and (b) Publish-Subscribe paradigms ]
 )

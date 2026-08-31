@@ -1,6 +1,6 @@
 #set page(numbering: "I")
 
-#let img = "../images/pale-blue-dot.jpg"
+#let img = "../images/italian_prime_ministers.jpg"
 
 #set par(first-line-indent: 0em)
 #align(left + bottom, [

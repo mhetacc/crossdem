@@ -1,4 +1,5 @@
 import datetime
+import matplotlib.pyplot as plt
 
 politicians = [
     ("Alcide De Gasperi", [
@@ -110,24 +111,87 @@ politicians = [
     ]),
 ]
 
-import matplotlib.pyplot as plt
+# Leaning ("C"=center, "L"=left, "R"=right, "CL"/"CR"=center-left/center-right)
+# and hex color for each PM, keyed by a short slug.
+POL_INFO = {
+    "degasperi":  {"leaning": "C",  "color": "#2f4f4f"},  # dark slate grey — PM from 1945
+    "fanfani":    {"leaning": "CL", "color": "#e6194B"},  # red — 1954
+    #"scelba":     {"leaning": "CR", "color": "#8b4513"},  # saddle brown — 1954 (no data)
+    #"segni":      {"leaning": "CR", "color": "#1e90ff"},  # dodger blue — 1955 (no data)
+    "leone":      {"leaning": "C",  "color": "#ff4500"},  # orange-red — 1963
+    #"moro":       {"leaning": "CL", "color": "#556b2f"},  # dark olive green — 1963 (no data)
+    "rumor":      {"leaning": "C",  "color": "#7f0067"},  # deep magenta/plum — 1968
+    "colombo":    {"leaning": "C",  "color": "#008080"},  # dark teal — 1970
+    "andreotti":  {"leaning": "CR", "color": "#c00000"},  # bright crimson — 1972
+    "cossiga":    {"leaning": "CR", "color": "#e6beff"},  # light violet — 1979
+    "forlani":    {"leaning": "CR", "color": "#ffe119"},  # yellow — 1980
+    "spadolini":  {"leaning": "C",  "color": "#a9a9a9"},  # grey — 1981
+    "craxi":      {"leaning": "CL", "color": "#ffd8b1"},  # apricot — 1983
+    "goria":      {"leaning": "C",  "color": "#000075"},  # navy — 1987
+    "demita":     {"leaning": "CL", "color": "#808000"},  # olive — 1988
+    "amato":      {"leaning": "L",  "color": "#aaffc3"},  # mint — 1992
+    "ciampi":     {"leaning": "C",  "color": "#9A6324"},  # brown — 1993
+    "berlusconi": {"leaning": "R",  "color": "#800000"},  # dark red / maroon — 1994
+    "dini":       {"leaning": "CL", "color": "#fabed4"},  # pink — 1995
+    "prodi":      {"leaning": "CL", "color": "#469990"},  # teal — 1996
+    "dalema":     {"leaning": "L",  "color": "#dcbeff"},  # lavender — 1998
+    "monti":      {"leaning": "CR", "color": "#bfef45"},  # lime — 2011
+    "letta":      {"leaning": "L",  "color": "#f032e6"},  # magenta — 2013
+    "renzi":      {"leaning": "CL", "color": "#42d4f4"},  # cyan — 2014
+    "gentiloni":  {"leaning": "CL", "color": "#911eb4"},  # purple — 2016
+    "conte":      {"leaning": "CL", "color": "#f58231"},  # orange — 2018
+    "draghi":     {"leaning": "C",  "color": "#3cb44b"},  # green — 2021
+    "meloni":     {"leaning": "R",  "color": "#4363d8"},  # blue — 2022
+}
 
-fig, ax = plt.subplots(figsize=(12, 8)) # Increased height slightly to fit names better
+# Map each full name in `politicians` to its POL_INFO slug.
+# Pella, Zoli, and Tambroni have no entry in POL_INFO, so they fall back
+# to a neutral grey below.
+NAME_TO_SLUG = {
+    "Alcide De Gasperi": "degasperi",
+    "Amintore Fanfani": "fanfani",
+    "Mario Scelba": "scelba",
+    "Antonio Segni": "segni",
+    "Giovanni Leone": "leone",
+    "Aldo Moro": "moro",
+    "Mariano Rumor": "rumor",
+    "Emilio Colombo": "colombo",
+    "Giulio Andreotti": "andreotti",
+    "Francesco Cossiga": "cossiga",
+    "Arnaldo Forlani": "forlani",
+    "Giovanni Spadolini": "spadolini",
+    "Bettino Craxi": "craxi",
+    "Giovanni Goria": "goria",
+    "Ciriaco De Mita": "demita",
+    "Giuliano Amato": "amato",
+    "Carlo Azeglio Ciampi": "ciampi",
+    "Silvio Berlusconi": "berlusconi",
+    "Lamberto Dini": "dini",
+    "Romano Prodi": "prodi",
+    "Massimo D'Alema": "dalema",
+    "Mario Monti": "monti",
+    "Enrico Letta": "letta",
+    "Matteo Renzi": "renzi",
+    "Paolo Gentiloni": "gentiloni",
+    "Giuseppe Conte": "conte",
+    "Mario Draghi": "draghi",
+    "Giorgia Meloni": "meloni",
+}
 
-# Generate a color palette
-colors = plt.cm.tab20.colors  
+FALLBACK_COLOR = "#a9a9a9"  # grey, used for PMs missing from POL_INFO
+
+fig, ax = plt.subplots(figsize=(12, 8))
 
 for i, (name, terms) in enumerate(politicians):
-    color = colors[i % len(colors)] 
+    slug = NAME_TO_SLUG.get(name)
+    info = POL_INFO.get(slug) if slug else None
+    color = info["color"] if info else FALLBACK_COLOR
 
     for start, end in terms:
         ax.barh(i, end - start, left=start, height=0.4, color=color)
-        
-    # --- METHOD 1: Add Colored Dots ---
-    # Using get_yaxis_transform() maps X to the axis scale (0 is the y-axis line) 
-    # and Y to the data scale (the politician's row). 
-    # -0.015 pushes the dot slightly left of the y-axis.
-    ax.scatter(-0.015, i, color=color, transform=ax.get_yaxis_transform(), 
+
+    # Colored dot next to each name, matching the bar color
+    ax.scatter(-0.015, i, color=color, transform=ax.get_yaxis_transform(),
                clip_on=False, s=80, zorder=10)
 
 # Labels
@@ -136,16 +200,8 @@ ax.set_yticklabels([p[0] for p in politicians])
 ax.set_xlabel("Year")
 ax.set_title("Italian Prime Ministers Timeline")
 
-# Remove the little black y-tick marks so the dots look cleaner next to the text
-ax.tick_params(axis='y', length=0, pad=20) 
+ax.tick_params(axis='y', length=0, pad=20)
 
-# --- METHOD 2: Color the Text Directly (Optional) ---
-# If you prefer colored text instead of dots, comment out the ax.scatter line above
-# and uncomment the three lines below:
-# labels = ax.get_yticklabels()
-# for i, label in enumerate(labels):
-#     label.set_color(colors[i % len(colors)])
-
-plt.tight_layout() # Ensures labels don't get cut off at the edges
-plt.savefig("docs/imgs/italian_prime_ministers.jpg", format="jpg", dpi=300, bbox_inches="tight")
-#plt.show()
+plt.tight_layout()
+plt.savefig("report/typst/images/italian_prime_ministers.jpg", format="jpg", dpi=300, bbox_inches="tight")
+plt.show()
