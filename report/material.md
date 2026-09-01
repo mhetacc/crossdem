@@ -20,10 +20,23 @@ Simplicity in visualization is a must: easy to read graphs are more usable -> re
 Taking opposing colours can incite polarization, even though the effects are limited [source?]
 
 Research Questions:
-1. RQ1: does the political colour influence the chosen words and/or tone and register of the conversation?
-2. RQ2: is there a relationship between hate speech in the political discourse and individuals liberties (e.g., freedom of speech and association).
-   1. RQ2.2: is this especially true for marginalized individuals?
-3. RQ3: do different rhetorics and registers effect democratic indicators(such as freedom of expression)?  
+1. **Textual Richness:**
+   1. Does it have a correlation with democracy levels?
+   2. Does it change over time?
+   3. Does it change among different political leanings?
+2. **Polarization:**
+   1. Does symptoms of polarization change over the years?
+   2. Do they have a correlation with democracy levels?
+   3. Are Prime Ministers' rhetorics more similar or more dissimilar?
+   4. Can we visualize and calculate polarization among different political leanings?
+3. **Sentiment:**
+   1. Does it have a correlation with democracy levels?
+   2. What PM is more toxic?
+   3. What political leaning is more toxic?
+   4. What period is more toxic? Is it getting better or worse?
+   5. Target: 
+      1. Which political side, if any, is more often targeting?
+      2. Which PMs, if any, si more often targeting? 
 
 # Politicians' Rhetoric  
 
