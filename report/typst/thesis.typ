@@ -1,6 +1,6 @@
 #import "./config/variables.typ": *
 #import "./config/thesis-config.typ": *
-
+#import "@preview/subpar:0.2.2"
 
 #show: config.with(
   myAuthor: myName,
@@ -25,7 +25,6 @@
 // Mainmatter
 #pagebreak(to: "odd")
 #set page(numbering: "1")
-
 //---------------------- header -----------------------
 #let in-chapters = state("in-chapters", false)
 
@@ -63,12 +62,12 @@
 //--------------------------------------------------
 
 #in-chapters.update(true)
-//#include "./chapters/01-introduction.typ"
-//#include "./chapters/02-background.typ"
-//#include "./chapters/03-methodology.typ"
-//#include "./chapters/04-results.typ"
-//#include "./chapters/05-future-directions.typ"
-//#include "./chapters/06-conclusion.typ"
+#include "./chapters/introduction.typ"
+#include "./chapters/state_of_the_art.typ"
+#include "./chapters/corpus.typ"
+#include "./chapters/results.typ"
+#include "./chapters/future_works.typ"
+#include "./chapters/conclusions.typ"
 #in-chapters.update(false)
 
 // Appendices

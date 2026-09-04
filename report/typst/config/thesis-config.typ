@@ -1,11 +1,14 @@
 #import "../config/constants.typ": chapter
 #import "../config/variables.typ": myName, myTitle, myTitle2, myLang,
 
+// things set up here ere available as single import
 // Monospace cell helper — available for import in all files
 #let mc(content) = text(font: "Source Code Pro", size: 7pt, content)
 
 
+
 //------------------- config --------------------
+// things set up here gets imported in thesis.typ and available for all files
 
 #let config(
     myAuthor: myName,
@@ -16,6 +19,8 @@
   // Set the document's basic properties.
     set document(author: myAuthor, title: myTitle)
     show math.equation: set text(weight: 400)
+    set enum(numbering: "1.1.1.", full: true)
+    
 
     // LaTeX look 
     set page(
@@ -136,3 +141,5 @@
     body
 
 }
+
+#set enum(numbering: "1.1.1.", full: true)
