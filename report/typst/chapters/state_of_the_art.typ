@@ -1,3 +1,7 @@
+#import "../config/variables.typ": *
+#import "../config/thesis-config.typ": *
+#pagebreak(to:"odd")
+
 = State of the Art <ch:state-of-the-art>
 
 == Textual Complexity <sec:textual_complexity>

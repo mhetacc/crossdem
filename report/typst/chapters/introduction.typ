@@ -1,3 +1,7 @@
+#import "../config/variables.typ": *
+#import "../config/thesis-config.typ": *
+#counter(page).update(1)
+
 = Introduction <ch:introduction>
 
 - Importance of political speeches

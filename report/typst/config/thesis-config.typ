@@ -1,5 +1,6 @@
 #import "../config/constants.typ": chapter
 #import "../config/variables.typ": myName, myTitle, myTitle2, myLang,
+#import "@preview/subpar:0.2.2"
 
 // things set up here ere available as single import
 // Monospace cell helper — available for import in all files

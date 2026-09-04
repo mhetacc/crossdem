@@ -1,6 +1,6 @@
 #import "./config/variables.typ": *
 #import "./config/thesis-config.typ": *
-#import "@preview/subpar:0.2.2"
+
 
 #show: config.with(
   myAuthor: myName,
