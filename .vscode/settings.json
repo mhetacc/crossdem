@@ -72,11 +72,13 @@
         "hyperparameters",
         "interpretability",
         "lemmatization",
+        "lemmatized",
         "lemmatizer",
         "MTLD",
         "multimodal",
         "polyarchy",
         "pretrained",
+        "Stopwords",
         "subcomponents",
         "topicalization",
         "virality"
