@@ -8,6 +8,9 @@
   Appendix
 ] <sec:appendix_a>
 
+
+#include "../templates.typ"
+
 #figure(
 sourcecode(
     ```yaml

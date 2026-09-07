@@ -11,7 +11,6 @@
 
 // Frontmatter
 
-#include "templates.typ"
 
 #include "./preface/firstpage.typ"
 #include "./preface/copyright.typ"

@@ -159,7 +159,7 @@ There does not seem to be a clear correlation between MTLD values and democratic
     caption: [Top-1000 words #footnote[Top-1000 words means pooling the one thousand most used words of a specific Prime Minister. Stopwords are removed and the lexicon is lemmatized.] from each Prime Minster. The embedding vectors are pretrained Italian word vectors (CBOW, 300 dimensions) taken from _fastText_. Words shared by all Prime Ministers are displayed as black rhombuses. The graph show a lot of clustering, suggesting a certain similarity among Prime Ministers. That being said, the graph is also too hard to read to gain any conclusive evidence.]
   ), <fig:tsne_word2vec>
 
-==== Doc2Vec: Speeches Embeddings
+==== Doc2Vec: Speech Embeddings
 
 #subpar.grid(
   columns: 2,
@@ -178,8 +178,127 @@ There does not seem to be a clear correlation between MTLD values and democratic
       caption: [Doc2Vec: year periods]
     ) <fig:doc2vec_years>
   ],
-  caption: [Using `TfidfVectorizer` from `sklearn` library, I computed the embeddings for the whole speeches #footnote[Each speech counts as a document.]. They can then be projected in two dimensions. @fig:doc2vec_pms shows evident clustering, suggesting that most prime ministers have a lexical style and wording that are unique to them. @fig:doc2vec_leanings stresses this even more, showing how different political leanings occupy different regions in the vector space.
+  caption: [Using `TfidfVectorizer` from `sklearn` library, I computed one embedding for each speech #footnote[Each speech counts as a document.]. The embeddings can then be projected in two dimensions. @fig:doc2vec_pms shows the projected speech vectors grouped by Prime Minsters. We can see clustering, suggesting that most prime ministers have a lexical style and wording that are unique to them. @fig:doc2vec_leanings groups the vectors by political leaning, showing that different leanings occupy different and distinct regions in the vector space. Both graphs strongly hints to a polarized political landscape.
   
-  On the other hand, @fig:doc2vec_years shows two main clustering regions: on the top, speeches from 1945 to 1955 gather, while speeches from 1991 to 2025 are more uniformly scattered across the whole vector space. This suggests that early speeches were significantly different compared to modern ones, while speeches from the nineties onward are quite similar.],
+  On the other hand, @fig:doc2vec_years shows two main clustering regions: on the top, speeches from 1945 to 1955 gather, while speeches from 1991 to 2025 are more uniformly scattered across the whole vector space. This suggests that earlier speeches were significantly different compared to modern ones, while speeches from the nineties onward are quite similar.],
   label: <fig:doc2vec>,
 )
+
+*TODO: compare with VDEM polarization indices (if exists).*
+
+=== Conclusions <sec:polarization_conclusions>
+
+We see quite a bit of polarization, but ...
+
+== Sentiment Analysis
+
+=== Democratic Indices Against Sentiment Scoring
+
+#subpar.grid(
+  rows: 2,
+  gutter: 1pt,
+  figure(
+    image("../images/sentiments_vdem_combined.png", width: 100%),
+    caption: [Sentiment values plotted for each year, aggregating all speeches from all political leanings. Each dot of the graph (for each year) is scaled based on the amount of speeches available for that specific year. The confidence intervals are shown. The sentiment scores chart is plotted against VDEM indices.]
+  ), <fig:sentiments_vdem_combined>,
+  figure(
+    image("../images/sentiments_vdem_polleanings.png", width: 100%),
+    caption: [Sentiment values plotted for each year, aggregating speeches from three political leanings, respectively colored as green (center), red (left), and blue (right). Each dot of the graph (for each year) is scaled based on the amount of speeches available for that specific year. The The sentiment scores line chart is plotted against VDEM indices.]
+  ), <fig:sentiments_vdem_polleanings>,
+  v(0.2em),
+  caption: [Sentiment analysis results for _hate speech_, _aggressiveness_, and _negativity_ plotted against VDEM indices. Its hart to tell wether there is any correlation between them.],
+  label: <fig:sentiment_vdem>
+)
+
+=== Toxicity (TODO: change name)
+
+First thing first: hate speech is so low for everyone that we can ignore it
+
+
+#subpar.grid(
+  columns: 2,
+  rows: 2,
+  gutter: 5pt,
+  figure(
+    image("../images/sentiments_2d_pms.png", width: 100%),
+    caption: [Sentiment: Prime Ministers ($|"speeches"|gt.eq 100$).]
+  ), <fig:sentiments_2d_pms>,
+  figure(
+    image("../images/sentiments_2d_leanings.png", width: 100%),
+    caption: [Sentiment: leanings.]
+  ), <fig:sentiments_2d_leanings>,
+  figure(
+    image("../images/sentiments_2d_years_zoomout.png", width: 100%),
+    caption: [Sentiment: years zoomed out.]
+  ), <fig:sentiments_2d_years_zoomout>,
+  figure(
+    image("../images/sentiments_2d_years_zoomin.png", width: 100%),
+    caption: [Sentiment: years zoomed in.]
+  ), <fig:sentiments_2d_years_zoomin>,
+  v(0.2em),
+  caption: [Sentiment analysis results for _negativity_ and _aggressiveness_. Values go from zero to one, and the classification task considers three possibile values for each speech: _low_ ($0$), _mid_ ($0.5$), and _high_ ($1$). 
+  
+  Size of bubbles depends on the amount of speeches. @fig:sentiments_2d_pms project results for single Prime Ministers: Berlusconi stands out as the most aggressive by far. @fig:sentiments_2d_leanings project results aggregated by leanings. The right appears to be more aggressive, while the left more negative. The center seems to be more positive than both. The last two figures show the sentiment scores aggregated by years (with 5-year pool range). While @fig:sentiments_2d_years_zoomout shows an outlier for the period $1976-1980$, @fig:sentiments_2d_years_zoomin shows that overall the sentiment scores are quite close to each other, without great variance especially for periods with a lot of speeches.],
+  label: <fig:sentiment_2axis>,
+)
+
+=== Targets 
+
+Five possible targets: 
+- None;
+- Political adversaries;
+- Gender minorities;
+- Religious minorities;
+- Ethnic minorities.
+
+The targets are classified independently to the sentiment scores. For example, a speech could have _low_ aggressiveness and still be targeting political adversaries. 
+
+#subpar.grid(
+  columns: 2,
+  gutter: 5pt,
+  figure(
+    image("../images/target_leaderboard_polAdv.png", width: 100%),
+    caption: [Target: political adversaries. Grouped by: PMs.]
+  ), <fig:target_leaderboard_polAdv_pms>,
+  figure(
+    image("../images/target_leaderboard_polAdv_years.png", width: 100%),
+    caption: [Target: political adversaries. Grouped by: years.]
+  ), <fig:target_leaderboard_polAdv_years>,
+  grid.cell(colspan: 2, align: center)[
+    #figure(
+      image("../images/target_leaderboard_polAdv_leanings.png", width: 50%),
+      caption: [Target: political adversaries. Grouped by: leanings.]
+    ) <fig:target_leaderboard_polAdv_leanings>
+  ],
+  caption: [All graphs show the percentage of speeches that target political adversaries. @fig:target_leaderboard_polAdv_pms shows which Prime Minister speaks more often about the opposition (prime ministers with less than 100 speeches are omitted). @fig:target_leaderboard_polAdv_years shows in which 5-year periods there are more speeches targeting political adversaries (ordered by year). Lastly, @fig:target_leaderboard_polAdv_leanings shows which of the three political fields is more likely to speak about the opposing front. The results show how, across the board, more than one speech out of two targets the opposition. This is true regardless of time period or affiliation.],
+  label: <fig:target_leaderboard_polAdv>,
+)
+
+#v(2em)
+Thankfully, Italian Prime Minister apparently do not target minorities often.
+
+#subpar.grid(
+  columns: 3,
+  gutter: 1pt,
+  figure(
+    image("../images/target_leaderboard_ethn_years.png", width: 100%),
+    caption: [Target: ethnic minorities.]
+  ), <fig:target_leaderboard_ethn_years>,
+  figure(
+    image("../images/target_leaderboard_gnd_years.png", width: 100%),
+    caption: [Target: gender minorities.]
+  ), <fig:target_leaderboard_gnd_years>,
+  figure(
+    image("../images/target_leaderboard_rel_years.png", width: 100%),
+    caption: [Target: religious minorities.]
+  ), <fig:target_leaderboard_rel_years>,
+  v(0.2em),
+  caption: [Overall, an extremely low percentage of speeches target minority groups. Therefore, I will ignore this analysis. (TODO explain better.. within error yada yada).],
+  label: <fig:target_leaderboard_lowvalues>
+)
+
+=== Conclusions <sec:sentiment_conclusion>
+
+Italian prime minister seem to be overall a bit aggressive and negative, and they speak more often then not about the opposition. Almost no traces of hate speech and attacks against minority groups are found in the data.
+
+This does not seem to change over time, failing to explain the VDEM indices drop in 2021.
