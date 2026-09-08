@@ -1,3 +1,18 @@
+# Titles
+
+1. Crossdem: From Voice to Vector — AI-Driven Analysis of Political Power
+2. Crossdem: From Voice to Vector — AI-Driven Analysis of Political Rhetoric 
+3. Crossdem: The Rhetoric of Power — Transformers, Embeddings, and LLMs in Democratic Theory
+4. Crossdem: Layers of AI — Speech, Complexity, Polarization, and Sentiment in Italian Political Discourse
+5. Crossdem: From Voice to Vector — Speech, Complexity, Polarization, and Sentiment in Italian Political Discourse
+6. Crossdem: The Rhetoric of Power — Where Transformers, Embeddings, and LLMs Meet Democratic Theory
+7. Crossdem: From Voice to Vector — AI-Driven Analysis of the Varieties of Democracy
+8. Crossdem: From Voice to Vector — AI-Driven Analysis on the Varieties of Democracy
+9. Crossdem: From Voice to Vector — AI-Driven Analysis Across the Varieties of Democracy
+10. Crossdem: From Voice to Vector — AI-Driven Analysis Against the Varieties of Democracy
+
+
+
 # Goal
 
 ![](imgs/goalthesis.jpg)
