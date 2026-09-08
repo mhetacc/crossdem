@@ -44,9 +44,9 @@
   #align(center)[
   // Disabilita la giustificazione SOLO per questo blocco
     #set par(justify: false, leading: 0.85em) 
-    #text(2.25em, weight: "semibold", hyphenate: false, fill: rgb("#B5001B"))[#smallcaps[#myTitle]] 
+    #text(2.3em, weight: "semibold", hyphenate: false, fill: rgb("#B5001B"))[#smallcaps[#myTitle]] 
 
-    #text(2.1em, weight: "semibold", hyphenate: false,fill: rgb("#B5001B"))[#smallcaps[#myTitle2]] 
+    #text(1.8em, weight: "semibold", hyphenate: false,fill: rgb("#B5001B"))[#smallcaps[#myTitle2]] 
   ]
 
   
