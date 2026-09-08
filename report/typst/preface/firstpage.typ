@@ -65,13 +65,13 @@
       #smallcaps[_Supervisor_] \
       #smallcaps()[#profTitle #myProf] \
       #smallcaps[University of Padova] \
-      #smallcaps(link("mailto:alessandro.galeazzi@unipd.it"))
+      //#smallcaps(link("mailto:alessandro.galeazzi@unipd.it"))
 
     ],
     align(right)[ // Colonna Destra
       #smallcaps[_Master Candidate_] \
       #smallcaps[#myName] \
-      #smallcaps(link("mailto:marco.bello.vi@gmail.com"))
+      //#smallcaps(link("mailto:marco.bello.vi@gmail.com"))
       #v(1.5cm)
       #smallcaps[_Student ID_] \
       #myID

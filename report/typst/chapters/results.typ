@@ -92,7 +92,7 @@ Measure of Textual Lexical Diversity (MTLD) is a metric used to assess the diver
 
 #subpar.grid(
   rows: 2,
-  gutter: 1pt,
+  gutter: 3pt,
   figure(
     image("../images/mtld_vdem_line_combined.png", width: 100%),
     caption: [MTLD values plotted for each year, aggregating all speeches from all political leanings. Each dot of the graph (for each year) is scaled based on the amount of speeches available for that specific year. The MTLD line chart is plotted against VDEM indices.]
@@ -163,7 +163,7 @@ There does not seem to be a clear correlation between MTLD values and democratic
 
 #subpar.grid(
   columns: 2,
-  gutter: 1pt,
+  gutter: 3pt,
   figure(
     image("../images/tsne_doc2vec_pms.png", width: 100%),
     caption: [Doc2Vec: Prime Ministers]
@@ -196,7 +196,7 @@ We see quite a bit of polarization, but ...
 
 #subpar.grid(
   rows: 2,
-  gutter: 1pt,
+  gutter: 3pt,
   figure(
     image("../images/sentiments_vdem_combined.png", width: 100%),
     caption: [Sentiment values plotted for each year, aggregating all speeches from all political leanings. Each dot of the graph (for each year) is scaled based on the amount of speeches available for that specific year. The confidence intervals are shown. The sentiment scores chart is plotted against VDEM indices.]
