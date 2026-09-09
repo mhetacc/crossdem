@@ -4,8 +4,8 @@
 
 = Introduction <ch:introduction>
 
-- Importance of political speeches
-- Public vs institutional speeches
+//- Importance of political speeches
+//- Public vs institutional speeches
 
 Politicians are some of the most influential people in human society: from the Greeks' demagogues to our Presidents and Prime Ministers, leaders have always tried to steer society. Shapiro and Page (1984) @page_presidents_1984 showed how nearly all $20^"th"$ century U.S. Presidents have tried to lead public opinion, with varying degrees of success. As societies became more democratic, so grew the leaders' responsibility to convince potential followers that their policies are beneficial. Thus, speeches play a vital role in the functioning of society @beard_language_2000: leaders depend on the verbal power to persuade people @charteris-black_persuasion_2011.
 
@@ -15,12 +15,34 @@ Having established the importance of speeches, we can differentiate between two 
 
 On the other hand, internal speeches are especially easy to access, being already aggregated in public databases, yet their technical and codified nature makes their interpretation harder for both human and automated agents. Moreover, until 1985 Italian stenographic documentation did not report speeches word for word, but rather translated them into a "language of the parliament" @holtus_dal_1985 @mohrhoff_dalla_1987. 
 
+#v(1em)
+//- External speeches
+//  - easier scraping
+//    - social networks
+//    - internet
+//  - LLMs trained on common speech
 
-- External speeches
-  - easier scraping
-    - social networks
-    - internet
-  - LLMs trained on common speech
+Broadly speaking, the goal of this project is to gather a corpus of politicians' speeches and perform linguistic analyses on it. The idea is to start from standard NLP tasks such as word frequency and text complexity, to then move to classification tasks such as hate speech recognition, and finally to fine-tuning an LLM.
+
+This objective is why I ultimately decided to gather a corpus of _external speeches_ rather than internal ones. Large language models are trained with tokenizers, and the resulting token distribution is highly imbalanced: Chung et al. @chung_exploiting_2025 did a controlled study that scaled the vocabulary of the language model from 24K to 196K while holding data, computation, and optimization unchanged. They discovered that models are disproportionately optimized on the part of language that appears most often, meaning they are way better at understanding common words and patterns. This translates to the fact that internal speeches are less understandable to AI agents. 
+
+As previously stated, external speeches include social network communications. While television is still the first source of information for the majority of the population, online platforms are steadily growing and are already the preferred media for young people @eurobarometer_media_2023 @maher_twice_2024. There is evidence of an increase in political participation due to social media usage, as well as risks for the functioning of democracy @lorenz-spreen_systematic_2023 @amsalem_people_2023, and there have been attempts to predict election results with social media data analyses. Rita et al. measure sentiment polarity on Twitter, and conclude that tweets' sentiment is not a reliable election results predictor. Additionally, results also show that it is impossible to state that social media impacts voting decisions @rita_social_2023. 
+
+Opposite results can be seen in Belcastro et al.'s @belcastro_analyzing_2022 2022 study: a real-time analysis was carried out during the 2020 US presidential election campaign, correctly identifying the leading candidate before Election Day in 10 out of 11 swing states.
+
+Silva et al. @silva_politicians_2022 managed to match tweets against parliamentary speeches to measure politicians' sentiment on a specific topic. They find that parliament members who participate less in parliamentary debate tend to have larger differences with their party on Twitter, suggesting that a certain level of self-censoring is taking place in the parliamentary arena.
+
+#v(1em)
+
+That being said, while X's tweets or Facebook's posts are effective ways of communication, public speeches and interviews are still widely relevant.
+
+Birkenmaier and Lechner (2025) @birkenmaier_measuring_2026 measure politicians' public personality traits using computational text analysis, and their corpus comprises data from interviews, social media posts, and parliamentary speeches. Specifically, "interviews statements provide one of the most natural and authentic sources of politicians’ interactions and self-presentation to the public", making them one of the best data sources for political speeches @schoonvelde_friends_2019 @bull_psychology_2023.
+
+
+and are often made publicly available in video format by the politicians themselves on their Facebook page and YouTube channel. This open open the possibility to automate their collection for research purposes, as I did for this project (@sec:scraping).
+
+#v(1em)
+
 - Textual complexity, polarization, and sentiment analysis
    - Why are they important
 
