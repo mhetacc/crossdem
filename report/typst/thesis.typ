@@ -46,16 +46,18 @@
 
 #set page(header: context {
   if in-chapters.get() and not is-chapter-start(here()) {
+    let chap = current-chapter-title(here())
+    let subchap = current-subchapter-title(here())
     grid(
       columns: (auto, 1fr, auto),
       align: horizon,
       image("images/unipd-logo.svg", height: 2.5em),
       [],
-      [#current-chapter-title(here()) • #current-subchapter-title(here())]
+      [#chap#if subchap != [] [ • #subchap]]
     )
     v(-0.3em)
     line(length: 100%, stroke: 0.8pt + rgb("#B5001B"))
-    v(-1em) // pulls the body content up, closer to the line
+    v(-1em)
   }
 })
 //--------------------------------------------------

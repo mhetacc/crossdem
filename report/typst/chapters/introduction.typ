@@ -26,7 +26,7 @@ On the other hand, internal speeches are especially easy to access, being alread
 
 Broadly speaking, the goal of this thesis is to gather a corpus of politicians' speeches and perform linguistic analyses on it. The idea is to go from standard NLP tasks such as word frequency and text complexity, to classification tasks such as hate speech and target recognition.
 
-This objective is why I ultimately decided to gather a corpus of _external speeches_ rather than internal ones. Large language models are trained with tokenizers, and the resulting token distribution is highly imbalanced: Chung et al. @chung_exploiting_2025 did a controlled study that scaled the vocabulary of the language model from 24K to 196K while holding data, computation, and optimization unchanged. They discovered that models are disproportionately optimized on the part of language that appears most often, meaning they are way better at understanding common words and patterns. This translates to the fact that internal speeches are less understandable to AI agents. 
+This objective is why I ultimately decided to gather a corpus of *external speeches* rather than internal ones. Large language models are trained with tokenizers, and the resulting token distribution is highly imbalanced: Chung et al. @chung_exploiting_2025 did a controlled study that scaled the vocabulary of the language model from 24K to 196K while holding data, computation, and optimization unchanged. They discovered that models are disproportionately optimized on the part of language that appears most often, meaning they are way better at understanding common words and patterns. This translates to the fact that internal speeches are less understandable to AI agents. 
 
 As previously stated, external speeches include social network communications. While television is still the first source of information for the majority of the population, online platforms are steadily growing and are already the preferred media for young people @eurobarometer_media_2023 @maher_twice_2024. There is evidence of an increase in political participation due to social media usage, as well as risks for the functioning of democracy @lorenz-spreen_systematic_2023 @amsalem_people_2023, and there have been attempts to predict election results with social media data analyses. Rita et al. measure sentiment polarity on Twitter, and conclude that tweets' sentiment is not a reliable election results predictor. Additionally, results also show that it is impossible to state that social media impacts voting decisions @rita_social_2023. 
 
@@ -44,9 +44,17 @@ While internal speeches are usually available in easy to access, _processing-rea
 //- Textual complexity, polarization, and sentiment analysis
 //   - Why are they important
 
-Up until now we talked about why and where to collect external speeches, but not what to do with them. Let's thus get into more details on which analyses will be performed on the corpus and why. 
+Up until now we talked about why and where to collect external speeches, but not what to do with them. Let's thus get into more details on *which analyses will be performed* on the corpus and why. 
 
-First, a textual complexity analysis.
+*1. Textual Complexity Analysis* \
+
+In the recent years there is a growing concern on the progressive simplification of the political discourse, which allegedly favors populistic politicians, especially those of the far-right. Many studies tried to challenge these claims, with mixed results: Decadri and Boussalis (2019) @decadri_populism_2020 used text analytic techniques to inspect parliamentary speeches given by the members of nine Italian parties. Their results suggests that populist ideology, electoral strategy, and party membership influence legislators’ language complexity, and that language simplicity might be thought of as a feature of populist communication. On the other hand, McDonnell and Ondelli in their 2020 study @mcdonnell_language_2022 investigate the linguistic simplicity of four right-wing populists compared to their principal opponents in the United States, France, United Kingdom, and Italy. Contrary to expectations, they find that Donald Trump was only slightly simpler than Hillary Clinton, while Nigel Farage in the UK and Marine Le Pen in France were more complex than their main rivals, and Italy’s Matteo Salvini was simpler on some measures but not others, concluding that the relationship between populism and simplicity should not be taken for granted. Similar results were found by Rebecca C. Kittel in 2025 @kittel_simply_2025 after analyzing German parliamentary debates from January 1991 to September 2021. Their findings show that right-wing populist actors use the most complex language, while left-wing populists have an average language complexity. At the same time, the study finds that language complexity decreased significantly in the German parliament over time, confirming at least partially the claim about "progressive simplification".
+
+// populists tend to speak very emotionally -> sentiment analysis
+// polarization keeps increasing and leads to violence
+*---------------------------* 
+
+and erodes the basic principle that democracy requires its citizens to be informed to work as intended. It is thus important to measure the degree of this _"vulgarization"_ across years and political spectrums. 
 
 == Project's Goal
 
