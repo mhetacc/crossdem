@@ -36,7 +36,7 @@ Silva et al. @silva_politicians_2022 managed to match tweets against parliamenta
 
 #v(1em)
 
-While internal speeches are usually available in easy to access, _processing-ready_ format #footnote[For example, the Italian Senate's website contains a database with every (recent) seating in HTML format. An example of seating n.1, March 23 2018, can be seen at the following link: #link("https://www.senato.it/show-doc?tipodoc=Sindisp&leg=18&id=1066811")], external ones often need to be scraped. In this regard, social networks simplify the process thanks their exposed APIs and to the availability of community tools, such as Python's library `ytp-dl` #footnote[Privacy-focused media downloader API for Linux VPS deployments: #link("https://pypi.org/project/ytp-dl/")]. This open the possibility to automate their collection for research purposes, as I did for this project (@sec:scraping).
+While internal speeches are usually available in easy to access, _processing-ready_ format #footnote[For example, the Italian Senate's website contains a database with every (recent) seating in HTML format. An example of seating n.1, March 23 2018, can be seen at the following link: #link("https://www.senato.it/show-doc?tipodoc=Sindisp&leg=18&id=1066811")], external ones often need to be scraped. In this regard, social networks simplify the process thanks their exposed APIs and to the availability of community tools, such as Python's library `ytp-dl` #footnote[Privacy-focused media downloader API for Linux VPS deployments: #link("https://pypi.org/project/ytp-dl/")]. This open the possibility to automate their collection for research purposes, as I did for this project (section @sec:scraping).
 
 #v(1em)
 
@@ -63,13 +63,24 @@ Caiani and Di Cocco (2023) @caiani_populism_2023 on the other hand, try to draw 
 
 // polarization
 
-The growth seen by populist parties across the board is a problem cos populism = more polarization and polarization = problem
-
-As previously stated, polarization my be the most consistent effect of populism @roberts_populism_2022 @velden_populism_2025. A lot of research has been done on the risks posed by a polarized society, such as Benson's (2023) @benson_democracy_2024 which argues that polarization’s epistemic harms are best located in its tendency to reduce the diversity of perspectives utilized in a democratic system and in how this weakens the system’s ability to identify and address problems of public concern. \
-Rostbøll (2024) @rostboll_polarization_2025 argues that "it is widely agreed that the increased polarization many countries experience is bad for democracy", and recommends a systemic approach to assessing the democratic implication of polarization, which analyzes both the effects of polarization at different sites and on democracy as a composite whole. \ 
+Turning now to the effects populism has on society, polarization may be the one most consistently observed @roberts_populism_2022 @velden_populism_2025. A lot of research has been done on the risks posed by a polarized society, such as Benson's (2023) @benson_democracy_2024 which argues that polarization’s epistemic harms are best located in its tendency to reduce the diversity of perspectives utilized in a democratic system and in how this weakens the system’s ability to identify and address problems of public concern. \
+Rostbøll (2024) @rostboll_polarization_2025 argues that 'it is widely agreed that the increased polarization many countries experience is bad for democracy', and recommends a systemic approach to assessing the democratic implication of polarization, which analyzes both the effects of polarization at different sites and on democracy as a composite whole. \ 
 Schelder (2023) @schedler_rethinking_2023 frames political polarization as form of public conflict that aims to destroy the basic democratic trust. Citizen living in such a society fear for the subversion of democracy instead of their economic well-being, physical safety, or ways of life. They then argue that the institutional implications of such fears are dramatic, spelling the end of democratic consolidation.
+Other literature argues that affective polarization contributes to democratic erosion by increasing partisan loyalty and decreasing the importance citizens give to democratic procedures. More specifically, the strength of partisanship has also been found to be associated with ‘partisan double standard’ @graham_democracy_2020 or ‘democratic hypocrisy’ @simonovits_democratic_2022, that is, the willingness to overlook democratic violations by one's own party.
+
+#v(1em)
+
+// summary and thesis structure
+
+To surmise, the three verticals connected with populism are: textual complexity, polarization, and emotivity. In this Master Thesis, the focus will be on the textual analysis itself from a computationally-oriented approach, rather then its connection with populism for a more comparative-politics-oriented approach. \
+
+Section @sec:building_corpus outlines how the corpus, made out of Italian Prime Ministers' public speeches, was built, and section @sec:corpus_annotation describe in detail how the corpus was annotated to address the topic of "emotivity": every speech is classified by its degree of aggressiveness, hate speech or negativity, as well as wether it targets a specific group or not.
 
 
+:
+1. Textual complexity;
+2. Polarization;
+3. Emotivity.
 
 *---------------------------* 
 

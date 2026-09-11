@@ -24,7 +24,7 @@
 
     // Cite = [2] or [12,5,1]
     set cite(style: "elsevier-vancouver")
-
+    set ref(supplement: none)
     
 
     // LaTeX look 
