@@ -190,9 +190,9 @@ There does not seem to be a clear correlation between MTLD values and democratic
 
 We see quite a bit of polarization, but ...
 
-== Sentiment Analysis
+== Sentiment Analysis <sec:res_sentiment_analysis>
 
-=== Democratic Indices Against Sentiment Scoring
+=== Democratic Indices Against Sentiment Scoring <sec:vdem_vs_sentiment>
 
 #subpar.grid(
   rows: 2,
@@ -210,7 +210,7 @@ We see quite a bit of polarization, but ...
   label: <fig:sentiment_vdem>
 )
 
-=== Toxicity (TODO: change name)
+=== Toxicity (TODO: change name) <sec:toxicity>
 
 First thing first: hate speech is so low for everyone that we can ignore it
 
@@ -242,7 +242,7 @@ First thing first: hate speech is so low for everyone that we can ignore it
   label: <fig:sentiment_2axis>,
 )
 
-=== Targets 
+=== Targets <sec:targets>
 
 Five possible targets: 
 - None;

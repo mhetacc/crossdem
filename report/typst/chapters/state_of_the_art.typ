@@ -4,20 +4,20 @@
 
 = State of the Art <ch:state-of-the-art>
 
-== Textual Complexity <sec:textual_complexity>
+== Textual Complexity <sec:sots_textual_complexity>
 
 - What is
 - Common metrics
 - State of the art: what has been done in the field, what are the gaps, what are the limitations
 
-== Polarization <sec:polarization>
+== Polarization <sec:sots_polarization>
 
 - What is
 - Common metrics
 - State of the art: what has been done in the field, what are the gaps, what are the limitations
 
 
-== Sentiment Analysis <sec:sentiment_analysis>
+== Sentiment Analysis <sec:sots_sentiment_analysis>
 
 - What is
 - Common metrics
