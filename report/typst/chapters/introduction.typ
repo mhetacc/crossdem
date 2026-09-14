@@ -9,13 +9,6 @@
 
 Politicians are some of the most influential people in human society: from the Greeks' demagogues to our Presidents and Prime Ministers, leaders have always tried to steer society. Shapiro and Page (1984) @page_presidents_1984 showed how nearly all of the $20^"th"$ century U.S. Presidents have tried to lead public opinion, with varying degrees of success. As societies became more democratic, so grew the leaders' responsibility to convince potential followers that their policies are beneficial. Thus, *speeches* play a vital role in the functioning of society @beard_language_2000: leaders depend on the verbal power to persuade people @charteris-black_persuasion_2011.
 
-
-// maybe put this section after, as justification
-// for gathering the corpus eg meloni youtube
-_Birkenmaier and Lechner (2025) @birkenmaier_measuring_2026 measure politicians' public personality traits using computational text analysis, and their corpus comprises data from interviews, social media posts, and parliamentary speeches. Specifically, "interviews statements provide one of the most natural and authentic sources of politicians’ interactions and self-presentation to the public", making them one of the best data sources for political speeches_ @schoonvelde_friends_2019 @bull_psychology_2023.
-//------------
-
-
 Moreover, democratic stability depends on citizens on the losing side accepting election outcomes. Clayton et al. @clayton_elite_2021 evaluated the effects of exposure to multiple statements from (at the time) former president Donald Trump attacking the legitimacy of the 2020 US presidential election. While they found no evidence indicating that elites can erode democratic norms easily, elite rhetoric can shape people's views about core democratic values such as confidence in elections and support for peaceful transfers of power. This was especially evident amongst people who approved of Trump's performance in office.
 
 #v(1em)
