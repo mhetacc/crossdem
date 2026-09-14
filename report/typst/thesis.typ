@@ -61,7 +61,7 @@
   }
 })
 //--------------------------------------------------
-
+#show link: set text(fill: rgb("#007fb5"), size: 9pt)
 #in-chapters.update(true)
 #include "./chapters/introduction.typ"
 #include "./chapters/state_of_the_art.typ"
