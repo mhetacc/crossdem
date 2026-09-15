@@ -7,7 +7,7 @@
 //- Importance of political speeches
 //- Public vs institutional speeches
 
-Politicians are some of the most influential people in history: from the Greeks' demagogues to our Presidents and Prime Ministers, leaders have always tried to lead society. Shapiro and Page (1984) @page_presidents_1984 showed how nearly all of the $20^"th"$ century U.S. Presidents have tried to steer public opinion, with varying degrees of success. As societies became more democratic, so grew the leaders' responsibility to convince potential followers that their policies are beneficial. Thus, *speeches* play a vital role in the functioning of society @beard_language_2000: leaders depend on the verbal power to persuade people @charteris-black_persuasion_2011.
+Politicians are some of the most influential people in history: from the Greeks' demagogues to our Presidents and Prime Ministers, leaders have always tried to shape society. Shapiro and Page (1984) @page_presidents_1984 showed how nearly all of the $20^"th"$ century U.S. Presidents sought to steer public opinion, with varying degrees of success. As societies became more democratic, so grew the leaders' responsibility to convince potential followers that their policies are beneficial. Thus, *speeches* play a vital role in the functioning of society @beard_language_2000: leaders depend on the verbal power to persuade people @charteris-black_persuasion_2011.
 
 Moreover, democratic stability depends on citizens on the losing side accepting election outcomes. Clayton et al. (2021) @clayton_elite_2021 evaluated the effects of exposure to multiple statements from (at the time) former president Donald Trump #footnote[Former president when Clayton et al. wrote their paper, current president at the time of writing this Master Thesis.] attacking the legitimacy of the 2020 US presidential election. While they found no evidence indicating that elites can erode democratic norms easily, elite rhetoric can shape people's views about core democratic values such as confidence in elections and support for peaceful transfers of power. This was especially evident amongst people who approved of Trump's performance in office.
 
@@ -36,7 +36,7 @@ On the other hand, internal speeches are usually already available in easy to ac
 
 #v(1em)
 // goal -> thus external speeches
-Broadly speaking, this project aims to compile a corpus of political speeches and subject it to linguistic analyses, progressing from classical NLP metrics such as word frequency and textual complexity to LLM-assisted classification tasks (hate-speech detection and target identification among them). 
+Broadly speaking, this project aims to compile a corpus of political speeches and subject it to linguistic analyses, progressing from classical NLP metrics such as word frequency and textual complexity to LLM-assisted classification tasks (hate-speech detection and target identification amongst them). 
 This is why I ultimately chose to gather a corpus of *external speeches* rather than internal ones. Large language models are trained with tokenizers, and the resulting token distribution is highly imbalanced: Chung and Kim's controlled study (2025) @chung_exploiting_2025 scaled the vocabulary of a set of language models from $24,000$ to $196,000$ tokens while holding data, computation, and optimization unchanged. They discovered that the models are disproportionately optimized on the part of language that occurs most frequently, meaning they are far better at understanding words and patterns that appear more often. This suggests that internal speeches are less understandable to AI agents. 
 
 Moreover, Birkenmaier and Lechner (2025) @birkenmaier_measuring_2026 made a similar dataset choice: they measured politicians' public personality traits using computational text analysis, and their corpus comprises data from interviews, social media posts, and parliamentary speeches. Specifically: "interview statements provide one of the most natural and authentic sources of politicians’ interactions and self-presentation to the public", making them one of the best data sources for political speeches @schoonvelde_friends_2019 @bull_psychology_2023.
@@ -57,14 +57,14 @@ Similar results were found by Rebecca C. Kittel in 2025 @kittel_simply_2025 afte
 
 // populists tend to speak very emotionally 
 
-Other studies shifted the focus from textual complexity to the emotionality of speech. Wang et al. (2026) @wang_sound_2026 explore the sound of populism by integrating classic Linguistic Inquiry and Word Count with a fine-tuned RoBERTa model. Their findings reveal that populist rhetoric consistently features a direct, assertive “sound” that forges a connection with “the people” and constructs a charismatic leadership persona. Notably, right-wing populism and people-centrism exhibit a more emotionally charged discourse, resonating with themes of identity, grievance, and crisis, in contrast to the relatively restrained emotional tones of left-wing and anti-elitist expressions. \
+Other studies shifted the focus from textual complexity to the emotiveness #footnote[_Emotive_, adjective: 1. of or relating to the emotions; 2. appealing to or expressing emotion; 3. causing strong emotions often in support of or against something @emotive_definition_2026.] of speech. Wang et al. (2026) @wang_sound_2026 explore the sound of populism by integrating classic Linguistic Inquiry and Word Count with a fine-tuned RoBERTa model. Their findings reveal that populist rhetoric consistently features a direct, assertive “sound” that forges a connection with “the people” and constructs a charismatic leadership persona. Notably, right-wing populism and people-centrism exhibit a more emotionally charged discourse, resonating with themes of identity, grievance, and crisis, in contrast to the relatively restrained emotional tones of left-wing and anti-elitist expressions. \
 Bliuc et al.'s work (2026) @bliuc_emotional_2026 highlights how anger consistently emerges as the most powerful emotional correlate of populist attitudes, followed by fear, resentment, and nostalgia, which agrees with Laura Alonso-Muñoz and Casero-Ripollés's 2023 study @alonso-munoz_appeal_2023. Their findings show that fear, uncertainty and resentment are the emotions most frequently used by European populist parties and leaders #footnote[Alonso-Muñoz and Casero-Ripollés for their 2023 study built a corpus of tweets from four European political parties: Podemos, 5 Star Movement, National Front, and the UKIP @alonso-munoz_appeal_2023.]. \
 Caiani and Di Cocco (2023) @caiani_populism_2023, on the other hand, try to draw the connection between emotion and populism using machine learning: focusing on Italy as a case study, they systematically investigate the intensity and trends of specific emotions in political discourses of all Italian political parties over the last 20 years. Their findings confirm that populist politicians tend to leverage more emotional appeals than non-populist parties. However, there is an increase in the use of these appeals overall, especially in terms of negative emotions. Most notably, different types of emotions are mobilized by different types of populisms: right-wing populists mainly use negative emotions, while left-wing populists employ positive emotional appeals.
 
 // polarization
 
 Turning now to the effects populism has on society, polarization may be the one most consistently observed @roberts_populism_2022 @velden_populism_2025. A lot of research has been done on the risks posed by a polarized society, such as Benson's (2023) @benson_democracy_2024, which argues that polarization’s epistemic harms are best located in its tendency to reduce the diversity of perspectives utilized in a democratic system and in how this weakens the system’s ability to identify and address problems of public concern. \
-Rostbøll (2024) @rostboll_polarization_2025 argues that "it is widely agreed that the increased polarization many countries experience is bad for democracy", and recommends a systemic approach to assessing the democratic implication of polarization, which analyzes both the effects of polarization at different sites and on democracy as a composite whole. \ 
+Rostbøll (2024) @rostboll_polarization_2025 argues that "it is widely agreed that the increased polarization many countries experience is bad for democracy", and recommends a systemic approach to assess the democratic implication of polarization, which analyzes both the effects of polarization at different sites and on democracy as a composite whole. \ 
 Schedler (2023) @schedler_rethinking_2023 frames political polarization as a form of public conflict that aims to destroy the basic democratic trust. Citizens living in a polarized society fear for the subversion of democracy instead of their economic well-being, physical safety, or ways of life. They then argue that the institutional implications of such fears are dramatic, spelling the end of democratic consolidation. \
 Other literature argues that affective polarization contributes to democratic erosion by increasing partisan loyalty and decreasing the importance citizens give to democratic procedures. More specifically, the strength of partisanship has also been found to be associated with "partisan double standard" @graham_democracy_2020 or "democratic hypocrisy" @simonovits_democratic_2022, that is, the willingness to overlook democratic violations by one's own party.
 
@@ -72,31 +72,27 @@ Other literature argues that affective polarization contributes to democratic er
 
 // summary and thesis structure
 
-This Master Thesis will explore the three verticals just discussed (textual complexity, polarization, and emotionality) from a computational point of view.
+This Master Thesis will explore the three verticals just discussed (textual complexity, polarization, and emotiveness) from a computational point of view.
 
 The dataset consists of over five thousand annotated speeches delivered by Italian Prime Ministers between 1945 and 2025.
-Section @sec:building_corpus outlines how the corpus was built, and section @sec:corpus_annotation describes in detail how it was annotated to address the topic of "emotionality": every speech is classified by its degree of aggressiveness, hate speech or negativity, as well as whether it targets a specific group or not. Possible target groups are: political adversaries, gender minorities, ethnic minorities, and religious minorities. \
-Section @sec:res_textual_complexity showcases all the analyses performed on the matter of textual complexity, section @sec:res_polarization does so on the matter of polarization, while section @sec:res_sentiment_analysis explores the matter of emotionality. \
+Section @sec:building_corpus outlines how the corpus was built, and section @sec:corpus_annotation describes in detail how it was annotated to address the topic of "emotiveness": every speech is classified by its degree of aggressiveness, hate speech or negativity, as well as whether it targets a specific group or not. Possible target groups are: political adversaries, gender minorities, ethnic minorities, and religious minorities. \
+Section @sec:res_textual_complexity showcases all the analyses performed on the matter of textual complexity, section @sec:res_polarization does so on the matter of polarization, while section @sec:res_sentiment_analysis explores the matter of emotiveness. \
 Lastly, in section @ch:future the results are discussed as well as possible future work.
-
-== Project's Goal
-
 
 
 == Research Questions <sec:research_questions>
 
-
-Research Questions:
 + *Textual Complexity:*
    + Does it have a correlation with democracy levels?
-   + Does it change over time?
-   + Does it change among different political leanings?
+   + Does it evolves over time? How?
+   + Does it change amongst different political leanings?
+   + Does lexical complexity evolution exhibit some common patterns amongst different Prime Ministers?
 + *Polarization:*
    + Does symptoms of polarization change over the years?
    + Do they have a correlation with democracy levels?
    + Are Prime Ministers' rhetorics more similar or more dissimilar?
-   + Can we visualize and calculate polarization among different political leanings?
-+ *Sentiment:*
+   + Can we visualize and calculate polarization amongst different political leanings?
++ *Emotiveness:*
    + Does it have a correlation with democracy levels?
    + What PM is more toxic?
    + What political leaning is more toxic?
