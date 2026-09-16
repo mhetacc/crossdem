@@ -82,28 +82,37 @@ Lastly, in section @ch:future the results are discussed as well as possible futu
 
 == Research Questions <sec:research_questions>
 
+Before delving into the research questions, it is important to specify the term _hostility_. \
+In the pursuit of measuring emotiveness, I measured three qualities of speech (hate speech, aggressiveness, and negativity), and I classified whether a speech is targeting a group or not (political adversaries, gender minorities, ethnic minorities, and religious minorities). \
+I define the term _hostility_ as the compound metric that incorporates all three aforementioned qualities #footnote[To clarify: if a speech has high negativity and high aggressiveness, it is a speech with medium to high hostility.].
+
+#pagebreak()
+
 + *Textual Complexity:*
-   + Does it have a correlation with democracy levels?
-   + Does it evolves over time? How?
+   + Does it have a correlation with the quality of democracy?
+   + Does it evolve over time? How?
    + Does it change amongst different political leanings?
-   + Does lexical complexity evolution exhibit some common patterns amongst different Prime Ministers?
+   + Does lexical complexity evolution exhibit some common patterns amongst different Prime Ministers? 
 + *Polarization:*
-   + Does symptoms of polarization change over the years?
-   + Do they have a correlation with democracy levels?
-   + Are Prime Ministers' rhetorics more similar or more dissimilar?
-   + Can we visualize and calculate polarization amongst different political leanings?
+   + Can we identify symptoms of polarization?
+      + Per Prime Minister;
+      + Per political leaning;
+      + Per year period;
+   + Do the symptoms evolve over the years? Do the evolution patterns change depending on the political leaning?
+   + Do the symptoms have a correlation with the quality of democracy?
 + *Emotiveness:*
-   + Does it have a correlation with democracy levels?
-   + What PM is more toxic?
-   + What political leaning is more toxic?
-   + What period is more toxic? Is it getting better or worse?
+   + Can we identify hate speech?
+   + Can we identify negativity?
+   + Can we identify aggressiveness?
+   + Do emotionally charged speeches evolve over the years?
+   + What emotions are used the most? By which leaning? In which periods?
+   + Does hostility have a correlation with the quality of democracy?
+   + What Prime Minister is more hostile?
+   + What political leaning is more hostile?
+   + What period is more hostile? Is hostility evolving? How?
    + Target: 
-      + Which political side, if any, is more often targeting?
-      + Which PMs, if any, is more often targeting? 
+      + Which group is more often targeted?
+      + Which political leaning, if any, targets groups more often?
+      + Which Prime Minister, if any, targets groups more often? 
+      + Which time periods, if any, have more speeches that target a group?
 
-== Roadmap <sec:roadmap>
-
-Needed? 
-
-+ First step: build the corpus
-+ Second step: etc
