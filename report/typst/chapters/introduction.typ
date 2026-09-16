@@ -72,8 +72,7 @@ Other literature argues that affective polarization contributes to democratic er
 
 // summary and thesis structure
 
-This Master Thesis will explore the three verticals just discussed (textual complexity, polarization, and emotiveness) from a computational point of view.
-
+This Master Thesis will explore the three verticals just discussed (textual complexity, polarization, and emotiveness) from a computational point of view. \
 The dataset consists of over five thousand annotated speeches delivered by Italian Prime Ministers between 1945 and 2025.
 Section @sec:building_corpus outlines how the corpus was built, and section @sec:corpus_annotation describes in detail how it was annotated to address the topic of "emotiveness": every speech is classified by its degree of aggressiveness, hate speech or negativity, as well as whether it targets a specific group or not. Possible target groups are: political adversaries, gender minorities, ethnic minorities, and religious minorities. \
 Section @sec:res_textual_complexity showcases all the analyses performed on the matter of textual complexity, section @sec:res_polarization does so on the matter of polarization, while section @sec:res_sentiment_analysis explores the matter of emotiveness. \
