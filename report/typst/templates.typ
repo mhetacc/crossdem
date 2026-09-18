@@ -46,9 +46,9 @@
       else if calc.rem(row, 2) == 0 { rgb("#B5001B33") }
       else { white }
     },
-    table.hline(stroke: 1pt),
-    text(fill:white)[*Level*], text(fill:white)[*Field*], text(fill:white)[*Description*], text(fill:white)[*Example*],
     table.hline(stroke: 0.5pt),
+    text(fill:white)[*Level*], text(fill:white)[*Field*], text(fill:white)[*Description*], text(fill:white)[*Example*],
+    //table.hline(stroke: 0.5pt),
     [1], [`tenant_id`], [Logical isolation between organizations], [`agroTech01`],
     [2], [`site_type`], [Type of agricultural facility], [`greenhouse`, `open field`],
     [3], [`site_id`], [Physical site identifier], [`GH-001`],
@@ -59,7 +59,7 @@
     [8], [`entity_id`], [Unique device identifier], [`mqtt-device-03`],
     [9], [`message_type`], [Message classification], [`data`, `cmd`, `status`, `alert`],
     [10], [`target_id`], [Target device for commands (optional)], [`cooler-001`],
-    table.hline(stroke: 1pt),
+    table.hline(stroke: 0.5pt),
   ),
   caption: [10-level topic hierarchy structure]
 ) <tab:tabtwo>
