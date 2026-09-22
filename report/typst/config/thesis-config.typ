@@ -6,7 +6,12 @@
 // Monospace cell helper — available for import in all files
 #let mc(content) = text(font: "Source Code Pro", size: 7pt, content)
 
-
+#let blockquote(body) = block(
+  inset: (left: 1em, top: 0.5em, bottom: 0.5em),
+  stroke: (left: 2pt + gray),
+  [#set text(style: "italic")
+  #body]
+)
 
 //------------------- config --------------------
 // things set up here gets imported in thesis.typ and available for all files
@@ -25,7 +30,7 @@
     // Cite = [2] or [12,5,1]
     set cite(style: "elsevier-vancouver")
     set ref(supplement: none)
-
+    
     
 
     // LaTeX look 

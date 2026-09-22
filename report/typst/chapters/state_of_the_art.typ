@@ -19,28 +19,56 @@ Because it operationalizes how long a text can sustain lexical novelty before re
 
 The metrics discussed above are summarized in table @tab:lexical_complexity_metrics.
 
-
 #v(1em)
 #figure(
 table(
-columns: (auto, auto, auto, auto),
-align: (left, left, left, left),
+columns: (auto, auto, 14em, auto),
+align: (center, center, center, center),
 stroke: none,
 inset: 5pt,
-table.hline(stroke: 1pt),
-    [*Metric*], [*What it measures*], [*Basis*], [*Output*],
+fill: (col, row) => {
+if row == 0 { rgb("#B5001B") }
+else if calc.rem(row, 2) == 0 { rgb("#B5001B33") }
+else { white }
+    },
 table.hline(stroke: 0.5pt),
+align(center, text(fill:white)[*Metric*]), align(center, text(fill:white)[*What it measures*]), align(center, text(fill:white)[*Basis*]), align(center, text(fill:white)[*Output*]),
+//table.hline(stroke: 0.5pt),
     [TTR], [Lexical diversity], [Ratio of unique word types to total tokens], [Raw ratio (0--1), length-sensitive],
     [MTLD], [Lexical diversity], [Mean length of word sequences maintaining a TTR above a fixed threshold (0.720)], [Words per factor, robust to text length],
     [Flesch Reading Ease], [Sentence/word-length readability], [Average sentence length + average syllables per word], [0--100, higher = easier],
     [Dale--Chall], [Vocabulary familiarity], [\% of words outside a \~3,000-word familiar-word list + average sentence length], [US grade level],
     [SMOG], [Polysyllabic density], [Count of 3+ syllable words across a fixed sentence sample], [US grade level],
-table.hline(stroke: 1pt),
+table.hline(stroke: 0.5pt),
   ),
 caption: [Comparison of common textual complexity/readability metrics]
 ) <tab:lexical_complexity_metrics>
+#v(1em)
 
-- State of the art: what has been done in the field, what are the gaps, what are the limitations
+Let's now have a look at the recent research. \
+Velasco and Roque (2025) @velasco_rethinking_2025 explored how does complexity affect language modeling across model sizes, if useful representations be learned from simpler text alone, and how does pretraining text complexity influence downstream language understanding. They used a subset of _FineWeb-Edu_ @penedo_fineweb_2024, then simplified by prompting _Llama 3.1 8B_ @grattafiori_llama_2024 at the paragraph level. \
+To get a rough idea of what the simplified texts look like, see the following example: 
+
+#blockquote[
+    *Original:* Your comment really helped me feel better the most. I was sitting in my office, feeling so bad that I didn’t say how inappropriate and out of line his comments were, and this helped.
+]
+#blockquote[
+    *Simplified:* Your comment really helped me feel better. I was feeling bad because I didn’t speak up when someone made inappropriate comments.
+]
+
+Since LLM-based scoring is computationally costly, they used Flesch Reading Ease to estimate readability, and Type-Token Ratio to measure lexical diversity.
+
+#v(1em)
+
+Amadori et al. (2025) @amadori_involvement_2025 examined the linguistic complexity of content produced by influential users on Twitter across three globally significant and contested topics: COVID-19, COP26, and the Russia–Ukraine war. Their findings show significant differences across account type, political leaning, content reliability, and sentiment. Additionally, profiles producing more negative and offensive content tend to use more complex language. \
+They used three metrics: Yule’s K measure of lexical richness, gzip-based compression complexity and Flesch readability score. \
+More in detail, Yule’s K-complexity *CIT TODO* quantifies how repetitive or diverse the vocabulary is, and it is largely independent of the overall length of a text, while G-Zip can be used to assess text repetitiveness by measuring its compression ratio, an approach already used in previous studies @parada-cabaleiro_song_2024 @desiderio_recurring_2023 @dimarco_patterns_2024.
+
+
+
+
+
+
 
 
 == Polarization <sec:sots_polarization>
