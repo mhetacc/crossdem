@@ -2,7 +2,7 @@
 #import "../config/thesis-config.typ": *
 #pagebreak(to:"odd")
 
-= The Corpus <sec:corpus>
+= The Corpus <ch:corpus>
 
 == Similar Corpora <sec:similar_corpora>
 

@@ -25,6 +25,7 @@
   // Set the document's basic properties.
     set document(author: myAuthor, title: myTitle)
     show math.equation: set text(weight: 400)
+    set math.equation(numbering: "1.1.1.", supplement: none)
     set enum(numbering: "1.1.1.", full: true)
 
     // Cite = [2] or [12,5,1]

@@ -76,6 +76,7 @@
         "lemmatization",
         "lemmatized",
         "lemmatizer",
+        "lockdown",
         "MTLD",
         "multimodal",
         "polyarchy",
@@ -88,4 +89,5 @@
     ],
     "editor.wordWrap": "on",
     "cSpell.enabled": true,
+    "tinymist.typstExtraArgs": ["report/typst/thesis.typ"]
 }
