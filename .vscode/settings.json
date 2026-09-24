@@ -89,5 +89,4 @@
     ],
     "editor.wordWrap": "on",
     "cSpell.enabled": true,
-    "tinymist.typstExtraArgs": ["report/typst/thesis.typ"]
 }

@@ -52,20 +52,17 @@ For the purposes of this project, I decided to limit the scope to one lexical co
 
 == Polarization <sec:sots_polarization>
 
-- What is
-Political polarization is the divergence of political attitudes away from the center, towards ideological extremes @fiorina_political_2008 @baldassarri_partisans_2008 @dimaggio_have_1996. Scholars distinguish between ideological polarization (differences in ideological positions) and affective polarization (a dislike and distrust of political out-groups) @iyengar_origins_2019, and between elite polarization (polarization of the political elites, such as elected official), and mass polarization (the polarization of the general public) @carmines_who_2012 @layman_party_2006 @hetherington_review_2009. 
+Political polarization is the divergence of political attitudes away from the center, towards ideological extremes @fiorina_political_2008 @baldassarri_partisans_2008 @dimaggio_have_1996. Scholars distinguish between ideological polarization (differences in ideological positions) and affective polarization (a dislike and distrust of political out-groups) @iyengar_origins_2019, and between elite polarization (polarization of the political elites, such as elected officials), and mass polarization (the polarization of the general public) @carmines_who_2012 @layman_party_2006 @hetherington_review_2009. 
 
-*Affective polarization* refers to the phenomenon where individuals' feelings and emotions towards members of their own in-group become more positive, while their feelings towards members of the opposing out-groups become more negative.  This can lead to increased hostility, unwillingness to compromise or work together with people with different political views, may lead to aggressive attitudes and behaviors toward members of other ideological groups @hetherington_why_2015, and in extreme cases can even lead to societal disintegration and ideological sorting @orianharel_conflict_2020 @nettasinghe_how_2025.
+*Affective polarization* refers to the phenomenon where individuals' feelings and emotions towards members of their own in-group #footnote[In social psychology and sociology, an in-group is a social group to which a person psychologically identifies as being a member. By contrast, an out-group is a social group with which an individual does not identify.] become more positive, while their feelings towards members of the opposing out-group become more negative.  This can lead to increased hostility, aggressive attitudes, and unwillingness to compromise or work together with people with different political views @hetherington_why_2015, and in extreme cases can even lead to societal disintegration and ideological sorting @orianharel_conflict_2020 @nettasinghe_how_2025.
 
-*Elite polarization* refers to polarization between the governing parties and the opposition @baldassarri_partisans_2008. Polarized political parties are internally cohesive, unified, and ideologically distinct, and they are typically found in a parliamentary system of democratic governance @mann_its_2016. While in bipartisan systems the direction of polarization is intuitive, studies show that in multipartite systems it is not the number of parties itself, but the way a party interacts with another that influences the magnitude and nature of affective polarization @hahm_divided_2022.\
+*Elite polarization* refers to polarization between the governing parties and the opposition @baldassarri_partisans_2008. Polarized political parties are internally cohesive, unified, and ideologically distinct, and they are typically found in a parliamentary system of democratic governance @mann_its_2016. While in bipartisan systems the direction of polarization is intuitive, studies show that in multiparty systems it is not the number of parties itself, but the way parties interacts with one another that influences the magnitude and nature of affective polarization @hahm_divided_2022.\
 On the other hand, *mass polarization* occurs when an electorate's attitudes towards political issues, policies, celebrated figures, or other citizens are neatly divided along party lines @claassen_policy_2009. At the extreme, each camp questions the moral legitimacy of the other, viewing the opposing camp and its policies as an existential threat to their way of life or the nation as a whole @geiger_partisanship_2016 @garcia-guadilla_polarization_2019. 
 
-
-
-- Common metrics
+#v(1em)
 
 While there are no straightforward and established metrics to measure polarization, it has been estimated via a variety of methods. \
-McMurtrie et al. proposed in 2024 the Affective Polarization Scale @mcmurtrie_development_2024. They subjected participants to a series of statements. Each participant was asked to rate each statement on a 7-point scale, from _strongly disagree_ to _strongly disagree_. 
+McMurtrie et al. proposed in 2024 the Affective Polarization Scale @mcmurtrie_development_2024. They subjected participants to a series of statements. Each participant was asked to rate each statement on a 7-point scale, from _strongly disagree_ to _strongly agree_. 
 Questions were in the form of:
 
 #let blank = box(width: 2em, line(length: 100%, stroke: 0.5pt))
@@ -77,7 +74,7 @@ The researchers filled in the blanks with the out-group respective to the single
 
 #v(1em)
 
-A different approach were taken by Gentzkow et al. (2019) @gentzkow_measuring_2019.  Their mathematical model revolves around the formula for partisanship  of speech for given characteristics $x$:
+A different approach was taken by Gentzkow et al. (2019) @gentzkow_measuring_2019.  Their mathematical model revolves around the formula for partisanship  of speech for given characteristics $x$:
 
 $ pi_t (bold(x)) = 1/2 bold(q)^R_t (bold(x)) dot bold(rho)_t (bold(x)) + 1/2 bold(q)^D_t (bold(x)) dot (1 - bold(rho)_t (bold(x)) ), $<math:gentzkow>
 
@@ -85,10 +82,20 @@ They measured differences in speech patterns between Republicans and Democrats, 
 
 #v(1em)
 
-Nettasinghe et al. (2025) @nettasinghe_ingroup_2025 used a regression-based approach. They estimated two parameters (in-group love #sym.alpha, and out-group hate #sym.beta) by measuring how likely it is for an individual to switch their stance on a opinionated topic (e.g., pro or anti lockdown during COVID). They took paris of consecutive observations of a user's stance and fitted a logistic regression one the outcome "did the stance change?". They used as predictors how supportive of said change their in-group and out-group were, and the coefficients resulting from the fitting become #sym.alpha and #sym.beta. \
+Nettasinghe et al. (2025) @nettasinghe_ingroup_2025 used a regression-based approach. They estimated two parameters (in-group love #sym.alpha, and out-group hate #sym.beta) by measuring how likely it is for an individual to switch their stance on an opinionated topic (e.g., pro or anti lockdown during COVID). They took pairs of consecutive observations of a user's stance and fitted a logistic regression on the outcome _"did the stance change?"_. They used as predictors how supportive of said change their in-group and out-group were, and the coefficients resulting from the fitting are #sym.alpha and #sym.beta. \
 To build the corpus, they used a fine-tuned Llama model to classify the stances of millions of tweets.
 
+#v(1em)
 
+Karjus and Cuskley (2023) @karjus_evolving_2023 quantified linguistic divergence between left- and right-leaning Twitter users in the United States. They collected 1.5 million tweets authored in 2021 and vectorized them with a doc2vec text embedding. Then, they plotted each tweet as a UMAP dimension reduction @mcinnes_umap_2018, and colored each of them by their estimated political leaning. In doing so, they were able to visualize clustering that can potentially indicate polarization (figure @fig:karjus_umap). 
+
+#align(center)[
+    #figure(image("../images/karjus_UMAP_twitter.png", width: 100%), 
+    caption: [(a) 1.5 million tweets authored in the US in 2021, colored by estimated political alignment (blue is left-leaning, red is right-leaning). Tweets close together are semantically similar. Topical keywords have been plotted over dense clusters (colored similarly, by the share of red vs blue user tweets in the cluster). Some topics like food and birthdays are discussed regardless of political alignment. The blue areas stand out with everyday life topics (keywords like sleep, car, birthday). The top left blue corner are mostly bilingual tweets containing Spanish. Some political figures, religion and vaccination related topics appear more popular in the right-leaning subcorpus. The inset (b) is a heatmap of the same UMAP, colored by the average estimated sentiment of the tweets (purple negative through gray neutral to green positive). The political tweet cluster in the bottom right again stands out as notably more negative. This map illustrates how groups of people of opposing political alignment in the US, while sharing some topics of conversation, noticeably diverge in others. _Image and caption thanks to Karjus and Cuskley_ @karjus_evolving_2023])
+    <fig:karjus_umap>
+]
+
+In this project, I tried to identify and visualize polarization in two ways: first, by measuring the overlapping vocabulary among three political areas (left, right, and center) over time, and comparing it against those areas' exclusive vocabularies (section @sec:lexicons_over_time); and second, by projecting on a t-SNE graph all collected speeches vectorized with a doc2vec algorithm (section @sec:tsne).
 
 == Sentiment Analysis <sec:sots_sentiment_analysis>
 
