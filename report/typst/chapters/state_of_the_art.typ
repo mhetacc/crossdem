@@ -50,6 +50,19 @@ They chose a range of linguistic complexity metrics: for lexical diversity they 
 For the purposes of this project, I decided to limit the scope to one lexical complexity metric. MTLD was chosen due to its wide adoption in literature and its robustness to text length: collected speeches (section @ch:corpus) vary in length between one another, going from a couple of lines to more than twenty thousand words. 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 == Polarization <sec:sots_polarization>
 
 Political polarization is the divergence of political attitudes away from the center, towards ideological extremes @fiorina_political_2008 @baldassarri_partisans_2008 @dimaggio_have_1996. Scholars distinguish between ideological polarization (differences in ideological positions) and affective polarization (a dislike and distrust of political out-groups) @iyengar_origins_2019, and between elite polarization (polarization of the political elites, such as elected officials), and mass polarization (the polarization of the general public) @carmines_who_2012 @layman_party_2006 @hetherington_review_2009. 
@@ -97,11 +110,42 @@ Karjus and Cuskley (2023) @karjus_evolving_2023 quantified linguistic divergence
 
 In this project, I tried to identify and visualize polarization in two ways: first, by measuring the overlapping vocabulary among three political areas (left, right, and center) over time, and comparing it against those areas' exclusive vocabularies (section @sec:lexicons_over_time); and second, by projecting on a t-SNE graph all collected speeches vectorized with a doc2vec algorithm (section @sec:tsne).
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 == Sentiment Analysis <sec:sots_sentiment_analysis>
 
-- What is
+Sentiment analysis is the use of natural language processing, text analysis, and computational linguistics, to systematically identify, extract, quantify, and study the emotional qualities of a piece of text. A classical example is evaluating how positive or negative a review is (for example a movie review), a task that is often aided by the presence of a score in the review itself (such as _two stars out of five_). With the rise of deep language models, more difficult data domains can be analyzed, such as news texts where authors express their sentiment less explicitly @hamborg_newsmtsc_2021. \
+A sentiment analysis task can be assess the verbal aggression of X's (ex Twitter) comments @chen_verbal_2020, measure the negative sentiment on social media during the COVID-19 outbreak @wang_covid19_2020, and detect hate speech in online debate @macavaney_hate_2019. \
+
+
+
+
 - Common metrics
-- State of the art: what has been done in the field, what are the gaps, what are the limitations
+
+Most of the time, sentiment analysis is a classification task /*@citation?*/  thus its performances get measure with common classification metrics >>
+
+After classification -> metrics to quantify the quality of it
+- macro F1
+- precision
+- recall
+- cohen kappa
+- lexicon based: older and still-used approaches score text against a sentiment dictionary 
+
+How most studies measure these, common metrics (if any eg for text complexity you have TTR)
+and some studies like between 4 and 7
 
 // remove after finish working on it 
 // just to save ram 
