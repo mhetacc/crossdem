@@ -1,8 +1,8 @@
 #import "../config/variables.typ": *
 #import "../config/thesis-config.typ": *
-#set heading(numbering:"1.")
-#set math.equation(numbering: "1.", supplement: none)
-//#pagebreak(to:"odd")
+//#set heading(numbering:"1.")
+//#set math.equation(numbering: "1.", supplement: none)
+////#pagebreak(to:"odd")
 
 = State of the Art <ch:state_of_the_art>
 
@@ -128,31 +128,35 @@ In this project, I tried to identify and visualize polarization in two ways: fir
 == Sentiment Analysis <sec:sots_sentiment_analysis>
 
 Sentiment analysis is the use of natural language processing, text analysis, and computational linguistics, to systematically identify, extract, quantify, and study the emotional qualities of a piece of text. A classical example is evaluating how positive or negative a review is (for example a movie review), a task that is often aided by the presence of a score in the review itself (such as _two stars out of five_). With the rise of deep language models, more difficult data domains can be analyzed, such as news texts where authors express their sentiment less explicitly @hamborg_newsmtsc_2021. \
-A sentiment analysis task can be assess the verbal aggression of X's (ex Twitter) comments @chen_verbal_2020, measure the negative sentiment on social media during the COVID-19 outbreak @wang_covid19_2020, and detect hate speech in online debate @macavaney_hate_2019. \
+A sentiment analysis task can be assess the verbal aggression of X's (ex Twitter) comments @chen_verbal_2020, measure the negative sentiment on social media during the COVID-19 outbreak @wang_covid19_2020, and detect hate speech in online debate @macavaney_hate_2019. 
+
+The scope of sentiment analysis can be mostly divided into the document, phrase, and aspect levels according to the text range @behdenna_sentiment_2016 @do_deep_2019. At document-level, the task is researching the emotion of the entire document, and each document is treated as an independents object. Mao et al. (2022) @mao_documentlevel_2022 tackled this task using an attention-based bi-directional LSTM network and CNN. \
+Sentence-level on the other hand aims to classify the sentiment polarity of a single sentence, categorizing each sentence into objective (a sentence that does not convey any opinion), or subjective (a sentence that present the owner's thoughts and ideas) @liu_sentiment_2012. Chen et al. (2017) @chen_improving_2017 used a sequence model to categorize sentences’ sentiment polarity based on their target, while Su et al. (2023) @su_sentencelevel_2023 proposed a supervised sentence-level SA method based on gradual machine learning. \
+Lastly, aspect-level
 
 
 
 
 - Common metrics
 
-Most of the time, sentiment analysis is a classification task /*@citation?*/  thus its performances get measure with common classification metrics >>
+In general, sentiment analysis is framed a classification task @pang_opinion_2008, so performances are measured with standard classification metrics:
 
-After classification -> metrics to quantify the quality of it
-- macro F1
-- precision
-- recall
-- cohen kappa
-- lexicon based: older and still-used approaches score text against a sentiment dictionary 
+- macro F1: F1 averaged across classes, unweighted — standard choice under class imbalance
+- precision: share of predicted-positive instances that are correct
+- recall: share of actual-positive instances retrieved
+- Cohen's kappa: chance-corrected agreement, used both for inter-annotator and model-vs-human agreement
+- lexicon-based: older and still-used approaches score text against a sentiment dictionary rather than a trained classifier
+- Area under the curve (AUC) popular for assessing binary classification models.
+- Confusion matrix: binary classification models
 
-How most studies measure these, common metrics (if any eg for text complexity you have TTR)
-and some studies like between 4 and 7
+
 
 // remove after finish working on it 
 // just to save ram 
 
-#include "../bibliography/bibliography.typ"
-
-#include "corpus.typ"
-#include "conclusions.typ"
-#include "results.typ"
-#include "future_works.typ"
+//#include "../bibliography/bibliography.typ"
+//
+//#include "corpus.typ"
+//#include "conclusions.typ"
+//#include "results.typ"
+//#include "future_works.typ"
