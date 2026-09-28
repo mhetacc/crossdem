@@ -1,8 +1,8 @@
 #import "../config/variables.typ": *
 #import "../config/thesis-config.typ": *
-//#set heading(numbering:"1.")
-//#set math.equation(numbering: "1.", supplement: none)
-////#pagebreak(to:"odd")
+#set heading(numbering:"1.")
+#set math.equation(numbering: "1.", supplement: none)
+//#pagebreak(to:"odd")
 
 = State of the Art <ch:state_of_the_art>
 
@@ -132,8 +132,10 @@ A sentiment analysis task can be assess the verbal aggression of X's (ex Twitter
 
 The scope of sentiment analysis can be mostly divided into the document, phrase, and aspect levels according to the text range @behdenna_sentiment_2016 @do_deep_2019. At document-level, the task is researching the emotion of the entire document, and each document is treated as an independents object. Mao et al. (2022) @mao_documentlevel_2022 tackled this task using an attention-based bi-directional LSTM network and CNN. \
 Sentence-level on the other hand aims to classify the sentiment polarity of a single sentence, categorizing each sentence into objective (a sentence that does not convey any opinion), or subjective (a sentence that present the owner's thoughts and ideas) @liu_sentiment_2012. Chen et al. (2017) @chen_improving_2017 used a sequence model to categorize sentences’ sentiment polarity based on their target, while Su et al. (2023) @su_sentencelevel_2023 proposed a supervised sentence-level SA method based on gradual machine learning. \
-Lastly, aspect-level
+Lastly, aspect-level is a finer analysis where the aim is to model the relationship among the aspect term, aspect category, opinion term, and sentiment polarity @wu_slangsd_2018. For example, in the sentence “This restaurant's steak is delicious.” the “steak” is an aspect term of the aspect category “food”, “delicious” is the opinion term and the sentiment polarity of “steak” is positive.
 
+In general, sentiment analysis is approached in four ways: lexicon-based approaches, traditional machine learning approaches, deep learning approaches and hybrid approaches @madhoushi_sentiment_2015 @sankar_investigating_2017 @thakkar_approaches_2015. \
+Lexicon-based methods utilize a sentiment lexicon that assigns scores to the collected tokens @taboada_lexiconbased_2011, meaning "bad" would have a negative score, while "good" would have a positive score. This can lead to problems, for example "heavy" can have a negative connotation for a car, and a good connotation for 
 
 
 
@@ -154,9 +156,9 @@ In general, sentiment analysis is framed a classification task @pang_opinion_200
 // remove after finish working on it 
 // just to save ram 
 
-//#include "../bibliography/bibliography.typ"
-//
-//#include "corpus.typ"
-//#include "conclusions.typ"
-//#include "results.typ"
-//#include "future_works.typ"
+#include "../bibliography/bibliography.typ"
+
+#include "corpus.typ"
+#include "conclusions.typ"
+#include "results.typ"
+#include "future_works.typ"
