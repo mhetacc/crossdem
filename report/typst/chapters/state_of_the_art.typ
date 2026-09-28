@@ -127,29 +127,41 @@ In this project, I tried to identify and visualize polarization in two ways: fir
 
 == Sentiment Analysis <sec:sots_sentiment_analysis>
 
-Sentiment analysis is the use of natural language processing, text analysis, and computational linguistics, to systematically identify, extract, quantify, and study the emotional qualities of a piece of text. A classical example is evaluating how positive or negative a review is (for example a movie review), a task that is often aided by the presence of a score in the review itself (such as _two stars out of five_). With the rise of deep language models, more difficult data domains can be analyzed, such as news texts where authors express their sentiment less explicitly @hamborg_newsmtsc_2021. \
-A sentiment analysis task can be assess the verbal aggression of X's (ex Twitter) comments @chen_verbal_2020, measure the negative sentiment on social media during the COVID-19 outbreak @wang_covid19_2020, and detect hate speech in online debate @macavaney_hate_2019. 
+Sentiment analysis refers the use of natural language processing, text analysis, and computational linguistics, to systematically identify, extract, quantify, and study the emotional qualities of a text. A classical example is evaluating the sentiment of a review (for example a movie review), a task that is often aided by the presence of an explicit score in the review itself (such as _"two stars out of five"_). With the rise of deep language models, harder data domains can be analyzed, such as news or opinion pieces where authors express their sentiment less explicitly @hamborg_newsmtsc_2021. \
+A sentiment analysis task can be assessing the verbal aggression of X's comments @chen_verbal_2020, measure the negative sentiment on social media during the COVID-19 outbreak @wang_covid19_2020, or detect hate speech in online debate @macavaney_hate_2019. 
+
+#v(1em)
 
 The scope of sentiment analysis can be mostly divided into the document, phrase, and aspect levels according to the text range @behdenna_sentiment_2016 @do_deep_2019. At document-level, the task is researching the emotion of the entire document, and each document is treated as an independents object. Mao et al. (2022) @mao_documentlevel_2022 tackled this task using an attention-based bi-directional LSTM network and CNN. \
 Sentence-level on the other hand aims to classify the sentiment polarity of a single sentence, categorizing each sentence into objective (a sentence that does not convey any opinion), or subjective (a sentence that present the owner's thoughts and ideas) @liu_sentiment_2012. Chen et al. (2017) @chen_improving_2017 used a sequence model to categorize sentences’ sentiment polarity based on their target, while Su et al. (2023) @su_sentencelevel_2023 proposed a supervised sentence-level SA method based on gradual machine learning. \
 Lastly, aspect-level is a finer analysis where the aim is to model the relationship among the aspect term, aspect category, opinion term, and sentiment polarity @wu_slangsd_2018. For example, in the sentence “This restaurant's steak is delicious.” the “steak” is an aspect term of the aspect category “food”, “delicious” is the opinion term and the sentiment polarity of “steak” is positive.
 
+#v(1em)
+
+On the matter of performance assessment, sentiment analysis is framed as a classification task @pang_opinion_2008, so performances are measured with both standard classification metrics and sentiment-specific metrics:
+
+- *Accuracy:* number of correct predictions over total number of predictions. Misleading for imbalanced datasets;
+- *Precision:* how many of the positive predictions are actually correct. Useful when the cost of false positives is high; 
+- *Recall (or sensitivity):*  how many of the actual positive cases were correctly identified. Useful when the cost of false negatives is high; 
+- *F1:* harmonic mean of precision and recall;
+- *Confusion Matrix:* used for binary classifies, visualizes at a glance true positives (TP), false positives (FP), true negatives (TN), and false negatives (FN);
+- *Area Under the Curve (AUC):* compares binary classifiers by measuring the area under the ROC curve, which visualizes True positive rate and False positive rate;
+- *Cohen's Kappa:* measure inter-rater reliability for qualitative or categorical data, and attempts to incorporate the possibility of the agreement occurring by chance.
+
+ #v(1em)
+
 In general, sentiment analysis is approached in four ways: lexicon-based approaches, traditional machine learning approaches, deep learning approaches and hybrid approaches @madhoushi_sentiment_2015 @sankar_investigating_2017 @thakkar_approaches_2015. \
-Lexicon-based methods utilize a sentiment lexicon that assigns scores to the collected tokens @taboada_lexiconbased_2011, meaning "bad" would have a negative score, while "good" would have a positive score. This can lead to problems, for example "heavy" can have a negative connotation for a car, and a good connotation for 
+Lexicon-based methods utilize a sentiment lexicon that assigns scores to the collected tokens @taboada_lexiconbased_2011, meaning the token "bad" would have a negative score, while the token "good" would have a positive score. We can adopt dictionary adaptation techniques to mitigate locality problems, for example in the phrase "a long battery life", _long_ has a positive connotation, while in "a long wait time", _long_ connotation is negative. \
+Machine learnings methods span from conventional classifiers, such as Naive Bayes @kang_sentilexicon_2012 or support vector machines @ahmad_sentiment_2017 , to K-nearest neighbors @daeli_sentiment_2020. More interesting are deep learning-based classifiers, for example we can use a convolutional neural network (CNN) as a feed-forward neural network with convolutional computation and pooling operation: Chen in 2015 @chen_convolutional_2015 proposed CNN-based sentiment analysis method built on word2vec for sentence-level sentiment categorization, outperforming rival approaches at the time. Xu et al. in 2016 @xu_cached_2016 used a cache long short-term memory network, and LSTM outperform both recurrent neural networks (RNN) and gated recurrent unit (GRU) when the amount of data becomes large @m.abdelgwad_arabic_2022. \
+To improve over pure machine learning-based approaches, Chang et al. (2020) @chang_novel_2020 combined SVM and Relief algorithms, outperforming most models when 96 percent of the features are included, but the biggest improvement came from the introduction of the bi-direction transformer model BERT in 2018 @devlin_bert_2019: Hoang et al. (2019) @hoang_aspectbased_2019 show the potential of using the contextual word representations from BERT, together with a fine-tuning method with additional generated text, in order to solve out-of-domain aspect-level sentiment analysis and outperform previous results; Amira Samy Talaat (2023) @talaat_sentiment_2023 proposed four deep learning models based on a combination of BERT with Bidirectional Long ShortTerm Memory (BiLSTM) and Bidirectional Gated Recurrent Unit (BiGRU) algorithms for text sentiment classification with without emoji, showing that BiGRU had the best results; and Bello et al. (2023) @bello_bert_2023 demonstrate that the combination of BERT with CNN, with RNN, and with BiLSTM performs well in terms of accuracy rate, precision rate, recall rate, and F1-score compared to pure BERT or BERT combined with Word2vec.
 
+#v(1em)
 
+Lastly, most recent research focused on doing sentiment analysis classification with decoder-only models, namely large language models (LLMs). Sun et al. (2023) @sun_sentiment_2023 propose a multi-LLM negotiation framework for sentiment analysis, were two LLMs use rationale to persuade each other to reach consensus. The approach consistently yields better performances than the baseline across all benchmarks; Ghatora et al. (2024) @ghatora_sentiment_2024 applied machine learning-based classifiers (Random Forest, Naive Bayes, and Support Vector Machine) alongside the GPT-4 model to benchmark their effectiveness for sentiment analysis. Traditional models showed better results and efficiency in processing short, concise text, however GPT-4 showed better results with more detailed texts, showing that LLMs outperform traditional models in context-rich sentiment analysis; Jin et al. (2025) @jin_selfadaptive_2025 propose a self-adaptive framework to address common LLM hallucinations by bootstrapping instructions optimization. The framework integrates various in-context augmentation strategies, including emotion-oriented backgrounds, constraints, and analogical reasoning, and showed exceptional results, even surpassing human judgment in certain scenarios.
 
-- Common metrics
+#v(1em)
 
-In general, sentiment analysis is framed a classification task @pang_opinion_2008, so performances are measured with standard classification metrics:
-
-- macro F1: F1 averaged across classes, unweighted — standard choice under class imbalance
-- precision: share of predicted-positive instances that are correct
-- recall: share of actual-positive instances retrieved
-- Cohen's kappa: chance-corrected agreement, used both for inter-annotator and model-vs-human agreement
-- lexicon-based: older and still-used approaches score text against a sentiment dictionary rather than a trained classifier
-- Area under the curve (AUC) popular for assessing binary classification models.
-- Confusion matrix: binary classification models
+In this work, I use an LLM (specifically Gemma 4 #footnote[Gemma 4 models are designed to deliver frontier-level performance at each size. They are well-suited for reasoning, agentic workflows, coding, and multimodal understanding. I use the `gemma4:e4b` variant, taken from #link("https://ollama.com/library/gemma4:e4b")]) to classify Italian Prime Ministers' speeches from 1945 to 2025. The classification is multi-dimensional: three classes with three possibile values each, and a target class with four possibile values #footnote[The three classes are hate speech, negativity, and aggressiveness, and each can be classified, for each speech, as low, mid, or high. In addition, each speech can be classified with a target, either none (no target), political adversaries, gender minorities, ethnic minorities, or religious minorities.]. The model's performances were assessed by measuring the Cohen's Kappa on a pre-labeled validation set (all details in section @sec:corpus_annotation). \
 
 
 
