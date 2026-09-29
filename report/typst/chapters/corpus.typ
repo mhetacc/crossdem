@@ -2,6 +2,9 @@
 #import "../config/thesis-config.typ": *
 #pagebreak(to:"odd")
 
+//#set heading(numbering:"1.")
+//#set math.equation(numbering: "1.", supplement: none)
+
 = The Corpus <ch:corpus>
 
 == Similar Corpora <sec:similar_corpora>
@@ -61,3 +64,11 @@ Is the corpus correct? Yes, check with n-gram centroid.
 - Pipeline
 
 === V-DEM <sec:vdem>
+
+
+//#include "../bibliography/bibliography.typ"
+//
+//#include "corpus.typ"
+//#include "conclusions.typ"
+//#include "results.typ"
+//#include "future_works.typ"

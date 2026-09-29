@@ -1,7 +1,7 @@
 #import "../config/variables.typ": *
 #import "../config/thesis-config.typ": *
-#set heading(numbering:"1.")
-#set math.equation(numbering: "1.", supplement: none)
+//#set heading(numbering:"1.")
+//#set math.equation(numbering: "1.", supplement: none)
 //#pagebreak(to:"odd")
 
 = State of the Art <ch:state_of_the_art>
@@ -151,7 +151,7 @@ When it comes to assess performances, sentiment analysis is framed as a classifi
  #v(1em)
 
 In general, sentiment analysis is approached in four ways: lexicon-based approaches, traditional machine learning approaches, deep learning approaches and hybrid approaches @madhoushi_sentiment_2015 @sankar_investigating_2017 @thakkar_approaches_2015. \
-Lexicon-based methods utilize a sentiment lexicon that assigns scores to tokens @taboada_lexiconbased_2011, meaning the token "bad" would have a negative score, while the token "good" would have a positive score. We can adopt dictionary adaptation techniques to mitigate locality problems, for example in the phrase "a long battery life", _long_ has a positive connotation, while in "a long wait time", _long_ connotation is negative. \
+Lexicon-based methods utilize a sentiment lexicon that assigns scores to tokens @taboada_lexiconbased_2011, meaning the token "bad" would have a negative score, while the token "good" would have a positive score. We can adopt dictionary adaptation techniques to mitigate locality problems, for example in the phrase "a long battery life", _"long"_ has a positive connotation, while in "a long wait time", _"long"_ connotation is negative. \
 Machine learning methods span from conventional classifiers, such as Naive Bayes @kang_sentilexicon_2012 or support vector machines @ahmad_sentiment_2017 to K-nearest neighbors @daeli_sentiment_2020. More interesting are deep learning-based classifiers, for example we can use a convolutional neural network (CNN) as a feed-forward neural network with convolutional computation and pooling operation: Chen in 2015 @chen_convolutional_2015 proposed a CNN-based sentiment analysis method built on word2vec for sentence-level sentiment categorization, outperforming rival approaches at the time. Xu et al. in 2016 @xu_cached_2016 used a cached long short-term memory network, and LSTM networks often outperform both recurrent neural networks (RNN) and gated recurrent unit (GRU) when the amount of data becomes large @m.abdelgwad_arabic_2022. \
 To improve over pure machine learning-based approaches, Chang et al. (2020) @chang_novel_2020 combined SVM and Relief algorithms, outperforming most models when 96 percent of the features are included, but the biggest improvement came after the introduction of the bi-directional transformer model BERT in 2018 @devlin_bert_2019: Hoang et al. (2019) @hoang_aspectbased_2019 showed the potential of mixing BERT's contextual word representations with fine-tuning and additional generated text, solving out-of-domain aspect-level sentiment analysis and outperforming previous results; Amira Samy Talaat (2023) @talaat_sentiment_2023 proposed four deep learning models based on a combination of BERT with Bidirectional Long ShortTerm Memory (BiLSTM) and Bidirectional Gated Recurrent Unit (BiGRU) algorithms for text sentiment classification with and without emoji, showing that BiGRU had the best results; 
 Bello et al. (2023) @bello_bert_2023 demonstrated that the combination of BERT with CNN, with RNN, and with BiLSTM performs well in terms of accuracy rate, precision rate, recall rate, and F1-score compared to pure BERT or BERT combined with Word2vec.
@@ -169,9 +169,9 @@ In this work, I use an LLM (specifically Gemma 4 #footnote[Gemma 4 models are de
 // remove after finish working on it 
 // just to save ram 
 
-#include "../bibliography/bibliography.typ"
-
-#include "corpus.typ"
-#include "conclusions.typ"
-#include "results.typ"
-#include "future_works.typ"
+//#include "../bibliography/bibliography.typ"
+//
+//#include "corpus.typ"
+//#include "conclusions.typ"
+//#include "results.typ"
+//#include "future_works.typ"
