@@ -113,51 +113,67 @@ Thanks to the _\<genres\>_ tag, I was able to extract 474 public speeches, each 
 
 ==== Giorgia Meloni's YouTube Channel
 
-My objective was to build Meloni's corpus by transcribing videos of her public speeches, such as talks and interviews. Fortunately, there is an unofficial YouTube channel (that I reached from the Prime Minister's official website) which aggregates more than four thousand videos of her public appearances. The channel is called "Giorgia Meloni News"\footnote{Giorgia Meloni News: \url{https://www.youtube.com/@GiorgiaMeloniTv}}.
+*TODO intro*
+My objective was to build Meloni's corpus by transcribing videos of her public speeches, such as talks and interviews. Fortunately, there is an unofficial YouTube channel (that I reached from the Prime Minister's official website) which aggregates more than four thousand videos of her public appearances. The channel is called "Giorgia Meloni News"#footnote[Giorgia Meloni News: #link("https://www.youtube.com/@GiorgiaMeloniTv")].
 
-Given a YouTube URL, I can use Python's library \textit{yt-dlp} to retrieve the video's metadata and download its audio content in mp3 format, as shown in listing \ref{code:yt_download}. I had to manually pass the cookies taken from my web-browser, and I used some extra commands to prevent YouTube to block the requests due to suspicious activity. 
+Given a YouTube URL, I can use Python's library _yt-dlp_ to retrieve the video's metadata and download its audio content in mp3 format, as shown in listing @code:yt_download. I had to manually pass the cookies taken from my web-browser, and I used some extra commands to prevent YouTube to block the requests due to suspicious activity.
 
-Then, the mp3 file just retrieved gets injected into OpenAI's Whisper library, which uses an encoder-decoder Transformer to transcribe it into text, as shown in listing \ref{code:whisper}. The model I used is the \textit{"medium"}\footnote{Whisper model sizes available are tiny, base, medium and large.}, which at 5 GB fits within the total 6 GB of VRAM available to my RTX 4050 GPU. The model was instructed to predict Italian. 
+Then, the mp3 file just retrieved gets injected into OpenAI's Whisper library, which uses an encoder-decoder Transformer to transcribe it into text, as shown in listing @code:whisper. The model I used is the _"medium"_#footnote[Whisper model sizes available are tiny, base, medium and large.], which at 5 GB fits within the total 6 GB of VRAM available to my RTX 4050 GPU. The model was instructed to predict Italian.
 
-The difference in precision between the models "tiny" (which requires less than 1 GB of VRAM) and "medium" is quite high, as can be seen in the following pieces of text that have been generated from the same audio file:
+The difference in precision between the model sizes _tiny_ (which requires less than 1 GB of VRAM) and _medium_ is quite high, as can be seen in the following transcriptions of the same audio file:
 
-\begin{itemize}
-    \item \textbf{Model tiny:} "iamo con se è beruto fuori da questa rio neone sotto il profiro tecnico per quanto riguarda la franha e come il governo un tino era ad essere vicino alla popolazione di Nishenia."
-    \item \textbf{Model medium:} "Diciamo cosa è venuto fuori da questa riunione sotto il profilo tecnico per quanto riguarda la frana e come il governo continuerà ad essere vicino alla popolazione diniscemeca."
-\end{itemize}
+#blockquote[
+  *Model tiny:* "iamo con se è beruto fuori da questa rio neone sotto il profiro tecnico per quanto riguarda la franha e come il governo un tino era ad essere vicino alla popolazione di Nishenia."
+]
+#blockquote[
+  *Model medium:* "Diciamo cosa è venuto fuori da questa riunione sotto il profilo tecnico per quanto riguarda la frana e come il governo continuerà ad essere vicino alla popolazione diniscemeca."
+]
 
-The last step of the pipeline saves the transcription into a csv file, along with the extracted metadata. Each file has the following fields: \textit{politician} ("meloni" in this case), \textit{historical\_date} (the upload date of the video), \textit{location} and \textit{tags} (extracted from the metadata if available, empty strings otherwise), \textit{description} and \textit{title} of the video, \textit{url} which stores the permalink of the video itself, and lastly \textit{text} which holds the whole transcription.
+The transcription obtained with the model _medium_ is very close to the original:
 
-Each video is processed immediately after being retrieved, and until it has been saved in a csv file the program does not try to fetch the next one. This is done for two reasons: first, to prevent \textit{yt-dlp} from sending requests too close to each other, which could result in YouTube denying them due to suspicious activity. Second, even if the pipeline halts for any reason, the videos processed up to that point will not be lost.  
+#blockquote[
+  *Original speech:* "Diciamo cosa è venuto fuori da questa riunione sotto il profilo tecnico per quanto riguarda la frana e come il governo continuerà ad essere vicino alla popolazione di Niscemi #footnote[Niscemi is a small city and comune in the free municipal consortium of Caltanissetta, Sicily, Italy.]."
+]
 
-\begin{lstlisting}[language={python},label={code:yt_download}, caption={Downloading audio and metadata from a YouTube video}]
-result = subprocess.run([
-    "yt-dlp",
-    "--print-json",
-    "-x",                               # download audio only
-    "--audio-format", "mp3",            
-    "--cookies", "yt_cookies.txt",      # manual cookies, extract with browser extension
-    "--sleep-requests", "2",            # Sleep 2s between requests
-    "--sleep-interval", "5",            # Sleep 5s between downloads
-    "--max-sleep-interval", "15",       # Randomize up to 15s
-    "--limit-rate", "5M",               # Throttle to 5MB/s (mimics streaming)
-    "-o", audio_file.replace('.mp3', ''), 
-    video_url
-], capture_output=True, text=True, check=True)
-\end{lstlisting}
+The last step of the pipeline saves the transcription into a csv file, along with the extracted metadata. Each file has the following fields: _politician_ ("meloni" in this case), _historical\_date_ (the upload date of the video), _location_ and _tags_ (extracted from the metadata if available, empty strings otherwise), _description_ and _title_ of the video, _url_ which stores the permalink of the video itself, and lastly _text_ which holds the whole transcription.
 
-\begin{lstlisting}[language={python},label={code:whisper}, caption={Transcribe the audio file into text using Whisper}]
-subprocess.run([
-    "whisper",
-    "--language",        lang_code,     # "Italian" chosen
-    "--word_timestamps", "True",
-    "--model",           model_name,    # model "medium" chosen
-    "--output_dir",      output_dir,
-    "--device",          "cuda",        # ensures the model gets loaded in GPU
-    audio_file
-], check=True)
-\end{lstlisting}
+Each video is processed immediately after being retrieved, and until it has been saved in a csv file the program does not try to fetch the next one. This is done for two reasons: first, to prevent _yt-dlp_ from sending requests too close to each other, which could result in YouTube denying them due to suspicious activity. Second, even if the pipeline halts for any reason, the videos processed up to that point will not be lost.
 
+#figure(
+  sourcecode(
+  ```py
+    result = subprocess.run([
+        "yt-dlp",
+        "--print-json",
+        "-x",                               # download audio only
+        "--audio-format", "mp3",            
+        "--cookies", "yt_cookies.txt",      # manual cookies, extract with browser extension
+        "--sleep-requests", "2",            # Sleep 2s between requests
+        "--sleep-interval", "5",            # Sleep 5s between downloads
+        "--max-sleep-interval", "15",       # Randomize up to 15s
+        "--limit-rate", "5M",               # Throttle to 5MB/s (mimics streaming)
+        "-o", audio_file.replace('.mp3', ''), 
+        video_url
+    ], capture_output=True, text=True, check=True)
+  ``` 
+), caption: "Downloading audio and metadata from a YouTube video"
+) <code:yt_download>
+
+#figure(
+  sourcecode(
+  ```py
+    subprocess.run([
+        "whisper",
+        "--language",        lang_code,     # "Italian" chosen
+        "--word_timestamps", "True",
+        "--model",           model_name,    # model "medium" chosen
+        "--output_dir",      output_dir,
+        "--device",          "cuda",        # ensures the model gets loaded in GPU
+        audio_file
+    ], check=True)
+  ``` 
+), caption: "Transcribe the audio file into text using Whisper"
+) <code:whisper:yt>
 
   - Radio Radicale 
 - Speech-to-text via OpenAI _Whisper_
@@ -174,13 +190,13 @@ Is the corpus correct? Yes, check with n-gram centroid.
 
 === V-DEM <sec:vdem>
 
-\section{Democracy Index}
+==== Democracy Index
 
-There are plenty of sources for measuring democracy levels. Our World in Data mainly uses six: Varieties of Democracy (V-Dem), the Lexical Index of Electoral Democracy (LIED) by Skaaning et al. (2015), Freedom House's (FH) Freedom in the World index, the Bertelsmann Transformation Index (BTI) by the Bertelsmann Foundation, the Economist Intelligence Unit's (EIU) Democracy Index, and Polity by the Center for Systemic Peace \cite{herre_democracy_2025}. 
+There are plenty of sources for measuring democracy levels. Our World in Data mainly uses six: Varieties of Democracy (V-Dem), the Lexical Index of Electoral Democracy (LIED) by Skaaning et al. (2015), Freedom House's (FH) Freedom in the World index, the Bertelsmann Transformation Index (BTI) by the Bertelsmann Foundation, the Economist Intelligence Unit's (EIU) Democracy Index, and Polity by the Center for Systemic Peace @herre_democracy_2025. 
 
-Out of the six mentioned datasets, only V-Dem and LIED have data spanning between 1946 and 2025. However, V-Dem offers more granularity and is generally considered a more complete and robust dataset. It is the best choice if we are interested in both large and small differences in varieties of democracy far into the past, or if we want to use country experts to measure characteristics of political systems that are difficult to observe. These experts are anonymous and are primarily academics or members of the media and civil society. They are also often nationals or residents of the country they assess; therefore, they know its political system well and can evaluate aspects that are difficult to observe. V-Dem's own team of researchers supplements these expert evaluations \cite{herre_varieties_2025}.
+Out of the six mentioned datasets, only V-Dem and LIED have data spanning between 1946 and 2025. However, V-Dem offers more granularity and is generally considered a more complete and robust dataset. It is the best choice if we are interested in both large and small differences in varieties of democracy far into the past, or if we want to use country experts to measure characteristics of political systems that are difficult to observe. These experts are anonymous and are primarily academics or members of the media and civil society. They are also often nationals or residents of the country they assess; therefore, they know its political system well and can evaluate aspects that are difficult to observe. V-Dem's own team of researchers supplements these expert evaluations @herre_varieties_2025.
 
-\subsection{Varieties of Democracy Dataset}
+==== Varieties of Democracy Dataset
 
 All data is available for download at \url{https://v-dem.net/data/the-v-dem-dataset/} or can be accessed directly as an R package.
 
