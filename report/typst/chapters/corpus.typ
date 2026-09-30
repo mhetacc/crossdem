@@ -1,5 +1,7 @@
 #import "../config/variables.typ": *
 #import "../config/thesis-config.typ": *
+#import "@preview/codelst:2.0.2": sourcecode
+
 #pagebreak(to:"odd")
 
 #set heading(numbering:"1.")
@@ -17,7 +19,7 @@ The *Europarl* dataset @koehn_europarl_2005 aggregates proceedings of the Europe
 
 *IMPAQTS* @cominetti_impaqts_2024 is a multimodal corpus of around 2.65 million tokens, including 1,500 speeches uttered by 150 prominent politicians, spanning from 1946 to 2023. For each speaker, the corpus contains 4 parliamentary speeches, 2 rallies, 1 party assembly, and 3 statements (in person or broadcasted). The goal is to annotate political rhetoric that hides a deeper meaning, for example by employing sarcasm. There are four main types of annotation: implication (conventional, generalized, etc.), presupposition (e.g., pragmatic), vagueness (syntactic, semantic, metaphoric), and topicalization (either syntactic or prosodic).
 
-*Parola di Leader*, and specifically the corpus LP4 @giuliano_il_2019, is a corpus of more than five million occurrences taken from the stenographic archives of the Chamber of Deputies of Italy#footnote[Chamber of Deputies official online public archive: #link("https://legislatureprecedenti.camera.it/").], between 1948 (first legislature of the Italian Republic) and 2011 (excluding the Monti Government, the 61#super[st] legislature).
+*Parola di Leader*, and specifically the corpus LP4 @giuliano_corpus_2019, is a corpus of more than five million occurrences taken from the stenographic archives of the Chamber of Deputies of Italy#footnote[Chamber of Deputies official online public archive: #link("https://legislatureprecedenti.camera.it/").], between 1948 (first legislature of the Italian Republic) and 2011 (excluding the Monti Government, the 61#super[st] legislature).
 
 They selected a list of thirty "highly influential politicians"#footnote[The full list of politicians follows: Giorgio Almirante, Giuliano Amato, Giulio Andreotti, Enrico Berlinguer, Silvio Berlusconi, Pier Luigi Bersani, Fausto Bertinotti, Rosy Bindi, Emma Bonino, Umberto Bossi, Pier Ferdinando Casini, Francesco Cossiga, Bettino Craxi, Massimo D'Alema, Alcide De Gasperi, Ciriaco De Mita, Antonio Di Pietro, Amintore Fanfani, Gianfranco Fini, Ugo La Malfa, Aldo Moro, Pietro Nenni, Achille Occhetto, Marco Pannella, Romano Prodi, Giuseppe Saragat, Giovanni Spadolini, Palmiro Togliatti, Valter Veltroni, Nichi Vendola.] and then for each of them they selected some speeches. Overall, they collected 1877 distinct speeches.
 
@@ -118,7 +120,7 @@ My objective was to build Meloni's corpus by transcribing videos of her public s
 
 Given a YouTube URL, I can use Python's library _yt-dlp_ to retrieve the video's metadata and download its audio content in mp3 format, as shown in listing @code:yt_download. I had to manually pass the cookies taken from my web-browser, and I used some extra commands to prevent YouTube to block the requests due to suspicious activity.
 
-Then, the mp3 file just retrieved gets injected into OpenAI's Whisper library, which uses an encoder-decoder Transformer to transcribe it into text, as shown in listing @code:whisper. The model I used is the _"medium"_#footnote[Whisper model sizes available are tiny, base, medium and large.], which at 5 GB fits within the total 6 GB of VRAM available to my RTX 4050 GPU. The model was instructed to predict Italian.
+Then, the mp3 file just retrieved gets injected into OpenAI's Whisper library, which uses an encoder-decoder Transformer to transcribe it into text, as shown in listing @code:whisper_yt. The model I used is the _"medium"_#footnote[Whisper model sizes available are tiny, base, medium and large.], which at 5 GB fits within the total 6 GB of VRAM available to my RTX 4050 GPU. The model was instructed to predict Italian.
 
 The difference in precision between the model sizes _tiny_ (which requires less than 1 GB of VRAM) and _medium_ is quite high, as can be seen in the following transcriptions of the same audio file:
 
@@ -173,7 +175,7 @@ Each video is processed immediately after being retrieved, and until it has been
     ], check=True)
   ``` 
 ), caption: "Transcribe the audio file into text using Whisper"
-) <code:whisper:yt>
+) <code:whisper_yt>
 
   - Radio Radicale 
 - Speech-to-text via OpenAI _Whisper_
@@ -197,30 +199,30 @@ There are plenty of sources for measuring democracy levels. Our World in Data ma
 Out of the six mentioned datasets, only V-Dem and LIED have data spanning between 1946 and 2025. However, V-Dem offers more granularity and is generally considered a more complete and robust dataset. It is the best choice if we are interested in both large and small differences in varieties of democracy far into the past, or if we want to use country experts to measure characteristics of political systems that are difficult to observe. These experts are anonymous and are primarily academics or members of the media and civil society. They are also often nationals or residents of the country they assess; therefore, they know its political system well and can evaluate aspects that are difficult to observe. V-Dem's own team of researchers supplements these expert evaluations @herre_varieties_2025.
 
 ==== Varieties of Democracy Dataset
+All data is available for download at #link("https://v-dem.net/data/the-v-dem-dataset/") or can be accessed directly as an R package.
 
-All data is available for download at \url{https://v-dem.net/data/the-v-dem-dataset/} or can be accessed directly as an R package.
+V-Dem distinguishes between _indicators_—lower-level data that is often not normalized—and _indices_, which aggregate indicators and are normalized on a scale between zero and one.
 
-V-Dem distinguishes between \textit{indicators}—lower-level data that is often not normalized—and \textit{indices}, which aggregate indicators and are normalized on a scale between zero and one.
+There are four datasets: _Coder-Level_, with raw data and 273 indicators intended for the experts; _CD Country-Date_, with day-to-day granularity, 531 indicators, and 95 aggregated indices; _CY Country-Year_, with year-level granularity, 5 indices, 93 sub-indices, and 179 indicators; and lastly, _CY Full + Others_, with year-level granularity, 531 indicators, 251 indices, and 62 external indicators.
 
-There are four datasets: \textit{Coder-Level}, with raw data and 273 indicators intended for the experts; \textit{CD Country-Date}, with day-to-day granularity, 531 indicators, and 95 aggregated indices; \textit{CY Country-Year}, with year-level granularity, 5 indices, 93 sub-indices, and 179 indicators; and lastly, \textit{CY Full + Others}, with year-level granularity, 531 indicators, 251 indices, and 62 external indicators. 
+I must use the _CD Country-Date_ dataset (version 16, released in March 2026) since, to keep track of Italian governments, year-level granularity is not enough. This is evident from @fig:italyPms: half of Italy's governments lasted less than a year.
 
-I must use the \textit{CD Country-Date} dataset (version 16, released in March 2026) since, to keep track of Italian governments, year-level granularity is not enough. This is evident from Figure \ref{fig:italyPms}: half of Italy's governments lasted less than a year.
-
-\begin{figure}[h]
-  \centering
-  \includegraphics[width=.7\linewidth]{images/italian_prime_ministers.jpg}
-  \caption{Italian Prime Ministers for each Italian Republic, from the first (1946) to the latest (2025).}
-  \Description{All Italian Prime Ministers shown by their days in charge.}
-  \label{fig:italyPms}
-\end{figure}
+#figure(
+  image(
+    "../images/italian_prime_ministers.jpg",
+    width: 70%,
+    alt: "All Italian Prime Ministers shown by their days in charge.",
+  ),
+  caption: [Italian Prime Ministers for each Italian Republic, from the first (1946) to the latest (2025).],
+) <fig:italyPms>
 
 The dataset covers Italy (ID 82) between 1861 and 2025, France (ID 76) between 1789 and 2025, and the U.S. (ID 20) between 1789 and 2025.
 
-Useful identifiers include: \texttt{country\_id}, unique for each country; \texttt{country\_text\_id}, ISO 3166-1 alpha-2 country codes (e.g., \textit{IT}, \textit{FR}); \texttt{historical\_date}, in \textit{YYYY-MM-DD} format, used for election-date-specific variables (all other variables use January 1st); and \texttt{gapstart} and \texttt{gapend}, representing time periods where no data is available.
+Useful identifiers include: `country_id`, unique for each country; `country_text_id`, ISO 3166-1 alpha-2 country codes (e.g., _IT_, _FR_); `historical_date`, in _YYYY-MM-DD_ format, used for election-date-specific variables (all other variables use January 1st); and `gapstart` and `gapend`, representing time periods where no data is available.
 
-\textbf{Democracy Indices} are the highest-level indices, each normalized to a scale between zero and one unless otherwise specified: \texttt{v2x\_polyarchy}, the \textit{electoral} democracy index (aggregates \texttt{v2x\_elecoff}, \texttt{v2xel\_frefair}, \texttt{v2x\_frassoc\_thick}, \texttt{v2x\_suffr}, \texttt{v2x\_freexp\_altinf}); \texttt{v2x\_libdem}, the \textit{liberal} democracy index (aggregates \texttt{v2x\_polyarchy}, \texttt{v2x\_liberal}); \texttt{v2x\_partipdem}, the \textit{participatory} democracy index (aggregates \texttt{v2x\_polyarchy}, \texttt{v2x\_partip}); \texttt{v2x\_delibdem}, the \textit{deliberative} democracy index focusing on process, respectful dialogue, and the common good (aggregates \texttt{v2x\_polyarchy}, \texttt{v2xdl\_delib}); and \texttt{v2x\_egaldem}, the \textit{egalitarian} democracy index considering social status, inequalities, and resource distribution (aggregates \texttt{v2x\_polyarchy}, \texttt{v2x\_egal}).
+*Democracy Indices* are the highest-level indices, each normalized to a scale between zero and one unless otherwise specified: `v2x_polyarchy`, the _electoral_ democracy index (aggregates `v2x_elecoff`, `v2xel_frefair`, `v2x_frassoc_thick`, `v2x_suffr`, `v2x_freexp_altinf`); `v2x_libdem`, the _liberal_ democracy index (aggregates `v2x_polyarchy`, `v2x_liberal`); `v2x_partipdem`, the _participatory_ democracy index (aggregates `v2x_polyarchy`, `v2x_partip`); `v2x_delibdem`, the _deliberative_ democracy index focusing on process, respectful dialogue, and the common good (aggregates `v2x_polyarchy`, `v2xdl_delib`); and `v2x_egaldem`, the _egalitarian_ democracy index considering social status, inequalities, and resource distribution (aggregates `v2x_polyarchy`, `v2x_egal`).
 
-\textbf{Components of Democracy Indices} consist of second-level indices and subcomponents: \texttt{v2x\_freexp\_altinf}, freedom of expression and alternative information (aggregates \textit{v2mecenefm}, \textit{v2meharjrn}, \textit{v2meslfcen}, \textit{v2xcl\_disc}, \textit{v2clacfree}, \textit{v2mebias}, \textit{v2mecrit}, \textit{v2merange}); \texttt{v2x\_frassoc\_thick}, freedom of association for parties and civil society organizations (aggregates \textit{v2psparban}, \textit{v2psbars}, \textit{v2psoppaut}, \textit{v2elmulpar}, \textit{v2cseeorgs}, \textit{v2csreprss}, \texttt{v2x\_elecreg}); \texttt{v2x\_suffr}, the percentage of adult suffrage (aggregates \textit{v2elsuffrage}); \texttt{v2xel\_frefair}, the quality of free and fair elections (aggregates \textit{v2elembaut}, \textit{v2elembcap}, \textit{v2elrgstry}, \textit{v2elvotbuy}, \textit{v2elirreg}, \textit{v2elintim}, \textit{v2elpeace}, \textit{v2elfrfair}, \texttt{v2x\_elecreg}); \texttt{v2xcl\_rol}, rule of law, transparency, and fair enforcement (aggregates \textit{v2clrspct}, \textit{v2cltrnslw}, \textit{v2cltort}, \textit{v2clkill}, \textit{v2clrelig}, \textit{v2clfmove}, \texttt{v2xcl\_dmove}, \texttt{v2xcl\_slave}, \texttt{v2xcl\_acjst}, \texttt{v2xcl\_prpty}); \texttt{v2x\_jucon}, executive law compliance and judiciary independence (aggregates \textit{v2exrescon}, \textit{v2jucomp}, \textit{v2juhccomp}, \textit{v2juhcind}, \textit{v2juncind}); \texttt{v2xlg\_legcon}, executive external scrutiny (aggregates \textit{v2lgqstexp}, \textit{v2lgotovst}, \textit{v2lginvstp}, \textit{v2lgoppart}); \texttt{v2x\_partip}, individual participation (aggregates \texttt{v2x\_cspart}, \texttt{v2xdd\_dd}, \texttt{v2xel\_locelec}, \texttt{v2xel\_regelec}); \texttt{v2x\_cspart}, participation in associations like labor unions or NGOs (aggregates \textit{v2pscnslnl}, \textit{v2cscnsult}, \textit{v2csprtcpt}, \textit{v2csgender}); \texttt{v2xdd\_dd}, the direct vote index for referendums and ballots (aggregates \textit{v2ddlexci} through \textit{v2ddthreci}); \texttt{v2xel\_regelec} and \texttt{v2xel\_locelec}, regional and local government elections; \texttt{v2xeg\_eqprotec}, equal rights across social groups; \texttt{v2xeg\_eqaccess}, equality of accessing power; and \texttt{v2xeg\_eqdr}, equality of resource distribution (aggregates \textit{v2dlencmps}, \textit{v2dlunivl}, \textit{v2peedueq}, \textit{v2pehealth}).
+*Components of Democracy Indices* consist of second-level indices and subcomponents: `v2x_freexp_altinf`, freedom of expression and alternative information (aggregates _v2mecenefm_, _v2meharjrn_, _v2meslfcen_, _v2xcl\_disc_, _v2clacfree_, _v2mebias_, _v2mecrit_, _v2merange_); `v2x_frassoc_thick`, freedom of association for parties and civil society organizations (aggregates _v2psparban_, _v2psbars_, _v2psoppaut_, _v2elmulpar_, _v2cseeorgs_, _v2csreprss_, `v2x_elecreg`); `v2x_suffr`, the percentage of adult suffrage (aggregates _v2elsuffrage_); `v2xel_frefair`, the quality of free and fair elections (aggregates _v2elembaut_, _v2elembcap_, _v2elrgstry_, _v2elvotbuy_, _v2elirreg_, _v2elintim_, _v2elpeace_, _v2elfrfair_, `v2x_elecreg`); `v2xcl_rol`, rule of law, transparency, and fair enforcement (aggregates _v2clrspct_, _v2cltrnslw_, _v2cltort_, _v2clkill_, _v2clrelig_, _v2clfmove_, `v2xcl_dmove`, `v2xcl_slave`, `v2xcl_acjst`, `v2xcl_prpty`); `v2x_jucon`, executive law compliance and judiciary independence (aggregates _v2exrescon_, _v2jucomp_, _v2juhccomp_, _v2juhcind_, _v2juncind_); `v2xlg_legcon`, executive external scrutiny (aggregates _v2lgqstexp_, _v2lgotovst_, _v2lginvstp_, _v2lgoppart_); `v2x_partip`, individual participation (aggregates `v2x_cspart`, `v2xdd_dd`, `v2xel_locelec`, `v2xel_regelec`); `v2x_cspart`, participation in associations like labor unions or NGOs (aggregates _v2pscnslnl_, _v2cscnsult_, _v2csprtcpt_, _v2csgender_); `v2xdd_dd`, the direct vote index for referendums and ballots (aggregates _v2ddlexci_ through _v2ddthreci_); `v2xel_regelec` and `v2xel_locelec`, regional and local government elections; `v2xeg_eqprotec`, equal rights across social groups; `v2xeg_eqaccess`, equality of accessing power; and `v2xeg_eqdr`, equality of resource distribution (aggregates _v2dlencmps_, _v2dlunivl_, _v2peedueq_, _v2pehealth_).
 
 #include "../bibliography/bibliography.typ"
 
