@@ -1,5 +1,4 @@
-# Crossdem: From Voice To Vector
-*AI-Driven Analysis of the Varieties of Democracy*
+# Crossdem: Embedding Italian Prime Ministers' Speeches to Track the Evolution of Political Rhetoric Against V-Dem Indices
 
 ## Report
 
