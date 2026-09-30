@@ -2,12 +2,15 @@
 #import "../config/thesis-config.typ": *
 #import "@preview/codelst:2.0.2": sourcecode
 
-#pagebreak(to:"odd")
+//#pagebreak(to:"odd")
 
 #set heading(numbering:"1.")
 #set math.equation(numbering: "1.", supplement: none)
 
 = The Corpus <ch:corpus>
+
+
+The purpose of this chapter is to explain and outline the choices I made while building the dataset and to describe the resulting corpus. By following the steps in section @sec:building_corpus, any external actor should be able to replicate the corpus as a whole.
 
 == Similar Corpora <sec:similar_corpora>
 
@@ -39,7 +42,115 @@ Speakers and Parties also have their own datasets, with unique IDs, names, affil
 
 Overall, the taxonomy of ParlaMint is strongly codified, which makes the dataset machine-readable and easier to interpret. All data is also saved in XML format.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 == My Corpus <sec:my_corpus>
+
+The corpus comprises speeches from twenty four out of the thirty one Italian Prime Ministers of the Italian Republic, as shown in figure @fig:it_pms_timeline. Prime Ministers from the Kingdom of Italy (1861-1946) are excluded.
+
+#align()[
+    #figure(image("../images/italian_prime_ministers.jpg", width: 100%), 
+    caption: "Italian Prime Ministers from 1946 to 2025 and their time in office. In grey Prime Ministers not included in the corpus.")
+    <fig:it_pms_timeline>
+]
+
+Overall, collected data amounts to $6,038$ speeches, for a total of $15,185,640$ words. Table @tab:corpus_total surmise the overall corpus, while @tab:corpus_pms shows metrics for each Prime Minister. 
+
+The reported tokens are obtain by using Spacy's tokenizer, which means that may not be exactly representative of
+
+#v(1em)
+#figure(
+table(
+columns: (10em, auto),
+align: (left, center),
+stroke: none,
+inset: 5pt,
+fill: (col, row) => {
+if row == 0 { rgb("#B5001B") }
+else if calc.rem(row, 2) == 0 { rgb("#B5001B33") }
+else { white }
+    },
+table.hline(stroke: 0.5pt),
+text(fill:white)[*Metric*], text(fill:white)[*Value*],
+    [\# Speeches], [6,038],
+    [\# Words (Tokens)], [15,185,640 (16,878,514)],
+    [$"Median" frac("Words(Tokens)", "Speech")$], [2,132 (2,356)],
+table.hline(stroke: 0.5pt),
+  ),
+caption: [Overall corpus size and pooled median speech length. First row shows how many total speeches were collected, second row shows how many words (and tokens) were collected, and third row shows the overall median speech length, in words (and tokens). Tokenization done via `spacy.load("it_core_news_sm")`.]
+) <tab:corpus_total>
+#v(1em)
+
+#v(1em)
+#[
+#show figure: set block(breakable: true)
+#figure(
+table(
+columns: (auto, auto, auto, auto, auto),
+align: (center, center, center, center, center),
+stroke: none,
+inset: 5pt,
+fill: (col, row) => {
+if row == 0 { rgb("#B5001B") }
+else if calc.rem(row, 2) == 0 { rgb("#B5001B33") }
+else { white }
+    },
+table.hline(stroke: 0.5pt),
+text(fill:white)[*PM*], text(fill:white)[*Time Period*], text(fill:white)[*\# Speeches*], text(fill:white)[*\# Words (Tokens)*], text(fill:white)[*$"Median" frac("Words(Tokens)", "Speech")$*],
+    [De Gasperi], [1901-09-21 – 1954-07-24], [473], [534,228 (609,142)], [701 (803)],
+    [Fanfani], [1962-03-22 – 1993-07-25], [21], [26,520 (29,806)], [774 (948)],
+    [Leone], [1987-04-02 – 2007-09-09], [8], [7,712 (8,921)], [886 (1,013)],
+    [Rumor], [1986-09-03 – 1989-02-20], [5], [9,405 (10,234)], [1,880 (2,100)],
+    [Colombo], [1984-05-23 – 1984-05-23], [1], [3,031 (3,393)], [3,031 (3,393)],
+    [Andreotti], [1978-04-04 – 2009-05-11], [400], [1,014,190 (1,117,148)], [1,926 (2,122)],
+    [Cossiga], [1977-04-21 – 2009-06-11], [225], [539,510 (608,165)], [2,014 (2,292)],
+    [Forlani], [1985-12-01 – 2015-02-05], [75], [137,655 (153,626)], [1,718 (1,779)],
+    [Spadolini], [1981-12-14 – 1994-04-22], [105], [208,077 (229,816)], [1,698 (1,853)],
+    [Craxi], [1980-06-06 – 2005-09-17], [114], [228,924 (254,538)], [1,786 (1,973)],
+    [Goria], [1986-09-04 – 1993-05-22], [42], [85,183 (94,885)], [1,930 (2,163)],
+    [De Mita], [1985-02-15 – 2017-09-28], [208], [634,323 (706,142)], [3,044 (3,328)],
+    [Amato], [1984-03-28 – 2024-11-20], [901], [2,576,265 (2,799,551)], [2,671 (2,877)],
+    [Ciampi], [1990-07-04 – 2010-02-23], [73], [135,902 (152,299)], [1,545 (1,701)],
+    [Berlusconi], [1984-01-09 – 2019-12-12], [535], [1,490,217 (1,644,026)], [2,188 (2,394)],
+    [Dini], [1989-02-21 – 2023-06-01], [310], [415,560 (469,214)], [913 (1,018)],
+    [Prodi], [1985-11-30 – 2024-11-09], [515], [1,508,664 (1,699,657)], [2,622 (2,911)],
+    [D'Alema], [1987-03-13 – 2024-04-12], [829], [2,888,875 (3,245,195)], [3,158 (3,523)],
+    [Monti], [1991-06-12 – 2017-03-14], [240], [605,443 (673,174)], [2,096 (2,312)],
+    [Letta], [1992-09-06 – 2021-11-23], [509], [1,177,761 (1,301,164)], [2,176 (2,411)],
+    [Renzi], [1997-06-13 – 2024-09-19], [143], [415,955 (467,270)], [1,683 (1,789)],
+    [Gentiloni], [2023-06-28 – 2023-06-28], [1], [566 (637)], [566 (637)],
+    [Conte], [2002-08-04 – 2026-02-24], [30], [50,177 (57,140)], [471 (545)],
+    [Draghi], [1996-06-07 – 2015-12-14], [26], [87,947 (99,206)], [3,476 (3,897)],
+    [Meloni], [2000-10-16 – 2026-05-21], [249], [403,550 (444,165)], [1,186 (1,327)],
+table.hline(stroke: 0.5pt),
+  ),
+caption: [Corpus overview per prime minister. In order: Prime Minister's names, time period from which their speeches are pooled, how many speeches were pooled, how many words (and tokens) were pooled in total, and median speech length, in words (and tokens). Tokenization done via `spacy.load("it_core_news_sm")`.]
+) <tab:corpus_pms>
+]
+#v(1em)
 
 - Structure
 - Content
@@ -47,11 +158,6 @@ Overall, the taxonomy of ParlaMint is strongly codified, which makes the dataset
   - transcriptions
   - annotations
 
-#align()[
-    #figure(image("../images/italian_prime_ministers.jpg", width: 100%), 
-    caption: "Italian Prime Ministers from 1946 to 2025. In grey Prime Ministers not included in the corpus.")
-    <fig:it_pms_timeline>
-]
 
 
 #subpar.grid(
@@ -149,7 +255,7 @@ Each video is processed immediately after being retrieved, and until it has been
         "--print-json",
         "-x",                               # download audio only
         "--audio-format", "mp3",            
-        "--cookies", "yt_cookies.txt",      # manual cookies, extract with browser extension
+        "--cookies", "yt_cookies.txt",      # manually extracted cookies
         "--sleep-requests", "2",            # Sleep 2s between requests
         "--sleep-interval", "5",            # Sleep 5s between downloads
         "--max-sleep-interval", "15",       # Randomize up to 15s

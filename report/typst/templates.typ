@@ -37,7 +37,7 @@
 #v(1em)
 #figure(
   table(
-    columns: (auto, auto, 1fr, auto),
+    columns: (auto, auto, auto, auto),
     align: (center, left, left, left),
     stroke: none,
     inset: 5pt,
