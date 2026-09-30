@@ -70,40 +70,39 @@ Overall, the taxonomy of ParlaMint is strongly codified, which makes the dataset
 
 == Building the Corpus <sec:building_corpus>
 
-=== De Gasperi <sec:de_gasperi>
+=== Alcide De Gasperi's Corpus <sec:de_gasperi>
 
-Thanks to Tonelli et. al. @tonelli_prendo_2019 for the De Gasperi corpus.
+I would like to thank Sara Tonelli for providing me with the De Gasperi's Corpus @tonelli_prendo_2019, a collection of Alcide De Gasperi's public documents with gold and silver annotation.
 
+The corpus is a collection of 2,762 documents issued between 1901 and 1954, formatted into XML files which include metadata that covers not only the title, the date and the place of publication, but also key-concepts automatically extracted from each text (with the corresponding relevance score) and genre labels manually assigned by domain experts. Furthermore, the release includes silver annotation for lemma, part of speech, person names and place names witPh associated coordinates in a CoNLL-like format.
 
-\subsection{Alcide De Gasperi's Corpus}
+An example of the XML formatting can be seen at listing @code:xml_degasperi.
+Thanks to the _\<genres\>_ tag, I was able to extract 474 public speeches, each of which with a location, a precise date and a list of keywords.
 
-I would like to thank Sara Tonelli for providing me with the De Gasperi's Corpus \cite{tonelli_prendo_2019}, a collection of Alcide De Gasperi's public documents with gold and silver annotation.
-
-The corpus is a collection of 2,762 documents issued between 1901 and 1954, formatted into XML files which include metadata that covers not only the title, the date and the place of publication, but also key-concepts automatically extracted from each text (with the corresponding relevance score) and genre labels manually assigned by domain experts. Furthermore, the release includes silver annotation for lemma, part of speech, person names and place names with associated coordinates in a CoNLL-like format.
-
-An example of the XML formatting can be seen at listing \ref{code:xml_degasperi}. 
-Thanks to the \textit{<genres>} tag, I was able to extract 474 public speeches, each of which with a location, a precise date and a list of keywords.
-
-\begin{lstlisting}[language={XML},label={code:xml_degasperi}, caption={An example of how a single speech in De Gasperi's Corpus is formatted in XML}]
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document id="I.doc_7">
-   <publication_date>1901-11-26</publication_date>
-   <publication_place>
-      <place_name>Trento</place_name>
-      <place_latitude>46.0664228</place_latitude>
-      <place_longitude>11.1257601</place_longitude>
-   </publication_place>
-   <keywords>
-      <keyword score="39.16">first keyword</keyword>
-      ...
-      <keyword score="5.59">last keyword</keyword>
-   </keywords>
-   <genres>
-      <genre>Speech Type</genre>
-   </genres>
-   <text>The speech itself if stored between these brackets</text>
-</document>
-\end{lstlisting}
+#figure(
+  sourcecode(
+  ```xml
+    <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+    <document id="I.doc_7">
+      <publication_date>1901-11-26</publication_date>
+      <publication_place>
+          <place_name>Trento</place_name>
+          <place_latitude>46.0664228</place_latitude>
+          <place_longitude>11.1257601</place_longitude>
+      </publication_place>
+      <keywords>
+          <keyword score="39.16">first keyword</keyword>
+          ...
+          <keyword score="5.59">last keyword</keyword>
+      </keywords>
+      <genres>
+          <genre>Speech Type</genre>
+      </genres>
+      <text>The speech itself if stored between these brackets</text>
+    </document>
+  ``` 
+), caption: "An example of how a single speech in De Gasperi's Corpus is formatted in XML"
+) <code:xml_degasperi>
 
 
 === Scraping <sec:scraping>
@@ -112,7 +111,7 @@ Thanks to the \textit{<genres>} tag, I was able to extract 474 public speeches, 
   - Meloni YouTube
 
 
-\subsection{Giorgia Meloni's Corpus}
+==== Giorgia Meloni's YouTube Channel
 
 My objective was to build Meloni's corpus by transcribing videos of her public speeches, such as talks and interviews. Fortunately, there is an unofficial YouTube channel (that I reached from the Prime Minister's official website) which aggregates more than four thousand videos of her public appearances. The channel is called "Giorgia Meloni News"\footnote{Giorgia Meloni News: \url{https://www.youtube.com/@GiorgiaMeloniTv}}.
 
