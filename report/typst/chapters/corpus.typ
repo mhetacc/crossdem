@@ -79,7 +79,8 @@ The corpus comprises speeches from twenty four out of the thirty one Italian Pri
 
 Overall, collected data amounts to $6,038$ speeches, for a total of $15,185,640$ words. Table @tab:corpus_total surmise the overall corpus, while @tab:corpus_pms shows metrics for each Prime Minister. 
 
-The reported tokens are obtain by using Spacy's tokenizer, which means that may not be exactly representative of
+Its wort mentioning that reported tokens amount is obtained by using Spacy's tokenizer, so it will be slightly different in other use cases throughout the project. For example, corpus annotation is done with Gemma 4 via Ollama, which uses the model's own tokenizer (section @sec:corpus_annotation).
+
 
 #v(1em)
 #figure(
@@ -152,12 +153,8 @@ caption: [Corpus overview per prime minister. In order: Prime Minister's names, 
 ]
 #v(1em)
 
-- Structure
-- Content
-  - prime ministers
-  - transcriptions
-  - annotations
-
+Figure @fig:dataset visualizes all the collected speeches (and tokens) and their distribution over time. We can immediately see an imbalance both in therms of time (most data is concentrated between 1995 and 2010) and in terms of political leaning (left-leaning speeches are overrepresented). There is also a big gap between 1955 and 1985 where there is almost no data at all, and between 2019 and 2024 we see a strong reduction in data density, which shoots back up in 2025 (all Giorgia Meloni's speeches).
+Specifically, $3,936$ speeches (65.2%) are concentrated between 1995 and 2010, and $5,363$ (88.8%) between 1985 and 2020.
 
 
 #subpar.grid(
@@ -175,6 +172,46 @@ caption: [Corpus overview per prime minister. In order: Prime Minister's names, 
   caption: [@fig:dataset_words show the number of words collected for the dataset over the span of eighty years. In green are words pertaining to #text(fill: rgb("#2CA02C"))[center-leaning] Prime Ministers, in red are words pertaining to #text(fill: rgb("#D62728"))[left-leaning] Prime Ministers, and in blue are words pertaining to #text(fill: rgb("#1F77B4"))[right-leaning] Prime Ministers. @fig:dataset_tokens, on the other hand, shows the same data but in terms of tokens instead of whole words.],
   label: <fig:dataset>,
 )
+
+The structure of the dataset is as follows:
+#import "@preview/treet:0.1.1": *
+
+#tree-list[
+  - crossdem/
+    - datasets/
+      - prime_ministers/
+        - pm_1/
+          - csv_out/
+            - speech_1.csv
+            - speech_2.csv
+            - ...
+        - pm_2/
+          - csv_out/
+            - speech_1.csv
+            - speech_2.csv
+            - ...
+        - ...
+        - pm_N/
+          - csv_out/
+            - ...
+]
+
+Each speech (with few exceptions) is structured with the following fields: 
+- `politician`: the name of the Prime Minister who delivered the speech, in lower case without spaces or punctuation (e.g., "dalema" and not "D'Alema");
+- `historical_date`: the date when the speech was delivered, in the format _YYYY-MM-DD_;
+- `location`: the location where the speech was delivered;
+- `title`: the title of the video from which the speech was retrieved;
+- `url`: the URL of the page from which the speech was retrieved;
+- `audio_file`: the audio file of the speech in the local machine;
+- `text`: the transcribed text of the speech;
+- `hate_speech`: hate speech level, can be either `low`, `mid`, or `high`;
+- `negativity`: negativity level, can be either `low`, `mid`, or `high`;
+- `aggressiveness`: aggressiveness level, can be either `low`, `mid`, or `high`;
+- `target`: target of the speech, can be either `none` if there is no target, `pol_adv` for political adversaries, `minor_etn` for ethnic minorities, `minor_gnd` for gender minorities, or `minor_rel` for religious minorities;
+
+De Gasperi's corpus is structured differently, as it is not scraped but rather taken from a pre-existing dataset instead (section @sec:de_gasperi). Each speech has the following fields: `politician`,`historical_date`,`location`,`keywords` (extracted keywords about the speech itself),`text`,`hate_speech`,`negativity`,`aggressiveness`,`target`. 
+
+Some of Meloni's speeches also have a slightly different structure, as they were scraped from YouTube instead of Radio Radicale. They are easy to recognize in the dataset because all files that contain transcriptions of speeches scraped from Radio Radicale are in the form `123456_meloni_s2t.csv`, with the first characters being all numbers, while speeches scraped from YouTube are in the form `_DA9zjY_meloni_speech2text.csv`, with the first characters being a mix of letters, numbers, and symbols. Each of these speeches has the following fields: `politician`,`historical_date`,`location`,`tags` (tags of the YouTube video),`description` (description of the YouTube video),`title`,`url`,`audio_file`,`text`,`hate_speech`,`negativity`,`aggressiveness`,`target`
 
 == Building the Corpus <sec:building_corpus>
 
@@ -329,6 +366,7 @@ Useful identifiers include: `country_id`, unique for each country; `country_text
 *Democracy Indices* are the highest-level indices, each normalized to a scale between zero and one unless otherwise specified: `v2x_polyarchy`, the _electoral_ democracy index (aggregates `v2x_elecoff`, `v2xel_frefair`, `v2x_frassoc_thick`, `v2x_suffr`, `v2x_freexp_altinf`); `v2x_libdem`, the _liberal_ democracy index (aggregates `v2x_polyarchy`, `v2x_liberal`); `v2x_partipdem`, the _participatory_ democracy index (aggregates `v2x_polyarchy`, `v2x_partip`); `v2x_delibdem`, the _deliberative_ democracy index focusing on process, respectful dialogue, and the common good (aggregates `v2x_polyarchy`, `v2xdl_delib`); and `v2x_egaldem`, the _egalitarian_ democracy index considering social status, inequalities, and resource distribution (aggregates `v2x_polyarchy`, `v2x_egal`).
 
 *Components of Democracy Indices* consist of second-level indices and subcomponents: `v2x_freexp_altinf`, freedom of expression and alternative information (aggregates _v2mecenefm_, _v2meharjrn_, _v2meslfcen_, _v2xcl\_disc_, _v2clacfree_, _v2mebias_, _v2mecrit_, _v2merange_); `v2x_frassoc_thick`, freedom of association for parties and civil society organizations (aggregates _v2psparban_, _v2psbars_, _v2psoppaut_, _v2elmulpar_, _v2cseeorgs_, _v2csreprss_, `v2x_elecreg`); `v2x_suffr`, the percentage of adult suffrage (aggregates _v2elsuffrage_); `v2xel_frefair`, the quality of free and fair elections (aggregates _v2elembaut_, _v2elembcap_, _v2elrgstry_, _v2elvotbuy_, _v2elirreg_, _v2elintim_, _v2elpeace_, _v2elfrfair_, `v2x_elecreg`); `v2xcl_rol`, rule of law, transparency, and fair enforcement (aggregates _v2clrspct_, _v2cltrnslw_, _v2cltort_, _v2clkill_, _v2clrelig_, _v2clfmove_, `v2xcl_dmove`, `v2xcl_slave`, `v2xcl_acjst`, `v2xcl_prpty`); `v2x_jucon`, executive law compliance and judiciary independence (aggregates _v2exrescon_, _v2jucomp_, _v2juhccomp_, _v2juhcind_, _v2juncind_); `v2xlg_legcon`, executive external scrutiny (aggregates _v2lgqstexp_, _v2lgotovst_, _v2lginvstp_, _v2lgoppart_); `v2x_partip`, individual participation (aggregates `v2x_cspart`, `v2xdd_dd`, `v2xel_locelec`, `v2xel_regelec`); `v2x_cspart`, participation in associations like labor unions or NGOs (aggregates _v2pscnslnl_, _v2cscnsult_, _v2csprtcpt_, _v2csgender_); `v2xdd_dd`, the direct vote index for referendums and ballots (aggregates _v2ddlexci_ through _v2ddthreci_); `v2xel_regelec` and `v2xel_locelec`, regional and local government elections; `v2xeg_eqprotec`, equal rights across social groups; `v2xeg_eqaccess`, equality of accessing power; and `v2xeg_eqdr`, equality of resource distribution (aggregates _v2dlencmps_, _v2dlunivl_, _v2peedueq_, _v2pehealth_).
+
 
 #include "../bibliography/bibliography.typ"
 

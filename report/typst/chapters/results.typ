@@ -27,7 +27,7 @@ Measure of Textual Lexical Diversity (MTLD) is a metric used to assess the diver
   ), <fig:pms_boxplot_medianALL>,
   v(0.2em),
   caption: [@fig:pms_boxplot and @fig:pms_boxplot_medianALL show MTLD values for each Italian Prime Minster, ordered by their first time in office. This allows for not only a direct comparison between Prime Ministers, but also a comparison of the evolution of MTLD values over time. Prime Minister with fewer than 100 speeches are omitted.],
-  label: <fig:dataset>,
+  label: <fig:mtld_boxplot_pms>,
 )
 
 ==== Evolution Over Time of MTLD Values for Each Italian Prime Minster <sec:mtld_pms_evolution>
@@ -47,7 +47,7 @@ Measure of Textual Lexical Diversity (MTLD) is a metric used to assess the diver
   ), <fig:pms_lowess_medianALL>,
   v(0.2em),
   caption: [@fig:pms_lowess and @fig:pms_lowess_medianALL show MTLD values for each Italian Prime Minster over their careers span. The LOWESS curve allows was chosen to aid in the interpretation of the values, and the overall medians allow for a comparison between Prime Ministers. Prime Minister with fewer than 100 speeches are omitted.],
-  label: <fig:dataset>,
+  label: <fig:mtld_lowess_pms>,
 )
 
 === VDEM 
