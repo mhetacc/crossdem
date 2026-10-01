@@ -1,5 +1,7 @@
 # Crossdem: Embedding Italian Prime Ministers' Speeches to Track the Evolution of Political Rhetoric Against V-Dem Indices
 
+Politicians are some of the most influential people in history: from the Greeks' demagogues to our Presidents and Prime Ministers, leaders have always tried to shape society. In this work I collect public speeches from Italian Prime Ministers authored between 1945 and 2025, scraping them from YouTube and Radio Radicale. The speeches are then transcribed into text with OpenAI's speech recognition model "Whisper", and annotated with the LLM "Gemma 4" for their degrees of hate speech, aggressiveness, and negativity, as well as whether they target a specific group or not (possible target groups are political adversaries, gender minorities, ethnic minorities, and religious minorities). The resulting dataset contains 6,038 speeches distributed among twenty-four Prime Ministers. I then measure the evolution of lexical complexity over time, comparing it against V-Dem democratic indices. The same comparison is performed on the evolution of speeches' sentiment over time. I also embed the speeches into vectors to visualize and measure polarization among politicians and political leanings. Overall, results show little correlation between complexity, sentiment, and democratic indices, while there is strong evidence of polarization.
+
 ## Report
 
 Report at: [github.com/mhetacc/crossdem/.../thesis.pdf](https://github.com/mhetacc/crossdem/blob/main/report/typst/thesis.pdf)
