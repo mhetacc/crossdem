@@ -67,13 +67,13 @@ Overall, the taxonomy of ParlaMint is strongly codified, which makes the dataset
 
 
 
-== My Corpus <sec:my_corpus>
+== Crossdem Corpus <sec:my_corpus>
 
 The corpus comprises speeches from twenty four out of the thirty one Italian Prime Ministers of the Italian Republic, as shown in figure @fig:it_pms_timeline. Prime Ministers from the Kingdom of Italy (1861-1946) are excluded.
 
 #align()[
     #figure(image("../images/italian_prime_ministers.jpg", width: 100%), 
-    caption: "Italian Prime Ministers from 1946 to 2025 and their time in office. In grey Prime Ministers not included in the corpus.")
+    caption: "Italian Prime Ministers from 1946 to 2025 and their time in office. In grey Prime Ministers not included in the corpus. Colors will remain consistent throughout this work.")
     <fig:it_pms_timeline>
 ]
 
@@ -215,11 +215,13 @@ Some of Meloni's speeches also have a slightly different structure, as they were
 
 == Building the Corpus <sec:building_corpus>
 
+This section will explain how the corpus was built, starting from the collection of the speeches, to their transcription, and finally their annotation. For clarification on the corpus' structure, refer to section @sec:my_corpus.
+
 === Alcide De Gasperi's Corpus <sec:de_gasperi>
 
 I would like to thank Sara Tonelli for providing me with the De Gasperi's Corpus @tonelli_prendo_2019, a collection of Alcide De Gasperi's public documents with gold and silver annotation.
 
-The corpus is a collection of 2,762 documents issued between 1901 and 1954, formatted into XML files which include metadata that covers not only the title, the date and the place of publication, but also key-concepts automatically extracted from each text (with the corresponding relevance score) and genre labels manually assigned by domain experts. Furthermore, the release includes silver annotation for lemma, part of speech, person names and place names witPh associated coordinates in a CoNLL-like format.
+The corpus is a collection of 2,762 documents issued between 1901 and 1954, formatted into XML files which include metadata that covers not only the title, the date and the place of publication, but also key-concepts automatically extracted from each text (with the corresponding relevance score) and genre labels manually assigned by domain experts. Furthermore, the release includes silver annotation for lemma, part of speech, person names and place names witPh associated coordinates in a CoNLL-like format. 
 
 An example of the XML formatting can be seen at listing @code:xml_degasperi.
 Thanks to the _\<genres\>_ tag, I was able to extract 474 public speeches, each of which with a location, a precise date and a list of keywords.
@@ -252,14 +254,13 @@ Thanks to the _\<genres\>_ tag, I was able to extract 474 public speeches, each 
 
 === Scraping <sec:scraping>
   
-- Scraping
-  - Meloni YouTube
+In this section I will show how I scraped two websites to retrieve the speeches of the Italian Prime Ministers. The sites are YouTube (#link("https://www.youtube.com/")) and Radio Radicale (#"https://www.radioradicale.it/").
 
 
 ==== Giorgia Meloni's YouTube Channel
 
-*TODO intro*
-My objective was to build Meloni's corpus by transcribing videos of her public speeches, such as talks and interviews. Fortunately, there is an unofficial YouTube channel (that I reached from the Prime Minister's official website) which aggregates more than four thousand videos of her public appearances. The channel is called "Giorgia Meloni News"#footnote[Giorgia Meloni News: #link("https://www.youtube.com/@GiorgiaMeloniTv")].
+Almost all the corpus is composed of speeches scraped from Radio Radicale, so to diversify it a bit I decided to scrape some of Giorgia Meloni's speeches from YouTube. 
+Fortunately, there is an unofficial YouTube channel (that I reached from the Prime Minister's official website) which aggregates more than four thousand videos of her public appearances. The channel is called "Giorgia Meloni News"#footnote[Giorgia Meloni News: #link("https://www.youtube.com/@GiorgiaMeloniTv")]. In total, I manually selected and scraped 72 YouTube videos.
 
 Given a YouTube URL, I can use Python's library _yt-dlp_ to retrieve the video's metadata and download its audio content in mp3 format, as shown in listing @code:yt_download. I had to manually pass the cookies taken from my web-browser, and I used some extra commands to prevent YouTube to block the requests due to suspicious activity.
 
@@ -319,6 +320,9 @@ Each video is processed immediately after being retrieved, and until it has been
   ``` 
 ), caption: "Transcribe the audio file into text using Whisper"
 ) <code:whisper_yt>
+
+==== Radio Radicale's  Website Scraping
+
 
   - Radio Radicale 
 - Speech-to-text via OpenAI _Whisper_

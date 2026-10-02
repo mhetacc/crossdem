@@ -48,7 +48,7 @@
             amount: 1.2em,
             all: false,
             ),
-        justify: true
+        justify: true,
     )
 
     
