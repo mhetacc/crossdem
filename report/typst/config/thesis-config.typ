@@ -13,6 +13,9 @@
   #body]
 )
 
+#let pm = "Prime Minister"
+#let pms = "Prime Ministers"
+
 //------------------- config --------------------
 // things set up here gets imported in thesis.typ and available for all files
 

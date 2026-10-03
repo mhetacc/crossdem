@@ -12,6 +12,12 @@ import csv
 import re
 import os
 
+"""
+Usage: 
+    $ source ~/crossdem/venv/bin/activate
+    $ cd ~/crossdem/nodebooks/
+    $ python3 radarad_scraper.py
+"""
 
 DATA = [
     #("draghi", "/soggetti/46315/mario-draghi"),
@@ -41,7 +47,7 @@ DATA = [
     #("segni", "/soggetti/101437/antonio-segni"),
     #("scelba", "/soggetti/191965/mario-scelba"),
 ]
-# fanfani was done during development
+# fanfani was scraped during development
 
 testing = False
 model_name  = "medium"      # tiny, base, medium, large
@@ -54,12 +60,7 @@ DISCARD_LOG = os.path.join(BASE_DIR, "logs", "discarded.log")
 last_commit = 0.0
 transcription_since_last_commit = 0
 
-"""
-Usage: 
-    $ source ~/crossdem/venv/bin/activate
-    $ cd ~/crossdem/nodebooks/
-    $ python3 radarad_scraper.py
-"""
+
 
 ###################################################
 #--------------------------- Audio Download ----------------------------

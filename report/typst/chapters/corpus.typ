@@ -67,7 +67,7 @@ Overall, the taxonomy of ParlaMint is strongly codified, which makes the dataset
 
 
 
-== Crossdem Corpus <sec:my_corpus>
+== Corpus Structure <sec:my_corpus>
 
 The corpus comprises speeches from twenty four out of the thirty one Italian Prime Ministers of the Italian Republic, as shown in figure @fig:it_pms_timeline. Prime Ministers from the Kingdom of Italy (1861-1946) are excluded.
 
@@ -213,6 +213,32 @@ De Gasperi's corpus is structured differently, as it is not scraped but rather t
 
 Some of Meloni's speeches also have a slightly different structure, as they were scraped from YouTube instead of Radio Radicale. They are easy to recognize in the dataset because all files that contain transcriptions of speeches scraped from Radio Radicale are in the form `123456_meloni_s2t.csv`, with the first characters being all numbers, while speeches scraped from YouTube are in the form `_DA9zjY_meloni_speech2text.csv`, with the first characters being a mix of letters, numbers, and symbols. Each of these speeches has the following fields: `politician`,`historical_date`,`location`,`tags` (tags of the YouTube video),`description` (description of the YouTube video),`title`,`url`,`audio_file`,`text`,`hate_speech`,`negativity`,`aggressiveness`,`target`
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 == Building the Corpus <sec:building_corpus>
 
 This section will explain how the corpus was built, starting from the collection of the speeches, to their transcription, and finally their annotation. For clarification on the corpus' structure, refer to section @sec:my_corpus.
@@ -257,7 +283,179 @@ Thanks to the _\<genres\>_ tag, I was able to extract 474 public speeches, each 
 In this section I will show how I scraped two websites to retrieve the speeches of the Italian Prime Ministers. The sites are YouTube (#link("https://www.youtube.com/")) and Radio Radicale (#"https://www.radioradicale.it/").
 
 
-==== Giorgia Meloni's YouTube Channel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==== Scraping Radio Radicale
+
+The whole pipeline (scraping and transcribing) can be executed by running the script `~/crossdem/source/radrad_scraper.py`. Make sure to have the dependencies listed in `~/crossdem/requirements.txt`. \
+To choose which Prime Minster to scrape, simply edit the `DATA` list at line 22 with the appropriate name and second half of the URL. For example, to scrape Amintore Fanfani, whose URL is #link("https://www.radioradicale.it/soggetti/545/amintore-fanfani"), add the following tuple in the `DATA` list: `("fanfani", "/soggetti/545/amintore-fanfani")`.
+
+The pipeline works as follows: the script iterates trough all URLs in `DATA`, and for each #pm run the main function `main(politician, SUBJECT_URL)`.  \
+First, all URLs for all speeches of the given #pm are collected by calling the function `get_all_audio_urls`, which returns a list of strings, each of which a URL for a speech. \
+Then, each speech gets processed. The details and metadata are collected with function `extract_speech_details`, the audio is downloaded with function `download_audio_subprocess`, which then gets trimmed based on the timestamp where the specific politician speaks with the function `trim_to_speaker`. \
+Then, the audio is transcribed with the function `speech_to_text` and lastly all downloaded audios are trimmed down to 1 second to save space. If, for any reason, the pipeline halts, the failed speech is logged in `~/crossdem/logs/discarded.log` and the pipeline continues with the next speech. \
+A summary of the `run` pipeline can be seen in listing @code:scraper_run_main. The source code for the script is available in the repository at the link: #link("https://github.com/mhetacc/crossdem/blob/main/source/radrad_scraper.py").
+
+
+#figure(
+  sourcecode(
+  ```py
+def main (politician, SUBJECT_URL):
+    urls = get_all_audio_urls(SUBJECT_URL=SUBJECT_URL)
+    for url in urls:
+        # Skip any file already processed
+        processed_ids = get_processed_ids(AUDIO_DIR)
+        scheda_id = extract_id_from_url(url)
+        if scheda_id in processed_ids:
+            print(f"Skipping {scheda_id}, already processed.")
+            continue
+
+        try:
+            speech_details = extract_speech_details(url, speaker=politician)
+            timestamps = speech_details["interventions"]
+            if any(i["start_time"] is None for i in timestamps):
+                raise ValueError("No timestamps") #skip
+
+            # Download metadata, trim to speaker timestamps, and transcribe
+            audio_metadata = download_audio_subprocess(
+                              url, 
+                              AUDIO_DIR, 
+                              politician)
+            audio_path = trim_to_speaker(
+                          audio_metadata["filename"],
+                          timestamps, 
+                          AUDIO_DIR)
+            speech_to_text(
+              audio_metadata, 
+              speech_details, 
+              audio_path, 
+              politician, OUT_DIR, AUDIO_DIR, CSV_DIR, url)
+
+            trim_to_1s(AUDIO_DIR)
+        except Exception as e:
+            log_discard(politician, url, e)   # Log which speech failed and why
+            continue                          # Move on to the next speech
+
+if __name__ == "__main__":
+    for politician, SUBJECT_URL in DATA:
+        main(politician, f"{BASE_URL}/{SUBJECT_URL}")
+  ``` 
+), caption: "Example of a Permify tuple"
+) <code:scraper_run_main>
+
+Let's now explain the pipeline's main phases in greater detail.
+
+#let ems = 0.5em
+
+#v(ems)
+*Speeches URL Extraction*
+#v(ems)
+
+Since most #pms have hundreds of speeches, selecting each one by hand (as I did for Giorgia Meloni's speeches on YouTube, section @sec:scraping_youtube) would be asinine. Instead, I wrote a function that, given the URL of a #pm's page on Radio Radicale, scrapes all the URLs of all their public speeches (parliamentary speeches are excluded).
+
+In Radio Radicale's website, the speeches of each #pm can be filtered by categories (for example, "All" or "Interviews"). The categories to scrape are defined in the `CATEGORIES` dictionary, which maps each category name to its filter value. The _Istituzioni_ category is left out, as it contains the parliamentary speeches.
+
+The function `_scrape_category` (listing @code:scrape_category) scrapes a single category. It requests the #pm page with the category filter and the page number (many #pms have multiple pages of speeches) as query parameters, and parses the HTML with the Python library _BeautifulSoup_ #footnote[Beautiful Soup is a library that makes it easy to scrape information from web pages. It sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree. Source: #link("https://pypi.org/project/beautifulsoup4/")]. The resulting page contains, among the usual elements such as header, footer, and menus, a list of links that point to speeches. The code iterates trough all list elements `<li>`, extracting the absolute ULRs for the ones pointing to a speech. This process is repeated for each successive page. A pause of 0.5 seconds between requests avoids overloading the server. A the end of this process, a list containing all URLs for a specific category (of a specific #pm) is returned.
+
+#figure(
+  sourcecode(
+```python
+def _scrape_category(session, cat_value, SUBJECT_URL):
+    urls = []
+    page = 0
+
+    while True:
+        params = {"field_registrazione_raggruppamenti_radio": cat_value,
+                  "page": page}
+        resp = session.get(SUBJECT_URL, params=params,
+                           headers=HEADERS, timeout=20)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "html.parser")
+
+        for li in soup.select("ol.lista_list li.views-row"):
+            if not li.select_one("div.tipo_media.audio"):
+                continue
+            a = li.select_one("div.ls_text h3 a")
+            if a and a.get("href"):
+                urls.append(urljoin(BASE_URL, a["href"]))
+
+        if not soup.select_one("li.pager__item--next a"):
+            break
+
+        page += 1
+        time.sleep(0.5)
+
+    return urls
+```
+  ), caption: "Scraping the audio URLs of a single category"
+) <code:scrape_category>
+
+The main function, `get_all_audio_urls` (listing @code:get_all_urls), calls `_scrape_category` on every category and merges the results. The same recording can appear under more than one category, and multiple times in the same category. Speeches URL are in the from _".../scheda/55884/...?i=00000"_, and by stripping everything after the key _"?"_ duplicates can be removed, since they point to the same _"scheda"_, meaning to the same speech. The function thus returns a list of unique URls, which point to all the speeches of the target #pm.
+
+#figure(
+  sourcecode(
+```python
+def get_all_audio_urls(categories=None, verbose=True, SUBJECT_URL="."):
+    if categories is None:
+        categories = CATEGORIES
+
+    session = requests.Session()
+    all_urls = []
+    seen_paths = set()
+
+    for label, value in categories.items():
+        cat_urls = _scrape_category(session, value, SUBJECT_URL)
+        new = []
+        for u in cat_urls:
+            path = u.split("?")[0]
+            if path not in seen_paths:
+                seen_paths.add(path)
+                new.append(u)
+        all_urls.extend(new)
+
+    return all_urls
+```
+  ), caption: "Get all URLs of all speeches of a single Prime Minister, without duplicates."
+) <code:get_all_urls>
+
+
+#v(ems)
+*Speech Download*
+#v(ems)
+
+#v(ems)
+*Extract Speech Metadata and Timestamps*
+#v(ems)
+
+#v(ems)
+*Trim Audio to Timestamps*
+#v(ems)
+
+#v(ems)
+*Audio Transcription*
+#v(ems)
+
+
+
+
+
+ 
+==== Scraping YouTube <sec:scraping_youtube>
 
 Almost all the corpus is composed of speeches scraped from Radio Radicale, so to diversify it a bit I decided to scrape some of Giorgia Meloni's speeches from YouTube. 
 Fortunately, there is an unofficial YouTube channel (that I reached from the Prime Minister's official website) which aggregates more than four thousand videos of her public appearances. The channel is called "Giorgia Meloni News"#footnote[Giorgia Meloni News: #link("https://www.youtube.com/@GiorgiaMeloniTv")]. In total, I manually selected and scraped 72 YouTube videos.
@@ -321,11 +519,6 @@ Each video is processed immediately after being retrieved, and until it has been
 ), caption: "Transcribe the audio file into text using Whisper"
 ) <code:whisper_yt>
 
-==== Radio Radicale's  Website Scraping
-
-
-  - Radio Radicale 
-- Speech-to-text via OpenAI _Whisper_
 
 ==== Scraping Sanity Check <sec:sanity_check>
 
