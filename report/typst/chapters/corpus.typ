@@ -286,19 +286,17 @@ In this section I will show how I scraped two websites to retrieve the speeches 
 
 
 
-
-
 ==== Scraping Radio Radicale
 
 The whole pipeline (scraping and transcribing) can be executed by running the script `~/crossdem/source/radrad_scraper.py`. Make sure to have the dependencies listed in `~/crossdem/requirements.txt`. \
-To choose which Prime Minster to scrape, simply edit the `DATA` list at line 22 with the appropriate name and second half of the URL. For example, to scrape Amintore Fanfani, whose URL is #link("https://www.radioradicale.it/soggetti/545/amintore-fanfani"), add the following tuple in the `DATA` list: `("fanfani", "/soggetti/545/amintore-fanfani")`.
+To choose which #pm to scrape, simply edit the `DATA` list at line 22 with the appropriate name and second half of the URL. For example, to scrape Amintore Fanfani, whose URL is #link("https://www.radioradicale.it/soggetti/545/amintore-fanfani"), add the following tuple in the `DATA` list: `("fanfani", "/soggetti/545/amintore-fanfani")`.
 
-The pipeline works as follows: the script iterates trough all URLs in `DATA`, and for each #pm run the main function `main(politician, SUBJECT_URL)`.  \
+The pipeline works as follows: the script iterates through all URLs in `DATA`, and for each #pm runs the main function `main(politician, SUBJECT_URL)`.  \
 First, all URLs for all speeches of the given #pm are collected by calling the function `get_all_audio_urls`, which returns a list of strings, each of which a URL for a speech. \
-Then, each speech gets processed. The details and metadata are collected with function `extract_speech_details`, the audio is downloaded with function `download_audio_subprocess`, which then gets trimmed based on the timestamp where the specific politician speaks with the function `trim_to_speaker`. \
+Then, each speech gets processed. The details and metadata are collected with function `extract_speech_details`, while the audio is downloaded with function `download_audio_subprocess`. Since most audio files contain more than one speaker, they have to be trimmed to the timestamps of the interventions of the target #pm. This is done with the function `trim_to_speaker`. \
 Then, the audio is transcribed with the function `speech_to_text` and lastly all downloaded audios are trimmed down to 1 second to save space. If, for any reason, the pipeline halts, the failed speech is logged in `~/crossdem/logs/discarded.log` and the pipeline continues with the next speech. \
-Each video is fully processed (download audio, trim, transcribe, and save in a csv file) before moving on to the next one. This prevents loosing progress in case of errors, since the code can be re-run at any time and resumes from where it lefts off.  \
-A summary of the `run` pipeline can be seen in listing @code:scraper_run_main. The source code for the script is available in the repository at the link: #link("https://github.com/mhetacc/crossdem/blwhenever the process errors outob/main/source/radrad_scraper.py").
+Each video is fully processed (download audio, trim, transcribe, and save in a csv file) before moving on to the next one. This prevents losing progress in case of errors, since the code can be re-run at any time and resumes from where it left off.  \
+A summary of the `run` pipeline can be seen in listing @code:scraper_run_main. The source code for the script is available in the repository at the link: #link("https://github.com/mhetacc/crossdem/blob/main/source/radrad_scraper.py").
 
 
 #figure(
@@ -361,7 +359,7 @@ Since most #pms have hundreds of speeches, selecting each one by hand (as I did 
 
 In Radio Radicale's website, the speeches of each #pm can be filtered by categories (for example, "All" or "Interviews"). The categories to scrape are defined in the `CATEGORIES` dictionary, which maps each category name to its filter value. The _Istituzioni_ category is left out, as it contains the parliamentary speeches.
 
-The function `_scrape_category` (listing @code:scrape_category) scrapes a single category. It requests the #pm page with the category filter and the page number (many #pms have multiple pages of speeches) as query parameters, and parses the HTML with the Python library _BeautifulSoup_ #footnote[Beautiful Soup is a library that makes it easy to scrape information from web pages. It sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree. Source: #link("https://pypi.org/project/beautifulsoup4/")]. The resulting page contains, among the usual elements such as header, footer, and menus, a list of links that point to speeches #footnote[An example of the HTML can be seen in appendix @appx:list_of_schede]. The code iterates trough all list elements `<li>`, extracting the absolute ULRs for the ones pointing to a speech. This process is repeated for each successive page. A pause of 0.5 seconds between requests avoids overloading the server. A the end of this process, a list containing all URLs for a specific category (of a specific #pm) is returned.
+The function `_scrape_category` (listing @code:scrape_category) scrapes a single category. It requests the #pm page with the category filter and the page number (many #pms have multiple pages of speeches) as query parameters, and parses the HTML with the Python library _BeautifulSoup_ #footnote[Beautiful Soup is a library that makes it easy to scrape information from web pages. It sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree. Source: #link("https://pypi.org/project/beautifulsoup4/")]. The resulting page contains, among the usual elements such as header, footer, and menus, a list of links that point to speeches #footnote[An example of the HTML can be seen in appendix @appx:list_of_schede]. The code iterates through all list elements `<li>`, extracting the absolute ULRs for the ones pointing to a speech. This process is repeated for each successive page. A pause of 0.5 seconds between requests avoids overloading the server. A the end of this process, a list containing all URLs for a specific category (of a specific #pm) is returned.
 
 #figure(
   sourcecode(
@@ -847,15 +845,9 @@ def speech_to_text(audio_metadata, speech_details, audio_path,
 ==== Scraping YouTube <sec:scraping_youtube>
 
 Almost all the corpus is composed of speeches scraped from Radio Radicale, so to diversify it a bit I decided to scrape some of Giorgia Meloni's speeches from YouTube. 
-Fortunately, there is an unofficial YouTube channel (that I reached from the Prime Minister's official website) which aggregates more than four thousand videos of her public appearances. The channel is called "Giorgia Meloni News"#footnote[Giorgia Meloni News: #link("https://www.youtube.com/@GiorgiaMeloniTv")]. In total, I manually selected and scraped 72 YouTube videos.
+Fortunately, there is an unofficial YouTube channel (that I reached from the Prime Minister's official website) which aggregates more than four thousand videos of her public appearances. The channel is called "Giorgia Meloni News"#footnote[Giorgia Meloni News: #link("https://www.youtube.com/@GiorgiaMeloniTv")]. In total, I manually selected and scraped seventy-two YouTube videos.
 
-Given a YouTube URL, I use once again `yt-dlp` to retrieve the video's metadata and download its audio content in MP3 format, as shown in listing @code:yt_download. I had to manually pass the cookies taken from my web-browser, and I used some extra commands to prevent YouTube to block the requests due to suspicious activity.
-
-Then, the MP3 file just retrieved gets injected into OpenAI's Whisper library for transcription, as shown in listing @code:whisper_yt. I used the model size _"medium"_ as before.
-
-The last step of the pipeline saves the transcription into a csv file, along with the extracted metadata. Each file has the following fields: `politician` ("meloni" in this case), `historical\_date` (the upload date of the video), `location` and `tags` (extracted from the metadata if available, empty strings otherwise), `description` and `title` of the video, `url` which stores the permalink of the video itself, and lastly `text` which holds the whole transcription.
-
-Each video is processed immediately after being retrieved, and until it has been saved in a csv file the program does not try to fetch the next one. This is done for two reasons: first, to prevent `yt-dlp` from sending requests too close to each other, which could result in YouTube denying them due to suspicious activity. Second, even if the pipeline halts for any reason, the videos processed up to that point will not be lost.
+Given a YouTube URL, I use once again `yt-dlp` to retrieve the video's metadata and download its audio content in MP3 format, as shown in listing @code:yt_download. I had to manually pass the cookies taken from my web-browser, and I used some extra commands to prevent YouTube from blocking requests due to suspicious activity.
 
 #figure(
   sourcecode(
@@ -877,6 +869,9 @@ Each video is processed immediately after being retrieved, and until it has been
 ), caption: "Downloading audio and metadata from a YouTube video"
 ) <code:yt_download>
 
+
+Then, the MP3 file just retrieved is passed to _Whisper_ library for transcription, as shown in listing @code:whisper_yt. I used the model size _"medium"_ as before.
+
 #figure(
   sourcecode(
   ```py
@@ -892,6 +887,11 @@ Each video is processed immediately after being retrieved, and until it has been
   ``` 
 ), caption: "Transcribe the audio file into text using Whisper"
 ) <code:whisper_yt>
+
+
+The last step of the pipeline saves the transcription into a csv file, along with the extracted metadata. Each file has the following fields: `politician` ("meloni" in this case), `historical_date` (the upload date of the video), `location` and `tags` (extracted from the metadata if available, empty strings otherwise), `description` and `title` of the video, `url` which stores the permalink of the video itself, and lastly `text` which holds the whole transcription.
+
+Each video is processed immediately after being retrieved, and until it has been saved in a csv file the program does not try to fetch the next one. This is done for two reasons: first, to prevent `yt-dlp` from sending requests too close to each other, which could result in YouTube denying them due to suspicious activity. Second, even if the pipeline halts for any reason, the videos processed up to that point will not be lost.
 
 
 ==== Scraping Sanity Check <sec:sanity_check>
