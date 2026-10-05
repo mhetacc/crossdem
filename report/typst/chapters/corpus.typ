@@ -288,20 +288,6 @@ In this section I will show how I scraped two websites to retrieve the speeches 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ==== Scraping Radio Radicale
 
 The whole pipeline (scraping and transcribing) can be executed by running the script `~/crossdem/source/radrad_scraper.py`. Make sure to have the dependencies listed in `~/crossdem/requirements.txt`. \
@@ -311,7 +297,8 @@ The pipeline works as follows: the script iterates trough all URLs in `DATA`, an
 First, all URLs for all speeches of the given #pm are collected by calling the function `get_all_audio_urls`, which returns a list of strings, each of which a URL for a speech. \
 Then, each speech gets processed. The details and metadata are collected with function `extract_speech_details`, the audio is downloaded with function `download_audio_subprocess`, which then gets trimmed based on the timestamp where the specific politician speaks with the function `trim_to_speaker`. \
 Then, the audio is transcribed with the function `speech_to_text` and lastly all downloaded audios are trimmed down to 1 second to save space. If, for any reason, the pipeline halts, the failed speech is logged in `~/crossdem/logs/discarded.log` and the pipeline continues with the next speech. \
-A summary of the `run` pipeline can be seen in listing @code:scraper_run_main. The source code for the script is available in the repository at the link: #link("https://github.com/mhetacc/crossdem/blob/main/source/radrad_scraper.py").
+Each video is fully processed (download audio, trim, transcribe, and save in a csv file) before moving on to the next one. This prevents loosing progress in case of errors, since the code can be re-run at any time and resumes from where it lefts off.  \
+A summary of the `run` pipeline can be seen in listing @code:scraper_run_main. The source code for the script is available in the repository at the link: #link("https://github.com/mhetacc/crossdem/blwhenever the process errors outob/main/source/radrad_scraper.py").
 
 
 #figure(
@@ -772,23 +759,11 @@ def trim_to_speaker(audio_filename, interventions, AUDIO_DIR):
 ) <code:trim_speaker>
 
 
-===== Audio Transcription
+===== Speech Transcription
 
+The trimmed audio is transcribed with OpenAI's Whisper library, which uses an encoder-decoder Transformer model. The model size I used is the _"medium"_#footnote[Whisper model sizes available are tiny, base, medium and large.], which at 5 GB fits within the total 6 GB of VRAM available in my RTX 4050 GPU. The model was instructed to predict Italian.
 
-
-
-
- 
-==== Scraping YouTube <sec:scraping_youtube>
-
-Almost all the corpus is composed of speeches scraped from Radio Radicale, so to diversify it a bit I decided to scrape some of Giorgia Meloni's speeches from YouTube. 
-Fortunately, there is an unofficial YouTube channel (that I reached from the Prime Minister's official website) which aggregates more than four thousand videos of her public appearances. The channel is called "Giorgia Meloni News"#footnote[Giorgia Meloni News: #link("https://www.youtube.com/@GiorgiaMeloniTv")]. In total, I manually selected and scraped 72 YouTube videos.
-
-Given a YouTube URL, I can use Python's library _yt-dlp_ to retrieve the video's metadata and download its audio content in mp3 format, as shown in listing @code:yt_download. I had to manually pass the cookies taken from my web-browser, and I used some extra commands to prevent YouTube to block the requests due to suspicious activity.
-
-Then, the mp3 file just retrieved gets injected into OpenAI's Whisper library, which uses an encoder-decoder Transformer to transcribe it into text, as shown in listing @code:whisper_yt. The model I used is the _"medium"_#footnote[Whisper model sizes available are tiny, base, medium and large.], which at 5 GB fits within the total 6 GB of VRAM available to my RTX 4050 GPU. The model was instructed to predict Italian.
-
-The difference in precision between the model sizes _tiny_ (which requires less than 1 GB of VRAM) and _medium_ is quite high, as can be seen in the following transcriptions of the same audio file:
+The difference in precision between the model sizes _tiny_ (which requires less than 1 GB of VRAM) and _medium_ is quite high, as shown in the following transcriptions of the same audio file:
 
 #blockquote[
   *Model tiny:* "iamo con se è beruto fuori da questa rio neone sotto il profiro tecnico per quanto riguarda la franha e come il governo un tino era ad essere vicino alla popolazione di Nishenia."
@@ -802,10 +777,85 @@ The transcription obtained with the model _medium_ is very close to the original
 #blockquote[
   *Original speech:* "Diciamo cosa è venuto fuori da questa riunione sotto il profilo tecnico per quanto riguarda la frana e come il governo continuerà ad essere vicino alla popolazione di Niscemi #footnote[Niscemi is a small city and comune in the free municipal consortium of Caltanissetta, Sicily, Italy.]."
 ]
+ 
+The function `speech_to_text` (@code:speech_to_text) takes as parameters the metadata returned by `download_audio_subprocess`, the details returned by `extract_speech_details`, the name of the #pm and the directories to use. It transcribes the audio and saves the transcript, together with the metadata of the speech, in a CSV file.
 
-The last step of the pipeline saves the transcription into a csv file, along with the extracted metadata. Each file has the following fields: _politician_ ("meloni" in this case), _historical\_date_ (the upload date of the video), _location_ and _tags_ (extracted from the metadata if available, empty strings otherwise), _description_ and _title_ of the video, _url_ which stores the permalink of the video itself, and lastly _text_ which holds the whole transcription.
+Whisper is called through `subprocess` with the command line interface. The language and the model are set by the variables `lang_code` and `model_name`, and the transcription runs on the GPU (`--device cuda`). The call uses `check=True`, so that an error in Whisper raises an exception (which then causes the script to skip to the next speech). 
 
-Each video is processed immediately after being retrieved, and until it has been saved in a csv file the program does not try to fetch the next one. This is done for two reasons: first, to prevent _yt-dlp_ from sending requests too close to each other, which could result in YouTube denying them due to suspicious activity. Second, even if the pipeline halts for any reason, the videos processed up to that point will not be lost.
+The transcript and the metadata are then written to a CSV file named `<id>_<pm>_s2t.csv`. Each row contains the name of the #pm, the date of the speech, the location, the title of the recording, the URL of the recording page, the path of the audio file and the whole speech transcribed in text (in the field `text`). The line breaks in the title and in the text are replaced with spaces, so that each speech occupies a single line. The date is converted to a `date` object, and left empty if it was not found. The path of the audio file is stored relative to the project directory. 
+
+#figure(
+  sourcecode(
+```python
+def speech_to_text(audio_metadata, speech_details, audio_path,
+                   politician, OUT_DIR, AUDIO_DIR, CSV_DIR, url):
+    historical_date = speech_details["speech_date"]
+    location = speech_details["location"]
+    title = audio_metadata["fulltitle"]
+    file_id = audio_metadata["file_id"]
+    filename = audio_metadata["filename"]
+
+    output_dir = str(Path(OUT_DIR) / f"output-{model_name}")
+    audio_file = str(Path(AUDIO_DIR) / filename)
+    csv_output = str(Path(CSV_DIR) / f"{file_id}_{politician}_s2t.csv")
+
+    # transcription
+    if not os.path.exists(audio_file):
+        raise FileNotFoundError(f"Audio file '{audio_file}' not found.")
+
+    subprocess.run([
+        "whisper",
+        "--language",        lang_code,
+        "--word_timestamps", "True",
+        "--model",           model_name,
+        "--output_dir",      output_dir,
+        "--device",          "cuda",
+        audio_file
+    ], check=True)
+
+    audio_path = Path(audio_file)
+    transcript_path = Path(output_dir) / f"{audio_path.stem}.txt"
+    if not transcript_path.exists():
+        raise FileNotFoundError(f"Transcript not found at '{transcript_path}'.")
+
+    text = transcript_path.read_text(encoding="utf-8").strip()
+
+    # CSV row
+    audio_path_str = str(audio_path)
+    row = {
+        "politician":      politician,
+        "historical_date": (datetime.strptime(historical_date, "%Y-%m-%d").date()
+                            if historical_date else ""),
+        "location":        location,
+        "title":           title.replace("\n", " ").replace("\r", " ").strip(),
+        "url":             url,
+        "audio_file":      audio_path_str[audio_path_str.index("crossdem"):],
+        "text":            text.replace("\n", " ").replace("\r", " ").strip(),
+    }
+
+    write_header = not os.path.exists(csv_output)
+    with open(csv_output, "a", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=row.keys())
+        if write_header:
+            writer.writeheader()
+        writer.writerow(row)
+```
+  ), caption: "Transcribing a speech and saving it with its metadata in a CSV file"
+) <code:speech_to_text>
+
+
+==== Scraping YouTube <sec:scraping_youtube>
+
+Almost all the corpus is composed of speeches scraped from Radio Radicale, so to diversify it a bit I decided to scrape some of Giorgia Meloni's speeches from YouTube. 
+Fortunately, there is an unofficial YouTube channel (that I reached from the Prime Minister's official website) which aggregates more than four thousand videos of her public appearances. The channel is called "Giorgia Meloni News"#footnote[Giorgia Meloni News: #link("https://www.youtube.com/@GiorgiaMeloniTv")]. In total, I manually selected and scraped 72 YouTube videos.
+
+Given a YouTube URL, I use once again `yt-dlp` to retrieve the video's metadata and download its audio content in MP3 format, as shown in listing @code:yt_download. I had to manually pass the cookies taken from my web-browser, and I used some extra commands to prevent YouTube to block the requests due to suspicious activity.
+
+Then, the MP3 file just retrieved gets injected into OpenAI's Whisper library for transcription, as shown in listing @code:whisper_yt. I used the model size _"medium"_ as before.
+
+The last step of the pipeline saves the transcription into a csv file, along with the extracted metadata. Each file has the following fields: `politician` ("meloni" in this case), `historical\_date` (the upload date of the video), `location` and `tags` (extracted from the metadata if available, empty strings otherwise), `description` and `title` of the video, `url` which stores the permalink of the video itself, and lastly `text` which holds the whole transcription.
+
+Each video is processed immediately after being retrieved, and until it has been saved in a csv file the program does not try to fetch the next one. This is done for two reasons: first, to prevent `yt-dlp` from sending requests too close to each other, which could result in YouTube denying them due to suspicious activity. Second, even if the pipeline halts for any reason, the videos processed up to that point will not be lost.
 
 #figure(
   sourcecode(
