@@ -7,6 +7,8 @@
 #set heading(numbering:"1.")
 #set math.equation(numbering: "1.", supplement: none)
 
+
+
 = The Corpus <ch:corpus>
 
 
@@ -169,7 +171,7 @@ Specifically, $3,936$ speeches (65.2%) are concentrated between 1995 and 2010, a
     caption: [Dataset: tokens. Tokenization done via `spacy.load("it_core_news_sm")`.]
   ), <fig:dataset_tokens>,
   v(0.2em),
-  caption: [@fig:dataset_words show the number of words collected for the dataset over the span of eighty years. In green are words pertaining to #text(fill: rgb("#2CA02C"))[center-leaning] Prime Ministers, in red are words pertaining to #text(fill: rgb("#D62728"))[left-leaning] Prime Ministers, and in blue are words pertaining to #text(fill: rgb("#1F77B4"))[right-leaning] Prime Ministers. @fig:dataset_tokens, on the other hand, shows the same data but in terms of tokens instead of whole words.],
+  caption: [Figure @fig:dataset_words show the number of words collected for the dataset over the span of eighty years. In green are words pertaining to #text(fill: rgb("#2CA02C"))[center-leaning] Prime Ministers, in red are words pertaining to #text(fill: rgb("#D62728"))[left-leaning] Prime Ministers, and in blue are words pertaining to #text(fill: rgb("#1F77B4"))[right-leaning] Prime Ministers. Figure @fig:dataset_tokens, on the other hand, shows the same data but in terms of tokens instead of whole words.],
   label: <fig:dataset>,
 )
 
@@ -209,9 +211,9 @@ Each speech (with few exceptions) is structured with the following fields:
 - `aggressiveness`: aggressiveness level, can be either `low`, `mid`, or `high`;
 - `target`: target of the speech, can be either `none` if there is no target, `pol_adv` for political adversaries, `minor_etn` for ethnic minorities, `minor_gnd` for gender minorities, or `minor_rel` for religious minorities;
 
-De Gasperi's corpus is structured differently, as it is not scraped but rather taken from a pre-existing dataset instead (section @sec:de_gasperi). Each speech has the following fields: `politician`,`historical_date`,`location`,`keywords` (extracted keywords about the speech itself),`text`,`hate_speech`,`negativity`,`aggressiveness`,`target`. 
+De Gasperi's corpus is structured differently, as it is not scraped but rather taken from a pre-existing dataset instead (section @sec:de_gasperi). Each speech has the following fields: `politician`, `historical_date`, `location`, `keywords` (extracted keywords about the speech itself),`text`, `hate_speech`, `negativity`, `aggressiveness`, `target`. 
 
-Some of Meloni's speeches also have a slightly different structure, as they were scraped from YouTube instead of Radio Radicale. They are easy to recognize in the dataset because all files that contain transcriptions of speeches scraped from Radio Radicale are in the form `123456_meloni_s2t.csv`, with the first characters being all numbers, while speeches scraped from YouTube are in the form `_DA9zjY_meloni_speech2text.csv`, with the first characters being a mix of letters, numbers, and symbols. Each of these speeches has the following fields: `politician`,`historical_date`,`location`,`tags` (tags of the YouTube video),`description` (description of the YouTube video),`title`,`url`,`audio_file`,`text`,`hate_speech`,`negativity`,`aggressiveness`,`target`
+Some of Meloni's speeches also have a slightly different structure, as they were scraped from YouTube instead of Radio Radicale. They are easy to recognize in the dataset because all files that contain transcriptions of speeches scraped from Radio Radicale are in the form `123456_meloni_s2t.csv`, with the first characters being all numbers, while speeches scraped from YouTube are in the form `_DA9zjY_meloni_speech2text.csv`, with the first characters being a mix of letters, numbers, and symbols. Each of these speeches has the following fields: `politician`, `historical_date`, `location`, `tags` (tags of the YouTube video),`description` (description of the YouTube video),`title`, `url`, `audio_file`, `text`, `hate_speech`, `negativity`, `aggressiveness`, `target`.
 
 
 
@@ -250,7 +252,7 @@ I would like to thank Sara Tonelli for providing me with the De Gasperi's Corpus
 The corpus is a collection of 2,762 documents issued between 1901 and 1954, formatted into XML files which include metadata that covers not only the title, the date and the place of publication, but also key-concepts automatically extracted from each text (with the corresponding relevance score) and genre labels manually assigned by domain experts. Furthermore, the release includes silver annotation for lemma, part of speech, person names and place names witPh associated coordinates in a CoNLL-like format. 
 
 An example of the XML formatting can be seen at listing @code:xml_degasperi.
-Thanks to the _\<genres\>_ tag, I was able to extract 474 public speeches, each of which with a location, a precise date and a list of keywords.
+Thanks to the `\<genres\>` tag, I was able to extract 474 public speeches, each of which with a location, a precise date and a list of keywords.
 
 #figure(
   sourcecode(
@@ -280,7 +282,7 @@ Thanks to the _\<genres\>_ tag, I was able to extract 474 public speeches, each 
 
 === Scraping <sec:scraping>
   
-In this section I will show how I scraped two websites to retrieve the speeches of the Italian Prime Ministers. The sites are YouTube (#link("https://www.youtube.com/")) and Radio Radicale (#"https://www.radioradicale.it/").
+In this section I will show how I scraped two websites to retrieve the speeches of the Italian Prime Ministers. The sites are YouTube (#link("https://www.youtube.com/")) and Radio Radicale #link("https://www.radioradicale.it/").
 
 
 
@@ -355,22 +357,24 @@ if __name__ == "__main__":
     for politician, SUBJECT_URL in DATA:
         main(politician, f"{BASE_URL}/{SUBJECT_URL}")
   ``` 
-), caption: "Example of a Permify tuple"
+), caption: [
+  Example of the _"run"_ pipeline to scrape and transcribe all #pms from Radio Radicale.
+]
 ) <code:scraper_run_main>
 
 Let's now explain the pipeline's main phases in greater detail.
 
 #let ems = 0.5em
 
-#v(ems)
-*Speeches URL Extraction*
-#v(ems)
+
+===== Speeches URL Extraction
+
 
 Since most #pms have hundreds of speeches, selecting each one by hand (as I did for Giorgia Meloni's speeches on YouTube, section @sec:scraping_youtube) would be asinine. Instead, I wrote a function that, given the URL of a #pm's page on Radio Radicale, scrapes all the URLs of all their public speeches (parliamentary speeches are excluded).
 
 In Radio Radicale's website, the speeches of each #pm can be filtered by categories (for example, "All" or "Interviews"). The categories to scrape are defined in the `CATEGORIES` dictionary, which maps each category name to its filter value. The _Istituzioni_ category is left out, as it contains the parliamentary speeches.
 
-The function `_scrape_category` (listing @code:scrape_category) scrapes a single category. It requests the #pm page with the category filter and the page number (many #pms have multiple pages of speeches) as query parameters, and parses the HTML with the Python library _BeautifulSoup_ #footnote[Beautiful Soup is a library that makes it easy to scrape information from web pages. It sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree. Source: #link("https://pypi.org/project/beautifulsoup4/")]. The resulting page contains, among the usual elements such as header, footer, and menus, a list of links that point to speeches. The code iterates trough all list elements `<li>`, extracting the absolute ULRs for the ones pointing to a speech. This process is repeated for each successive page. A pause of 0.5 seconds between requests avoids overloading the server. A the end of this process, a list containing all URLs for a specific category (of a specific #pm) is returned.
+The function `_scrape_category` (listing @code:scrape_category) scrapes a single category. It requests the #pm page with the category filter and the page number (many #pms have multiple pages of speeches) as query parameters, and parses the HTML with the Python library _BeautifulSoup_ #footnote[Beautiful Soup is a library that makes it easy to scrape information from web pages. It sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree. Source: #link("https://pypi.org/project/beautifulsoup4/")]. The resulting page contains, among the usual elements such as header, footer, and menus, a list of links that point to speeches #footnote[An example of the HTML can be seen in appendix @appx:list_of_schede]. The code iterates trough all list elements `<li>`, extracting the absolute ULRs for the ones pointing to a speech. This process is repeated for each successive page. A pause of 0.5 seconds between requests avoids overloading the server. A the end of this process, a list containing all URLs for a specific category (of a specific #pm) is returned.
 
 #figure(
   sourcecode(
@@ -434,21 +438,284 @@ def get_all_audio_urls(categories=None, verbose=True, SUBJECT_URL="."):
 ) <code:get_all_urls>
 
 
-#v(ems)
-*Speech Download*
-#v(ems)
+===== Speech Download
 
-#v(ems)
-*Extract Speech Metadata and Timestamps*
-#v(ems)
+The audio of each speech is downloaded with `yt-dlp`, a command line and Python tool for downloading media from web pages #footnote[`yt-dlp` is a feature-rich command-line audio/video downloader with support for thousands of sites. Source: #link("https://github.com/yt-dlp/yt-dlp").]. The function `download_audio_subprocess` (@code:download_audio) takes the URL of a speech page, an output directory and the name of the #pm, and saves the audio as `<id>_<pm>.mp3`.
 
-#v(ems)
-*Trim Audio to Timestamps*
-#v(ems)
+The URLs collected in the previous step have to be sanitized, going from _".../scheda/55884/..."_ to _".../scheda/55884"_. The function `sanitize_url` (@code:url_helpers) reduces them to the form _"https://www.radioradicale.it/scheda/<id>"_, and `extract_id_from_url` returns the numeric ID which is then used in the file name, so that each file can be traced back to its recording page.
 
-#v(ems)
-*Audio Transcription*
-#v(ems)
+#figure(
+  sourcecode(
+```python
+def sanitize_url(page_url: str) -> str:
+    base = page_url.split("?")[0]
+    parts = base.split("/")
+    return "/".join(parts[:5])  # https: + '' + domain + scheda + ID
+
+def extract_id_from_url(url):
+    parts = url.split("/scheda/")
+    if len(parts) > 1:
+        return parts[1].split("/")[0]
+    return None
+```
+  ), caption: "Helper functions to normalise a recording URL and extract its ID"
+) <code:url_helpers>
+
+`yt-dlp` is called through `subprocess`. Spawning a process each time is not a big concern, since between downloading the speech (often one hour long if not more) and transcribing it, this operation is never done more than five to ten times per hour. Only the audio is downloaded (`-x`) and then converted to MP3 at the highest quality (`--audio-quality 0`). Recordings split into multiple parts are treated by `yt-dlp` as a playlist, so each part is saved with its playlist index in the file name, and `--concat-playlist always` merges the parts into a single file, which in the end overwrites all the previous parts so that only one file per speech remains.
+
+The metadata of the recording is fetched with a second call to `yt-dlp` (`--dump-json`), which does not download anything. The output is parsed as JSON, and an empty dictionary is used if the call or the parsing fails. The file name, the recording ID and the URL are added to the dictionary, which is returned to be used by other functions in the script.
+
+#figure(
+  sourcecode(
+```python
+def download_audio_subprocess(url, out_dir, politician="politician"):
+    url = sanitize_url(url)
+    id = extract_id_from_url(url)
+    stem = f"{id}_{politician}"
+    final_file = f"{out_dir}/{stem}.mp3"
+
+    result = subprocess.run([
+        "yt-dlp",
+        "-x",
+        "--audio-format", "mp3",
+        "--audio-quality", "0",
+        "--concat-playlist", "always",
+        "-o", f"{out_dir}/{stem}_part%(playlist_index)s.%(ext)s",
+        url
+    ], text=True)
+    if result.returncode != 0:
+        raise RuntimeError(f"yt-dlp exited {result.returncode}")
+
+    # concatenation overwrites the first part
+    concat_result = f"{out_dir}/{stem}_part0.mp3"
+    if not os.path.exists(concat_result):
+        candidates = glob.glob(f"{out_dir}/{stem}*.mp3")
+        if not candidates:
+            raise FileNotFoundError(f"No mp3 found for stem {stem}")
+        concat_result = candidates[0]
+    os.rename(concat_result, final_file)
+
+    meta_result = subprocess.run([
+        "yt-dlp", "--dump-json", "--no-playlist", "--flat-playlist", url
+    ], capture_output=True, text=True)
+
+    info = {}
+    if meta_result.returncode == 0 and meta_result.stdout.strip():
+        lines = [l for l in meta_result.stdout.splitlines() if l.strip()]
+        try:
+            info = json.loads(lines[-1])
+        except json.JSONDecodeError:
+            pass
+
+    info["filename"] = os.path.basename(final_file)
+    info["file_id"] = id
+    info.setdefault("url", url)
+    return info
+```
+  ), caption: "Downloading, merging and renaming the audio of a recording"
+) <code:download_audio>
+
+
+===== Extract Speech Metadata and Timestamps
+
+Each recording page on Radio Radicale lists the interventions of all the speakers at an event, so we need to trim the downloaded audio to only the parts (can be more than one) where the target #pm speaks. For example, in a 1-hour long debate, the target #pm could intervene between minute 14 and minute 20, and between minute 48 and minute 53. \
+The function `extract_speech_details` (listing @code:extract_details) takes the URL of a recording page and the name of the #pm, and returns the date, the location and the timestamps of all their interventions. The page is fetched by `fetch_page`, which sends a GET request with browser-like headers and returns the parsed HTML as a _BeautifulSoup_ object.
+
+*Historical Date.* Different dates appear in the pages in several formats, and the helpers in listing @code:date_helpers handle four of them: with the full Italian month name (_22 marzo 1962_), with the abbreviated month (_22 mar 1962_), dotted (_22.03.1962_) and ISO (_1962-03-22_). The function `find_date` tries them in this order and returns the first match. Each helper has the same structure as `_try_long`, so only the latter is shown.
+
+#figure(
+  sourcecode(
+```python
+MONTHS_IT = {"gennaio": 1, "febbraio": 2, ..., "dicembre": 12}
+MONTHS_IT_SHORT = {"gen": 1, "feb": 2, ..., "dic": 12}
+
+RE_DATE_LONG = re.compile(
+    r"\b(\d{1,2})\s+(" + "|".join(MONTHS_IT) + r")\s+(\d{4})\b", re.I)
+RE_DATE_SHORT = ...   # same, with MONTHS_IT_SHORT
+RE_DATE_DOTTED = re.compile(r"\b(\d{1,2})\.(\d{2})\.(\d{4})\b")
+RE_DATE_ISO = re.compile(r"(\d{4})-(\d{2})-(\d{2})")
+
+def _try_long(text):
+    m = RE_DATE_LONG.search(text)
+    return date(int(m[3]), MONTHS_IT[m[2].lower()], int(m[1])) if m else None
+
+def find_date(text):
+    return (_try_long(text) or _try_short(text)
+            or _try_dotted(text) or _try_iso(text))
+```
+  ), caption: "Parsing dates in the formats found on the pages"
+) <code:date_helpers>
+
+The date of the event is extracted by `extract_page_date` (listing @code:page_date). The sources are checked from the most to the least reliable: the metadata tags, the page title, a date with abbreviated month in the page text, and a date with full month name in the page text. The function returns the date together with a label indicating which source it came from.
+
+#figure(
+  sourcecode(
+```python
+def extract_page_date(soup):
+    for attr, val in [("name", "dcterms.date"),
+                      ("property", "article:published_time")]:
+        tag = soup.find("meta", {attr: val})
+        if tag and tag.get("content"):
+            d = _try_iso(tag["content"])
+            if d: return d, "meta_tag"
+
+    title = soup.find("title")
+    if title:
+        d = _try_dotted(title.get_text())
+        if d: return d, "page_title"
+
+    page_text = soup.get_text(" ", strip=True)
+    d = _try_short(page_text)
+    if d: return d, "page_stamp"
+    d = _try_long(page_text)
+    if d: return d, "page_sommario"
+
+    return None, "not_found"
+```
+  ), caption: "Extracting the date of the event from the page"
+) <code:page_date>
+
+Sometimes the date of the speech is explicitly mentioned (for example _"L'on. Fanfani a una conferenza stampa del 22 marzo 1962..."_), and it can be different to any other date fetched with `extract_page_date`. Since such dates are more precise, I extract them with `extract_speaker_date` (listing @code:speaker_date). The speaker-level date has the priority, and is thus used instead of the page-level date (if present).
+
+#figure(
+  sourcecode(
+```python
+def extract_speaker_date(soup, speaker):
+    items = [li for li in soup.select("li.intervento") if li.find("h2")]
+
+    for idx, li in enumerate(items):
+        if speaker.lower() not in li.find("h2").get_text().lower():
+            continue
+
+        subtext = li.find("div", class_="int_subtext")
+        if subtext:
+            d = find_date(subtext.get_text())
+            if d: return d, "speaker_subtext"
+
+        if idx > 0:
+            prev = items[idx - 1].find("div", class_="int_subtext")
+            if prev and speaker.lower() in prev.get_text().lower():
+                d = find_date(prev.get_text())
+                if d: return d, "preceding_subtext"
+
+        d = find_date(li.get_text(" ", strip=True))
+        if d: return d, "speaker_block"
+        return None, "speaker_block_no_date"
+
+    return None, "speaker_not_found"
+```
+  ), caption: "Extracting the date of the #pm's intervention"
+) <code:speaker_date>
+
+*Location.* The location is read from the `primo_suffisso` element of the page by `extract_location`. A regular expression matches the uppercase name between two hyphens that precedes the time of the event (e.g. _- ROMA - 17:00_). If no location is found, or if it is the generic value `RADIO`, the location is set to `UNKNOWN`.
+
+*Timestamps.* Each video in Radio Radicale has a column associated with it that contains a list of all timestamps for each intervention of each speaker. An example HTML can be seen at appendix @appx:list_of_interventions.\
+Each intervention is a list item that contains, among others, the class _"durata"_ which stores the starting timestamp of an intervention and how long the intervention lasts (for example `<div class="durata"> 1:07 Durata: 16 min</div>`). The function `parse_timestamps` (listing @code:parse_timestamps) extracts the timestamps. \
+The start times are written in one of two ways: as time elapsed since the start of the recording (e.g., _0:30_ meaning half an hour since the start), or as the time of the day (e.g., _17:30_). In the second case, the start time is converted into the elapsed time format, meaning if starting time is _17:00_, and _intervention A_ starts at _17:30_, then _intervention A_ starting time is converted to _0:30_.\
+To differentiate between the two cases, the script looks at the start time of the first intervention. If its value is _0:00_, the format is considered elapsed time.
+
+
+#figure(
+  sourcecode(
+```python
+RE_DURATA = re.compile(r'(\d+:\d+)\s+Durata:\s+(\d+)\s+min', re.I)
+RE_INT_ID = re.compile(r'^int(\d+)$')
+RE_D_SEC  = re.compile(r'^d(\d+)$')
+
+def parse_timestamps(li, is_clock_time=False, event_start=None):
+    result = {"int_id": None, "start_time": None,
+              "duration_min": None, "duration_seconds": None}
+
+    for cls in li.get("class", []):
+        if m := RE_INT_ID.match(cls):
+            result["int_id"] = int(m.group(1))
+        if m := RE_D_SEC.match(cls):
+            result["duration_seconds"] = int(m.group(1))
+
+    durata_div = li.find("div", class_="durata")
+    if durata_div and (m := RE_DURATA.search(durata_div.get_text())):
+        raw_time = m.group(1)
+        result["duration_min"] = int(m.group(2))
+
+        if is_clock_time and event_start:
+            h0, m0 = (int(x) for x in event_start.split(":"))
+            h1, m1 = (int(x) for x in raw_time.split(":"))
+            offset = (h1 * 60 + m1) - (h0 * 60 + m0)
+            result["start_time"] = f"{offset // 60:02d}:{offset % 60:02d}"
+        else:
+            result["start_time"] = raw_time
+
+    return result
+```
+  ), caption: "Parsing the identifier, start time and duration of an intervention"
+) <code:parse_timestamps>
+
+*Main function.* `extract_speech_details` (listing @code:extract_details) combines the previous steps. It returns a dictionary with the page URL, the date and its source, the location and the list of the #pm's interventions. All the interventions of the #pm are collected, not only the first, and the match on the speaker name is case-insensitive. If the page cannot be fetched, the error is stored in the dictionary. If the #pm is not found among the interventions, the error is stored too. The date of the speech is the one found by `extract_speaker_date`, with the date of the event as fallback. When neither is found, the source is set to `llm_needed`, which flags the recording for separate handling. Thankfully, this was never needed while collecting the data.
+
+#figure(
+  sourcecode(
+```python
+def extract_speech_details(url, speaker, timeout=20):
+    result = dict(
+        url=url, speaker_query=speaker, speaker_found=False,
+        speech_date=None, date_source=None, page_event_date=None,
+        interventions=[], error=None,
+    )
+    try:
+        soup = fetch_page(url, timeout=timeout)
+    except Exception as e:
+        result["error"] = str(e)
+        return result
+
+    page_date, page_src = extract_page_date(soup)
+    if page_date:
+        result["page_event_date"] = page_date.isoformat()
+
+    location = extract_location(soup)
+    result["location"] = location if (location is not None and location != "RADIO") else "UNKNOWN"
+
+    event_start = None
+    first_li = soup.select_one("li.intervento")
+    if first_li and (d := first_li.find("div", class_="durata")):
+        if m := RE_DURATA.search(d.get_text()):
+            event_start = m.group(1)
+    is_clock_time = event_start != "0:00"
+
+    for li in soup.select("li.intervento"):
+        h2 = li.find("h2")
+        if h2 and speaker.lower() in h2.get_text().lower():
+            result["speaker_found"] = True
+            ts = parse_timestamps(li, is_clock_time, event_start)
+            if ts["start_time"] or ts["duration_seconds"] is not None:
+                result["interventions"].append(ts)
+
+    if not result["speaker_found"]:
+        result["error"] = f"'{speaker}' not found in interventi"
+        result["date_source"] = "llm_needed"
+        return result
+
+    if not result["interventions"]:
+        result["interventions"] = "no timestamps"
+
+    spk_date, spk_src = extract_speaker_date(soup, speaker)
+    if spk_date:
+        result["speech_date"] = spk_date.isoformat()
+        result["date_source"] = spk_src
+    elif page_date:
+        result["speech_date"] = page_date.isoformat()
+        result["date_source"] = f"page_event ({page_src})"
+    else:
+        result["date_source"] = "llm_needed"
+
+    return result
+```
+  ), caption: "Extracting date, location and timestamps of a #pm's speech"
+) <code:extract_details>
+
+
+===== Trim Audio to Timestamps
+
+===== Audio Transcription
 
 
 
@@ -571,3 +838,4 @@ Useful identifiers include: `country_id`, unique for each country; `country_text
 #include "conclusions.typ"
 #include "results.typ"
 #include "future_works.typ"
+#include "../appendix/appendix-A.typ"
