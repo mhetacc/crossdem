@@ -715,6 +715,63 @@ def extract_speech_details(url, speaker, timeout=20):
 
 ===== Trim Audio to Timestamps
 
+Almost all videos in Radio Radicale's website are integral recordings of events, such as conferences or interviews, and they often include more than one speaker. Only the target #pm's interventions are needed, so the audio file is trimmed to those segments. The function `trim_to_speaker` (listing @code:trim_speaker) takes the name of the audio file, the list of interventions returned by `extract_speech_details` and the audio directory. It uses `ffmpeg` #footnote[FFmpeg is a complete, cross-platform solution to record, convert and stream audio and video. In this project I used the command line tool installed via Fedora's package manager. Source: #link("https://ffmpeg.org/").] through `subprocess` (once again, for the reasons mentioned above the overhead of spawning new processes can be ignored).
+
+The start time of each intervention is converted from the `h:mm` format into seconds by `hhmm_to_seconds`. For each intervention, `ffmpeg` cuts the segment that starts at that time and lasts `duration_seconds`, and saves it to a temporary file. The audio stream is copied (`-acodec copy`) instead of being re-encoded, which is fast and does not degrade the audio quality. The segments are then listed in a text file and joined with the `concat` command into a single file, in the order of the interventions. The temporary files are deleted and the result replaces the original file, so in the end one trimmed audio file per event is kept.
+
+#figure(
+  sourcecode(
+```python
+def trim_to_speaker(audio_filename, interventions, AUDIO_DIR):
+    input_path = Path(AUDIO_DIR) / audio_filename
+
+    def hhmm_to_seconds(t):
+        h, m = t.split(":")
+        return int(h) * 3600 + int(m) * 60
+
+    # extract each segment to a temporary file
+    tmp_files = []
+    for i, iv in enumerate(interventions):
+        tmp = input_path.with_name(f"_tmp_{i}_{input_path.name}")
+        cmd = [
+            "ffmpeg", "-y",
+            "-ss", str(hhmm_to_seconds(iv["start_time"])),
+            "-i", str(input_path),
+            "-t", str(iv["duration_seconds"]),
+            "-acodec", "copy",
+            str(tmp),
+        ]
+        subprocess.run(cmd, stdout=subprocess.DEVNULL,
+                       stderr=subprocess.DEVNULL)
+        tmp_files.append(tmp)
+
+    # concatenate the segments
+    concat_list = input_path.with_name("_concat_list.txt")
+    concat_list.write_text("\n".join(f"file '{f.name}'" for f in tmp_files))
+
+    tmp_out = input_path.with_name(f"_out_{input_path.name}")
+    cmd = [
+        "ffmpeg", "-y",
+        "-f", "concat", "-safe", "0",
+        "-i", str(concat_list),
+        "-acodec", "copy",
+        str(tmp_out),
+    ]
+    subprocess.run(cmd, stdout=subprocess.DEVNULL,
+                   stderr=subprocess.DEVNULL)
+
+    # remove temporary files and overwrite the original
+    for f in tmp_files:
+        f.unlink(missing_ok=True)
+    concat_list.unlink(missing_ok=True)
+    tmp_out.replace(input_path)
+
+    return input_path
+```
+  ), caption: "Trimming a recording to the segments of the speaker"
+) <code:trim_speaker>
+
+
 ===== Audio Transcription
 
 
