@@ -894,9 +894,72 @@ The last step of the pipeline saves the transcription into a csv file, along wit
 Each video is processed immediately after being retrieved, and until it has been saved in a csv file the program does not try to fetch the next one. This is done for two reasons: first, to prevent `yt-dlp` from sending requests too close to each other, which could result in YouTube denying them due to suspicious activity. Second, even if the pipeline halts for any reason, the videos processed up to that point will not be lost.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ==== Scraping Sanity Check <sec:sanity_check>
 
-Is the corpus correct? Yes, check with n-gram centroid.
+Since the whole pipeline is fully automatic, it is necessary to verify the correctness of the resulting corpus. By "correct" I mean to say that the transcribed texts of a #pm are in fact transcriptions of their speeches and not of someone else's (in section @sec:scraping we mentioned how the audio files often contain more than one speaker). This problem is commonly known as authorship attribution. \
+Of course, spot-checks were performed during scraping, but manually verifying every speech would defeat the purpose of automating the process in the first place. Among many possible methods, I decided to use an N-gram centroid-based one  @witten_reassessing_2008 @jockers_comparative_2010 @h_spoken_2024, since it is relatively straightforward and does not require a lot of resources.\
+The idea is as follows: if I embed all speeches into vectors, I can compute the centroid #footnote[In mathematics and physics, the centroid, also known as geometric center or center of figure, of a plane figure or solid figure is the mean position of all the points in the figure. The same definition extends to any object in n-dimensional Euclidean space @protter_college_1970.] of all speeches of a specific #pm (their vectorial center). Then, for each speech, I can calculate the cosine similarity #footnote[Cosine similarity is the cosine of the angle between two vectors, which in turn measures how similar the two vectors are.] between the speech embedding and the centroid. By doing so, I can compute a degree of similarity between the speeches of a #pm in the vector space, assessing whether a speech adheres to their style or not (hence, whether the speech was authored by that specific #pm). Each speech is graded with a degree of self-similarity (from zero to one), which represents how much that speech resembles the #pm's corpus. The mean similarity for a #pm corpus is calculated by averaging all self-similarity values. I flag the bottom $10%$ of speeches as "below threshold". Results are shown in table @tab:outlier_results. De Gasperi was included as a baseline, since their corpus was not scraped. 
+
+We can see that overall the corpus quality is solid, with the vast majority of #pms' corpora above baseline. Some speeches in the corpus with very low self-similarity values (under $0.1$) contain either a series of _"Ciao ciao ciao"_ (likely background noise wrongly identified by Whisper), or a series of _"Sottotitoli a cura di QTSS"_. These speeches are so few compared to the whole corpus size that I decided to maintain the corpus as-is, without any arbitrary low-similarity cutoff. This was done to prevent the risk of manually introducing bias by cutting off "good" outliers, such as one-off topics or short speeches.
+
+
+#v(1em)
+#[
+#show figure: set block(breakable: true)
+#figure(
+table(
+columns: (auto, auto, auto, auto),
+align: (center, center, center, center),
+stroke: none,
+inset: 5pt,
+fill: (col, row) => {
+if row == 0 { rgb("#B5001B") }
+else if calc.rem(row, 2) == 0 { rgb("#B5001B33") }
+else { white }
+    },
+table.hline(stroke: 0.5pt),
+text(fill:white)[*PM*], text(fill:white)[*Correct (%)*], text(fill:white)[*\# Below Threshold / \# Speeches*], text(fill:white)[*Mean Similarity*],
+    [De Gasperi], [86.7], [63/473], [0.67],
+    [Fanfani], [95.2], [1/21], [0.70],
+    [Leone], [83.3], [1/6], [0.63],
+    [Rumor], [100.0], [0/4], [0.89],
+    [Andreotti], [93.6], [21/327], [0.80],
+    [Cossiga], [88.2], [21/178], [0.73],
+    [Forlani], [92.3], [5/65], [0.75],
+    [Spadolini], [91.8], [8/97], [0.75],
+    [Craxi], [82.5], [17/97], [0.69],
+    [Goria], [81.1], [7/37], [0.76],
+    [De Mita], [96.2], [6/157], [0.83],
+    [Amato], [96.0], [29/722], [0.82],
+    [Ciampi], [90.4], [7/73], [0.73],
+    [Berlusconi], [92.9], [38/535], [0.80],
+    [Dini], [92.9], [22/310], [0.71],
+    [Prodi], [92.6], [38/515], [0.80],
+    [D'Alema], [96.1], [32/829], [0.84],
+    [Monti], [97.9], [5/240], [0.83],
+    [Letta], [96.3], [19/509], [0.80],
+    [Renzi], [95.1], [7/143], [0.79],
+    [Conte], [80.0], [6/30], [0.61],
+    [Draghi], [92.3], [2/26], [0.85],
+    [Meloni], [92.5], [15/199], [0.73],
+table.hline(stroke: 0.5pt),
+  ),
+caption: [Per-PM classification results, ordered by first term in office. In order: Prime Minister's name, percentage of speeches correctly attributed, and number of speeches below the similarity threshold out of the usable speeches. Mean similarity represents how much the speeches represent each other (lower values would mean more variety in style). Colombo and Gentiloni were skipped (only 1 usable speech each, minimum 3 required). In total, 567 flagged speeches were exported to `outlier_speeches.csv`.]
+) <tab:outlier_results>
+]
+#v(1em)
 
 === Corpus Annotation <sec:corpus_annotation>
 
