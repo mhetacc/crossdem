@@ -211,174 +211,58 @@ caption: "Example of the HTML in Radio Radicale that contains a list of interven
 ) <appx:list_of_interventions>
 
 
-#figure(
-  sourcecode(
-```go
-  reqBody := PermifyCheckRequest{
-    Metadata: PermifyMetadata{
-      SnapToken:     "",
-      SchemaVersion: "",
-      Depth:         100,
-    },
-    Entity: PermifyEntity{
-      Type: entityType,
-      ID:   entityID,
-    },
-
-    Permission: permission,
-
-    Subject: PermifySubject{
-      Type: subjectType,
-      ID:   subjectID,
-    },
-  }
-```
-  ), caption: "Example of a permission check request to Permify"
-) <code:permify_check_request_example>
-
 #v(1em)
-
+#[
+#set text(size: 8.5pt)
+#show figure: set block(breakable: true)
 #figure(
-sourcecode(
-```yaml
-  vernemq2:
-    image: vernemq-from-source:latest
-    container_name: vernemq2
-    labels:
-      - "traefik.enable=true"
-      
-      # MQTT TCP (port 1883) - Load balanced
-      - "traefik.tcp.routers.mqtt.entrypoints=mqtt"
-      - "traefik.tcp.routers.mqtt.rule=HostSNI(`*`)"
-      - "traefik.tcp.routers.mqtt.service=mqtt-backend"
-      
-      # MQTT TLS (:8883)
-      - "traefik.tcp.routers.mqtt-secure.entrypoints=mqtts"
-      - "traefik.tcp.routers.mqtt-secure.rule=HostSNI(`*`)"
-      - "traefik.tcp.routers.mqtt-secure.tls=true"
-      - "traefik.tcp.routers.mqtt-secure.tls.certresolver=letsencrypt 
-      - "traefik.tcp.routers.mqtt-secure.service=mqtt-backend"
-
-    environment:
-      - DOCKER_VERNEMQ_ALLOW_ANONYMOUS=off
-      # Disable built-in ACLs to use only the webhook authentication/authorization
-      - DOCKER_VERNEMQ_PLUGINS__VMQ_ACL=off
-      # plugin webhooks managed via vernemq.confs
-      - DOCKER_VERNEMQ_PLUGINS__VMQ_WEBHOOKS=on
-      # Webhooks pointing to auth-service
-      - DOCKER_VERNEMQ_VMQ_WEBHOOKS__JWT_AUTH__HOOK=auth_on_register
-      - DOCKER_VERNEMQ_VMQ_WEBHOOKS__JWT_AUTH__ENDPOINT=http://auth-service:8080/auth_on_register
-      - DOCKER_VERNEMQ_VMQ_WEBHOOKS__JWT_PUBLISH__HOOK=auth_on_publish
-      - DOCKER_VERNEMQ_VMQ_WEBHOOKS__JWT_PUBLISH__ENDPOINT=http://auth-service:8080/auth_on_publish
-      - DOCKER_VERNEMQ_VMQ_WEBHOOKS__JWT_SUBSCRIBE__HOOK=auth_on_subscribe
-      - DOCKER_VERNEMQ_VMQ_WEBHOOKS__JWT_SUBSCRIBE__ENDPOINT=http://auth-service:8080/auth_on_subscribe
-      - DOCKER_VERNEMQ_VMQ_WEBHOOKS__ON_CLIENT_OFFLINE__HOOK=on_client_offline
-      - DOCKER_VERNEMQ_VMQ_WEBHOOKS__ON_CLIENT_OFFLINE__ENDPOINT=http://auth-service:8080/on_client_offline
-      - DOCKER_VERNEMQ_VMQ_WEBHOOKS__ON_CLIENT_GONE__HOOK=on_client_gone
-      - DOCKER_VERNEMQ_VMQ_WEBHOOKS__ON_CLIENT_GONE__ENDPOINT=http://auth-service:8080/on_client_gone
-
-      # auto-join cluster to first node
-      - DOCKER_VERNEMQ_DISCOVERY_NODE=${VERNEMQ_IP_1}
-    networks:
-      vernemq-net:
-        ipv4_address: ${VERNEMQ_IP_2}
-    depends_on:
-      - vernemq1
-```
-), caption: "VerneMQ configuration in Docker Compose - relevant parts"
-) <code:vernemq_docker_compose>
-#v(2em)
-
-#figure(
-sourcecode(
-    ```go
-    func main() {
-      [...]
-
-      r.POST("/auth_on_register", authOnRegister)
-      r.POST("/auth_on_publish", authOnPublish)
-      r.POST("/auth_on_subscribe", authOnSubscribe)
-      r.POST("/on_client_offline", onClientOffline)
-      r.POST("/on_client_gone", onClientGone)
-      
-      [...]
-    }
-    ```
-), caption: "Auth service - webhook endpoints handlers"
-) <code:auth_service_webhook_handlers>
-
-#v(2em)
-
-#figure(
-sourcecode(
-```json
-{
-  "name": "IOT_INCOMING_DATA",
-  "subjects": ["incoming.mqtt.>", "incoming.coap.>", "outcoming.coap.>", "outcoming.mqtt.>"],
-  "retention": "limits",
-  "max_consumers": -1,
-  "max_msgs": 100000,
-  "max_bytes": -1,
-  "max_age": 86400000000000,
-  "storage": "file",
-  "num_replicas": 3
-}
-```
-), caption: "NATS JetStream stream configuration"
-) <code:nats_jetstream_stream_config>
-#v(2em)
-
-#figure(
-sourcecode(
-```go
-  dtlsConfig := &piondtls.Config{
-    PSK: func(hint []byte) ([]byte, error) {
-      deviceHint := string(hint)
-      log.Printf("DTLS Handshake: Authenticating device '%s'", deviceHint)
-      
-      key, err := pskStore.GetKey(hint)
-      if err != nil {
-        log.Printf("Authentication failed for device '%s': %v", deviceHint, err)
-        return nil, err
-      }
-      
-      log.Printf("✓ Device '%s' authenticated", deviceHint)
-      return key, nil
+table(
+columns: (auto, auto, auto, auto, auto, auto, auto, auto),
+align: (left, center, left, center, center, center, center, center),
+stroke: none,
+inset: 5pt,
+fill: (col, row) => {
+if row == 0 { rgb("#B5001B") }
+else if calc.rem(row, 2) == 0 { rgb("#B5001B33") }
+else { white }
     },
-    PSKIdentityHint: []byte("coap-bridge-server"),
-    CipherSuites: []piondtls.CipherSuiteID{
-      piondtls.TLS_PSK_WITH_AES_128_CCM_8,
-      piondtls.TLS_PSK_WITH_AES_128_GCM_SHA256,
-    },
-  }
-```
-), caption: "DTLS configuration with PSK callback function"
-) <code:dtls_config_with_psk_callback>
-
-#figure(
-  sourcecode(
-  ```go
-type InputPayload struct {
-    DeviceID string          `json:"device"`
-    Type     string          `json:"type"`
-    Ts       int64           `json:"ts"`
-    Data     json.RawMessage `json:"data"`
-    TenantID string          `json:"tenant_id"`
-
-    [...]
-
-    tableName := tenantTableName(payload.TenantID)
-    // Create the table if it doesn't exist (only for 1st message)
-    if res := db.Table(tableName).Create(&dbRecord); res.Error != nil {
-      log.Printf("DB Insert Error (table %q): %v", tableName, res.Error)
-      msg.Nak()
-    } else {
-      log.Printf("Saved to %q: device=%s tenant=%s", tableName, payload.DeviceID, payload.TenantID)
-      msg.Ack()
-    }
-  }
-}
-```
-), caption: "DB Writer input payload structure"
-) <code:data_writer_input_payload>
-
+table.hline(stroke: 0.5pt),
+text(fill:white)[*Model*], text(fill:white)[*Thinking*], text(fill:white)[*Label*], text(fill:white)[*$kappa$*], text(fill:white)[*Accuracy*], text(fill:white)[*Macro P*], text(fill:white)[*Macro R*], text(fill:white)[*Macro F1*],
+    [`qwen2.5:7b-instruct-q4_K_M`], [-], [Hate speech], [0.173], [0.696], [0.634], [0.622], [0.584],
+    [`qwen2.5:7b-instruct-q4_K_M`], [-], [Negativity], [0.297], [0.570], [0.579], [0.612], [0.566],
+    [`qwen2.5:7b-instruct-q4_K_M`], [-], [Aggressiveness], [0.255], [0.623], [0.682], [0.676], [0.594],
+    [`qwen2.5:7b-instruct-q4_K_M`], [-], [Target], [0.705], [0.773], [0.807], [0.865], [0.824],
+    [`mistral:7b-instruct-v0.3-q4_K_M`], [-], [Hate speech], [0.128], [0.729], [0.650], [0.682], [0.616],
+    [`mistral:7b-instruct-v0.3-q4_K_M`], [-], [Negativity], [0.061], [0.382], [0.326], [0.421], [0.348],
+    [`mistral:7b-instruct-v0.3-q4_K_M`], [-], [Aggressiveness], [0.051], [0.546], [0.538], [0.613], [0.499],
+    [`mistral:7b-instruct-v0.3-q4_K_M`], [-], [Target], [0.699], [0.768], [0.868], [0.873], [0.848],
+    [`qwen3.5:4b-q8_0`], [off], [Hate speech], [0.091], [0.560], [0.463], [0.497], [0.475],
+    [`qwen3.5:4b-q8_0`], [off], [Negativity], [0.222], [0.502], [0.620], [0.494], [0.451],
+    [`qwen3.5:4b-q8_0`], [off], [Aggressiveness], [0.194], [0.614], [0.689], [0.666], [0.599],
+    [`qwen3.5:4b-q8_0`], [off], [Target], [0.783], [0.836], [0.890], [0.906], [0.891],
+    [`qwen3.5:4b`], [off], [Hate speech], [0.268], [0.628], [0.586], [0.585], [0.581],
+    [`qwen3.5:4b`], [off], [Negativity], [0.208], [0.459], [0.424], [0.446], [0.397],
+    [`qwen3.5:4b`], [off], [Aggressiveness], [0.363], [0.691], [0.736], [0.736], [0.683],
+    [`qwen3.5:4b`], [off], [Target], [0.760], [0.816], [0.886], [0.898], [0.879],
+    [`qwen3.5:9b-q4_K_M`], [off], [Hate speech], [0.037], [0.517], [0.501], [0.486], [0.476],
+    [`qwen3.5:9b-q4_K_M`], [off], [Negativity], [0.246], [0.522], [0.599], [0.518], [0.483],
+    [`qwen3.5:9b-q4_K_M`], [off], [Aggressiveness], [-0.009], [0.541], [0.535], [0.560], [0.538],
+    [`qwen3.5:9b-q4_K_M`], [off], [Target], [0.721], [0.787], [0.872], [0.878], [0.864],
+    [`gemma4:e4b`], [off], [Hate speech], [0.168], [0.739], [0.683], [0.662], [0.666],
+    [*`gemma4:e4b`*], [*off*], [*Negativity*], [*0.293*], [*0.536*], [*0.534*], [*0.564*], [*0.532*],
+    [*`gemma4:e4b`*], [*off*], [*Aggressiveness*], [*0.476*], [*0.691*], [*0.701*], [*0.726*], [*0.690*],
+    [`gemma4:e4b`], [off], [Target], [0.674], [0.758], [0.833], [0.837], [0.835],
+    [*`gemma4:e4b`*], [*on*], [*Hate speech*], [*0.538*], [*0.826*], [*0.819*], [*0.777*], [*0.773*],
+    [`gemma4:e4b`], [on], [Negativity], [0.139], [0.546], [0.604], [0.577], [0.561],
+    [`gemma4:e4b`], [on], [Aggressiveness], [0.246], [0.604], [0.689], [0.644], [0.614],
+    [*`gemma4:e4b`*], [*on*], [*Target*], [*0.869*], [*0.903*], [*0.942*], [*0.927*], [*0.930*],
+    [`gemma4:12b`#super[\*]], [off], [Hate speech], [0.228], [0.743], [0.691], [0.656], [0.664],
+    [`gemma4:12b`#super[\*]], [off], [Negativity], [0.230], [0.563], [0.583], [0.625], [0.552],
+    [`gemma4:12b`#super[\*]], [off], [Aggressiveness], [0.303], [0.655], [0.702], [0.707], [0.634],
+    [`gemma4:12b`#super[\*]], [off], [Target], [0.722], [0.786], [0.865], [0.881], [0.854],
+table.hline(stroke: 0.5pt),
+  ),
+caption: [Full validation results on the 207 speeches for all models, identified by their Ollama tags, with thinking mode off and on (`-` where thinking mode does not apply). In order: model, thinking mode, label, Cohen's $kappa$ (quadratic-weighted for hate speech, negativity and aggressiveness; unweighted for target), accuracy, and macro-averaged precision (P), recall (R) and F1. Rows in bold mark the configuration adopted for each label (`gemma4:e4b`). #super[\*]Evaluated on 206/207 speeches, as one failed to be classified.]
+) <appx:llm_comparison>
+]
+#v(1em)

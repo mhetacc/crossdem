@@ -963,9 +963,41 @@ caption: [Per-PM classification results, ordered by first term in office. In ord
 
 === Corpus Annotation <sec:corpus_annotation>
 
-- Choosing how to annotate the corpus
-  - Choosing the right LLMs
-- Pipeline
+Each speech of the corpus was annotated with an LLM run locally via Ollama #footnote[Ollama is an open-source platform for running and managing large language models on local GPU infrastructure. It provides a command-line interface, model-management tools, and integrations for using open-weight models with coding assistants and other applications. Website: #link("https://ollama.com/").], and each speech was annotated for its degrees of hate speech, aggressiveness, and negativity (either _low_, _mid_, or _high_), as well as whether they target a specific group or not (possible target groups are
+political adversaries, gender minorities, ethnic minorities, and religious minorities). 
+
+I compared eight different models, and I choose the best one based mainly on the Choen's Kappa. The models with respective Kappa values are shown in table @tab:llm_comparison_kappa. To see all metrics (accuracy, precision, recall, F1) refer to the table in appendix @appx:llm_comparison
+#v(1em)
+#[
+#show figure: set block(breakable: true)
+#figure(
+table(
+columns: (auto, auto, auto, auto, auto, auto),
+align: (left, center, center, center, center, center),
+stroke: none,
+inset: 5pt,
+fill: (col, row) => {
+if row == 0 { rgb("#B5001B") }
+else if calc.rem(row, 2) == 0 { rgb("#B5001B33") }
+else { white }
+    },
+table.hline(stroke: 0.5pt),
+text(fill:white)[*Model*], text(fill:white)[*Thinking*], text(fill:white)[*Hate speech*], text(fill:white)[*Negativity*], text(fill:white)[*Aggressiveness*], text(fill:white)[*Target*],
+    [`qwen2.5:7b-instruct-q4_K_M`], [-], [0.173], [*0.297*], [0.255], [0.705],
+    [`mistral:7b-instruct-v0.3-q4_K_M`], [-], [0.128], [0.061], [0.051], [0.699],
+    [`qwen3.5:4b-q8_0`], [off], [0.091], [0.222], [0.194], [0.783],
+    [`qwen3.5:4b`], [off], [0.268], [0.208], [0.363], [0.760],
+    [`qwen3.5:9b-q4_K_M`], [off], [0.037], [0.246], [-0.009], [0.721],
+    [`gemma4:e4b`], [off], [0.168], [*0.293*], [*0.476*], [0.674],
+    [`gemma4:12b`], [off], [0.228], [0.230], [0.303], [0.722],
+    [`gemma4:e4b`], [on], [*0.538*], [0.139], [0.246], [*0.869*],
+table.hline(stroke: 0.5pt),
+  ),
+caption: [Agreement between model predictions and gold labels on the 207 validation speeches, measured by Cohen's $kappa$. Quadratic-weighted $kappa$ is used for the ordinal labels (hate speech, negativity, aggressiveness) and unweighted $kappa$ for target. Values in bold mark the best result per label and the configuration adopted for `gemma4:e4b`: thinking on for hate speech and target, thinking off for negativity and aggressiveness. Models are identified by their Ollama tags; thinking mode does not apply to qwen2.5 and mistral (`-`).]
+) <tab:llm_comparison_kappa>
+]
+#v(1em)
+
 
 === V-DEM <sec:vdem>
 
