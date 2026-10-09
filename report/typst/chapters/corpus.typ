@@ -963,17 +963,25 @@ caption: [Per-PM classification results, ordered by first term in office. In ord
 
 === Corpus Annotation <sec:corpus_annotation>
 
-Each speech of the corpus was annotated with an LLM run locally via Ollama #footnote[Ollama is an open-source platform for running and managing large language models on local GPU infrastructure. It provides a command-line interface, model-management tools, and integrations for using open-weight models with coding assistants and other applications. Website: #link("https://ollama.com/").], and each speech was annotated for its degrees of hate speech, aggressiveness, and negativity (either _low_, _mid_, or _high_), as well as whether they target a specific group or not (possible target groups are
-political adversaries, gender minorities, ethnic minorities, and religious minorities). 
+Each speech of the corpus was annotated with an LLM run locally via Ollama #footnote[Ollama is an open-source platform for running and managing large language models on local GPU infrastructure. It provides a command-line interface, model-management tools, and integrations for using open-weight models with coding assistants and other applications. Website: #link("https://ollama.com/").] by its degrees of hate speech, aggressiveness, and negativity (either _low_, _mid_, or _high_), as well as whether they target a specific group or not (possible target groups are political adversaries, gender minorities, ethnic minorities, and religious minorities). 
 
-I compared eight different models, and I choose the best one based mainly on the Choen's Kappa. The models with respective Kappa values are shown in table @tab:llm_comparison_kappa. To see all metrics (accuracy, precision, recall, F1) refer to the table in appendix @appx:llm_comparison
+  
+To choose the best model, I first compiled a validation set containing 207 speeches #footnote[Validation set is found at: _~crossdem/datasets/prime_ministers_validation_]. Since most #pms' speeches have very low hostility values #footnote[I previously defined the term "hostility" as the compound metric of hate speech, aggressiveness, and negativity.], and almost none are targeting any minority group, a candidate model could perform very well by always predicting low hostility and no target for each speech. To mitigate this, I generated 100 high-hostility and highly toxic synthetic speeches with the frontier model Gemini 3.6 Flash via its online chat. I prompted the model to have at least "mid" values for hate speech, aggressiveness, and negativity, and so that each speech targets one of the four possibile targets. The full prompt can be seen in appendix @appx:generate_synth_speeches. \
+The remaining 107 speeches were taken from the dataset, annotated with Claude Sonnet 4 and Gemini Flash 3.6 via their online chat interfaces, and manually checked by me.
+
+I compared eight different models, and I choose the best one based on the Choen's Kappa, meaning by their degree of agreement with the gold labels. I choose this metric because it is more robust than simple percent agreement calculation, as it incorporates the possibility of the agreement occurring by chance. The models with respective Kappa values are shown in table @tab:llm_comparison_kappa. To see all the other metrics (macro averaging for accuracy, precision, recall, and F1) refer to the table in appendix @appx:llm_comparison
+
+The following models were too big to fit: ......
+Thus i choose to use ......
+
+
 #v(1em)
 #[
 #show figure: set block(breakable: true)
 #figure(
 table(
 columns: (auto, auto, auto, auto, auto, auto),
-align: (left, center, center, center, center, center),
+align: (left+horizon, center+horizon, center+horizon, center+horizon, center+horizon, center+horizon),
 stroke: none,
 inset: 5pt,
 fill: (col, row) => {
