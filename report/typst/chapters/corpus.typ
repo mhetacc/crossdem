@@ -81,7 +81,7 @@ The corpus comprises speeches from twenty four out of the thirty one Italian Pri
 
 Overall, collected data amounts to $6,038$ speeches, for a total of $15,185,640$ words. Table @tab:corpus_total surmise the overall corpus, while @tab:corpus_pms shows metrics for each Prime Minister. One important notice: speeches were collected for each Prime Minister as a person, meaning that the corpus contains all the speeches delivered by each Prime Minister regardless of whether they were in office or not at the moment of the speech. For example, Giorgia Meloni's speeches date as far back as the sixteen of October 2000, even though she became Prime Minister twenty-two years later on the twenty-first of October 2022. The rationale is that the corpus is meant to track political rhetoric as a whole: politicians capable of becoming Prime Ministers were chosen as representatives of the political spectrum and ideas they embody. This also facilitated data collection, affording a denser and more informative dataset.
 
-Its worth mentioning that reported tokens amount is obtained by using Spacy's tokenizer, so it will be slightly different in other use cases throughout the project. For example, corpus annotation is done with Gemma 4 via Ollama, which uses the model's own tokenizer (section @sec:corpus_annotation).
+It is worth mentioning that reported tokens amount is obtained by using Spacy's tokenizer, so it will be slightly different in other use cases throughout the project. For example, corpus annotation is done with Gemma 4 via Ollama, which uses the model's own tokenizer (section @sec:corpus_annotation).
 
 
 #v(1em)
@@ -113,7 +113,7 @@ caption: [Overall corpus size and pooled median speech length. First row shows h
 #figure(
 table(
 columns: (auto, auto, auto, auto, auto),
-align: (center, center, center, center, center),
+align: (center+horizon, center+horizon, center+horizon, center+horizon, center+horizon),
 stroke: none,
 inset: 5pt,
 fill: (col, row) => {
@@ -915,6 +915,7 @@ The idea is as follows: if I embed all speeches into vectors, I can compute the 
 We can see that overall the corpus quality is solid, with the vast majority of #pms' corpora above baseline. Some speeches in the corpus with very low self-similarity values (under $0.1$) contain either a series of _"Ciao ciao ciao"_ (likely background noise wrongly identified by Whisper), or a series of _"Sottotitoli a cura di QTSS"_. These speeches are so few compared to the whole corpus size that I decided to maintain the corpus as-is, without any arbitrary low-similarity cutoff. This was done to prevent the risk of manually introducing bias by cutting off "good" outliers, such as one-off topics or short speeches.
 
 
+
 #v(1em)
 #[
 #show figure: set block(breakable: true)
@@ -930,7 +931,7 @@ else if calc.rem(row, 2) == 0 { rgb("#B5001B33") }
 else { white }
     },
 table.hline(stroke: 0.5pt),
-text(fill:white)[*PM*], text(fill:white)[*Correct (%)*], text(fill:white)[*\# Below Threshold / \# Speeches*], text(fill:white)[*Mean Similarity*],
+text(fill:white)[*PM*], text(fill:white)[*Correct (%)*], text(fill:white)[*$frac("# Below Treshold","# Speeches")$*], text(fill:white)[*Mean Similarity*],
     [De Gasperi], [86.7], [63/473], [0.67],
     [Fanfani], [95.2], [1/21], [0.70],
     [Leone], [83.3], [1/6], [0.63],
@@ -956,7 +957,7 @@ text(fill:white)[*PM*], text(fill:white)[*Correct (%)*], text(fill:white)[*\# Be
     [Meloni], [92.5], [15/199], [0.73],
 table.hline(stroke: 0.5pt),
   ),
-caption: [Per-PM classification results, ordered by first term in office. In order: Prime Minister's name, percentage of speeches correctly attributed, and number of speeches below the similarity threshold out of the usable speeches. Mean similarity represents how much the speeches represent each other (lower values would mean more variety in style). Colombo and Gentiloni were skipped (only 1 usable speech each, minimum 3 required). In total, 567 flagged speeches were exported to `outlier_speeches.csv`.]
+caption: [Per-PM classification results, ordered by their first term in office. In order: Prime Minister's name, percentage of speeches above threshold, number of speeches below the similarity threshold. Mean similarity represents how much the speeches resemble each other (lower values mean more variety in style). Colombo and Gentiloni were skipped (only one usable speech each, minimum three required). In total, 567 flagged speeches were exported to `outlier_speeches.csv`.]
 ) <tab:outlier_results>
 ]
 #v(1em)
@@ -965,14 +966,22 @@ caption: [Per-PM classification results, ordered by first term in office. In ord
 
 Each speech of the corpus was annotated with an LLM run locally via Ollama #footnote[Ollama is an open-source platform for running and managing large language models on local GPU infrastructure. It provides a command-line interface, model-management tools, and integrations for using open-weight models with coding assistants and other applications. Website: #link("https://ollama.com/").] by its degrees of hate speech, aggressiveness, and negativity (either _low_, _mid_, or _high_), as well as whether they target a specific group or not (possible target groups are political adversaries, gender minorities, ethnic minorities, and religious minorities). 
 
+==== Model Choice
   
 To choose the best model, I first compiled a validation set containing 207 speeches #footnote[Validation set is found at: _~crossdem/datasets/prime_ministers_validation_]. Since most #pms' speeches have very low hostility values #footnote[I previously defined the term "hostility" as the compound metric of hate speech, aggressiveness, and negativity.], and almost none are targeting any minority group, a candidate model could perform very well by always predicting low hostility and no target for each speech. To mitigate this, I generated 100 high-hostility and highly toxic synthetic speeches with the frontier model Gemini 3.6 Flash via its online chat. I prompted the model to have at least "mid" values for hate speech, aggressiveness, and negativity, and so that each speech targets one of the four possibile targets. The full prompt can be seen in appendix @appx:generate_synth_speeches. \
-The remaining 107 speeches were taken from the dataset, annotated with Claude Sonnet 4 and Gemini Flash 3.6 via their online chat interfaces, and manually checked by me.
+The remaining 107 speeches were taken from the dataset, annotated with Claude Sonnet 4 and Gemini Flash 3.6 via their online chat interfaces, and checked manually. The resulting validation set has 207 gold labeled speeches.
 
-I compared eight different models, and I choose the best one based on the Choen's Kappa, meaning by their degree of agreement with the gold labels. I choose this metric because it is more robust than simple percent agreement calculation, as it incorporates the possibility of the agreement occurring by chance. The models with respective Kappa values are shown in table @tab:llm_comparison_kappa. To see all the other metrics (macro averaging for accuracy, precision, recall, and F1) refer to the table in appendix @appx:llm_comparison
+I compared eight different models, and I choose the best one based on the Choen's Kappa, meaning by their degree of agreement with the gold labels. I choose this metric because it is more robust than simple percent agreement calculation, as it incorporates the possibility of the agreement occurring by chance. Since the ordinal labels (hate speech, negativity, and aggressiveness) have strong differences between their levels (a speech with a _"low"_  level hate speech is very different from a speech with _"mid"_ or _"high_ levels of hate speech) I used the quadratic-weighted $kappa$ for them, which penalizes large disagreements disproportionately. For target, whose categories have no order nor distance, I kept the plain unweighted $kappa$. The models with their respective Kappa values are shown in table @tab:llm_comparison_kappa. \
+Table @tab:llm_best show the best models for each metric (Choen's Kappa, accuracy, macro precision, macro recall, macro F1). We can see that `gemma4:e4b` performs best in almost all situations. To see all values of all metrics refer to the table in appendix @appx:llm_comparison. \
+It is interesting to note how Qwen 2.5, despite being two years older than both Qwen 3.5 and Gemma 4 (released respectively in February and in April 2026) outperforms them for negativity in three metrics: Choen's Kappa, Accuracy and Macro F1.
 
-The following models were too big to fit: ......
-Thus i choose to use ......
+
+Four models fully fit in the VRAM of my GPU: `qwen2.5:7b-instruct-q4_K_M`, `mistral:7b-instruct-v0.3-q4_K_M`, `qwen3.5:4b`, and `gemma4:e4b`. The other models get split between GPU and CPU, making them unsuitable for this project since it slows down token generation considerably: with 6,038 speeches to classify I choose to use only models that can run fully in the GPU.
+
+Let's now briefly talk about _thinking models_. Wu et al. in 2024 @wu_thinking_2024 proposed the idea of forcing a LLM to iterate trough a set of possibile answers which are then scored by a judge. This way the model simulate a reasoning process, ultimately achieving a better output. \
+The only model I benchmarked with the thinking functionality enabled is `gemma4:e4b`. Mistral 0.3 and Qwen 2.5 don't have the functionality in the first place, and models too big to fit in the VRAM would have been slowed down even further. `qwen3.5:4b`, on the other hand, displayed a faulty behaviour: with "thinking" enabled the model burned trough all its budget of tokens, never converging to an answer.
+
+Ultimately, due to its great performance both in terms of classification precision and speed generation, I decided to use the model `gemma4:e4b` with thinking disabled to classify negativity and aggressiveness, and with thinking enabled to classify hate speech and target.
 
 
 #v(1em)
@@ -1001,11 +1010,182 @@ text(fill:white)[*Model*], text(fill:white)[*Thinking*], text(fill:white)[*Hate 
     [`gemma4:e4b`], [on], [*0.538*], [0.139], [0.246], [*0.869*],
 table.hline(stroke: 0.5pt),
   ),
-caption: [Agreement between model predictions and gold labels on the 207 validation speeches, measured by Cohen's $kappa$. Quadratic-weighted $kappa$ is used for the ordinal labels (hate speech, negativity, aggressiveness) and unweighted $kappa$ for target. Values in bold mark the best result per label and the configuration adopted for `gemma4:e4b`: thinking on for hate speech and target, thinking off for negativity and aggressiveness. Models are identified by their Ollama tags; thinking mode does not apply to qwen2.5 and mistral (`-`).]
+caption: [Agreement between candidate models predictions and gold labels on the 207 validation speeches, measured by Cohen's $kappa$. Quadratic-weighted $kappa$ is used for the ordinal labels (hate speech, negativity, aggressiveness) and unweighted $kappa$ for target. Values in bold mark the best results per label. Models are identified by their Ollama tags. Thinking mode does not apply to Qwen 2.5 and Mistral (`-`).]
 ) <tab:llm_comparison_kappa>
 ]
 #v(1em)
 
+#v(1em)
+#[
+#show figure: set block(breakable: true)
+#let b(v, m) = [#v \ #text(size: 7pt)[#m]]
+#figure(
+table(
+columns: (auto, auto, auto, auto, auto, auto),
+align: center + horizon,
+stroke: none,
+inset: 5pt,
+fill: (col, row) => {
+if row == 0 { rgb("#B5001B") }
+else if calc.rem(row, 2) == 0 { rgb("#B5001B33") }
+else { white }
+    },
+table.hline(stroke: 0.5pt),
+text(fill:white)[*Label*], text(fill:white)[*$kappa$*], text(fill:white)[*Accuracy*], text(fill:white)[*Macro Precision*], text(fill:white)[*Macro Recall*], text(fill:white)[*Macro F1*],
+[Hate speech],
+b[0.538][`gemma4:e4b` (on)],
+b[0.826][`gemma4:e4b` (on)],
+b[0.819][`gemma4:e4b` (on)],
+b[0.777][`gemma4:e4b` (on)],
+b[0.773][`gemma4:e4b` (on)],
+[Negativity],
+b[0.297][`qwen2.5:7b-instruct-q4_K_M`],
+b[0.570][`qwen2.5:7b-instruct-q4_K_M`],
+b[0.620][`qwen3.5:4b-q8_0`],
+b[0.625][`gemma4:12b`],
+b[0.566][`qwen2.5:7b-instruct-q4_K_M`],
+[Aggressiveness],
+b[0.476][`gemma4:e4b` (off)],
+b[0.691][`qwen3.5:4b`, `gemma4:e4b` (off)],
+b[0.736][`qwen3.5:4b`],
+b[0.736][`qwen3.5:4b`],
+b[0.690][`gemma4:e4b` (off)],
+[Target],
+b[0.869][`gemma4:e4b` (on)],
+b[0.903][`gemma4:e4b` (on)],
+b[0.942][`gemma4:e4b` (on)],
+b[0.927][`gemma4:e4b` (on)],
+b[0.930][`gemma4:e4b` (on)],
+table.hline(stroke: 0.5pt),
+  ),
+caption: [Best result per label and metric across all models and thinking settings on the 207 validation speeches. Each cell reports the best value and the model (Ollama tag) that achieved it. If a model was tested with thinking enabled and with thinking disabled, the setting is given in brackets. Cohen's $kappa$ is quadratic-weighted for hate speech, negativity and aggressiveness, and unweighted for target.]
+) <tab:llm_best>
+]
+#v(1em)
+
+==== Annotation Pipeline
+
+To run the pipeline and annotate the whole corpus, just run the script `~/crossdem/source/classifier.py`. Make sure to have the dependencies listed in `~/crossdem/requirements.txt`, and the Ollama model `gemma4:e4b` (link: #link("https://ollama.com/library/gemma4:e4b")).
+
+#v(1em)
+
+Each speech is labelled on four dimensions: hate speech, negativity, aggressiveness and target. The first three can be either _low_, _mid_ or _high_, while the target can be either _none_, _pol_adv_ (political adversaries), _minor_etn_ (ethnic minorities), _minor_gnd_ (gender minorities), and _minor_rel_ (religious minorities).
+
+The four dimensions are split in two groups, each with its own system prompt (full prompts can be seen in listing @appx:classify_prompts): one prompt for hate speech and target (fed to the model with thinking enabled), and one prompt for negativity and aggressiveness (fed to the model with thinking disabled). The prompts are written in Italian, each containing the definition of the two dimensions they consider, as well as three examples for each level the dimension. Hate speech, negativity, and aggressiveness have each three examples for _low_, three examples for _mid_, and three examples for _high_, and target has three examples for each target group. The models are instructed to answer only with a JSON object, and the desired formatting is provided. The speech is then passed as user message.
+
+The function `classify_one` (@code:classify_one) sends a speech to the model and returns the labels. The output is constrained by a JSON schema (@code:classify_config) that restricts each field to its allowed values. The temperature is kept to zero, and the context window is $35,000$ tokens, which is big enough to contain both the longest speech of the corpus as well as the tokens needed by the _"thinking"_ phase at the same time. I choose this size after some manual testing: the default context window of 4,096 tokens requires 4,262 MiB of VRAM, and the model do not converge to an answer since it runs out of tokens. The prompt is 1,449 tokens long, and the longest speech in the corpus is 20,196 tokens long (both values taken with Spacy). A context window that includes both, plus a 20% buffer would need 24,226 tokens. With a context window size of 27,000 tokens the model requires 4,556 MiB of VRAM and does not converge to an answer, so I increased the context window to 30,000 tokens, which requires 4,596 MiB of VRAM and affords enough room for the model to converge to an answer. Since the increase in VRAM is negligible I decided to use a context window of 35,000 tokens, which requires 4,662 MiB of VRAM and, of course, affords the model enough room to converge to an answer.  
+
+The number of generated tokens is unlimited. The response is parsed as JSON and its values are checked against the allowed ones. If the call or the check fails, it is retried up to three times. The wrappers `classify_think` and `classify_nothink` call the classification function with the appropriate parameters.
+
+#figure(
+  sourcecode(
+```python
+LEVEL_VALUES = ["low", "mid", "high"]
+TARGET_VALUES = ["none", "pol_adv", "minor_etn", "minor_gnd", "minor_rel"]
+
+THINK_COLS = ["hate_speech", "target"]            # think enabled
+NOTHINK_COLS = ["negativity", "aggressiveness"]   # think disabled
+LABEL_COLS = ["hate_speech", "negativity", "aggressiveness", "target"]
+
+OLLAMA_MODEL = "gemma4:e4b"
+RETRIES = 3
+RETRY_SLEEP_S = 2
+
+client = Client()
+
+JSON_SCHEMA_THINK = {
+    "type": "object",
+    "properties": {
+        "hate_speech": {"type": "string", "enum": LEVEL_VALUES},
+        "target": {"type": "string", "enum": TARGET_VALUES},
+    },
+    "required": THINK_COLS,
+}
+# JSON_SCHEMA_NOTHINK is the same, with negativity and aggressiveness
+```
+  ), caption: "Label values, model settings and output schema"
+) <code:classify_config>
+
+#figure(
+  sourcecode(
+```python
+def classify_one(text, model, system_prompt, schema, valid_cols, think):
+    for attempt in range(1, RETRIES + 1):
+        try:
+            resp = client.chat(
+                model=model,
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": text},
+                ],
+                format=schema,  # forces the response to a JSON schema
+                think=think,    # true if enabled
+                options={"temperature": 0, "num_ctx": 35000,
+                         "num_predict": -1},
+            )
+            parsed = json.loads(resp["message"]["content"])
+            for col, allowed in valid_cols.items():
+                assert parsed[col] in allowed
+            return parsed
+        except Exception as e:
+            print(f"attempt {attempt}/{RETRIES} failed: {e}")
+            time.sleep(RETRY_SLEEP_S)
+    return None
+
+def classify_think(text):
+    return classify_one(
+        text, OLLAMA_MODEL, SYSTEM_PROMPT_THINK, JSON_SCHEMA_THINK,
+        {"hate_speech": LEVEL_VALUES, "target": TARGET_VALUES},
+        think=True,
+    )
+```
+  ), caption: "Classifying a single speech."
+) <code:classify_one>
+
+The classification is run in two passes over the whole corpus, one per prompt, by `run_pass` (@code:run_pass). The files to process are the CSV files of the speeches of each #pm, read with `csv.DictReader`. For each row (all files have only one row), the function `needs_fn` checks whether any label is missing. If so, and if the row has text, the speech is classified and the row is updated with the labels. A file is rewritten only after all its rows have been processed, and only if at least one row changed. 
+
+Each pass uses a single reasoning mode for the whole corpus, instead of switching mode from row to row #footnote[This is not necessary if you don't switch model  every time (e.g., between `gemma4:e4b` and `qwen3.5:4b`), which I originally intended to do and has a lot of overhead.]. A speech with all four labels is skipped by both passes, and a speech for which all the retries fail is left unlabelled. The script can therefore be interrupted and run again, and it only fills in what is missing. 
+
+In the end, all speeches were classified first try, without any error what so ever.
+
+#figure(
+  sourcecode(
+```python
+def _cols_missing(row, cols):
+    return any(str(row.get(c) or "").strip() == "" for c in cols)
+
+def needs_think_classification(row):
+    return _cols_missing(row, THINK_COLS)
+
+def needs_nothink_classification(row):
+    return _cols_missing(row, NOTHINK_COLS)
+
+def run_pass(files, needs_fn, classify_fn):
+    for path in files:
+        rows, fieldnames = read_speech_csv(path)
+        file_changed = False
+
+        for row in rows:
+            if not needs_fn(row):
+                continue
+            text = (row.get("text") or "").strip()
+            if not text:
+                continue
+            result = classify_fn(text)
+            if result is not None:
+                row.update(result)
+                file_changed = True
+
+        if file_changed:
+            write_speech_csv(path, rows, fieldnames)
+
+def main():
+    files = find_speech_files()
+    run_pass(files, needs_think_classification, classify_think)
+    run_pass(files, needs_nothink_classification, classify_nothink)
+```
+  ), caption: "Labelling the corpus in two passes."
+) <code:run_pass>
 
 === V-DEM <sec:vdem>
 

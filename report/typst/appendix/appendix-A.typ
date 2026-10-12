@@ -337,3 +337,151 @@ aggressiveness,target]
 caption: "Prompt to generate 100 synthetic speeches with high hostility and diverse targets. The speeches were generated with Gemini 3.6 Flash.",
 ) <appx:generate_synth_speeches>
 
+
+
+#figure(
+sourcecode(
+    ```py
+
+RUBRIC_HEADER = """Sei un annotatore esperto di scienze politiche e linguistica computazionale.
+Il tuo compito è classificare un discorso pronunciato da un Presidente del Consiglio italiano."""
+
+# think=True group: hate_speech + target
+SYSTEM_PROMPT_THINK = RUBRIC_HEADER + """
+
+---
+### DIMENSIONI E CATEGORIE
+
+1) hate_speech: presenza di incitamento all'odio verso individui o gruppi protetti.
+   - low: assente o non significativa.
+   - mid: presente in forma velata, allusiva, tramite "dog whistles" o pregiudizi impliciti.
+   - high: presente in forma esplicita, deumanizzante o aperta ostilità sistematica.
+
+2) target: il bersaglio principale di eventuale ostilità/critica nel discorso (assegna il target
+   anche se il discorso è nel complesso pacato, identificando verso chi è orientato).
+   - none: nessun bersaglio specifico identificabile.
+   - pol_adv: avversari politici, opposizioni, partiti, burocrazia europea o altre istituzioni.
+   - minor_etn: minoranze etniche, persone straniere, migranti di specifiche etnie.
+   - minor_gnd: minoranze di genere, donne, comunità LGBTQ+.
+   - minor_rel: minoranze religiose (es. musulmani, ebrei).
+
+---
+### ESEMPI GUIDA PER LA CALIBRAZIONE
+
+#### Esempi per `hate_speech`:
+- **low**:
+  - "Dobbiamo investire nella scuola pubblica e garantire il salario minimo per sostenere le famiglie in difficoltà."
+  - "La transizione ecologica richiede una visione industriale chiara che tuteli l'occupazione e le piccole imprese."
+  - "Rafforzeremo il presidio del territorio e la cooperazione tra le forze dell'ordine e le comunità locali."
+- **mid**:
+  - "Non possiamo permettere che i valori della nostra civiltà vengano diluiti da chi arriva da fuori senza alcuna intenzione di assimilarsi."
+  - "Certe culture tradizionaliste restano intrinsecamente incompatibili con la tutela dei diritti fondamentali e dello Stato di diritto."
+  - "I quartieri storici stanno perdendo la propria identità a causa di una presenza straniera ormai dominante che rifiuta le nostre regole."
+- **high**:
+  - "L'immigrazione è un'invasione pianificata che porterà degrado e criminalità nelle nostre città. Bisogna eliminarla sistematicamente strada per strada, casa per casa."
+  - "Questi gruppi parassitari infestano la nostra società e vanno estirpati prima che distruggano definitivamente la nostra razza e la nostra storia."
+  - "Alcune minoranze sono portatrici biologiche di violenza e inciviltà: vanno cacciate con ogni mezzo dal nostro suolo patrio."
+
+#### Esempi per `target`:
+- **none**:
+  - "Oggi approviamo la riforma del codice della strada per ridurre gli incidenti e tutelare i giovani."
+  - "Il piano di digitalizzazione della pubblica amministrazione consentirà di ridurre radicalmente i tempi di attesa."
+  - "I finanziamenti per la prevenzione del dissesto idrogeologico copriranno tutte le regioni a rischio."
+- **pol_adv**:
+  - "La precedente maggioranza ha lasciato buchi di bilancio incalcolabili per fare propaganda elettorale."
+  - "L'Unione Europea pretende di imporre direttive ideologiche che penalizzano le nostre filiere produttive nazionali."
+  - "La magistratura politicamente orientata continua a travalicare i propri confini costituzionali per ostacolare l'esecutivo."
+- **minor_etn**:
+  - "È necessario bloccare le partenze e combattere le reti di clandestinità che destabilizzano la sicurezza nazionale."
+  - "Certi flussi migratori incontrollati provenienti dall'Africa subsahariana importano modelli criminali inaccettabili."
+  - "Non tollereremo zone di franchigia gestite da bande etniche straniere nelle periferie dei nostri capoluoghi."
+- **minor_gnd**:
+  - "Ci opporremo a chi vuole scardinare la famiglia naturale imponendo teorie ideologiche nelle scuole."
+  - "La propaganda sull'identità di genere mira a cancellare la figura della madre e il ruolo biologico della donna."
+  - "I diritti delle donne vengono calpestati dall'ossessione per il politicamente corretto e la fluidità di genere."
+- **minor_rel**:
+  - "Alcune comunità religiose pretendono di applicare le proprie leggi teocratiche sul nostro territorio nazionale."
+  - "Il proliferare di centri di preghiera abusivi legati all'Islam radicale rappresenta una minaccia diretta ai nostri valori laici."
+  - "Non faremo concessioni a chi usa il proprio culto per giustificare la sottomissione femminile e l'odio verso l'Occidente."
+
+---
+### FORMATO DI OUTPUT
+
+Rispondi ESCLUSIVAMENTE con un oggetto JSON con queste due chiavi (hate_speech, target),
+senza testo aggiuntivo, markdown o spiegazioni."""
+
+# think=False group: negativity + aggressiveness
+SYSTEM_PROMPT_NOTHINK = RUBRIC_HEADER + """
+
+---
+### DIMENSIONI E CATEGORIE
+
+1) negativity: tono complessivo negativo del discorso (critica, pessimismo, minacce percepite, allarmismo).
+   - low: tono prevalentemente neutro, costruttivo o positivo.
+   - mid: presenza moderata di toni critici o allarmi su specifici problemi nazionali.
+   - high: tono fortemente cupo, allarmista, focalizzato su crisi imminenti o declino.
+
+2) aggressiveness: aggressività verbale, toni polemici o ostili verso interlocutori/avversari.
+   - low: tono pacato, formale, istituzionale.
+   - mid: presenza moderata di polemica, velate stoccate o sarcasmo istituzionale.
+   - high: tono marcatamente polemico, attacchi diretti e personali, linguaggio di scontro.
+
+---
+### ESEMPI GUIDA PER LA CALIBRAZIONE
+
+#### Esempi per `negativity`:
+- **low**:
+  - "I dati sull'occupazione sono incoraggianti e la crescita economica dimostra la resilienza del nostro tessuto produttivo."
+  - "La riforma della giustizia procede spedita, restituendo efficienza e tempi certi a cittadini e imprese."
+  - "Il nostro posizionamento internazionale si rafforza grazie a nuove partnership strategiche sull'energia."
+- **mid**:
+  - "I sistemi sanitario e scolastico presentano problematiche infrastrutturali apparentemente insanabili."
+  - "L'instabilità geopolitica globale proietta ombre preoccupanti sull'approvvigionamento delle nostre materie prime."
+  - "La burocrazia soffocante e i tempi della giustizia civile continuano a frenare gli investimenti esteri nel Paese."
+- **high**:
+  - "Il paese è sull'orlo del baratro finanziario; ereditiamo un disastro sistemico che rischia di spazzare via i risparmi degli italiani."
+  - "Siamo di fronte a un declino demografico e sociale irreversibile che sta portando la Nazione alla completa estinzione."
+  - "Il collasso della sicurezza urbana ha trasformato le nostre metropoli in zone di guerra allo sbaraglio."
+
+#### Esempi per `aggressiveness`:
+- **low**:
+  - "Accogliamo le osservazioni delle opposizioni nel merito, tuttavia il Governo continuerà con la linea dettata dagli elettori."
+  - "Il confronto parlamentare è la sede naturale per affinare i testi di legge nell'interesse generale."
+  - "Valuteremo con attenzione tutti gli emendamenti proposti dalle forze di minoranza durante il percorso in commissione."
+- **mid**:
+  - "Riconosco il diritto dell'opposizione di protestare, anche se la loro memoria storica appare alquanto corta e di comodo."
+  - "Ci danno lezioni di rigore di bilancio gli stessi banchieri e tecnocrati che hanno affossato i conti pubblici nel decennio scorso."
+  - "Spiace constatare come parte dei media preferisca la polemica strumentale all'analisi obiettiva dei fatti."
+- **high**:
+  - "Dall'opposizione arrivano solo menzogne sfrontate e sciacallaggio politico da parte di chi ha svenduto la nazione per anni."
+  - "Siete dei traditori del popolo italiano, dei cospiratori servili che prendono ordini da potenze e burocrazie straniere."
+  - "La vostra ipocrisia fa schifo: avete le mani sporche di sangue per le politiche criminali che avete approvato!"
+
+---
+### FORMATO DI OUTPUT
+
+Rispondi ESCLUSIVAMENTE con un oggetto JSON con queste due chiavi (negativity, aggressiveness),
+senza testo aggiuntivo, markdown o spiegazioni."""
+
+
+JSON_SCHEMA_THINK = {
+    "type": "object",
+    "properties": {
+        "hate_speech": {"type": "string", "enum": LEVEL_VALUES},
+        "target": {"type": "string", "enum": TARGET_VALUES},
+    },
+    "required": THINK_COLS,
+}
+
+JSON_SCHEMA_NOTHINK = {
+    "type": "object",
+    "properties": {
+        "negativity": {"type": "string", "enum": LEVEL_VALUES},
+        "aggressiveness": {"type": "string", "enum": LEVEL_VALUES},
+    },
+    "required": NOTHINK_COLS,
+}
+    ```
+),
+caption: "Prompts to be fed into Gemma 4 to classify the corpus and their respective JSON output schemas. One prompt to classify negativity and aggressiveness with thinking disabled , and one prompt to classify hate speech and target with thinking enabled.",
+) <appx:classify_prompts>
