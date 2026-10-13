@@ -38,35 +38,9 @@ It is a collection of parliamentary sittings split into utterances. An example o
 
 Speeches are collected before being split into their own datasets, and for each speech we have, among others, a unique ID and a date, the type of speech (e.g., _Interview_ or _Rally_), the venue channel (e.g., _BBC News_), the unique ID of the speaker and their role (e.g., _host_ or _main speaker_), the text of the speech itself and its type (e.g., _Question_, _Answer_, _Interruption_) and whether there have been any _Incidents_ and their types.
 
-Incidents are breaks in the flow of the conversation, and they can be of different types#footnote[Full list of incident types: "action", "incident", "leaving", "entering", "break", "pause", "sound", "editorial".], for example _"leaving"_ or _"break"_. If an incident is of the kinesic type, it can be further subdivided into different kinesic types, such as _"applause"_ or _"laughter"_#footnote[Full list of kinesic types: "kinesic", "applause", "ringing", "signal", "playback", "gesture", "smiling", "laughter", "snapping", "noise".]. If the incident is of the vocal type, it can be further subdivided into different vocal types, such as _"question"_ or _"shouting"_#footnote[Full list of vocal types: "greeting", "question", "clarification", "speaking", "interruption", "exclamat", "laughter", "shouting", "murmuring", "noise", "signal".].
-
-Speakers and Parties also have their own datasets, with unique IDs, names, affiliations, roles and the like.
+Incidents are breaks in the flow of the conversation, and they can be of different types#footnote[Full list of incident types: "action", "incident", "leaving", "entering", "break", "pause", "sound", "editorial".], for example _"leaving"_ or _"break"_. If an incident is of the kinesic type, it can be further subdivided into different kinesic types, such as _"applause"_ or _"laughter"_#footnote[Full list of kinesic types: "kinesic", "applause", "ringing", "signal", "playback", "gesture", "smiling", "laughter", "snapping", "noise".]. If the incident is of the vocal type, it can be further subdivided into different vocal types, such as _"question"_ or _"shouting"_#footnote[Full list of vocal types: "greeting", "question", "clarification", "speaking", "interruption", "exclamat", "laughter", "shouting", "murmuring", "noise", "signal".]. Speakers and Parties also have their own datasets, with unique IDs, names, affiliations, roles and the like.
 
 Overall, the taxonomy of ParlaMint is strongly codified, which makes the dataset machine-readable and easier to interpret. All data is also saved in XML format.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 == Corpus Structure <sec:my_corpus>
@@ -78,6 +52,8 @@ The corpus comprises speeches from twenty four out of the thirty one Italian Pri
     caption: "Italian Prime Ministers from 1946 to 2025 and their time in office. In grey Prime Ministers not included in the corpus. Colors will remain consistent throughout this work.")
     <fig:it_pms_timeline>
 ]
+#v(0.5em)
+
 
 Overall, collected data amounts to $6,038$ speeches, for a total of $15,185,640$ words. Table @tab:corpus_total surmise the overall corpus, while @tab:corpus_pms shows metrics for each Prime Minister. One important notice: speeches were collected for each Prime Minister as a person, meaning that the corpus contains all the speeches delivered by each Prime Minister regardless of whether they were in office or not at the moment of the speech. For example, Giorgia Meloni's speeches date as far back as the sixteen of October 2000, even though she became Prime Minister twenty-two years later on the twenty-first of October 2022. The rationale is that the corpus is meant to track political rhetoric as a whole: politicians capable of becoming Prime Ministers were chosen as representatives of the political spectrum and ideas they embody. This also facilitated data collection, affording a denser and more informative dataset.
 
@@ -174,6 +150,8 @@ Specifically, $3,936$ speeches (65.2%) are concentrated between 1995 and 2010, a
   caption: [Figure @fig:dataset_words show the number of words collected for the dataset over the span of eighty years. In green are words pertaining to #text(fill: rgb("#2CA02C"))[center-leaning] Prime Ministers, in red are words pertaining to #text(fill: rgb("#D62728"))[left-leaning] Prime Ministers, and in blue are words pertaining to #text(fill: rgb("#1F77B4"))[right-leaning] Prime Ministers. Figure @fig:dataset_tokens, on the other hand, shows the same data but in terms of tokens instead of whole words.],
   label: <fig:dataset>,
 )
+#v(0.5em)
+
 
 The structure of the dataset is as follows:
 #import "@preview/treet:0.1.1": *
@@ -187,20 +165,16 @@ The structure of the dataset is as follows:
             - speech_1.csv
             - speech_2.csv
             - ...
-        - pm_2/
-          - csv_out/
-            - speech_1.csv
-            - speech_2.csv
-            - ...
         - ...
         - pm_N/
           - csv_out/
             - ...
 ]
+#v(0.5em)
 
 Each speech (with few exceptions) is structured with the following fields: 
 - `politician`: the name of the Prime Minister who delivered the speech, in lower case without spaces or punctuation (e.g., "dalema" and not "D'Alema");
-- `historical_date`: the date when the speech was delivered, in the format _YYYY-MM-DD_;
+- `historical_date`: the date when the speech was delivered, in the format _yyyy-mm-dd_;
 - `location`: the location where the speech was delivered;
 - `title`: the title of the video from which the speech was retrieved;
 - `url`: the URL of the page from which the speech was retrieved;
@@ -211,9 +185,11 @@ Each speech (with few exceptions) is structured with the following fields:
 - `aggressiveness`: aggressiveness level, can be either `low`, `mid`, or `high`;
 - `target`: target of the speech, can be either `none` if there is no target, `pol_adv` for political adversaries, `minor_etn` for ethnic minorities, `minor_gnd` for gender minorities, or `minor_rel` for religious minorities;
 
-De Gasperi's corpus is structured differently, as it is not scraped but rather taken from a pre-existing dataset instead (section @sec:de_gasperi). Each speech has the following fields: `politician`, `historical_date`, `location`, `keywords` (extracted keywords about the speech itself),`text`, `hate_speech`, `negativity`, `aggressiveness`, `target`. 
+#v(1em)
 
-Some of Meloni's speeches also have a slightly different structure, as they were scraped from YouTube instead of Radio Radicale. They are easy to recognize in the dataset because all files that contain transcriptions of speeches scraped from Radio Radicale are in the form `123456_meloni_s2t.csv`, with the first characters being all numbers, while speeches scraped from YouTube are in the form `_DA9zjY_meloni_speech2text.csv`, with the first characters being a mix of letters, numbers, and symbols. Each of these speeches has the following fields: `politician`, `historical_date`, `location`, `tags` (tags of the YouTube video),`description` (description of the YouTube video),`title`, `url`, `audio_file`, `text`, `hate_speech`, `negativity`, `aggressiveness`, `target`.
+De Gasperi's corpus is structured differently, as it is not scraped but rather taken from a pre-existing dataset instead (section @sec:de_gasperi). Each speech has the following fields: `politician`, `historical_date`, `location`, `keywords` (extracted keywords about the speech itself), `text`, `hate_speech`, `negativity`, `aggressiveness`, and `target`. 
+
+Some of Meloni's speeches also have a slightly different structure, as they were scraped from YouTube instead of Radio Radicale. They are easy to recognize in the dataset because all files that contain transcriptions of speeches scraped from Radio Radicale are in the form `123456_meloni_s2t.csv`, with the first characters being all numbers, while speeches scraped from YouTube are in the form `_DA9zjY_meloni_speech2text.csv`, with the first characters being a mix of letters, numbers, and symbols. Each of these speeches has the following fields: `politician`, `historical_date`, `location`, `tags` (tags of the YouTube video), `description` (description of the YouTube video), `title`, `url`, `audio_file`, `text`, `hate_speech`, `negativity`, `aggressiveness`, `target`.
 
 
 
@@ -252,7 +228,7 @@ I would like to thank Sara Tonelli for providing me with the De Gasperi's Corpus
 The corpus is a collection of 2,762 documents issued between 1901 and 1954, formatted into XML files which include metadata that covers not only the title, the date and the place of publication, but also key-concepts automatically extracted from each text (with the corresponding relevance score) and genre labels manually assigned by domain experts. Furthermore, the release includes silver annotation for lemma, part of speech, person names and place names witPh associated coordinates in a CoNLL-like format. 
 
 An example of the XML formatting can be seen at listing @code:xml_degasperi.
-Thanks to the `\<genres\>` tag, I was able to extract 474 public speeches, each of which with a location, a precise date and a list of keywords.
+Thanks to the `<genres>` tag, I was able to extract 474 public speeches, each of which with a location, a precise date and a list of keywords.
 
 #figure(
   sourcecode(
@@ -347,16 +323,14 @@ if __name__ == "__main__":
   Example of the _"run"_ pipeline to scrape and transcribe all #pms from Radio Radicale.
 ]
 ) <code:scraper_run_main>
+#v(0.5em)
 
 Let's now explain the pipeline's main phases in greater detail.
-
-#let ems = 0.5em
-
 
 ===== Speeches URL Extraction
 
 
-Since most #pms have hundreds of speeches, selecting each one by hand (as I did for Giorgia Meloni's speeches on YouTube, section @sec:scraping_youtube) would be asinine. Instead, I wrote a function that, given the URL of a #pm's page on Radio Radicale, scrapes all the URLs of all their public speeches (parliamentary speeches are excluded).
+Since most #pms have hundreds of speeches, selecting each one by hand (as I did for Giorgia Meloni's speeches on YouTube, section @sec:scraping_youtube) would require too much time. Instead, I wrote a function that, given the URL of a #pm's page on Radio Radicale, scrapes all the URLs of all their public speeches (parliamentary speeches are excluded).
 
 In Radio Radicale's website, the speeches of each #pm can be filtered by categories (for example, "All" or "Interviews"). The categories to scrape are defined in the `CATEGORIES` dictionary, which maps each category name to its filter value. The _Istituzioni_ category is left out, as it contains the parliamentary speeches.
 
@@ -394,8 +368,11 @@ def _scrape_category(session, cat_value, SUBJECT_URL):
 ```
   ), caption: "Scraping the audio URLs of a single category"
 ) <code:scrape_category>
+#v(0.5em)
+
 
 The main function, `get_all_audio_urls` (listing @code:get_all_urls), calls `_scrape_category` on every category and merges the results. The same recording can appear under more than one category, and multiple times in the same category. Speeches URL are in the from _".../scheda/55884/...?i=00000"_, and by stripping everything after the key _"?"_ duplicates can be removed, since they point to the same _"scheda"_, meaning to the same speech. The function thus returns a list of unique URls, which point to all the speeches of the target #pm.
+
 
 #figure(
   sourcecode(
@@ -446,10 +423,12 @@ def extract_id_from_url(url):
 ```
   ), caption: "Helper functions to normalise a recording URL and extract its ID"
 ) <code:url_helpers>
+#v(0.5em)
 
 `yt-dlp` is called through `subprocess`. Spawning a process each time is not a big concern, since between downloading the speech (often one hour long if not more) and transcribing it, this operation is never done more than five to ten times per hour. Only the audio is downloaded (`-x`) and then converted to MP3 at the highest quality (`--audio-quality 0`). Recordings split into multiple parts are treated by `yt-dlp` as a playlist, so each part is saved with its playlist index in the file name, and `--concat-playlist always` merges the parts into a single file, which in the end overwrites all the previous parts so that only one file per speech remains.
 
 The metadata of the recording is fetched with a second call to `yt-dlp` (`--dump-json`), which does not download anything. The output is parsed as JSON, and an empty dictionary is used if the call or the parsing fails. The file name, the recording ID and the URL are added to the dictionary, which is returned to be used by other functions in the script.
+
 
 #figure(
   sourcecode(
@@ -531,6 +510,7 @@ def find_date(text):
 ```
   ), caption: "Parsing dates in the formats found on the pages"
 ) <code:date_helpers>
+#v(0.5em)
 
 The date of the event is extracted by `extract_page_date` (listing @code:page_date). The sources are checked from the most to the least reliable: the metadata tags, the page title, a date with abbreviated month in the page text, and a date with full month name in the page text. The function returns the date together with a label indicating which source it came from.
 
@@ -560,6 +540,7 @@ def extract_page_date(soup):
 ```
   ), caption: "Extracting the date of the event from the page"
 ) <code:page_date>
+#v(0.5em)
 
 Sometimes the date of the speech is explicitly mentioned (for example _"L'on. Fanfani a una conferenza stampa del 22 marzo 1962..."_), and it can be different to any other date fetched with `extract_page_date`. Since such dates are more precise, I extract them with `extract_speaker_date` (listing @code:speaker_date). The speaker-level date has the priority, and is thus used instead of the page-level date (if present).
 
@@ -593,13 +574,13 @@ def extract_speaker_date(soup, speaker):
   ), caption: "Extracting the date of the #pm's intervention"
 ) <code:speaker_date>
 
-*Location.* The location is read from the `primo_suffisso` element of the page by `extract_location`. A regular expression matches the uppercase name between two hyphens that precedes the time of the event (e.g. _- ROMA - 17:00_). If no location is found, or if it is the generic value `RADIO`, the location is set to `UNKNOWN`.
+
+#h(1.2em) *Location.* The location is read from the `primo_suffisso` element of the page by `extract_location`. A regular expression matches the uppercase name between two hyphens that precedes the time of the event (e.g. _- ROMA - 17:00_). If no location is found, or if it is the generic value `RADIO`, the location is set to `UNKNOWN`.
 
 *Timestamps.* Each video in Radio Radicale has a column associated with it that contains a list of all timestamps for each intervention of each speaker. An example HTML can be seen at appendix @appx:list_of_interventions.\
 Each intervention is a list item that contains, among others, the class _"durata"_ which stores the starting timestamp of an intervention and how long the intervention lasts (for example `<div class="durata"> 1:07 Durata: 16 min</div>`). The function `parse_timestamps` (listing @code:parse_timestamps) extracts the timestamps. \
 The start times are written in one of two ways: as time elapsed since the start of the recording (e.g., _0:30_ meaning half an hour since the start), or as the time of the day (e.g., _17:30_). In the second case, the start time is converted into the elapsed time format, meaning if starting time is _17:00_, and _intervention A_ starts at _17:30_, then _intervention A_ starting time is converted to _0:30_.\
 To differentiate between the two cases, the script looks at the start time of the first intervention. If its value is _0:00_, the format is considered elapsed time.
-
 
 #figure(
   sourcecode(
@@ -636,7 +617,8 @@ def parse_timestamps(li, is_clock_time=False, event_start=None):
   ), caption: "Parsing the identifier, start time and duration of an intervention"
 ) <code:parse_timestamps>
 
-*Main function.* `extract_speech_details` (listing @code:extract_details) combines the previous steps. It returns a dictionary with the page URL, the date and its source, the location and the list of the #pm's interventions. All the interventions of the #pm are collected, not only the first, and the match on the speaker name is case-insensitive. If the page cannot be fetched, the error is stored in the dictionary. If the #pm is not found among the interventions, the error is stored too. The date of the speech is the one found by `extract_speaker_date`, with the date of the event as fallback. When neither is found, the source is set to `llm_needed`, which flags the recording for separate handling. Thankfully, this was never needed while collecting the data.
+
+#h(1.2em) *Main function.* `extract_speech_details` (listing @code:extract_details) combines the previous steps. It returns a dictionary with the page URL, the date and its source, the location and the list of the #pm's interventions. All the interventions of the #pm are collected, not only the first, and the match on the speaker name is case-insensitive. If the page cannot be fetched, the error is stored in the dictionary. If the #pm is not found among the interventions, the error is stored too. The date of the speech is the one found by `extract_speaker_date`, with the date of the event as fallback. When neither is found, the source is set to `llm_needed`, which flags the recording for separate handling. Thankfully, this was never needed while collecting the data.
 
 #figure(
   sourcecode(
@@ -760,7 +742,7 @@ def trim_to_speaker(audio_filename, interventions, AUDIO_DIR):
 
 ===== Speech Transcription
 
-The trimmed audio is transcribed with OpenAI's Whisper library, which uses an encoder-decoder Transformer model. The model size I used is the _"medium"_#footnote[Whisper model sizes available are tiny, base, medium and large.], which at 5 GB fits within the total 6 GB of VRAM available in my RTX 4050 GPU. The model was instructed to predict Italian.
+The trimmed audio is transcribed with OpenAI's Whisper library, which uses an encoder-decoder Transformer model. The model size I used is the _"medium"_#footnote[Whisper model sizes available are tiny, base, medium and large.], which at 5 GB fits within the total 6 GB of VRAM available in my NVIDIA RTX 4050 GPU. The model was instructed to predict Italian.
 
 The difference in precision between the model sizes _tiny_ (which requires less than 1 GB of VRAM) and _medium_ is quite high, as shown in the following transcriptions of the same audio file:
 
@@ -932,7 +914,7 @@ else if calc.rem(row, 2) == 0 { rgb("#B5001B33") }
 else { white }
     },
 table.hline(stroke: 0.5pt),
-text(fill:white)[*PM*], text(fill:white)[*Correct (%)*], text(fill:white)[*$frac("# Below Treshold","# Speeches")$*], text(fill:white)[*Mean Similarity*],
+text(fill:white)[*PM*], text(fill:white)[*Above Threshold (%)*], text(fill:white)[*$frac("# Below Treshold","# Speeches")$*], text(fill:white)[*Mean Similarity*],
     [De Gasperi], [86.7], [63/473], [0.67],
     [Fanfani], [95.2], [1/21], [0.70],
     [Leone], [83.3], [1/6], [0.63],
@@ -1036,7 +1018,7 @@ else if calc.rem(row, 2) == 0 { rgb("#B5001B33") }
 else { white }
     },
 table.hline(stroke: 0.5pt),
-text(fill:white)[*Label*], text(fill:white)[*$kappa$*], text(fill:white)[*Accuracy*], text(fill:white)[*Macro Precision*], text(fill:white)[*Macro Recall*], text(fill:white)[*Macro F1*],
+text(fill:white)[*Label*], text(fill:white)[*$kappa$*], text(fill:white)[*Accuracy*], text(fill:white)[*Macro\ Precision*], text(fill:white)[*Macro Recall*], text(fill:white)[*Macro F1*],
 [Hate speech],
 b[0.538][`gemma4:e4b` (on)],
 b[0.826][`gemma4:e4b` (on)],
@@ -1178,12 +1160,12 @@ def classify_think(text):
   ), caption: "Classifying a single speech."
 ) <code:classify_one>
 ]
+#v(0.5em)
+
 
 The classification is run in two passes over the whole corpus, one per prompt, by `run_pass` (@code:run_pass) which processes the CSV files of the speeches of each #pm, read with `csv.DictReader`. For each row (all files have only one row), the function `needs_fn` checks whether any label is missing. If so, and if the row has text, the speech is classified and the row is updated with the labels. The file is rewritten only after all its rows have been processed, and only if at least one row has changed. 
 
-Each pass uses a single reasoning mode for the whole corpus, instead of switching modes once per speech #footnote[This is not necessary if you don't switch models  every time (e.g., between `gemma4:e4b` and `qwen3.5:4b`), which I originally intended to do. Model switching has a lot of overhead, requiring (on my machine) around twenty seconds.]. A speech with all four labels is skipped by both passes, and a speech for which all the retries fail is left unlabelled. The script can therefore be interrupted and run again, and it only fills in what is missing. 
-
-In the end, all speeches were classified one the first try.
+Each pass uses a single reasoning mode for the whole corpus, instead of switching modes once per speech #footnote[This is not necessary if you don't switch models  every time (e.g., between `gemma4:e4b` and `qwen3.5:4b`), which I originally intended to do. Model switching has a lot of overhead, requiring (on my machine) around twenty seconds.]. A speech with all four labels is skipped by both passes, and a speech for which all the retries fail is left unlabelled. The script can therefore be interrupted and run again, and it only fills in what is missing. In the end, all speeches were classified one the first try.
 
 #figure(
   sourcecode(
@@ -1242,18 +1224,9 @@ V-Dem distinguishes between _indicators_—lower-level data that is often not no
 
 There are four datasets: _Coder-Level_, with raw data and 273 indicators intended for the experts; _CD Country-Date_, with day-to-day granularity, 531 indicators, and 95 aggregated indices; _CY Country-Year_, with year-level granularity, 5 indices, 93 sub-indices, and 179 indicators; and lastly, _CY Full + Others_, with year-level granularity, 531 indicators, 251 indices, and 62 external indicators.
 
-I must use the _CD Country-Date_ dataset (version 16, released in March 2026) since, to keep track of Italian governments, year-level granularity is not enough. This is evident from @fig:italyPms: half of Italy's governments lasted less than a year.
+I used the _CD Country-Date_ dataset (version 16, released in March 2026) since, to keep track of Italian governments, year-level granularity is not enough. This is evident from figure @fig:it_pms_timeline: half of Italy's governments lasted less than a year.
 
-#figure(
-  image(
-    "../images/italian_prime_ministers.jpg",
-    width: 70%,
-    alt: "All Italian Prime Ministers shown by their days in charge.",
-  ),
-  caption: [Italian Prime Ministers for each Italian Republic, from the first (1946) to the latest (2025).],
-) <fig:italyPms>
-
-The dataset covers Italy (ID 82) between 1861 and 2025, France (ID 76) between 1789 and 2025, and the U.S. (ID 20) between 1789 and 2025.
+The dataset covers Italy (ID 82) between 1861 and 2025.
 
 Useful identifiers include: `country_id`, unique for each country; `country_text_id`, ISO 3166-1 alpha-2 country codes (e.g., _IT_, _FR_); `historical_date`, in _YYYY-MM-DD_ format, used for election-date-specific variables (all other variables use January 1st); and `gapstart` and `gapend`, representing time periods where no data is available.
 

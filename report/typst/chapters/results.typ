@@ -3,8 +3,8 @@
 #pagebreak(to:"odd")
 
 
-#set heading(numbering:"1.")
-#set math.equation(numbering: "1.", supplement: none)
+//#set heading(numbering:"1.")
+//#set math.equation(numbering: "1.", supplement: none)
 
 
 
@@ -309,7 +309,7 @@ Italian prime minister seem to be overall a bit aggressive and negative, and the
 
 This does not seem to change over time, failing to explain the VDEM indices drop in 2021.
 
-
+/*
 #include "../bibliography/bibliography.typ"
 
 
