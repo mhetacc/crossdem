@@ -2,6 +2,12 @@
 #import "../config/thesis-config.typ": *
 #pagebreak(to:"odd")
 
+
+#set heading(numbering:"1.")
+#set math.equation(numbering: "1.", supplement: none)
+
+
+
 = Results <ch:results>
 
 == Textual Complexity <sec:res_textual_complexity>
@@ -302,3 +308,11 @@ Thankfully, Italian Prime Minister apparently do not target minorities often.
 Italian prime minister seem to be overall a bit aggressive and negative, and they speak more often then not about the opposition. Almost no traces of hate speech and attacks against minority groups are found in the data.
 
 This does not seem to change over time, failing to explain the VDEM indices drop in 2021.
+
+
+#include "../bibliography/bibliography.typ"
+
+
+#include "conclusions.typ"
+#include "future_works.typ"
+#include "../appendix/appendix-A.typ"

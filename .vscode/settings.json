@@ -90,4 +90,5 @@
     ],
     "editor.wordWrap": "on",
     "cSpell.enabled": true,
+    "editor.fontSize": 19
 }
