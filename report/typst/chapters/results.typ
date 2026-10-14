@@ -1,24 +1,24 @@
 #import "../config/variables.typ": *
 #import "../config/thesis-config.typ": *
-#pagebreak(to:"odd")
+//#pagebreak(to:"odd")
 
 
-//#set heading(numbering:"1.")
-//#set math.equation(numbering: "1.", supplement: none)
+#set heading(numbering:"1.")
+#set math.equation(numbering: "1.", supplement: none)
 
 
 
 = Results <ch:results>
 
+This chapter will present the results from the analysis on the dataset. 
+
 == Textual Complexity <sec:res_textual_complexity>
-
-=== Measure of Textual Lexical Diversity <sec:mtld>
-
-Measure of Textual Lexical Diversity (MTLD) is a metric used to assess the diversity of vocabulary in a text. It calculates the average length of sequences of words that maintain a certain level of lexical diversity, providing insights into the richness and variety of language used in the text. yada yada
 
 === Prime Minister's MTLDs <sec:mtld_pms> 
 
 ==== Boxplot of MTLD Values for Each Italian Prime Minster <sec:mtld_pms_boxplot>
+
+Figure @fig:mtld_boxplot_pms show that lexical diversity, as measured by MTLD, varies considerably across Prime Ministers, with the overall median of 97.27 acting as a useful reference line against which individual distributions can be read: De Gasperi stands out as the clearest departure, with a median of roughly 138 and an interquartile range spanning approximately 116 to 166, the widest of the corpus, whereas Andreotti, Spadolini, Dini and Monti form a second, more moderate group whose medians sit between roughly 105 and 116, clearly above the reference line, and the remaining Prime Ministers cluster close to or slightly below it, with Cossiga and Letta (both around 84–85) at the lower end. The evolution over time is not monotonic: there is no steady rise or decline from the postwar period to the present, but rather an alternation of higher- and lower-diversity governments, so that any temporal pattern, should one exist, is weak compared with the differences between individuals [Spearman ρ = …, 95% CI …]. Dispersion also differs markedly, from the very narrow distributions of Monti and De Mita (IQR ≈ 20 and ≈ 17) to the broad ones of De Gasperi and Spadolini, and the long tails of Andreotti, Berlusconi and D'Alema suggest a heterogeneous speaking repertoire, ranging from formal parliamentary address to shorter, more improvised interventions. That these differences are not merely visual impressions is supported by a Kruskal–Wallis test [H(14) = …, p = …, ε² = …], with the Prime Minister accounting for about [ICC = …]% of the total variance in MTLD, while post-hoc comparisons (Dunn, Holm-corrected) show that [x of 105] pairs differ significantly, of which [y] have at least a small effect size (|δ| > 0.147).
 
 #subpar.grid(
   rows: 2,
@@ -309,7 +309,7 @@ Italian prime minister seem to be overall a bit aggressive and negative, and the
 
 This does not seem to change over time, failing to explain the VDEM indices drop in 2021.
 
-/*
+
 #include "../bibliography/bibliography.typ"
 
 
