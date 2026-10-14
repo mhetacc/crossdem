@@ -889,13 +889,17 @@ Each video is processed immediately after being retrieved, and until it has been
 
 
 
-==== Scraping Sanity Check <sec:sanity_check>
+==== Scraping Sanity Check and Cleanup <sec:sanity_check>
 
 Since the whole pipeline is fully automatic, it is necessary to verify the correctness of the resulting corpus. By "correct" I mean to say that the transcribed texts of a #pm are in fact transcriptions of their speeches and not of someone else's (in section @sec:scraping we mentioned how the audio files often contain more than one speaker). This problem is commonly known as authorship attribution. \
 Of course, spot-checks were performed during scraping, but manually verifying every speech would defeat the purpose of automating the process in the first place. Among many possible methods, I decided to use an N-gram centroid-based one  @witten_reassessing_2008 @jockers_comparative_2010 @h_spoken_2024, since it is relatively straightforward and does not require a lot of resources.\
-The idea is as follows: if I embed all speeches into vectors, I can compute the centroid #footnote[In mathematics and physics, the centroid, also known as geometric center or center of figure, of a plane figure or solid figure is the mean position of all the points in the figure. The same definition extends to any object in n-dimensional Euclidean space @protter_college_1970.] of all speeches of a specific #pm (their vectorial center). Then, for each speech, I can calculate the cosine similarity #footnote[Cosine similarity is the cosine of the angle between two vectors, which in turn measures how similar the two vectors are.] between the speech embedding and the centroid. By doing so, I can compute a degree of similarity between the speeches of a #pm in the vector space, assessing whether a speech adheres to their style or not (hence, whether the speech was authored by that specific #pm). Each speech is graded with a degree of self-similarity (from zero to one), which represents how much that speech resembles the #pm's corpus. The mean similarity for a #pm corpus is calculated by averaging all self-similarity values. I flag the bottom $10%$ of speeches as "below threshold". Results are shown in table @tab:outlier_results. De Gasperi was included as a baseline, since their corpus was not scraped. 
+The idea is as follows: if I embed all speeches into vectors, I can compute the centroid #footnote[In mathematics and physics, the centroid, also known as geometric center or center of figure, of a plane figure or solid figure is the mean position of all the points in the figure. The same definition extends to any object in n-dimensional Euclidean space @protter_college_1970.] of all speeches of a specific #pm (their vectorial center). Then, for each speech, I can calculate the cosine similarity #footnote[Cosine similarity is the cosine of the angle between two vectors, which in turn measures how similar the two vectors are.] between the speech embedding and the centroid. By doing so, I can compute a degree of similarity between the speeches of a #pm in the vector space, assessing whether a speech adheres to their style or not (hence, whether the speech was authored by that specific #pm). Each speech is graded with a degree of self-similarity (from zero to one), which represents how much that speech resembles the #pm's corpus. The mean similarity for a #pm corpus is calculated by averaging all self-similarity values. I flag the bottom 10% of speeches as "below threshold". Results are shown in table @tab:outlier_results. De Gasperi was included as a baseline, since their corpus was not scraped. 
 
-We can see that overall the corpus quality is solid, with the vast majority of #pms' corpora above baseline. Some speeches in the corpus with very low self-similarity values (under $0.1$) contain either a series of _"Ciao ciao ciao"_ (likely background noise wrongly identified by Whisper), or a series of _"Sottotitoli a cura di QTSS"_. These speeches are so few compared to the whole corpus size that I decided to maintain the corpus as-is, without any arbitrary low-similarity cutoff. This was done to prevent the risk of manually introducing bias by cutting off "good" outliers, such as one-off topics or short speeches.
+We can see that the corpus quality is solid, with the vast majority of #pms' corpora above baseline. Nonetheless, I manually checked all 567 speeches under threshold: I discarded 118 speeches, moving them to the directory `~/crossdem/datasets_pms_discarded/`. Then, I cleaned all remaining speeches by removing from each of them three strings that appear often throughout the dataset and are just noise, namely:
+
++ _"..."_
++ _"Sottotitoli a cura di QTSS"_
++ _"Sottotitoli creati dalla comunità Amara.org"_
 
 
 
@@ -944,6 +948,9 @@ caption: [Per-PM classification results, ordered by their first term in office. 
 ) <tab:outlier_results>
 ]
 #v(1em)
+
+T
+
 
 === Corpus Annotation <sec:corpus_annotation>
 
