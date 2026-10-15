@@ -18,7 +18,8 @@ This chapter will present the results from the analysis on the dataset.
 
 ==== Boxplot of MTLD Values for Each Italian Prime Minster <sec:mtld_pms_boxplot>
 
-Figure @fig:mtld_boxplot_pms show that lexical diversity, as measured by MTLD, varies considerably across Prime Ministers, with the overall median of 97.27 acting as a useful reference line against which individual distributions can be read: De Gasperi stands out as the clearest departure, with a median of roughly 138 and an interquartile range spanning approximately 116 to 166, the widest of the corpus, whereas Andreotti, Spadolini, Dini and Monti form a second, more moderate group whose medians sit between roughly 105 and 116, clearly above the reference line, and the remaining Prime Ministers cluster close to or slightly below it, with Cossiga and Letta (both around 84–85) at the lower end. The evolution over time is not monotonic: there is no steady rise or decline from the postwar period to the present, but rather an alternation of higher- and lower-diversity governments, so that any temporal pattern, should one exist, is weak compared with the differences between individuals [Spearman ρ = …, 95% CI …]. Dispersion also differs markedly, from the very narrow distributions of Monti and De Mita (IQR ≈ 20 and ≈ 17) to the broad ones of De Gasperi and Spadolini, and the long tails of Andreotti, Berlusconi and D'Alema suggest a heterogeneous speaking repertoire, ranging from formal parliamentary address to shorter, more improvised interventions. That these differences are not merely visual impressions is supported by a Kruskal–Wallis test [H(14) = …, p = …, ε² = …], with the Prime Minister accounting for about [ICC = …]% of the total variance in MTLD, while post-hoc comparisons (Dunn, Holm-corrected) show that [x of 105] pairs differ significantly, of which [y] have at least a small effect size (|δ| > 0.147).
+Let's first take a look at the #pms themselves. Figure @fig:mtld_boxplot_pms shows a box plot where each box is a #pm with at least twenty speeches. While the #pms are ordered by their first time in office, the graph can not and should not be interpreted as the evolution of MTLD over time #footnote[As a reminder: I collected _all_ speeches I found for each #pm, not only the ones authored during their time in office.]. Table @tab:mtld_pms shows the values of mean, median, standard deviation, and IQR for each #pm: with the exception of Draghi and Conte (which don't have a lot of data in the first place), #pms' corpora are generally positively skewed, which is seen both by the means being higher than the medians, and by the fact that most outliers have high lexical diversity. This is especially evident with Andreotti (21 high-diversity outliers), Amato (21 high-diversity outliers), Berlusconi(15 high-diversity outliers), and D'Alema (44 high-diversity outliers).\ 
+Most #pms tend to have a consistent style: only four have an high IQR of over fourty-five ($"IQR">45$), namely De Gasperi, Fanfani, Ciampi, Draghi, while nine #pms out of twenty-one have low IQR of under twenty-five ($"IQR"<25$), namely Andreotti, De Mita, Amato, Berlusconi, Prodi, D'Alema, Monti, Letta, and Conte. Its worth mentioning that Andreotti, Berlusconi, and D'Alema have a lot of outliers, which is reflected on their standard deviation. The remaining eight #pms have an IQR between twenty-five and forty-five ($25<"IQR"<=45$). Overall, #pms' style tend to be consistent, with some of them exhibiting a lot of outliers. De Gasperi is a strong outlier, showing great variance in the lexical complexity of their speeches, and the highest median complexity overall.
 
 #subpar.grid(
   rows: 2,
@@ -32,27 +33,70 @@ Figure @fig:mtld_boxplot_pms show that lexical diversity, as measured by MTLD, v
     caption: [Boxplot of MTLD values for each Italian Prime Minster, with overall median.]
   ), <fig:pms_boxplot_medianALL>,
   v(0.2em),
-  caption: [@fig:pms_boxplot and @fig:pms_boxplot_medianALL show MTLD values for each Italian Prime Minster, ordered by their first time in office. This allows for not only a direct comparison between Prime Ministers, but also a comparison of the evolution of MTLD values over time. Prime Minister with fewer than 100 speeches are omitted.],
+  caption: [@fig:pms_boxplot and @fig:pms_boxplot_medianALL show MTLD values for each Italian #pm, ordered by their first time in office, allowing for not a direct comparison between Prime Ministers. The mean is a dotted line. Since all speeches for each #pm were collected (outside their time in office) the graph can *not* be interpreted as the evolution of MTLD over time. Prime Minister with fewer than 20 speeches are omitted.],
   label: <fig:mtld_boxplot_pms>,
 )
 
-==== Evolution Over Time of MTLD Values for Each Italian Prime Minster <sec:mtld_pms_evolution>
+Table @tab:mtld_pms also shows the slope for each #pm. This represents whether, during their careers, the complexity of their speeches increased, decreased, or remained the same. Most #pm's show no significant trend, with six exceptions: Draghi (+0.462), Conte (+0.384), De Gasperi (−0.330), Meloni (+0.263), Craxi (−0.265), and Dini (−0.236). The trends can also be visualized in figure @fig:mtld_lowess_pms, were a LOWESS regression #footnote[LOWESS was chosen over linear models or Splines because it combines much of the simplicity of linear least squares regression with the flexibility of nonlinear regression. In short, it is flexible but interpretable.] has been plotted for each #pm's career. Once again, De Gasperi shows as a clear outlier, with a median complexity consistently above the rest, while the other #pms cluster around the overall median. Draghi, Conte, and Fanfani regressions look less consistent, which is expected since they do not have a lot of data points.
 
-- what is LOWESS
+#v(1em)
+#[
+#show figure: set block(breakable: true)
+#figure(
+table(
+columns: (auto, auto, auto, auto, auto, auto, auto, auto),
+align: center + horizon,
+stroke: none,
+inset: 5pt,
+fill: (col, row) => {
+if row == 0 { rgb("#B5001B") }
+else if calc.rem(row, 2) == 0 { rgb("#B5001B33") }
+else { white }
+    },
+table.hline(stroke: 0.5pt),
+text(fill:white)[*PM*], text(fill:white)[*\# Speeches*], text(fill:white)[*Mean*], text(fill:white)[*Median*], text(fill:white)[*Std. dev.*], text(fill:white)[*IQR*], text(fill:white)[*\# Outliers*], text(fill:white)[*Trend slope \(per %)*],
+    [De Gasperi], [473], [141.83], [137.64], [35.88], [49.50], [2], [-0.330],
+    [Fanfani], [20], [119.80], [120.31], [37.59], [50.09], [0], [-0.130],
+    [Andreotti], [390], [114.81], [111.74], [23.77], [20.42], [28], [0.025],
+    [Cossiga], [209], [89.12], [87.69], [21.03], [26.41], [4], [0.180],
+    [Forlani], [71], [104.28], [105.13], [23.38], [28.76], [0], [0.016],
+    [Spadolini], [99], [118.43], [117.94], [25.58], [34.01], [1], [0.035],
+    [Craxi], [103], [101.63], [97.06], [27.29], [39.60], [0], [-0.265],
+    [Goria], [40], [113.30], [111.16], [29.26], [31.68], [2], [0.120],
+    [De Mita], [207], [93.97], [93.97], [16.62], [15.86], [10], [-0.060],
+    [Amato], [890], [97.90], [96.47], [16.07], [18.98], [25], [0.144],
+    [Ciampi], [70], [120.44], [117.78], [37.15], [50.30], [0], [-0.066],
+    [Berlusconi], [519], [94.92], [93.87], [21.17], [23.83], [19], [0.194],
+    [Dini], [308], [110.88], [106.95], [25.97], [33.71], [8], [-0.236],
+    [Prodi], [508], [95.42], [95.38], [19.81], [22.25], [16], [0.044],
+    [D'Alema], [819], [95.23], [93.39], [16.08], [15.93], [52], [0.153],
+    [Monti], [238], [116.15], [116.40], [16.42], [18.57], [11], [-0.034],
+    [Letta], [500], [86.59], [84.34], [17.37], [19.87], [18], [-0.104],
+    [Renzi], [143], [94.06], [90.74], [21.15], [26.05], [2], [-0.166],
+    [Conte], [29], [104.02], [108.58], [24.32], [24.67], [1], [0.384],
+    [Draghi], [26], [126.53], [134.68], [33.52], [55.17], [0], [0.462],
+    [Meloni], [245], [99.89], [97.04], [21.20], [26.85], [1], [0.263],
+table.hline(stroke: 0.5pt),
+  ),
+caption: [Descriptive statistics of the MTLD (Measure of Textual Lexical Diversity) per prime minister, ordered by first term in office. In order: Prime Minister's name, number of speeches, mean, median, standard deviation, interquartile range (IQR), number of outliers (speeches outside the whiskers of the boxplot), and slope of the MTLD trend per percentage point. Prime ministers with too few usable speeches are not included.]
+) <tab:mtld_pms>
+]
+#v(1em)
+
 
 #subpar.grid(
   rows: 2,
   gutter: 5pt,
   figure(
     image("../images/mtld_pms_LOWESS.png", width: 100%),
-    caption: [LOWESS curve of MTLD values for each Italian Prime Minster, without overall medians.]
+    caption: [LOWESS curve of MTLD values for each Italian Prime Minster, without overall median.]
   ), <fig:pms_lowess>,
   figure(
     image("../images/mtld_pms_LOWESS_withmedians.png", width: 100%),
-    caption: [LOWESS curve of MTLD values for each Italian Prime Minster, with overall medians.]
+    caption: [LOWESS curve of MTLD values for each Italian Prime Minster, with overall median.]
   ), <fig:pms_lowess_medianALL>,
   v(0.2em),
-  caption: [@fig:pms_lowess and @fig:pms_lowess_medianALL show MTLD values for each Italian Prime Minster over their careers span. The LOWESS curve allows was chosen to aid in the interpretation of the values, and the overall medians allow for a comparison between Prime Ministers. Prime Minister with fewer than 100 speeches are omitted.],
+  caption: [@fig:pms_lowess and @fig:pms_lowess_medianALL show MTLD values for each Italian Prime Minster over their careers span. The LOWESS curve allows was chosen to aid in the interpretation of the values. Prime Minister with fewer than 20 speeches are omitted.],
   label: <fig:mtld_lowess_pms>,
 )
 
