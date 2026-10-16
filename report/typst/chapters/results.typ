@@ -1,10 +1,10 @@
 #import "../config/variables.typ": *
 #import "../config/thesis-config.typ": *
-//#pagebreak(to:"odd")
+#pagebreak(to:"odd")
 
 
-#set heading(numbering:"1.")
-#set math.equation(numbering: "1.", supplement: none)
+//#set heading(numbering:"1.")
+//#set math.equation(numbering: "1.", supplement: none)
 
 
 
@@ -16,10 +16,10 @@ This chapter will present the results from the analysis on the dataset.
 
 === Prime Minister's MTLDs <sec:mtld_pms> 
 
-==== Boxplot of MTLD Values for Each Italian Prime Minster <sec:mtld_pms_boxplot>
+Let's first take a look at the #pms themselves. Figure @fig:mtld_boxplot_pms shows a box plot where each box is a #pm with at least twenty speeches, ordered by variability (whisker-to-whisker length) and median diversity respectively. We can visually divide the #pms into two groups: high- and low-variance. The first group, with seven out of twenty-five #pms (Ciampi, De Gasperi, Craxi, Fanfani, Spadolini, Dini, and Draghi) exhibit high variability in speeches complexity, suggesting not only a wider vocabulary but also diverse speech styles. This is corroborated by their standard deviations (refer to table @tab:mtld_pms for the exact values), all above the average of $24.32$ (Ciampi, De Gasperi, Fanfani, and Draghi are even above thirty). All the other #pms, pertaining to the low-variance group, seem more consistent in the complexity of their speeches, and their standard deviations are all under the average. That being said, between Forlani and De Mita the inter quartile range halves, going from $28.76$ to $15.86$ for a reduction of $44.85%$, telling us that even in the low-variance group there are strong differences in variance between #pms. In this last group, two exceptions emerge: Conte, whoose standard deviation of $24.32$ sits exactly on the median, and Goria with a standard deviation of $29.26$. A possibile explanation could be found in their low speech count (twenty-nine and fourty respectively) which would give more weight to their high-complexity outliers. Other #pms present more outliers (for example D'Alema has fifty-two, Andreotti twenty-eight) which can clearly be seen in the plot, but their standard deviations do not get impacted as much because of their great amount of speeches (819 for D'Alema, 390 for Andreotti) stabilizing the deviation. 
 
-Let's first take a look at the #pms themselves. Figure @fig:mtld_boxplot_pms shows a box plot where each box is a #pm with at least twenty speeches. While the #pms are ordered by their first time in office, the graph can not and should not be interpreted as the evolution of MTLD over time #footnote[As a reminder: I collected _all_ speeches I found for each #pm, not only the ones authored during their time in office.]. Table @tab:mtld_pms shows the values of mean, median, standard deviation, and IQR for each #pm: with the exception of Draghi and Conte (which don't have a lot of data in the first place), #pms' corpora are generally positively skewed, which is seen both by the means being higher than the medians, and by the fact that most outliers have high lexical diversity. This is especially evident with Andreotti (21 high-diversity outliers), Amato (21 high-diversity outliers), Berlusconi(15 high-diversity outliers), and D'Alema (44 high-diversity outliers).\ 
-Most #pms tend to have a consistent style: only four have an high IQR of over fourty-five ($"IQR">45$), namely De Gasperi, Fanfani, Ciampi, Draghi, while nine #pms out of twenty-one have low IQR of under twenty-five ($"IQR"<25$), namely Andreotti, De Mita, Amato, Berlusconi, Prodi, D'Alema, Monti, Letta, and Conte. Its worth mentioning that Andreotti, Berlusconi, and D'Alema have a lot of outliers, which is reflected on their standard deviation. The remaining eight #pms have an IQR between twenty-five and forty-five ($25<"IQR"<=45$). Overall, #pms' style tend to be consistent, with some of them exhibiting a lot of outliers. De Gasperi is a strong outlier, showing great variance in the lexical complexity of their speeches, and the highest median complexity overall.
+Overall, #pms in this study exhibit variation between one another, suggesting that there is not a "complexity typical of a #pm", and that each one have their own style and vocabulary richness.
+
 
 #subpar.grid(
   rows: 2,
@@ -353,7 +353,7 @@ Italian prime minister seem to be overall a bit aggressive and negative, and the
 
 This does not seem to change over time, failing to explain the VDEM indices drop in 2021.
 
-
+/*
 #include "../bibliography/bibliography.typ"
 
 
