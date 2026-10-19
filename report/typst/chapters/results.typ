@@ -18,8 +18,6 @@ This chapter will present the results from the analysis on the dataset.
 
 Let's first take a look at the #pms themselves. Figure @fig:mtld_boxplot_pms shows two box plots where each box is a #pm with at least twenty speeches, ordered by variability (whisker-to-whisker length) and median lexical diversity (median MTLD) respectively. We can visually divide the #pms into two groups: high- and low-variance. The first group, with seven out of twenty-one #pms (Ciampi, De Gasperi, Craxi, Fanfani, Spadolini, Dini, and Draghi) exhibits high variability in the complexity of their speeches, suggesting diverse speech styles. This is corroborated by their standard deviations (refer to table @tab:mtld_pms for the exact values), all above the average of $24.32$ (Ciampi, De Gasperi, Fanfani, and Draghi are even above thirty). All the other #pms, pertaining to the low-variance group, seem more consistent in the complexity of their speeches, and their standard deviations are all under the average. That being said, between Forlani and De Mita the interquartile range almost cuts in half, going from $28.76$ to $15.86$ for a reduction of $44.85%$, telling us that even in the low-variance group there are strong differences in variance between #pms. In this last group, two exceptions emerge: Conte, whose standard deviation of $24.32$ sits exactly on the average, and Goria with a standard deviation of $29.26$. A possible explanation could be found in their low speech count, meaning the standard deviation is simply a noisy estimate. Incidentally, Fanfani and Draghi are in a similar position with twenty and twenty-six speeches each, and already sit in the high-variance group. De Gasperi's complexity stands above the rest even with a rich corpus of over 400 speeches. This could be explained either by a stylistic difference or by the fact that their speeches are the only ones not transcribed by Whisper
 
-
-
 Overall, #pms in this study exhibit variation between one another, suggesting that there is not a "complexity typical of a #pm", and that each one has their own style and richness of vocabulary. 
 
 
@@ -39,7 +37,12 @@ Overall, #pms in this study exhibit variation between one another, suggesting th
   label: <fig:mtld_boxplot_pms>,
 )
 
-Table @tab:mtld_pms also shows the slope for each #pm. This represents whether, during their careers, the complexity of their speeches increased, decreased, or remained the same. Most #pms show no significant trend, with six exceptions: Draghi (+0.462), Conte (+0.384), De Gasperi (−0.330), Meloni (+0.263), Craxi (−0.265), and Dini (−0.236). The trends can also be visualized in figure @fig:mtld_lowess_pms, where a LOWESS regression #footnote[LOWESS was chosen over linear models or splines because it combines much of the simplicity of linear least squares regression with the flexibility of nonlinear regression. In short, it is flexible but interpretable.] has been plotted for each #pm's career. As expected, De Gasperi has the highest median, followed by a small group (Draghi, Fanfani, Ciampi, Spadolini, Monti) that also sits above the rest, while the other #pms cluster around the overall median. The regressions for Draghi, Conte, and Fanfani look less consistent, which is expected since they do not have a lot of data points.
+Figure @fig:mtld_lowess_pms shows the evolution of the lexical complexity over each #pm's career, via LOWESS regression #footnote[LOWESS was chosen for visualising the evolution of MTLD over linear models or splines because it combines much of the simplicity of linear least squares regression with the flexibility of nonlinear regression. In short, it is flexible but interpretable.]. Once again, there does not seem to be any clear trend among #pms, a fact that is consistent with the last column of table @tab:mtld_pms, which shows the evolution of the MTLD (in percentage) during the span of the #pms' careers. Twelve #pms have positive changes, nine negative, so there is no common direction. Some show little to no change, like Andreotti (+2.18), Forlani (+1.51), and Monti (-2.89), while others change considerably, for example De Gasperi (-19.58), Cossiga (+23.64), Craxi (-23.75), and Meloni (+32.31). The MTLD evolution was calculated by fitting a linear regression to each #pm's career, and then extracting the rescaled slope, where _Slope_ is the fitted change in MTLD per percentage point of career elapsed, and _Intercept_ is the fitted MTLD at the start of the career: 
+
+$ "Change %" = frac("Slope" dot 100, "Intercept") dot 100 $
+
+I used a linear regression instead of a LOWESS to extract one easily interpretable number. One thing to note: the LOWESS regressions for Draghi, Conte, and Fanfani look less consistent, which is expected since their datasets are scarce. 
+
 
 #v(1em)
 #[
@@ -56,31 +59,31 @@ else if calc.rem(row, 2) == 0 { rgb("#B5001B33") }
 else { white }
     },
 table.hline(stroke: 0.5pt),
-text(fill:white)[*PM*], text(fill:white)[*\# Speeches*], text(fill:white)[*Mean*], text(fill:white)[*Median*], text(fill:white)[*Std. dev.*], text(fill:white)[*IQR*], text(fill:white)[*\# Outliers*], text(fill:white)[*Trend slope*],
-    [De Gasperi], [473], [141.83], [137.64], [35.88], [49.50], [2], [-0.330],
-    [Fanfani], [20], [119.80], [120.31], [37.59], [50.09], [0], [-0.130],
-    [Andreotti], [390], [114.81], [111.74], [23.77], [20.42], [28], [0.025],
-    [Cossiga], [209], [89.12], [87.69], [21.03], [26.41], [4], [0.180],
-    [Forlani], [71], [104.28], [105.13], [23.38], [28.76], [0], [0.016],
-    [Spadolini], [99], [118.43], [117.94], [25.58], [34.01], [1], [0.035],
-    [Craxi], [103], [101.63], [97.06], [27.29], [39.60], [0], [-0.265],
-    [Goria], [40], [113.30], [111.16], [29.26], [31.68], [2], [0.120],
-    [De Mita], [207], [93.97], [93.97], [16.62], [15.86], [10], [-0.060],
-    [Amato], [890], [97.90], [96.47], [16.07], [18.98], [25], [0.144],
-    [Ciampi], [70], [120.44], [117.78], [37.15], [50.30], [0], [-0.066],
-    [Berlusconi], [519], [94.92], [93.87], [21.17], [23.83], [19], [0.194],
-    [Dini], [308], [110.88], [106.95], [25.97], [33.71], [8], [-0.236],
-    [Prodi], [508], [95.42], [95.38], [19.81], [22.25], [16], [0.044],
-    [D'Alema], [819], [95.23], [93.39], [16.08], [15.93], [52], [0.153],
-    [Monti], [238], [116.15], [116.40], [16.42], [18.57], [11], [-0.034],
-    [Letta], [500], [86.59], [84.34], [17.37], [19.87], [18], [-0.104],
-    [Renzi], [143], [94.06], [90.74], [21.15], [26.05], [2], [-0.166],
-    [Conte], [29], [104.02], [108.58], [24.32], [24.67], [1], [0.384],
-    [Draghi], [26], [126.53], [134.68], [33.52], [55.17], [0], [0.462],
-    [Meloni], [245], [99.89], [97.04], [21.20], [26.85], [1], [0.263],
+text(fill:white)[*PM*], text(fill:white)[*\# Speeches*], text(fill:white)[*Mean*], text(fill:white)[*Median*], text(fill:white)[*Std. dev.*], text(fill:white)[*IQR*], text(fill:white)[*\# Outliers*], text(fill:white)[*Career change (%)*],
+    [De Gasperi], [473], [141.83], [137.64], [35.88], [49.50], [2], [-19.58],
+    [Fanfani], [20], [119.80], [120.31], [37.59], [50.09], [0], [-9.93],
+    [Andreotti], [390], [114.81], [111.74], [23.77], [20.42], [28], [+2.18],
+    [Cossiga], [209], [89.12], [87.69], [21.03], [26.41], [4], [+23.64],
+    [Forlani], [71], [104.28], [105.13], [23.38], [28.76], [0], [+1.51],
+    [Spadolini], [99], [118.43], [117.94], [25.58], [34.01], [1], [+3.04],
+    [Craxi], [103], [101.63], [97.06], [27.29], [39.60], [0], [-23.75],
+    [Goria], [40], [113.30], [111.16], [29.26], [31.68], [2], [+11.11],
+    [De Mita], [207], [93.97], [93.97], [16.62], [15.86], [10], [-6.26],
+    [Amato], [890], [97.90], [96.47], [16.07], [18.98], [25], [+15.83],
+    [Ciampi], [70], [120.44], [117.78], [37.15], [50.30], [0], [-5.31],
+    [Berlusconi], [519], [94.92], [93.87], [21.17], [23.83], [19], [+22.84],
+    [Dini], [308], [110.88], [106.95], [25.97], [33.71], [8], [-19.29],
+    [Prodi], [508], [95.42], [95.38], [19.81], [22.25], [16], [+4.66],
+    [D'Alema], [819], [95.23], [93.39], [16.08], [15.93], [52], [+17.23],
+    [Monti], [238], [116.15], [116.40], [16.42], [18.57], [11], [-2.89],
+    [Letta], [500], [86.59], [84.34], [17.37], [19.87], [18], [-11.50],
+    [Renzi], [143], [94.06], [90.74], [21.15], [26.05], [2], [-16.06],
+    [Conte], [29], [104.02], [108.58], [24.32], [24.67], [1], [+48.66],
+    [Draghi], [26], [126.53], [134.68], [33.52], [55.17], [0], [+43.91],
+    [Meloni], [245], [99.89], [97.04], [21.20], [26.85], [1], [+32.31],
 table.hline(stroke: 0.5pt),
   ),
-caption: [Descriptive statistics of the MTLD (Measure of Textual Lexical Diversity) per #pm, ordered by first term in office. In order: #pm's name, number of speeches, mean, median, standard deviation, interquartile range (IQR), number of outliers (speeches outside the whiskers of the boxplot), and slope of the MTLD trend over the whole career (i.e., $0.5$ means that the fitted MTLD increases by 50 points from the first registered speech to the last). #pms with too few usable speeches are not included.]
+caption: [Descriptive statistics of the MTLD (Measure of Textual Lexical Diversity) per #pm, ordered by first term in office. In order: #pm's name, number of speeches, mean, median, standard deviation, interquartile range (IQR), number of outliers (speeches outside the whiskers of the boxplot), and the MTLD evolution over their careers, calculated by fitting a linear regression over each #pm's career. The percentage is relative to the fitted starting MTLD. Only #pms with at least twenty speeches are included.]
 ) <tab:mtld_pms>
 ]
 #v(1em)
@@ -98,7 +101,7 @@ caption: [Descriptive statistics of the MTLD (Measure of Textual Lexical Diversi
     caption: [LOWESS curve of MTLD values for each Italian #pm, with overall median.]
   ), <fig:pms_lowess_medianALL>,
   v(0.2em),
-  caption: [@fig:pms_lowess and @fig:pms_lowess_medianALL show MTLD values for each Italian #pm over their career span. The LOWESS curve was chosen to aid in the interpretation of the values. #pm with fewer than 20 speeches are omitted.],
+  caption: [@fig:pms_lowess and @fig:pms_lowess_medianALL show MTLD values for each Italian #pm over their career span. The LOWESS curve was chosen to aid in the visual interpretation of the values. #pm with fewer than 20 speeches are omitted.],
   label: <fig:mtld_lowess_pms>,
 )
 

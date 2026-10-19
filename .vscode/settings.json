@@ -64,6 +64,7 @@
     },
     "cSpell.words": [
         "analyzability",
+        "Andreotti",
         "Berlusconi",
         "colour",
         "Convolutional",
@@ -83,6 +84,7 @@
         "lemmatized",
         "lemmatizer",
         "lockdown",
+        "LOWESS",
         "Mita",
         "MTLD",
         "multimodal",
@@ -93,7 +95,8 @@
         "Stopwords",
         "subcomponents",
         "topicalization",
-        "virality"
+        "virality",
+        "visualising"
     ],
     "editor.wordWrap": "on",
     "cSpell.enabled": true,
