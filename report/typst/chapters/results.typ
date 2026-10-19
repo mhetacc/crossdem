@@ -105,9 +105,44 @@ caption: [Descriptive statistics of the MTLD (Measure of Textual Lexical Diversi
   label: <fig:mtld_lowess_pms>,
 )
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 === VDEM 
 
 ==== 5 years
+
+The graph at figure @fig:vdem_box5y shows two box plots for the lexical diversity (MTLD) aggregated by five year periods, aggregated by either all political leanings (all speeches pooled together) or by three macro leanings (center, left, and right). Let's focus the graph that aggregates all leanings together, as it is more informative compared to single leanings since they don't have an equal distribution, as previously shown in figure #[figuraaaa]. Ignoring the period between 1960 and 1985 due to lack of data (only twenty speeches were collected in this year gap), the graphs shows a clear reduction in the variance of the MTLD across the board, until 2021 where it grow back again. This is corroborated by the data shown in table @tab:mtld_periods: interquartile range steadily decreases from 52.61, to 20.62, to grow back up to 35.37, while whisker-to-whisker length goes from 184.56, to 78.60, and grows back up to 116.21. While in the decreasing phase, both IQR and whisker-to-whisker length decrease steadily for each 5-year period. In the graph, democratic indices are also reported....
+
+
+
 
 #subpar.grid(
   rows: 2,
@@ -124,6 +159,68 @@ caption: [Descriptive statistics of the MTLD (Measure of Textual Lexical Diversi
   caption: [MTLD values in a Boxplot by 5-year periods. There seem to be a reduction in MTLD variance starting from 1989 all the way to 2019, whith an abrupt inversion in the 2020-2025 period. If this is a correlation with the inflection of some VDEM indices, it is not clear.],
   label: <fig:vdem_box5y>,
 )
+
+#v(1em)
+#[
+#show figure: set block(breakable: true)
+#figure(
+table(
+columns: (auto, auto, auto, auto, auto, auto),
+align: center + horizon,
+stroke: none,
+inset: 5pt,
+fill: (col, row) => {
+if row == 0 { rgb("#B5001B") }
+else if calc.rem(row, 2) == 0 { rgb("#B5001B33") }
+else { white }
+    },
+table.hline(stroke: 0.5pt),
+text(fill:white)[*Period*], text(fill:white)[*\# Speeches*], text(fill:white)[*Median MTLD*], text(fill:white)[*IQR*], text(fill:white)[*Whisker-to-whisker*], text(fill:white)[*\# Outliers*],
+    [1945-1949], [217], [139.24], [52.61], [184.56], [1],
+    [1950-1954], [186], [125.82], [41.72], [155.95], [5],
+    [1960-1964], [1], [115.04], [0.00], [0.00], [0],
+    [1975-1979], [3], [85.14], [18.32], [36.65], [0],
+    [1980-1984], [20], [108.15], [27.04], [73.58], [2],
+    [1985-1989], [292], [104.24], [34.53], [131.82], [12],
+    [1990-1994], [499], [97.20], [28.87], [111.17], [16],
+    [1995-1999], [1137], [95.91], [25.86], [100.37], [54],
+    [2000-2004], [1440], [94.33], [24.08], [94.23], [40],
+    [2005-2009], [1207], [97.78], [23.79], [93.89], [41],
+    [2010-2014], [398], [97.75], [21.88], [85.88], [16],
+    [2015-2019], [263], [96.56], [20.62], [78.60], [6],
+    [2020-2025], [140], [101.42], [35.37], [116.21], [0],
+table.hline(stroke: 0.5pt),
+  ),
+caption: [MTLD (Measure of Textual Lexical Diversity) per five-year period, with the speeches of all prime ministers pooled. In order: period, number of speeches, median MTLD, interquartile range (IQR), distance between the lower and upper whisker of the boxplot, and number of outliers (speeches outside the whiskers). Periods with no speeches are not shown.]
+) <tab:mtld_periods>
+]
+#v(1em)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ==== 10 years
 
