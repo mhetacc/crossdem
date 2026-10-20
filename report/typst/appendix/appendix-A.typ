@@ -1,4 +1,6 @@
 #import "@preview/codelst:2.0.2": sourcecode
+#import "../config/variables.typ": *
+#import "../config/thesis-config.typ": *
 
 #set page(margin: 2.5cm)
 #counter(heading).update(0)
@@ -9,9 +11,9 @@
 ] <sec:appendix_a>
 
 
-#include "../templates.typ"
-
 #show figure: set block(breakable: true)
+
+== Radio Radicale HTML List of Prime Minister's Speeches
 
 #figure(
 sourcecode(
@@ -125,6 +127,8 @@ caption: "Example of the HTML in Radio Radicale that contains a list of links po
 ) <appx:list_of_schede>
 
 
+== Radio Radicale HTML List of Interventions
+
 #figure(
 sourcecode(
     ```html
@@ -212,6 +216,7 @@ sourcecode(
 caption: "Example of the HTML in Radio Radicale that contains a list of interventions in a conference.",
 ) <appx:list_of_interventions>
 
+== LLMs Model Comparison for Sentiment Analysis
 
 #v(1em)
 #[
@@ -269,7 +274,7 @@ caption: [Full validation results on the 207 speeches for all models, identified
 ]
 #v(1em)
 
-
+== Prompt to Generate 100 Synthetic Speeches With High Hostility 
 
 #figure(
 sourcecode(
@@ -337,7 +342,7 @@ aggressiveness,target]
 caption: "Prompt to generate 100 synthetic speeches with high hostility and diverse targets. The speeches were generated with Gemini 3.6 Flash.",
 ) <appx:generate_synth_speeches>
 
-
+== LLM's Prompt To Annotate Dataset 
 
 #figure(
 sourcecode(
@@ -485,3 +490,21 @@ JSON_SCHEMA_NOTHINK = {
 ),
 caption: "Prompts to be fed into Gemma 4 to classify the corpus and their respective JSON output schemas. One prompt to classify negativity and aggressiveness with thinking disabled , and one prompt to classify hate speech and target with thinking enabled.",
 ) <appx:classify_prompts>
+
+== V-Dem MTLD Evolution Graphs 
+
+#subpar.grid(
+  rows: 2,
+  gutter: 3pt,
+  figure(
+    image("../images/mtld_vdem_box5years_all.png", width: 100%),
+    caption: [MTLD values in a Boxplot by 5-year periods, with VDEM indices. As above, each grey box combines all speeches for all political leanings in that 5-year period, while the colored boxes represent respectively center-leaning (in green), left-leaning (in red), and right-leaning (in blue) MTLD values in that 5-year preiod.]
+  ), <appx:vdem_box5years_all>,
+  figure(
+    image("../images/mtld_vdem_line_all_leanings.png", width: 100%),
+    caption: [MTLD values plotted for each year, aggregating speeches from three political leanings, respectively colored as green (center), red (left), and blue (right). Each dot of the graph (for each year) is scaled based on the amount of speeches available for that specific year. The MTLD line chart is plotted against VDEM indices.]
+  ), <appx:vdem_line_all_leanings>,
+  v(0.2em),
+  caption: [MTLD values aggregated for each year, plotted against VDEM indices. There does not seem to be a correlation between a decrease in complexity and a decrease in democratic indices. Instead, the graph seems to suggest the opposite. There seem to be a reduction in MTLD variance starting from 1989 all the way to 2019, whith an abrupt inversion in the 2020-2025 period. If this is a correlation with the inflection of some VDEM indices, it is not clear.],
+  label: <appx:vdem_5y_pms_leanings>
+)

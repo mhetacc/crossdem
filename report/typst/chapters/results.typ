@@ -1,10 +1,10 @@
 #import "../config/variables.typ": *
 #import "../config/thesis-config.typ": *
-//#pagebreak(to:"odd")
+#pagebreak(to:"odd")
 
 
-#set heading(numbering:"1.")
-#set math.equation(numbering: "1.", supplement: none)
+//#set heading(numbering:"1.")
+//#set math.equation(numbering: "1.", supplement: none)
 
 
 
@@ -16,7 +16,8 @@ This chapter will present the results from the analysis on the dataset.
 
 === #pms' MTLDs <sec:mtld_pms> 
 
-Let's first take a look at the #pms themselves. Figure @fig:mtld_boxplot_pms shows two box plots where each box is a #pm with at least twenty speeches, ordered by variability (whisker-to-whisker length) and median lexical diversity (median MTLD) respectively. We can visually divide the #pms into two groups: high- and low-variance. The first group, with seven out of twenty-one #pms (Ciampi, De Gasperi, Craxi, Fanfani, Spadolini, Dini, and Draghi) exhibits high variability in the complexity of their speeches, suggesting diverse speech styles. This is corroborated by their standard deviations (refer to table @tab:mtld_pms for the exact values), all above the average of $24.32$ (Ciampi, De Gasperi, Fanfani, and Draghi are even above thirty). All the other #pms, pertaining to the low-variance group, seem more consistent in the complexity of their speeches, and their standard deviations are all under the average. That being said, between Forlani and De Mita the interquartile range almost cuts in half, going from $28.76$ to $15.86$ for a reduction of $44.85%$, telling us that even in the low-variance group there are strong differences in variance between #pms. In this last group, two exceptions emerge: Conte, whose standard deviation of $24.32$ sits exactly on the average, and Goria with a standard deviation of $29.26$. A possible explanation could be found in their low speech count, meaning the standard deviation is simply a noisy estimate. Incidentally, Fanfani and Draghi are in a similar position with twenty and twenty-six speeches each, and already sit in the high-variance group. De Gasperi's complexity stands above the rest even with a rich corpus of over 400 speeches. This could be explained either by a stylistic difference or by the fact that their speeches are the only ones not transcribed by Whisper
+Let's first take a look at the #pms themselves. Figure @fig:mtld_boxplot_pms shows two box plots where each box is a #pm with at least twenty speeches, ordered by variability (whisker-to-whisker length) and median lexical diversity (median MTLD) respectively. We can visually divide the #pms into two groups: high- and low-variance. The first group, with seven out of twenty-one #pms (Ciampi, De Gasperi, Craxi, Fanfani, Spadolini, Dini, and Draghi) exhibits high variability in the complexity of their speeches, suggesting diverse speech styles. This is corroborated by their standard deviations (refer to table @tab:mtld_pms for the exact values), all above the average of $24.32$ (Ciampi, De Gasperi, Fanfani, and Draghi are even above thirty). Among these high-variance #pms there is a significant gap in variability: between Ciampi and Dini, for example, the interquartile range differs by $32.98%$, going from $50.3$ to $33.71$. \
+The other #pms (pertaining to the low-variance group), seem more consistent in the complexity of their speeches. Instead, between Forlani and De Mita the interquartile range almost cuts in half, going from $28.76$ to $15.86$ for a reduction of $44.85%$, telling us that in the low-variance group there are even stronger differences in variance between #pms. In this last group, two #pms have a standard deviation above average: Conte, whose standard deviation of $24.32$ sits exactly on the average, and Goria with a standard deviation of $29.26$. A possible explanation could be found in their low speech count, meaning the standard deviation is simply a noisy estimate. Incidentally, Fanfani and Draghi are in a similar position with twenty and twenty-six speeches each, and already sit in the high-variance group. De Gasperi's complexity stands above the rest even with a rich corpus of over 400 speeches. This could be explained either by a stylistic difference or by the fact that their speeches are the only ones not transcribed by Whisper
 
 Overall, #pms in this study exhibit variation between one another, suggesting that there is not a "complexity typical of a #pm", and that each one has their own style and richness of vocabulary. 
 
@@ -139,9 +140,11 @@ caption: [Descriptive statistics of the MTLD (Measure of Textual Lexical Diversi
 
 ==== 5 years
 
-The graph at figure @fig:vdem_box5y shows two box plots for the lexical diversity (MTLD) aggregated by five year periods, aggregated by either all political leanings (all speeches pooled together) or by three macro leanings (center, left, and right). Let's focus the graph that aggregates all leanings together, as it is more informative compared to single leanings since they don't have an equal distribution, as previously shown in figure #[figuraaaa]. Ignoring the period between 1960 and 1985 due to lack of data (only twenty speeches were collected in this year gap), the graphs shows a clear reduction in the variance of the MTLD across the board, until 2021 where it grow back again. This is corroborated by the data shown in table @tab:mtld_periods: interquartile range steadily decreases from 52.61, to 20.62, to grow back up to 35.37, while whisker-to-whisker length goes from 184.56, to 78.60, and grows back up to 116.21. While in the decreasing phase, both IQR and whisker-to-whisker length decrease steadily for each 5-year period. In the graph, democratic indices are also reported....
+The graphs at figure @fig:vdem_pms_5y show the lexical diversity (MTLD) of all speeches by all #pms (without distinguishing between political leanings). The box plot has boxes aggregated by five-years periods, while has each point of the line chart has been scaled by the amount of speeches present for that specific year. Measuring the MTLD separated into three distinct political leanings (left, center, and right) is not as informative due to the unequal distribution of speeches, as previously shown in figure #[TODOFIGURA]. Nonetheless, from the graphs with such aggregations (viewable at appendix @appx:vdem_5y_pms_leanings) we can infer that (within the time period with enough data, so after 1985) right-leaning speeches present both a higher median MTLD and a higher variance in the lexical diversity compared to left-leaning speeches, while center-leaning speeches are too few to allow a fair comparison.
 
+Ignoring the period between 1960 and 1985 due to lack of data (only twenty speeches were collected in this year gap), the box plot shows a clear reduction in the variance of the MTLD across the board, until the box aggregating 2020 to 2025 where it grows back up again. This is corroborated by the data shown in table @tab:mtld_periods: interquartile range steadily decreases from 52.61, to 20.62, to grow back up to 35.37, while whisker-to-whisker length goes from 184.56, to 78.60, and grows back up to 116.21. While in the decreasing phase, both IQR and whisker-to-whisker length decrease steadily for each 5-year period. That being said, sub-figure @fig:vdem_line_combined shows that between 2021 and 2022 the median MTLD suddenly drops, only to grow back up again in 2023. This behaviour suggests that the increase in variance shown by the box plot could just be caused by a scarcity of data (there are only twenty speeches between 2021 and 2022) coupled with uncharacteristically lower-complexity speeches. 
 
+In the graph, democratic indices (sourced from V-Dem) are also reported. Three out of six see a $10%$ reduction from 2020 to 2025 (refer to table for all indices)
 
 
 #subpar.grid(
@@ -151,13 +154,14 @@ The graph at figure @fig:vdem_box5y shows two box plots for the lexical diversit
     image("../images/mtld_vdem_box5y_combined.png", width: 100%),
     caption: [MTLD values in a Boxplot by 5-year periods, with VDEM indices. Each grey box combines all speeches for all political leanings in that 5-year period.]
   ), <fig:vdem_box5y_combined>,
+  v(0.5em),
   figure(
-    image("../images/mtld_vdem_box5years_all.png", width: 100%),
-    caption: [MTLD values in a Boxplot by 5-year periods, with VDEM indices. As above, each grey box combines all speeches for all political leanings in that 5-year period, while the colored boxes represent respectively center-leaning (in green), left-leaning (in red), and right-leaning (in blue) MTLD values in that 5-year preiod.]
-  ), <fig:vdem_box5years_all>,
+    image("../images/mtld_vdem_line_combined.png", width: 100%),
+    caption: [MTLD values plotted for each year, aggregating all speeches from all political leanings. Each dot of the graph (for each year) is scaled based on the amount of speeches available for that specific year. The MTLD line chart is plotted against VDEM indices.]
+  ), <fig:vdem_line_combined>,
   v(0.2em),
-  caption: [MTLD values in a Boxplot by 5-year periods. There seem to be a reduction in MTLD variance starting from 1989 all the way to 2019, whith an abrupt inversion in the 2020-2025 period. If this is a correlation with the inflection of some VDEM indices, it is not clear.],
-  label: <fig:vdem_box5y>,
+  caption: [MTLD values in a Boxplot by 5-year periods. There seem to be a reduction in MTLD variance starting from 1989 all the way to 2019, whith an abrupt inversion in the 2020-2025 period. If this is a correlation with the inflection of some VDEM indices, it is not clear. One thing to note: the two graphs have a different Y-axis scale.],
+  label: <fig:vdem_pms_5y>,
 )
 
 #v(1em)
@@ -215,48 +219,6 @@ caption: [MTLD (Measure of Textual Lexical Diversity) per five-year period, with
 
 
 
-
-
-
-
-
-
-
-==== 10 years
-
-#subpar.grid(
-  rows: 2,
-  gutter: 5pt,
-  figure(
-    image("../images/mtld_vdem_box10y_combined.png", width: 100%),
-    caption: [MTLD values in a Boxplot by 10-year periods, with VDEM indices. Each grey box combines all speeches for all political leanings in that 10-year period.]
-  ), <fig:vdem_box10y_combined>,
-  figure(
-    image("../images/mtld_vdem_box10years_all.png", width: 100%),
-    caption: [MTLD values in a Boxplot by 10-year periods, with VDEM indices. As above, each grey box combines all speeches for all political leanings in that 10-year period, while the colored boxes represent respectively center-leaning (in green), left-leaning (in red), and right-leaning (in blue) MTLD values in that 10-year preiod.]
-  ), <fig:vdem_box10years_all>,
-  v(0.2em),
-  caption: [MTLD values in a Boxplot by 10-year periods. There seem to be a reduction in MTLD variance starting from 1989 all the way to 2025. If this is a correlation with the inflection of some VDEM indices, it is not clear.],
-  label: <fig:vdem_box10y>,
-)
-
-==== All
-
-#subpar.grid(
-  rows: 2,
-  gutter: 3pt,
-  figure(
-    image("../images/mtld_vdem_line_combined.png", width: 100%),
-    caption: [MTLD values plotted for each year, aggregating all speeches from all political leanings. Each dot of the graph (for each year) is scaled based on the amount of speeches available for that specific year. The MTLD line chart is plotted against VDEM indices.]
-  ), <fig:vdem_line_combined>,
-  figure(
-    image("../images/mtld_vdem_line_all_leanings.png", width: 100%),
-    caption: [MTLD values plotted for each year, aggregating speeches from three political leanings, respectively colored as green (center), red (left), and blue (right). Each dot of the graph (for each year) is scaled based on the amount of speeches available for that specific year. The MTLD line chart is plotted against VDEM indices.]
-  ), <fig:vdem_line_all_leanings>,
-  v(0.2em),
-  caption: [MTLD values aggregated for each year, plotted against VDEM indices. There does not seem to be a correlation between a decrease in complexity and a decrease in democratic indices. Instead, the graph seems to suggest the opposite.],
-  label: <fig:vdem_line>
-)
 
 === Conclusions <sec:mtld_conclusions>
 
@@ -455,7 +417,7 @@ Italian #pm seem to be overall a bit aggressive and negative, and they speak mor
 
 This does not seem to change over time, failing to explain the VDEM indices drop in 2021.
 
-
+/*
 #include "../bibliography/bibliography.typ"
 
 
