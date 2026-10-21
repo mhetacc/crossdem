@@ -15,7 +15,7 @@
 
 #let pm = "Prime Minister"
 #let pms = "Prime Ministers"
-#show figure: set block(breakable: true)
+//#show figure: set block(breakable: true)
 //------------------- config --------------------
 // things set up here gets imported in thesis.typ and available for all files
 

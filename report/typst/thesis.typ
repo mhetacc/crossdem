@@ -24,6 +24,7 @@
 // Mainmatter
 #pagebreak(to: "odd")
 #set page(numbering: "1")
+/*
 //---------------------- header -----------------------
 #let in-chapters = state("in-chapters", false)
 
@@ -61,15 +62,16 @@
   }
 })
 //--------------------------------------------------
+*/
 #show link: set text(fill: rgb("#007fb5"), size: 9pt)
-#in-chapters.update(true)
+//#in-chapters.update(true)
 #include "./chapters/introduction.typ"
 #include "./chapters/state_of_the_art.typ"
 #include "./chapters/corpus.typ"
 #include "./chapters/results.typ"
 #include "./chapters/future_works.typ"
 #include "./chapters/conclusions.typ"
-#in-chapters.update(false)
+//#in-chapters.update(false)
 
 // Appendices
 #state("appendix-mode", false).update(true)
