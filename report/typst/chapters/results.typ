@@ -134,16 +134,31 @@ In both graphs (figures @fig:vdem_box5y_combined and @fig:vdem_line_combined) de
 
 _Scrutiny of executives_, on the other hand, sees a reduction of $5.04%$ (from $0.953$ to $0.905$), but this inflection does not happen until 2024, while _election quality_ and the _fairness of law and individual liberties_ remain unchanged.
 
-The increase of democratic indices concurs with a decrease in the variability of the lexical diversity, with an inversion when the variability of the lexical diversity grows back up again and the democratic indices decrease. That being said, I lack the data to say whether these two phenomena are connected by a relation of correlation or causality. 
+The increase of democratic indices concurs with a decrease in the variability of the lexical diversity, with an inversion when the variability of the lexical diversity grows back up again and the democratic indices decrease. To check whether there is a correlation between the two I calculated the Spearman/Pearson/Cazzafà ...
+
+Spearman: doesnt assume leanirty or normality -> robust
+
++ Aggregate V-Dem in 5year periods
++ Check for each 5year periods
+  + spearman rank relation & conf interval
+    - are the two things correlated i.e., does their rank increase or decrease similarly?
+  + p values & rank interval
+    - H0 = spread and vdem are unrelated
+    - i.e., is the observed (or not observed) correlation statistically significant I.E., not by chance?
+
+
+
+
+
 
 #figure(
   image("../images/mtld_vdem_box5y_combined.png", width: 100%),
-  caption: [MTLD values in a boxplot by 5-year periods, with V-Dem indices. Each grey box combines all speeches for all political leanings in that 5-year period. MTLD variability appears to decrease from 1989 to 2019, with an abrupt inversion in the 2020-2025 period. Whether this correlates with the inflection of some V-Dem indices is not clear. Note that this graph and @fig:vdem_line_combined use different Y-axis scales.],
+  caption: [MTLD values in a boxplot by 5-year periods, with V-Dem indices. Each grey box combines all speeches for all political leanings in that 5-year period. MTLD variability appears to decrease from 1989 to 2019, with an abrupt inversion in the 2020-2025 period. Whether this correlates with the inflection of some V-Dem indices is not clear. Note that this graph and figure @fig:vdem_line_combined use different Y-axis scales.],
 ) <fig:vdem_box5y_combined>
 
 #figure(
   image("../images/mtld_vdem_line_combined.png", width: 100%),
-  caption: [MTLD values plotted for each year, aggregating all speeches from all political leanings. Each dot is scaled by the number of speeches available for that year. The MTLD line chart is plotted against V-Dem indices. Note the different Y-axis scale compared to @fig:vdem_box5y_combined.],
+  caption: [MTLD values plotted for each year, aggregating all speeches from all political leanings. Each dot is scaled by the number of speeches available for that year. The MTLD line chart is plotted against V-Dem indices. Note the different Y-axis scale compared to figure @fig:vdem_box5y_combined.],
 ) <fig:vdem_line_combined>
 
 #v(1em)
@@ -182,6 +197,32 @@ caption: [MTLD (Measure of Textual Lexical Diversity) per five-year period, with
 ]
 #v(1em)
 
+
+#v(1em)
+#[
+#show figure: set block(breakable: true)
+#figure(
+table(
+columns: (auto, auto, auto, auto, auto),
+align: center + horizon,
+stroke: none,
+inset: 5pt,
+fill: (col, row) => {
+if row == 0 { rgb("#B5001B") }
+else if calc.rem(row, 2) == 0 { rgb("#B5001B33") }
+else { white }
+    },
+table.hline(stroke: 0.5pt),
+text(fill:white)[*V-Dem index*], text(fill:white)[*\# Years*], text(fill:white)[*$rho$*], text(fill:white)[*CI*], text(fill:white)[*$p$-value*],
+    [Participatory democracy], [42], [-0.442], [\[-0.740, -0.130\]], [0.500],
+    [Liberal democracy], [42], [-0.451], [\[-0.757, -0.059\]], [0.357],
+    [Electoral democracy], [42], [-0.424], [\[-0.781, -0.056\]], [0.429],
+table.hline(stroke: 0.5pt),
+  ),
+caption: [Correlation between MTLD and the V-Dem democracy indices. In order: V-Dem index, number of years included in the analysis, correlation coefficient $rho$, confidence interval of $rho$, and $p$-value. The $p$-values are obtained with a circular-shift permutation test, which preserves the autocorrelation of the two time series.]
+) <tab:mtld_vdem>
+]
+#v(1em)
 
 === Conclusions <sec:mtld_conclusions>
 
