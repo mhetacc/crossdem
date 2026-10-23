@@ -134,21 +134,15 @@ In both graphs (figures @fig:vdem_box5y_combined and @fig:vdem_line_combined) de
 
 _Scrutiny of executives_, on the other hand, sees a reduction of $5.04%$ (from $0.953$ to $0.905$), but this inflection does not happen until 2024, while _election quality_ and the _fairness of law and individual liberties_ remain unchanged.
 
-The increase of democratic indices concurs with a decrease in the variability of the lexical diversity, with an inversion when the variability of the lexical diversity grows back up again and the democratic indices decrease. To check whether there is a correlation between the two I calculated the Spearman/Pearson/Cazzafà ...
-
-Spearman: doesnt assume leanirty or normality -> robust
-
-+ Aggregate V-Dem in 5year periods
-+ Check for each 5year periods
-  + spearman rank relation & conf interval
-    - are the two things correlated i.e., does their rank increase or decrease similarly?
-  + p values & rank interval
-    - H0 = spread and vdem are unrelated
-    - i.e., is the observed (or not observed) correlation statistically significant I.E., not by chance?
+// TODO finish this
+The democratic indices and the spread, or variability, of the lexical diversity seem inversely correlated: when the spread decreases the indices increase, and vice versa when the spread increases the indices decrease. \
+To check whether this correlation exists, and if so, it is not by chance, I calculated their Spearman's rank correlation coefficient $rho$ as well as their p-values. Both calculations were done by binning the spread for each year (rather than by 5-year periods as in figure @fig:vdem_box5y_combined) and comparing it with the V-Dem indices per year (already present in the V-Dem dataset). I compared only the three indices that see a reduction of over $10%$ in 2020.\ 
 
 
+The increase of democratic indices concurs with a decrease in the variability of the lexical diversity, with an inversion when the variability of the lexical diversity grows back up again and the democratic indices decrease.
 
-
+ To check whether there is a correlation between the two I calculated the Spearman's rank correlation coefficient $rho$, and to check whether such correlation is not by chance, I calculated the p-values. Both calculations were done by binning the spread for each year (rather than by 5-year periods) and comparing it with the V-Dem indices per year (already present in the V-Dem dataset). I compared only the three indices that see a reduction of over $10%$ in 2020.\ 
+Since the years cannot be treated as independent observation, to calculate the p-values either shuffling or shifting is necessary. I opted for shifting since shuffling years randomly destroys the smoothness of both series, so the null hypothesis would be too easy to beat. Shifting keeps each series intact and only breaks the alignment. Confidence intervals for the $rho$ were obtained by bootstrapping the data 1,000 times. Since observations are not independent, I resampled chunks of consecutive years, each chunk ten years in size. Results are shown in table @tab:spearman_pvalues_mtld_vdem: spread and democratic indices show a negative $rho$ of about $-0.4$, suggesting the inverse correlation hinted by the graph, but the wide confidence intervals paired with p-values over $0.35$ tell us that not only the correlation is uncertain, it's also indistinguishable from chance.
 
 
 #figure(
@@ -203,7 +197,7 @@ caption: [MTLD (Measure of Textual Lexical Diversity) per five-year period, with
 #show figure: set block(breakable: true)
 #figure(
 table(
-columns: (auto, auto, auto, auto, auto),
+columns: (auto, auto, auto, auto),
 align: center + horizon,
 stroke: none,
 inset: 5pt,
@@ -213,14 +207,14 @@ else if calc.rem(row, 2) == 0 { rgb("#B5001B33") }
 else { white }
     },
 table.hline(stroke: 0.5pt),
-text(fill:white)[*V-Dem index*], text(fill:white)[*\# Years*], text(fill:white)[*$rho$*], text(fill:white)[*CI*], text(fill:white)[*$p$-value*],
-    [Participatory democracy], [42], [-0.442], [\[-0.740, -0.130\]], [0.500],
-    [Liberal democracy], [42], [-0.451], [\[-0.757, -0.059\]], [0.357],
-    [Electoral democracy], [42], [-0.424], [\[-0.781, -0.056\]], [0.429],
+text(fill:white)[*V-Dem Index*], text(fill:white)[*Spearman's $rho$*], text(fill:white)[*Confidence Interval ($rho$)*], text(fill:white)[*$p$-value*],
+  [Participatory democracy], [-0.442], [\[-0.651, -0.048\]], [0.500],
+  [Liberal democracy],       [-0.451], [\[-0.680, 0.087\]],  [0.357],
+  [Electoral democracy],     [-0.424], [\[-0.717, 0.071\]],  [0.429],
 table.hline(stroke: 0.5pt),
   ),
-caption: [Correlation between MTLD and the V-Dem democracy indices. In order: V-Dem index, number of years included in the analysis, correlation coefficient $rho$, confidence interval of $rho$, and $p$-value. The $p$-values are obtained with a circular-shift permutation test, which preserves the autocorrelation of the two time series.]
-) <tab:mtld_vdem>
+caption: [Correlation between MTLD and the V-Dem democracy indices between 1980 and 2025. In order: V-Dem index, correlation coefficient $rho$, confidence interval of $rho$, and $p$-value. The $p$-values are obtained with a circular-shift permutation test, which preserves the autocorrelation of the two time series.]
+) <tab:spearman_pvalues_mtld_vdem>
 ]
 #v(1em)
 
