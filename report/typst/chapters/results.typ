@@ -84,8 +84,6 @@ table.hline(stroke: 0.5pt),
 caption: [Descriptive statistics of the MTLD (Measure of Textual Lexical Diversity) per #pm, ordered by first term in office. In order: #pm's name, number of speeches, mean, median, standard deviation, interquartile range (IQR), number of outliers (speeches outside the whiskers of the boxplot), and the MTLD evolution over their careers, calculated by fitting a linear regression over each #pm's career. The percentage is relative to the fitted starting MTLD. Only #pms with at least twenty speeches are included.]
 ) <tab:mtld_pms>
 ]
-#v(1em)
-
 
 #figure(
   image("../images/mtld_pms_LOWESS_withmedians.png", width: 100%),
@@ -94,55 +92,22 @@ caption: [Descriptive statistics of the MTLD (Measure of Textual Lexical Diversi
 #v(1em)
 
 
+Looking at the evolution of lexical diversity and its relationship with democratic indices, the box plot in figure @fig:vdem_box5y_combined shows the lexical diversity (MTLD) of all speeches aggregated by 5-year periods between 1945 and 2025. Distinguishing between political leanings (left, center, and right) is not informative due to the unequal distribution of speeches, as previously shown in figure @fig:dataset #footnote[Nonetheless, from the graphs with such distinction (viewable in appendix @appx:vdem_5y_pms_leanings) we can infer that from 1985 onward right-leaning speeches present both a higher median MTLD and a higher variability in the lexical diversity compared to left-leaning speeches, while center-leaning speeches are too few to allow for a fair comparison.]. 
+
+Ignoring the period between 1960 and 1985 due to the lack of data (only twenty-four speeches were collected for this period), the plot shows a steady reduction in the variability of the MTLD until the 2020-2025 period, where it grows back up again. This is reflected in the data shown in table @tab:mtld_periods: interquartile range steadily decreases from $52.61$ in the 1945-1949 period, to $20.62$ in the 2015-2019 period, then grows back up to $35.37$ in the 2020-2025 period, and whisker-to-whisker spread goes from $184.56$ in the 1945-1949 period, to $78.6$ in the 2015-2019 period, and grows back up to $116.21$ in the 2020-2025 period. That being said, figure @fig:vdem_line_combined shows that between 2020 and 2022 the median MTLD suddenly drops, from $104.63$ in 2020, to $90.61$ in 2021 and $77.74$ in 2022 ($-25.7%$), and grows back up to $106.57$ in 2023. While this could suggest that the increase in variability is caused by the 2021-2022 period acting as an outlier, recomputing the 2020-2025 box while leaving out the period 2021-2022 gets us 120 speeches for an IQR of $36.44$ and a whisker-to-whisker length of $116.21$, so the observed increase in variability is still present.
 
 
+In both graphs (figures @fig:vdem_box5y_combined and @fig:vdem_line_combined) democratic indices are also reported (sourced from V-Dem). Indices' values range from $0.0$ to $1.0$. They steadily grow from 1945 onward, but three out of six see an over ten percent reduction between 2020 and 2025: 
+- _Participatory democracy_ goes from $0.68$ in 2020 to $0.569$ in 2025 ($-16.32%$, $-11.1$ points);
+- _Liberal democracy_ goes from $0.774$ in 2020 to $0.642$ in 2025 ($-17.05%$, $-13.2$ points);
+- _Electoral democracy_ goes from $0.857$ in 2020 to $0.745$ in 2025 ($-13.07%$, $-11.2$ points).
+
+_Scrutiny of executives_, on the other hand, sees a reduction of $5.04%$ (from $0.953$ to $0.905$, $-4.8$ points), but this inflection does not happen until 2024, while _election quality_ and the _fairness of law and individual liberties_ remain unchanged.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Looking now at the evolution of the lexical diversity and its relation with the democratic indices, the box plot in figure @fig:vdem_box5y_combined shows the lexical diversity (MTLD) of all speeches aggregated by 5-year periods rather than by #pms (without distinguishing between political leanings) between 1945 and 2025. Distinguishing between leanings (left, center, and right) is not as informative due to the unequal distribution of speeches, as previously shown in figure @fig:dataset. Nonetheless, from the graphs with such distinction (viewable in appendix @appx:vdem_5y_pms_leanings) we can infer that (within the time period with enough data, so after 1985) right-leaning speeches present both a higher median MTLD and a higher variability in the lexical diversity compared to left-leaning speeches, while center-leaning speeches are too few to allow a fair comparison.
-
-Ignoring the period between 1960 and 1985 due to lack of data (only twenty-four speeches were collected for this period), the box plot shows a steady reduction in the variability of the MTLD until the 2020-2025 period, where it grows back up again. This is corroborated by the data shown in table @tab:mtld_periods: interquartile range steadily decreases from $52.61$ in the 1945-1949 period, to $20.62$ in the 2015-2019 period, then growing back up to $35.37$ in the 2020-2025 period, while whisker-to-whisker length goes from $184.56$ in the 1945-1949 period, to $78.6$ in the 2015-2019 period, and grows back up to $116.21$ in the 2020-2025 period. That being said, figure @fig:vdem_line_combined shows that between 2020 and 2022 the median MTLD suddenly drops, from $104.63$ in 2020, to $90.61$ in 2021 and $77.74$ in 2022 ($-25.7%$), and grows back up to $106.57$ in 2023. While this could suggest that the increase in variability is caused by the 2021-2022 period acting as an outlier, recomputing the 2020-2025 box while leaving out the period 2021-2022 gets us 120 speeches for an IQR of $36.44$ and a whisker-to-whisker length of $116.21$, so the observed increase in variability is still present.
-
-
-In both graphs (figures @fig:vdem_box5y_combined and @fig:vdem_line_combined) democratic indices are also reported (sourced from V-Dem). They steadily grow from 1945 onward, but three out of six see a reduction of over $10%$ between 2020 and 2025 ($1.0$ is a perfect score): 
-- _Participatory democracy_ goes from $0.68$ in 2020 to $0.569$ in 2025 ($-16.32%$);
-- _Liberal democracy_ goes from $0.774$ in 2020 to $0.642$ in 2025 ($-17.05%$);
-- _Electoral democracy_ goes from $0.857$ in 2020 to $0.745$ in 2025 ($-13.07%$).
-
-_Scrutiny of executives_, on the other hand, sees a reduction of $5.04%$ (from $0.953$ to $0.905$), but this inflection does not happen until 2024, while _election quality_ and the _fairness of law and individual liberties_ remain unchanged.
-
-// TODO finish this
-The democratic indices and the spread, or variability, of the lexical diversity seem inversely correlated: when the spread decreases the indices increase, and vice versa when the spread increases the indices decrease. \
-To check whether this correlation exists, and if so, it is not by chance, I calculated their Spearman's rank correlation coefficient $rho$ as well as their p-values. Both calculations were done by binning the spread for each year (rather than by 5-year periods as in figure @fig:vdem_box5y_combined) and comparing it with the V-Dem indices per year (already present in the V-Dem dataset). I compared only the three indices that see a reduction of over $10%$ in 2020.\ 
-
-
-The increase of democratic indices concurs with a decrease in the variability of the lexical diversity, with an inversion when the variability of the lexical diversity grows back up again and the democratic indices decrease.
-
- To check whether there is a correlation between the two I calculated the Spearman's rank correlation coefficient $rho$, and to check whether such correlation is not by chance, I calculated the p-values. Both calculations were done by binning the spread for each year (rather than by 5-year periods) and comparing it with the V-Dem indices per year (already present in the V-Dem dataset). I compared only the three indices that see a reduction of over $10%$ in 2020.\ 
-Since the years cannot be treated as independent observation, to calculate the p-values either shuffling or shifting is necessary. I opted for shifting since shuffling years randomly destroys the smoothness of both series, so the null hypothesis would be too easy to beat. Shifting keeps each series intact and only breaks the alignment. Confidence intervals for the $rho$ were obtained by bootstrapping the data 1,000 times. Since observations are not independent, I resampled chunks of consecutive years, each chunk ten years in size. Results are shown in table @tab:spearman_pvalues_mtld_vdem: spread and democratic indices show a negative $rho$ of about $-0.4$, suggesting the inverse correlation hinted by the graph, but the wide confidence intervals paired with p-values over $0.35$ tell us that not only the correlation is uncertain, it's also indistinguishable from chance.
+The democratic indices seem inversely correlated with the spread (i.e., the variability) of the lexical diversity: when the spread decreases the indices increase, and vice versa when the spread increases the indices decrease. \
+To check whether this correlation exists and, if so, whether it is due to chance, I calculated the Spearman's rank correlation coefficient $rho$ as well as the p-values for the null hypothesis _"democratic index A and spread are unrelated"_. Both calculations were done by computing the spread for each year (rather than by 5-year periods as in figure @fig:vdem_box5y_combined), and comparing it with the V-Dem indices for each year (per-year granularity is already present in the V-Dem dataset). I considered the three indices with at least a ten percent reduction.\
+Since the years cannot be treated as independent observations, to calculate the p-values either shuffling or shifting is necessary. I opted for a circular shift since shuffling years randomly destroys the smoothness of both time series, so the null hypothesis would be too easy to beat. Shifting keeps each series intact and only breaks the alignment. Confidence intervals for the $rho$ were obtained by bootstrapping the data 1,000 times with a confidence level of $95%$. I used block bootstrapping to preserve the autocorrelation typical of time series by resampling chunks of ten consecutive years. Results are shown in table @tab:spearman_pvalues_mtld_vdem: spread and democratic indices show a negative $rho$ of about $-0.4$, but the wide confidence intervals, which include zero for liberal and electoral democracy, paired with p-values over $0.35$ tell us that not only is the inverse correlation uncertain, we cannot distinguish it from chance.
 
 
 #figure(
@@ -155,7 +120,7 @@ Since the years cannot be treated as independent observation, to calculate the p
   caption: [MTLD values plotted for each year, aggregating all speeches from all political leanings. Each dot is scaled by the number of speeches available for that year. The MTLD line chart is plotted against V-Dem indices. Note the different Y-axis scale compared to figure @fig:vdem_box5y_combined.],
 ) <fig:vdem_line_combined>
 
-#v(1em)
+
 #[
 #show figure: set block(breakable: true)
 #figure(
@@ -189,10 +154,8 @@ table.hline(stroke: 0.5pt),
 caption: [MTLD (Measure of Textual Lexical Diversity) per five-year period, with the speeches of all prime ministers pooled. In order: period, number of speeches, median MTLD, interquartile range (IQR), distance between the lower and upper whisker of the boxplot, and number of outliers (speeches outside the whiskers). Periods with no speeches are not shown.]
 ) <tab:mtld_periods>
 ]
-#v(1em)
 
 
-#v(1em)
 #[
 #show figure: set block(breakable: true)
 #figure(
@@ -213,17 +176,16 @@ text(fill:white)[*V-Dem Index*], text(fill:white)[*Spearman's $rho$*], text(fill
   [Electoral democracy],     [-0.424], [\[-0.717, 0.071\]],  [0.429],
 table.hline(stroke: 0.5pt),
   ),
-caption: [Correlation between MTLD and the V-Dem democracy indices between 1980 and 2025. In order: V-Dem index, correlation coefficient $rho$, confidence interval of $rho$, and $p$-value. The $p$-values are obtained with a circular-shift permutation test, which preserves the autocorrelation of the two time series.]
+caption: [Correlation between MTLD and the V-Dem democracy indices between 1980 and 2025. In order: V-Dem index, correlation coefficient $rho$, confidence interval of $rho$, and $p$-value. The $p$-values are obtained with a circular-shift permutation test, which preserves the autocorrelation of the two time series, and the confidence intervals are block-bootstrapped with $95%$ confidence level.]
 ) <tab:spearman_pvalues_mtld_vdem>
 ]
-#v(1em)
+
 
 === Conclusions <sec:mtld_conclusions>
 
 There are no visible patterns in the variability of the MTLD among #pms, nor in the way the diversity changes during their careers, suggesting that each #pm share no common style. 
 
-On the other hand, the evolution of the MTLD over the years (1945 to 2025) shows a steady reduction of lexical diversity's variability along with a steady increase of the democratic indices, until the period 2020-2025 where the variability grows back up and the democratic indices worsen. I do not have the data to say whether the variability of the lexical diversity and the democratic indices are connected by correlation or causality.
-
+On the other hand, the evolution of the MTLD over the years (1945 to 2025) shows a steady reduction of lexical diversity's variability along with a steady increase of the democratic indices, until the period 2020-2025 where the variability grows back up and the democratic indices worsen. The Spearman's $rho$ confidence intervals paired with the p-values tell us that the correlation between spread and democratic indices is not certain, and that we can not distinguish it from chance.
 
 
 
