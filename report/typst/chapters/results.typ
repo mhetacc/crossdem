@@ -107,7 +107,7 @@ _Scrutiny of executives_, on the other hand, sees a reduction of $5.04%$ (from $
 
 The democratic indices seem inversely correlated with the spread (i.e., the variability) of the lexical diversity: when the spread decreases the indices increase, and vice versa when the spread increases the indices decrease. \
 To check whether this correlation exists and, if so, whether it is due to chance, I calculated the Spearman's rank correlation coefficient $rho$ as well as the _p_-values for the null hypothesis _"democratic index A and spread are unrelated"_. Both calculations were done by computing the spread for each year (rather than by 5-year periods as in figure @fig:vdem_box5y_combined), and comparing it with the V-Dem indices for each year (per-year granularity is already present in the V-Dem dataset). I considered the three indices with at least a ten percent reduction.\
-Since the years cannot be treated as independent observations, to calculate the _p_-values either shuffling or shifting is necessary. I opted for a circular shift since shuffling years randomly destroys the smoothness of both time series, so the null hypothesis would be too easy to beat. Shifting keeps each series intact and only breaks the alignment. Confidence intervals for the $rho$ were obtained by bootstrapping the data 1,000 times with a confidence level of $95%$. I used block bootstrapping to preserve the autocorrelation typical of time series by resampling chunks of ten consecutive years. Results are shown in table @tab:spearman_pvalues_mtld_vdem: spread and democratic indices show a negative $rho$ of about $-0.4$, but the wide confidence intervals, which include zero for liberal and electoral democracy, paired with _p_-values over $0.35$ tell us that not only is the inverse correlation uncertain, we cannot distinguish it from chance.
+Since the years cannot be treated as independent observations, to calculate the _p_-values either shuffling or shifting is necessary. I opted for a circular shift since shuffling years randomly destroys the smoothness of both time series, so the null hypothesis would be too easy to beat. Shifting keeps each series intact and only breaks the alignment. Confidence intervals for the $rho$ were obtained by bootstrapping the data 1,000 times with a confidence level of $95%$. I used block bootstrapping to preserve the autocorrelation typical of time series by resampling chunks of ten consecutive years. Results are shown in table @tab:spearman_pvalues_mtld_vdem: spread and democratic indices show a negative $rho$ of about $-0.4$, but the wide confidence intervals, which include zero for liberal and electoral democracy, paired with _p_-values over $0.2$ tell us that not only is the inverse correlation uncertain, we cannot distinguish it from chance.
 
 
 #figure(
@@ -171,12 +171,12 @@ else { white }
     },
 table.hline(stroke: 0.5pt),
 text(fill:white)[*V-Dem Index*], text(fill:white)[*Spearman's $rho$*], text(fill:white)[*Confidence Interval ($rho$)*], text(fill:white)[*$p$-value*],
-  [Participatory democracy], [-0.442], [\[-0.651, -0.048\]], [0.500],
-  [Liberal democracy],       [-0.451], [\[-0.680, 0.087\]],  [0.357],
-  [Electoral democracy],     [-0.424], [\[-0.717, 0.071\]],  [0.429],
+  [Participatory democracy], [-0.485], [\[-0.640, -0.019\]], [0.341],
+  [Liberal democracy],       [-0.489], [\[-0.672, 0.107\]],  [0.244],
+  [Electoral democracy],     [-0.463], [\[-0.717, 0.075\]],  [0.317],
 table.hline(stroke: 0.5pt),
   ),
-caption: [Correlation between MTLD and the V-Dem democracy indices between 1980 and 2025. In order: V-Dem index, correlation coefficient $rho$, confidence interval of $rho$, and $p$-value. The $p$-values are obtained with a circular-shift permutation test, which preserves the autocorrelation of the two time series, and the confidence intervals are block-bootstrapped with $95%$ confidence level.]
+caption: [Correlation between MTLD and the V-Dem democracy indices between 1985 and 2025. In order: V-Dem index, correlation coefficient $rho$, confidence interval of $rho$, and $p$-value. The $p$-values are obtained with a circular-shift permutation test, which preserves the autocorrelation of the two time series, and the confidence intervals are block-bootstrapped with $95%$ confidence level.]
 ) <tab:spearman_pvalues_mtld_vdem>
 ]
 
@@ -185,7 +185,7 @@ caption: [Correlation between MTLD and the V-Dem democracy indices between 1980 
 
 There are no visible patterns in the variability of the MTLD among #pms, nor in the way the diversity changes during their careers, suggesting that #pms share no common style. 
 
-On the other hand, the evolution of the MTLD over the years (1945 to 2025) shows a steady reduction of the variability of the lexical diversity along with a steady increase of the democratic indices, until the period 2020-2025 where the variability grows back up and three democratic indices decline. Over the period 1980-2025, the Spearman's $rho$ confidence intervals paired with the _p_-values tell us that the correlation between spread and democratic indices is not certain, and that we cannot distinguish it from chance.
+On the other hand, the evolution of the MTLD over the years (1945 to 2025) shows a steady reduction of the variability of the lexical diversity along with a steady increase of the democratic indices, until the period 2020-2025 where the variability grows back up and three democratic indices decline. Over the period 1985-2025, the Spearman's $rho$ confidence intervals paired with the _p_-values tell us that the correlation between spread and democratic indices is not certain, and that we cannot distinguish it from chance.
 
 
 
