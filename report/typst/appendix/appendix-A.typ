@@ -539,3 +539,11 @@ Applying a word2vec algorithm on the 1000-most-used words of each #pm produces a
     image("../images/tsne_word2vec.png", width: 100%),
     caption: [Top-1000 words #footnote[Top-1000 words means pooling the one thousand most used words of a specific #pm. Stopwords are removed and the lexicon is lemmatized.] from each #pm. The embedding vectors are pretrained Italian word vectors (CBOW, 300 dimensions) taken from _fastText_. Words shared by all #pms are displayed as black rhombuses. The graph show a lot of clustering, suggesting a certain similarity among #pms. That being said, the graph is also too hard to read to gain any conclusive evidence.]
   ), <appx:tsne_word2vec>
+
+
+== Per-Leaning Hostility Against V-Dem Indices
+
+  #figure(
+  image("../images/sentiments_vdem_polleanings.png", width: 100%),
+  caption: [Sentiment values plotted for each year, aggregating speeches from three political leanings, respectively colored as green (center), red (left), and blue (right). Each dot of the graph (for each year) is scaled based on the amount of speeches available for that specific year. The sentiment scores line chart is plotted against V-Dem indices.],
+) <appx:sentiments_vdem_polleanings>

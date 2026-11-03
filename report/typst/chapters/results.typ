@@ -224,14 +224,14 @@ As a first esplorative metric for polarization I decided to compare the vocabula
   ]
 ]
 
-I pooled for each 5-year period the both the 1000-most-used words by each leaning, as well as the 10,000-most-used words by each leaning, and I plotted them in two separate graphs, seen in figure @fig:stack_top_k. The words are lemmatized and the stop words are removed. I choose to limit the scope to the top-1000 and top-10,000 words to reduce the noise from the long tail of the vocabulary, which contains rare or mistranscribed words. The top-10,000 words already show dirty outputs, as seen in the following examples (period 1995-1999, first twenty most used words):
+I pooled for each 5-year period the both the 1000-most-used words by each leaning, as well as the 10,000-most-used words by each leaning, and I plotted them in two separate graphs, seen in figure @fig:stack_top_k. The words are lemmatized and the stop words are removed. I choose to limit the scope to the top-1000 and top-10,000 words to reduce the noise from the long tail of the vocabulary, which contains rare or mistranscribed words. The top-10,000 words already show dirty outputs, as seen in the following examples (period 1995-1999, first twenty most used words, right-exclusive vocabulary):
 
 #blockquote[
-  *Top-1000, right-exclusive:* senatore imposta silvio magistrato magistratura Andreotti chiesa regime avversario piazza dichiarare aprile benessere moro Maastricht sovietico stampa minoranza lettera polizia...
+  *Top-1000:* senatore imposta silvio magistrato magistratura Andreotti chiesa regime avversario piazza dichiarare aprile benessere moro Maastricht sovietico stampa minoranza lettera polizia...
 ]
 
 #blockquote[
-  *Top-10,000, right-exclusive:* erario ferdinare pier rocco gladio albertino umanesimo sardo cerimoniale Muslim Forza innanzi liquota christian intergenerazionale teologia fanfano furto patriotismo piazzante...
+  *Top-10,000:* erario ferdinare pier rocco gladio albertino umanesimo sardo cerimoniale Muslim Forza innanzi liquota christian intergenerazionale teologia fanfano furto patriotismo piazzante...
 ]
 
 
@@ -314,85 +314,58 @@ Leaning-exclusive vocabularies tower over a shared vocabulary common to all lean
 
 == Sentiment Analysis <sec:res_sentiment_analysis>
 
-To check whether there can be any correlation between the hostility of political speeches and the quality of democracy I plotted the sentiment averages for hate speech, aggressiveness, and oppressiveness against V-Dem indices (figure //@hostility - V-Dem). Here again, I did not distinguish by leanings due to delayed intolerances. The graph that plots the per-leaning hostility can be found in appendix @hostility - per leaning. \
-Figure //@hostility_under shows that hate speech is non-existent, and aggressiveness pretty low with an average of 11.5. Negativity on the other hand is seen consistently with a score of about 0.4 (scores range from zero to one). Thus does it seem to be safe for any of the three, which mirror over the years. Some correlation exists with the democratic indices, as confirmed by table @tab: hostility-vodem: Spearman's rho is too close to 2020, and the confidence intervals in negativity cross into negative, while the p-values are all above 0.05 which tells us that hostility and V-Dem indices are unrelated. P-values, rho, and confidence intervals were calculated as before (section @untitled) for consistency. Hostility values can also be compared directly with a bubble plot, as shown in figure @hostility bubble. I plotted expressiveness and negativity, ignoring hate speech since its values are too close to zero for all MPs. Sub-figure @bubble-pers plots expressiveness and negativity on their hostility axes (MPs with less than 100 speeches were omitted for readability). It is interesting to notice how for apart Bettino and Rumor Rumor succeeded Bettencourt as the head of a technical government after the crisis of 1972, and it exhibits a speech style almost ...
+To check whether there can be any correlation between the hostility of political speeches and the quality of democracy I plotted the combined yearly average scores for hate speech, negativity, and aggressiveness against V-Dem indices (figure @fig:sentiment_vdem). Once again, I did not distinguish between leanings due to imbalanced sample sizes. The graph that plots hostility per leaning can be found in appendix @appx:sentiments_vdem_polleanings.\
+Figure @fig:sentiment_vdem shows that hate speech is almost non-existent, while aggressiveness pretty low with an average of $tilde 0.15$ out of $1$. Negativity, on the other hand, is always present with a score of about $0.4$ (scores range from zero to one). The hostility scores are consistent over the years, with no particular trend, and there does not seem to be any correlation with the democratic indices. This is confirmed by the values in table @tab:hostility_vdem: Spearman's confidence values are too close to zero, with the confidence intervals crossing into negative, and the _p_-values are all above $0.45$ (way above the usual $0.05$ threshold). _P_-values, $rho$, and confidence intervals were calculated as in section @sec:res_sentiment_analysis for consistency.
 
 
-... ...a speech style almost opposed to Berlusconi's,
-...carry the...
-...do not help...
-...instead of 0.35 with 0.35
-while... or with...
-for negativity and...
-Berlusconi scores
-express... 0.45 for...
-...oppressiveness
-points +10%, +97% and 0.39
-(0.45 : 100 = 0.35 : 38 points).
-Berlusconi shows similar discrepancies with other adversaries;
-...after the... in second...
-...before the second...
-...to hostility
-...expressiveness
-...oppressiveness
-scores...
-...reduction of...
-...than 90% less than 10% of Berlusconi's
-That said, Italian... have all
-...quite similar on this thematic.
-For oppressiveness the only ones with Berlusconi, Renzi, and Cossiga above 0.2 while the others mainly stay around 0.1.
-Overall on the ... are low end, all
-The ... per... leanings
-...shows that the right is more aggressive than the left (+65%, +8 points)
-(0.20 against 0.07, for an increase of 65% or 13 points), while the left is more negative
-than the right (0.72 against 0.39, for an increase of 7% or 3 points), while the center is lower than both (~0.32~) with a negativity score of 0.32 and an aggressiveness score of 0.11. A note on st% overall Overall, all leanings the sample size in the dataset there are
-Lastly, I aggregated the speeches
-By leaning by ..., the outliers (the periods 1976-1980 with five speeches and general and 1961-1965 with five ... speeches respectively), most periods cluster at a negativity score of ... oppressiveness score of 0.1.
-... It is interesting to notice
-A pair in statistical scores
-A set of periods one's expressly interesting:
-The pair of periods 1945-1950 and 1951-1953 -185 t 494 1945-1950 and 1051-1055 love while both contain specifically De Gasperi's speeches, differ in by their negativity score by 12 points (33-38).
-I hypotette hypothesise that the I proxime the case can be attributed by to the this could be attributed to the hopeful outlook of the post-war period.
-... Speeches in this covuje course are NOT NOT TRUE the ... preceding ... to degree ... hostility ... compared to the period when (m.a., 61-625) she is in office These periods differ was in by office
-(8,6%) ... points in ... the negativity score, or (25%) score oppressiveness the 5 points
-We can hypothesise that the ... positions and tones in ... and to soften ... observer always ... they politicians once ... to ... Interestingly, they are both heavily porous by.
-... Power, //@citation is ...?
-... is negative than the 4 by 4 and 16 points respectively height with expressivity.
-There is another pair of periods that deviates from the non moodly nearly periods 2016-2020 and 2021-2025. While it will be tempting to attribute the reduction in hostility from the first between the two to the their posters
-Rise in power of Giorgia Meloni (we know from research that populist and far right politicians tend to be in office), our data shows almost no change for 2016-2020 compared ... the dataset contains mostly left leaning speeches for the period 2016-2020, this not by Meloni period, its interesting to notice that period 2021-2025 (that contain mainly Meloni's speeches) while they score more aggressive
-... then mean by 5 points, dsa shes negative by 8 points (is -20%).
-TARGET ... tonally target. Let's ... I will ... last pure classifier ... the targets ethe winties, wities and celifiers uimavieties, since their presence speeches is so low that I can't draw
-any meaningful conclusions, as shown in Figure : target selects, figme figure target ethno could imply on those in speeches begs the only July ethnic minorities are targeted by more than 10% of speeches in some 5-year periods, but the percentage never which is how uses above 3.1% the desint from noise in the glasses was bounded by I cannot draw any
-A classification - which it low could Could lead to
-When we compare law target political adversaries we see that across the duost all of them do so in more than half of their speeches. Once again, no color pattern emerges but its interesting to notice Berlusconi and De ... instead at the top with 79.4% / 92.3% speeches targeting and respecting ... their other is there
-oppressiveness score by more than 90% (0.04 for Dento Deusto De Gasperi er for Berlusconi).
-Grouping by ... periods does not tell us better except show is a certain asymmetry is low many speeches target political adv's (recalling that the reads 1964- from 1961 to 1984 be ...), grouping by sliced leanings shows that the ... the right duost deviated in this region, with
-center-leaning politicians targeting political was most shows duost almost 20% dessus speeches out of 6 speeches out of 10 compared to the chest 8 speeches out of 10 for the left and right politicians).
-This fact is interesting when paired with the small less hostility of the center: ... who could hypothesise that the ... has polarised faster and political adversaries ... reloc.   conclusions is Hate Speech duost ra~~-~~existent speeches, alle thai re still aggressive scored (0.2 out of 1) and negative (scores 0.4 out of 1). There is no relation between hostility metrics and democratic values, as shown by the Spearman's ... the probes ... Klas, don't ... any forget ..., but
-target political odersyjes in pedes out of ... ess the targeting center is then overall the right less hostile and the left eor ... Corsich ... Really ... huh, the rights more expressive that the ... best to be term's slightly negative.
+Hostility values can be compared directly with a bubble chart, as shown in figure @fig:hostility_bubble. I plotted aggressiveness and negativity, ignoring hate speech since its scores are negligible for all #pms.\
+Sub figure @fig:bubble_pms plots #pms over their hostility axes (#pms with less than 100 speeches are omitted for readability #footnote[Recomputing the graph with the legend on the side do not makes matters worse.]). It is interesting to notice how far apart Berlusconi and Monti are: Monti succeeded Berlusconi as head of government after the crisis of 2011, and his speech style is almost opposite to Berlusconi's. Monti's scores are $0.35$ for negativity and $0.01$ for aggressiveness, while Berlusconi scores $0.45$ for negativity ($+22%$, $+10$ points), and $0.39$ for aggressiveness ($+97%$, $+10$ points). Berlusconi shares similar discrepancies with Prodi (which was in office before the last and after the second last Berlusconi government), and Amato (which was in office before the second last Berlusconi government), whose aggressiveness scores are $0.05$ and $0.04$ respectively.\
+That being said, all Italian #pms are quite similar in their negativity scores, which range between $0.21$ and $0.46$. For aggressiveness, Berlusconi, Meloni, and Cossiga are the only ones with a score above $0.2$, while the rest scores around $0.1$. Overall, for both values the relative scores are not so high, all being below $0.5$ out of $1$.
+
+Grouping the scores by political leaning (sub figure @fig:bubble_leanings) shows that the right is more aggressive than the left ($0.2$ against $0.07$, for an increase of $65%$ or $+13$ points), while the left is slightly more negative than the right ($0.42$ against $0.39$, for an increase of $7%$ or $3$ points). The center is lower than both, with a negativity score of $0.32$ and an aggressiveness score of $0.11$.
+
+Lastly, I aggregated the score by 5-year periods (sub figures @fig:bubble_years_zoomout and @fig:bubble_years_zoomin). Ignoring the outliers (like periods 1976-1980 and 1961-1965 with five and one speech respectively), most periods cluster around a negativity score of $0.4$ and an aggressiveness score of $0.1$. Periods 1945-1949 and 1950-1954 are worth a closer look //pdf page 20
 
 
-=== Democratic Indices Against Sentiment Scoring <sec:vdem_vs_sentiment>
 
-#subpar.grid(
-  rows: 2,
-  gutter: 3pt,
-  figure(
-    image("../images/sentiments_vdem_combined.png", width: 100%),
-    caption: [Sentiment values plotted for each year, aggregating all speeches from all political leanings. Each dot of the graph (for each year) is scaled based on the amount of speeches available for that specific year. The confidence intervals are shown. The sentiment scores chart is plotted against V-Dem indices.]
-  ), <fig:sentiments_vdem_combined>,
-  figure(
-    image("../images/sentiments_vdem_polleanings.png", width: 100%),
-    caption: [Sentiment values plotted for each year, aggregating speeches from three political leanings, respectively colored as green (center), red (left), and blue (right). Each dot of the graph (for each year) is scaled based on the amount of speeches available for that specific year. The The sentiment scores line chart is plotted against V-Dem indices.]
-  ), <fig:sentiments_vdem_polleanings>,
-  v(0.2em),
-  caption: [Sentiment analysis results for _hate speech_, _aggressiveness_, and _negativity_ plotted against V-Dem indices. Its hart to tell wether there is any correlation between them.],
-  label: <fig:sentiment_vdem>
-)
+*TODO: BUBBLE REPLACE GRAPHS*
 
-=== Toxicity (TODO: change name) <sec:toxicity>
 
-First thing first: hate speech is so low for everyone that we can ignore it
+#figure(
+  image("../images/sentiments_vdem_combined.png", width: 100%),
+  caption: [Sentiment values plotted for each year, aggregating all speeches from all political leanings. Each dot size of the graph (for each year) is scaled based on the amount of speeches available for that specific year.The sentiment scores chart is plotted against V-Dem indices.],
+) <fig:sentiment_vdem>
+
+#v(1em)
+#[
+#show figure: set block(breakable: true)
+#figure(
+table(
+columns: (auto, auto, auto, auto, auto),
+align: center + horizon,
+stroke: none,
+inset: 5pt,
+fill: (col, row) => {
+if row == 0 { rgb("#B5001B") }
+else if col == 0 { white }
+else if calc.rem(row, 2) == 0 { rgb("#B5001B33") }
+else { white }
+    },
+table.hline(stroke: 0.5pt),
+text(fill:white)[*Dimension*], text(fill:white)[*V-Dem Index*], text(fill:white)[*Spearman's $rho$*], text(fill:white)[*Confidence Interval*], text(fill:white)[*$p$-Value*],
+    table.cell(rowspan: 3)[Negativity], [Electoral democracy], [0.120], [\[-0.356, 0.507\]], [0.844],
+    [Participatory democracy], [0.041], [\[-0.386, 0.448\]], [0.911],
+    [Liberal democracy], [0.157], [\[-0.365, 0.548\]], [0.822],
+    table.hline(stroke: 0.25pt),
+    table.cell(rowspan: 3)[Aggressiveness], [Electoral democracy], [0.294], [\[0.140, 0.640\]], [0.556],
+    [Participatory democracy], [0.257], [\[0.036, 0.597\]], [0.622],
+    [Liberal democracy], [0.330], [\[0.134, 0.658\]], [0.467],
+table.hline(stroke: 0.5pt),
+  ),
+caption: [Correlation between the negativity and aggressiveness dimensions and the V-Dem democracy indices. In order: dimension, V-Dem index, correlation coefficient $rho$, confidence interval of $rho$, and $p$-value. The $p$-values are obtained with a circular-shift permutation test, which preserves the autocorrelation of the two time series.]
+) <tab:hostility_vdem>
+]
+#v(1em)
 
 
 #subpar.grid(
@@ -402,36 +375,27 @@ First thing first: hate speech is so low for everyone that we can ignore it
   figure(
     image("../images/sentiments_2d_pms.png", width: 100%),
     caption: [Sentiment: #pms ($|"speeches"|gt.eq 100$).]
-  ), <fig:sentiments_2d_pms>,
+  ), <fig:bubble_pms>,
   figure(
     image("../images/sentiments_2d_leanings.png", width: 100%),
     caption: [Sentiment: leanings.]
-  ), <fig:sentiments_2d_leanings>,
+  ), <fig:bubble_leanings>,
   figure(
     image("../images/sentiments_2d_years_zoomout.png", width: 100%),
     caption: [Sentiment: years zoomed out.]
-  ), <fig:sentiments_2d_years_zoomout>,
+  ), <fig:bubble_years_zoomout>,
   figure(
     image("../images/sentiments_2d_years_zoomin.png", width: 100%),
     caption: [Sentiment: years zoomed in.]
-  ), <fig:sentiments_2d_years_zoomin>,
+  ), <fig:bubble_years_zoomin>,
   v(0.2em),
   caption: [Sentiment analysis results for _negativity_ and _aggressiveness_. Values go from zero to one, and the classification task considers three possibile values for each speech: _low_ ($0$), _mid_ ($0.5$), and _high_ ($1$). 
-  
-  Size of bubbles depends on the amount of speeches. @fig:sentiments_2d_pms project results for single #pms: Berlusconi stands out as the most aggressive by far. @fig:sentiments_2d_leanings project results aggregated by leanings. The right appears to be more aggressive, while the left more negative. The center seems to be more positive than both. The last two figures show the sentiment scores aggregated by years (with 5-year pool range). While @fig:sentiments_2d_years_zoomout shows an outlier for the period $1976-1980$, @fig:sentiments_2d_years_zoomin shows that overall the sentiment scores are quite close to each other, without great variability especially for periods with a lot of speeches.],
-  label: <fig:sentiment_2axis>,
+
+  Size of bubbles depends on the amount of speeches. @fig:bubble_pms project results for single #pms: Berlusconi stands out as the most aggressive by far. @fig:bubble_leanings project results aggregated by leanings. The right appears to be more aggressive, while the left more negative. The center seems to be more positive than both. The last two figures show the sentiment scores aggregated by years (with 5-year pool range). While @fig:bubble_years_zoomout shows an outlier for the period $1976-1980$, @fig:bubble_years_zoomin shows that overall the sentiment scores are quite close to each other, without great variability especially for periods with a lot of speeches.],
+  label: <fig:hostility_bubble>,
 )
+#v(1em)
 
-=== Targets <sec:targets>
-
-Five possible targets: 
-- None;
-- Political adversaries;
-- Gender minorities;
-- Religious minorities;
-- Ethnic minorities.
-
-The targets are classified independently to the sentiment scores. For example, a speech could have _low_ aggressiveness and still be targeting political adversaries. 
 
 #subpar.grid(
   columns: 2,
@@ -453,9 +417,7 @@ The targets are classified independently to the sentiment scores. For example, a
   caption: [All graphs show the percentage of speeches that target political adversaries. @fig:target_leaderboard_polAdv_pms shows which #pm speaks more often about the opposition (#pms with less than 100 speeches are omitted). @fig:target_leaderboard_polAdv_years shows in which 5-year periods there are more speeches targeting political adversaries (ordered by year). Lastly, @fig:target_leaderboard_polAdv_leanings shows which of the three political fields is more likely to speak about the opposing front. The results show how, across the board, more than one speech out of two targets the opposition. This is true regardless of time period or affiliation.],
   label: <fig:target_leaderboard_polAdv>,
 )
-
-#v(2em)
-Thankfully, Italian #pm apparently do not target minorities often.
+#v(1em)
 
 #subpar.grid(
   columns: 3,
