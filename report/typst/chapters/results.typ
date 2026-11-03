@@ -205,6 +205,27 @@ On the other hand, the evolution of the MTLD over the years (1945 to 2025) shows
 
 == Polarization <sec:res_polarization>
 
+As a first esplorative metric for polarization I decided to compare the vocabularies of the three main political leanings, namely left (which comprises left and center-left), right (which comprises right and center-right), and center. To do so, I measured the size of the vocabularies exclusive to a leaning compared to the size of the vocabulary shared among them, for example:
+
+let left_vocabulary = ["A", "B" ]
+let right_vocabulary = ["A", "B", "γ"]
+//
+let center_vocabulary = ["A", " " ]
+//
+let shared-vocabulary = [A]
+/
+left_vSx_exclusive = ["B", " "
+etc... 
+
+To do so, for each 5-year period i pooled both the most words by each leaning, as well as the 10,000-unit and wor's by code leaning, and i plotted these in two separate plots, seen of figure @fig: top-K. Periods $1945-1949$ and 1950-1954 can be ignored since they contain only center-bearing speeches (all authored by De Gasperi), and sparsity between 1955 od 1979 can be ignored as well due to data scarcity. Thus, I focused on the period $1985-2025$. In the top 1k graph in figure @fig: top-K it is interesting to notice that, during the 1985-2015 period, the center-exclusive vocabularies contain more users than both left- and right-exclusive vocabularies, even though the center-leaning speeches in this period are almost non-existent. This phenomenon is not present in the top 10k graph, where it is instead found in the $1985-1994$ period, which incidentally has more outer-leaning speeches.   Leaving distributions aside, the top 1k graph shows an increase of exclusive vocabularies along with a decrease in shared vocabulary from 1985 all the way to 2000, with an overtake of the exclusive vocabularies in 2000. By "exclusive vocabularies path" to say that the sum of the sizes of the three exclusive vocabularies increases.\
+The period 2020-2025 sees a sudden growth of the shared vocabulary, but the exclusive vocabularies are still bigger. The top 1k graph tells us more that political sides adopted a vocabulary incomparable more exclusive to their side, which can then be interpreted as a sign of polarization. The top 10k graph reinforces this concept since in each and every period the exclusive vocabularies hover over the shared one. It is interesting to notice that the evolution of the shared vocabulary (i.e. the slope of the evolution curve) is very similar between the two graphs, even if the size of each differs by one order of magnitude.   
+
+
+DOC 2 VEC
+The presence of polarization between Apos and political leanings is collaborated by the t-SNE graphs plot all speeches in figure @t-SNE, which are embedded with a simple Doc2Vec algorithm that builds document vectors as TF-IDF-weighted averages of pre-trained word embeddings, with the formula:   
+$$doc vector = \frac{\sum W_i v_i}{\sum W_i}$$ 
+where $v_i$ is the FastText embedding for word i, and $W_i$ the TF-IDF score for that weight. When the speeches (i.e. the points in the t-SNE plot) get colored by the MP who authored them, we can clearly see that many MPs form tight clusters, and the overlapping is minimal. This suggests that most MPs have a personal style, which agrees with previous findings in section @sec: muted: when we color by political leaning, we see once again evident despite clustering, supporting that symptoms of polarization are indeed present as previously observed. Of course, some clusters are directly correlated to a year, for example the green Colony by year plots, on the other hand, does not suggest anything conclusive. Center-leaning Leaning-exclusive vocabularies favor vs a shared, common vocabulary over leanings, paired with evident per-MP and per-leaning clustering of speeches in the vectorial space, suggests that symptoms of polarization may indeed be present. 
+
 === #pm's Lexical Similarity <sec:lexical_similarity_pms>
 
 #subpar.grid(
@@ -284,6 +305,64 @@ On the other hand, the evolution of the MTLD over the years (1945 to 2025) shows
 We see quite a bit of polarization, but ...
 
 == Sentiment Analysis <sec:res_sentiment_analysis>
+
+To check whether there can be any correlation between the hostility of political speeches and the quality of democracy I plotted the sentiment averages for hate speech, aggressiveness, and oppressiveness against V-Dem indices (figure @hostility - V-Dem). Here again, I did not distinguish by leanings due to delayed intolerances. The graph that plots the per-leaning hostility can be found in appendix @hostility - per leaning. \
+Figure @hostility_under shows that hate speech is non-existent, and aggressiveness pretty low with an average of 11.5. Negativity on the other hand is seen consistently with a score of about 0.4 (scores range from zero to one). Thus does it seem to be safe for any of the three, which mirror over the years. Some correlation exists with the democratic indices, as confirmed by table @tab: hostility-vodem: Spearman's rho is too close to 2020, and the confidence intervals in negativity cross into negative, while the p-values are all above 0.05 which tells us that hostility and V-Dem indices are unrelated. P-values, rho, and confidence intervals were calculated as before (section @untitled) for consistency. Hostility values can also be compared directly with a bubble plot, as shown in figure @hostility bubble. I plotted expressiveness and negativity, ignoring hate speech since its values are too close to zero for all MPs. Sub-figure @bubble-pers plots expressiveness and negativity on their hostility axes (MPs with less than 100 speeches were omitted for readability). It is interesting to notice how for apart Bettino and Rumor Rumor succeeded Bettencourt as the head of a technical government after the crisis of 1972, and it exhibits a speech style almost ...
+
+
+... ...a speech style almost opposed to Berlusconi's,
+...carry the...
+...do not help...
+...instead of 0.35 with 0.35
+while... or with...
+for negativity and...
+Berlusconi scores
+express... 0.45 for...
+...oppressiveness
+points +10%, +97% and 0.39
+(0.45 : 100 = 0.35 : 38 points).
+Berlusconi shows similar discrepancies with other adversaries;
+...after the... in second...
+...before the second...
+...to hostility
+...expressiveness
+...oppressiveness
+scores...
+...reduction of...
+...than 90% less than 10% of Berlusconi's
+That said, Italian... have all
+...quite similar on this thematic.
+For oppressiveness the only ones with Berlusconi, Renzi, and Cossiga above 0.2 while the others mainly stay around 0.1.
+Overall on the ... are low end, all
+The ... per... leanings
+...shows that the right is more aggressive than the left (+65%, +8 points)
+(0.20 against 0.07, for an increase of 65% or 13 points), while the left is more negative
+than the right (0.72 against 0.39, for an increase of 7% or 3 points), while the center is lower than both (~0.32~) with a negativity score of 0.32 and an aggressiveness score of 0.11. A note on st% overall Overall, all leanings the sample size in the dataset there are
+Lastly, I aggregated the speeches
+By leaning by ..., the outliers (the periods 1976-1980 with five speeches and general and 1961-1965 with five ... speeches respectively), most periods cluster at a negativity score of ... oppressiveness score of 0.1.
+... It is interesting to notice
+A pair in statistical scores
+A set of periods one's expressly interesting:
+The pair of periods 1945-1950 and 1951-1953 -185 t 494 1945-1950 and 1051-1055 love while both contain specifically De Gasperi's speeches, differ in by their negativity score by 12 points (33-38).
+I hypotette hypothesise that the I proxime the case can be attributed by to the this could be attributed to the hopeful outlook of the post-war period.
+... Speeches in this covuje course are NOT NOT TRUE the ... preceding ... to degree ... hostility ... compared to the period when (m.a., 61-625) she is in office These periods differ was in by office
+(8,6%) ... points in ... the negativity score, or (25%) score oppressiveness the 5 points
+We can hypothesise that the ... positions and tones in ... and to soften ... observer always ... they politicians once ... to ... Interestingly, they are both heavily porous by.
+... Power, @citation is ...?
+... is negative than the 4 by 4 and 16 points respectively height with expressivity.
+There is another pair of periods that deviates from the non moodly nearly periods 2016-2020 and 2021-2025. While it will be tempting to attribute the reduction in hostility from the first between the two to the their posters
+Rise in power of Giorgia Meloni (we know from research that populist and far right politicians tend to be in office), our data shows almost no change for 2016-2020 compared ... the dataset contains mostly left leaning speeches for the period 2016-2020, this not by Meloni period, its interesting to notice that period 2021-2025 (that contain mainly Meloni's speeches) while they score more aggressive
+... then mean by 5 points, dsa shes negative by 8 points (is -20%).
+TARGET ... tonally target. Let's ... I will ... last pure classifier ... the targets ethe winties, wities and celifiers uimavieties, since their presence speeches is so low that I can't draw
+any meaningful conclusions, as shown in Figure : target selects, figme figure target ethno could imply on those in speeches begs the only July ethnic minorities are targeted by more than 10% of speeches in some 5-year periods, but the percentage never which is how uses above 3.1% the desint from noise in the glasses was bounded by I cannot draw any
+A classification - which it low could Could lead to
+When we compare law target political adversaries we see that across the duost all of them do so in more than half of their speeches. Once again, no color pattern emerges but its interesting to notice Berlusconi and De ... instead at the top with 79.4% / 92.3% speeches targeting and respecting ... their other is there
+oppressiveness score by more than 90% (0.04 for Dento Deusto De Gasperi er for Berlusconi).
+Grouping by ... periods does not tell us better except show is a certain asymmetry is low many speeches target political adv's (recalling that the reads 1964- from 1961 to 1984 be ...), grouping by sliced leanings shows that the ... the right duost deviated in this region, with
+center-leaning politicians targeting political was most shows duost almost 20% dessus speeches out of 6 speeches out of 10 compared to the chest 8 speeches out of 10 for the left and right politicians).
+This fact is interesting when paired with the small less hostility of the center: ... who could hypothesise that the ... has polarised faster and political adversaries ... reloc.   conclusions is Hate Speech duost ra~~-~~existent speeches, alle thai re still aggressive scored (0.2 out of 1) and negative (scores 0.4 out of 1). There is no relation between hostility metrics and democratic values, as shown by the Spearman's ... the probes ... Klas, don't ... any forget ..., but
+target political odersyjes in pedes out of ... ess the targeting center is then overall the right less hostile and the left eor ... Corsich ... Really ... huh, the rights more expressive that the ... best to be term's slightly negative.
+
 
 === Democratic Indices Against Sentiment Scoring <sec:vdem_vs_sentiment>
 
