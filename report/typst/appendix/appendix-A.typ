@@ -508,3 +508,34 @@ caption: "Prompts to be fed into Gemma 4 to classify the corpus and their respec
   caption: [MTLD values aggregated for each year, plotted against VDEM indices. There does not seem to be a correlation between a decrease in complexity and a decrease in democratic indices. Instead, the graph seems to suggest the opposite. There seem to be a reduction in MTLD variance starting from 1989 all the way to 2019, whith an abrupt inversion in the 2020-2025 period. If this is a correlation with the inflection of some VDEM indices, it is not clear.],
   label: <appx:vdem_5y_pms_leanings>
 )
+
+
+== #pm's Lexical Similarity 
+
+Heatmaps comparing prime ministers' most used words and vocabularies directly.
+
+#subpar.grid(
+  columns: 2,
+  gutter: 1pt,
+  figure(
+    image("../images/heatmap_words.png", width: 100%),
+    caption: [Words similarity.]
+  ), <appx:heatmap_words>,
+  figure(
+    image("../images/heatmap_jaccard.png", width: 100%),
+    caption: [Jaccard similarity.]
+  ), <appx:heatmap_jaccard>,
+  v(0.2em),
+  caption: [Heatmaps showing lexical similarity between #pms' speeches. @appx:heatmap_words was made by pooling the 1000 most used words by each #pm, then calculating how many words are shared between each of them. @appx:heatmap_jaccard, on the other hand, is made by calculating the Jaccard index between each pair of #pms, by pooling _all_ words from all speeches used by each #pm.],
+  label: <appx:heatmaps_pms>,
+)
+
+
+== Word2Vec: Word Embeddings
+
+Applying a word2vec algorithm on the 1000-most-used words of each #pm produces a t-SNE graph hard to read. Some clusters emerge, but drawing conclusion is unlikely.
+
+  #figure(
+    image("../images/tsne_word2vec.png", width: 100%),
+    caption: [Top-1000 words #footnote[Top-1000 words means pooling the one thousand most used words of a specific #pm. Stopwords are removed and the lexicon is lemmatized.] from each #pm. The embedding vectors are pretrained Italian word vectors (CBOW, 300 dimensions) taken from _fastText_. Words shared by all #pms are displayed as black rhombuses. The graph show a lot of clustering, suggesting a certain similarity among #pms. That being said, the graph is also too hard to read to gain any conclusive evidence.]
+  ), <appx:tsne_word2vec>

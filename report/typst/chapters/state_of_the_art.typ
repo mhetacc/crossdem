@@ -108,7 +108,7 @@ Karjus and Cuskley (2023) @karjus_evolving_2023 quantified linguistic divergence
     <fig:karjus_umap>
 ]
 
-In this project, I tried to identify and visualize polarization in two ways: first, by measuring the overlapping vocabulary among three political areas (left, right, and center) over time, and comparing it against those areas' exclusive vocabularies (section @sec:lexicons_over_time); and second, by projecting on a t-SNE graph all collected speeches vectorized with a doc2vec algorithm (section @sec:tsne).
+In this project, I tried to identify and visualize polarization in two ways: first, by measuring the overlapping vocabulary among three political areas (left, right, and center) over time, and comparing it against those areas' exclusive vocabularies, and second, by projecting on a t-SNE graph all collected speeches vectorized with a doc2vec algorithm (section @sec:res_polarization).
 
 
 

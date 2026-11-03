@@ -205,46 +205,48 @@ On the other hand, the evolution of the MTLD over the years (1945 to 2025) shows
 
 == Polarization <sec:res_polarization>
 
-As a first esplorative metric for polarization I decided to compare the vocabularies of the three main political leanings, namely left (which comprises left and center-left), right (which comprises right and center-right), and center. To do so, I measured the size of the vocabularies exclusive to a leaning compared to the size of the vocabulary shared among them, for example:
+As a first esplorative metric for polarization I decided to compare the vocabularies of the three main political leanings, namely left (which comprises left and center-left), right (which comprises right and center-right), and center, measuring the size of the vocabularies exclusive to each leaning and comparing them to the size of the vocabulary shared among all leanings, for example:
 
-let left_vocabulary = ["A", "B" ]
-let right_vocabulary = ["A", "B", "γ"]
-//
-let center_vocabulary = ["A", " " ]
-//
-let shared-vocabulary = [A]
-/
-left_vSx_exclusive = ["B", " "
-etc... 
+#[
+  #import "@preview/algo:0.3.6": algo, i, d, comment, code
 
-To do so, for each 5-year period i pooled both the most words by each leaning, as well as the 10,000-unit and wor's by code leaning, and i plotted these in two separate plots, seen of figure @fig: top-K. Periods $1945-1949$ and 1950-1954 can be ignored since they contain only center-bearing speeches (all authored by De Gasperi), and sparsity between 1955 od 1979 can be ignored as well due to data scarcity. Thus, I focused on the period $1985-2025$. In the top 1k graph in figure @fig: top-K it is interesting to notice that, during the 1985-2015 period, the center-exclusive vocabularies contain more users than both left- and right-exclusive vocabularies, even though the center-leaning speeches in this period are almost non-existent. This phenomenon is not present in the top 10k graph, where it is instead found in the $1985-1994$ period, which incidentally has more outer-leaning speeches.   Leaving distributions aside, the top 1k graph shows an increase of exclusive vocabularies along with a decrease in shared vocabulary from 1985 all the way to 2000, with an overtake of the exclusive vocabularies in 2000. By "exclusive vocabularies path" to say that the sum of the sizes of the three exclusive vocabularies increases.\
-The period 2020-2025 sees a sudden growth of the shared vocabulary, but the exclusive vocabularies are still bigger. The top 1k graph tells us more that political sides adopted a vocabulary incomparable more exclusive to their side, which can then be interpreted as a sign of polarization. The top 10k graph reinforces this concept since in each and every period the exclusive vocabularies hover over the shared one. It is interesting to notice that the evolution of the shared vocabulary (i.e. the slope of the evolution curve) is very similar between the two graphs, even if the size of each differs by one order of magnitude.   
+  #algo()[
+    #comment[Original vocabularies]
+    let left_vocabulary = [A, B, C]\
+    let right_vocabulary = [A, $beta$, $gamma$]\
+    let center_vocabulary = [A, _X_, _Y_]\
+    then: #i
+      #comment[Shared and exclusive vocabularies]\
+      let shared_vocabulary = [A]\
+      let left_exclusive = [B, C]\
+      let right_exclusive = [$beta$, $gamma$]\
+      let center_exclusive = [_X_, _Y_]\
+  ]
+]
+
+I pooled for each 5-year period the both the 1000-most-used words by each leaning, as well as the 10,000-most-used words by each leaning, and I plotted them in two separate graphs, seen in figure @fig:stack_top_k. Periods between 1945 and 1954 can be ignored since they contain only center-leaning speeches (all authored by De Gasperi), and periods between 1955 an 1984 can be ignored as well due to data scarcity. \
+I thus focused on periods between 1985 and 2025: in the top-1k graph (sub figure @fig:stack_top1k) it is interesting to notice that, during the period 1995-2015, the center-exclusive vocabularies contain more words than both left- and right-exclusive vocabularies, even though the center-leaning speeches in this period are almost non-existent. This phenomenon is not present in the top 10k graph (sub figure @fig:stack_top10k), where it is instead found in the period 1985-1994, which incidentally has more center-leaning speeches.   
+
+Leaving distributions aside, the top 1k graph shows a growth of the exclusive vocabularies along with a decline of the shared vocabulary from 1985 all the way to 1999, with an overtake of the exclusive vocabularies in 2000. By "exclusive vocabularies growth" I mean to say that the sum of the sizes of the three exclusive vocabularies increases.\
+While the period 2020-2025 sees a sudden growth of the shared vocabulary, the exclusive vocabularies' sizes remain larger. The top 1k graph tells us that political leanings adopted a vocabulary increasingly more exclusive to their side, which can then be interpreted as a sign of polarization. The top 10k graph reinforces this stance since in each and every period the exclusive vocabularies tower over the shared vocabulary. It is interesting to notice that the evolution of the shared vocabulary (i.e. the slope of the evolution curve) is very similar between the two graphs, even if theirs scales differ by one order of magnitude. 
 
 
-DOC 2 VEC
-The presence of polarization between Apos and political leanings is collaborated by the t-SNE graphs plot all speeches in figure @t-SNE, which are embedded with a simple Doc2Vec algorithm that builds document vectors as TF-IDF-weighted averages of pre-trained word embeddings, with the formula:   
-$$doc vector = \frac{\sum W_i v_i}{\sum W_i}$$ 
-where $v_i$ is the FastText embedding for word i, and $W_i$ the TF-IDF score for that weight. When the speeches (i.e. the points in the t-SNE plot) get colored by the MP who authored them, we can clearly see that many MPs form tight clusters, and the overlapping is minimal. This suggests that most MPs have a personal style, which agrees with previous findings in section @sec: muted: when we color by political leaning, we see once again evident despite clustering, supporting that symptoms of polarization are indeed present as previously observed. Of course, some clusters are directly correlated to a year, for example the green Colony by year plots, on the other hand, does not suggest anything conclusive. Center-leaning Leaning-exclusive vocabularies favor vs a shared, common vocabulary over leanings, paired with evident per-MP and per-leaning clustering of speeches in the vectorial space, suggests that symptoms of polarization may indeed be present. 
 
-=== #pm's Lexical Similarity <sec:lexical_similarity_pms>
 
-#subpar.grid(
-  columns: 2,
-  gutter: 1pt,
-  figure(
-    image("../images/heatmap_words.png", width: 100%),
-    caption: [Words similarity.]
-  ), <fig:heatmap_words>,
-  figure(
-    image("../images/heatmap_jaccard.png", width: 100%),
-    caption: [Jaccard similarity.]
-  ), <fig:heatmap_jaccard>,
-  v(0.2em),
-  caption: [Heatmaps showing lexical similarity between #pms' speeches. @fig:heatmap_words was made by pooling the 1000 most used words by each #pm, then calculating how many words are shared between each of them. @fig:heatmap_jaccard, on the other hand, is made by calculating the Jaccard index between each pair of #pms, by pooling _all_ words from all speeches used by each #pm.],
-  label: <fig:heatmaps_pms>,
-)
 
-=== Political Leanings Lexicons Over Time <sec:lexicons_over_time>
+
+
+The presence of polarization between #pms and political leanings is corroborated by the t-SNE graphs in figure @fig:tsne_doc2vec, which plot all speeches embedded with a simple doc2vec algorithm that builds document vectors as Tf-IdF-weighted averages of pre-trained word embeddings, with the formula:
+
+$
+"Document Vector" = frac(sum w_i v_i, sum w_i)
+$<math:doc2vec>
+
+where $v_i$ is the FastText embedding for word $i$, and $w_i$ the Tf-IdF score for that weight. When the speeches (i.e. the points in the t-SNE plot) are highlighted by the #pm who authored them (sub figure @fig:doc2vec_pms), we can clearly see that most #pms' speeches cluster together, with little overlap. This reinforces the idea that most #pms have a personal style, agreeing with previous findings in section @sec:res_textual_complexity. 
+
+By highlight the speeches by political leaning (sub figure @fig:doc2vec_leanings), we see once again evident clustering, suggesting that symptoms of polarization are indeed present as previously observed. It is important to notice that some leaning-specific clusters are directly correlated to a #pm, for example the green center-leaning cluster mostly overlaps with De Gasperi's cluster.
+
+Highlighting the speeches by 5-year periods (sub figure @fig:doc2vec_years) on the other hand, shows little clustering and a lot of overlap, preventing us from drawing any conclusions.
 
 #subpar.grid(
   columns: 2,
@@ -261,19 +263,9 @@ where $v_i$ is the FastText embedding for word i, and $W_i$ the TF-IDF score for
   caption: [All speeches are pooled in 5-year time frames. Then, for each 5-year time frame, the top-N most frequently used words are extracted for each political leaning #footnote[A speech is considered "right-leaning" if it pertains a right-leaning #pm.] (one thousands words for graph at @fig:stack_top1k, and ten thousands words for graph at  @fig:stack_top10k). This results in three distinct sets#footnote[When speeches for each leaning are present. Otherwise only two, one, or no set at all can be extracted from that 5-year time frame.] of words for left, right, and center leaning speeches respectively. \
 
   The graph shows, for each 5-year time frame, words in common among all leanings (in grey), and words unique for each leaning (in red, blue, and green respectively). For the years with most data (from 1985 to 2015), @fig:stack_top1k shows a progressive increase in unique vocabularies compared to a decrease in shared ones, which can be interpreted as symptoms of increasing polarization.],
-  label: <fig:polarization_stackbars>,
+  label: <fig:stack_top_k>,
 )
-
-=== t-SNE <sec:tsne>
-
-==== Word2Vec: Word Embeddings
-
-  #figure(
-    image("../images/tsne_word2vec.png", width: 100%),
-    caption: [Top-1000 words #footnote[Top-1000 words means pooling the one thousand most used words of a specific #pm. Stopwords are removed and the lexicon is lemmatized.] from each #pm. The embedding vectors are pretrained Italian word vectors (CBOW, 300 dimensions) taken from _fastText_. Words shared by all #pms are displayed as black rhombuses. The graph show a lot of clustering, suggesting a certain similarity among #pms. That being said, the graph is also too hard to read to gain any conclusive evidence.]
-  ), <fig:tsne_word2vec>
-
-==== Doc2Vec: Speech Embeddings
+#v(1em)
 
 #subpar.grid(
   columns: 2,
@@ -295,19 +287,27 @@ where $v_i$ is the FastText embedding for word i, and $W_i$ the TF-IDF score for
   caption: [Using `TfidfVectorizer` from `sklearn` library, I computed one embedding for each speech #footnote[Each speech counts as a document.]. The embeddings can then be projected in two dimensions. @fig:doc2vec_pms shows the projected speech vectors grouped by #pms. We can see clustering, suggesting that most #pms have a lexical style and wording that are unique to them. @fig:doc2vec_leanings groups the vectors by political leaning, showing that different leanings occupy different and distinct regions in the vector space. Both graphs strongly hints to a polarized political landscape.
   
   On the other hand, @fig:doc2vec_years shows two main clustering regions: on the top, speeches from 1945 to 1955 gather, while speeches from 1991 to 2025 are more uniformly scattered across the whole vector space. This suggests that earlier speeches were significantly different compared to modern ones, while speeches from the nineties onward are quite similar.],
-  label: <fig:doc2vec>,
+  label: <fig:tsne_doc2vec>,
 )
 
-*TODO: compare with V-Dem polarization indices (if exists).*
 
 === Conclusions <sec:polarization_conclusions>
 
-We see quite a bit of polarization, but ...
+Leaning-exclusive vocabularies tower over a shared vocabulary common to all leaning, which paired with per-#pm and per-leaning speeches' clustering in the vector space suggests that symptoms of polarization may be present in the Italian political landscape. 
+
+
+
+
+
+
+
+
+
 
 == Sentiment Analysis <sec:res_sentiment_analysis>
 
-To check whether there can be any correlation between the hostility of political speeches and the quality of democracy I plotted the sentiment averages for hate speech, aggressiveness, and oppressiveness against V-Dem indices (figure @hostility - V-Dem). Here again, I did not distinguish by leanings due to delayed intolerances. The graph that plots the per-leaning hostility can be found in appendix @hostility - per leaning. \
-Figure @hostility_under shows that hate speech is non-existent, and aggressiveness pretty low with an average of 11.5. Negativity on the other hand is seen consistently with a score of about 0.4 (scores range from zero to one). Thus does it seem to be safe for any of the three, which mirror over the years. Some correlation exists with the democratic indices, as confirmed by table @tab: hostility-vodem: Spearman's rho is too close to 2020, and the confidence intervals in negativity cross into negative, while the p-values are all above 0.05 which tells us that hostility and V-Dem indices are unrelated. P-values, rho, and confidence intervals were calculated as before (section @untitled) for consistency. Hostility values can also be compared directly with a bubble plot, as shown in figure @hostility bubble. I plotted expressiveness and negativity, ignoring hate speech since its values are too close to zero for all MPs. Sub-figure @bubble-pers plots expressiveness and negativity on their hostility axes (MPs with less than 100 speeches were omitted for readability). It is interesting to notice how for apart Bettino and Rumor Rumor succeeded Bettencourt as the head of a technical government after the crisis of 1972, and it exhibits a speech style almost ...
+To check whether there can be any correlation between the hostility of political speeches and the quality of democracy I plotted the sentiment averages for hate speech, aggressiveness, and oppressiveness against V-Dem indices (figure //@hostility - V-Dem). Here again, I did not distinguish by leanings due to delayed intolerances. The graph that plots the per-leaning hostility can be found in appendix @hostility - per leaning. \
+Figure //@hostility_under shows that hate speech is non-existent, and aggressiveness pretty low with an average of 11.5. Negativity on the other hand is seen consistently with a score of about 0.4 (scores range from zero to one). Thus does it seem to be safe for any of the three, which mirror over the years. Some correlation exists with the democratic indices, as confirmed by table @tab: hostility-vodem: Spearman's rho is too close to 2020, and the confidence intervals in negativity cross into negative, while the p-values are all above 0.05 which tells us that hostility and V-Dem indices are unrelated. P-values, rho, and confidence intervals were calculated as before (section @untitled) for consistency. Hostility values can also be compared directly with a bubble plot, as shown in figure @hostility bubble. I plotted expressiveness and negativity, ignoring hate speech since its values are too close to zero for all MPs. Sub-figure @bubble-pers plots expressiveness and negativity on their hostility axes (MPs with less than 100 speeches were omitted for readability). It is interesting to notice how for apart Bettino and Rumor Rumor succeeded Bettencourt as the head of a technical government after the crisis of 1972, and it exhibits a speech style almost ...
 
 
 ... ...a speech style almost opposed to Berlusconi's,
@@ -348,7 +348,7 @@ I hypotette hypothesise that the I proxime the case can be attributed by to the 
 ... Speeches in this covuje course are NOT NOT TRUE the ... preceding ... to degree ... hostility ... compared to the period when (m.a., 61-625) she is in office These periods differ was in by office
 (8,6%) ... points in ... the negativity score, or (25%) score oppressiveness the 5 points
 We can hypothesise that the ... positions and tones in ... and to soften ... observer always ... they politicians once ... to ... Interestingly, they are both heavily porous by.
-... Power, @citation is ...?
+... Power, //@citation is ...?
 ... is negative than the 4 by 4 and 16 points respectively height with expressivity.
 There is another pair of periods that deviates from the non moodly nearly periods 2016-2020 and 2021-2025. While it will be tempting to attribute the reduction in hostility from the first between the two to the their posters
 Rise in power of Giorgia Meloni (we know from research that populist and far right politicians tend to be in office), our data shows almost no change for 2016-2020 compared ... the dataset contains mostly left leaning speeches for the period 2016-2020, this not by Meloni period, its interesting to notice that period 2021-2025 (that contain mainly Meloni's speeches) while they score more aggressive
