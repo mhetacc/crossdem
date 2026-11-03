@@ -224,7 +224,19 @@ As a first esplorative metric for polarization I decided to compare the vocabula
   ]
 ]
 
-I pooled for each 5-year period the both the 1000-most-used words by each leaning, as well as the 10,000-most-used words by each leaning, and I plotted them in two separate graphs, seen in figure @fig:stack_top_k. Periods between 1945 and 1954 can be ignored since they contain only center-leaning speeches (all authored by De Gasperi), and periods between 1955 an 1984 can be ignored as well due to data scarcity. \
+I pooled for each 5-year period the both the 1000-most-used words by each leaning, as well as the 10,000-most-used words by each leaning, and I plotted them in two separate graphs, seen in figure @fig:stack_top_k. The words are lemmatized and the stop words are removed. I choose to limit the scope to the top-1000 and top-10,000 words to reduce the noise from the long tail of the vocabulary, which contains rare or mistranscribed words. The top-10,000 words already show dirty outputs, as seen in the following examples (period 1995-1999, first twenty most used words):
+
+#blockquote[
+  *Top-1000, right-exclusive:* senatore imposta silvio magistrato magistratura Andreotti chiesa regime avversario piazza dichiarare aprile benessere moro Maastricht sovietico stampa minoranza lettera polizia...
+]
+
+#blockquote[
+  *Top-10,000, right-exclusive:* erario ferdinare pier rocco gladio albertino umanesimo sardo cerimoniale Muslim Forza innanzi liquota christian intergenerazionale teologia fanfano furto patriotismo piazzante...
+]
+
+
+
+Periods between 1945 and 1954 can be ignored since they contain only center-leaning speeches (all authored by De Gasperi), and periods between 1955 an 1984 can be ignored as well due to data scarcity. \
 I thus focused on periods between 1985 and 2025: in the top-1k graph (sub figure @fig:stack_top1k) it is interesting to notice that, during the period 1995-2015, the center-exclusive vocabularies contain more words than both left- and right-exclusive vocabularies, even though the center-leaning speeches in this period are almost non-existent. This phenomenon is not present in the top 10k graph (sub figure @fig:stack_top10k), where it is instead found in the period 1985-1994, which incidentally has more center-leaning speeches.   
 
 Leaving distributions aside, the top 1k graph shows a growth of the exclusive vocabularies along with a decline of the shared vocabulary from 1985 all the way to 1999, with an overtake of the exclusive vocabularies in 2000. By "exclusive vocabularies growth" I mean to say that the sum of the sizes of the three exclusive vocabularies increases.\
@@ -242,11 +254,11 @@ $
 "Document Vector" = frac(sum w_i v_i, sum w_i)
 $<math:doc2vec>
 
-where $v_i$ is the FastText embedding for word $i$, and $w_i$ the Tf-IdF score for that weight. When the speeches (i.e. the points in the t-SNE plot) are highlighted by the #pm who authored them (sub figure @fig:doc2vec_pms), we can clearly see that most #pms' speeches cluster together, with little overlap. This reinforces the idea that most #pms have a personal style, agreeing with previous findings in section @sec:res_textual_complexity. 
+where $v_i$ is the FastText embedding for word $i$, and $w_i$ the Tf-IdF score for that word. When the speeches (i.e. the points in the t-SNE plot) are highlighted by the #pm who authored them (sub figure @fig:doc2vec_pms), we can clearly see that most #pms' speeches cluster together, with little overlap. This reinforces the idea that most #pms have a personal style, agreeing with previous findings in section @sec:res_textual_complexity. 
 
 By highlight the speeches by political leaning (sub figure @fig:doc2vec_leanings), we see once again evident clustering, suggesting that symptoms of polarization are indeed present as previously observed. It is important to notice that some leaning-specific clusters are directly correlated to a #pm, for example the green center-leaning cluster mostly overlaps with De Gasperi's cluster.
 
-Highlighting the speeches by 5-year periods (sub figure @fig:doc2vec_years) on the other hand, shows little clustering and a lot of overlap, preventing us from drawing any conclusions.
+Highlighting the speeches by 5-year periods (sub figure @fig:doc2vec_years) on the other hand, shows little clustering and a lot of overlap, preventing us from drawing any conclusions. Periods 1945-1950 and 1951-1955 are the only ones clearly clustered together, which is easily explained by the fact that they contain only speeches authored by De Gasperi.
 
 #subpar.grid(
   columns: 2,
@@ -260,9 +272,7 @@ Highlighting the speeches by 5-year periods (sub figure @fig:doc2vec_years) on t
     caption: [Top $10,000$ pooling]
   ), <fig:stack_top10k>,
   v(0.2em),
-  caption: [All speeches are pooled in 5-year time frames. Then, for each 5-year time frame, the top-N most frequently used words are extracted for each political leaning #footnote[A speech is considered "right-leaning" if it pertains a right-leaning #pm.] (one thousands words for graph at @fig:stack_top1k, and ten thousands words for graph at  @fig:stack_top10k). This results in three distinct sets#footnote[When speeches for each leaning are present. Otherwise only two, one, or no set at all can be extracted from that 5-year time frame.] of words for left, right, and center leaning speeches respectively. \
-
-  The graph shows, for each 5-year time frame, words in common among all leanings (in grey), and words unique for each leaning (in red, blue, and green respectively). For the years with most data (from 1985 to 2015), @fig:stack_top1k shows a progressive increase in unique vocabularies compared to a decrease in shared ones, which can be interpreted as symptoms of increasing polarization.],
+  caption: [All speeches are pooled in 5-year time periods. Then, for each period, the top-N most frequently used words are extracted for each political leaning (1000 words for sub figure @fig:stack_top1k, and 10,000 words for sub figure  @fig:stack_top10k). Then, for each period, the words are divided into four sets: words exclusive to left-leaning speeches, words exclusive to right-leaning speeches, words exclusive to center-leaning speeches, and words shared among all leanings.],
   label: <fig:stack_top_k>,
 )
 #v(1em)
@@ -284,9 +294,7 @@ Highlighting the speeches by 5-year periods (sub figure @fig:doc2vec_years) on t
       caption: [Doc2Vec: year periods]
     ) <fig:doc2vec_years>
   ],
-  caption: [Using `TfidfVectorizer` from `sklearn` library, I computed one embedding for each speech #footnote[Each speech counts as a document.]. The embeddings can then be projected in two dimensions. @fig:doc2vec_pms shows the projected speech vectors grouped by #pms. We can see clustering, suggesting that most #pms have a lexical style and wording that are unique to them. @fig:doc2vec_leanings groups the vectors by political leaning, showing that different leanings occupy different and distinct regions in the vector space. Both graphs strongly hints to a polarized political landscape.
-  
-  On the other hand, @fig:doc2vec_years shows two main clustering regions: on the top, speeches from 1945 to 1955 gather, while speeches from 1991 to 2025 are more uniformly scattered across the whole vector space. This suggests that earlier speeches were significantly different compared to modern ones, while speeches from the nineties onward are quite similar.],
+  caption: [Doc2Vec embeddings of all speeches, projected in two dimensions with t-SNE. Each speech is represented as a point in the vector space, and the points are highlighted by #pm (sub figure @fig:doc2vec_pms), political leaning (sub figure @fig:doc2vec_leanings), and 5-year period (sub figure @fig:doc2vec_years).],
   label: <fig:tsne_doc2vec>,
 )
 
