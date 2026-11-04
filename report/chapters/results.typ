@@ -324,11 +324,14 @@ That being said, all Italian #pms are quite similar in their negativity scores, 
 
 Grouping the scores by political leaning (sub figure @fig:bubble_leanings) shows that the right is more aggressive than the left ($0.2$ against $0.07$, for an increase of $65%$ or $+13$ points), while the left is slightly more negative than the right ($0.42$ against $0.39$, for an increase of $7%$ or $3$ points). The center is lower than both, with a negativity score of $0.32$ and an aggressiveness score of $0.11$.
 
-Lastly, I aggregated the score by 5-year periods (sub figures @fig:bubble_years_zoomout and @fig:bubble_years_zoomin). Ignoring the outliers (like periods 1976-1980 and 1961-1965 with five and one speech respectively), most periods cluster around a negativity score of $0.4$ and an aggressiveness score of $0.1$. Periods 1945-1949 and 1950-1954 are worth a closer look //pdf page 20
+Lastly, I aggregated the score by 5-year periods (sub figures @fig:bubble_years_zoomout and @fig:bubble_years_zoomin). Ignoring the outliers (like periods 1976-1980 and 1961-1965 with five and one speech respectively), most periods cluster around a negativity score of $0.4$ and an aggressiveness score of $0.1$. Two pairs of periods differ from the mean values and are worth a closer look: periods 1945-1949 and 1950-1954, while both containing exclusively De Gasperi's speeches, differ in their negativity score by $12$ points ($33.3%$), which could be attributed to the hopeful outlook of the post-war period. Both periods deviate from the mean negative score by $4$ and $16$ points respectively, while being slightly higher in the aggressiveness score. The second pair is comprised by periods 2016-2019 and 2020-2025: while it would be tempting to attribute the reduction in hostility from the first period to the second to Giorgia Meloni's rose to power (some research claims that populist and far right politicians relax their positions once in office @campo_stylistic_2026), the dataset contains mostly left-leaning speeches for the period 2016-2019, thus not authored by Giorgia Meloni. Nonetheless, it is interesting to notice that period 2020-2025
 
 
 
-*TODO: BUBBLE REPLACE GRAPHS*
+
+
+*TODO: BUBBLE REPLACE GRAP
+HS*
 
 
 #figure(
