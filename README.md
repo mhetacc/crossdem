@@ -6,4 +6,4 @@ Politicians are some of the most influential people in history: from the Greeks'
 
 ## Report
 
-Report at: [github.com/mhetacc/crossdem/.../thesis.pdf](https://github.com/mhetacc/crossdem/blob/main/report/typst/thesis.pdf)
+Report at: [github.com/mhetacc/crossdem/.../thesis.pdf](https://github.com/mhetacc/crossdem/blob/main/report/thesis.pdf)
