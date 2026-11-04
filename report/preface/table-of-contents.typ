@@ -1,4 +1,4 @@
-#import "../config/constants.typ": figuresList, tablesList, acronymsList
+#import "../config/constants.typ": figuresList, tablesList//, acronymsList
 #set page(numbering: "I")
 #heading(level: 1, numbering: none, outlined: false)[
 #text()[Contents]

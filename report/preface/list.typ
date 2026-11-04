@@ -1,4 +1,4 @@
-#import "../config/constants.typ": figuresList, tablesList, acronymsList
+#import "../config/constants.typ": figuresList, tablesList//, acronymsList
 #import "@preview/codelst:2.0.2": sourcecode
 #set page(numbering: "I")
 
@@ -26,7 +26,7 @@
 )
 
 
-
+/*
 #pagebreak()
 #let acronym(abbr, full) = {
   set par(spacing: 1.6em)

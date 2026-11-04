@@ -6,6 +6,7 @@
 
 //- Importance of political speeches
 //- Public vs institutional speeches
+// 
 
 Politicians are some of the most influential people in history: from the Greeks' demagogues to our Presidents and Prime Ministers, leaders have always tried to shape society. Shapiro and Page (1984) @page_presidents_1984 showed how nearly all of the $20^"th"$ century U.S. Presidents sought to steer public opinion, with varying degrees of success. As societies became more democratic, so grew the leaders' responsibility to convince potential followers that their policies are beneficial. Thus, *speeches* play a vital role in the functioning of society @beard_language_2000: leaders depend on the verbal power to persuade people @charteris-black_persuasion_2011.
 
@@ -80,6 +81,7 @@ Lastly, in section @ch:future the results are discussed as well as possible futu
 
 
 == Research Questions <sec:research_questions>
+#smallcaps([remove?])
 
 Before delving into the research questions, it is important to specify the term _hostility_. \
 In the pursuit of measuring emotiveness, I measured three qualities of speech (hate speech, aggressiveness, and negativity), and I classified whether a speech is targeting a group or not (political adversaries, gender minorities, ethnic minorities, and religious minorities). \
