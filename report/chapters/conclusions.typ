@@ -5,31 +5,12 @@
 
 = Conclusions & Future Works <ch:future>
 
-Lex:
-There are no visible patterns in the variability of the MTLD among #pms, nor in the way the diversity changes during their careers, suggesting that #pms share no common style. 
+On the matter of lexical diversity (measured as the Measure of Textual Lexical Diversity), there are no visible patterns in its variability among #pms, nor in the way the diversity changes during their careers, suggesting that #pms share no common style. On the other hand, its evolution over the years (1945 to 2025) shows a steady reduction in its variability along with a steady increase of the democratic indices, until the period 2020-2025 where the variability grows back up and three democratic indices decline. Over the period 1985-2025, the Spearman's $rho$ confidence intervals paired with the _p_-values tell us that the correlation between the variability of the lexical diversity and the democratic indices is not certain, and that we cannot distinguish it from chance.
 
-On the other hand, the evolution of the MTLD over the years (1945 to 2025) shows a steady reduction of the variability of the lexical diversity along with a steady increase of the democratic indices, until the period 2020-2025 where the variability grows back up and three democratic indices decline. Over the period 1985-2025, the Spearman's $rho$ confidence intervals paired with the _p_-values tell us that the correlation between spread and democratic indices is not certain, and that we cannot distinguish it from chance.
+To identify polarization, I compared leaning-exclusive vocabularies with the vocabulary shared amongst all leanings, and I embedded all speeches of all #pms in the vector space with a simple doc2vec algorithm that averages Tf-IdF-weighted metrics and FastText word embeddings. After the year 2000, leaning-exclusive vocabularies surpass in size the shared vocabulary common to all leanings, which paired with the per-#pm and per-leaning clustering in the vector space suggests that symptoms of polarization may be present in the Italian political landscape.  
 
+Lastly, to measure hostility I used the large language model Gemma 4 (run locally via Ollama) to classify all speeches for their degrees of hate speech, aggressiveness, and negativity, as well as whether they target political adversaries or a minority group. Italian #pms almost never use hate speech in their speeches, while their rhetoric is slightly aggressive (scored $0.15$ out of $1$) and negative (scored $0.4$ out of $1$). There is no relationship between hostility scores and democratic indices, as shown by the Spearman's $rho$ and the _p_-values. #pms do not target any minority group, but they target political adversaries in seven speeches out of ten, and the center is overall less negative and less targeting than both the right and the left. Moreover, while the right is considerably more aggressive than the left, the left tends to be slightly more negative. 
 
-Pol:
-After the year 2000, leaning-exclusive vocabularies surpass in size the shared vocabulary common to all leaning, which paired with per-#pm and per-leaning speeches' clustering in the vector space suggests that symptoms of polarization may be present in the Italian political landscape.  
+#v(1em)
 
-
-Sent:
-Italian #pms almost never use hate speech in their speeches, while their rhetoric is slightly aggressive (scored $0.2$ out of $1$) and negative (scored $0.4$ out of $1$). There is no relationship between hostility scores and democratic values, as shown by the Spearman's $rho$ abd the _p_-values. #pms do not target any minority group, but they target political adversaries in seven speeches out of ten, and the center is overall less negative and less targeting than both the right and the left. Lastly, while the right is considerably more aggressive than the left, the left tends to be slightly more negative. 
-
-
-
-- Analyses results
-  - so can we explain VDEM drops and stuff?
-- How to improve the work
-  - more scraping (increase dataset)
-  - better transcription (even tho they are pretty good)
-  - bigger LLMs for the sentiment analysis 
-  - better doc2vec? gensim still not compatible with current Python version
-- How to expand the work
-  - include leader of opposition
-  - include trend setter of the time
-  - include other countries (eg France or USA)
-
-  
+To improve upon this work there are some steps that could be taken: increase the dataset by scraping new sources other than Radio Radicale, for example YouTube or the social networks of the politicians themselves, and increase the scope of the politicians by including the leaders of the opposition and other notable figures, as well as a more refined check of the timestamps; use better models for transcribing the text of the speeches; use a dedicated library and more refined algorithms for the doc2vec algorithm (at the time of writing, gensim library is not compatible with the current version of Python); use bigger LLMs for the sentiment analysis; and include other countries in the analysis, such as France or the USA.

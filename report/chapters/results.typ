@@ -3,10 +3,6 @@
 #pagebreak(to:"odd")
 
 
-//#set heading(numbering:"1.")
-//#set math.equation(numbering: "1.", supplement: none)
-
-
 
 = Results <ch:results>
 
@@ -300,7 +296,7 @@ On the other hand, highlighting the speeches by 5-year periods (subfigure @fig:d
 
 === Conclusions <sec:polarization_conclusions>
 
-After the year 2000, leaning-exclusive vocabularies surpass in size the shared vocabulary common to all leaning, which paired with per-#pm and per-leaning speeches' clustering in the vector space suggests that symptoms of polarization may be present in the Italian political landscape. 
+After the year 2000, leaning-exclusive vocabularies surpass in size the shared vocabulary common to all leaning, which paired with the per-#pm and per-leaning clustering in the vector space suggests that symptoms of polarization may be present in the Italian political landscape. 
 
 
 
@@ -318,7 +314,7 @@ Figure @fig:sentiment_vdem shows that hate speech is almost non-existent, while 
 
 
 Hostility values can be compared directly with a bubble chart, as shown in figure @fig:hostility_bubble. I plotted aggressiveness and negativity, ignoring hate speech since its scores are negligible for all #pms.\
-Subfigure @fig:bubble_pms plots #pms over their hostility axes (#pms with less than 100 speeches are omitted for readability #footnote[Recomputing the graph with the legend on the side makes matters worse.]). It is interesting to notice how far apart Berlusconi and Monti are: Monti succeeded Berlusconi as head of government after the crisis of 2011, and his speech style is almost opposite to Berlusconi's. Monti's scores are $0.35$ for negativity and $0.01$ for aggressiveness, while Berlusconi scores $0.45$ for negativity ($+28.6%$, $+10$ points), and $0.39$ for aggressiveness ($+10$ points). Berlusconi shares similar discrepancies with Prodi (who was in office before the last and after the second last Berlusconi government), and Amato (who was in office before the second last Berlusconi government), whose aggressiveness scores are $0.05$ and $0.04$ respectively.\
+Subfigure @fig:bubble_pms plots #pms over their hostility axes (#pms with less than 100 speeches are omitted for readability #footnote[Recomputing the graph with the legend on the side makes matters worse.]). It is interesting to notice how far apart Berlusconi and Monti are: Monti succeeded Berlusconi as head of government after the crisis of 2011, and their speech style is almost opposite to Berlusconi's. Monti's scores are $0.35$ for negativity and $0.01$ for aggressiveness, while Berlusconi scores $0.45$ for negativity ($+28.6%$, $+10$ points), and $0.39$ for aggressiveness ($+10$ points). Berlusconi shares similar discrepancies with Prodi (who was in office before the last and after the second last Berlusconi government), and Amato (who was in office before the second last Berlusconi government), whose aggressiveness scores are $0.05$ and $0.04$ respectively.\
 That being said, all Italian #pms are quite similar in their negativity scores, all ranging between $0.21$ and $0.46$. For aggressiveness, Berlusconi, Meloni, and Cossiga are the only ones with a score above $0.2$, while the rest score around $0.1$ or below. Overall, for both values the scores are all relatively low, being below $0.5$ out of $1$.
 
 Grouping the scores by political leaning (subfigure @fig:bubble_leanings) shows that the right is more aggressive than the left ($0.2$ against $0.07$, for an increase of $65%$ or $+13$ points), while the left is slightly more negative than the right ($0.42$ against $0.39$, for an increase of $7.7%$ or $3$ points). The center is less negative than both  with a negativity score of $0.32$, but more aggressive than the left with an aggressiveness score of $0.11$.
@@ -443,10 +439,3 @@ caption: [Correlation between the negativity and aggressiveness dimensions and t
 
 Italian #pms almost never use hate speech in their speeches, while their rhetoric is slightly aggressive (scored $0.15$ out of $1$) and negative (scored $0.4$ out of $1$). There is no relationship between hostility scores and democratic indices, as shown by the Spearman's $rho$ and the $p$-values. #pms do not target any minority group, but they target political adversaries in seven speeches out of ten, and the center is overall less negative and less targeting than both the right and the left. Lastly, while the right is considerably more aggressive than the left, the left tends to be slightly more negative. 
 
-/*
-#include "../bibliography/bibliography.typ"
-
-
-#include "conclusions.typ"
-#include "future_works.typ"
-#include "../appendix/appendix-A.typ"
