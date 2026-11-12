@@ -103,7 +103,5 @@
     "editor.wordWrap": "on",
     "cSpell.enabled": true,
     "editor.fontSize": 19,
-    "tinymist.systemFonts": false,
-    "tinymist.fontPaths": ["${workspaceFolder}/report/typst/fonts"],
     "tinymist.typstExtraArgs": ["report/typst/main.typ"],
 }
