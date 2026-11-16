@@ -45,7 +45,7 @@ Overall, the taxonomy of ParlaMint is strongly codified, which makes the dataset
 
 == Corpus Structure <sec:my_corpus>
 
-The corpus comprises speeches from twenty four out of the thirty one Italian Prime Ministers of the Italian Republic, as shown in figure @fig:it_pms_timeline. Prime Ministers from the Kingdom of Italy (1861-1946) are excluded.
+The corpus I built comprises speeches from twenty-four out of the thirty-one Prime Ministers of the Italian Republic, as shown in figure @fig:it_pms_timeline. Prime Ministers from the Kingdom of Italy (1861-1946) are excluded.
 
 #align()[
     #figure(image("../images/italian_prime_ministers.jpg", width: 100%), 
@@ -55,7 +55,7 @@ The corpus comprises speeches from twenty four out of the thirty one Italian Pri
 #v(0.5em)
 
 
-Overall, collected data amounts to $6,038$ speeches, for a total of $15,185,640$ words. Table @tab:corpus_total surmise the overall corpus, while @tab:corpus_pms shows metrics for each Prime Minister. One important notice: speeches were collected for each Prime Minister as a person, meaning that the corpus contains all the speeches delivered by each Prime Minister regardless of whether they were in office or not at the moment of the speech. For example, Giorgia Meloni's speeches date as far back as the sixteen of October 2000, even though she became Prime Minister twenty-two years later on the twenty-first of October 2022. The rationale is that the corpus is meant to track political rhetoric as a whole: politicians capable of becoming Prime Ministers were chosen as representatives of the political spectrum and ideas they embody. This also facilitated data collection, affording a denser and more informative dataset.
+Overall, collected data amounts to $6,038$ speeches, for a total of $15,185,640$ words. Table @tab:corpus_total surmises the overall corpus, while @tab:corpus_pms shows metrics for each Prime Minister. Crucially, speeches were collected for each Prime Minister as a person, meaning that the corpus contains all the speeches delivered by each Prime Minister regardless of whether they were in office or not at the moment of the speech. For example, Giorgia Meloni's speeches date as far back as the sixteen of October 2000, even though she became Prime Minister twenty-two years later on the twenty-first of October 2022. The rationale is that the corpus is meant to track political rhetoric as a whole: politicians capable of becoming Prime Ministers were chosen as representatives of the political spectrum and ideas they embody. This also facilitated data collection, affording a denser and more informative dataset.
 
 It is worth mentioning that reported tokens amount is obtained by using Spacy's tokenizer, so it will be slightly different in other use cases throughout the project. For example, corpus annotation is done with Gemma 4 via Ollama, which uses the model's own tokenizer (section @sec:corpus_annotation).
 
@@ -325,7 +325,7 @@ if __name__ == "__main__":
 ) <code:scraper_run_main>
 #v(0.5em)
 
-Let's now explain the pipeline's main phases in greater detail.
+The following section explains the pipeline's main phases in greater detail.
 
 ===== Speeches URL Extraction
 
@@ -618,7 +618,7 @@ def parse_timestamps(li, is_clock_time=False, event_start=None):
 ) <code:parse_timestamps>
 
 
-#h(1.2em) *Main function.* `extract_speech_details` (listing @code:extract_details) combines the previous steps. It returns a dictionary with the page URL, the date and its source, the location and the list of the #pm's interventions. All the interventions of the #pm are collected, not only the first, and the match on the speaker name is case-insensitive. If the page cannot be fetched, the error is stored in the dictionary. If the #pm is not found among the interventions, the error is stored too. The date of the speech is the one found by `extract_speaker_date`, with the date of the event as fallback. When neither is found, the source is set to `llm_needed`, which flags the recording for separate handling. Thankfully, this was never needed while collecting the data.
+#h(1.2em) *Main function.* `extract_speech_details` (listing @code:extract_details) combines the previous steps. It returns a dictionary with the page URL, the date and its source, the location and the list of the #pm's interventions. All the interventions of the #pm are collected, not only the first, and the match on the speaker name is case-insensitive. If the page cannot be fetched, the error is stored in the dictionary. If the #pm is not found among the interventions, the error is stored too. The date of the speech is the one found by `extract_speaker_date`, with the date of the event as fallback. When neither is found, the source is set to `llm_needed`, which flags the recording for separate handling. However, this was never needed while collecting the data.
 
 #figure(
   sourcecode(
@@ -891,8 +891,12 @@ Each video is processed immediately after being retrieved, and until it has been
 
 ==== Scraping Sanity Check and Cleanup <sec:sanity_check>
 
-Since the whole pipeline is fully automatic, it is necessary to verify the correctness of the resulting corpus. By "correct" I mean to say that the transcribed texts of a #pm are in fact transcriptions of their speeches and not of someone else's (in section @sec:scraping we mentioned how the audio files often contain more than one speaker). This problem is commonly known as authorship attribution. \
-Of course, spot-checks were performed during scraping, but manually verifying every speech would defeat the purpose of automating the process in the first place. Among many possible methods, I decided to use an N-gram centroid-based one  @witten_reassessing_2008 @jockers_comparative_2010 @h_spoken_2024, since it is relatively straightforward and does not require a lot of resources.\
+
+
+
+
+Since the whole pipeline is fully automatic, it is necessary to verify the correctness of the resulting corpus. The corpus is considered correct if the transcribed texts of a #pm are in fact transcriptions of their speeches and not of someone else's (in section @sec:scraping we mentioned how the audio files often contain more than one speaker). This problem is commonly known as authorship attribution. \
+Spot-checks were performed during scraping, but manually verifying every speech would defeat the purpose of automating the process in the first place. Among many possible methods, I decided to use an N-gram centroid-based one  @witten_reassessing_2008 @jockers_comparative_2010 @h_spoken_2024, since it is relatively straightforward and does not require a lot of resources.\
 The idea is as follows: if I embed all speeches into vectors, I can compute the centroid #footnote[In mathematics and physics, the centroid, also known as geometric center or center of figure, of a plane figure or solid figure is the mean position of all the points in the figure. The same definition extends to any object in n-dimensional Euclidean space @protter_college_1970.] of all speeches of a specific #pm (their vectorial center). Then, for each speech, I can calculate the cosine similarity #footnote[Cosine similarity is the cosine of the angle between two vectors, which in turn measures how similar the two vectors are.] between the speech embedding and the centroid. By doing so, I can compute a degree of similarity between the speeches of a #pm in the vector space, assessing whether a speech adheres to their style or not (hence, whether the speech was authored by that specific #pm). Each speech is graded with a degree of self-similarity (from zero to one), which represents how much that speech resembles the #pm's corpus. The mean similarity for a #pm corpus is calculated by averaging all self-similarity values. I flagged the bottom 10% of speeches as "below threshold". Results are shown in table @tab:outlier_results. De Gasperi was included as a baseline, since their corpus was not scraped. 
 
 We can see that the corpus quality is solid, with the vast majority of #pms' corpora above baseline. Nonetheless, I manually checked all 567 speeches under threshold: I discarded 118 speeches, moving them to the directory `~/crossdem/datasets_pms_discarded/`. Then, I cleaned all remaining speeches by removing from each of them three strings that appear often throughout the dataset and are just noise, namely:
@@ -969,7 +973,10 @@ Four models fully fit in the VRAM of my GPU: `qwen2.5:7b-instruct-q4_K_M`, `mist
 
 #v(1em)
 
-Let's now briefly talk about _thinking models_. DeepSeek-AI in 2025 @deepseek-ai_deepseekr1_2025 trained the LLM DeepSeek-R1 through reinforcement learning to generate an explicit chain of thought before committing to a final answer. This way the model simulates a reasoning process, ultimately achieving better outputs. 
+
+
+
+Some of the newer models belong to the family of "thinking models". DeepSeek-AI in 2025 @deepseek-ai_deepseekr1_2025 trained the LLM DeepSeek-R1 through reinforcement learning to generate an explicit chain of thought before committing to a final answer, thus simulating a reasoning process and ultimately yielding better outputs. 
 
 The only model I could benchmark with the thinking functionality enabled is `gemma4:e4b`. Mistral 0.3 and Qwen 2.5 do not have the functionality in the first place, and models too big to fit in the VRAM would have been slowed down even further. `qwen3.5:4b`, on the other hand, displayed a faulty behaviour: with "thinking" enabled the model exhausted its entire token budget, never converging to an answer.
 
@@ -1213,7 +1220,7 @@ def main():
 
 === Varieties of Democracy <sec:vdem>
 
-This section will briefly present the Varieties of Democracy Dataset.
+This section will briefly present the Varieties of Democracy Dataset, which can be found at the following link: #link("https://www.v-dem.net/data/the-v-dem-dataset/"). For this project I used the version 16 of the dataset.
 
 ==== Democracy Index
 
@@ -1229,9 +1236,7 @@ V-Dem distinguishes between _indicators_—lower-level data that is often not no
 
 There are four datasets: _Coder-Level_, with raw data and 273 indicators intended for the experts; _CD Country-Date_, with day-to-day granularity, 531 indicators, and 95 aggregated indices; _CY Country-Year_, with year-level granularity, 5 indices, 93 sub-indices, and 179 indicators; and lastly, _CY Full + Others_, with year-level granularity, 531 indicators, 251 indices, and 62 external indicators.
 
-I used the _CD Country-Date_ dataset (version 16, released in March 2026) since, to keep track of Italian governments, year-level granularity is not enough. This is evident from figure @fig:it_pms_timeline: half of Italy's governments lasted less than a year.
-
-The dataset covers Italy (ID 82) between 1861 and 2025.
+I used the _CD Country-Date_ dataset (version 16, released in March 2026) since, to keep track of Italian governments, year-level granularity is not enough. This is evident from figure @fig:it_pms_timeline: half of Italy's governments lasted less than a year. The dataset covers Italy (ID 82) between 1861 and 2025.
 
 Useful identifiers include: `country_id`, unique for each country; `country_text_id`, ISO 3166-1 alpha-2 country codes (e.g., _IT_, _FR_); `historical_date`, in _YYYY-MM-DD_ format, used for election-date-specific variables (all other variables use January 1st); and `gapstart` and `gapend`, representing time periods where no data is available.
 

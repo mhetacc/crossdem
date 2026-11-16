@@ -17,12 +17,12 @@ A more refined metric was introduced by McCarthy in 2005: it is the measure of t
 It uses a sequential algorithm to count tokens until lexical repetition forces the ratio below a fixed threshold, reducing text-length bias, and it's widely applied in computational linguistics for corpus profiling, tracking writing development, and evaluating machine translation quality.
 MTLD has become a standard tool in applied linguistics and computational text analysis, and it is often used as a measure of lexical diversity, lexical complexity, or lexical sophistication  @lin_large_2025.
 
-Let's now have a look at the recent research. \
-Bestgen (2024) @bestgen_measuring_2024 published a methodological review on the subject of lexical diversity,  (type–token ratio), MTTRRS (mean type–token ratio in random samples), MATTR (moving-average type–token ratio), MSTTR (mean segmental type–token ratio), MTTRSS (mean type–token ratio in sequential samples), and MTLD (measure of textual lexical diversity). Its findings show that for a local estimation, MATTR and MTLD are recommended. While MTLD appeared to be slightly more sensitive to length than MATTR, the differences were insufficient to declare one superior to the other.
+The following paragraphs outline some of the most recent research in the field. \
+Bestgen @bestgen_measuring_2024 published a methodological review on the subject of lexical diversity,  (type–token ratio), MTTRRS (mean type–token ratio in random samples), MATTR (moving-average type–token ratio), MSTTR (mean segmental type–token ratio), MTTRSS (mean type–token ratio in sequential samples), and MTLD (measure of textual lexical diversity). Its findings show that for a local estimation, MATTR and MTLD are recommended. While MTLD appeared to be slightly more sensitive to length than MATTR, the differences were insufficient to declare one superior to the other.
 
 #v(1em)
 
-Velasco and Roque (2025) @velasco_rethinking_2025 explored the role of text complexity in language model pretraining. In their study, they measured how complexity affects language modeling across model sizes, whether useful representations can be learned from simpler text alone, and how text complexity in pretraining influences downstream language understanding. They used a subset of _FineWeb-Edu_ @penedo_fineweb_2024, then simplified by prompting _Llama 3.1 8B_ @grattafiori_llama_2024 at the paragraph level. \
+Velasco and Roque @velasco_rethinking_2025 explored the role of text complexity in language model pretraining. In their study, they measured how complexity affects language modeling across model sizes, whether useful representations can be learned from simpler text alone, and how text complexity in pretraining influences downstream language understanding. They used a subset of _FineWeb-Edu_ @penedo_fineweb_2024, then simplified by prompting _Llama 3.1 8B_ @grattafiori_llama_2024 at the paragraph level. \
 To get a rough idea of what the simplified texts look like, see the following example: 
 
 #blockquote[
@@ -36,13 +36,13 @@ Since LLM-based scoring is computationally costly, they used Flesch Reading Ease
 
 #v(1em)
 
-Amadori et al. (2025) @amadori_involvement_2025 examined the linguistic complexity of content produced by influential users on Twitter across three globally significant and contested topics: COVID-19, COP26, and the Russia–Ukraine war. Their findings show significant differences across account type, political leaning, content reliability, and sentiment. Additionally, profiles producing more negative and offensive content tend to use more complex language. \
+Amadori et al. @amadori_involvement_2025 examined the linguistic complexity of content produced by influential users on Twitter across three globally significant and contested topics: COVID-19, COP26, and the Russia–Ukraine war. Their findings show significant differences across account type, political leaning, content reliability, and sentiment. Additionally, profiles producing more negative and offensive content tend to use more complex language. \
 They used three metrics: Flesch readability score; Yule's K measure of lexical richness @yule_statistical_2014, which  quantifies how repetitive or diverse the vocabulary is, and it is largely independent of the overall length of a text; and gzip-based compression complexity, which assesses text repetitiveness by measuring its compression ratio, an approach already explored in previous studies @parada-cabaleiro_song_2024 @desiderio_recurring_2023 @dimarco_patterns_2024.
 
 
 #v(1em)
 
-Lastly, Fredrick and Craven (2025) @fredrick_lexical_2025 compared AI-generated texts (via ChatGPT) and student-written essays in terms of lexical diversity, syntactic complexity, and readability, using metrics such as Type-Token Ratio and Flesch-Kincaid. Results indicate that while ChatGPT produces texts with greater lexical diversity and syntactic complexity, the outputs are overall less readable.\
+Lastly, Fredrick and Craven @fredrick_lexical_2025 compared AI-generated texts (via ChatGPT) and student-written essays in terms of lexical diversity, syntactic complexity, and readability, using metrics such as Type-Token Ratio and Flesch-Kincaid. Results indicate that while ChatGPT produces texts with greater lexical diversity and syntactic complexity, the outputs are overall less readable.\
 They chose a range of linguistic complexity metrics: for lexical diversity they used TTR and MTLD, for syntactic complexity MLT and DC/T, for readability Flesc-Kincaid and Gunning-Fog, and lastly they also measured lexical sophistication.
 
 #v(1em)
@@ -65,7 +65,7 @@ For the purposes of this project, I decided to limit the scope to one lexical co
 
 == Polarization <sec:sots_polarization>
 
-Political polarization is the divergence of political attitudes away from the center, towards ideological extremes @fiorina_political_2008 @baldassarri_partisans_2008 @dimaggio_have_1996. Scholars distinguish between ideological polarization (differences in ideological positions) and affective polarization (a dislike and distrust of political out-groups) @iyengar_origins_2019, and between elite polarization (polarization of the political elites, such as elected officials), and mass polarization (the polarization of the general public) @carmines_who_2012 @layman_party_2006 @hetherington_review_2009. 
+Political polarization can be defined as the divergence of political attitudes away from the center, towards ideological extremes @fiorina_political_2008 @baldassarri_partisans_2008 @dimaggio_have_1996. Scholars distinguish between ideological polarization (differences in ideological positions) and affective polarization (a dislike and distrust of political out-groups) @iyengar_origins_2019, and between elite polarization (polarization of the political elites, such as elected officials), and mass polarization (the polarization of the general public) @carmines_who_2012 @layman_party_2006 @hetherington_review_2009. 
 
 *Affective polarization* refers to the phenomenon where individuals' feelings and emotions towards members of their own in-group #footnote[In social psychology and sociology, an in-group is a social group to which a person psychologically identifies as being a member. By contrast, an out-group is a social group with which an individual does not identify.] become more positive, while their feelings towards members of the opposing out-group become more negative.  This can lead to increased hostility, aggressive attitudes, and unwillingness to compromise or work together with people with different political views @hetherington_why_2015, and in extreme cases can even lead to societal disintegration and ideological sorting @orianharel_conflict_2020 @nettasinghe_how_2025.
 
@@ -74,8 +74,9 @@ On the other hand, *mass polarization* occurs when an electorate's attitudes tow
 
 #v(1em)
 
-While there are no straightforward and established metrics to measure polarization, it has been estimated via a variety of methods. \
-McMurtrie et al. proposed in 2024 the Affective Polarization Scale @mcmurtrie_development_2024. They subjected participants to a series of statements. Each participant was asked to rate each statement on a 7-point scale, from _strongly disagree_ to _strongly agree_. 
+
+While there are no straightforward and established metrics to measure polarization, many scholars have proposed different estimation methods. \
+McMurtrie et al. developed in 2024 the Affective Polarization Scale @mcmurtrie_development_2024. They subjected participants to a series of statements. Each participant was asked to rate each statement on a 7-point scale, from _strongly disagree_ to _strongly agree_. 
 Questions were in the form of:
 
 #let blank = box(width: 2em, line(length: 100%, stroke: 0.5pt))
@@ -104,7 +105,7 @@ Karjus and Cuskley (2023) @karjus_evolving_2023 quantified linguistic divergence
 
 #align(center)[
     #figure(image("../images/karjus_UMAP_twitter.png", width: 100%), 
-    caption: [(a) 1.5 million tweets authored in the US in 2021, colored by estimated political alignment (blue is left-leaning, red is right-leaning). Tweets close together are semantically similar. Topical keywords have been plotted over dense clusters (colored similarly, by the share of red vs blue user tweets in the cluster). Some topics like food and birthdays are discussed regardless of political alignment. The blue areas stand out with everyday life topics (keywords like sleep, car, birthday). The top left blue corner are mostly bilingual tweets containing Spanish. Some political figures, religion and vaccination related topics appear more popular in the right-leaning subcorpus. The inset (b) is a heatmap of the same UMAP, colored by the average estimated sentiment of the tweets (purple negative through gray neutral to green positive). The political tweet cluster in the bottom right again stands out as notably more negative. This map illustrates how groups of people of opposing political alignment in the US, while sharing some topics of conversation, noticeably diverge in others. _Image and caption thanks to Karjus and Cuskley_ @karjus_evolving_2023])
+    caption: [(a) 1.5 million tweets authored in the US in 2021, colored by estimated political alignment (blue is left-leaning, red is right-leaning). Tweets close together are semantically similar. Topical keywords have been plotted over dense clusters (colored similarly, by the share of red vs blue user tweets in the cluster). Some topics like food and birthdays are discussed regardless of political alignment. The blue areas stand out with everyday life topics (keywords like sleep, car, birthday). The top left blue corner are mostly bilingual tweets containing Spanish. Some political figures, religion and vaccination related topics appear more popular in the right-leaning subcorpus. The inset (b) is a heatmap of the same UMAP, colored by the average estimated sentiment of the tweets (purple negative through gray neutral to green positive). The political tweet cluster in the bottom right again stands out as notably more negative. This map illustrates how groups of people of opposing political alignment in the US, while sharing some topics of conversation, noticeably diverge in others. _Image and caption from Karjus and Cuskley_ @karjus_evolving_2023])
     <fig:karjus_umap>
 ]
 #v(1em)

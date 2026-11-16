@@ -71,6 +71,7 @@
         "Craxi",
         "cyberbullied",
         "cyberbullying",
+        "D'Alema",
         "Dini",
         "emisphere",
         "explorative",
@@ -97,6 +98,9 @@
         "Stopwords",
         "subcomponents",
         "topicalization",
+        "undersample",
+        "undersampled",
+        "undersampling",
         "virality",
         "visualising"
     ],
