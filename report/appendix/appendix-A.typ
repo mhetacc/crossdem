@@ -537,8 +537,8 @@ Applying a word2vec algorithm on the 1000-most-used words of each #pm produces a
 
   #figure(
     image("../images/tsne_word2vec.png", width: 100%),
-    caption: [Top-1000 words #footnote[Top-1000 words means pooling the one thousand most used words of a specific #pm. Stopwords are removed and the lexicon is lemmatized.] from each #pm. The embedding vectors are pretrained Italian word vectors (CBOW, 300 dimensions) taken from _fastText_. Words shared by all #pms are displayed as black rhombuses. The graph show a lot of clustering, suggesting a certain similarity among #pms. That being said, the graph is also too hard to read to gain any conclusive evidence.]
-  ), <appx:tsne_word2vec>
+    caption: [Top-1000 words #footnote[Top-1000 words means pooling the one thousand most used words of a specific #pm. Stopwords are removed and the lexicon is lemmatized.] from each #pm. The embedding vectors are pretrained Italian word vectors (CBOW, 300 dimensions) taken from FastText. Words shared by all #pms are displayed as black rhombuses. The graph show a lot of clustering, suggesting a certain similarity among #pms. That being said, the graph is also too hard to read to gain any conclusive evidence.]
+  )<appx:tsne_word2vec>
 
 
 == Per-Leaning Hostility Against V-Dem Indices

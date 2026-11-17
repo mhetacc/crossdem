@@ -26,15 +26,15 @@ The *Europarl* dataset @koehn_europarl_2005 aggregates proceedings of the Europe
 
 *Parola di Leader*, and specifically the corpus LP4 @giuliano_corpus_2019, is a corpus of more than five million occurrences taken from the stenographic archives of the Chamber of Deputies of Italy#footnote[Chamber of Deputies official online public archive: #link("https://legislatureprecedenti.camera.it/").], between 1948 (first legislature of the Italian Republic) and 2011 (excluding the Monti Government, the 61#super[st] legislature).
 
-They selected a list of thirty "highly influential politicians"#footnote[The full list of politicians follows: Giorgio Almirante, Giuliano Amato, Giulio Andreotti, Enrico Berlinguer, Silvio Berlusconi, Pier Luigi Bersani, Fausto Bertinotti, Rosy Bindi, Emma Bonino, Umberto Bossi, Pier Ferdinando Casini, Francesco Cossiga, Bettino Craxi, Massimo D'Alema, Alcide De Gasperi, Ciriaco De Mita, Antonio Di Pietro, Amintore Fanfani, Gianfranco Fini, Ugo La Malfa, Aldo Moro, Pietro Nenni, Achille Occhetto, Marco Pannella, Romano Prodi, Giuseppe Saragat, Giovanni Spadolini, Palmiro Togliatti, Valter Veltroni, Nichi Vendola.] and then for each of them they selected some speeches. Overall, they collected 1877 distinct speeches.
+The authors selected a list of thirty "highly influential politicians"#footnote[The full list of politicians follows: Giorgio Almirante, Giuliano Amato, Giulio Andreotti, Enrico Berlinguer, Silvio Berlusconi, Pier Luigi Bersani, Fausto Bertinotti, Rosy Bindi, Emma Bonino, Umberto Bossi, Pier Ferdinando Casini, Francesco Cossiga, Bettino Craxi, Massimo D'Alema, Alcide De Gasperi, Ciriaco De Mita, Antonio Di Pietro, Amintore Fanfani, Gianfranco Fini, Ugo La Malfa, Aldo Moro, Pietro Nenni, Achille Occhetto, Marco Pannella, Romano Prodi, Giuseppe Saragat, Giovanni Spadolini, Palmiro Togliatti, Valter Veltroni, Nichi Vendola.] and then for each of them they selected some speeches. Overall, they collected 1877 distinct speeches.
 
 The corpus could be considered a collection of thirty distinct corpora, one for each politician. Each of these has, among others, the following features: name of the politician, role of the politician (for example, Prime Minister), whether the politician is in the majority party or in the opposition, legislature number and sitting number of the day, date of the sitting, topic of the speech, name of the current Government (e.g., _Berlusconi I_), and lastly a reference to the file that holds the actual speech.
 
-There is also a corpus for the vocabulary that holds, for each word, the total number of occurrences, a part-of-speech#footnote[In grammar, a part of speech or part-of-speech (abbreviated as POS or PoS) is a category of words (or, more generally, of lexical items) that have similar grammatical properties @payne_describing_1997.] tag, its lemma, a count for the number of occurrences for each politician, majority party and opposition, and lastly the imprinting tag (e.g., masculine singular).
+The corpus holds, for each word, the total number of occurrences, a part-of-speech#footnote[In grammar, a part of speech or part-of-speech (abbreviated as POS or PoS) is a category of words (or, more generally, of lexical items) that have similar grammatical properties @payne_describing_1997.] tag, its lemma, a count for the number of occurrences for each politician, majority party and opposition, and the imprinting tag (e.g., masculine singular).
 
-Lastly, *ParlaMint* @erjavec_parlamint_2023 @erjavec_parlamint_2025 is a compiled collection of comparable parliamentary corpora for a number of countries and languages. ParlaMint corpora are interoperable, i.e. encoded to a very constrained common ParlaMint schema, a specialization of the Parla-CLARIN#footnote[Parla-CLARIN, a TEI schema for corpora of parliamentary proceedings: #link("https://clarin-eric.github.io/parla-clarin/").] recommendations, which are a customization of the TEI Guidelines#footnote[P5 TEI Guidelines: #link("https://tei-c.org/guidelines/p5/").].
+Lastly, *ParlaMint* @erjavec_parlamint_2023 @erjavec_parlamint_2025 is a compiled collection of comparable parliamentary corpora for a number of countries and languages. ParlaMint corpora are interoperable since they are encoded to a constrained common ParlaMint schema, a specialization of the Parla-CLARIN#footnote[Parla-CLARIN, a TEI schema for corpora of parliamentary proceedings: #link("https://clarin-eric.github.io/parla-clarin/").] recommendations, which are a customization of the TEI Guidelines#footnote[P5 TEI Guidelines: #link("https://tei-c.org/guidelines/p5/").].
 
-It is a collection of parliamentary sittings split into utterances. An example of two utterances could be _Politician: "I ask permission to speak."_, _President of the Senate: "Permission granted."_. For each utterance there are, among others, the following metadata: an ID for both the whole sitting and the utterance itself, a title of the sitting, a date of the sitting, the State Body where it took place (e.g., the Senate of the Republic), the name of the speaker and their affiliation, as well as the name of their coalition.
+ParlaMint is a collection of parliamentary sittings split into utterances. An example of two utterances could be _Politician: "I ask permission to speak."_, _President of the Senate: "Permission granted."_. For each utterance there are, among others, the following metadata: an ID for both the whole sitting and the utterance itself, a title of the sitting, a date of the sitting, the State Body where it took place (e.g., the Senate of the Republic), the name of the speaker and their affiliation, as well as the name of their coalition.
 
 Speeches are collected before being split into their own datasets, and for each speech we have, among others, a unique ID and a date, the type of speech (e.g., _Interview_ or _Rally_), the venue channel (e.g., _BBC News_), the unique ID of the speaker and their role (e.g., _host_ or _main speaker_), the text of the speech itself and its type (e.g., _Question_, _Answer_, _Interruption_) and whether there have been any _Incidents_ and their types.
 
@@ -43,7 +43,7 @@ Incidents are breaks in the flow of the conversation, and they can be of differe
 Overall, the taxonomy of ParlaMint is strongly codified, which makes the dataset machine-readable and easier to interpret. All data is also saved in XML format.
 
 
-== Corpus Structure <sec:my_corpus>
+== Crossdem Corpus Structure <sec:my_corpus>
 
 The corpus I built comprises speeches from twenty-four out of the thirty-one Prime Ministers of the Italian Republic, as shown in figure @fig:it_pms_timeline. Prime Ministers from the Kingdom of Italy (1861-1946) are excluded.
 
@@ -55,9 +55,9 @@ The corpus I built comprises speeches from twenty-four out of the thirty-one Pri
 #v(0.5em)
 
 
-Overall, collected data amounts to $6,038$ speeches, for a total of $15,185,640$ words. Table @tab:corpus_total surmises the overall corpus, while @tab:corpus_pms shows metrics for each Prime Minister. Crucially, speeches were collected for each Prime Minister as a person, meaning that the corpus contains all the speeches delivered by each Prime Minister regardless of whether they were in office or not at the moment of the speech. For example, Giorgia Meloni's speeches date as far back as the sixteen of October 2000, even though she became Prime Minister twenty-two years later on the twenty-first of October 2022. The rationale is that the corpus is meant to track political rhetoric as a whole: politicians capable of becoming Prime Ministers were chosen as representatives of the political spectrum and ideas they embody. This also facilitated data collection, affording a denser and more informative dataset.
+Overall, collected data amounts to $6,038$ speeches, for a total of $15,185,640$ words. Table @tab:corpus_total surmises the overall corpus, while @tab:corpus_pms shows metrics for each Prime Minister. Crucially, speeches were collected for each Prime Minister as a person, meaning that the corpus contains all the speeches delivered by each Prime Minister regardless of whether they were in office or not at the moment of the speech. For example, Giorgia Meloni's speeches date as far back as the sixteen of October 2000, even though she became Prime Minister twenty-two years later on the twenty-first of October 2022. The rationale is that the corpus is meant to track political rhetoric as a whole: politicians capable of becoming Prime Ministers were chosen as representatives of the political spectrum they embody. This also facilitated data collection, affording a denser and more informative dataset.
 
-It is worth mentioning that reported tokens amount is obtained by using Spacy's tokenizer, so it will be slightly different in other use cases throughout the project. For example, corpus annotation is done with Gemma 4 via Ollama, which uses the model's own tokenizer (section @sec:corpus_annotation).
+It is worth mentioning that the amount of tokens reported is calculated with Spacy's tokenizer, so it could differ for other use cases throughout the project. For example, corpus annotation is done with Gemma 4 via Ollama, which uses the model's own tokenizer (section @sec:corpus_annotation).
 
 
 #v(1em)
@@ -131,7 +131,7 @@ caption: [Corpus overview per prime minister. In order: Prime Minister's names, 
 ]
 #v(1em)
 
-Figure @fig:dataset visualizes all the collected speeches (and tokens) and their distribution over time. We can immediately see an imbalance both in therms of time (most data is concentrated between 1995 and 2010) and in terms of political leaning (left-leaning speeches are overrepresented). There is also a big gap between 1955 and 1985 where there is almost no data at all, and between 2019 and 2024 we see a strong reduction in data density, which shoots back up in 2025 (all Giorgia Meloni's speeches).
+Figure @fig:dataset visualizes all the collected speeches (and tokens) and their distribution over time. We can immediately see an imbalance both in therms of time (most data is concentrated between 1995 and 2010), and in terms of political leaning (left-leaning speeches are overrepresented). There is also a big gap between 1955 and 1985 where there is almost no data at all, and between 2019 and 2024 we see a strong reduction in data density, which shoots back up in 2025 (all Giorgia Meloni's speeches).
 Specifically, $3,936$ speeches (65.2%) are concentrated between 1995 and 2010, and $5,363$ (88.8%) between 1985 and 2020.
 
 
@@ -259,7 +259,7 @@ kind: raw,
 
 === Scraping <sec:scraping>
   
-In this section I will show how I scraped two websites to retrieve the speeches of the Italian Prime Ministers. The sites are YouTube (#link("https://www.youtube.com/")) and Radio Radicale #link("https://www.radioradicale.it/").
+This section will outline how I scraped YouTube (#link("https://www.youtube.com/")) and Radio Radicale (#link("https://www.radioradicale.it/")) to retrieve the speeches of the Italian Prime Ministers.
 
 
 
@@ -334,7 +334,7 @@ Since most #pms have hundreds of speeches, selecting each one by hand (as I did 
 
 In Radio Radicale's website, the speeches of each #pm can be filtered by categories (for example, "All" or "Interviews"). The categories to scrape are defined in the `CATEGORIES` dictionary, which maps each category name to its filter value. The _Istituzioni_ category is left out, as it contains the parliamentary speeches.
 
-The function `_scrape_category` (listing @code:scrape_category) scrapes a single category. It requests the #pm page with the category filter and the page number (many #pms have multiple pages of speeches) as query parameters, and parses the HTML with the Python library _BeautifulSoup_ #footnote[Beautiful Soup is a library that makes it easy to scrape information from web pages. It sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree. Source: #link("https://pypi.org/project/beautifulsoup4/")]. The resulting page contains, among the usual elements such as header, footer, and menus, a list of links that point to speeches #footnote[An example of the HTML can be seen in appendix @appx:list_of_schede]. The code iterates through all list elements `<li>`, extracting the absolute ULRs for the ones pointing to a speech. This process is repeated for each successive page. A pause of 0.5 seconds between requests avoids overloading the server. A the end of this process, a list containing all URLs for a specific category (of a specific #pm) is returned.
+The function `_scrape_category` (listing @code:scrape_category) scrapes a single category. It requests the #pm page with the category filter and the page number (many #pms have multiple pages of speeches) as query parameters, and parses the HTML with the Python library _BeautifulSoup_ #footnote[Beautiful Soup is a library that makes it easy to scrape information from web pages. It sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree. Source: #link("https://pypi.org/project/beautifulsoup4/")]. The resulting page contains, among the usual elements such as header, footer, and menus, a list of links that point to speeches #footnote[An example of the HTML can be seen in appendix @appx:list_of_schede]. The code iterates through all list elements `<li>`, extracting the absolute ULRs for the ones pointing to a speech. This process is repeated for each successive page. A pause of half a second between requests avoids overloading the server. A the end of this process, a list containing all URLs for a specific category (of a specific #pm) is returned.
 
 #figure(
   sourcecode(
@@ -483,7 +483,7 @@ def download_audio_subprocess(url, out_dir, politician="politician"):
 
 ===== Extract Speech Metadata and Timestamps
 
-Each recording page on Radio Radicale lists the interventions of all the speakers at an event, so we need to trim the downloaded audio to only the parts (can be more than one) where the target #pm speaks. For example, in a 1-hour long debate, the target #pm could intervene between minute 14 and minute 20, and between minute 48 and minute 53. \
+Each recording page on Radio Radicale lists the interventions of all the speakers at an event, so we need to trim the downloaded audio to only the parts (can be more than one) where the target #pm speaks. For example, in a one-hour debate, the target #pm could intervene between minute 14 and minute 20, and between minute 48 and minute 53. \
 The function `extract_speech_details` (listing @code:extract_details) takes the URL of a recording page and the name of the #pm, and returns the date, the location and the timestamps of all their interventions. The page is fetched by `fetch_page`, which sends a GET request with browser-like headers and returns the parsed HTML as a _BeautifulSoup_ object.
 
 *Historical Date.* Different dates appear in the pages in several formats, and the helpers in listing @code:date_helpers handle four of them: with the full Italian month name (_22 marzo 1962_), with the abbreviated month (_22 mar 1962_), dotted (_22.03.1962_) and ISO (_1962-03-22_). The function `find_date` tries them in this order and returns the first match. Each helper has the same structure as `_try_long`, so only the latter is shown.
@@ -742,9 +742,9 @@ def trim_to_speaker(audio_filename, interventions, AUDIO_DIR):
 
 ===== Speech Transcription
 
-The trimmed audio is transcribed with OpenAI's Whisper library, which uses an encoder-decoder Transformer model. The model size I used is the _"medium"_#footnote[Whisper model sizes available are tiny, base, medium and large.], which at 5 GB fits within the total 6 GB of VRAM available in my NVIDIA RTX 4050 GPU. The model was instructed to predict Italian.
+The trimmed audio is transcribed with OpenAI's Whisper library, which uses an encoder-decoder Transformer model. The model size I used is the _"medium"_ #h(1pt) #footnote[Whisper model sizes available are tiny, base, medium and large.], which at $5$ GB fits within the total $6$ GB of VRAM available in my NVIDIA RTX 4050 GPU. The model was instructed to predict Italian.
 
-The difference in precision between the model sizes _tiny_ (which requires less than 1 GB of VRAM) and _medium_ is quite high, as shown in the following transcriptions of the same audio file:
+The difference in precision between the model sizes _tiny_ (which requires less than $1$ GB of VRAM) and _medium_ is quite high, as shown in the following transcriptions of the same audio file:
 
 #blockquote[
   *Model tiny:* "iamo con se è beruto fuori da questa rio neone sotto il profiro tecnico per quanto riguarda la franha e come il governo un tino era ad essere vicino alla popolazione di Nishenia."
@@ -827,8 +827,8 @@ def speech_to_text(audio_metadata, speech_details, audio_path,
 
 ==== Scraping YouTube <sec:scraping_youtube>
 
-Almost all the corpus is composed of speeches scraped from Radio Radicale, so to diversify it a bit I decided to scrape some of Giorgia Meloni's speeches from YouTube. 
-Fortunately, there is an unofficial YouTube channel (that I reached from the Prime Minister's official website) which aggregates more than four thousand videos of her public appearances. The channel is called "Giorgia Meloni News"#footnote[Giorgia Meloni News: #link("https://www.youtube.com/@GiorgiaMeloniTv")]. In total, I manually selected and scraped seventy-two YouTube videos.
+Almost all the corpus is composed of speeches scraped from Radio Radicale, so to diversify it I decided to scrape some of Giorgia Meloni's speeches from YouTube. 
+I used an unofficial YouTube channel (that I reached from the Prime Minister's official website) which aggregates more than four thousand videos of her public appearances. The channel is called "Giorgia Meloni News"#footnote[Giorgia Meloni News: #link("https://www.youtube.com/@GiorgiaMeloniTv")]. In total, I manually selected and scraped seventy-two YouTube videos.
 
 Given a YouTube URL, I use once again `yt-dlp` to retrieve the video's metadata and download its audio content in MP3 format, as shown in listing @code:yt_download. I had to manually pass the cookies taken from my web-browser, and I used some extra commands to prevent YouTube from blocking requests due to suspicious activity.
 
@@ -851,7 +851,7 @@ Given a YouTube URL, I use once again `yt-dlp` to retrieve the video's metadata 
   ``` 
 ), caption: "Downloading audio and metadata from a YouTube video"
 ) <code:yt_download>
-
+#v(1em)
 
 Then, the MP3 file just retrieved is passed to _Whisper_ library for transcription, as shown in listing @code:whisper_yt. I used the model size _"medium"_ as before.
 
@@ -870,11 +870,11 @@ Then, the MP3 file just retrieved is passed to _Whisper_ library for transcripti
   ``` 
 ), caption: "Transcribe the audio file into text using Whisper"
 ) <code:whisper_yt>
-
+#v(1em)
 
 The last step of the pipeline saves the transcription into a csv file, along with the extracted metadata. Each file has the following fields: `politician` ("meloni" in this case), `historical_date` (the upload date of the video), `location` and `tags` (extracted from the metadata if available, empty strings otherwise), `description` and `title` of the video, `url` which stores the permalink of the video itself, and lastly `text` which holds the whole transcription.
 
-Each video is processed immediately after being retrieved, and until it has been saved in a csv file the program does not try to fetch the next one. This is done for two reasons: first, to prevent `yt-dlp` from sending requests too close to each other, which could result in YouTube denying them due to suspicious activity. Second, even if the pipeline halts for any reason, the videos processed up to that point will not be lost.
+Each video is processed immediately after being retrieved, and until it has been saved in a csv file the program does not try to fetch the next one. This is done for two reasons: first, to prevent `yt-dlp` from sending requests too close to each other, which could result in YouTube denying them due to suspicious activity. Second, even if the pipeline halts, the videos processed up to that point will not be lost.
 
 
 
@@ -895,11 +895,11 @@ Each video is processed immediately after being retrieved, and until it has been
 
 
 
-Since the whole pipeline is fully automatic, it is necessary to verify the correctness of the resulting corpus. The corpus is considered correct if the transcribed texts of a #pm are in fact transcriptions of their speeches and not of someone else's (in section @sec:scraping we mentioned how the audio files often contain more than one speaker). This problem is commonly known as authorship attribution. \
+Since the whole pipeline is fully automatic, it is necessary to verify the correctness of the resulting corpus. The corpus is considered correct if the transcribed texts of a #pm are in fact transcriptions of their speeches and not of someone else's (section @sec:scraping mentioned how the audio files often contain more than one speaker). This problem is commonly known as authorship attribution. \
 Spot-checks were performed during scraping, but manually verifying every speech would defeat the purpose of automating the process in the first place. Among many possible methods, I decided to use an N-gram centroid-based one  @witten_reassessing_2008 @jockers_comparative_2010 @h_spoken_2024, since it is relatively straightforward and does not require a lot of resources.\
 The idea is as follows: if I embed all speeches into vectors, I can compute the centroid #footnote[In mathematics and physics, the centroid, also known as geometric center or center of figure, of a plane figure or solid figure is the mean position of all the points in the figure. The same definition extends to any object in n-dimensional Euclidean space @protter_college_1970.] of all speeches of a specific #pm (their vectorial center). Then, for each speech, I can calculate the cosine similarity #footnote[Cosine similarity is the cosine of the angle between two vectors, which in turn measures how similar the two vectors are.] between the speech embedding and the centroid. By doing so, I can compute a degree of similarity between the speeches of a #pm in the vector space, assessing whether a speech adheres to their style or not (hence, whether the speech was authored by that specific #pm). Each speech is graded with a degree of self-similarity (from zero to one), which represents how much that speech resembles the #pm's corpus. The mean similarity for a #pm corpus is calculated by averaging all self-similarity values. I flagged the bottom 10% of speeches as "below threshold". Results are shown in table @tab:outlier_results. De Gasperi was included as a baseline, since their corpus was not scraped. 
 
-We can see that the corpus quality is solid, with the vast majority of #pms' corpora above baseline. Nonetheless, I manually checked all 567 speeches under threshold: I discarded 118 speeches, moving them to the directory `~/crossdem/datasets_pms_discarded/`. Then, I cleaned all remaining speeches by removing from each of them three strings that appear often throughout the dataset and are just noise, namely:
+We can see that the corpus quality is solid, with the vast majority of #pms' corpora above baseline. Nonetheless, I manually checked all 567 speeches under threshold: I discarded 118 speeches, moving them to the directory `~/crossdem/datasets/pms_discarded/`. Then, I cleaned all remaining speeches by removing from each of them three strings that appear often throughout the dataset and are just noise, namely:
 
 + _"..."_
 + _"Sottotitoli a cura di QTSS"_
@@ -978,7 +978,7 @@ Four models fully fit in the VRAM of my GPU: `qwen2.5:7b-instruct-q4_K_M`, `mist
 
 Some of the newer models belong to the family of "thinking models". DeepSeek-AI in 2025 @deepseek-ai_deepseekr1_2025 trained the LLM DeepSeek-R1 through reinforcement learning to generate an explicit chain of thought before committing to a final answer, thus simulating a reasoning process and ultimately yielding better outputs. 
 
-The only model I could benchmark with the thinking functionality enabled is `gemma4:e4b`. Mistral 0.3 and Qwen 2.5 do not have the functionality in the first place, and models too big to fit in the VRAM would have been slowed down even further. `qwen3.5:4b`, on the other hand, displayed a faulty behaviour: with "thinking" enabled the model exhausted its entire token budget, never converging to an answer.
+The only model I could benchmark with the thinking functionality enabled is `gemma4:e4b`. Mistral 0.3 and Qwen 2.5 do not have the functionality in the first place, and models too big to fit in the VRAM would have been slowed down even further. On the other hand, `qwen3.5:4b` displayed a faulty behaviour: with "thinking" enabled the model exhausted its entire token budget, never converging to an answer.
 
 #v(1em)
 
@@ -1102,7 +1102,7 @@ The four dimensions are split between two groups, each with its own system promp
 
 The function `classify_one` (@code:classify_one) feeds a speech to the model and returns the labels. The output is constrained by a JSON schema (@code:classify_config) that restricts each field to its allowed values. The temperature is kept to zero, and the context window is 35,000 tokens, which is big enough to contain both the longest speech in the corpus as well as the tokens needed by the _"thinking"_ phase at the same time. I chose this size after some manual testing: the default context window of 4,096 tokens requires 4,262 MiB of VRAM, and the model do not converge to an answer since it runs out of tokens during the thinking phase. The prompt is 1,449 tokens long, and the longest speech in the corpus is 20,196 tokens long (tokenization done with Spacy). A context window that includes both, plus a 20% buffer, would need to be 24,226 tokens wide. With a context window size of 27,000 tokens, the model requires 4,556 MiB of VRAM and does not converge to an answer, so I increased the context window to 30,000 tokens, which requires 4,596 MiB of VRAM and affords enough room for the model to finally produce an output. Since the increase in VRAM is negligible, I decided to use a context window of 35,000 tokens, which requires 4,662 MiB of VRAM and, of course, affords the model enough room to converge to an answer.  
 
-The number of generated tokens is unlimited. The response is parsed as JSON and its values are checked against the allowed ones. If the call or the check fails, the Ollama call is retried up to three times. The wrappers `classify_think` and `classify_nothink` call the classification function with the appropriate parameters.
+The number of generated tokens is unlimited. The response is parsed as JSON and its values are checked against the allowed ones. If the call or the check fails, the call to Ollama is retried up to three times. The wrappers `classify_think` and `classify_nothink` call the classification function with the appropriate parameters.
 
 #figure(
   sourcecode(

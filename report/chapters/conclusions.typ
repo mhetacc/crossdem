@@ -8,7 +8,11 @@
 
 In this work I collected public speeches from Italian Prime Ministers delivered between 1945 and 2025, scraping them from YouTube and Radio Radicale. I then transcribed the speeches into text with OpenAI's speech recognition model "Whisper", and annotated with the LLM "Gemma 4" for their degrees of hate speech, aggressiveness, and negativity, as well as whether they target a specific group or not. The resulting dataset contains $6,038$ speeches distributed among twenty-four Prime Ministers. To explore the relationship between politicians' rhetoric and the quality of democracy, I measured the evolution of lexical diversity over time, comparing it against V-Dem democratic indices. The same comparison was performed on the evolution of speeches' sentiment over time, and I embedded the speeches into vectors to visualize and measure polarization among politicians and political leanings. 
 
+#v(1em)
+
 On the matter of lexical diversity (measured by the Measure of Textual Lexical Diversity), there are no visible patterns in its variability among #pms, nor in the way the diversity changes during their careers, suggesting that #pms share no common style. On the other hand, its evolution over the years (1945 to 2025) shows a steady reduction in its variability along with a steady increase of the democratic indices, until the period 2020-2025 where the variability grows back up and three democratic indices decline. However, over the period 1985-2025, the Spearman's $rho$ confidence intervals paired with the $p$-value tell us that the correlation between the variability of the lexical diversity and the democratic indices is not certain, and that we cannot distinguish it from chance.
+
+#v(1em)
 
 To quantify polarization, I compared leaning-exclusive vocabularies with the vocabulary shared among all leanings, and I embedded all speeches of all #pms in the vector space with a simple Doc2Vec algorithm that averages FastText word embeddings weighted by TF-IDF. After the year 2000, leaning-exclusive vocabularies surpass the shared vocabulary in size, which paired with the per-#pm and per-leaning clustering in the vector space suggests that symptoms of polarization may be present in the Italian political landscape.  
 
