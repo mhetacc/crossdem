@@ -9,7 +9,7 @@
     //#v(2em)
     #text()[#smallcaps[To my parents, \
     for always believing in me \
-    and for always supporting me during these years.]]
+    and always supporting me during these years.]]
 ])
 
 #v(2cm)
