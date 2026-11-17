@@ -7,10 +7,9 @@
     
     //#image(img, width: 24em)
     //#v(2em)
-    #text()[#smallcaps[I am a very beautiful dedication to all my fiends and family. Also TODO.]]
-    #text(1.2em, weight: "bold")[]
-    #v(1pt)
-    #sym.dash.em #text()[#smallcaps[Me, _Still Me_, 2026]] 
+    #text()[#smallcaps[To my parents, \
+    for always believing in me \
+    and for always supporting me during these years.]]
 ])
 
 #v(2cm)

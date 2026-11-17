@@ -8,9 +8,9 @@
 //- Public vs institutional speeches
 // 
 
-Since antiquity, politicians have tried to shape society to better suit their ideals and goals. Shapiro and Page (1984) @page_presidents_1984 showed how nearly all of the $20^"th"$ century U.S. Presidents sought to steer public opinion, with varying degrees of success. As political power came to depend increasingly on popular consent, so grew the leaders' responsibility to convince potential followers that their policies are beneficial. Thus, *speeches* play a vital role in the functioning of society @beard_language_2000: leaders depend on the verbal power to persuade people @charteris-black_persuasion_2011.
+Since antiquity, politicians have tried to shape society to better suit their ideals and goals. Shapiro and Page @page_presidents_1984 showed how nearly all of the $20^"th"$ century U.S. Presidents sought to steer public opinion, with varying degrees of success. As political power came to depend increasingly on popular consent, so grew the leaders' responsibility to convince potential followers that their policies are beneficial. Thus, *speeches* play a vital role in the functioning of society @beard_language_2000: leaders depend on the verbal power to persuade people @charteris-black_persuasion_2011.
 
-Moreover, democratic stability depends on citizens on the losing side accepting election outcomes. Clayton et al. @clayton_elite_2021 evaluated the effects of exposure to multiple statements from (at the time) former president Donald Trump #footnote[Former president when Clayton et al. wrote their paper, current president at the time of writing this Master Thesis.] attacking the legitimacy of the 2020 US presidential election. While they found no evidence indicating that elites can erode democratic norms easily, elite rhetoric can shape people's views about core democratic values such as confidence in elections and support for peaceful transfers of power. This was especially evident amongst people who approved of Trump's performance in office.
+Moreover, democratic stability depends on citizens on the losing side accepting election outcomes. Clayton et al. @clayton_elite_2021 evaluated the effects of exposure to multiple statements from (at the time) former president Donald Trump #footnote[Former president when Clayton et al. wrote their paper, current president at the time of writing this Master Thesis.] attacking the legitimacy of the 2020 US presidential election. While they found no evidence indicating that elites can erode democratic norms easily, elite rhetoric can shape people's views about core democratic values such as confidence in elections and support for peaceful transfers of power. This was especially evident among people who approved of Trump's performance in office.
 
 #v(1em)
 // internal and external speeches
@@ -19,7 +19,7 @@ Speeches can be differentiated between two types: _internal speeches_, aimed at 
 
 // Social Networks
 
-While traditional media still represent the primary information source for a large share of the population, online platforms are steadily growing and are already the preferred medium for young people @eurobarometer_media_2023 @maher_twice_2024. There have been attempts to predict election results by analyzing data from social media, with mixed results: in Belcastro et al.'s 2022 study @belcastro_analyzing_2022, a real-time analysis was carried out during the 2020 US presidential election campaign, correctly identifying the leading candidate before Election Day in 10 out of 11 swing states.
+While traditional media still represent the primary information source for a large share of the population, online platforms are steadily growing and are already the preferred medium for young people @eurobarometer_media_2023 @maher_twice_2024. There have been attempts to predict election results by analyzing data from social media, with mixed results: in Belcastro et al.'s 2022 study @belcastro_analyzing_2022, a real-time analysis was carried out during the 2020 US presidential election campaign, correctly identifying the leading candidate before Election Day in ten out of eleven swing states.
 
 Opposite results can be seen in Rita et al.'s work @rita_social_2023, which measures sentiment polarity on Twitter, and concludes that tweets sentiment is not a reliable election results predictor, and that it is impossible to state that social media influences voting decisions. 
 
@@ -28,7 +28,7 @@ Silva et al. @silva_politicians_2022, on the other hand, managed to match tweets
 #v(1em)
 // SN -> thus easier scraping
 
-Circling back to the matter of speeches, external speeches often need to be scraped. Social networks can simplify this process through their exposed APIs and the availability of community-developed tools such as Python's library `ytp-dl` #footnote[Privacy-focused media downloader API for Linux VPS deployments: #link("https://pypi.org/project/ytp-dl/")]. These resources open the possibility to automate speech collection (section @sec:scraping).
+Turning back to the matter of speeches, external speeches often need to be scraped. Social networks can simplify this process through their exposed APIs and the availability of community-developed tools such as Python's library `ytp-dl` #footnote[Privacy-focused media downloader API for Linux VPS deployments: #link("https://pypi.org/project/ytp-dl/")]. These resources open the possibility to automate speech collection (section @sec:scraping).
 
 // internal speeches bad
 
@@ -37,7 +37,7 @@ On the other hand, internal speeches are usually already available in easy to ac
 
 #v(1em)
 // goal -> thus external speeches
-This project aims to compile a corpus of political speeches and subject it to linguistic analyses, progressing from classical NLP metrics such as word frequency and textual complexity to LLM-assisted classification tasks (hate-speech detection and target identification amongst them). 
+This project aims to compile a corpus of political speeches and subject it to linguistic analyses, progressing from classical NLP metrics such as word frequency and textual complexity to LLM-assisted classification tasks (hate-speech detection and target identification among them). 
 This is why I ultimately chose to gather a corpus of *external speeches* rather than internal ones. Large language models are trained with tokenizers, and the resulting token distribution is highly imbalanced: Chung and Kim's controlled study @chung_exploiting_2025 scaled the vocabulary of a set of language models from $24,000$ to $196,000$ tokens while holding data, computation, and optimization unchanged. They discovered that the models are disproportionately optimized on the part of language that occurs most frequently, meaning they are far better at understanding words and patterns that appear more often. This suggests that internal speeches are less understandable to AI agents. 
 
 Moreover, Birkenmaier and Lechner @birkenmaier_measuring_2026 made a similar dataset choice: they measured politicians' public personality traits using computational text analysis, and their corpus comprises data from interviews, social media posts, and parliamentary speeches. Specifically: "interview statements provide one of the most natural and authentic sources of politicians’ interactions and self-presentation to the public", making them one of the best data sources for political speeches @schoonvelde_friends_2019 @bull_psychology_2023.
@@ -48,11 +48,11 @@ Moreover, Birkenmaier and Lechner @birkenmaier_measuring_2026 made a similar dat
 //- Textual complexity, polarization, and sentiment analysis
 //   - Why are they important
 // textual complexity
-There’s a widespread view that populism is on the rise, from the United States and Turkey to India and Hungary @lange_republicans_2024 @massicard_populism_2021 @tillin_political_2024 @gyori_populism_2012, a development that has generated considerable concern because, in its most radical and authoritarian form, populism threatens democracy @kaltwasser_ambivalence_2012, polarizes societies @scheiring_watched_2024, and erodes trust in experts @nisbet_tragedy_2016. 
+Having discussed the dataset, the following paragraphs focus on the three linguistic features analyzed in this work: textual complexity, emotiveness, and polarization. There is a widespread view that populism is on the rise, from the United States and Turkey to India and Hungary @lange_republicans_2024 @massicard_populism_2021 @tillin_political_2024 @gyori_populism_2012, a development that has generated considerable concern because, in its most radical and authoritarian form, populism threatens democracy @kaltwasser_ambivalence_2012, polarizes societies @scheiring_watched_2024, and erodes trust in experts @nisbet_tragedy_2016. 
 
 Moreover, the progressive simplification of political discourse @kittel_simply_2025 has attracted increasing attention, as it allegedly favours populist politicians, particularly those on the far right. Many studies tried to explore these claims, with mixed results: Decadri and Boussalis @decadri_populism_2020 used text analytic techniques to inspect parliamentary speeches given by the members of nine Italian parties. Their results suggest that populist ideology, electoral strategy, and party membership influence legislators’ language complexity, and that language simplicity might be thought of as a feature of populist communication. \
 On the other hand, McDonnell and Ondelli in their 2020 study @mcdonnell_language_2022 investigate the linguistic simplicity of four right-wing populists compared to their principal opponents in the United States, France, United Kingdom, and Italy. Contrary to expectations, they find that Donald Trump was only slightly simpler than Hillary Clinton, while Nigel Farage in the UK and Marine Le Pen in France were more complex than their main rivals, and Italy’s Matteo Salvini was simpler on some measures but not others, concluding that the relationship between populism and simplicity should not be taken for granted. \
-Similar results were found by Rebecca C. Kittel in 2025 @kittel_simply_2025 after analyzing German parliamentary debates from January 1991 to September 2021. Their findings show that right-wing populist actors use the most complex language, while left-wing populists' language complexity is average. At the same time, the study finds that overall complexity decreased significantly in the German parliament over time, confirming at least partially the claims about "progressive simplification". \
+Similar results were found by Rebecca C. Kittel in 2025 @kittel_simply_2025, after analyzing German parliamentary debates from January 1991 to September 2021. Their findings show that right-wing populist actors use the most complex language, while left-wing populists' language complexity is average. At the same time, the study finds that overall complexity decreased significantly in the German parliament over time, confirming at least partially the claims about "progressive simplification". \
 //Overall, the matter of lexical complexity is still highly sought after by journalists and researchers alike.
 
 // populists tend to speak very emotionally 
@@ -86,7 +86,7 @@ In the pursuit of measuring emotiveness, I measured three qualities of speech (h
 I define the term _hostility_ as the compound metric that incorporates all three aforementioned qualities #footnote[To clarify: if a speech has high negativity and high aggressiveness, it is a speech with medium to high hostility.].
 
 + RQ 1: How does the textual complexity evolve and does it bear any correlation with the quality of democracy?;
-+ RQ 2: Can we identify symptoms of polarization?;
++ RQ 2: Can we identify and measure polarization?;
 + RQ 3: How hostile are the speeches delivered by Italian #pms and does hostility evolve over time?;
 
 Each research question comes with its own share of sub-questions. \
