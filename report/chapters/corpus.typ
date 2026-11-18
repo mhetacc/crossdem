@@ -48,7 +48,7 @@ Overall, the taxonomy of ParlaMint is strongly codified, which makes the dataset
 The corpus I built comprises speeches from twenty-four out of the thirty-one Prime Ministers of the Italian Republic, as shown in figure @fig:it_pms_timeline. Prime Ministers from the Kingdom of Italy (1861-1946) are excluded.
 
 #align()[
-    #figure(image("../images/italian_prime_ministers.jpg", width: 100%), 
+    #figure(image("../images/italian_prime_ministers.jpg", width: 100%, alt: "Italian PMs in a timeline, each with a specific color."), 
     caption: "Italian Prime Ministers from 1946 to 2025 and their time in office. In grey Prime Ministers not included in the corpus. Colors will remain consistent throughout this work.")
     <fig:it_pms_timeline>
 ]
@@ -139,11 +139,11 @@ Specifically, $3,936$ speeches (65.2%) are concentrated between 1995 and 2010, a
   rows: 2,
   gutter: 5pt,
   figure(
-    image("../images/speeches_stack_words.png", width: 100%),
+    image("../images/speeches_stack_words.png", width: 100%, alt: "Histogram that shows the distribution of words in the dataset over the years, words colored by political affiliation."),
     caption: [Dateset: words. The graph show strong data imbalances: years between 1995 and 2010 contain most of the data, and left-leaning Prime Ministers are overrepresented.]
   ), <fig:dataset_words>,
   figure(
-    image("../images/speeches_stacked_tokens.png", width: 100%),
+    image("../images/speeches_stacked_tokens.png", width: 100%, alt: "Histogram that shows the distribution of tokens in the dataset over the years, tokens colored by political affiliation."),
     caption: [Dataset: tokens. Tokenization done via `spacy.load("it_core_news_sm")`.]
   ), <fig:dataset_tokens>,
   v(0.2em),

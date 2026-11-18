@@ -64,6 +64,8 @@
 
     show figure.caption: set text(size: 9.5pt)
     show figure.where(kind: raw): set figure(supplement: "Code")
+
+    // default alt texts for math and images for pdf/A-3a compliancy
     set math.equation(alt: "Formatted as math")
     set image(alt: "Figure, see caption for details")
 

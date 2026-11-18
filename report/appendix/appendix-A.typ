@@ -498,10 +498,10 @@ caption: "Prompts to be fed into Gemma 4 to classify the corpus and their respec
   gutter: 3pt,
   figure(
     image("../images/mtld_vdem_box5years_all.png", width: 100%),
-    caption: [MTLD values in a Boxplot by 5-year periods, with VDEM indices. As above, each grey box combines all speeches for all political leanings in that 5-year period, while the colored boxes represent respectively center-leaning (in green), left-leaning (in red), and right-leaning (in blue) MTLD values in that 5-year preiod.]
+    caption: [MTLD values in a Boxplot by 5-year periods, with VDEM indices. Each colored box represent respectively center-leaning (in green), left-leaning (in red), and right-leaning (in blue) MTLD values in that 5-year preiod.]
   ), <appx:vdem_box5years_all>,
   figure(
-    image("../images/mtld_vdem_line_all_leanings.png", width: 100%),
+    image("../images/mtld_vdem_line_all_leanings.png", width: 100%, alt: "Line chart with MTLD values for each leaning."),
     caption: [MTLD values plotted for each year, aggregating speeches from three political leanings, respectively colored as green (center), red (left), and blue (right). Each dot of the graph (for each year) is scaled based on the amount of speeches available for that specific year. The MTLD line chart is plotted against VDEM indices.]
   ), <appx:vdem_line_all_leanings>,
   v(0.2em),
@@ -518,11 +518,11 @@ Heatmaps comparing prime ministers' most used words and vocabularies directly.
   columns: 2,
   gutter: 1pt,
   figure(
-    image("../images/heatmap_words.png", width: 100%),
+    image("../images/heatmap_words.png", width: 100%, alt:  "Heatmap, so a matrix where each tile of the matrix is colored by how similar are the vocabularies of the two elements in the X and Y axes, which are Italian PMs."),
     caption: [Words similarity.]
   ), <appx:heatmap_words>,
   figure(
-    image("../images/heatmap_jaccard.png", width: 100%),
+    image("../images/heatmap_jaccard.png", width: 100%, alt:  "Heatmap, so a matrix where each tile of the matrix is colored by how similar are the vocabularies of the two elements in the X and Y axes, which are Italian PMs."),
     caption: [Jaccard similarity.]
   ), <appx:heatmap_jaccard>,
   v(0.2em),
@@ -536,7 +536,7 @@ Heatmaps comparing prime ministers' most used words and vocabularies directly.
 Applying a word2vec algorithm on the 1000-most-used words of each #pm produces a t-SNE graph hard to read. Some clusters emerge, but drawing conclusion is unlikely.
 
   #figure(
-    image("../images/tsne_word2vec.png", width: 100%),
+    image("../images/tsne_word2vec.png", width: 100%, alt: "t-SNE, so a 2D graph where many points are plotted. Each point represent a word translated in its vectorial form, each point is colored by the PM they belong to."),
     caption: [Top-1000 words #footnote[Top-1000 words means pooling the one thousand most used words of a specific #pm. Stopwords are removed and the lexicon is lemmatized.] from each #pm. The embedding vectors are pretrained Italian word vectors (CBOW, 300 dimensions) taken from FastText. Words shared by all #pms are displayed as black rhombuses. The graph show a lot of clustering, suggesting a certain similarity among #pms. That being said, the graph is also too hard to read to gain any conclusive evidence.]
   )<appx:tsne_word2vec>
 
@@ -544,6 +544,6 @@ Applying a word2vec algorithm on the 1000-most-used words of each #pm produces a
 == Per-Leaning Hostility Against V-Dem Indices
 
   #figure(
-  image("../images/sentiments_vdem_polleanings.png", width: 100%),
+  image("../images/sentiments_vdem_polleanings.png", width: 100%, alt: "Line chart with hostility values for each leaning."),
   caption: [Sentiment values plotted for each year, aggregating speeches from three political leanings, respectively colored as green (center), red (left), and blue (right). Each dot of the graph (for each year) is scaled based on the amount of speeches available for that specific year. The sentiment scores line chart is plotted against V-Dem indices.],
 ) <appx:sentiments_vdem_polleanings>

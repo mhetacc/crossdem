@@ -112,7 +112,7 @@ Since the years cannot be treated as independent observations, to calculate the 
 ) <fig:vdem_box5y_combined>
 
 #figure(
-  image("../images/mtld_vdem_line_combined.png", width: 100%),
+  image("../images/mtld_vdem_line_combined.png", width: 100%, alt: "Each year has exact median of all speeches, resulting in a line chart."),
   caption: [MTLD values plotted for each year, aggregating all speeches from all political leanings. Each dot is scaled by the number of speeches available for that year. The MTLD line chart is plotted against V-Dem indices. Note the different Y-axis scale compared to figure @fig:vdem_box5y_combined.],
 ) <fig:vdem_line_combined>
 
@@ -282,16 +282,16 @@ On the other hand, highlighting the speeches by 5-year periods (subfigure @fig:d
   columns: 2,
   gutter: 3pt,
   figure(
-    image("../images/tsne_doc2vec_pms.png", width: 100%),
+    image("../images/tsne_doc2vec_pms.png", width: 100%, alt: "t-SNE which shows many points (each of which a speech in the vector space, drawn on two axes) colored by the PM that delivered the speech."),
     caption: [Doc2Vec: #pms.]
   ), <fig:doc2vec_pms>,
   figure(
-    image("../images/tsne_doc2vec_leanings.png", width: 100%),
+    image("../images/tsne_doc2vec_leanings.png", width: 100%, alt: "t-SNE which shows many points (each of which a speech in the vector space, drawn on two axes) colored by political leaning."),
     caption: [Doc2Vec: political leaning.]
   ), <fig:doc2vec_leanings>,
   grid.cell(colspan: 2, align: center)[
     #figure(
-      image("../images/tsne_doc2vec_years.png", width: 50%),
+      image("../images/tsne_doc2vec_years.png", width: 50%, alt: "t-SNE which shows many points (each of which a speech in the vector space, drawn on two axes) colored by the year when they were delivered."),
       caption: [Doc2Vec: year periods.]
     ) <fig:doc2vec_years>
   ],
@@ -357,7 +357,7 @@ Grouping the "political adversaries" target by 5-year periods (subfigure @fig:ta
 
 
 #figure(
-  image("../images/sentiments_vdem_combined.png", width: 100%),
+  image("../images/sentiments_vdem_combined.png", width: 100%, alt: "Three line charts for the sentiment plotted against the line charts of the Vdem values."),
   caption: [Sentiment values plotted for each year, aggregating all speeches from all political leanings. Each dot is scaled based on the amount of speeches available for that specific year. The sentiment scores chart is plotted against V-Dem indices.],
 ) <fig:sentiment_vdem>
 
@@ -398,19 +398,19 @@ caption: [Correlation between the negativity and aggressiveness dimensions and t
   rows: 2,
   gutter: 5pt,
   figure(
-    image("../images/sentiments_2d_pms.png", width: 100%),
+    image("../images/sentiments_2d_pms.png", width: 100%, alt: "Bubble plot, each bubble plotted on two axes (negativity and aggressiveness) where each bubble is a PM."),
     caption: [Sentiment: #pms ($|"speeches"|gt.eq 100$).]
   ), <fig:bubble_pms>,
   figure(
-    image("../images/sentiments_2d_leanings.png", width: 100%),
+    image("../images/sentiments_2d_leanings.png", width: 100%, alt: "Bubble plot, each bubble plotted on two axes (negativity and aggressiveness) where each bubble represent one of three political leanings."),
     caption: [Sentiment: leanings.]
   ), <fig:bubble_leanings>,
   figure(
-    image("../images/sentiments_2d_years_zoomout.png", width: 100%),
+    image("../images/sentiments_2d_years_zoomout.png", width: 100%, alt: "Bubble plot, each bubble plotted on two axes (negativity and aggressiveness) where each bubble is a year."),
     caption: [Sentiment: years zoomed out.]
   ), <fig:bubble_years_zoomout>,
   figure(
-    image("../images/sentiments_2d_years_zoomin.png", width: 100%),
+    image("../images/sentiments_2d_years_zoomin.png", width: 100%, alt: "Bubble plot, each bubble plotted on two axes (negativity and aggressiveness) where each bubble is a year. Zoomed in."),
     caption: [Sentiment: years zoomed in.]
   ), <fig:bubble_years_zoomin>,
   v(0.2em),
@@ -424,16 +424,16 @@ caption: [Correlation between the negativity and aggressiveness dimensions and t
   columns: 2,
   gutter: 5pt,
   figure(
-    image("../images/target_leaderboard_polAdv.png", width: 90%),
+    image("../images/target_leaderboard_polAdv.png", width: 90%, alt: "Leaderboard, so a bar plot where on the Y axis we have the features (in this case the PMs) and on the X axis the values."),
     caption: [Target: political adversaries. Grouped by: PMs.]
   ), <fig:target_pms>,
   figure(
-    image("../images/target_leaderboard_polAdv_years.png", width: 110%),
+    image("../images/target_leaderboard_polAdv_years.png", width: 110%, alt: "Leaderboard, so a bar plot where on the Y axis we have the features (in this case the 5-year periods) and on the X axis the values."),
     caption: [Target: political adversaries. Grouped by: years.]
   ), <fig:target_years>,
   grid.cell(colspan: 2, align: center)[
     #figure(
-      image("../images/target_leaderboard_polAdv_leanings.png", width: 50%),
+      image("../images/target_leaderboard_polAdv_leanings.png", width: 50%, alt: "Leaderboard, so a bar plot where on the Y axis we have the features (in this case the three main leanings) and on the X axis the values."),
       caption: [Target: political adversaries. Grouped by: leanings.]
     ) <fig:target_leanings>
   ],
@@ -446,15 +446,15 @@ caption: [Correlation between the negativity and aggressiveness dimensions and t
   columns: 3,
   gutter: 1pt,
   figure(
-    image("../images/target_leaderboard_ethn_years.png", width: 100%),
+    image("../images/target_leaderboard_ethn_years.png", width: 100%, alt: "Leaderboard, so a bar plot where on the Y axis we have the features (in this case the 5-year periods) and on the X axis the values."),
     caption: [Target: ethnic minorities.]
   ), <fig:target_leaderboard_ethn_years>,
   figure(
-    image("../images/target_leaderboard_gnd_years.png", width: 100%),
+    image("../images/target_leaderboard_gnd_years.png", width: 100%, alt: "Leaderboard, so a bar plot where on the Y axis we have the features (in this case the 5-year periods) and on the X axis the values."),
     caption: [Target: gender minorities.]
   ), <fig:target_leaderboard_gnd_years>,
   figure(
-    image("../images/target_leaderboard_rel_years.png", width: 100%),
+    image("../images/target_leaderboard_rel_years.png", width: 100%, alt: "Leaderboard, so a bar plot where on the Y axis we have the features (in this case the 5-year periods) and on the X axis the values."),
     caption: [Target: religious minorities.]
   ), <fig:target_leaderboard_rel_years>,
   v(0.2em),
