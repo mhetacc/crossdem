@@ -248,9 +248,12 @@ While the period 2020-2025 sees a sudden growth of the shared vocabulary, the ex
 
 The presence of polarization between #pms and political leanings is corroborated by the t-SNE graphs in figure @fig:tsne_doc2vec, which plot all speeches embedded with a simple Doc2Vec algorithm that builds document vectors as TF-IDF-weighted averages of pre-trained word embeddings, with the formula:
 
-$
-"Document Vector" = frac(sum w_i v_i, sum w_i)
-$<math:Doc2Vec>
+#math.equation(
+  block: true,
+  alt: "Document vector equals the sum of each weight w sub i times vector v sub i, divided by the sum of the weights w sub i",
+  $ "Document Vector" = frac(sum w_i v_i, sum w_i) $,
+) <math:Doc2Vec>
+
 
 where $v_i$ is the FastText embedding  #footnote[For this project, I downloaded the Italian vector embedding of dimension 300 from FastText @grave_learning_2018 official website: #link("https://fasttext.cc/docs/en/crawl-vectors.html").] for word $i$, and $w_i$ the TF-IDF score for that word. When the speeches (i.e. the points in the t-SNE plot) are highlighted by the #pm who authored them (subfigure @fig:doc2vec_pms), we can clearly see that most #pms' speeches cluster together, with little overlap. This reinforces the idea that most #pms have a personal style, agreeing with previous findings in section @sec:res_textual_complexity. 
 

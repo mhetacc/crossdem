@@ -64,6 +64,8 @@
 
     show figure.caption: set text(size: 9.5pt)
     show figure.where(kind: raw): set figure(supplement: "Code")
+    set math.equation(alt: "Formatted as math")
+    set image(alt: "Figure, see caption for details")
 
     set heading(numbering: "1.1.1.1")
     // Figure numbering: chapter.figure (e.g., 1.1, 1.2, 2.1, etc.) or A.1, A.2, ... in appendix
