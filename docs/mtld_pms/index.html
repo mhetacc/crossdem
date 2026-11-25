@@ -64,7 +64,6 @@
 <script>
 const MIN_SPEECHES = 20, STEPS = 100, WINDOW = 4, MIN_SIZE = 2, MAX_SIZE = 16, N_BOOT = 500, CI = 0.95;
 const SORTS = ["Median MTLD", "Variability (IQR + whiskers)", "Number of speeches"];
-const DEFAULT_SELECTED = ["meloni", "degasperi"];
 let DATA = null;
 
 const state = { view: "BoxPlot", sort: SORTS[0], regression: "Linear", selected: new Set() };
@@ -265,8 +264,7 @@ function init() {
   ["medians", "overall", "dots", "ci"].forEach(id => $(id).onchange = redraw);
   $("min20").onchange = () => { syncCheckboxes(); redraw(); };
 
-  const present = DEFAULT_SELECTED.filter(p => DATA.politicians.includes(p));
-  (present.length ? present : DATA.politicians.slice(0, 2)).forEach(p => state.selected.add(p));
+  DATA.politicians.filter(eligible).forEach(p => state.selected.add(p));   // default: all PMs
   buildGrid(); syncCheckboxes(); redraw();
 }
 
