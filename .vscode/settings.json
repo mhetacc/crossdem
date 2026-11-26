@@ -107,5 +107,10 @@
     "editor.wordWrap": "on",
     "cSpell.enabled": true,
     "editor.fontSize": 19,
-    "tinymist.typstExtraArgs": ["report/typst/main.typ"],
+    "tinymist.typstExtraArgs": [
+        "report/typst/main.typ",
+        "--pdf-standard",
+        "a-3a",
+    ],
+    "tinymist.exportPdf": "onSave",
 }
