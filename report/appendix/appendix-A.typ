@@ -498,14 +498,14 @@ caption: "Prompts to be fed into Gemma 4 to classify the corpus and their respec
   gutter: 3pt,
   figure(
     image("../images/mtld_vdem_box5years_all.png", width: 100%),
-    caption: [MTLD values in a Boxplot by 5-year periods, with VDEM indices. Each colored box represent respectively center-leaning (in green), left-leaning (in red), and right-leaning (in blue) MTLD values in that 5-year preiod.]
+    caption: [MTLD values in a Boxplot by 5-year periods, with VDEM indices. Each colored box represent respectively center-leaning (in green), left-leaning (in red), and right-leaning (in blue) MTLD values in that 5-year period.]
   ), <appx:vdem_box5years_all>,
   figure(
     image("../images/mtld_vdem_line_all_leanings.png", width: 100%, alt: "Line chart with MTLD values for each leaning."),
     caption: [MTLD values plotted for each year, aggregating speeches from three political leanings, respectively colored as green (center), red (left), and blue (right). Each dot of the graph (for each year) is scaled based on the amount of speeches available for that specific year. The MTLD line chart is plotted against VDEM indices.]
   ), <appx:vdem_line_all_leanings>,
   v(0.2em),
-  caption: [MTLD values aggregated for each year, plotted against VDEM indices. There does not seem to be a correlation between a decrease in complexity and a decrease in democratic indices. Instead, the graph seems to suggest the opposite. There seem to be a reduction in MTLD variance starting from 1989 all the way to 2019, whith an abrupt inversion in the 2020-2025 period. If this is a correlation with the inflection of some VDEM indices, it is not clear.],
+  caption: [MTLD values aggregated for each year, plotted against VDEM indices. There does not seem to be a correlation between a decrease in complexity and a decrease in democratic indices. Instead, the graph seems to suggest the opposite. There seem to be a reduction in MTLD variance starting from 1989 all the way to 2019, with an abrupt inversion in the 2020-2025 period. If this is a correlation with the inflection of some VDEM indices, it is not clear.],
   label: <appx:vdem_5y_pms_leanings>
 )
 

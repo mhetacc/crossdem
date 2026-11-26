@@ -43,7 +43,7 @@ They used three metrics: Flesch readability score; Yule's K measure of lexical r
 #v(1em)
 
 Lastly, Fredrick and Craven @fredrick_lexical_2025 compared AI-generated texts (via ChatGPT) and student-written essays in terms of lexical diversity, syntactic complexity, and readability, using metrics such as Type-Token Ratio and Flesch-Kincaid. Results indicate that while ChatGPT produces texts with greater lexical diversity and syntactic complexity, the outputs are overall less readable.\
-They chose a range of linguistic complexity metrics: for lexical diversity they used TTR and MTLD, for syntactic complexity MLT and DC/T, for readability Flesc-Kincaid and Gunning-Fog, and lastly they also measured lexical sophistication.
+They chose a range of linguistic complexity metrics: for lexical diversity they used TTR and MTLD, for syntactic complexity MLT and DC/T, for readability Flesch-Kincaid and Gunning-Fog, and lastly they also measured lexical sophistication.
 
 #v(1em)
 
@@ -128,7 +128,7 @@ In this project, I tried to identify and visualize polarization in two ways: fir
 
 == Sentiment Analysis <sec:sots_sentiment_analysis>
 
-Sentiment analysis refers the the use of natural language processing, text analysis, and computational linguistics, to systematically identify, extract, quantify, and study the emotional qualities of a text. A classical example is evaluating the sentiment of a review (for example a movie review), a task that is often aided by the presence of an explicit score in the review itself (for instance _"two stars out of five"_). With the rise of deep language models, harder data domains can be analyzed, such as news or opinion pieces where authors express their sentiment less explicitly @hamborg_newsmtsc_2021. \
+Sentiment analysis refers to the use of natural language processing, text analysis, and computational linguistics, to systematically identify, extract, quantify, and study the emotional qualities of a text. A classical example is evaluating the sentiment of a review (for example a movie review), a task that is often aided by the presence of an explicit score in the review itself (for instance _"two stars out of five"_). With the rise of deep language models, harder data domains can be analyzed, such as news or opinion pieces where authors express their sentiment less explicitly @hamborg_newsmtsc_2021. \
 A sentiment analysis task can be assess the verbal aggression in X's comments @chen_verbal_2020, measure the negative sentiment on social media during the COVID-19 outbreak @wang_covid19_2020, or detect hate speech in online debate @macavaney_hate_2019. 
 
 #v(1em)

@@ -45,7 +45,7 @@ Overall, the taxonomy of ParlaMint is strongly codified, which makes the dataset
 
 == Crossdem Corpus Structure <sec:my_corpus>
 
-The corpus I built comprises speeches from twenty-four out of the thirty-one Prime Ministers of the Italian Republic, as shown in figure @fig:it_pms_timeline. Prime Ministers from the Kingdom of Italy (1861-1946) are excluded.
+The corpus I built comprises speeches from twenty-five out of the thirty-one Prime Ministers of the Italian Republic, as shown in figure @fig:it_pms_timeline. Prime Ministers from the Kingdom of Italy (1861-1946) are excluded.
 
 #align()[
     #figure(image("../images/italian_prime_ministers.jpg", width: 100%, alt: "Italian PMs in a timeline, each with a specific color."), 
@@ -101,14 +101,14 @@ table.hline(stroke: 0.5pt),
 text(fill:white)[*PM*], text(fill:white)[*Time Period*], text(fill:white)[*\# Speeches*], text(fill:white)[*\# Words (Tokens)*], text(fill:white)[*$"Median" frac("Words(Tokens)", "Speech")$*],
     [De Gasperi], [1901-09-21 – 1954-07-24], [473], [534,228 (609,142)], [701 (803)],
     [Fanfani], [1962-03-22 – 1993-07-25], [21], [26,520 (29,806)], [774 (948)],
-    [Leone], [1987-04-02 – 2007-09-09], [8], [7,712 (8,921)], [886 (1,013)],
+    [Leone], [1987-04-02 – 2001-09-09], [8], [7,712 (8,921)], [886 (1,013)],
     [Rumor], [1986-09-03 – 1989-02-20], [5], [9,405 (10,234)], [1,880 (2,100)],
     [Colombo], [1984-05-23 – 1984-05-23], [1], [3,031 (3,393)], [3,031 (3,393)],
     [Andreotti], [1978-04-04 – 2009-05-11], [400], [1,014,190 (1,117,148)], [1,926 (2,122)],
     [Cossiga], [1977-04-21 – 2009-06-11], [225], [539,510 (608,165)], [2,014 (2,292)],
     [Forlani], [1985-12-01 – 2015-02-05], [75], [137,655 (153,626)], [1,718 (1,779)],
     [Spadolini], [1981-12-14 – 1994-04-22], [105], [208,077 (229,816)], [1,698 (1,853)],
-    [Craxi], [1980-06-06 – 2005-09-17], [114], [228,924 (254,538)], [1,786 (1,973)],
+    [Craxi], [1980-06-06 – 2000-09-17], [114], [228,924 (254,538)], [1,786 (1,973)],
     [Goria], [1986-09-04 – 1993-05-22], [42], [85,183 (94,885)], [1,930 (2,163)],
     [De Mita], [1985-02-15 – 2017-09-28], [208], [634,323 (706,142)], [3,044 (3,328)],
     [Amato], [1984-03-28 – 2024-11-20], [901], [2,576,265 (2,799,551)], [2,671 (2,877)],
@@ -131,7 +131,7 @@ caption: [Corpus overview per prime minister. In order: Prime Minister's names, 
 ]
 #v(1em)
 
-Figure @fig:dataset visualizes all the collected speeches (and tokens) and their distribution over time. We can immediately see an imbalance both in therms of time (most data is concentrated between 1995 and 2010), and in terms of political leaning (left-leaning speeches are overrepresented). There is also a big gap between 1955 and 1985 where there is almost no data at all, and between 2019 and 2024 we see a strong reduction in data density, which shoots back up in 2025 (all Giorgia Meloni's speeches).
+Figure @fig:dataset visualizes all the collected speeches (and tokens) and their distribution over time. We can immediately see an imbalance both in terms of time (most data is concentrated between 1995 and 2010), and in terms of political leaning (left-leaning speeches are overrepresented). There is also a big gap between 1955 and 1985 where there is almost no data at all, and between 2019 and 2024 we see a strong reduction in data density, which shoots back up in 2025 (all Giorgia Meloni's speeches).
 Specifically, $3,936$ speeches (65.2%) are concentrated between 1995 and 2010, and $5,363$ (88.8%) between 1985 and 2020.
 
 
@@ -140,7 +140,7 @@ Specifically, $3,936$ speeches (65.2%) are concentrated between 1995 and 2010, a
   gutter: 5pt,
   figure(
     image("../images/speeches_stack_words.png", width: 100%, alt: "Histogram that shows the distribution of speeches in the dataset over the years, speeches colored by political affiliation."),
-    caption: [Dateset: speeches. The graph shows strong data imbalances: years between 1995 and 2010 contain most of the data, and left-leaning Prime Ministers are overrepresented.]
+    caption: [Dataset: speeches. The graph shows strong data imbalances: years between 1995 and 2010 contain most of the data, and left-leaning Prime Ministers are overrepresented.]
   ), <fig:dataset_words>,
   figure(
     image("../images/speeches_stacked_tokens.png", width: 100%, alt: "Histogram that shows the distribution of tokens in the dataset over the years, tokens colored by political affiliation."),
@@ -225,7 +225,7 @@ This section will explain how the corpus was built, starting from the collection
 
 I would like to thank Sara Tonelli for providing me with the De Gasperi's Corpus @tonelli_prendo_2019, a collection of Alcide De Gasperi's public documents with gold and silver annotation.
 
-The corpus is a collection of 2,762 documents issued between 1901 and 1954, formatted into XML files which include metadata that covers not only the title, the date and the place of publication, but also key-concepts automatically extracted from each text (with the corresponding relevance score) and genre labels manually assigned by domain experts. Furthermore, the release includes silver annotation for lemma, part of speech, person names and place names witPh associated coordinates in a CoNLL-like format. 
+The corpus is a collection of 2,762 documents issued between 1901 and 1954, formatted into XML files which include metadata that covers not only the title, the date and the place of publication, but also key-concepts automatically extracted from each text (with the corresponding relevance score) and genre labels manually assigned by domain experts. Furthermore, the release includes silver annotation for lemma, part of speech, person names and place names with associated coordinates in a CoNLL-like format. 
 
 An example of the XML formatting can be seen at listing @code:xml_degasperi.
 Thanks to the `<genres>` tag, I was able to extract 474 public speeches, each of which with a location, a precise date and a list of keywords.
@@ -334,7 +334,7 @@ Since most #pms have hundreds of speeches, selecting each one by hand (as I did 
 
 In Radio Radicale's website, the speeches of each #pm can be filtered by categories (for example, "All" or "Interviews"). The categories to scrape are defined in the `CATEGORIES` dictionary, which maps each category name to its filter value. The _Istituzioni_ category is left out, as it contains the parliamentary speeches.
 
-The function `_scrape_category` (listing @code:scrape_category) scrapes a single category. It requests the #pm page with the category filter and the page number (many #pms have multiple pages of speeches) as query parameters, and parses the HTML with the Python library _BeautifulSoup_ #footnote[Beautiful Soup is a library that makes it easy to scrape information from web pages. It sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree. Source: #link("https://pypi.org/project/beautifulsoup4/")]. The resulting page contains, among the usual elements such as header, footer, and menus, a list of links that point to speeches #footnote[An example of the HTML can be seen in appendix @appx:list_of_schede]. The code iterates through all list elements `<li>`, extracting the absolute ULRs for the ones pointing to a speech. This process is repeated for each successive page. A pause of half a second between requests avoids overloading the server. A the end of this process, a list containing all URLs for a specific category (of a specific #pm) is returned.
+The function `_scrape_category` (listing @code:scrape_category) scrapes a single category. It requests the #pm page with the category filter and the page number (many #pms have multiple pages of speeches) as query parameters, and parses the HTML with the Python library _BeautifulSoup_ #footnote[Beautiful Soup is a library that makes it easy to scrape information from web pages. It sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree. Source: #link("https://pypi.org/project/beautifulsoup4/")]. The resulting page contains, among the usual elements such as header, footer, and menus, a list of links that point to speeches #footnote[An example of the HTML can be seen in appendix @appx:list_of_schede]. The code iterates through all list elements `<li>`, extracting the absolute ULRs for the ones pointing to a speech. This process is repeated for each successive page. A pause of half a second between requests avoids overloading the server. At the end of this process, a list containing all URLs for a specific category (of a specific #pm) is returned.
 
 #figure(
   sourcecode(
@@ -899,7 +899,7 @@ Since the whole pipeline is fully automatic, it is necessary to verify the corre
 Spot-checks were performed during scraping, but manually verifying every speech would defeat the purpose of automating the process in the first place. Among many possible methods, I decided to use an N-gram centroid-based one  @witten_reassessing_2008 @jockers_comparative_2010 @h_spoken_2024, since it is relatively straightforward and does not require a lot of resources.\
 The idea is as follows: if I embed all speeches into vectors, I can compute the centroid #footnote[In mathematics and physics, the centroid, also known as geometric center or center of figure, of a plane figure or solid figure is the mean position of all the points in the figure. The same definition extends to any object in n-dimensional Euclidean space @protter_college_1970.] of all speeches of a specific #pm (their vectorial center). Then, for each speech, I can calculate the cosine similarity #footnote[Cosine similarity is the cosine of the angle between two vectors, which in turn measures how similar the two vectors are.] between the speech embedding and the centroid. By doing so, I can compute a degree of similarity between the speeches of a #pm in the vector space, assessing whether a speech adheres to their style or not (hence, whether the speech was authored by that specific #pm). Each speech is graded with a degree of self-similarity (from zero to one), which represents how much that speech resembles the #pm's corpus. The mean similarity for a #pm corpus is calculated by averaging all self-similarity values. I flagged the bottom 10% of speeches as "below threshold". Results are shown in table @tab:outlier_results. De Gasperi was included as a baseline, since their corpus was not scraped. 
 
-We can see that the corpus quality is solid, with the vast majority of #pms' corpora above baseline. Nonetheless, I manually checked all 567 speeches under threshold: I discarded 118 speeches, moving them to the directory `~/crossdem/datasets/pms_discarded/`. Then, I cleaned all remaining speeches by removing from each of them three strings that appear often throughout the dataset and are just noise, namely:
+We can see that the corpus quality is solid, with the vast majority of #pms' corpora above baseline. Nonetheless, I manually checked all 567 speeches under threshold: I discarded 117 speeches, moving them to the directory `~/crossdem/datasets/pms_discarded/`. Then, I cleaned all remaining speeches by removing from each of them three strings that appear often throughout the dataset and are just noise, namely:
 
 + _"..."_
 + _"Sottotitoli a cura di QTSS"_
@@ -922,12 +922,12 @@ else if calc.rem(row, 2) == 0 { rgb("#B5001B33") }
 else { white }
     },
 table.hline(stroke: 0.5pt),
-text(fill:white)[*PM*], text(fill:white)[*Above Threshold (%)*], text(fill:white)[*$frac("# Below Treshold","# Speeches")$*], text(fill:white)[*Mean Similarity*],
+text(fill:white)[*PM*], text(fill:white)[*Above Threshold (%)*], text(fill:white)[*$frac("# Below Threshold","# Speeches")$*], text(fill:white)[*Mean Similarity*],
     [De Gasperi], [86.7], [63/473], [0.67],
     [Fanfani], [95.2], [1/21], [0.70],
     [Leone], [83.3], [1/6], [0.63],
     [Rumor], [100.0], [0/4], [0.89],
-    [Andreotti], [93.6], [21/327], [0.80],
+    [Andreotti], [93.6], [21/400], [0.80],
     [Cossiga], [88.2], [21/178], [0.73],
     [Forlani], [92.3], [5/65], [0.75],
     [Spadolini], [91.8], [8/97], [0.75],
@@ -969,7 +969,7 @@ I compared eight different models, and I chose the best one based on the Cohen's
 Table @tab:llm_best shows the best models for each metric (Cohen's kappa, accuracy, macro precision, macro recall, and macro F1)#footnote[Macro-averaged metrics are computed by calculating the metric separately for each class and then taking the unweighted mean across classes, so that every class contributes equally regardless of its support; this is preferable to micro or weighted averages when the classes are imbalanced, as in the crossdem validation set, where majority classes (e.g., _low hate speech_) would otherwise dominate the score and mask poor performance on minority classes (e.g., _high hate speech_).]. We can see that `gemma4:e4b` performs the best in most situations, and even when it does not (table @tab:gemmae4b_vs_all) it is outperformed by models of similar size by around 5% (on five metrics out of twenty), and by bigger models by around 13% (on two metrics out of twenty). To see all values of all metrics for all models refer to the table in appendix @appx:llm_comparison. \
 It is interesting to note how Qwen 2.5, despite being almost two years older than both Qwen 3.5 and Gemma 4 (released respectively in February and in April 2026), outperforms them both for _negativity_ in three metrics: Cohen's Kappa, accuracy and macro F1.
 
-Four models fully fit in the VRAM of my GPU: `qwen2.5:7b-instruct-q4_K_M`, `mistral:7b-instruct-v0.3-q4_K_M`, `qwen3.5:4b`, and `gemma4:e4b`. The other models get split between GPU and CPU, making them unsuitable for this project since it slows down token generation considerably: with 6,038 speeches to classify I chose to use only models that can fully run in GPU.
+Four models fully fit in the VRAM of my GPU: `qwen2.5:7b-instruct-q4_K_M`, `mistral:7b-instruct-v0.3-q4_K_M`, `qwen3.5:4b`, and `gemma4:e4b`. The other models get split between GPU and CPU, making them unsuitable for this project since it slows down token generation considerably: with 5,921 speeches to classify I chose to use only models that can fully run in GPU.
 
 #v(1em)
 
@@ -1086,7 +1086,7 @@ text(fill:white)[*Label*], text(fill:white)[*Metric*], text(fill:white)[*`gemma4
     [Aggressiveness], [Macro recall], [0.726], [0.736], [1.38%], [`qwen3.5:4b`], [Yes],
 table.hline(stroke: 0.5pt),
   ),
-caption: [Model `gemma4:e4b` compared on all the metrics where it does not perform the best. The difference is around around 5% with models that fit in VRAM, and around 13% with models too big to fit. On every single other metric, `gemma4:e4b` beats all other candidate models.],
+caption: [Model `gemma4:e4b` compared on all the metrics where it does not perform the best. The difference is around 5% with models that fit in VRAM, and around 13% with models too big to fit. On every single other metric, `gemma4:e4b` beats all other candidate models.],
 ) <tab:gemmae4b_vs_all>
 ]
 
@@ -1100,7 +1100,7 @@ Each speech is labelled on four dimensions: hate speech, negativity, aggressiven
 
 The four dimensions are split between two groups, each with its own system prompt (full prompts can be seen in appendix @appx:classify_prompts): one prompt for hate speech and target (fed to the model with thinking enabled), and one prompt for negativity and aggressiveness (fed to the model with thinking disabled). The prompts are in Italian, each containing the definition of the two dimensions they consider, as well as three examples for each level of the dimension: hate speech, negativity, and aggressiveness each have three examples for _low_, three examples for _mid_, and three examples for _high_, and target has three examples for each target group. The model is instructed to answer only with a JSON object with the provided formatting. The speech is passed as the user message.
 
-The function `classify_one` (@code:classify_one) feeds a speech to the model and returns the labels. The output is constrained by a JSON schema (@code:classify_config) that restricts each field to its allowed values. The temperature is kept to zero, and the context window is 35,000 tokens, which is big enough to contain both the longest speech in the corpus as well as the tokens needed by the _"thinking"_ phase at the same time. I chose this size after some manual testing: the default context window of 4,096 tokens requires 4,262 MiB of VRAM, and the model do not converge to an answer since it runs out of tokens during the thinking phase. The prompt is 1,449 tokens long, and the longest speech in the corpus is 20,196 tokens long (tokenization done with Spacy). A context window that includes both, plus a 20% buffer, would need to be 24,226 tokens wide. With a context window size of 27,000 tokens, the model requires 4,556 MiB of VRAM and does not converge to an answer, so I increased the context window to 30,000 tokens, which requires 4,596 MiB of VRAM and affords enough room for the model to finally produce an output. Since the increase in VRAM is negligible, I decided to use a context window of 35,000 tokens, which requires 4,662 MiB of VRAM and, of course, affords the model enough room to converge to an answer.  
+The function `classify_one` (@code:classify_one) feeds a speech to the model and returns the labels. The output is constrained by a JSON schema (@code:classify_config) that restricts each field to its allowed values. The temperature is kept to zero, and the context window is 35,000 tokens, which is big enough to contain both the longest speech in the corpus as well as the tokens needed by the _"thinking"_ phase at the same time. I chose this size after some manual testing: the default context window of 4,096 tokens requires 4,262 MiB of VRAM, and the model do not converge to an answer since it runs out of tokens during the thinking phase. The prompt is 1,449 tokens long, and the longest speech in the corpus is 20,196 tokens long (tokenization done with Spacy). A context window that includes both, plus a 20% buffer, would need to be 25,974 tokens wide. With a context window size of 27,000 tokens, the model requires 4,556 MiB of VRAM and does not converge to an answer, so I increased the context window to 30,000 tokens, which requires 4,596 MiB of VRAM and affords enough room for the model to finally produce an output. Since the increase in VRAM is negligible, I decided to use a context window of 35,000 tokens, which requires 4,662 MiB of VRAM and, of course, affords the model enough room to converge to an answer.  
 
 The number of generated tokens is unlimited. The response is parsed as JSON and its values are checked against the allowed ones. If the call or the check fails, the call to Ollama is retried up to three times. The wrappers `classify_think` and `classify_nothink` call the classification function with the appropriate parameters.
 
@@ -1177,7 +1177,7 @@ def classify_think(text):
 
 The classification is run in two passes over the whole corpus, one per prompt, by `run_pass` (@code:run_pass) which processes the CSV files of the speeches of each #pm, read with `csv.DictReader`. For each row (all files have only one row), the function `needs_fn` checks whether any label is missing. If so, and if the row has text, the speech is classified and the row is updated with the labels. The file is rewritten only after all its rows have been processed, and only if at least one row has changed. 
 
-Each pass uses a single reasoning mode for the whole corpus, instead of switching modes once per speech #footnote[This is not necessary if you don't switch models  every time (e.g., between `gemma4:e4b` and `qwen3.5:4b`), which I originally intended to do. Model switching has a lot of overhead, requiring (on my machine) around twenty seconds.]. A speech with all four labels is skipped by both passes, and a speech for which all the retries fail is left unlabelled. The script can therefore be interrupted and run again, and it only fills in what is missing. In the end, all speeches were classified one the first try.
+Each pass uses a single reasoning mode for the whole corpus, instead of switching modes once per speech #footnote[This is not necessary if you don't switch models  every time (e.g., between `gemma4:e4b` and `qwen3.5:4b`), which I originally intended to do. Model switching has a lot of overhead, requiring (on my machine) around twenty seconds.]. A speech with all four labels is skipped by both passes, and a speech for which all the retries fail is left unlabelled. The script can therefore be interrupted and run again, and it only fills in what is missing. In the end, all speeches were classified on the first try.
 
 #figure(
   sourcecode(
