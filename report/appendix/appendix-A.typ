@@ -3,13 +3,26 @@
 #import "../config/thesis-config.typ": *
 
 #set page(margin: 2.5cm)
+#set heading(numbering: "A.1")
+
+#show heading.where(level: 2): it => {
+  v(1.3em)
+  align(left,
+    stack(
+      dir: ltr,
+      spacing: 1.5em,
+      text(size: 1.3em, font: "EB Garamond", weight: "light", features: (onum: 1, liga: 1))[#counter(heading).display(it.numbering)],
+      text(size: 1.3em, weight: "light")[#smallcaps(it.body)],
+    ))
+  v(0.5em)
+}
+
+#set figure(numbering: num => numbering("A.1", counter(heading).get().first(), num))
+
 #counter(heading).update(0)
-#pagebreak(to:"even")
+#pagebreak(to: "even")
 
-#heading(level: 1, numbering: "A", outlined: true)[
-  Appendix
-] <sec:appendix_a>
-
+#heading(level: 1, outlined: true)[Appendix] <sec:appendix_a>
 
 #show figure: set block(breakable: true)
 
